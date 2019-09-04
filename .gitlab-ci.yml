@@ -18,7 +18,7 @@ before_script:
   - echo "$SSH" | tr -d '\r' > ~/.ssh/id_rsa
   - chmod 600 ~/.ssh/id_rsa
   - ssh-keyscan -H 'github.com' >> ~/.ssh/known_hosts
-  - git remote set-url origin https://$GIT_CI_USER:$GIT_CI_PASS@gitlab.com/$CI_PROJECT_PATH.git
+  - git remote set-url origin https://"$GIT_CI_USER:$GIT_CI_PASS"@gitlab.com/$CI_PROJECT_PATH.git
   #- git remote set-url origin git@gitlab.com:$CI_PROJECT_PATH.git
   - git config --global user.email '$GITLAB_USER_EMAIL'
   - git config --global user.name '$GITLAB_USER_LOGIN'
@@ -27,7 +27,7 @@ after_script:
   - echo "After script section"
   - bash -c "ls -lha '$CI_PROJECT_DIR'/data/"
   - git checkout -B master
-  - git add data/**.list
+  - git add data/
   - git commit -m '[skip ci] commit from CI runner'
   - git push origin master
 
