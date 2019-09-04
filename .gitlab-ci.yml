@@ -24,14 +24,14 @@ before_script:
   - chmod 600 ~/.ssh/id_rsa
   - ssh-keyscan -H 'github.com' >> ~/.ssh/known_hosts
   #- git remote set-url origin https://$GITLAB_USER_LOGIN:$CI_DEPLOY_PASSWORD@gitlab.com/$CI_PROJECT_PATH.git
-  - git remote set-url origin git@gitlab.com:$CI_PROJECT_PATH.git
+  #- git remote set-url origin git@gitlab.com:$CI_PROJECT_PATH.git
   #- git config --global user.email "$GITLAB_USER_EMAIL"
   - git config --global user.email "3728965-spirillen@users.noreply.gitlab.com"
   - git config --global user.name "$GITLAB_USER_LOGIN"
 
 after_script:
   - echo "After script section"
-  - bash -c "ls -lh /data/*.list"
+  - bash -c "ls -lh /data/*"
   #- git config --global user.email "3728965-spirillen@users.noreply.gitlab.com"
   #- git config --global user.name "$GITLAB_USER_LOGIN"
   
@@ -60,8 +60,9 @@ deploy1:
   stage: deploy
   script:
     - echo "Do your deploy here"
-    - git checkout -B master
-    - git add data/
+    #- git checkout -B master
+    - git remote set-url origin https://spirillen:$SSH@gitlab.com/$CI_PROJECT_PATH.git
+    - git add .
     - git commit -m '[skip ci] commit from CI runner'
     - git push origin master
   artifacts:
