@@ -27,7 +27,7 @@ before_script:
   #- echo "$id_rsa" | tr -d '\r' > ~/.ssh/id_rsa
   #- chmod 600 ~/.ssh/id_rsa
   #- ssh-keyscan -H 'github.com' >> ~/.ssh/known_hosts
-  - git config --global user.email "3728965-spirillen@users.noreply.gitlab.com"
+  #- git config --global user.email "3728965-spirillen@users.noreply.gitlab.com"
   #- git config --global user.name "$GITLAB_USER_LOGIN"
   - git config --global user.name "Gitlab-CI"
 

@@ -28,9 +28,17 @@ printf "Imported StevenBlack\n"
 ${WGET} -qO- 'http://someonewhocares.org/hosts/hosts' | grep '^127\.0\.0\.1' | cut -d' ' -f2 | grep -v '127\.0\.0\.1' | dos2unix | sort -u > data/someonewhocares/domain.list
 printf "Imported someonewhocares\n"
 
-if [ ! -d data/fademind_extras/ ]
+if [ ! -d data/fademind_add_risk/ ]
 then
-	mkdir -p 'data/fademind_extras/'
+	mkdir -p 'data/fademind_add_risk/'
 fi
-${WGET} wget -qO- "https://github.com/FadeMind/hosts.extras/raw/master/add.Risk/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_extras/domain.list
-printf "Imported FadeMind/hosts.extras\n"
+${WGET} wget -qO- "https://github.com/FadeMind/hosts.extras/raw/master/add.Risk/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_add_risk/domain.list
+printf "Imported FadeMind add.Risk\n"
+
+if [ ! -d data/fademind_add_spam/ ]
+then
+	mkdir -p 'data/fademind_add_spam/'
+	touch 'data/fademind_add_spam/.gitkeep'
+fi
+
+${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/add.Spam/hosts" |  | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_add_spam/domain.list
