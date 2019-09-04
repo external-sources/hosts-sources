@@ -41,7 +41,12 @@ after_script:
   #- bash -c "ls -lh /data/*"
   #- git config --global user.email "3728965-spirillen@users.noreply.gitlab.com"
   #- git config --global user.name "$GITLAB_USER_LOGIN"
-  
+  - git remote set-url origin https://spirillen:$SSH@gitlab.com/$CI_PROJECT_PATH.git
+  - git status
+  - git add .
+  - git status
+  - git commit -m '[skip ci] commit from CI runner'
+  - git push origin master
 
 build:
   #parallel: 3
@@ -68,12 +73,7 @@ deploy:
   script:
     - echo "Do your deploy here"
     #- git checkout -B master
-    - git remote set-url origin https://spirillen:$SSH@gitlab.com/$CI_PROJECT_PATH.git
-    - git status
-    - git add .
-    - git status
-    - git commit -m '[skip ci] commit from CI runner'
-    - git push origin master
+
 #  artifacts:
 #    paths:
 #    - data/
