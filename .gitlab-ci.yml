@@ -14,6 +14,8 @@ variables:
 
 before_script:
   - echo "Before script section"
+  - echo $CI_BUILDS_DIR
+  - echo $CI_PROJECT_DIR
   #- echo "$GITLAB_USER_EMAIL"
   #- 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
   - mkdir -p ~/.ssh
@@ -31,7 +33,7 @@ before_script:
 
 after_script:
   - echo "After script section"
-  - bash -c "ls -lh /data/*"
+  #- bash -c "ls -lh /data/*"
   #- git config --global user.email "3728965-spirillen@users.noreply.gitlab.com"
   #- git config --global user.name "$GITLAB_USER_LOGIN"
   
