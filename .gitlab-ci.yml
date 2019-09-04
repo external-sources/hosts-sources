@@ -19,7 +19,7 @@ before_script:
   - mkdir -p ~/.ssh
   - eval $(ssh-agent -s)
   - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
-  - ssh-add <(echo "$id_rsa")
+  #- ssh-add <(echo "$id_rsa")
   - echo "$id_rsa" | tr -d '\r' > ~/.ssh/id_rsa
   - chmod 600 ~/.ssh/id_rsa
   - ssh-keyscan -H 'github.com' >> ~/.ssh/known_hosts
@@ -31,18 +31,16 @@ before_script:
 
 after_script:
   - echo "After script section"
-  - bash -c "ls -lha '$CI_PROJECT_DIR'/data/*.list"
+  - bash -c "ls -lh /data/*.list"
   #- git config --global user.email "3728965-spirillen@users.noreply.gitlab.com"
   #- git config --global user.name "$GITLAB_USER_LOGIN"
-  - git checkout -B master
-  - git add data/
-  - git commit -m '[skip ci] commit from CI runner'
-  - git push origin master
+  
 
 build1:
   #parallel: 3
   stage: build
   script:
+    - echo "Building"
     - git checkout -B master
     - bash scripts/import.sh
 
@@ -62,6 +60,10 @@ deploy1:
   stage: deploy
   script:
     - echo "Do your deploy here"
+    - git checkout -B master
+    - git add data/
+    - git commit -m '[skip ci] commit from CI runner'
+    - git push origin master
   artifacts:
     paths:
     - data/
