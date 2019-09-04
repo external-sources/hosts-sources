@@ -5,6 +5,9 @@
 #image: ubuntu:disco
 image: registry.gitlab.com/my-privacy-dns/ci-runner
 
+variables:
+  GIT_DEPTH: 10
+
 #cache:
 #  paths:
 #    - data/*.list
@@ -17,8 +20,8 @@ before_script:
   - ssh-keyscan -H 'github.com' >> ~/.ssh/known_hosts
   #- git remote set-url origin https://$GIT_CI_USER:$GIT_CI_PASS@gitlab.com/$CI_PROJECT_PATH.git
   - git remote set-url origin git@gitlab.com:$CI_PROJECT_PATH.git
-  #- git config --global user.email 'your@email.com'
-  #- git config --global user.name 'yourname'
+  - git config --global user.email '$GITLAB_USER_EMAIL'
+  - git config --global user.name '$GITLAB_USER_LOGIN'
 
 after_script:
   - echo "After script section"
@@ -29,22 +32,22 @@ after_script:
   - git push --follow-tags origin master
 
 build1:
-  parallel: 3
+  #parallel: 3
   stage: build
   script:
     - bash scripts/import.sh
 
-test1:
-  stage: test
-  script:
-    - echo "Do a test here"
-    - echo "For example run a test suite"
+#test1:
+#  stage: test
+#  script:
+#    - echo "Do a test here"
+#    - echo "For example run a test suite"
 
-test2:
-  stage: test
-  script:
-    - echo "Do another parallel test here"
-    - echo "For example run a lint test"
+#test2:
+#  stage: test
+#  script:
+#    - echo "Do another parallel test here"
+#    - echo "For example run a lint test"
 
 deploy1:
   stage: deploy
