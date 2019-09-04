@@ -41,4 +41,5 @@ then
 	touch 'data/fademind_add_spam/.gitkeep'
 fi
 
-${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/add.Spam/hosts" |  | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_add_spam/domain.list
+${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/add.Spam/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_add_spam/domain.list
+printf "Imported FadeMind add.Spam\n"
