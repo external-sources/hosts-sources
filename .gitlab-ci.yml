@@ -8,6 +8,10 @@ image: registry.gitlab.com/my-privacy-dns/ci-runner
 variables:
   GIT_DEPTH: 10
 
+stages:
+  - build
+  - deploy
+
 #cache:
 #  paths:
 #    - data/*.list
@@ -70,6 +74,6 @@ deploy:
     - git status
     - git commit -m '[skip ci] commit from CI runner'
     - git push origin master
-  artifacts:
-    paths:
-    - data/
+#  artifacts:
+#    paths:
+#    - data/
