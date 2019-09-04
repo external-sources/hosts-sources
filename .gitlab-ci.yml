@@ -12,13 +12,13 @@ stages:
   - build
   - deploy
 
-#cache:
-#  paths:
-#    - data/*.list
+cache:
+  paths:
+    - data/*.list
 
 before_script:
   - echo "Before script section"
-  - echo "PWD $pwd"
+  - echo "PWD " $pwd
   - echo $CI_BUILDS_DIR
   - echo $CI_PROJECT_DIR
   #- echo "$GITLAB_USER_EMAIL"
@@ -46,14 +46,14 @@ after_script:
   - git add .
   - git status
   - git commit -m '[skip ci] commit from CI runner'
-  - git push origin master
+  - git push -u origin master
 
 build:
   #parallel: 3
   stage: build
   script:
     - echo "Building"
-    #- git checkout -B master
+    - git checkout -B master
     - bash scripts/import.sh
 
 #test1:
