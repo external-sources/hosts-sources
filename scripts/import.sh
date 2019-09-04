@@ -43,3 +43,12 @@ fi
 
 ${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/add.Spam/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_add_spam/domain.list
 printf "Imported FadeMind add.Spam\n"
+
+if [ ! -d data/fademind_antipopads/ ]
+then
+	mkdir -p 'data/fademind_antipopads/'
+	touch 'data/fademind_antipopads/.gitkeep'
+fi
+
+${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/antipopads/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_antipopads/domain.list
+printf "Imported FadeMind AntiPopAds\n"
