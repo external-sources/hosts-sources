@@ -29,7 +29,7 @@ after_script:
   - git checkout -B master
   - git add data/**.list
   - git commit -m '[skip ci] commit from CI runner'
-  - git push --follow-tags origin master
+  - git push origin master
 
 build1:
   #parallel: 3
