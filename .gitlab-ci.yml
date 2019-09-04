@@ -14,7 +14,7 @@ variables:
 
 before_script:
   - echo "Before script section"
-  - echo PWD: $pwd
+  - echo "PWD: $pwd"
   - echo $CI_BUILDS_DIR
   - echo $CI_PROJECT_DIR
   #- echo "$GITLAB_USER_EMAIL"
