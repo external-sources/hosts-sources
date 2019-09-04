@@ -52,3 +52,12 @@ fi
 
 ${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/antipopads/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_antipopads/domain.list
 printf "Imported FadeMind AntiPopAds\n"
+
+if [ ! -d data/fademind_blocklists-facebook/ ]
+then
+	mkdir -p 'data/fademind_blocklists-facebook/'
+	touch 'data/fademind_blocklists-facebook/.gitkeep'
+fi
+
+${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/blocklists-facebook/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_blocklists-facebook/domain.list
+printf "Imported FadeMind blocklists-facebook\n"
