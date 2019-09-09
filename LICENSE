@@ -1,0 +1,15 @@
+--2019-09-09 17:25:40--  https://github.com/xorcan/hosts/blob/master/LICENSE
+Resolving github.com (github.com)... 192.30.253.112
+Connecting to github.com (github.com)|192.30.253.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'LICENSE.1'
+
+     0K .......... .......... .......... .......... .......... 1.94M
+    50K .......... .......... .......... .......... .......... 3.83M
+   100K .......... .......... .......... .......... .......... 88.3M
+   150K .......... .......... .......... .......... .......... 4.09M
+   200K .......... .......... .........                        87.9M=0.05s
+
+2019-09-09 17:25:40 (4.41 MB/s) - 'LICENSE.1' saved [234589]
+
