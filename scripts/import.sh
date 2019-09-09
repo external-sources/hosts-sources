@@ -28,66 +28,29 @@ printf "Imported StevenBlack\n"
 ${WGET} -qO- 'http://someonewhocares.org/hosts/hosts' | grep '^127\.0\.0\.1' | cut -d' ' -f2 | grep -v '127\.0\.0\.1' | dos2unix | sort -u > data/someonewhocares/domain.list
 printf "Imported someonewhocares\n"
 
-if [ ! -d data/fademind_add_risk/ ]
-then
-	mkdir -p 'data/fademind_add_risk/'
-fi
 ${WGET} wget -qO- "https://github.com/FadeMind/hosts.extras/raw/master/add.Risk/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_add_risk/domain.list
 printf "Imported FadeMind add.Risk\n"
-
-if [ ! -d data/fademind_add_spam/ ]
-then
-	mkdir -p 'data/fademind_add_spam/'
-	touch 'data/fademind_add_spam/.gitkeep'
-fi
 
 ${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/add.Spam/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_add_spam/domain.list
 printf "Imported FadeMind add.Spam\n"
 
-if [ ! -d data/fademind_antipopads/ ]
-then
-	mkdir -p 'data/fademind_antipopads/'
-	touch 'data/fademind_antipopads/.gitkeep'
-fi
-
 ${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/antipopads/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_antipopads/domain.list
 printf "Imported FadeMind AntiPopAds\n"
-
-if [ ! -d data/fademind_blocklists-facebook/ ]
-then
-	mkdir -p 'data/fademind_blocklists-facebook/'
-	touch 'data/fademind_blocklists-facebook/.gitkeep'
-fi
 
 ${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/blocklists-facebook/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_blocklists-facebook/domain.list
 printf "Imported FadeMind blocklists-facebook\n"
 
-if [ ! -d data/CoinBlockerLists/ ]
-then
-	mkdir -p 'data/CoinBlockerLists/'
-	touch 'data/CoinBlockerLists/.gitkeep'
-fi
-
 ${WGET} -qO- "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt" | sort -u > data/CoinBlockerLists/domain.list
 printf "Imported CoinBlockerLists\n"
 
-
-if [ ! -d data/xorcan/ ]
-then
-	mkdir -p 'data/xorcan/'
-	touch 'data/xorcan/.gitkeep'
-fi
-
 ${WGET} -qO- "https://github.com/xorcan/hosts/raw/master/xhosts.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/xorcan/domain.list
-
-
 printf "Imported xorcan\n"
-
-if [ ! -d data/mvps/ ]
-then
-	mkdir -p 'data/mvps/'
-	touch 'data/mvps/.gitkeep'
-fi
 
 ${WGET} -qO- "http://winhelp2002.mvps.org/hosts.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/mvps/domain.list
 printf "Imported mvps\n"
+
+${WGET} -qO- "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/windowsspyblocker/domain.list
+printf "Imported WindowsSpyBlocker\n"
+
+${WGET} -qO- "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/windowsspyblocker_extra/domain.list
+printf "Imported WindowsSpyBlocker Extra\n"
