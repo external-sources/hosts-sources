@@ -81,3 +81,10 @@ printf "Imported suspiciousdomains Medium\n"
 
 ${WGET} -qO- "https://www.dshield.org/feeds/suspiciousdomains_High.txt" | awk '/^#/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/suspiciousdomains_high/domain.list
 printf "Imported suspiciousdomains High\n"
+
+
+${WGET} -qO- "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt" | awk '/^#/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/notrack-blocklist/domain.list
+printf "Imported notrack-blocklist\n"
+
+${WGET} -qO- "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt" | awk '/^#/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/notrack-malware/domain.list
+printf "Imported notrack-malware\n"
