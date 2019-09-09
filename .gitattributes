@@ -1,0 +1,11 @@
+*	text=auto
+# Normalize hosts files to CRLF
+hosts text eol=crlf
+# Normalize special cases to LF
+*.txt text eol=lf
+*.ini text eol=lf
+*.csv text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+*.yml text eol=lf
+domain.list text eol=lf
