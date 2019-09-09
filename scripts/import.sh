@@ -60,8 +60,6 @@ then
 fi
 
 ${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/blocklists-facebook/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_blocklists-facebook/domain.list
-${WGET} -q "https://github.com/FadeMind/hosts.extras/blob/master/README.md" -o data/fademind_blocklists-facebook/README.md
-${WGET} -q "" -o data/fademind_blocklists-facebook/LICENSE
 printf "Imported FadeMind blocklists-facebook\n"
 
 if [ ! -d data/CoinBlockerLists/ ]
@@ -71,8 +69,6 @@ then
 fi
 
 ${WGET} -qO- "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt" | sort -u > data/CoinBlockerLists/domain.list
-${WGET} -qO- "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/LICENSE" -o data/CoinBlockerLists/LICENSE
-${WGET} -qO- "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/README.md" data/CoinBlockerLists/README.md
 printf "Imported CoinBlockerLists\n"
 
 
@@ -83,8 +79,7 @@ then
 fi
 
 ${WGET} -qO- "https://github.com/xorcan/hosts/raw/master/xhosts.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/xorcan/domain.list
-${WGET} -qO- "https://github.com/xorcan/hosts/raw/master/LICENSE" -o data/xorcan/LICENSE
-${WGET} -qO- "https://github.com/xorcan/hosts/raw/master/README-EN.md" -o data/xorcan/README.md
+
 
 printf "Imported xorcan\n"
 
@@ -95,5 +90,4 @@ then
 fi
 
 ${WGET} -qO- "http://winhelp2002.mvps.org/hosts.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/mvps/domain.list
-${WGET} -qO- "http://creativecommons.org/licenses/by-nc-sa/3.0/" -o data/mvps/LICENSE
 printf "Imported mvps\n"
