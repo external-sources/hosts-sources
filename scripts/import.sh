@@ -70,5 +70,6 @@ printf "Imported dg-ads\n"
 ${WGET} -qO- "https://www.malwaredomainlist.com/hostslist/hosts.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/malwaredomainlist/domain.list
 printf "Imported malwaredomainlist\n"
 
-${WGET} -qO- ""
-printf "Imported 
+${WGET} -q "https://www.joewein.net/dl/bl/dom-bl-base.txt" -O data/joewein/domain.list
+printf "Imported joewein\n"
+
