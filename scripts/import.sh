@@ -61,3 +61,12 @@ fi
 
 ${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/blocklists-facebook/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_blocklists-facebook/domain.list
 printf "Imported FadeMind blocklists-facebook\n"
+
+if [ ! -d data/CoinBlockerLists/ ]
+then
+	mkdir -p 'data/CoinBlockerLists/'
+	touch 'data/CoinBlockerLists/.gitkeep'
+fi
+
+${WGET} -qO- "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt" | sort -u > data/CoinBlockerLists/domain.list
+printf "Imported CoinBlockerLists\n"

@@ -55,19 +55,27 @@ build:
 #  script:
 #    - echo "Do a test here"
 #    - echo "For example run a test suite"
+#  only:
+#   - merge_requests
 
 #test2:
 #  stage: test
 #  script:
 #    - echo "Do another parallel test here"
 #    - echo "For example run a lint test"
+#  only:
+#   - merge_requests
 
 deploy:
   stage: deploy
   script:
     - echo "Do your deploy here"
     #- git checkout -B master
+  only:
+  - mater
 
   artifacts:
     paths:
     - data/
+  only:
+  - master

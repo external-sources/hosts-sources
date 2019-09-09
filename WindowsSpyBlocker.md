@@ -8,3 +8,4 @@ https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/spy.txt
 
 ```shell
 curl -sS -L --compressed "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" | cut -d' ' -f2 | awk '/[a-z]$/{print $0}' >> {$curltemp,,}
+```
