@@ -56,3 +56,7 @@ ${WGET} -qO- "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/mast
 printf "Imported WindowsSpyBlocker Extra\n"
 
 ${WGET} -qO- 'https://urlhaus.abuse.ch/downloads/rpz/' | awk '/^;/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/urlhaus/domain.list
+printf "Imported urlhaus.abuse.ch\n"
+
+${WGET} -qO- "https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/mobileadtrackers/domain.list
+printf "Imported jawz101 MobileAdTrackers\n"
