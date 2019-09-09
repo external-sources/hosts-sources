@@ -73,3 +73,11 @@ printf "Imported malwaredomainlist\n"
 ${WGET} -q "https://www.joewein.net/dl/bl/dom-bl-base.txt" -O data/joewein/domain.list
 printf "Imported joewein\n"
 
+${WGET} -qO- "https://www.dshield.org/feeds/suspiciousdomains_Low.txt" | awk '/^#/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/suspiciousdomains_low/domain.list
+printf "Imported suspiciousdomains Low\n"
+
+${WGET} -qO- "https://www.dshield.org/feeds/suspiciousdomains_Medium.txt" | awk '/^#/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/suspiciousdomains_medium/domain.list
+printf "Imported suspiciousdomains Medium\n"
+
+${WGET} -qO- "https://www.dshield.org/feeds/suspiciousdomains_High.txt" | awk '/^#/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/suspiciousdomains_high/domain.list
+printf "Imported suspiciousdomains High\n"
