@@ -88,3 +88,16 @@ printf "Imported notrack-blocklist\n"
 
 ${WGET} -qO- "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt" | awk '/^#/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/notrack-malware/domain.list
 printf "Imported notrack-malware\n"
+
+printf "Downloading hosts-file.net....\n"
+	${WGET} -qO- "https://hosts-file.net/ad_servers.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_ad_servers/domain.list
+	${WGET} -qO- "https://hosts-file.net/emd.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_emd/domain.list
+	${WGET} -qO- "https://hosts-file.net/exp.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_exp/domain.list
+	${WGET} -qO- "https://hosts-file.net/fsa.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_fsa/domain.list
+	${WGET} -qO- "https://hosts-file.net/grm.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_grm/domain.list
+	${WGET} -qO- "https://hosts-file.net/hjk.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_hjk/domain.list
+	${WGET} -qO- "https://hosts-file.net/mmt.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_mmt/domain.list
+	${WGET} -qO- "https://hosts-file.net/psh.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_psh/domain.list
+	${WGET} -qO- "https://hosts-file.net/pup.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_pup/domain.list
+printf "PUuh.. done importing hosts-file.net....\n"
+
