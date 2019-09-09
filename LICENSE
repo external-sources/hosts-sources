@@ -1,6 +1,6 @@
 = License =
 
-{{{#!html
+```html
 <div class="license-overview clearfix" id="agpl-3-0">
   <div class="license-overview-heading">
     <h3 class="license-overview-name">
@@ -85,7 +85,7 @@
       </tbody></table>
   </div>
 </div>
-}}}
+```
 
 === GNU AFFERO GENERAL PUBLIC LICENSE
 
