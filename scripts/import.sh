@@ -70,3 +70,15 @@ fi
 
 ${WGET} -qO- "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt" | sort -u > data/CoinBlockerLists/domain.list
 printf "Imported CoinBlockerLists\n"
+
+
+if [ ! -d data/xorcan/ ]
+then
+	mkdir -p 'data/xorcan/'
+	touch 'data/xorcan/.gitkeep'
+	${WGET} 'https://raw.githubusercontent.com/xorcan/hosts/master/README-EN.md' -o README.md
+	${WGET} 'https://github.com/xorcan/hosts/blob/master/LICENSE' -o LICENSE
+fi
+
+${WGET} -qO- "https://github.com/xorcan/hosts/raw/master/xhosts.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/xorcan/domain.list
+printf "Imported FadeMind blocklists-facebook\n"
