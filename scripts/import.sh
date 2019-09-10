@@ -101,3 +101,5 @@ printf "Downloading hosts-file.net....\n"
 	${WGET} -qO- "https://hosts-file.net/pup.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_pup/domain.list
 printf "PUuh.. done importing hosts-file.net....\n"
 
+${WGET} -qO- https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt | awk '/^#/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/cedia/domain.list
+printf "Imported cedia\n"
