@@ -105,3 +105,16 @@ ${WGET} -qO- https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt | a
 printf "Imported cedia\n"
 
 ${WGET} -qO- https://mirror1.malwaredomains.com/files/justdomains | sort | uniq -o date/malwaredomains/domain.list
+
+${WGET} -qO- https://blocklist.site/app/dl/ads | sort | uniq -o data/blocklist_ads/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/fraud | sort | uniq -o data/blocklist_fraud/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/malware | sort | uniq -o data/blocklist_malware/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/phishing | sort | uniq -o data/blocklist_phising/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/ransomware | sort | uniq -o data/blocklist_ransomeware/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/redirect | sort | uniq -o data/blocklist_redirect/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/scam | sort | uniq -o data/blocklist_scam/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/spam | sort | uniq -o data/blocklist_spam/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/tracking | sort | uniq -o data/blocklist_tracking/domain.list
+
+${WGET} -qO- "https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4" | awk '/^#/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/BBcan177_MS-4/domain.list
+${WGET} -qO- "https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2" | awk '/^#/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/BBcan177_MS-2/domain.list
