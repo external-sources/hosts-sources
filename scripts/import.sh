@@ -118,3 +118,7 @@ ${WGET} -qO- https://blocklist.site/app/dl/tracking | sort | uniq -o data/blockl
 
 ${WGET} -qO- "https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4" | awk '/^#/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/BBcan177_MS-4/domain.list
 ${WGET} -qO- "https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2" | awk '/^#/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/BBcan177_MS-2/domain.list
+
+${WGET} -qO- "https://phishing.army/download/phishing_army_blocklist_extended.txt"| awk '/^#/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/phishing_army_blocklist_extended/domain.list
+
+${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts"| awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/badd_boyz_hosts/domain.list
