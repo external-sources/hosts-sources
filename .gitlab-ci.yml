@@ -42,7 +42,7 @@ after_script:
   - git add .
   - git add -f data/
   - git status
-  - git commit -m '[skip ci] commit from CI runner'
+  - git commit -S -m '[skip ci] commit from CI runner'
   - git push -u origin master
 
 build:
