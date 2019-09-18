@@ -34,6 +34,7 @@ before_script:
   #- git config --global user.name "Gitlab CI"
   - git config --global user.email "4593890-MypDNS@users.noreply.gitlab.com"
   - git config --global user.name "MypDNS"
+  - gpg -v --import <(echo "$GPG_PRIVATE_KEY")
 
 after_script:
   - echo "After script section"
