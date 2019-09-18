@@ -34,7 +34,6 @@ before_script:
   #- git config --global user.name "Gitlab CI"
   - git config --global user.email "4593890-MypDNS@users.noreply.gitlab.com"
   - git config --global user.name "MypDNS"
-  - gpg -v --import <(echo "$GPG_PRIVATE_KEY")
 
 after_script:
   - echo "After script section"
@@ -43,7 +42,7 @@ after_script:
   - git add .
   - git add -f data/
   - git status
-  - git commit -S -m '[skip ci] commit from CI runner'
+  - git commit -m '[skip ci] commit from CI runner'
   - git push -u origin master
 
 build:
