@@ -104,7 +104,7 @@ printf "PUuh.. done importing hosts-file.net....\n"
 ${WGET} -qO- https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt | awk '/^#/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/cedia/domain.list
 printf "Imported cedia\n"
 
-${WGET} -qO- https://mirror1.malwaredomains.com/files/justdomains | sort | uniq -u > date/malwaredomains/domain.list
+${WGET} -qO- https://mirror1.malwaredomains.com/files/justdomains | sort | uniq -u > data/malwaredomains/domain.list
 
 ${WGET} -qO- https://blocklist.site/app/dl/ads | sort | uniq -u > data/blocklist_ads/domain.list
 ${WGET} -qO- https://blocklist.site/app/dl/fraud | sort | uniq -u > data/blocklist_fraud/domain.list
