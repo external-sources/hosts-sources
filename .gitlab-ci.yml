@@ -33,13 +33,12 @@ before_script:
   #- git config --global user.email "git@gitlab.com"
   #- git config --global user.name "Gitlab CI"
   - git config --global user.email "4593890-MypDNS@users.noreply.gitlab.com"
-  - git config --global user.name "MypDNS CI"
+  - git config --global user.name "MypDNS"
 
 after_script:
   - echo "After script section"
   #- git remote set-url origin https://git:$DEPLOY_KEY@gitlab.com/$CI_PROJECT_PATH.git
-  - git remote set-url origin https://mypdns:$MypDNS-CI@gitlab.com/$CI_PROJECT_PATH.git
-  - git status
+  - git remote set-url origin https://mypdns:$MypDNS_CI@gitlab.com/$CI_PROJECT_PATH.git
   - git add .
   - git add -f data/
   - git status
