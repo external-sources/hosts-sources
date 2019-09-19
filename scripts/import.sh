@@ -19,46 +19,46 @@ PYTHON=`(which python3)`
 ${WGET} -qO- 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=one-line&showintro=0&mimetype=plaintext' | egrep -v '#' | tr , '\n' | sort -u > data/yoyo.org/domain.list
 printf "Imported yoyo\n"
 
-${WGET} -qO- 'https://ransomwaretracker.abuse.ch/feeds/csv/' | awk -F, '/^#/{ next }; { if ( $4 ~ /[a-z]/ ) printf("%s\n",$4) }' | sed -e 's/"//g' | sort -u > data/ransomware.abuse.ch/domain.list
+${WGET} -qO- 'https://ransomwaretracker.abuse.ch/feeds/csv/' | awk -F, '/^#/{ next }; { if ( $4 ~ /[a-z]/ ) printf("%s\n",tolower($4)) }' | sed -e 's/"//g' | sort -u > data/ransomware.abuse.ch/domain.list
 printf "Imported abuse.ch\n"
 
-${WGET} -qO- 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/StevenBlack/domain.list
+${WGET} -qO- 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/StevenBlack/domain.list
 printf "Imported StevenBlack\n"
 
-${WGET} -qO- 'http://someonewhocares.org/hosts/hosts' | grep -v '#' | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -i" }' | uniq -u > data/someonewhocares/domain.list
+${WGET} -qO- 'http://someonewhocares.org/hosts/hosts' | grep -v '#' | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/someonewhocares/domain.list
 printf "Imported someonewhocares\n"
 
-${WGET} wget -qO- "https://github.com/FadeMind/hosts.extras/raw/master/add.Risk/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_add_risk/domain.list
+${WGET} wget -qO- "https://github.com/FadeMind/hosts.extras/raw/master/add.Risk/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/fademind_add_risk/domain.list
 printf "Imported FadeMind add.Risk\n"
 
-${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/add.Spam/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_add_spam/domain.list
+${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/add.Spam/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/fademind_add_spam/domain.list
 printf "Imported FadeMind add.Spam\n"
 
-${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/antipopads/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_antipopads/domain.list
+${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/antipopads/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/fademind_antipopads/domain.list
 printf "Imported FadeMind AntiPopAds\n"
 
-${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/blocklists-facebook/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/fademind_blocklists-facebook/domain.list
+${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/blocklists-facebook/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/fademind_blocklists-facebook/domain.list
 printf "Imported FadeMind blocklists-facebook\n"
 
-${WGET} -qO- "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt" | sort -u > data/CoinBlockerLists/domain.list
+${WGET} -qO- "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt" | sort -u | uniq -u > data/CoinBlockerLists/domain.list
 printf "Imported CoinBlockerLists\n"
 
-${WGET} -qO- "https://github.com/xorcan/hosts/raw/master/xhosts.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/xorcan/domain.list
+${WGET} -qO- "https://github.com/xorcan/hosts/raw/master/xhosts.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/xorcan/domain.list
 printf "Imported xorcan\n"
 
-${WGET} -qO- "http://winhelp2002.mvps.org/hosts.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/mvps/domain.list
+${WGET} -qO- "http://winhelp2002.mvps.org/hosts.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/mvps/domain.list
 printf "Imported mvps\n"
 
-${WGET} -qO- "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/windowsspyblocker/domain.list
+${WGET} -qO- "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/windowsspyblocker/domain.list
 printf "Imported WindowsSpyBlocker\n"
 
-${WGET} -qO- "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/windowsspyblocker_extra/domain.list
+${WGET} -qO- "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/windowsspyblocker_extra/domain.list
 printf "Imported WindowsSpyBlocker Extra\n"
 
 ${WGET} -qO- 'https://urlhaus.abuse.ch/downloads/rpz/' | awk '/^;/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/urlhaus/domain.list
 printf "Imported urlhaus.abuse.ch\n"
 
-${WGET} -qO- "https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/mobileadtrackers/domain.list
+${WGET} -qO- "https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/mobileadtrackers/domain.list
 printf "Imported jawz101 MobileAdTrackers\n"
 
 ${WGET} -qO- "https://www.squidblacklist.org/downloads/dg-malicious.acl" | awk '/^#/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/dg-malicious/domain.list
@@ -67,7 +67,7 @@ printf "Imported dg-malicious\n"
 ${WGET} -qO- "https://www.squidblacklist.org/downloads/dg-ads.acl" | awk '/^#/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/dg-ads/domain.list
 printf "Imported dg-ads\n"
 
-${WGET} -qO- "https://www.malwaredomainlist.com/hostslist/hosts.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/malwaredomainlist/domain.list
+${WGET} -qO- "https://www.malwaredomainlist.com/hostslist/hosts.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/malwaredomainlist/domain.list
 printf "Imported malwaredomainlist\n"
 
 ${WGET} -q "https://www.joewein.net/dl/bl/dom-bl-base.txt" -O data/joewein/domain.list
@@ -90,15 +90,15 @@ ${WGET} -qO- "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-m
 printf "Imported notrack-malware\n"
 
 printf "Downloading hosts-file.net....\n"
-	${WGET} -qO- "https://hosts-file.net/ad_servers.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_ad_servers/domain.list
-	${WGET} -qO- "https://hosts-file.net/emd.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_emd/domain.list
-	${WGET} -qO- "https://hosts-file.net/exp.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_exp/domain.list
-	${WGET} -qO- "https://hosts-file.net/fsa.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_fsa/domain.list
-	${WGET} -qO- "https://hosts-file.net/grm.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_grm/domain.list
-	${WGET} -qO- "https://hosts-file.net/hjk.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_hjk/domain.list
-	${WGET} -qO- "https://hosts-file.net/mmt.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_mmt/domain.list
-	${WGET} -qO- "https://hosts-file.net/psh.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_psh/domain.list
-	${WGET} -qO- "https://hosts-file.net/pup.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/hphosts_pup/domain.list
+	${WGET} -qO- "https://hosts-file.net/ad_servers.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/hphosts_ad_servers/domain.list
+	${WGET} -qO- "https://hosts-file.net/emd.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/hphosts_emd/domain.list
+	${WGET} -qO- "https://hosts-file.net/exp.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/hphosts_exp/domain.list
+	${WGET} -qO- "https://hosts-file.net/fsa.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/hphosts_fsa/domain.list
+	${WGET} -qO- "https://hosts-file.net/grm.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/hphosts_grm/domain.list
+	${WGET} -qO- "https://hosts-file.net/hjk.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/hphosts_hjk/domain.list
+	${WGET} -qO- "https://hosts-file.net/mmt.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/hphosts_mmt/domain.list
+	${WGET} -qO- "https://hosts-file.net/psh.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/hphosts_psh/domain.list
+	${WGET} -qO- "https://hosts-file.net/pup.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/hphosts_pup/domain.list
 printf "PUuh.. done importing hosts-file.net....\n"
 
 ${WGET} -qO- https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt | awk '/^#/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/cedia/domain.list
@@ -121,5 +121,5 @@ ${WGET} -qO- "https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/r
 
 ${WGET} -qO- "https://phishing.army/download/phishing_army_blocklist_extended.txt"| awk '/^#/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/phishing_army_blocklist_extended/domain.list
 
-${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",$2) | "sort -u -i" }' > data/badd_boyz_hosts/domain.list
+${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > data/badd_boyz_hosts/domain.list
 ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list" | awk '/^#/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/the-big-list-of-hacked-malware-web-sites/domain.list
