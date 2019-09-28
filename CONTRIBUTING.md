@@ -21,3 +21,24 @@ workflow. It is also giving the project a searchable database for added domains
 for comment, by which we can't add in other ways, as all the lists needs to be 
 raw data; from which other scripts easily can work with, without first have to 
 run several cleanup processes.
+
+# GPG signed
+We require all submissions to be signed with a valid GPG key.
+
+Only exeption to this rule is the CI/CD bot
+
+## How do I sign with GPG
+If you no nothing about GPG keys I really suggest you search on 
+[duckduckgo](https://duckduckgo.com) for the best way to do it for the OS you 
+are using.
+
+However if you do have a GPG kay, add it to you submission profile add at a `-S`
+to `git commit -S -m "Some very cool enhangements"` and that's is. You can also 
+set this globally or pr git. Do a search on [duckduckgo](https://duckduckgo.com)
+to figure out the current way.
+
+# Writing files/lines
+- All files most end with a newline (\n)(LF) UTF-8.
+- All files have to be in universal UTF-8 style without BOM
+- Files containing `_windows_` in it's files most be incoded in `ISO-8859-1`
+  Latin1 and newlines shall end in (CRLF)
