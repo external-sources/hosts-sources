@@ -494,7 +494,6 @@
 2880.engine.mobileapptracking.com
 29627a66.api.splkmobile.com
 2968.engine.mobileapptracking.com
-2cf4.playfabapi.com
 2kpixel.quantserve.com
 2mdnsys.com
 3.redirect.appmetrica.yandex.com
@@ -712,7 +711,6 @@
 4283.content.swrve.com
 4294.api.swrve.com
 4294.content.swrve.com
-433f.playfabapi.com
 4361.api.swrve.com
 4361.content.swrve.com
 4370.api.swrve.com
@@ -782,7 +780,6 @@
 4771.api.swrve.com
 4771.content.swrve.com
 4984.engine.mobileapptracking.com
-4a24.playfabapi.com
 4dle.info
 4dsply.com
 4mads.com
@@ -904,7 +901,6 @@
 6688.eu-content.swrve.com
 6696.eu-api.swrve.com
 6696.eu-content.swrve.com
-687c.playfabapi.com
 707.bapi.adsafeprotected.com
 7093.bapi.adsafeprotected.com
 7150.engine.mobileapptracking.com
@@ -6058,6 +6054,7 @@ ext-inv-cdn.prod.cloud.ogury.io
 ext-notif.nuviad.com
 ext1-api.engageya.com
 ext1.engageya.com
+external.xx.fbcdn.net
 extmaps-api.yandex.net
 ey.c.appier.net
 eyeota-sync.dotomi.com
@@ -6544,6 +6541,7 @@ grace.shareaholic.com
 grade.market.yandex.ru
 grafana.appboy.com
 grafstat.ro
+graph.fbpigeon.com
 graphql.groovehq.com
 graphs.amung.us
 gredinatib.info
