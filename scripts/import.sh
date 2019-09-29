@@ -106,15 +106,15 @@ printf "Imported cedia\n"
 
 ${WGET} -qO- https://mirror1.malwaredomains.com/files/justdomains | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/malwaredomains/domain.list
 
-${WGET} -qO- https://blocklist.site/app/dl/ads | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_ads/domain.list
-${WGET} -qO- https://blocklist.site/app/dl/fraud | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_fraud/domain.list
-${WGET} -qO- https://blocklist.site/app/dl/malware | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_malware/domain.list
-${WGET} -qO- https://blocklist.site/app/dl/phishing | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_phising/domain.list
-${WGET} -qO- https://blocklist.site/app/dl/ransomware | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_ransomeware/domain.list
-${WGET} -qO- https://blocklist.site/app/dl/redirect | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_redirect/domain.list
-${WGET} -qO- https://blocklist.site/app/dl/scam | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_scam/domain.list
-${WGET} -qO- https://blocklist.site/app/dl/spam | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_spam/domain.list
-${WGET} -qO- https://blocklist.site/app/dl/tracking | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_tracking/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/ads | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_ads/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/fraud | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_fraud/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/malware | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_malware/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/phishing | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_phising/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/ransomware | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_ransomeware/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/redirect | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_redirect/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/scam | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_scam/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/spam | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_spam/domain.list
+${WGET} -qO- https://blocklist.site/app/dl/tracking | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_tracking/domain.list
 
 ${WGET} -qO- "https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4" | awk '/^#/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/BBcan177_MS-4/domain.list
 ${WGET} -qO- "https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2" | awk '/^#/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/BBcan177_MS-2/domain.list
