@@ -2726,8 +2726,6 @@ api.instalatorhbogo.siroccomobile.com
 api.instartlogic.com
 api.intentiq.com
 api.intercom.io
-api.intsig.net
-api.io.mi.com
 api.iperceptions.com
 api.ipgeolocation.io
 api.ipstack.com
@@ -2882,7 +2880,6 @@ api.umeng.com
 api.unbounce.com
 api.uprivaladserver.net
 api.usabilla.com
-api.usebutton.com
 api.usersnap.com
 api.veritix.com
 api.verticalscope.com
@@ -2907,10 +2904,8 @@ api.wootric.com
 api.wootric.com.herokudns.com
 api.wsq.umeng.com
 api.xdirectx.com
-api.xforce.ibmcloud.com
 api.yieldlove-ad-serving.net
 api.yieldmagic.com
-api.zaloapp.com
 api.zcoup.com
 api.zwizzarmyknife.com
 api2.batmobi.net
@@ -2923,7 +2918,6 @@ api3.siftscience.com
 api5.batmobi.net
 apicdn.viglink.com
 apicdn.zoomanalytics.co
-apiconnect.ibmcloud.com
 apicosdk.onemt.co
 apicssdk.onemt.co
 apidm.airpush.com
@@ -3555,8 +3549,6 @@ bb.crwdcntrl.net
 bbumgames.pushwoosh.com
 bc.marfeel.com
 bce.baidu.com
-bceliveup.gshifen.com
-bcelivevip.gshifen.com
 bcfads.com
 bcmediagroup.com
 bcp.crwdcntrl.net
@@ -3781,7 +3773,6 @@ bounce.exacttarget.com
 bounce.s10.exacttarget.com
 bounce.s7.exacttarget.com
 box.adalliance.io
-box.gshifen.com
 boxapp.admicro.vn
 boxoffice.urbanairship.com
 bp.adkmob.com
@@ -4545,7 +4536,6 @@ cloud.eclipse.unrulymedia.com
 cloud.gsdk.proximabeta.com
 cloud.internetstores.com
 cloud.le.com
-cloud.linode.com
 cloud.video.unrulymedia.com
 cloud.xdrig.com
 cloud2.gsdk.proximabeta.com
@@ -4628,7 +4618,6 @@ co-gmtdmp.mookie1.com
 co.ads.justpremium.com
 cobrowsing-ha.iadvize.com
 cobrowsing.iadvize.com
-coc.ibmcloud.com
 code.admicro.vn
 code.afsanalytics.com
 code.hot-mob.com
@@ -5413,9 +5402,6 @@ develrc.app.optimizely.com
 deviantart-d.openx.net
 deviantart.crwdcntrl.net
 device-api.urbanairship.com
-device-metrics-us-2.amazon.com
-device-metrics-us-ud.amazon.com
-device-metrics-us.amazon.com
 device.4seeresults.com
 device.maxmind.com
 deviceidshare.twitch.tv
@@ -5516,7 +5502,6 @@ dl.logging.admicro.vn
 dl.ops.baidu.com
 dl.punchh.com
 dl.urbanairship.com
-dl2-bav.gshifen.com
 dl2.bav.baidu.com
 dlb.g11.letvlb.com
 dlb2.g1.letvlb.com
@@ -5614,7 +5599,6 @@ dts.innovid.com
 dts.startappservice.com
 dtscout.rtb.adx1.com
 dualstack.f2.shared.us-eu.fastly.net
-duapps-photos-adv.gshifen.com
 duapps-photos-adv.wshifen.com
 duapps.com
 duapps2.wshifen.com
@@ -6039,7 +6023,6 @@ exchange.adtrue.com
 exchange.adyieldoptimizer.com
 exchange.superfastmediation.com
 exchange.vrtcal.com
-exchange.xforce.ibmcloud.com
 exe.bid
 execution-use.ci360.sas.com
 exp.360in.com
@@ -6687,7 +6670,6 @@ hhn-v4.pops.fastly-insights.com
 highwinds.cdneval.adnxs.com
 himbrecha.iad-02.braze.com
 himediads.com
-hiphotos.gshifen.com
 hiram.iad-03.braze.com
 hit.stat24.com
 hitcounter.servmetric.com
@@ -7259,7 +7241,6 @@ intermarkets.net
 intermrkts.vo.llnwd.net
 internal.fullstory.com
 internal.revcontent.com
-internetofthings.ibmcloud.com
 interseek.si
 interstitial-ads-prod-fusepowered.netdna-ssl.com
 interstitial-content.otherlevels.com
@@ -7967,7 +7948,6 @@ mainadv.com
 maist.jp
 mallmotion.com
 mam.ad-balancer.at
-manager.linode.com
 mangarock-alternate.app.link
 mangarock.app.link
 manhattan.leadforensics.com
@@ -8069,7 +8049,6 @@ mb-cdn.stocard.de
 mb.cision.com
 mb.moatads.com
 mb.taboola.com
-mbdcdn.gshifen.com
 mbe-cdn-staging.fyber.com
 mbe-cdn.fyber.com
 mbe-monitoring.fyber.com
@@ -8210,7 +8189,6 @@ meraxes-cdn.polarmobile.com
 merciless.localstars.com
 message.meitu.com
 messaging.influencemobile.com
-messaging.internetofthings.ibmcloud.com
 messaging.schibsted.io
 met.adzmobi.com
 meta.openx.net
@@ -8301,7 +8279,6 @@ minfo.wps.cn
 minimob.com
 mintrace.com
 minutemedia-d.openx.net
-mipcache.gshifen.com
 mirraw.pushengage.com
 mirrordigital-d.openx.net
 misc.sd.duapps.com
@@ -8525,7 +8502,6 @@ motoads.com
 motricity.com
 motrixi.com
 motu-hk.ssl2.duapps.com
-motu.gshifen.com
 movad.de
 moversa.com
 movestone.net
@@ -9004,7 +8980,6 @@ openamp-error-reporting.appspot.com
 openapi.cymera.com
 openbid-uswest.pubmatic.com
 openbid.pubmatic.com
-opencdnglobal.gshifen.com
 openclick.com
 openjmacs.m.taobao.com
 openrcv.baidu.com
@@ -10931,9 +10906,7 @@ signals.ampiri.com
 signin.dynatrace.com
 silvermob.com
 simaba.taobao.com
-simage.gshifen.com
 simage2.pubmatic.com
-simagestatic.gshifen.com
 simba.m.taobao.com
 simplesharebuttons.com
 simpletexting.com
@@ -11217,7 +11190,6 @@ spl1.yumenetworks.com
 spl2.yumenetworks.com
 splash.appsgeyser.com
 splicky.com
-spm.ibmcloud.com
 spolecznosci-d.openx.net
 sponsorpay.com
 sporcle-d.openx.net
@@ -11294,7 +11266,6 @@ ssl.zoomanalytics.co
 sslcdn.adstudiomobile.com
 sslclick.union.ucweb.com
 ssljscdn.airbrake.io
-sslshare.gshifen.com
 ssltest2.branch.io
 sslwidget.criteo.com
 ssp-api.mobadvent.com
@@ -13064,7 +13035,6 @@ web.53.localytics.com
 web.advertica-cdn.com
 web.btncdn.com
 web.localytics.com
-web.usebutton.com
 web.ventunotech.com
 web0.track.appier.net
 webanalytics.localytics.com
@@ -13293,7 +13263,6 @@ xdssp.mediav.com
 xemtylecacuoc.bong99.com
 xenon.iad-03.braze.com
 xfeedback.scloud.lfengmobile.com
-xforce.ibmcloud.com
 xiaomi-mipdx.cn.miaozhen.com
 ximad.com
 xiti.com
