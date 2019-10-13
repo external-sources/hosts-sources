@@ -8,5 +8,5 @@ truncate -s 0 "$CI_PROJECT_DIR/sources.list"
 
 for lists in `find data/ -type f -name domain.list`
 do
-	printf "$CI_PROJECT_URL/raw/master/$lists\n" >> "$CI_PROJECT_DIR/sources.list"
+	printf "$CI_PROJECT_URL/raw/master/$lists\n" | sort -u -i -o "$CI_PROJECT_DIR/sources.list"
 done
