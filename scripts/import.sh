@@ -126,6 +126,6 @@ ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-H
 
 ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt" | awk '/^#/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/mitchellkrogza/phishing.database/domain.list
 ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-IPs-ACTIVE.txt" | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | awk -F "." '{  printf("32.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n32.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$4,$3,$2,$1,$4,$3,$2,$1) }' > data/mitchellkrogza/phishing.database/ipv4.in-addr.arpa
-${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-IPs-ACTIVE.txt" | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" -o data/mitchellkrogza/phishing.database/ipv4.list
+${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-IPs-ACTIVE.txt" | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" > data/mitchellkrogza/phishing.database/ipv4.list
 ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/LICENSE.md" > data/mitchellkrogza/phishing.database/LICENSE.md
 ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/README.md" > data/mitchellkrogza/phishing.database/README.md
