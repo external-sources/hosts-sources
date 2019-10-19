@@ -131,5 +131,5 @@ ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database
 ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/README.md" > data/mitchellkrogza/phishing.database/README.md
 
 
-${WGET} -qO- "https://osint.bambenekconsulting.com/feeds/c2-dommasterlist.txt" |  awk -F "," '!/^($|#)/{ printf $1 | "sort -i | uniq -u -i " }' > data/bambenekconsulting/domain.list
+${WGET} -qO- "https://osint.bambenekconsulting.com/feeds/c2-dommasterlist.txt" |  awk -F "," '!/^($|#)/{ print $1 | "sort -i | uniq -u -i " }' > data/bambenekconsulting/domain.list
 ${WGET} -q "https://osint.bambenekconsulting.com/feeds/license.txt" -O data/bambenekconsulting/LICENSE.md
