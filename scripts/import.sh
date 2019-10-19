@@ -129,3 +129,7 @@ ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database
 ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-IPs-ACTIVE.txt" | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" > data/mitchellkrogza/phishing.database/ipv4.list
 ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/LICENSE.md" > data/mitchellkrogza/phishing.database/LICENSE.md
 ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/README.md" > data/mitchellkrogza/phishing.database/README.md
+
+
+${WGET} -qO- "https://osint.bambenekconsulting.com/feeds/c2-dommasterlist.txt" |  awk -F "," '!/^($|#)/{ print $1 } | "sort -i | uniq -u -i " ' > data/bambenekconsulting/domain.list
+${WGET} -q "https://osint.bambenekconsulting.com/feeds/license.txt" -O data/bambenekconsulting/LICENSE.md
