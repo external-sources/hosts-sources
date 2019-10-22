@@ -1205,7 +1205,6 @@ ads-chunks.prod.ihrhls.com
 ads-cloud.rovio.com
 ads-d.viber.com
 ads-dot-o7apps.appspot.com
-ads-e-darwin.hulustream.com
 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 ads-ipm.adhese.com
 ads-live.cmgdigital.com
@@ -3011,7 +3010,6 @@ assets.kochava.com
 assets.locuslabs.com
 assets.mantisadnetwork.com
 assets.moat.com
-assets.pinterest.com
 assets.privy.com
 assets.purch.com
 assets.rubiconproject.com
@@ -3551,7 +3549,6 @@ c.amazon-adsystem.com
 c.apptrk.io
 c.atdmt.com
 c.betrad.com
-c.bing.com
 c.bong99.com
 c.c.appier.net
 c.casalemedia.com
@@ -3898,13 +3895,11 @@ cdn.oas-eu1.adnxs.com
 cdn.onesignal.com
 cdn.onscroll.com
 cdn.onthe.io
-cdn.optimizely.com
 cdn.otherlevels.com
 cdn.outfit7.com
 cdn.parsely.com
 cdn.perzonalization.com
 cdn.platform.openx.com
-cdn.polyfill.io
 cdn.popcash.net
 cdn.promotionengine.com
 cdn.public.pushspring.com
@@ -4429,7 +4424,6 @@ collector.bughd.com
 collector.capturly.com
 collector.cint.com
 collector.doordash.com
-collector.githubapp.com
 collector.insight-stats.com
 collector.leaddyno.com
 collector.lightstep.com
@@ -4598,7 +4592,6 @@ counter.kingsoft.com
 counter.mgid.com
 counter.snackly.co
 counter.theconversation.com
-countess.twitch.tv
 courses.appsee.com
 cox.adswizz.com
 cox.deliveryengine.adswizz.com
@@ -4836,7 +4829,6 @@ data.altbeacon.org
 data.appscomeon.com
 data.appsgeyser.com
 data.axonix.com
-data.cnn.com
 data.coremetrics.com
 data.flurry.com
 data.iappmobi.com
@@ -5079,8 +5071,6 @@ develrc.app.optimizely.com
 deviantart-d.openx.net
 deviantart.crwdcntrl.net
 device-api.urbanairship.com
-device-metrics-us-2.amazon.com
-device-metrics-us.amazon.com
 device.4seeresults.com
 device.maxmind.com
 deviceidshare.twitch.tv
@@ -5152,7 +5142,6 @@ display.bfmio.com
 display.mgmt.xad.com
 display.online-adnetwork.com
 display.qc.coccoc.com
-display.ugc.bazaarvoice.com
 display.xad.com
 displayads-formats.googleusercontent.com
 disqus-d.openx.net
@@ -5332,7 +5321,6 @@ e.qq.com
 e.usa.events.netseer.com
 e.zg-api.com
 e7876.dscg.akamaiedge.net
-e8218.dscb1.akamaiedge.net
 eacdn.com
 eapik.anagog.com
 eapip.anagog.com
@@ -6480,7 +6468,6 @@ i.w.inmobi.com
 i.w.vip.ams1.inmobi.com
 i.w55c.net
 i.yldbt.com
-i1.ytimg.com
 i16-tb.isnssdk.com
 i16-tb.isnssdk.com.edgekey.net
 i16-tb.sgsnssdk.com.edgekey.net
@@ -6690,7 +6677,6 @@ imagesrv.adition.com
 imagess.cloud.datasphere.com
 imapi-mu.isnssdk.com
 imapi-sg.isnssdk.com
-imasdk.googleapis.com
 imatmobile.com
 imb-offerwall-env.us-east-1.elasticbeanstalk.com
 imc.l.qq.com
@@ -7100,7 +7086,6 @@ js.hs-scripts.com
 js.hsforms.net
 js.idio.co
 js.matheranalytics.com
-js.maxmind.com
 js.mgid.com
 js.moatads.com
 js.rfp.fout.jp
@@ -8566,7 +8551,6 @@ nyipm.adsafeprotected.com
 nym1-mobile.adnxs.com
 nym1.mobile.adnxs.com
 nz-gmtdmp.mookie1.com
-o.aolcdn.com
 o.bluekai.com
 o.cmp.advertising.com
 o.skimresources.com
@@ -8748,7 +8732,6 @@ otherwortb.deliveryengine.adswizz.com
 otlanalytics.cloudapp.net
 otrs.fyber.com
 ots.optimize.webtrends.com
-oui.cdn.optimizely.com
 oumax.oupeng.com
 ouplog.umeng.com
 out-there-media.com
@@ -9594,7 +9577,6 @@ realbid.brealtime.com
 realclever.com
 realstats.dhgate.com
 realtime.clinch.co
-realtime.services.disqus.com
 realtor-d.openx.net
 realtor-tagan.adlightning.com
 reaper.pulse.inmobi.com
@@ -9641,7 +9623,6 @@ reduxmediagroup.com
 reed-cw.grapeshot.co.uk
 ref.ad-brix.com
 reference.fyber.com
-referrer.disqus.com
 region.z.nomobileads.com
 register.appsflyer.com
 registerguard-d.openx.net
@@ -10851,7 +10832,6 @@ sp.yieldify.com
 sp0.baidu.com
 sp1.baidu.com
 spa.chiji8.info
-spade.twitch.tv
 spanishdict-d.openx.net
 sparkle.locationlabs.com
 specialdeals.g5e.com
@@ -12041,7 +12021,6 @@ tribpubdfp745347008913.s.moatpixel.com
 tribune-d.openx.net
 tribunemedia-d.openx.net
 triggeredmail.appspot.com
-triggers.wfxtriggers.com
 trinitymirror-d.openx.net
 trinitymirror.grapeshot.co.uk
 trion-d.openx.net
@@ -12151,7 +12130,6 @@ udash.umengcloud.com
 udata.inlocomedia.com
 udc-neb.kampyle.com
 udc.safe.baidu.com
-udc.yahoo.com
 udm.scorecardresearch.com
 udn-d.openx.net
 udp.push.mob.com
@@ -12235,7 +12213,6 @@ updater.crowdtangle.com
 updater.lionmobi.com
 updates.tune.com
 upfile16.mediaphim.com
-upgrade.scdn.co
 upgradedpoints.pushengage.com
 upi-d.openx.net
 upload.juxiao.mediav.com
