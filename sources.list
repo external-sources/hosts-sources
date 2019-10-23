@@ -6,7 +6,6 @@ https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/notrack-malware/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/windowsspyblocker_extra/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/BBcan177_MS-4/domain.list
-https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/ransomware.abuse.ch/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/mitchellkrogza/phishing.database/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/blocklist_ransomeware/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/blocklist_tracking/domain.list
@@ -15,6 +14,8 @@ https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/blocklist_fraud/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/malwaredomainlist/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/yoyo.org/domain.list
+https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/abuse.ch/ransomware/domain.list
+https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/abuse.ch/urlhaus/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/windowsspyblocker/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/hphosts_hjk/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/hphosts_ad_servers/domain.list
@@ -27,7 +28,6 @@ https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/hphosts_mmt/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/hphosts_grm/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/suspiciousdomains_low/domain.list
-https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/urlhaus/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/BBcan177_MS-2/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/dg-ads/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/hphosts_fsa/domain.list
