@@ -22,6 +22,11 @@ printf "Imported yoyo\n"
 ${WGET} -qO- 'https://ransomwaretracker.abuse.ch/feeds/csv/' | awk -F, '/^#/{ next }; { if ( $4 ~ /[a-z]/ ) printf("%s\n",tolower($4)) }' | sed -e 's/"//g' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort -u > data/ransomware.abuse.ch/domain.list
 printf "Imported abuse.ch\n"
 
+# Full featured RPZ list availble from
+# https://sslbl.abuse.ch/blacklist/sslbl.rpz
+${WGET} -qO- "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt" | tr -d '\015' | awk -F. '/^#/{ next }; {print $4"." $3"."$2"."$1}' > data/ransomware.abuse.ch/ip4.list
+printf "Imported abuse.ch\n"
+
 ${WGET} -qO- 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/StevenBlack/domain.list
 printf "Imported StevenBlack\n"
 
