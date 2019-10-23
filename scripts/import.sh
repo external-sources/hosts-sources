@@ -24,8 +24,7 @@ printf "Imported abuse.ch\n"
 
 # Full featured RPZ list availble from
 # https://sslbl.abuse.ch/blacklist/sslbl.rpz
-#${WGET} -qO- "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt" | tr -d '\015' | awk -F. '/^#/{ next }; {print $4"." $3"."$2"."$1}' > data/abuse.ch/sslipblacklist/ip4.list
-${WGET} -qO- "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt" | tr -d '\015' | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | sed 's/ \;.*$//' | awk -F "[/.]" '{  printf("32.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n32.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$4,$3,$2,$1,$4,$3,$2,$1) }' data/abuse.ch/sslipblacklist/ipv4.in-addr.arpa
+${WGET} -qO- "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt" | tr -d '\015' | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | sed 's/ \;.*$//' | awk -F "[/.]" '{  printf("32.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n32.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$4,$3,$2,$1,$4,$3,$2,$1) }' > data/abuse.ch/sslipblacklist/ipv4.in-addr.arpa
 ${WGET} -qO- "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt" | tr -d '\015' | grep -v "#" | cut -d " " -f 1 > data/abuse.ch/sslipblacklist/ip4.list
 printf "Imported abuse.ch\n"
 
