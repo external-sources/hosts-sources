@@ -110,6 +110,9 @@ printf "PUuh.. done importing hosts-file.net....\n"
 ${WGET} -qO- https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt | awk '/^#/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/cedia/domain.list
 printf "Imported cedia\n"
 
+${WGET} -qO- https://mirror1.malwaredomains.com/files/justdomains | grep -ivE '^(#|$)' | sort | uniq -u > data/malwaredomains/domain.list
+printf "mirror1.malwaredomains.com\n"
+
 ${WGET} -qO- "https://blocklist.site/app/dl/ads" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_ads/domain.list
 ${WGET} -qO- "https://blocklist.site/app/dl/fraud" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_fraud/domain.list
 ${WGET} -qO- "https://blocklist.site/app/dl/malware" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > data/blocklist_malware/domain.list
