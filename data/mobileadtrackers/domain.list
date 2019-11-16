@@ -278,6 +278,7 @@
 3193.api.swrve.com
 3204.api.swrve.com
 3204.content.swrve.com
+3243857.fls.doubleclick.net
 3255.api.swrve.com
 3255.content.swrve.com
 3272.api.swrve.com
@@ -564,6 +565,7 @@
 6562.eu-api.swrve.com
 6562.eu-content.swrve.com
 6563.eu-content.swrve.com
+65c6.playfabapi.com
 6656.deeplink.mobileapptracking.com
 6660.eu-api.swrve.com
 6660.eu-content.swrve.com
@@ -1834,6 +1836,7 @@ alkutbay.starbolt.io
 all.unrulyx.unrulymedia.com
 allmedia-d.openx.net
 allstarmediagroup.com
+allstate.sc.omtrdc.net
 alog.umeng.com
 alog.umengcloud.com
 alogs.umeng.com
@@ -2428,6 +2431,7 @@ api.madkudu.com
 api.magmamobile.com
 api.maropost.com
 api.mediatailor.eu-west-1.amazonaws.com
+api.megacool.co
 api.metrics.heroku.com
 api.mgid.com
 api.mixpanel.com
@@ -2767,6 +2771,7 @@ app.yesware.com.herokudns.com
 app.yieldify.com
 app01.adfalcon.com
 app02.adfalcon.com
+app3.prd.telematics.uconnectcar.com
 appad-api-01.perfectcorp.com
 appad-api-02.perfectcorp.com
 appads.com
@@ -2778,6 +2783,7 @@ appclick.net
 appclick.rqmob.com
 appconfig.cmgdigital.com
 appcontent.boostmobile.com
+appdeumext.tdameritrade.com
 appdiscovery.apptap.com
 appdistapi.scloud.le.com
 appdog.com
@@ -3818,6 +3824,7 @@ cdn.cmp.advertising.com
 cdn.coinad.com
 cdn.comedia.coccoc.com
 cdn.concert.io
+cdn.conversant.mgr.consensu.org
 cdn.creative.medialytics.com
 cdn.crwdcntrl.net
 cdn.curalate.com
@@ -5128,6 +5135,8 @@ discourse.amplitude.com
 discover.apester.com
 discoverapps.appia.com
 discoveryplus.popin.cc
+disney.demdex.net
+disney.my.sentry.io
 dispatch.admixer.co.kr
 dispatcher.360in.com
 dispatcher.adxcore.com
@@ -6410,6 +6419,7 @@ humandemand.com
 hunantv-ipdx.cn.miaozhen.com
 huntmad.com
 huskieaccess.bugly.qq.com
+hv.adingo.jp
 hwad.push-ios.com
 hwstats.unity3d.com
 hxczzzw.com
@@ -7086,6 +7096,7 @@ js.matheranalytics.com
 js.mgid.com
 js.moatads.com
 js.rfp.fout.jp
+js.sentry-cdn.com
 js.w.inmobi.com
 js02.adlooxtracking.com
 js05.adlooxtracking.com
@@ -8561,6 +8572,7 @@ oba.media.net
 objects-secure.tremormedia.com
 observermedia-d.openx.net
 oc.umeng.com
+ocd.yodo1api.com
 ocio.leadzu.com
 ocio.leadzutw.com
 oclaserver.com
@@ -8585,6 +8597,7 @@ oimsgad.qq.com
 ol.at.atwola.com
 ol.jp.at.atwola.com
 olb.pns.kt.com
+olc.yodo1api.com
 olxpl-d.openx.net
 olxro-d.openx.net
 om-datacollector.ipass.com
@@ -8692,6 +8705,7 @@ optimus.komodia.com
 optin.mobiniti.com
 optout-service.unrulymedia.com
 optsdk.gameyw.easebar.com
+opus.analytics.yahoo.com
 opx-winners-ap-northeast-1-rtb.adroll.com
 opx-winners-eu-west-1-rtb.adroll.com
 opx-winners-us-east-1-rtb.adroll.com
@@ -10016,6 +10030,7 @@ sammobile.pushbird.com
 samsungacr.com
 samsungads.com
 sana.newsinccom.s3.amazonaws.com
+sanalytics.disneyplus.com
 sanalytics.tntdrama.com
 sanalytics.verizonwireless.com
 sanalytics.virginmobileusa.com
@@ -10088,6 +10103,7 @@ scripts.demandbase.com
 scripts.personalics.com
 scripts.retentionrocket.com.herokudns.com
 scripts.speedshiftmedia.com
+scripts.webcontentassessor.com
 scs.webtrends.com
 sd-atl1.turn.com
 sd.cname3.igexin.com
@@ -10517,6 +10533,7 @@ sg01.smardroid.com
 sgbid.prod.sift.co
 sgp.smartadserver.com
 sgpublic.yomob.com.cn
+sh.adingo.jp
 sh.g5e.com
 shadu.baidu.com
 share.baidu.com
@@ -10695,6 +10712,7 @@ smartyadsdisplay.rtb.adx1.com
 smetrics.aa.com
 smetrics.bestbuy.com
 smetrics.boston.com
+smetrics.chrysler.com
 smetrics.cnn.com
 smetrics.cox.com
 smetrics.dickssportinggoods.com
