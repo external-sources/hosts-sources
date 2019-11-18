@@ -3,10 +3,11 @@ https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/phishing_army_blocklist_extended/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/suspiciousdomains_medium/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/mvps/domain.list
-https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/notrack-malware/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/windowsspyblocker_extra/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/BBcan177_MS-4/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/mitchellkrogza/phishing.database/domain.list
+https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/notrack/malware/domain.list
+https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/notrack/blocklists/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/blocklist_ransomeware/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/blocklist_tracking/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/blocklist_malware/domain.list
@@ -42,7 +43,6 @@ https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/hphosts_pup/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/xorcan/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/hphosts_psh/domain.list
-https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/notrack-blocklist/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/cedia/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/blocklist_ads/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/fademind_add_risk/domain.list
