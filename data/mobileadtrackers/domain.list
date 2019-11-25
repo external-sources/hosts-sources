@@ -2354,6 +2354,7 @@ api.crowdtwist.com
 api.cupid.iqiyi.com
 api.deep-ad.com.edgekey.net
 api.demandbase.com
+api.destinationrewards.com
 api.doumob.com
 api.dsp.batmobi.net
 api.ettoday.net
@@ -4378,6 +4379,7 @@ collect13869vptrt.deltadna.net
 collect13914mtch3.deltadna.net
 collect14112tlnts.deltadna.net
 collect14706brkng.deltadna.net
+collect15099mrbll.deltadna.net
 collect2470ntysd.deltadna.net
 collect2503bttlg.deltadna.net
 collect2525bttls.deltadna.net
@@ -5418,6 +5420,7 @@ enflick-d.openx.net
 eng.localytics.com
 engage-network.influencemobile.com
 engage-postbacks.influencemobile.com
+engage.hulu.com
 engage.marketo.com
 engage.meltwater.com
 engage10059bltbg.deltadna.net
@@ -5461,6 +5464,8 @@ engage14052tnkrs.deltadna.net
 engage14112tlnts.deltadna.net
 engage14451lghtt.deltadna.net
 engage14541skllg.deltadna.net
+engage15099mrbll.deltadna.net
+engage15969nkncv.deltadna.net
 engage2503bttlg.deltadna.net
 engage2674dltcr.deltadna.net
 engage3515gvrnr.deltadna.net
@@ -6460,6 +6465,7 @@ i.l.inmobicdn.net
 i.l.networld.hk
 i.le.com
 i.ligatus.com
+i.marketing01.email-allstate.com
 i.mixadvert.com
 i.mobilefuse.com
 i.mxplayer.j2inter.com
@@ -7165,6 +7171,7 @@ kiip.me
 kiks.yandex.ru
 kimia.com
 kimia.es
+kinesis.us-east-1.amazonaws.com
 kinesisanalytics.eu-central-1.amazonaws.com
 kinesisanalytics.eu-west-1.amazonaws.com
 kiosked.com
@@ -9214,6 +9221,8 @@ pr-v1.prod.cloud.ogury.io
 prapi.cision.com
 pratidin.pushengage.com
 prd.innopage.com
+prd1.personalization.centech.glulive.com
+prd1.revid.centech.glulive.com
 prd2.immedia-semi.com
 prde.immedia-semi.com
 prdwebcollector.ruetracking.com
@@ -10000,6 +10009,7 @@ s2s.appsflyer.com
 s2s.komoona.com
 s2s.mparticle.com
 s2s.startappnetwork.com
+s2ssignal.neustar.amazon-adsystem.com
 s3-config.samsungacr.com
 s3.phluant.com
 s3.ttpsdk.info
@@ -10119,6 +10129,7 @@ sdk-ads.bidmotion.com
 sdk-analytics.inlocoengage.com
 sdk-analytics.inlocomedia.com
 sdk-android.ad.smaato.net
+sdk-api-v1.singular.net
 sdk-api.ing.indigitall.net
 sdk-api.prod.veep.io
 sdk-api.yozio.com
