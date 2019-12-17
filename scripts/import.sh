@@ -19,8 +19,9 @@ PYTHON=`(which python3)`
 ${WGET} -qO- 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=one-line&showintro=0&mimetype=plaintext' | egrep -v '#' | tr , '\n' | sort -u > data/yoyo.org/domain.list
 printf "Imported yoyo\n"
 
-${WGET} -qO- 'https://ransomwaretracker.abuse.ch/feeds/csv/' | awk -F, '/^#/{ next }; { if ( $4 ~ /[a-z]/ ) printf("%s\n",tolower($4)) }' | sed -e 's/"//g' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort -u > data/abuse.ch/ransomware/domain.list
-printf "Imported abuse.ch\n"
+# Ransomware Tracker has been discontinued on Dec 8th, 2019
+#${WGET} -qO- 'https://ransomwaretracker.abuse.ch/feeds/csv/' | awk -F, '/^#/{ next }; { if ( $4 ~ /[a-z]/ ) printf("%s\n",tolower($4)) }' | sed -e 's/"//g' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort -u > data/abuse.ch/ransomware/domain.list
+#printf "Imported abuse.ch\n"
 
 # Full featured RPZ list availble from
 # https://sslbl.abuse.ch/blacklist/sslbl.rpz
