@@ -53,7 +53,10 @@ printf "Imported FadeMind blocklists-facebook\n"
 ${WGET} -qO- "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt" | sort -u | uniq -u | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/CoinBlockerLists/domain.list
 printf "Imported CoinBlockerLists\n"
 
-${WGET} -qO- "https://github.com/xorcan/hosts/raw/master/xhosts.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/xorcan/domain.list
+${WGET} -qO- "https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/xorcan/domain.list
+${WGET} -q "https://raw.githubusercontent.com/xorcan/hosts/master/README-EN.md" > data/xorcan/README-EN.md
+${WGET} -q "https://raw.githubusercontent.com/xorcan/hosts/master/README.md" > data/xorcan/README.md
+${WGET} -q "https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE" > data/xorcan/LICENSE
 printf "Imported xorcan\n"
 
 ${WGET} -qO- "http://winhelp2002.mvps.org/hosts.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/mvps/domain.list
