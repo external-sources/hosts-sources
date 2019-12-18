@@ -109,7 +109,7 @@ printf "Downloading hosts-file.net....\n"
 	${WGET} -qO- "https://hosts-file.net/mmt.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/hphosts_mmt/domain.list
 	${WGET} -qO- "https://hosts-file.net/psh.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/hphosts_psh/domain.list
 	${WGET} -qO- "https://hosts-file.net/pup.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/hphosts_pup/domain.list
-printf "PUuh.. done importing hosts-file.net....\n"
+printf "Puuh.. done importing hosts-file.net....\n"
 
 ${WGET} -qO- https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt | awk '/^#/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/cedia/domain.list
 printf "Imported cedia\n"
@@ -155,3 +155,6 @@ ${WGET} -qO- "https://www.spamhaus.org/drop/edrop.txt" | grep -E "([0-9]{1,3}[\.
 printf "Importing Disconnect ad-servers"
 mkdir -p data/disconnect-me/
 ${WGET} -qO- "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/disconnect-me/domain.list
+
+printf "Importing openfish.com\n"
+${WGET} -qO- "https://openphish.com/feed.txt" | awk -F "/" '!/^($|#)/{ print $3 | "sort -i | uniq -u -i " }' > data/openfish/domain.list
