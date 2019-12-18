@@ -157,4 +157,4 @@ mkdir -p data/disconnect-me/
 ${WGET} -qO- "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/disconnect-me/domain.list
 
 printf "Importing openfish.com\n"
-${WGET} -qO- "https://openphish.com/feed.txt" | awk -F "/" '!/^($|#)/{ print $3 | "sort -i | uniq -u -i " }' > data/openfish/domain.list
+${WGET} -qO- "https://openphish.com/feed.txt" | awk -F "/" '!/^($|#)/{ print $3 | "sort -u | uniq -u -i " }' > data/openfish/domain.list
