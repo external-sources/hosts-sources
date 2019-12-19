@@ -36,7 +36,6 @@ build:
   script:
     - echo "Building"
     - git checkout -B master
-    - pip3 install ultimate-hosts-blacklist-whitelist
     - bash $CI_PROJECT_DIR/scripts/import.sh
     - bash $CI_PROJECT_DIR/scripts/update_active_lists.sh
 
