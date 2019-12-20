@@ -81,7 +81,7 @@ printf "Imported dg-ads\n"
 ${WGET} -qO- "https://www.malwaredomainlist.com/hostslist/hosts.txt" | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/malwaredomainlist/domain.list
 printf "Imported malwaredomainlist\n"
 
-${WGET} -qO- "https://www.joewein.net/dl/bl/dom-bl-base.txt" | grep -v '%a;419' | sed 's/\;.$//' > data/joewein/domain.list
+${WGET} -qO- "https://www.joewein.net/dl/bl/dom-bl-base.txt" | grep -Ev '(\%a\;419|\{)' | sed 's/\;.*//' > data/joewein/domain.list
 printf "Imported joewein\n"
 
 ${WGET} -qO- "https://www.dshield.org/feeds/suspiciousdomains_Low.txt" | awk '/^#/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/suspiciousdomains_low/domain.list
