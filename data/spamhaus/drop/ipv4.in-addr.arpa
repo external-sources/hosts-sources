@@ -720,8 +720,6 @@
 19.0.224.127.163.rpz-client-ip	CNAME	rpz-drop.
 19.0.224.128.163.rpz-ip	CNAME	.
 19.0.224.128.163.rpz-client-ip	CNAME	rpz-drop.
-16.0.0.198.163.rpz-ip	CNAME	.
-16.0.0.198.163.rpz-client-ip	CNAME	rpz-drop.
 19.0.0.216.163.rpz-ip	CNAME	.
 19.0.0.216.163.rpz-client-ip	CNAME	rpz-drop.
 16.0.0.250.163.rpz-ip	CNAME	.
