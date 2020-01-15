@@ -22,10 +22,10 @@ https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/dg-ads/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/hphosts_grm/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/suspiciousdomains_medium/domain.list
-https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/mobileadtrackers/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/blocklist_tracking/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/phishing_army_blocklist_extended/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/blocklist_malware/domain.list
+https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/adaway/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/joewein/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/blocklist_phising/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/hphosts_psh/domain.list
