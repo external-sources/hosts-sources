@@ -55,6 +55,8 @@ dmd.metaservices.microsoft.com.akadns.net
 dns.msftncsi.com
 ecn.dev.virtualearth.net
 edgetipscdn.microsoft.com
+eu.vortex-win.data.microsoft.com
+eu.vortex.data.microsoft.com
 europe.smartscreen-prod.microsoft.com
 evoke-windowsservices-tas.msedge.net
 feedback.microsoft-hohm.com
@@ -190,9 +192,12 @@ uhf.microsoft.com
 ui.skype.com
 urs.microsoft.com
 urs.smartscreen.microsoft.com
+us.vortex-win.data.microsoft.com
 validation-v2.sls.microsoft.com
 validation.sls.microsoft.com
 version.hybrid.api.here.com
+vortex-win-sandbox.data.microsoft.com
+vortex-win.data.microsoft.com
 w.apprep.smartscreen.microsoft.com
 wallet.microsoft.com
 wdcp.microsoft.com
