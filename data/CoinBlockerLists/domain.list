@@ -69,13 +69,13 @@ window.location.replace("/users/sign_up")
 <div class="container navless-container">
 <div class="content">
 <div class="d-flex justify-content-between flex-wrap">
+<div class="firstname_1580676943"><style media="screen">.firstname_1580676943 {position:absolute!important;height:1px;width:1px;overflow:hidden;}</style><label for="firstname">If you are human, please ignore this field.</label><input type="text" name="firstname" id="firstname" autocomplete="off" tabindex="-1" /></div>
 <div class="flash-alert mb-2">
 <div class="flash-container flash-container-page sticky">
 <div class="float-right">
 <div class="footer-links">
 <div class="form-group append-bottom-20" id="password-strength">
 <div class="form-group">
-<div class="lastname_1580662542"><style media="screen">.lastname_1580662542 {display:none;}</style><label for="lastname">If you are human, please ignore this field.</label><input type="text" name="lastname" id="lastname" autocomplete="off" tabindex="-1" /></div>
 <div class="login-body">
 <div class="login-box tab-pane active" id="login-pane" role="tabpanel">
 <div class="login-page-broadcast">
@@ -94,8 +94,8 @@ window.location.replace("/users/sign_up")
 <div id="signin-container">
 <div></div>
 <fieldset class="remember-me">
-<form class="new_new_user gl-show-field-errors" id="new_new_user" aria-live="assertive" action="/users" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="BSXLp61abklzxZ5nN7ldNmmN7z/YUgA+Jdg9HIRT8noKJCRDNz92RpvN+m0A8zr/9kz2IDApGgzk255GmPK+nw==" /><div class="devise-errors">
-<form class="new_user gl-show-field-errors" id="new_user" aria-live="assertive" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/dSig+pT9Def2i7N3a/pBtc6Gva8nYQs16W4G9YZ5Wjy1U1ncDbsOHfSSsfq5Y7PSPsD6VTmnh4WphtByripjQ==" /><div class="form-group">
+<form class="new_new_user gl-show-field-errors" id="new_new_user" aria-live="assertive" action="/users" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="dPnte+pbhxyAgxLlN1OAjHXgKnai398ZDxwfiGvTMPizhtYIVSOg0rMf+5waQ6KdVz2o4ul08q3qhIocyPGoiw==" /><div class="devise-errors">
+<form class="new_user gl-show-field-errors" id="new_user" aria-live="assertive" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="P8G5ZHB8vYRJ4KiGD0fCpmtLbafaxBgU052yNdd/Hov4voIXzwSaSnp8Qf8iV+C3SZbvM5FvNaA2BSehdF2G+A==" /><div class="form-group">
 <h1 class="mb-3 font-weight-normal">
 <header class="navbar fixed-top navbar-empty">
 <hr class="footer-fixed">
@@ -156,16 +156,16 @@ window.location.replace("/users/sign_up")
 <meta content="origin-when-cross-origin" name="referrer">
 <meta content="summary" property="twitter:card">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
-<meta name="csp-nonce" content="HZqFa6Jv9sddWJIueqiTYg==" />
+<meta name="csp-nonce" content="+JyzFg/gb7fjdLz35P0xFQ==" />
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="eso6eoJiZi73ZxnbNdaDWItnIFxxEJF1MviZL/YOvah1y9WeGAd+IR9vfdECnOSRFKY5Q5lri0fz+zp16q/xTQ==" />
+<meta name="csrf-token" content="MTPziHiynIWaex7vI/4ThKn3bdQn3sd9V9tP7dwZg6r2TMj7x8q7S6nn95YO7jGViyrvQGx16smyQ9p5fzsb2Q==" />
 <p class="gl-field-hint text-secondary">Minimum length is 8 characters</p>
 <p class="light mt-2">
 <p class="validation-error gl-field-error-ignore field-validation hide">Username is already taken.</p>
 <p class="validation-pending gl-field-error-ignore field-validation hide">Checking username availability...</p>
 <p class="validation-success gl-field-error-ignore field-validation hide">Username is available.</p>
 <p data-sourcepos="1:1-1:84" dir="auto">GitLab.com offers free unlimited (private) repositories and unlimited collaborators.</p>&#x000A;<ul data-sourcepos="3:1-7:0" dir="auto">&#x000A;<li data-sourcepos="3:1-3:98">&#x000A;<a href="https://gitlab.com/explore/projects/trending">Explore projects on GitLab.com</a> (no login needed)</li>&#x000A;<li data-sourcepos="4:1-4:75"><a href="https://about.gitlab.com/gitlab-com/" rel="nofollow noreferrer noopener" target="_blank">More information about GitLab.com</a></li>&#x000A;<li data-sourcepos="5:1-5:80"><a href="https://gitlab.com/gitlab-com/support-forum/issues">GitLab.com Support Forum</a></li>&#x000A;<li data-sourcepos="6:1-7:0"><a href="https://about.gitlab.com" rel="nofollow noreferrer noopener" target="_blank">GitLab Homepage</a></li>&#x000A;</ul>&#x000A;<p data-sourcepos="8:1-8:67" dir="auto">By signing up for and by signing in to this service you accept our:</p>&#x000A;<ul data-sourcepos="10:1-11:65" dir="auto">&#x000A;<li data-sourcepos="10:1-10:53"><a href="https://about.gitlab.com/privacy/" rel="nofollow noreferrer noopener" target="_blank">Privacy policy</a></li>&#x000A;<li data-sourcepos="11:1-11:65">&#x000A;<a href="https://about.gitlab.com/terms/#gitlab_com" rel="nofollow noreferrer noopener" target="_blank">GitLab.com Terms</a>.</li>&#x000A;</ul>
-<script nonce="HZqFa6Jv9sddWJIueqiTYg==">
+<script nonce="+JyzFg/gb7fjdLz35P0xFQ==">
 <script src="https://assets.gitlab-static.net/assets/webpack/commons~pages.groups.omniauth_callbacks~pages.ldap.omniauth_callbacks~pages.omniauth_callbacks~pages~577d7818.a72596e8.chunk.js" defer="defer"></script>
 <script src="https://assets.gitlab-static.net/assets/webpack/main.228d5d07.chunk.js" defer="defer"></script>
 <script src="https://assets.gitlab-static.net/assets/webpack/pages.sessions.new.994c8c5b.chunk.js" defer="defer"></script>
