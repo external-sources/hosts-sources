@@ -496,8 +496,6 @@
 16.0.0.105.137.rpz-client-ip	CNAME	rpz-drop.
 16.0.0.114.137.rpz-ip	CNAME	.
 16.0.0.114.137.rpz-client-ip	CNAME	rpz-drop.
-16.0.0.171.137.rpz-ip	CNAME	.
-16.0.0.171.137.rpz-client-ip	CNAME	rpz-drop.
 16.0.0.218.137.rpz-ip	CNAME	.
 16.0.0.218.137.rpz-client-ip	CNAME	rpz-drop.
 16.0.0.31.138.rpz-ip	CNAME	.
