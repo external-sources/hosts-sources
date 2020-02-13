@@ -641,7 +641,6 @@ a.consensad.com
 a.d.mojigaga.com
 a.dpmsrv.com
 a.fiksu.com
-a.fortumo.com
 a.gmtrack.com
 a.goadservices.com
 a.hiimps.com
@@ -1878,7 +1877,6 @@ analytics-events.inshorts.com
 analytics-ext-prod.us-east-1.elasticbeanstalk.com
 analytics-gb-nfl.yinzcam.com
 analytics-gcp.tout.com
-analytics-ingest.anypoint.mulesoft.com
 analytics-ingest.creative-mobile.com
 analytics-ingestion.staging-public.tubi.io
 analytics-iwtg-ten.yinzcam.com
@@ -2237,8 +2235,6 @@ api.europe.bidtellect.com
 api.exc.mob.com
 api.factual.com
 api.flurry.com
-api.fortumo.com
-api.foursquare.com
 api.fyber.com
 api.gameanalytics.com
 api.gameofwhales.com
@@ -2278,7 +2274,6 @@ api.ivymobile.com
 api.keen.io
 api.kiip.me
 api.kochava.com
-api.kurioapps.com
 api.lanistaads.com
 api.leadbolt.net
 api.leadpages.io
@@ -2843,7 +2838,6 @@ assets.chartboost.com
 assets.deployads.com
 assets.dwell.com
 assets.dynatrace.com
-assets.fortumo.com
 assets.foxmetrics.com
 assets.iterable.com
 assets.kampyle.com
@@ -3416,7 +3410,6 @@ cache-07.pushwoosh.com
 cache-ha.pushwoosh.com
 cache-ssl.celtra.com
 cache.celtra.com
-cache.kuaidi100.com
 cache.send.microadinc.com
 caesar.iad-03.braze.com
 cafemedia-d.openx.net
@@ -3573,7 +3566,6 @@ cdn.advertserve.com
 cdn.adx1.com
 cdn.aimg.media.net
 cdn.amplitude.com
-cdn.anypoint.mulesoft.com
 cdn.api.fotoable.com
 cdn.appdynamics.com
 cdn.applift.com
@@ -3641,7 +3633,6 @@ cdn.jampp.com
 cdn.justpremium.com
 cdn.keywee.co
 cdn.krxd.net
-cdn.kuaidi100.com
 cdn.lentainform.com
 cdn.lfstmedia.com
 cdn.liftoff.io
@@ -5472,7 +5463,6 @@ fimc.net
 findep.adnow.com
 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 finlogs.joyeggs.com
-fira-api.kurioapps.com
 first.iovation.com
 firstimpression.io
 fizzylabs.afftrack.com
@@ -6739,7 +6729,6 @@ ktracker.klick.com
 kukuplay.com
 kumma-hb.hb.adx1.com
 kurierat.cleverpush.com
-kurio-img.kurioapps.com
 kurlichan.com
 kvinit-prod.api.kochava.com
 kwifftracksdk.optimove.net
@@ -7532,10 +7521,8 @@ mobile.avazutracking.net
 mobile.cmtelematics.com
 mobile.controller.duokanbox.com
 mobile.eum-appdynamics.com
-mobile.foundationsoft.com
 mobile.game-insight.com
 mobile.ib.sin1.geoadnxs.com
-mobile.impacttestonline.com
 mobile.itsbetter.com
 mobile.mediabrix.com
 mobile.mng-ads.com
@@ -7715,6 +7702,7 @@ mtrcss.com
 mtrx.go.sonobi.com
 mucu.jp
 mug.criteo.com
+muliphein.iad-01.braze.com
 multiply.crwdcntrl.net
 munchkin.marketo.net
 musculahq.appspot.com
@@ -8254,7 +8242,6 @@ p.avazunativeads.com
 p.bokecc.com
 p.boostads.co
 p.hiimps.com
-p.kuaidi100.com
 p.l.qq.com
 p.medialytics.com
 p.metrilo.com
@@ -9543,7 +9530,6 @@ sdk.fevo.com
 sdk.fiksu.com
 sdk.fitle.com
 sdk.follow-apps.com
-sdk.foursquare.com
 sdk.fra-01.braze.eu
 sdk.g.uc.cn
 sdk.gplayspace.com
@@ -11276,7 +11262,6 @@ trk.wrinkads.com
 trueblue-sdkapi.onereach.com
 trunk.guce.adtech.de
 truoctran.com
-trx.kurioapps.com
 trx.mxmfb.com
 ts-tracker-env-2.us-east-1.elasticbeanstalk.com
 ts-tracker-env.us-east-1.elasticbeanstalk.com
@@ -11990,7 +11975,6 @@ wspeed.qq.com
 wsq.umeng.com
 wtanalytics-a.akamaihd.net
 wurren.iad-03.braze.com
-wutlar.fortumo.com
 wuxiaworld-d.openx.net
 wv.inner-active.mobi
 ww1.collserve.com
