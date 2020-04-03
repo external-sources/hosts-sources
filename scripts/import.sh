@@ -32,10 +32,6 @@ printf "Imported abuse.ch\n"
 ${WGET} -qO- 'https://urlhaus.abuse.ch/downloads/rpz/' | awk '/^;/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > data/abuse.ch/urlhaus/domain.list
 printf "Imported urlhaus.abuse.ch\n"
 
-# Do to high numbers (1000+) We see no other option than deleting this misleading resource as untrustworthy
-#${WGET} -qO- 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/StevenBlack/domain.list
-#printf "Imported StevenBlack\n"
-
 ${WGET} -qO- 'http://someonewhocares.org/hosts/hosts' | grep -v '#' | awk '/^#/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/someonewhocares/domain.list
 printf "Imported someonewhocares\n"
 
