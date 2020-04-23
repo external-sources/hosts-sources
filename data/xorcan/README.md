@@ -5,13 +5,13 @@
 
 ## Kullanım
 
-AdAway ile kullanınız. Android için tasarlanmıştır.
+AdAway ile kullanınız. -çoğunlukla- Android için tasarlanmıştır.
 
-## Windows için Önerilen nedir?
+## Windows için Önerilen
 
 - İnternet tarayıcınızda [nano adblocker](https://github.com/NanoAdblocker/NanoCore2) kullanarak etkin bir şekilde element filtrelemesi yapabilirsiniz. Bunun için öncelikle tarayıcınız için olanını edinin:
-- [Chrome için nano adblocker](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo) -- 
-[Firefox için nano adblocker](https://addons.mozilla.org/en-US/firefox/addon/nano-adblocker-firefox/)
+- [Chrome için nano adblocker](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo) - 
+[Firefox için nano adblocker](https://addons.mozilla.org/en-US/firefox/addon/nano-adblocker-firefox/) - [Edge için nano adblocker](https://microsoftedge.microsoft.com/addons/detail/epbkapkgcmdmfpogenoebpdeibmfinpf)
 
 Opera için öncelikle şunu indirin:
 [Opera için Chrome eklentilerini indirme eklentisi](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)
@@ -31,8 +31,8 @@ Ardından sanki Chrome tarayıcınıza yüklüyormuş gibi şuradan "Opera'ya ek
 ## "Reklam Engelleyicini Kapat" Uyarılarına Karşı Çözüm
 
 "Adblock'unuzu kapatın" uyarılarına karşı nano defender kullanabilirsiniz
-- [Firefox için nano defender](https://addons.mozilla.org/tr/firefox/addon/nano-defender-firefox/) -- 
-[Chrome için nano defender](https://chrome.google.com/webstore/detail/nano-defender/ggolfgbegefeeoocgjbmkembbncoadlb)
+- [Firefox için nano defender](https://addons.mozilla.org/tr/firefox/addon/nano-defender-firefox/) - 
+[Chrome için nano defender](https://chrome.google.com/webstore/detail/nano-defender/ggolfgbegefeeoocgjbmkembbncoadlb) - [Edge için nano defender](https://microsoftedge.microsoft.com/addons/detail/ijfkmnlofajajikjhfiigelipempcklj)
 
 ### Opera için fazladan adım gerekir:
 
@@ -42,25 +42,7 @@ Ardından sanki Chrome tarayıcınıza yüklüyormuş gibi şuradan "Opera'ya ek
 Ardından sanki Chrome tarayıcınıza yüklüyormuş gibi şuradan "Opera'ya ekle" diyeceksiniz:
 - [Chrome için nano defender](https://chrome.google.com/webstore/detail/nano-defender/ggolfgbegefeeoocgjbmkembbncoadlb)
 
-### Chrome ve Opera için fazladan adım gerekir:
-
-nano adblocker ayarlarına gidin.
-"Deneyimli kullanıcıyım" seçeneğini aktif edin.
-Hemen yanında çıkan dişli işaretine tıklayın:
-
-![şu işaret](https://i.postimg.cc/9f7DY9sQ/screenshot-2019-08-04-at-11-20-07.png)
-
-Açılan sekmede "userResourcesLocation" yazan satırı bulun.
-"unset" yazan yeri silip şu satırı yazın ("1." olmadan):
-
-1. ```https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoResources.txt```
-
 ![şöyle olacak](https://i.postimg.cc/cC412tkY/screenshot-2019-08-04-at-11-24-44.png)
-
-Değişiklikleri kaydet deyin ve çıkın.
-[Şu adresteki](https://jspenguin2017.github.io/uBlockProtector/#extra-installation-steps-for-ublock-origin) kırmızıyla belirtilen kısımlara tıklayarak hepsine abone olun:
-
-![bunun gibi](https://i.postimg.cc/BZYJt6wY/screenshot-2019-08-04-at-11-33-05.png)
 
 ## Ayarlamalarınız Bittiğinde Şöyle Görünmelidir:
 
@@ -77,16 +59,44 @@ Değişiklikleri kaydet deyin ve çıkın.
 - Bilgisayarınızı yeniden başlatın.
 - NOT: Windows için beyazliste'yi ekleyemeyeceğiniz için sadece xhosts.txt dosyasını kullacaksınız.
 
-## Android için (AdAway (Root)) (Adım 1/2)
+## Android için Seçenekler
+
+Ücretsiz yazılımlar genelde hosts seviyesinde reklam engelleyebilmekte ve çoğu zaman uygulamalarda reklamları engelleyememektedir. Android için [şuraya](https://telegra.ph/t%C3%BCrk-reklamlar%C4%B1-engellemek-04-05) bakmanızı öneririm.
+
+### Android için AdGuard (ÜCRETLİ)
+Android için AdGuard yazılımı bu konuda en iyisi denilebilir. Ücretli (Premium) sürümde birçok filtre kullanma imkanı size sunuyor ve daha gelişmiş bir reklam engelleme teknolojisi kullanıyor. Dediğim gibi bu uygulama ücretlidir ve [Google reklam politikalarının işine gelmedeği için Google Play'den kaldırılmıştır](https://blog.adguard.com/en/google-removes-adguard-android-app-google-play/).
++ [Android için AdGuard](https://adguard.com/tr/adguard-android/overview.html)
++ Kurulum ve kullanımı kolaydır, ROOT gerektirmez.
++ 14 gün ücretsiz tam sürümü deneyebilirsiniz,
++ Ayarlardan istediğiniz filtreleri (yukarıdaki filtrelerin aynılarını) etkinleştirebilirsiniz.
++ Filtreleme yöntemini "Yüksek Kaliteli" yapın.
++ HTTPS kullanan reklam ağlarını ve uygulamaları (Youtube reklamları gibi) engelleyebilir.
 
 Root erişim izniniz varsa telefonun kendi "hosts" dosyasını değiştirmelisiniz. Bu, batarya ve RAM tasarrufu sağlar.
 Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host dosyaları ile reklam engelleyen ücretsiz bir uygulamadır.
 
-- AdAway uygulamasını [buradan](https://f-droid.org/packages/org.adaway/) indirin. ("f-droid indir" linkinin altındaki "apk indir" linkine tıklayarak)
+### DNS66 (ÜCRETSİZ - Cihaz 'ROOTLU' değilse)
+
+Telefonunuzda root işlemi yapmak zor ve riskli olabilir. Telefonunuzu garanti kapsamı dışına çıkarabilir. Telefonunuz root edilmemiş ise aşağıdaki adımlarla reklamları engelleyebilirsiniz.
+
+- [DNS66](https://github.com/julian-klode/dns66/releases) uygulamasını (Assets kısmındaki ".apk" uzantılı ve her zaman en üsttteki dosyayı) indirin.
+- Bilinmeyen kaynaklar uyarısına izin verin. Uygulamayı telefonunuza / tabletinize kurun.
+- Uygulamayı açın, alt bölümde "Domain Filters" sekmesine dokunun.
+- Sağ alt taraftaki artı (artı) ikonuna dokunun ve aşağıdaki değerleri yazın.
+- Title: xorcan adlist
+- Location: ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
+- Action: Deny
+- Sağ üstten "Save" diyerek bu ayarları kaydedin. Yukarıdaki yenile butonuna dokunarak güncellemeleri indirin.
+- Start/Stop menüsüne geçin, ekrana uzunca dokunun ve filtrelemeyi etkinleştirin.
+- Eğer bildirim alanında anahtar işareti görüyorsanız, filtrelerimiz etkindir. Reklamsız gezinebilirsiniz.
+
+### AdAway (Root)
+
+- AdAway uygulamasını [buradan](https://github.com/AdAway/AdAway/releases) (Assets kısmındaki ".apk" uzantılı ve her zaman en üsttteki dosyayı) indirin.
 - Uygulamayı telefonunuza veya tabletinize kurun.
 - Uygulamayı açın ve uygulama menüsünden "Host kaynakları" sekmesini açın.
 - Sağ üst köşedeki '+' işaretine dokunun. Bir bağlantı girmeniz istenecektir.
-- Aşağıdaki adresini kopyalayıp bu kısma yapıştırın ve ekleyin. (beyaz listeyle birlikte kullanınız.)
+- Aşağıdaki adreslerden **olmayanları** kopyalayıp bu kısma yapıştırın ve ekleyin.
 - (Bunlar benim önerilerim ve normal Android kullanıcıları için yeterlidir. Ben daha fazla istiyorum diyorsanız [şuraya](https://github.com/xorcan/hosts/blob/master/OTHERS.md) bakabilirsiniz.)
 
 1. ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
@@ -98,12 +108,6 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 7. ```https://raw.githubusercontent.com/xorcan/disconnect.me-lists/master/simple_malvertising.txt```
 
 - Ana menüye dönün, güncellemeleri denetleyip uygulayın. Cihazınızı yeniden başlatın.
-
-## Beyazliste (AdAway için) (Adım 2/2)
-
-- Bu listeyi cihazınıza indirerek, "Your lists" bölümünden "Import all" diyerek içeri alacaksınız. Bazı sitelerin düzgün çalışması için gereklidir. Eğer liste başlayıp hemen bitmişse eklemenize gerek yok.
-
-1. ```https://raw.githubusercontent.com/xorcan/hosts/master/xwhite.txt```
 
 ## Eklememeniz gereken listeler (Yutulanlar)
 
@@ -123,7 +127,7 @@ Burada belirtilen durumlar dosyalarda bulunmadığı için manuel olarak ayarlam
 - karalisteye eklemek için: "adaway > your" lists alanına girin. altta "blacklist" seçili olduğundan emin olduktan sonra "+ (uçan buton)" işaretine tıklayıp belirtilen kısmı yazın.
 - beyazlisteye eklemek için: "adaway > your" lists alanına girin. altta "whitelist" seçili olduğundan emin olduktan sonra "+ (uçan buton)" işaretine tıklayıp belirtilen kısmı yazın.
 
-### seçmeli karaliste
+### Seçmeli Karaliste
 
 1. ```ads.facebook.com``` Facebook reklamları için.
 
