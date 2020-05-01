@@ -153,7 +153,9 @@ ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/m
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/README.md" -O "data/mitchellkrogza/phishing.database/README.md"
 
 mkdir -p "data/mitchellkrogza/Ultimate.Hosts.Blacklist/"
-${WGET} -q "https://hosts.ubuntu101.co.za/domains.list" -O "data/mitchellkrogza/Ultimate.Hosts.Blacklist/domain.list"
+# As I have no idea or couln't find any RFC telling me that an IPv4 is a valid
+# domain name. It is nessesary to remove them from "Domain"? list
+${WGET} -qO- "https://hosts.ubuntu101.co.za/domains.list" | grep -vE "^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$" > "data/mitchellkrogza/Ultimate.Hosts.Blacklist/domain.list"
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/README.md" -O "data/mitchellkrogza/Ultimate.Hosts.Blacklist/README.md"
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/LICENSE.md" -O "data/mitchellkrogza/Ultimate.Hosts.Blacklist/LICENSE.md"
 # END @mitchellkrogza's many lists
