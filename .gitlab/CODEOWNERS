@@ -3,6 +3,7 @@
 # your self to that file(s) by:
 # example.sh @your-user-name
 
-.gitlab-ci.yml @Spirillen
+.gitlab-ci.yml @Spirillen @AnonymousPoster
 
-* @Spirillen
+* @Spirillen @AnonymousPoster
+data/mitchellkrogza/ @mitchellkrogza @Spirillen @AnonymousPoster
