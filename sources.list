@@ -16,7 +16,6 @@ https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/yoyo.org/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/suspiciousdomains_low/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/windowsspyblocker/domain.list
-https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/the-big-list-of-hacked-malware-web-sites/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/cedia/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/hphosts_ad_servers/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/dg-ads/domain.list
@@ -31,7 +30,9 @@ https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/hphosts_psh/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/dg-malicious/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/BBcan177_MS-4/domain.list
+https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/mitchellkrogza/the-big-list-of-hacked-malware-web-sites/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/mitchellkrogza/Ultimate.Hosts.Blacklist/domain.list
+https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/mitchellkrogza/badd_boyz_hosts/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/mitchellkrogza/phishing.database/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/malwaredomainlist/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/openfish/domain.list
@@ -48,6 +49,5 @@ https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/hphosts_fsa/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/hphosts_emd/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/abuse.ch/urlhaus/domain.list
-https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/badd_boyz_hosts/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/blocklist_fraud/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/CoinBlockerLists/domain.list
