@@ -2054,7 +2054,6 @@ antenna-us.ayads.co
 antenna.ayads.co
 anthill.vn
 antivirus.baidu.com
-anx.mindspark.com
 anycast.adnxs.com
 anycast.dt.adsafeprotected.com
 anycast.fw.adsafeprotected.com
@@ -2110,7 +2109,6 @@ api-dot-mwm-ad-mediation.appspot.com
 api-ext.mediav.com
 api-gateway.us-west-2.elasticbeanstalk.com
 api-gdpr.voodoo-tech.io
-api-grpc.lightstep.com
 api-log-analytics.cloud.toast.com
 api-log.immomo.com
 api-logsink-prod.zedge.io
@@ -2417,7 +2415,6 @@ api.vigo.ru
 api.vineapp.com
 api.visicom.ua
 api.voiceads.cn
-api.vsee.com
 api.vungle.akadns.net
 api.vungle.com
 api.vungle.com.edgekey.net
@@ -4149,8 +4146,6 @@ collector-009.newrelic.com
 collector-010.newrelic.com
 collector-6271.tvsquared.com
 collector-a.perimeterx.net
-collector-grpc.lightstep.com
-collector-medium.lightstep.com
 collector-pool.newrelic.com
 collector-px8fcgygk4.perimeterx.net
 collector-pxhyx10rg3.perimeterx.net
@@ -4164,7 +4159,6 @@ collector.doordash.com
 collector.effectivemeasure.net
 collector.insight-stats.com
 collector.leaddyno.com
-collector.lightstep.com
 collector.newrelic.com
 collector.placelocal.com
 collector.pyze.com
@@ -5256,7 +5250,6 @@ eua.insight.adsrvr.org
 euadsapi.manhuaren.com
 euapi.ibm.xtify.com
 euasync01.admantx.com
-eula.mindspark.com
 eur-ukp.adsrvr.org
 eurldmma.com.com
 eurm.recs.richrelevance.com
