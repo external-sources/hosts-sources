@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://t.me/hostsTR" alt="Rahatsız Siteler Telegram Grubu"><img src="https://raw.githubusercontent.com/xorcan/hosts/master/xorcan.hosts.logo.jpg" width="250"></a></br>
+<h2 align="center"><a href="https://www.google.com/search?&q=t%C3%BCrk+adlist+xorcan" alt="Rahatsız Siteler Türk Adlist"><img src="https://raw.githubusercontent.com/xorcan/hosts/master/xorcan.hosts.logo.jpg" width="250"></a></br>
 <b>Türk Ad-list, Reklam Engelleme Listesi, HOSTS</b></h2><h4 align="center">Bahis, dolandırıcılık gibi rahatsız edici siteleri engeller. <a href="https://github.com/xorcan/hosts/blob/master/README-EN.md">English</a></h4>
 
 <p align="center"><a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/github/license/xorcan/hosts.svg"></a> <a href="https://www.google.com/search?&q=t%C3%BCrk+adlist+xorcan" alt="Türkçe Ad-listler"><img src="https://img.shields.io/badge/t%C3%BCrk%C3%A7e-reklam%20listesi-f44b42.svg"></a>  <a href="https://github.com/xorcan/hosts/issues" alt="Hatalar"><img src="https://img.shields.io/github/issues/xorcan/hosts.svg"></a> 
@@ -41,8 +41,6 @@ Ardından sanki Chrome tarayıcınıza yüklüyormuş gibi şuradan "Opera'ya ek
 
 Ardından sanki Chrome tarayıcınıza yüklüyormuş gibi şuradan "Opera'ya ekle" diyeceksiniz:
 - [Chrome için nano defender](https://chrome.google.com/webstore/detail/nano-defender/ggolfgbegefeeoocgjbmkembbncoadlb)
-
-![şöyle olacak](https://i.postimg.cc/cC412tkY/screenshot-2019-08-04-at-11-24-44.png)
 
 ## Ayarlamalarınız Bittiğinde Şöyle Görünmelidir:
 
@@ -105,7 +103,7 @@ Telefonunuzda root işlemi yapmak zor ve riskli olabilir. Telefonunuzu garanti k
 4. ```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
 5. ```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
 6. ```https://someonewhocares.org/hosts/hosts```
-7. ```https://raw.githubusercontent.com/xorcan/disconnect.me-lists/master/simple_malvertising.txt```
+7. ```https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt```
 
 - Ana menüye dönün, güncellemeleri denetleyip uygulayın. Cihazınızı yeniden başlatın.
 
