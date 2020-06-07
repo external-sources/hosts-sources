@@ -19,9 +19,12 @@ Ardından sanki Chrome tarayıcınıza yüklüyormuş gibi şuradan "Opera'ya ek
 [Opera için nano adblocker](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo)
 
 - Ardından nano adblocker > Kontrol Paneli > Süzgeç Listeleri > İçe Aktar (en altta) bölümünden açılan url ekleme kutusuna şu linkleri ekleyin:
-1. ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
-2. ```https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt```
-3. ```https://raw.githubusercontent.com/xorcan/hosts/master/xips.txt```
+
+```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
+
+```https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt```
+
+```https://raw.githubusercontent.com/xorcan/hosts/master/xips.txt```
 
 ![bunun gibi](https://i.postimg.cc/636NpJVx/screenshot-2019-08-04-at-11-39-17.png)
 
@@ -51,7 +54,9 @@ Ardından sanki Chrome tarayıcınıza yüklüyormuş gibi şuradan "Opera'ya ek
 ## Windows için Önerilmeyen nedir?
 
 - Aşağıdaki adrese girerek listenin tamamını kopyalayın:
-1. ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
+
+```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
+
 - Bilgisayarınızda C:\Windows\System32\drivers\etc konumundaki hosts dosyasını bulun.
 - hosts dosyasını notepad++ ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
@@ -97,13 +102,19 @@ Telefonunuzda root işlemi yapmak zor ve riskli olabilir. Telefonunuzu garanti k
 - Aşağıdaki adreslerden **olmayanları** kopyalayıp bu kısma yapıştırın ve ekleyin.
 - (Bunlar benim önerilerim ve normal Android kullanıcıları için yeterlidir. Ben daha fazla istiyorum diyorsanız [şuraya](https://github.com/xorcan/hosts/blob/master/OTHERS.md) bakabilirsiniz.)
 
-1. ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
-2. ```https://adaway.org/hosts.txt```
-3. ```https://hosts-file.net/ad_servers.txt```
-4. ```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
-5. ```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
-6. ```https://someonewhocares.org/hosts/hosts```
-7. ```https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt```
+```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
+
+```https://adaway.org/hosts.txt```
+
+```https://hosts-file.net/ad_servers.txt```
+
+```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
+
+```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
+
+```https://someonewhocares.org/hosts/hosts```
+
+```https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt```
 
 - Ana menüye dönün, güncellemeleri denetleyip uygulayın. Cihazınızı yeniden başlatın.
 
@@ -111,10 +122,13 @@ Telefonunuzda root işlemi yapmak zor ve riskli olabilir. Telefonunuzu garanti k
 
 Bu liste sağlayıcıyı kullanarak altta belirtilen listeleri de otomatik olarak kullanmış olursunuz. Endişe etmeyin, onlar da sürekli en güncel halinde olacaklar. Anlayacağınız bunları eklemenize gerek yok.
 
-1. ```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt```
-2. ```https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts```
-3. ```https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts```
-4. ```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt```
+```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt```
+
+```https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts```
+
+```https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts```
+
+```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt```
 
 ## [Diğer listeler](https://github.com/xorcan/hosts/blob/master/OTHERS.md)
 
@@ -124,10 +138,6 @@ Burada belirtilen durumlar dosyalarda bulunmadığı için manuel olarak ayarlam
 
 - karalisteye eklemek için: "adaway > your" lists alanına girin. altta "blacklist" seçili olduğundan emin olduktan sonra "+ (uçan buton)" işaretine tıklayıp belirtilen kısmı yazın.
 - beyazlisteye eklemek için: "adaway > your" lists alanına girin. altta "whitelist" seçili olduğundan emin olduktan sonra "+ (uçan buton)" işaretine tıklayıp belirtilen kısmı yazın.
-
-### Seçmeli Karaliste
-
-1. ```ads.facebook.com``` Facebook reklamları için.
 
 ## Rahatsız Siteyi Nasıl Bildireceğim?
 
