@@ -3,14 +3,14 @@
 # The perpose of this script is to import various eternal hosts files into lists
 # that contail only domain.tld for easier working with the lists to our RPZ files
 
-# Exit on any erros
+# Exit on any errors
 
 set -e
 
 # Set the right path for "executebles"
-WGET=`(which wget)`
-CURL=`(which curl)`
-PYTHON=`(which python3)`
+WGET=`(command -v wget)`
+CURL=`(command -v curl)`
+PYTHON=`(command -v python3)`
 
 # Next let's Download some external sources, so we don't need to keep
 # downloading them, and save them some bandwidth
@@ -97,7 +97,6 @@ printf "Imported suspiciousdomains Medium\n"
 ${WGET} -qO- "https://www.dshield.org/feeds/suspiciousdomains_High.txt" | awk '/^(#|$)/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/suspiciousdomains_high/domain.list"
 printf "Imported suspiciousdomains High\n"
 
-
 ${WGET} -qO- "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/notrack/blocklists/domain.list"
 printf "Imported notrack-blocklist\n"
 
@@ -131,13 +130,17 @@ ${WGET} -qO- "https://blocklist.site/app/dl/redirect" | awk '/^(#|$)/{ next }; {
 ${WGET} -qO- "https://blocklist.site/app/dl/scam" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_scam/domain.list"
 ${WGET} -qO- "https://blocklist.site/app/dl/spam" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_spam/domain.list"
 ${WGET} -qO- "https://blocklist.site/app/dl/tracking" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_tracking/domain.list"
+printf "Imported blocklist.site/app/dl/\n"
 
 ${WGET} -qO- "https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/BBcan177_MS-4/domain.list"
 ${WGET} -qO- "https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/BBcan177_MS-2/domain.list"
+printf "Imported BBcan177\n"
 
 ${WGET} -qO- "https://phishing.army/download/phishing_army_blocklist_extended.txt"| awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/phishing_army_blocklist_extended/domain.list"
+printf "Imported phishing.army\n"
 
 # START @mitchellkrogza's many lists
+printf "START importing @mitchellkrogza's many lists\n"
 ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/mitchellkrogza/badd_boyz_hosts/domain.list"
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/README.md" -O "data/mitchellkrogza/badd_boyz_hosts/README.md"
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/LICENSE.md" -O "data/mitchellkrogza/badd_boyz_hosts/LICENSE.md"
@@ -158,23 +161,39 @@ mkdir -p "data/mitchellkrogza/Ultimate.Hosts.Blacklist/"
 ${WGET} -qO- "https://hosts.ubuntu101.co.za/domains.list" | grep -vE "^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$" > "data/mitchellkrogza/Ultimate.Hosts.Blacklist/domain.list"
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/README.md" -O "data/mitchellkrogza/Ultimate.Hosts.Blacklist/README.md"
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/LICENSE.md" -O "data/mitchellkrogza/Ultimate.Hosts.Blacklist/LICENSE.md"
+printf "Done importing @mitchellkrogza's many lists\n"
 # END @mitchellkrogza's many lists
 
+mkdir -p "data/bambenekconsulting/"
 ${WGET} -qO- "https://osint.bambenekconsulting.com/feeds/c2-dommasterlist.txt" |  awk -F "," '!/^($|#)/{ print $1 | "sort -i | uniq -u -i " }' > "data/bambenekconsulting/domain.list"
 ${WGET} -q "https://osint.bambenekconsulting.com/feeds/license.txt" -O "data/bambenekconsulting/LICENSE.md"
+printf "Imported bambenekconsulting.com\n"
 
 # spamhaus.org
 # drop
+mkdir -p "data/spamhaus/drop/"
 ${WGET} -qO- "https://www.spamhaus.org/drop/drop.txt" | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | sed 's/ \;.*$//' | awk -F "[/.]" '{  printf("%s.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n%s.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$5,$4,$3,$2,$1,$5,$4,$3,$2,$1) }' > "data/spamhaus/drop/ipv4.in-addr.arpa"
+printf "Imported Drop spamhaus.org\n"
+
+# implanting .dtq from https://www.mypdns.org/w/ixfrdist/#532
+
 
 # Edrop
 ${WGET} -qO- "https://www.spamhaus.org/drop/edrop.txt" | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | sed 's/ \;.*$//' | awk -F "[/.]" '{  printf("%s.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n%s.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$5,$4,$3,$2,$1,$5,$4,$3,$2,$1) }' > "data/spamhaus/edrop/ipv4.in-addr.arpa"
+printf "Imported eDrop spamhaus.org\n"
 
 printf "Importing Disconnect ad-servers\n"
 mkdir -p data/disconnect-me/
 ${WGET} -qO- "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > "data/disconnect-me/domain.list"
+printf "Imported simple disconnect.me\n"
 
 printf "Importing openfish.com\n"
 # We need to avoid the IP hosts provided by openfish as they can't be used with hosts files'
 ${WGET} -qO- "https://openphish.com/feed.txt" | awk -F "/" '!/^($|#)/{ print $3 | "sort -u | uniq -u -i " }' | grep -Ev "\b(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\b" > "data/openfish/domain.list"
 ${WGET} -qO- "https://openphish.com/feed.txt" | awk -F "/" '!/^($|#)/{ print $3 | "sort -u | uniq -u -i " }' | grep -E "\b(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\b" | awk -F "." '{  printf("32.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n32.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$4,$3,$2,$1,$4,$3,$2,$1) }' > "data/openfish/ipv4.in-addr.arpa"
+
+
+
+
+
+
