@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://t.me/hostsTR" alt="Annoying Sites Telegram Group"><img src="https://raw.githubusercontent.com/xorcan/hosts/master/xorcan.hosts.logo.jpg" width="250"></a></br>
+<h2 align="center"><a href="https://www.google.com/search?&q=t%C3%BCrk+adlist+xorcan" alt="Annoying Sites xorcan türk-adlist"><img src="https://raw.githubusercontent.com/xorcan/hosts/master/xorcan.hosts.logo.jpg" width="250"></a></br>
 <b>Turkish Ad-list, Ad-Block List, HOSTS</b></h2><h4 align="center">Blocks annoying sites like betting and fraud. <a href="https://github.com/xorcan/hosts/blob/master/README.md">Türkçe</a></h4>
 
 <p align="center"><a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/github/license/xorcan/hosts.svg"></a> <a href="https://www.google.com/search?&q=t%C3%BCrk+adlist+xorcan" alt="Türkçe Ad-listler"><img src="https://img.shields.io/badge/t%C3%BCrk%C3%A7e-reklam%20listesi-f44b42.svg"></a>  <a href="https://github.com/xorcan/hosts/issues" alt="Hatalar"><img src="https://img.shields.io/github/issues/xorcan/hosts.svg"></a> 

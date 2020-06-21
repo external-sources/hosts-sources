@@ -31,12 +31,12 @@ az512334.vo.msecnd.net
 az725175.vo.msecnd.net
 bingforbusiness.com
 blob.weather.microsoft.com
+browser.events.data.microsoft.com
 c-0001.dc-msedge.net
 c1.microsoft.com
 candycrushsoda.king.com
 cdn.content.prod.cms.msn.com
 cdn.onenote.net
-ceuswatcab01.blob.core.windows.net
 checkappexec.microsoft.com
 choice.microsoft.com
 choice.microsoft.com.nsatc.net
@@ -55,9 +55,12 @@ dmd.metaservices.microsoft.com.akadns.net
 dns.msftncsi.com
 ecn.dev.virtualearth.net
 edgetipscdn.microsoft.com
+eu-v10.events.data.microsoft.com
+eu-v20.events.data.microsoft.com
 eu.vortex-win.data.microsoft.com
 eu.vortex.data.microsoft.com
 europe.smartscreen-prod.microsoft.com
+events.data.microsoft.com
 evoke-windowsservices-tas.msedge.net
 feedback.microsoft-hohm.com
 feedback.search.microsoft.com
@@ -76,6 +79,7 @@ img-s-msn-com.akamaized.net
 img.stb.s-msn.com
 inference.location.live.net
 insiderservice.microsoft.com
+insideruser.microsoft.com
 ipv4.login.live.com
 licensing.mp.microsoft.com
 location-inference-westus.cloudapp.net
@@ -87,6 +91,7 @@ m.hotmail.com
 manage.devcenter.microsoft.com
 maps.windows.com
 mediaredirect.microsoft.com
+mobile.events.data.microsoft.com
 mrodevicemgr.officeapps.live.com
 msagfx.live.com
 msftncsi.com
@@ -169,6 +174,7 @@ s.gateway.messenger.live.com
 s0.2mdn.net
 s2s.config.skype.com
 search.msn.com
+self.events.data.microsoft.com
 service.weather.microsoft.com
 settings-ssl.xboxlive.com
 settings-win.data.microsoft.com
@@ -192,7 +198,12 @@ uhf.microsoft.com
 ui.skype.com
 urs.microsoft.com
 urs.smartscreen.microsoft.com
+us-v10.events.data.microsoft.com
+us-v20.events.data.microsoft.com
 us.vortex-win.data.microsoft.com
+v10.events.data.microsoft.com
+v10c.events.data.microsoft.com
+v20.events.data.microsoft.com
 validation-v2.sls.microsoft.com
 validation.sls.microsoft.com
 version.hybrid.api.here.com
