@@ -24,11 +24,14 @@ before_script:
 
 after_script:
   - echo "After script section"
-  - git remote set-url origin https://git:$MypDNS_CI@gitlab.com/$CI_PROJECT_PATH.git
+  - url_host=`git remote get-url origin | sed -e "s/https:\/\/gitlab-ci-token:.*@//g"`
+  - git remote set-url origin "https://gitlab-ci-token:${DEPLOY_KEY}@${url_host}"
+  #- git remote set-url origin https://git:$MypDNS_CI@gitlab.com/$CI_PROJECT_PATH.git
   - git add .
   - git status
   - git commit -m '[skip ci] commit from CI runner'
-  - git push -u origin "${CI_COMMIT_BRANCH}"
+  - git push "https://${GITLAB_USER_NAME}:${DEPLOY_KEY}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}"
+  #- git push -u origin "${CI_COMMIT_BRANCH}"
 
 build:
   #parallel: 3

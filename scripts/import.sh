@@ -177,10 +177,11 @@ printf "Imported Drop spamhaus.org\n"
 
 # implanting .dtq from https://www.mypdns.org/w/ixfrdist/#532
 
-
 # Edrop
 ${WGET} -qO- "https://www.spamhaus.org/drop/edrop.txt" | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | sed 's/ \;.*$//' | awk -F "[/.]" '{  printf("%s.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n%s.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$5,$4,$3,$2,$1,$5,$4,$3,$2,$1) }' > "data/spamhaus/edrop/ipv4.in-addr.arpa"
 printf "Imported eDrop spamhaus.org\n"
+
+
 
 printf "Importing Disconnect ad-servers\n"
 mkdir -p data/disconnect-me/
