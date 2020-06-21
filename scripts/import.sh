@@ -130,7 +130,7 @@ ${WGET} -qO- "https://blocklist.site/app/dl/redirect" | awk '/^(#|$)/{ next }; {
 ${WGET} -qO- "https://blocklist.site/app/dl/scam" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_scam/domain.list"
 ${WGET} -qO- "https://blocklist.site/app/dl/spam" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_spam/domain.list"
 ${WGET} -qO- "https://blocklist.site/app/dl/tracking" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_tracking/domain.list"
-printf "Imported blocklist.site/app/dl/\n"
+printf "Imported blocklist.site\n"
 
 ${WGET} -qO- "https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/BBcan177_MS-4/domain.list"
 ${WGET} -qO- "https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/BBcan177_MS-2/domain.list"
@@ -140,6 +140,9 @@ ${WGET} -qO- "https://phishing.army/download/phishing_army_blocklist_extended.tx
 printf "Imported phishing.army\n"
 
 # START @mitchellkrogza's many lists
+mkdir -p "data/mitchellkrogza/Ultimate.Hosts.Blacklist/"
+mkdir -p "data/mitchellkrogza/badd_boyz_hosts/"
+
 printf "START importing @mitchellkrogza's many lists\n"
 ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/mitchellkrogza/badd_boyz_hosts/domain.list"
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/README.md" -O "data/mitchellkrogza/badd_boyz_hosts/README.md"
@@ -155,7 +158,6 @@ ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/LICENSE.md" -O "data/mitchellkrogza/phishing.database/LICENSE.md"
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/README.md" -O "data/mitchellkrogza/phishing.database/README.md"
 
-mkdir -p "data/mitchellkrogza/Ultimate.Hosts.Blacklist/"
 # As I have no idea or couln't find any RFC telling me that an IPv4 is a valid
 # domain name. It is nessesary to remove them from "Domain"? list
 ${WGET} -qO- "https://hosts.ubuntu101.co.za/domains.list" | grep -vE "^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$" > "data/mitchellkrogza/Ultimate.Hosts.Blacklist/domain.list"
@@ -181,9 +183,17 @@ printf "Imported Drop spamhaus.org\n"
 ${WGET} -qO- "https://www.spamhaus.org/drop/edrop.txt" | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | sed 's/ \;.*$//' | awk -F "[/.]" '{  printf("%s.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n%s.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$5,$4,$3,$2,$1,$5,$4,$3,$2,$1) }' > "data/spamhaus/edrop/ipv4.in-addr.arpa"
 printf "Imported eDrop spamhaus.org\n"
 
+# coinblocker
+mkdir -p "data/spamhaustech/coinblocker/"
+drill axfr coinblocker.srv @35.156.219.71 -p 53 | grep -vE "^(;|$)|(SOA|NS)" | sed -e 's/\.coinblocker\.srv\.[[:blank:]].*$//g' > "data/spamhaustech/coinblocker/domain.list"
+printf "Imported coinblocker .dtq\n"
 
+# Porn.hosts.srv
+mkdir -p "data/spamhaustech/porn_host_srv/"
+drill axfr @35.156.219.71 -p 53 porn.host.srv | grep -vE "^(;|$|\*)|(SOA|NS)" | sed -e 's/\.porn\.host\.srv\.[[:blank:]].*$//g' > "data/spamhaustech/porn_host_srv/domain.list"
+printf "Imported Porn.hosts.srv from ..dtq\n"
 
-printf "Importing Disconnect ad-servers\n"
+# Disconnect ad-servers
 mkdir -p data/disconnect-me/
 ${WGET} -qO- "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > "data/disconnect-me/domain.list"
 printf "Imported simple disconnect.me\n"
@@ -195,6 +205,6 @@ ${WGET} -qO- "https://openphish.com/feed.txt" | awk -F "/" '!/^($|#)/{ print $3 
 
 
 
-
+echo -e "This script ${0} exited with error code ${?}"
 
 
