@@ -162,7 +162,6 @@ bsDir_array=(abuse ads crypto drugs facebook fraud gambling malware phishing pir
 # This url is bullshit, trying to bump his own domain. Bullshit url="bsUrl="https://blocklist.site/app/dl/""
 bsUrl="https://raw.githubusercontent.com/blocklistproject/Lists/master/"
 
-phishing.txt
 for bs in "${bsDir_array[@]}"
 do
 	mkdir -p "data/blocklist_${bs}"
