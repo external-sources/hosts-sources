@@ -13,6 +13,7 @@ https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/malwaredomains/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/fademind_antipopads/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/suspiciousdomains_high/domain.list
+https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/blocklist_alware/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/yoyo.org/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/suspiciousdomains_low/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/windowsspyblocker/domain.list
@@ -20,8 +21,10 @@ https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/cedia/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/hphosts_ad_servers/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/dg-ads/domain.list
+https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/blocklist_ransomware/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/hphosts_grm/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/suspiciousdomains_medium/domain.list
+https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/blocklist_phishing/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/blocklist_tracking/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/phishing_army_blocklist_extended/domain.list
 https://gitlab.com/my-privacy-dns/external-sources/hosts-sources/raw/master/data/blocklist_malware/domain.list
