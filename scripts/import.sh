@@ -164,7 +164,7 @@ bsUrl="https://blocklist.site/app/dl/"
 for bs in "${bsDir_array[@]}"
 do
 	mkdir -p "data/blocklist_${bs}"
-	${WGET} -qO- "${bsUrl}/${bs}" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2))" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_${bs}/domain.list"
+	${WGET} -qO- "${bsUrl}/${bs}" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_${bs}/domain.list"
 done
 
 #${WGET} -qO- "https://blocklist.site/app/dl/ads" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_ads/domain.list"
