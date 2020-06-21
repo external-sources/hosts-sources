@@ -30,7 +30,7 @@ after_script:
   - git add .
   - git status
   - git commit -m '[skip ci] commit from CI runner'
-  - git push "https://${GITLAB_USER_NAME}:${DEPLOY_KEY}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}"
+  - git push "https://${GITLAB_USER_NAME}:${DEPLOY_KEY}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_BRANCH}"
   #- git push -u origin "${CI_COMMIT_BRANCH}"
 
 build:
