@@ -135,7 +135,7 @@ do
 	mkdir -p "data/hphosts/${d}"
 	${WGET} -qO- "${hpUrl}/${d}.txt" | grep -vE '^(#|$)' > "data/hphosts/${d}/domain.list"
 done
-tree --prune -f "data/hphosts/"
+
 	#${WGET} -qO- "https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/ad_servers.txt" | grep -vE '^(#|$)' > "hphosts/${d}/ad_servers/domain.list"
 	#${WGET} -qO- "https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/emd.txt" | grep -vE '^(#|$)' > "hphosts/${d}/emd/domain.list"
 	#${WGET} -qO- "https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/exp.txt" | grep -vE '^(#|$)' > "hphosts/${d}/exp/domain.list"
