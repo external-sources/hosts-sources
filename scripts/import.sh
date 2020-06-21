@@ -158,7 +158,7 @@ printf "Imported cedia\n"
 ${WGET} -qO- https://mirror1.malwaredomains.com/files/justdomains | grep -ivE '^(#|$)' | sort | uniq -u > data/malwaredomains/domain.list
 printf "Imported mirror1.malwaredomains.com\n"
 
-bsDir_array="ads fraud alware phishing ransomware redirect scam spam tracking"
+bsDir_array=(ads fraud alware phishing ransomware redirect scam spam tracking)
 bsUrl="https://blocklist.site/app/dl/"
 
 for bs in "${bsDir_array[@]}"
