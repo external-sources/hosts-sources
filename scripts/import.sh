@@ -124,8 +124,8 @@ mkdir -p "data/notrack/malware/"
 ${WGET} -qO- "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/notrack/malware/domain.list"
 printf "Imported notrack-malware\n"
 
-
-printf "Downloading Active hosts-file.net.... from https://bitbucket.org/expiredsources/hosts-file.net/src/master/\n"
+# https://bitbucket.org/expiredsources/hosts-file.net/src/master/
+printf "Downloading Active hosts-file.net....\n"
 
 dir_array=(ad_servers emd exp fsa grm hjk mmt psh pup)
 hpUrl="https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/"
@@ -150,23 +150,37 @@ done
 dir_array=""
 hpUrl=""
 
-printf "Puuh.. done importing Active hosts-file.net.... from https://bitbucket.org/expiredsources/hosts-file.net/src/master/\n"
+printf "Puuh.. done importing Active hosts-file.net....\n"
 
 ${WGET} -qO- https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt | awk '/^(#|$)/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/cedia/domain.list"
 printf "Imported cedia\n"
 
 ${WGET} -qO- https://mirror1.malwaredomains.com/files/justdomains | grep -ivE '^(#|$)' | sort | uniq -u > data/malwaredomains/domain.list
-printf "mirror1.malwaredomains.com\n"
+printf "Imported mirror1.malwaredomains.com\n"
 
-${WGET} -qO- "https://blocklist.site/app/dl/ads" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_ads/domain.list"
-${WGET} -qO- "https://blocklist.site/app/dl/fraud" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_fraud/domain.list"
-${WGET} -qO- "https://blocklist.site/app/dl/malware" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_malware/domain.list"
-${WGET} -qO- "https://blocklist.site/app/dl/phishing" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_phising/domain.list"
-${WGET} -qO- "https://blocklist.site/app/dl/ransomware" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_ransomeware/domain.list"
-${WGET} -qO- "https://blocklist.site/app/dl/redirect" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_redirect/domain.list"
-${WGET} -qO- "https://blocklist.site/app/dl/scam" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_scam/domain.list"
-${WGET} -qO- "https://blocklist.site/app/dl/spam" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_spam/domain.list"
-${WGET} -qO- "https://blocklist.site/app/dl/tracking" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_tracking/domain.list"
+bsDir_array="ads fraud alware phishing ransomware redirect scam spam tracking"
+bsUrl="https://blocklist.site/app/dl/"
+
+for bs in "${bsDir_array[@]}"
+do
+	mkdir -p "data/blocklist_${bs}"
+	${WGET} -qO- "${bsUrl}/${bs}" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2))" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_${bs}/domain.list"
+done
+
+#${WGET} -qO- "https://blocklist.site/app/dl/ads" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_ads/domain.list"
+#${WGET} -qO- "https://blocklist.site/app/dl/fraud" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_fraud/domain.list"
+#${WGET} -qO- "https://blocklist.site/app/dl/malware" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_malware/domain.list"
+#${WGET} -qO- "https://blocklist.site/app/dl/phishing" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_phising/domain.list"
+#${WGET} -qO- "https://blocklist.site/app/dl/ransomware" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_ransomeware/domain.list"
+#${WGET} -qO- "https://blocklist.site/app/dl/redirect" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_redirect/domain.list"
+#${WGET} -qO- "https://blocklist.site/app/dl/scam" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_scam/domain.list"
+#${WGET} -qO- "https://blocklist.site/app/dl/spam" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_spam/domain.list"
+#${WGET} -qO- "https://blocklist.site/app/dl/tracking" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_tracking/domain.list"
+
+# Unset variables
+bsDir_array=""
+bsUrl=""
+
 printf "Imported blocklist.site\n"
 
 ${WGET} -qO- "https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/BBcan177_MS-4/domain.list"
@@ -228,7 +242,7 @@ mkdir -p "data/spamhaustech/coinblocker/"
 drill axfr coinblocker.srv @35.156.219.71 -p 53 | grep -vE "^(;|$)|(SOA|NS)" | sed -e 's/\.coinblocker\.srv\.[[:blank:]].*$//g' > "data/spamhaustech/coinblocker/domain.list"
 printf "Imported coinblocker .dtq\n"
 
-# Porn.hosts.srv
+printf "Importing Porn.hosts.srv"
 mkdir -p "data/spamhaustech/porn_host_srv/"
 drill axfr @35.156.219.71 -p 53 porn.host.srv | grep -vE "^(;|$|\*)|(SOA|NS)" | sed -e 's/\.porn\.host\.srv\.[[:blank:]].*$//g' > "data/spamhaustech/porn_host_srv/domain.list"
 printf "Imported Porn.hosts.srv from ..dtq\n"
@@ -244,8 +258,4 @@ mkdir -p "data/openfish/"
 ${WGET} -qO- "https://openphish.com/feed.txt" | awk -F "/" '!/^($|#)/{ print $3 | "sort -u | uniq -u -i " }' | grep -Ev "\b(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\b" > "data/openfish/domain.list"
 ${WGET} -qO- "https://openphish.com/feed.txt" | awk -F "/" '!/^($|#)/{ print $3 | "sort -u | uniq -u -i " }' | grep -E "\b(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\b" | awk -F "." '{  printf("32.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n32.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$4,$3,$2,$1,$4,$3,$2,$1) }' > "data/openfish/ipv4.in-addr.arpa"
 
-
-
-echo -e "\nThis script ${0} exited with error code ${?}\n"
-
-
+echo -e "\n\nThe script ${0}\nExited with error code ${?}\n\n"

@@ -11,4 +11,4 @@ do
 	printf "$CI_PROJECT_URL/raw/master/$lists\n" | sort -u -f >> "$CI_PROJECT_DIR/sources.list"
 done
 
-echo -e "\nThis script ${0} exited with error code ${?}\n"
+echo -e "\n\nThe script ${0}\nExited with error code ${?}\n\n"
