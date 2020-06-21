@@ -28,14 +28,14 @@ after_script:
   - git add .
   - git status
   - git commit -m '[skip ci] commit from CI runner'
-  - git push -u origin master
+  - git push -u origin "${CI_COMMIT_BRANCH}"
 
 build:
   #parallel: 3
   stage: build
   script:
     - echo "Building"
-    - git checkout -B master
+    - git checkout -B "${CI_COMMIT_BRANCH}"
     - bash $CI_PROJECT_DIR/scripts/import.sh
     - bash $CI_PROJECT_DIR/scripts/update_active_lists.sh
 
