@@ -205,6 +205,6 @@ ${WGET} -qO- "https://openphish.com/feed.txt" | awk -F "/" '!/^($|#)/{ print $3 
 
 
 
-echo -e "This script ${0} exited with error code ${?}"
+echo -e "\nThis script ${0} exited with error code ${?}\n"
 
 
