@@ -1,10 +1,8 @@
-0.0.3
-01. May 2020
-	- Added mitchellkrogza - Ultimate.Hosts.Blacklist
-0.0.2
-01. May 2020
-	- Updated `hosts-file.net` to be updated from https://bitbucket.org/expiredsources/hosts-file.net/
-	  From where we also only includes actually active records.
-0.0.1
+21 June 2020
+	- Updated the HpHost location
+	- Adding .dtq zones
+	- Updated the code for blocklist.site to use array
+
 15. January 2020
     - Replaces MobileAdTracker with adaway.github.io
+

@@ -10,3 +10,5 @@ for lists in `find data/ -type f -name domain.list`
 do
 	printf "$CI_PROJECT_URL/raw/master/$lists\n" | sort -u -f >> "$CI_PROJECT_DIR/sources.list"
 done
+
+echo -e "\n\nThe script ${0}\nExited with error code ${?}\n\n"
