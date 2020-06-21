@@ -133,18 +133,9 @@ hpUrl="https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/"
 for d in "${dir_array[@]}"
 do
 	mkdir -p "data/hphosts/${d}"
+	echo -e "\t\nImporting ${d}\n"
 	${WGET} -qO- "${hpUrl}/${d}.txt" | grep -vE '^(#|$)' > "data/hphosts/${d}/domain.list"
 done
-
-	#${WGET} -qO- "https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/ad_servers.txt" | grep -vE '^(#|$)' > "hphosts/${d}/ad_servers/domain.list"
-	#${WGET} -qO- "https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/emd.txt" | grep -vE '^(#|$)' > "hphosts/${d}/emd/domain.list"
-	#${WGET} -qO- "https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/exp.txt" | grep -vE '^(#|$)' > "hphosts/${d}/exp/domain.list"
-	#${WGET} -qO- "https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/fsa.txt" | grep -vE '^(#|$)' > "hphosts/${d}/fsa/domain.list"
-	#${WGET} -qO- "https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/grm.txt" | grep -vE '^(#|$)' > "hphosts/${d}/grm/domain.list"
-	#${WGET} -qO- "https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/hjk.txt" | grep -vE '^(#|$)' > "hphosts/${d}/hjk/domain.list"
-	#${WGET} -qO- "https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/mmt.txt" | grep -vE '^(#|$)' > "hphosts/${d}/mmt/domain.list"
-	#${WGET} -qO- "https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/psh.txt" | grep -vE '^(#|$)' > "hphosts/${d}/psh/domain.list"
-	#${WGET} -qO- "https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/pup.txt" | grep -vE '^(#|$)' > "hphosts/${d}/pup/domain.list"
 
 # For protecting the future devs we unset variables
 dir_array=""
@@ -158,25 +149,17 @@ printf "Imported cedia\n"
 ${WGET} -qO- https://mirror1.malwaredomains.com/files/justdomains | grep -ivE '^(#|$)' | sort | uniq -u > data/malwaredomains/domain.list
 printf "Imported mirror1.malwaredomains.com\n"
 
-bsDir_array=(abuse ads crypto drugs facebook fraud gambling malware phishing piracy porn ransomware redirect scam torrent tracking youtube)
+# blocklistproject CNAME blocklist-site
 # This url is bullshit, trying to bump his own domain. Bullshit url="bsUrl="https://blocklist.site/app/dl/""
+bsDir_array=(abuse ads crypto drugs facebook fraud gambling malware phishing piracy porn ransomware redirect scam torrent tracking youtube)
 bsUrl="https://raw.githubusercontent.com/blocklistproject/Lists/master/"
 
 for bs in "${bsDir_array[@]}"
 do
 	mkdir -p "data/blocklist_${bs}"
+	echo -e "\t\nImporting ${bs}\n"
 	${WGET} -qO- "${bsUrl}${bs}.txt" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_${bs}/domain.list"
 done
-
-#${WGET} -qO- "https://blocklist.site/app/dl/ads" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_ads/domain.list"
-#${WGET} -qO- "https://blocklist.site/app/dl/fraud" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_fraud/domain.list"
-#${WGET} -qO- "https://blocklist.site/app/dl/malware" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_malware/domain.list"
-#${WGET} -qO- "https://blocklist.site/app/dl/phishing" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_phising/domain.list"
-#${WGET} -qO- "https://blocklist.site/app/dl/ransomware" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_ransomeware/domain.list"
-#${WGET} -qO- "https://blocklist.site/app/dl/redirect" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_redirect/domain.list"
-#${WGET} -qO- "https://blocklist.site/app/dl/scam" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_scam/domain.list"
-#${WGET} -qO- "https://blocklist.site/app/dl/spam" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_spam/domain.list"
-#${WGET} -qO- "https://blocklist.site/app/dl/tracking" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_tracking/domain.list"
 
 # Unset variables
 bsDir_array=""
