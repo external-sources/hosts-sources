@@ -144,8 +144,8 @@ Burada belirtilen durumlar dosyalarda bulunmadığı için manuel olarak ayarlam
 Engellenmesini uygun gördüğünüz siteleri bildirin, listeye ekleyelim ki diğer insanlar bunlarla uğraşmasınlar. 
 
 1. [Hatalar](https://github.com/xorcan/hosts/issues) kısmından bildirebilirsiniz.
-2. [Posta](mailto:xorcan@yandex.com) ile bildirebilirsiniz.
-3. [Anonim (girişsiz) posta](https://anonymousemail.me) ile ```xorcan@yandex.com``` adresine bildirebilirsiniz.
+2. [Posta](mailto:xorcan@protonmail.com) ile bildirebilirsiniz.
+3. [Anonim (girişsiz) posta](https://anonymousemail.me) ile ```xorcan@protonmail.com``` adresine bildirebilirsiniz.
 
 ## Uyarı
 
