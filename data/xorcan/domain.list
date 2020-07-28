@@ -629,7 +629,6 @@ apklush.co
 app-analytics.snapchat.com
 app-measurement.com
 app.adjust.com
-app.link
 app.medyanetads.com
 app.networkad.net
 app.superbuzz.io
@@ -1251,6 +1250,7 @@ continuum.dds.microsoft.com
 coogle-prefeeds.com
 cookiebot.com
 coolthingstofind.xyz
+copyright
 core.insightexpressai.com
 coremetrics.com
 cotads.adscale.de
@@ -1361,6 +1361,7 @@ dertbeats.com
 designgroup.com.tr
 destekfx5.com
 destekfx6.com
+details:
 detect.rayjump.com
 devas.com.tr
 device-metrics-us-2.amazon.com
@@ -1504,6 +1505,7 @@ englishtorrent.com
 enmutlukare.com
 enoughts.info
 ensighten.com
+entries:
 enyenigelinlikmodelleri.net
 eokul-meb.com
 eokulegitim.com
@@ -1579,6 +1581,7 @@ exelator.com
 exjthrzliajfd.com
 exoclick.com
 exodor.com.tr
+expires:
 exploore.yas-tr.com
 extreme-dm.com
 extremefreegames.com
@@ -1641,6 +1644,7 @@ forexekaydol2.com
 forexekaydol3.com
 forexhesapac4.co
 forexhesapac5.co
+format:
 formens.pro
 fortumo.com
 fosclhrsdhhn.com
@@ -1894,6 +1898,7 @@ hkmicsy.tk
 hmo.com.tr
 hogwats.com
 holawaskinta.info
+homepage:
 hookup33.com
 horny-honey.online
 horny-pussies.com
@@ -2035,6 +2040,7 @@ ismtrum.gq
 ismtrum.ml
 ismtrum.tk
 ispapazarlama.com.tr
+issues:
 istanbul-amerikankapi-mutfakdolabi-parke-fiyatlari-modelleri.com
 istanbulairporttransfer.ist
 istanbuldanskursu.com
@@ -2295,6 +2301,7 @@ lhtoxez.ml
 lhtoxez.tk
 li-dermakine.com.tr
 liadm.com
+license:
 lidersahtebalik.com.tr
 lidyafx1.com
 lidyafx2.com
@@ -3149,6 +3156,7 @@ rek.hepaffiliates.com
 rek.mobi
 rek2.adsblok.com
 rek2.tascatlasa.com
+reklam
 reklam.arabul.com
 reklam.bahisanaliz.com
 reklam.bahisanaliz2.com
@@ -3187,8 +3195,10 @@ reklamz.com
 rekmob.com
 reksanistifleme.com.tr
 relandons.info
+released:
 relicotano.com
 remas-tr.com
+report
 report.appmetrica.yandex.net
 reports.crashlytics.com
 req.startappservice.com
@@ -3233,6 +3243,7 @@ rlink.live
 rlink.xyz
 rmz-e.com
 robonik.com.tr
+roketmail.co
 rolandolan.com
 roletaryk.info
 roltek.com.tr
@@ -3492,6 +3503,7 @@ songursigorta.com
 sonic.maltoka.com
 sonobi.com
 sosyal.rlink.live
+source:
 soyyigit.com.tr
 special-offers.online
 special-promotions.online
@@ -3665,6 +3677,7 @@ tindersohbet.xyz
 tipobet0195.com
 tita.com.tr
 titanturkey.com
+title:
 tk41.xyz
 tm.zedo.com
 tml.web.tr
@@ -7125,6 +7138,7 @@ www.rlink.live
 www.rlink.xyz
 www.rmz-e.com
 www.robonik.com.tr
+www.roketmail.co
 www.rolandolan.com
 www.roletaryk.info
 www.roltek.com.tr

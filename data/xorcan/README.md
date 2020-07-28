@@ -47,9 +47,7 @@ Ardından sanki Chrome tarayıcınıza yüklüyormuş gibi şuradan "Opera'ya ek
 
 ## Ayarlamalarınız Bittiğinde Şöyle Görünmelidir:
 
-![1](https://i.postimg.cc/fbNN10JL/screenshot-2019-08-04-at-11-11-29.png)
-![2](https://i.postimg.cc/PqQjHrwM/screenshot-2019-08-04-at-11-11-45.png)
-![3](https://i.postimg.cc/bN48H5P1/screenshot-2019-08-04-at-11-36-55.png)
+![1](https://raw.githubusercontent.com/xorcan/hosts/master/resim.png)
 
 ## Windows için Önerilmeyen nedir?
 
