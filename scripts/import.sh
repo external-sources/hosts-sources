@@ -55,7 +55,7 @@ ${WGET} -qO- "https://github.com/FadeMind/hosts.extras/raw/master/blocklists-fac
 printf "Imported FadeMind blocklists-facebook\n"
 
 mkdir -p "data/CoinBlockerLists/"
-${WGET} -qO- "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt" | sort -u | uniq -u | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/CoinBlockerLists/domain.list"
+${WGET} -qO- "https://zerodot1.gitlab.io/CoinBlockerLists/list.txt" | sort -u | uniq -u | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/CoinBlockerLists/domain.list"
 printf "Imported CoinBlockerLists\n"
 
 mkdir -p "data/xorcan/"
