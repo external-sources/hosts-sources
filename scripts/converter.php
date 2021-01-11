@@ -18,7 +18,11 @@ $lists = array(
 	'EasyPrivacySpecific' => 'https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt',
 
 	// EasyPrivacy Third-Party
-	'EasyPrivacy3rdParty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt'
+	'EasyPrivacy3rdParty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt',
+
+	// CoinBlocker
+	'CoinBlockerLists' => 'https://zerodot1.gitlab.io/CoinBlockerLists/list.txt'
+
 );
 
 foreach ( $lists as $name => $list ) {
@@ -29,7 +33,7 @@ foreach ( $lists as $name => $list ) {
 	$lines = explode( "\n", $lines );
 
 	// HOSTS header.
-	$hosts  = "# {$name}\n";
+	//$hosts  = "# {$name}\n";
 	//$hosts .= "#\n";
 	//$hosts .= "# Converted from - {$list}\n";
 	//$hosts .= "# Last converted - " . date( 'r' ) . "\n";
@@ -98,7 +102,6 @@ foreach ( $lists as $name => $list ) {
 			continue;
 		}
 
-
 		$hosts .= "{$filter}\n";
 	}
 
@@ -115,5 +118,5 @@ foreach ( $lists as $name => $list ) {
 	// Output the file.
 	file_put_contents( "{$name}.txt", $hosts );
 
-	echo "{$name} converted to HOSTS file - see {$name}.txt\n";
+	echo "{$name} converted to plain file - see {$name}.txt\n";
 }

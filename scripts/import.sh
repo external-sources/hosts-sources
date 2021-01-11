@@ -8,6 +8,8 @@
 set -e
 
 # Set the right path for "executebles"
+git_dir="$(git rev-parse --show-toplevel)"
+
 WGET=`(command -v wget)`
 CURL=`(command -v curl)`
 PYTHON=`(command -v python3)`
@@ -28,10 +30,6 @@ c() {
 mkdir -p "data/yoyo.org/"
 c 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=one-line&showintro=0&mimetype=plaintext' | egrep -v '#' | tr , '\n' | sort -u > "data/yoyo.org/domain.list"
 printf "Imported yoyo\n"
-
-# Ransomware Tracker has been discontinued on Dec 8th, 2019
-#${WGET} -qO- 'https://ransomwaretracker.abuse.ch/feeds/csv/' | awk -F, '/^(#|$)/{ next }; { if ( $4 ~ /[a-z]/ ) printf("%s\n",tolower($4)) }' | sed -e 's/"//g' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort -u > data/abuse.ch/ransomware/domain.list
-#printf "Imported abuse.ch\n"
 
 # Full featured RPZ list availble from
 # https://sslbl.abuse.ch/blacklist/sslbl.rpz
@@ -253,3 +251,6 @@ c "https://openphish.com/feed.txt" | awk -F "/" '!/^($|#)/{ print $3 | "sort -u 
 c "https://openphish.com/feed.txt" | awk -F "/" '!/^($|#)/{ print $3 | "sort -u | uniq -u -i " }' | grep -E "\b(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\b" | awk -F "." '{  printf("32.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n32.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$4,$3,$2,$1,$4,$3,$2,$1) }' > "data/openfish/ipv4.in-addr.arpa"
 
 echo -e "\n\nThe script ${0}\nExited with error code ${?}\n\n"
+
+cd ${git_dir}
+git commit -a -m "'"New release "$(date +'day: %j of year %Y')"'" 
