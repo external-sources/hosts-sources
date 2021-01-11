@@ -211,10 +211,14 @@ mkdir -p "data/spamhaustech/coinblocker/"
 drill axfr coinblocker.srv @35.156.219.71 -p 53 | grep -vE "^(;|$)|(SOA|NS)" | sed -e 's/\.coinblocker\.srv\.[[:blank:]].*$//g' > "data/spamhaustech/coinblocker/domain.list"
 printf "Imported coinblocker .dtq\n"
 
-printf "Importing Porn.hosts.srv"
-mkdir -p "data/spamhaustech/porn_host_srv/"
-drill axfr @35.156.219.71 -p 53 porn.host.srv | grep -vE "^(;|$|\*)|(SOA|NS)" | sed -e 's/\.porn\.host\.srv\.[[:blank:]].*$//g' > "data/spamhaustech/porn_host_srv/domain.list"
-printf "Imported Porn.hosts.srv from ..dtq\n"
+# Just to big and dumb and full of FP
+# remote: warning: File data/spamhaustech/porn_host_srv/domain.list is
+# 61.08 MB; this is larger than GitHub's recommended maximum file size
+# of 50.00 MB
+#printf "Importing Porn.hosts.srv"
+#mkdir -p "data/spamhaustech/porn_host_srv/"
+#drill axfr @35.156.219.71 -p 53 porn.host.srv | grep -vE "^(;|$|\*)|(SOA|NS)" | sed -e 's/\.porn\.host\.srv\.[[:blank:]].*$//g' > "data/spamhaustech/porn_host_srv/domain.list"
+#printf "Imported Porn.hosts.srv from ..dtq\n"
 
 # Disconnect ad-servers
 mkdir -p data/disconnect-me/
