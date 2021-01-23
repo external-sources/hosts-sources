@@ -22,8 +22,11 @@ fi
 # Install needed packages
 export DEBIAN_FRONTEND=noninteractive
 bash -c "$(curl -sL https://raw.githubusercontent.com/ilikenwf/apt-fast/master/quick-install.sh)"
-
+# cp /usr/share/bash-completion/completions/apt-fast /etc/bash_completion.d/
+# chown root:root /etc/bash_completion.d/
+# . /etc/bash_completion
 
 apt-fast update -yqq
 #apt-fastdist-upgrade -yqq
 apt-fast install -yqq openssh-client curl wget dos2unix ldnsutils
+
