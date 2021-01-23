@@ -7,7 +7,9 @@
 
 AdAway ile kullanınız. -çoğunlukla- Android için tasarlanmıştır. Daha önceden Nano Adblocker tavsiye etmiştim. Nano adblocker artık bir virüs olduğu için cihazlarınızdan **kaldırın** ve **ublock origin** yükleyin!
 
-Ayrıntılı bilgi: [bilgiler 1](https://eksisozluk.com/nano-defender--5646917?a=nice) - [bilgiler 2](https://eksisozluk.com/nano-adblocker--5649314?a=nice) 
+Ayrıntılı bilgi: [bilgiler 1](https://eksisozluk.com/nano-defender--5646917?a=nice) - [bilgiler 2](https://eksisozluk.com/nano-adblocker--5649314?a=nice)
+
+## [Kurulum Videosu](https://www.youtube.com/watch?v=y_ZpbJGR_vw)
 
 ## Windows için Önerilen
 
@@ -112,6 +114,7 @@ Bu liste sağlayıcıyı kullanarak altta belirtilen listeleri de otomatik olara
 
 ```
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt
+https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/hosts
 https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts
 https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt
