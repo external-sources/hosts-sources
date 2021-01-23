@@ -45,8 +45,8 @@ jobs:
       - name: Update active list
         run: bash "${{ github.workspace }}/scripts/update_active_lists.sh"
 
-      - uses: actions/checkout@v2
-        name: Commit changes
+      - name: Commit changes
+        uses: actions/checkout@main # Yet another american...
         run: |
           tag=$(date +'day: %j of year %Y %H:%M:%S')
           git config user.name github-actions
