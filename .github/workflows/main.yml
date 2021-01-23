@@ -46,18 +46,11 @@ jobs:
         run: bash "${{ github.workspace }}/scripts/update_active_lists.sh"
 
       - name: Commit changes
+      - uses: actions/checkout@v2
         run: |
           tag=$(date +'day: %j of year %Y %H:%M:%S')
-          git config --local user.email "$GIT_EMAIL"
-          git config --local user.name "$GIT_NAME"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git commit -m "Committed new lists $tag" -a
           git pull --rebase
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
-
-      - name: Release Scheduler
-        uses: koj-co/release-scheduler@master
+          git push
