@@ -13,8 +13,8 @@ on:
   workflow_dispatch:
 
 env:
-  GIT_NAME: "${{ secrets.GIT_BOT_NAME }}"
-  GIT_EMAIL: "${{ secrets.GIT_BOT_EMAIL }}"
+  GIT_NAME: "${{ secrets.GIT_NAME }}"
+  GIT_EMAIL: "${{ secrets.GIT_EMAIL }}"
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:

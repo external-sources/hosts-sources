@@ -21,6 +21,9 @@ fi
 # install apt pakage manement system
 # Install needed packages
 export DEBIAN_FRONTEND=noninteractive
-apt update -yqq
-apt dist-upgrade -yqq
-apt install -yqq openssh-client curl wget dos2unix
+bash -c "$(curl -sL https://git.io/vokNn)"
+
+
+apt-fast update -yqq
+#apt-fastdist-upgrade -yqq
+apt-fast install -yqq openssh-client curl wget dos2unix
