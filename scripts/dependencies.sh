@@ -21,7 +21,7 @@ fi
 # install apt pakage manement system
 # Install needed packages
 export DEBIAN_FRONTEND=noninteractive
-bash -c "$(curl -sL https://git.io/vokNn)"
+bash -c "$(curl -sL https://raw.githubusercontent.com/ilikenwf/apt-fast/master/quick-install.sh)"
 
 
 apt-fast update -yqq
