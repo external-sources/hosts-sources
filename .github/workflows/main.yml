@@ -40,9 +40,7 @@ jobs:
           sudo bash "${{ github.workspace }}/scripts/dependencies.sh"
 
       - name: Download and convert dumb hosts to plain data
-        run: |
-          #bash "${{ github.workspace }}/scripts/import.sh"
-          date +%s > "${{ github.workspace }}/.trigger"
+        run: bash "${{ github.workspace }}/scripts/import.sh"
 
       - name: Update active list
         run: bash "${{ github.workspace }}/scripts/update_active_lists.sh"
