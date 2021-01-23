@@ -33,7 +33,7 @@ jobs:
       - uses: actions/checkout@v2
         name: Clone repository
         with:
-          token: "${GITHUB_TOKEN}"
+          token: "${{ secrets.GITHUB_TOKEN }}"
 
       - name: Install requirements
         run: |
@@ -54,7 +54,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${GITHUB_TOKEN}
+          github_token: "${{ secrets.GITHUB_TOKEN }}"
           branch: ${{ github.ref }}
 
       - name: Release Scheduler
