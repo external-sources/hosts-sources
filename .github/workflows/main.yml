@@ -47,14 +47,14 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.name "$GIT_NAME"
           git config --local user.email "$GIT_EMAIL"
-          git commit -m "Updated external dumb hosts files $(date +'%H:%M')" -a
+          git config --local user.name "$GIT_NAME"
+          git commit -m "Committed new lists" -a
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: "${{ secrets.GITHUB_TOKEN }}"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
 
       - name: Release Scheduler
