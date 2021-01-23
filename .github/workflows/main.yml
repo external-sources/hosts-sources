@@ -7,15 +7,9 @@ on:
       - "master"
   schedule:
     - cron: "54 */4 * * *"
-      branches: [ master ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-
-env:
-  GIT_NAME: "${{ secrets.GIT_NAME }}"
-  GIT_EMAIL: "${{ secrets.GIT_EMAIL }}"
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   scheduler:
@@ -48,8 +42,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "$GIT_EMAIL"
-          git config --local user.name "$GIT_NAME"
+          git config --local user.email "${{ secrets.GIT_EMAIL }}"
+          git config --local user.name "${{ secrets.GIT_NAME }}"
           git commit -m "Updated external dumb hosts files $(date +'%H:%M')" -a
 
       - name: Push changes

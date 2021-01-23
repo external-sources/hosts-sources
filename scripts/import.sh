@@ -21,7 +21,10 @@ c() {
 		--compressed \
 		--http2 \
 		--ignore-content-length \
-		--retry 5 {$1}
+		--parallel
+		--silent
+		--retry 5
+		--retry-delay 2 {$1}
 }
 
 cd ${git_dir}
