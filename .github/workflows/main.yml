@@ -11,6 +11,11 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+env:
+  GIT_NAME: "${{ secrets.GIT_NAME }}"
+  GIT_EMAIL: "${{ secrets.GIT_EMAIL }}"
+  GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
 jobs:
   scheduler:
     name: Trigger action
@@ -28,28 +33,30 @@ jobs:
       - uses: actions/checkout@v2
         name: Clone repository
         with:
-          token: "${{ secrets.GITHUB_TOKEN }}"
+          token: "${GITHUB_TOKEN}"
 
       - name: Install requirements
         run: |
           sudo bash "${{ github.workspace }}/scripts/dependencies.sh"
 
       - name: Download and convert dumb hosts to plain data
-        run: bash "${{ github.workspace }}/scripts/import.sh"
+        run: |
+          #bash "${{ github.workspace }}/scripts/import.sh"
+          date +%s > "${{ github.workspace }}/.trigger"
 
       - name: Update active list
         run: bash "${{ github.workspace }}/scripts/update_active_lists.sh"
 
       - name: Commit changes
         run: |
-          git config --local user.email "${{ secrets.GIT_EMAIL }}"
-          git config --local user.name "${{ secrets.GIT_NAME }}"
+          git config --local user.name "$GIT_NAME"
+          git config --local user.email "$GIT_EMAIL"
           git commit -m "Updated external dumb hosts files $(date +'%H:%M')" -a
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${GITHUB_TOKEN}
           branch: ${{ github.ref }}
 
       - name: Release Scheduler
