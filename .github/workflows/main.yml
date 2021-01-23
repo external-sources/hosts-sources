@@ -58,8 +58,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
 
-  releaseScheduler:
-    runs-on: ubuntu-latest
-    steps:
       - name: Release Scheduler
         uses: koj-co/release-scheduler@master
