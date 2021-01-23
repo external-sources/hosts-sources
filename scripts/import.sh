@@ -265,8 +265,8 @@ printf "Done importing @mitchellkrogza's many lists\n"
 
 echo -e "\n\nThe script ${0}\nExited with error code ${?}\n\n"
 
-git add .
+# git add .
 
-tag=$(date +'day: %j of year %Y %H:%M:%S')
+# tag=$(date +'day: %j of year %Y %H:%M:%S')
 
-git commit -a -m "New release ${tag}" && git push
+# git commit -a -m "New release ${tag}" && git push

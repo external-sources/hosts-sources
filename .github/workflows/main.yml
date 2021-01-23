@@ -12,8 +12,8 @@ on:
   workflow_dispatch:
 
 env:
-  GIT_NAME: "Spirillen"
-  GIT_EMAIL: "44526987+spirillen@users.noreply.github.com"
+  GIT_NAME: "${{ secrets.GITHUB_USER }}"
+  GIT_EMAIL: "${{ secrets.GITHUB_EMAIL }}"
   GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
 jobs:
@@ -47,9 +47,10 @@ jobs:
 
       - name: Commit changes
         run: |
+          tag=$(date +'day: %j of year %Y %H:%M:%S')
           git config --local user.email "$GIT_EMAIL"
           git config --local user.name "$GIT_NAME"
-          git commit -m "Committed new lists" -a
+          git commit -m "Committed new lists $tag" -a
 
       - name: Push changes
         uses: ad-m/github-push-action@master
