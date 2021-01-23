@@ -20,6 +20,7 @@ fi
 
 # install apt pakage manement system
 # Install needed packages
+export DEBIAN_FRONTEND=noninteractive
 apt update -yqq
-apt upgrade -yqq
-apt install -yqq openssh-client curl wget python3 python3-pip git dos2unix
+apt dist-upgrade -yqq
+apt install -yqq openssh-client curl wget dos2unix
