@@ -21,9 +21,9 @@ c() {
 		--compressed \
 		--http2 \
 		--ignore-content-length \
-		-Z
-		--silent
-		--retry 5
+		--parallel \
+		--silent \
+		--retry 5 \
 		--retry-delay 2 {$1}
 }
 
