@@ -282,6 +282,7 @@ adverts.ie
 adverts.itv.com
 advertserve.com
 adviceglobal.com.mt
+advisor.api.2gis.ru
 adviva.net
 advolution.de
 adwise.agency
@@ -359,6 +360,7 @@ analytics.amakings.com
 analytics.any-lamp.co.uk
 analytics.archive.org
 analytics.arecontvision.com
+analytics.autodesk.com
 analytics.bluemosh.com
 analytics.brave.com
 analytics.businessinsider.com
@@ -429,6 +431,7 @@ analytics.primorske.si
 analytics.prod.mybuddy.ai
 analytics.qiqiuyun.net
 analytics.query.yahoo.com
+analytics.quizizz.com
 analytics.rodpub.com
 analytics.sapo.pt
 analytics.schoolwires.com
@@ -486,12 +489,15 @@ appave.mobi
 appdynamics.com
 appier.net
 applift.com
+applog.zaycev.net
 applogs-v2.pixelfederation.com
 applovin.com
 applvn.com
 appmetrica.webvisor.com
 appmetrica.yandex.com
 appmetrica.yandex.net
+appmetrica.yandex.ru
+appmetrika.yandex.ru
 appnexus.com
 appnexus.net
 appnexuscloud.com
@@ -499,6 +505,7 @@ appround.biz
 appsflyer.com
 appsmonitoring.com
 apptimize.com
+apptracker.gamedock.io
 appuniverseapplication.com
 apxlv.com
 aqcxa.com
@@ -538,6 +545,7 @@ azalead.com
 b86d4006e465f5ef74e4438b0cb802605e5c7993ac0002a876149c70.com
 bae5tracker.com
 bam-x.com
+banner.profile.ru
 bannerflow.com
 barra.iol.pt
 barranew.iol.pt
@@ -843,7 +851,11 @@ corporate-ir.net
 counciladvertising.net
 count-us.rudo.video
 count.rudo.video
+counter.nv.ua
+counter.yandro.ru
 countess.twitch.tv
+countly.ooni.io
+countly.server2devgame.com
 coveritlive.com
 cp1.news.com.au
 cpex.cz
@@ -1114,6 +1126,7 @@ euroads.es
 euroads.fi
 euroads.no
 euroads.se
+event.chitai-gorod.ru
 eventcapture03.com
 eventcapture06.com
 ever-track-51.com
@@ -1479,6 +1492,7 @@ klick2contact.com
 kochava.com
 komoona.com
 kontera.com
+kooappslogs.com
 korrelate.net
 krxd.net
 ksmobile.com
@@ -1492,6 +1506,8 @@ leadenhancer.com
 leadexpress.nl
 leadforensics.com
 leadformix.com
+leadhit.io
+leadhit.ru
 leadid.com
 leadid.net
 leadinfo.net
@@ -1557,6 +1573,7 @@ loginradius.com
 logmatic.io
 lognormal.net
 logs.amap.com
+logs.boardkingsgame.com
 logs.dashlane.com
 logs.roku.com
 logsss.com
@@ -1607,6 +1624,7 @@ marktest.pt
 maskbaby.com.cn
 matheranalytics.com
 mathtag.com
+matomo.ooni.org
 mavic852.com
 maxtraffic.com
 maxymiser.net
@@ -1619,6 +1637,8 @@ mcstats.spigotmc.org
 mdotlabs.com
 mdotm.com
 measuread.com
+measurement-lab.org
+measurementlab.net
 medals.bizrate.com
 medi-8.net
 media.complex.com
@@ -1681,6 +1701,7 @@ metrics.spbtv.com
 metrics.three.co.uk
 metricswindow.com
 metrigo.com
+metrika.mos.ru
 mfadsrvr.com
 mgid.com
 micpn.com
@@ -12550,6 +12571,7 @@ mkt9996.com
 mkt9997.com
 mkt9998.com
 mkt9999.com
+mktg.lightspeed.com
 mktoresp.com
 mktoweb.com
 ml314.com
@@ -12678,6 +12700,7 @@ nmp2.com
 nobeta.com.br
 nosto.com
 notifyvisitors.com
+notsy.io
 nowinteract.com
 npario-inc.net
 npario.com
@@ -12833,6 +12856,7 @@ ping-dot-acp-magento.appspot.com
 ping.ublock.org
 pingback.giphy.com
 pingdom.net
+pinpoll.com
 pipeschannels.com
 pippio.com
 piwik.com-online.com
@@ -12939,6 +12963,7 @@ purch.com
 pusher.com
 pusherapp.com
 pushlinck.com
+pushlog.wsoft.ru
 pushmarketing.sberbank-tele.com
 pushpad.xyz
 pushvault.com
@@ -13089,6 +13114,7 @@ rts.mobula.sdk.duapps.com
 ru4.com
 rubiconproject.com
 rubiconproject.net.akadns.net
+rum20.a.trbcdn.net
 runadtag.com
 runative-syndicate.com
 rundsp.com
@@ -13248,6 +13274,8 @@ smetrics.24hourfitness.com
 smetrics.28degreescard.com.au
 smetrics.360dx.com
 smetrics.3m.com
+smetrics.3m.com.cn
+smetrics.3mdigital.cn
 smetrics.3monoamines.com
 smetrics.7eleven.com.au
 smetrics.aa.com
@@ -13349,6 +13377,7 @@ smetrics.bestbuy.com
 smetrics.bestegg.com
 smetrics.bestinver.es
 smetrics.bet.com
+smetrics.biconnect.fr
 smetrics.binarystew.com
 smetrics.bingle.com.au
 smetrics.biosimilarsbyboehringer.com
@@ -13367,6 +13396,7 @@ smetrics.boehringer-ingelheim.in
 smetrics.boehringer-ingelheim.it
 smetrics.boehringer-ingelheim.jp
 smetrics.boehringer-ingelheim.mx
+smetrics.boehringer-ingelheim.ua
 smetrics.boehringer-interactief.nl
 smetrics.boehringer-interaktiv.de
 smetrics.boezemfibrilleren.nl
@@ -13405,6 +13435,7 @@ smetrics.cdw.com
 smetrics.cdwg.com
 smetrics.cedars-sinai.org
 smetrics.celebritycruises.com
+smetrics.centurionmanagedcare.com
 smetrics.centurylink.com
 smetrics.cfainstitute.org
 smetrics.cfox.com
@@ -13515,6 +13546,7 @@ smetrics.ey.com
 smetrics.faceipf.com
 smetrics.farnell.com
 smetrics.fatface.com
+smetrics.faz.net
 smetrics.fcacert.com
 smetrics.fcbarcelona.cat
 smetrics.fcbarcelona.com
@@ -13543,6 +13575,7 @@ smetrics.frontline.com.br
 smetrics.frontline.com.cn
 smetrics.frontline.de
 smetrics.frontline.fr
+smetrics.frontline.ru
 smetrics.frontlinecanegatto.it
 smetrics.frontlinemascotas.es
 smetrics.ftd.com
@@ -13729,6 +13762,7 @@ smetrics.mcafee.com
 smetrics.mcdonalds.com
 smetrics.mediakademie.de
 smetrics.medinfo.rs
+smetrics.mein-hund-hat-epilepsie.de
 smetrics.memberdeals.com
 smetrics.mercola.com
 smetrics.metacam.com
@@ -13796,6 +13830,7 @@ smetrics.newark.com
 smetrics.newbalance.com
 smetrics.newfoundlandgrocerystores.ca
 smetrics.newport.com
+smetrics.nexgard.cl
 smetrics.nexgard.com.ar
 smetrics.nexgard.com.au
 smetrics.nexgardfordogs.com
@@ -14064,6 +14099,7 @@ smetrics.travelchannel.com
 smetrics.travelmoneyonline.co.uk
 smetrics.treehousetv.com
 smetrics.trijardyxrhcp.com
+smetrics.trilliumhealthplan.com
 smetrics.tryg.dk
 smetrics.trygghansa.se
 smetrics.ttiinc.com
@@ -14220,6 +14256,7 @@ stats.addsearch.com
 stats.bbc.co.uk
 stats.bbc.net.uk
 stats.curds.io
+stats.cyclosm.org
 stats.ebay.com
 stats.elementary.io
 stats.ft.com
@@ -14327,6 +14364,7 @@ tekblue.net
 telemetry-dce.gfe.nvidia.com
 telemetry-experiment.cdn.mozilla.net
 telemetry-in.battle.net
+telemetry-incoming.r53-2.services.mozilla.com
 telemetry.api.2kcoretech.online
 telemetry.api.playstation.com
 telemetry.api.swiftkey.com
@@ -14383,7 +14421,9 @@ touchstoneresearch.com
 tqlkg.com
 tqn.com
 track-mv.com
+track.advego.ru
 track.cpa.iqoption.com
+track.deskgod.com
 track.dictionary.com
 track.easeus.com
 track.flexlinkspro.com
@@ -14395,6 +14435,7 @@ track.lexico.com
 track.libii.cn
 track.news.bg
 track.oasis.magictavern.com
+track.pmosvc.io
 track.sublytics-5bb3bd7244788.com
 track.sublytics-5be5edecc10bf.com
 track.sublytics-5c671946c725e.com
@@ -14409,6 +14450,7 @@ track.sublytics-5db9fa0b5700f.com
 track.sublytics-5df8eec4bca66.com
 track.sublytics-5faedd0b88cec.com
 track.sublytics-5fbd3e32d31c2.com
+track.sublytics-600afc6bd3e89.com
 track.thesaurus.com
 track.tproger.ru
 track.untd.com
