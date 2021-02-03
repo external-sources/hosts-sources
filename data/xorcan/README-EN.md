@@ -116,6 +116,7 @@ https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts
 https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/hosts
 https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt
+https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/turkish.txt
 ```
 
 ## [Other lists](https://github.com/xorcan/hosts/blob/master/OTHERS.md)
