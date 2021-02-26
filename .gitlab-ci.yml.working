@@ -18,7 +18,7 @@ variables:
 
 before_script:
   - echo "Before script section"
-  - git config --global user.email "4593890-MypDNS@users.noreply.gitlab.com"
+  - git config --global user.email "44526987-MypDNS@users.noreply.gitlab.com"
   - git config --global user.name "MypDNS"
   - echo "CPU's" && lscpu | grep -E '^Thread|^Core|^Socket|^CPU\('
 
