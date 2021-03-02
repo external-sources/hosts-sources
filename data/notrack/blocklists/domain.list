@@ -215,11 +215,15 @@ ads.brave.com
 ads.cdn.viber.com
 ads.chaturbate.com
 ads.citymagazine.si
+ads.debati.bg
 ads.ebay.com
+ads.eurocom.bg
 ads.gold
 ads.hearstmags.com
 ads.ign.com
+ads.interfax.ru
 ads.linkedin.com
+ads.manager.bg
 ads.mindfactory.de
 ads.msn.com
 ads.nordcurrent.com
@@ -412,11 +416,13 @@ analytics.getshogun.com
 analytics.global.sky.com
 analytics.google.com
 analytics.greensender.pl
+analytics.innersplendornews.com
 analytics.innologica.com
 analytics.jibecdn.com
 analytics.kaltura.com
 analytics.khmerload.com
 analytics.kidoz.net
+analytics.kongregate.io
 analytics.krisp.ai
 analytics.livestream.com
 analytics.loopassets.net
@@ -475,6 +481,7 @@ analytics.trovit.com
 analytics.twitter.com
 analytics.unibuddy.co
 analytics.valiuz.com
+analytics.webpushr.com
 analytics.wikimedia.org
 analytics.yahoo.com
 analytics.yard.nl
@@ -895,6 +902,7 @@ count.rudo.video
 counter.dsp.groupminteraction.ru
 counter.nv.ua
 counter.sefon.cc
+counter.tengrinews.kz
 counter.yandro.ru
 countess.twitch.tv
 countly.ooni.io
@@ -1551,6 +1559,7 @@ kiosked.com
 kissmetrics.com
 klaviyo.com
 klclick1.com
+klevu.com
 klick2contact.com
 kochava.com
 komoona.com
@@ -1868,6 +1877,7 @@ mkt076.com
 mkt077.com
 mkt078.com
 mkt079.com
+mkt08.com
 mkt080.com
 mkt081.com
 mkt082.com
@@ -2835,7 +2845,14 @@ mkt10849.com
 mkt1085.com
 mkt10850.com
 mkt10853.com
+mkt10854.com
+mkt10857.com
+mkt10859.com
 mkt1086.com
+mkt10861.com
+mkt10863.com
+mkt10864.com
+mkt10865.com
 mkt1087.com
 mkt1088.com
 mkt1089.com
@@ -12953,6 +12970,7 @@ pixel-static.spotify.com
 pixel.aviasales.ru
 pixel.bild.de
 pixel.brit.co
+pixel.ex.co
 pixel.facebook.com
 pixel.getshogun.com
 pixel.honestjohn.co.uk
@@ -13376,6 +13394,7 @@ smetrics.3m.com
 smetrics.3m.com.cn
 smetrics.3mdigital.cn
 smetrics.3monoamines.com
+smetrics.48.ie
 smetrics.7eleven.com.au
 smetrics.aa.com
 smetrics.aaamidatlantic.com
@@ -13414,6 +13433,7 @@ smetrics.americanairlines.de
 smetrics.americanairlines.hu
 smetrics.americanairlines.ie
 smetrics.americanairlines.in
+smetrics.americanairlines.it
 smetrics.americanairlines.jp
 smetrics.americancentury.com
 smetrics.amfam.com
@@ -13440,6 +13460,7 @@ smetrics.atomic.com
 smetrics.att.com
 smetrics.au.com
 smetrics.audi.co.uk
+smetrics.audifinancialservices.nl
 smetrics.autodesk.com
 smetrics.automobilemag.com
 smetrics.autonews.com
@@ -13500,6 +13521,7 @@ smetrics.boehringer-ingelheim.mx
 smetrics.boehringer-ingelheim.ua
 smetrics.boehringer-interaktiv.de
 smetrics.boezemfibrilleren.nl
+smetrics.bondvigilantes.com
 smetrics.boozallen.com
 smetrics.boston.com
 smetrics.bostonglobe.com
@@ -13528,6 +13550,7 @@ smetrics.casio-intl.com
 smetrics.casio.com
 smetrics.casio.info
 smetrics.casio.jp
+smetrics.catlife.com.tw
 smetrics.cbc.ca
 smetrics.cbn.com
 smetrics.cdiscount.com
@@ -13579,6 +13602,7 @@ smetrics.cox.com
 smetrics.crainsdetroit.com
 smetrics.crainsnewyork.com
 smetrics.crocs.com
+smetrics.croma.com
 smetrics.cru.org
 smetrics.crystalski.co.uk
 smetrics.csmonitor.com
@@ -13610,6 +13634,7 @@ smetrics.dnb.com
 smetrics.doctoroz.com
 smetrics.doingbusiness.org
 smetrics.dominos.com
+smetrics.driveuberpittsburgh.com
 smetrics.dryerventwizard.com
 smetrics.e7ipmac4xfi9t.com
 smetrics.eastdane.com
@@ -13646,6 +13671,8 @@ smetrics.eurocardbyinvitation.dk
 smetrics.eurowings.com
 smetrics.eversource.com
 smetrics.evrysdi.com
+smetrics.express-scripts.ca
+smetrics.express-scripts.com
 smetrics.express.com
 smetrics.ey.com
 smetrics.faceipf.com
@@ -13693,7 +13720,6 @@ smetrics.gatesnotes.com
 smetrics.gcimetrics.com
 smetrics.gehealthcare.com
 smetrics.gemvisa.com.au
-smetrics.getturbotax.com
 smetrics.gio.com.au
 smetrics.glassdoctor.com
 smetrics.global.mandg.com
@@ -13706,6 +13732,7 @@ smetrics.globe.com.ph
 smetrics.glyxambi.in
 smetrics.golfgalaxy.com
 smetrics.gomastercard.com.au
+smetrics.goodlifefitness.com
 smetrics.grainger.com
 smetrics.grandandtoy.com
 smetrics.greenflag.com
@@ -13830,6 +13857,7 @@ smetrics.latitudefinancial.com
 smetrics.latitudefinancial.com.au
 smetrics.latitudepay.com
 smetrics.latrobe.edu.au
+smetrics.lavoraconpassione.it
 smetrics.ldproducts.com
 smetrics.legalandgeneral.com
 smetrics.lenscrafters.ca
@@ -13859,6 +13887,7 @@ smetrics.maritimeintelligence.informa.com
 smetrics.markandgraham.com
 smetrics.marksandspencer.com
 smetrics.marriott.com
+smetrics.marriottvacationclub.asia
 smetrics.marriottvacationclub.com
 smetrics.marshalls.com
 smetrics.marshandmclennan.com
@@ -13876,6 +13905,7 @@ smetrics.mbna.ca
 smetrics.mcafee.com
 smetrics.mcdonalds.com
 smetrics.medaffairs-bi.it
+smetrics.medclass.nl
 smetrics.mediakademie.de
 smetrics.medichanzo.com
 smetrics.medinfo.rs
@@ -13910,6 +13940,7 @@ smetrics.morganstanley.com
 smetrics.mosquitojoe.com
 smetrics.motortrend.com
 smetrics.moving.com
+smetrics.movinghealth.it
 smetrics.mrappliance.ca
 smetrics.mrappliance.com
 smetrics.mrelectric.com
@@ -13951,6 +13982,7 @@ smetrics.newport.com
 smetrics.nexgard.cl
 smetrics.nexgard.com.ar
 smetrics.nexgard.com.au
+smetrics.nexgard.ru
 smetrics.nexgardfordogs.com
 smetrics.nexmo.com
 smetrics.nfl.com
@@ -13989,6 +14021,7 @@ smetrics.oxfam.org.uk
 smetrics.pacsun.com
 smetrics.pagoda.com
 smetrics.panasonic.biz
+smetrics.panasonic.jp
 smetrics.panasonic.net
 smetrics.pandora.net
 smetrics.payback.de
@@ -14023,6 +14056,7 @@ smetrics.premierinn.com
 smetrics.princess.com
 smetrics.privilege.com
 smetrics.provigo.ca
+smetrics.prrs.com
 smetrics.pru.co.uk
 smetrics.pruadviser.co.uk
 smetrics.publicissapient.com
@@ -14060,6 +14094,7 @@ smetrics.riteaid.com
 smetrics.robeco.com
 smetrics.roche.de
 smetrics.rockettes.com
+smetrics.roger.ai
 smetrics.rolex.com
 smetrics.roomandboard.com
 smetrics.royalcaribbean.com
@@ -14123,6 +14158,7 @@ smetrics.sisalpay.it
 smetrics.sj.se
 smetrics.skiphop.com
 smetrics.skipton.co.uk
+smetrics.skodafinancialservices.nl
 smetrics.sky.com
 smetrics.sky.it
 smetrics.skype.com
@@ -14132,6 +14168,7 @@ smetrics.sling.com
 smetrics.sloc.co.uk
 smetrics.smartmove.us
 smetrics.smbcnikko.co.jp
+smetrics.smoooth.us
 smetrics.sofina.com
 smetrics.softwareag.com
 smetrics.solarwinds.com
@@ -14139,6 +14176,7 @@ smetrics.solinst.com
 smetrics.sony-mea.com
 smetrics.sony.com.br
 smetrics.sony.com.my
+smetrics.sony.com.pa
 smetrics.sony.com.sg
 smetrics.sony.hu
 smetrics.sony.jp
@@ -14163,6 +14201,7 @@ smetrics.stoneseed.com
 smetrics.striderite.com
 smetrics.stwater.co.uk
 smetrics.suncorp.com.au
+smetrics.sunderehund.dk
 smetrics.sunglasshut.com
 smetrics.sunlife.ca
 smetrics.sunlife.com
@@ -14231,6 +14270,7 @@ smetrics.ubi.com
 smetrics.uhc.com
 smetrics.uncommonegfrmutations.com
 smetrics.unipolsai.it
+smetrics.unleashingthetruth.com
 smetrics.uol.com.br
 smetrics.ups.com
 smetrics.usbank.com
@@ -14242,6 +14282,9 @@ smetrics.vero.com.au
 smetrics.vetportal.se
 smetrics.viagraconnect.co.uk
 smetrics.viceroyhotelsandresorts.com
+smetrics.viega.at
+smetrics.viega.fr
+smetrics.viega.pl
 smetrics.vikingline.ax
 smetrics.vikingline.ru
 smetrics.virginatlantic.com
@@ -14262,10 +14305,15 @@ smetrics.vodafone.in
 smetrics.vogue-eyewear.com
 smetrics.vonage.com
 smetrics.vonageforhome.com
+smetrics.vrst.com
 smetrics.vsemirnyjbank.org
 smetrics.vueling.com
 smetrics.vw.com
+smetrics.vwfs.com
+smetrics.vwfs.com.br
 smetrics.vwfs.de
+smetrics.vwfs.es
+smetrics.vwfs.gr
 smetrics.vwfs.it
 smetrics.walgreens.com
 smetrics.waseda-ac.co.jp
@@ -14279,6 +14327,7 @@ smetrics.westernunion.com
 smetrics.westpac.com.au
 smetrics.westpacgroup.com.au
 smetrics.wgu.edu
+smetrics.whereivecruised.com
 smetrics.whitbyoshawahonda.com
 smetrics.williams-sonoma.com
 smetrics.wilson.com
@@ -14298,6 +14347,7 @@ smetrics.worldteaacademy.com
 smetrics.wrs.com.sg
 smetrics.wyndhamhotels.com
 smetrics.xn--brclys-wc8bd.com
+smetrics.xn--nationwidbanking-vdc.com
 smetrics.xn--santanrbank-5ob0a.com
 smetrics.yahoodictionary.hk
 smetrics.ybs.co.uk
@@ -14395,6 +14445,7 @@ stats.iobit.com
 stats.jobs.bg
 stats.kaltura.com
 stats.kollective.app
+stats.ksearchnet.com
 stats.l.doubleclick.net
 stats.maps.api.2gis.ru
 stats.merriam-webster.com
@@ -14586,6 +14637,7 @@ track.sublytics-5df8eec4bca66.com
 track.sublytics-5faedd0b88cec.com
 track.sublytics-5fbd3e32d31c2.com
 track.sublytics-600afc6bd3e89.com
+track.sublytics-602424689e430.com
 track.thesaurus.com
 track.tproger.ru
 track.untd.com
@@ -14613,6 +14665,7 @@ tracking.minitool.com
 tracking.mobile.beta.aviasales.ru
 tracking.netdoktor.at
 tracking.ott.yandex.net
+tracking.overwolf.com
 tracking.paypal.com
 tracking.resortsandlodges.com
 tracking.sezzle.com
