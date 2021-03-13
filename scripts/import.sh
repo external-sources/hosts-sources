@@ -70,13 +70,6 @@ mkdir -p "data/CoinBlockerLists/"
 c 'https://zerodot1.gitlab.io/CoinBlockerLists/list.txt' | sort -u | uniq -u | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/CoinBlockerLists/domain.list"
 printf "Imported CoinBlockerLists\n"
 
-mkdir -p "data/xorcan/"
-${WGET} -qO- "https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/xorcan/domain.list"
-${WGET} -q "https://raw.githubusercontent.com/xorcan/hosts/master/README-EN.md" -O "data/xorcan/README-EN.md"
-${WGET} -q "https://raw.githubusercontent.com/xorcan/hosts/master/README.md" -O "data/xorcan/README.md"
-${WGET} -q "https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE" -O "data/xorcan/LICENSE"
-printf "Imported xorcan\n"
-
 mkdir -p "data/mvps/"
 ${WGET} -qO- "http://winhelp2002.mvps.org/hosts.txt" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/mvps/domain.list"
 printf "Imported mvps\n"
