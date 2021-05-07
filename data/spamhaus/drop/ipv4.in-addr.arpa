@@ -800,6 +800,14 @@
 22.0.128.229.156.rpz-client-ip	CNAME	rpz-drop.
 22.0.132.229.156.rpz-ip	CNAME	.
 22.0.132.229.156.rpz-client-ip	CNAME	rpz-drop.
+19.0.160.229.156.rpz-ip	CNAME	.
+19.0.160.229.156.rpz-client-ip	CNAME	rpz-drop.
+18.0.192.229.156.rpz-ip	CNAME	.
+18.0.192.229.156.rpz-client-ip	CNAME	rpz-drop.
+21.0.128.233.156.rpz-ip	CNAME	.
+21.0.128.233.156.rpz-client-ip	CNAME	rpz-drop.
+19.0.160.233.156.rpz-ip	CNAME	.
+19.0.160.233.156.rpz-client-ip	CNAME	rpz-drop.
 16.0.0.115.157.rpz-ip	CNAME	.
 16.0.0.115.157.rpz-client-ip	CNAME	rpz-drop.
 16.0.0.162.157.rpz-ip	CNAME	.
