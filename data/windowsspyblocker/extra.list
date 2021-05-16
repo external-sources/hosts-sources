@@ -184,6 +184,7 @@ pti.store.microsoft.com
 purchase.mp.microsoft.com
 query.prod.cms.rt.microsoft.com
 r20swj13mr.microsoft.com
+rcr.blob.core.windows.net
 register.cdpcs.microsoft.com
 ris.api.iris.microsoft.com
 roaming.officeapps.live.com
@@ -199,6 +200,7 @@ settings-win.data.microsoft.com
 settings.data.microsoft.com
 sfdataservice.microsoft.com
 share.microsoft.com
+skyapi.live.net
 static.2mdn.net
 storage.live.com
 store-images.microsoft.com
@@ -228,6 +230,7 @@ v20.events.data.microsoft.com
 validation-v2.sls.microsoft.com
 validation.sls.microsoft.com
 version.hybrid.api.here.com
+videomd.blob.core.windows.net
 vortex-win-sandbox.data.microsoft.com
 vortex-win.data.microsoft.com
 w.apprep.smartscreen.microsoft.com
@@ -235,6 +238,7 @@ wallet.microsoft.com
 wdcp.microsoft.com
 wdcpalt.microsoft.com
 win10-trt.msedge.net
+wpcdn.blob.core.windows.net
 wscont.apps.microsoft.com
 wscont.apps.microsoft.com.edgesuite.net
 wscont1.apps.microsoft.com
