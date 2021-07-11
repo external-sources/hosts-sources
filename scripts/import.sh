@@ -250,7 +250,7 @@ ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/m
 # domain name. It is nessesary to remove them from "Domain"? list
 
 mkdir -p "data/mitchellkrogza/Ultimate.Hosts.Blacklist/"
-c "https://hosts.ubuntu101.co.za/domains.list" | grep -vE "^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$" > "data/mitchellkrogza/Ultimate.Hosts.Blacklist/domain.list"
+${WGET} -qO- "https://hosts.ubuntu101.co.za/domains.list" | grep -vE "^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$" > "data/mitchellkrogza/Ultimate.Hosts.Blacklist/domain.list"
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/README.md" -O "data/mitchellkrogza/Ultimate.Hosts.Blacklist/README.md"
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/LICENSE.md" -O "data/mitchellkrogza/Ultimate.Hosts.Blacklist/LICENSE.md"
 printf "Done importing @mitchellkrogza's many lists\n"
