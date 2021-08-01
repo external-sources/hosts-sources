@@ -86,6 +86,7 @@ do
 	echo -e "\t\nImporting ${d}\n"
 	${WGET} -qO- "${wsbUrl}/${d}.txt" | grep -vE '^(#|$)' | sort -u > "data/windowsspyblocker/${d}.list"
 done
+unset wsbLists wsbUrl
 
 # mkdir -p "${git_dir}/data/windowsspyblocker/"
 # ${WGET} -qO- "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/windowsspyblocker/spy.list"
@@ -153,6 +154,7 @@ for d in "${hpLists[@]}"
 do
 	mkdir -p "${git_dir}/data/hphosts/${d}}"
 	echo -e "\t\nImporting ${d}\n"
+	touch "data/hphosts/${d}/domain.list"
 	${WGET} -qO- "${hpUrl}/${d}.txt" | grep -vE '^(#|$)' > "data/hphosts/${d}/domain.list"
 done
 
