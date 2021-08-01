@@ -82,7 +82,7 @@ wsbUrl="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/dat
 
 for d in "${wsbLists[@]}"
 do
-	mkdir -p "${git_dir}/data/windowsspyblocker/${d}}"
+	mkdir -p "${git_dir}/data/windowsspyblocker/${d}"
 	echo -e "\t\nImporting ${d}\n"
 	${WGET} -qO- "${wsbUrl}/${d}.txt" | grep -vE '^(#|$)' | sort -u > "data/windowsspyblocker/${d}.list"
 done
@@ -152,7 +152,7 @@ hpUrl="https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/"
 
 for d in "${hpLists[@]}"
 do
-	mkdir -p "${git_dir}/data/hphosts/${d}}"
+	mkdir -p "${git_dir}/data/hphosts/${d}"
 	echo -e "\t\nImporting ${d}\n"
 	touch "data/hphosts/${d}/domain.list"
 	${WGET} -qO- "${hpUrl}/${d}.txt" | grep -vE '^(#|$)' > "data/hphosts/${d}/domain.list"
@@ -179,7 +179,7 @@ bsUrl="https://raw.githubusercontent.com/blocklistproject/Lists/master/"
 
 for bs in "${bsLists[@]}"
 do
-	mkdir -p "${git_dir}/data/blocklist_${bs}}"
+	mkdir -p "${git_dir}/data/blocklist_${bs}"
 	echo -e "\t\nImporting ${bs}\n"
 	c "${bsUrl}${bs}.txt" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_${bs}/domain.list"
 done
@@ -190,7 +190,7 @@ bsUrl=""
 
 printf "Imported blocklist.site\n"
 
-mkdir -p "${git_dir}/data/{BBcan177_MS-4/,BBcan177_MS-2/}}"
+mkdir -p "${git_dir}/data/{BBcan177_MS-4/,BBcan177_MS-2/}"
 c "https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/BBcan177_MS-4/domain.list"
 c "https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/BBcan177_MS-2/domain.list"
 printf "Imported BBcan177\n"
