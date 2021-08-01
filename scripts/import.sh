@@ -77,15 +77,25 @@ mkdir -p "${git_dir}/data/mvps/"
 ${WGET} -qO- "http://winhelp2002.mvps.org/hosts.txt}" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/mvps/domain.list"
 printf "Imported mvps\n"
 
-mkdir -p "${git_dir}/data/windowsspyblocker/"
-${WGET} -qO- "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/windowsspyblocker/spy.list"
-printf "Imported WindowsSpyBlocker Spy\n"
-${WGET} -qO- 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt' | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/windowsspyblocker/update.list"
-printf "Imported WindowsSpyBlocker update\n"
-${WGET} -qO- 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt' | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/windowsspyblocker/extra.list"
-printf "Imported WindowsSpyBlocker Extra\n"
+wsbLists=(spy update extra)
+wsbUrl="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/"
 
-sort -u -f 'data/windowsspyblocker/domain.list' -o 'data/windowsspyblocker/domain.list'
+for d in "${wsbLists[@]}"
+do
+	mkdir -p "${git_dir}/data/windowsspyblocker/${d}}"
+	echo -e "\t\nImporting ${d}\n"
+	${WGET} -qO- "${wsbUrl}/${d}.txt" | grep -vE '^(#|$)' | sort -u > "data/windowsspyblocker/${d}/domain.list"
+done
+
+# mkdir -p "${git_dir}/data/windowsspyblocker/"
+# ${WGET} -qO- "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/windowsspyblocker/spy.list"
+# printf "Imported WindowsSpyBlocker Spy\n"
+# ${WGET} -qO- 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt' | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/windowsspyblocker/update.list"
+# printf "Imported WindowsSpyBlocker update\n"
+# ${WGET} -qO- 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt' | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/windowsspyblocker/extra.list"
+# printf "Imported WindowsSpyBlocker Extra\n"
+
+# sort -u -f 'data/windowsspyblocker/domain.list' -o 'data/windowsspyblocker/domain.list'
 
 printf "Imported WindowsSpyBlocker\n"
 
