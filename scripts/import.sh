@@ -190,7 +190,7 @@ bsUrl=""
 
 printf "Imported blocklist.site\n"
 
-mkdir -p "${git_dir}/data/{BBcan177_MS-4/,BBcan177_MS-2/}"
+mkdir -p "${git_dir}/data/BBcan177_MS-4/" "${git_dir}/data/BBcan177_MS-2/"
 c "https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/BBcan177_MS-4/domain.list"
 c "https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/BBcan177_MS-2/domain.list"
 printf "Imported BBcan177\n"
