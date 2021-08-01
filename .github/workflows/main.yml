@@ -41,7 +41,7 @@ jobs:
 
       - name: Install mypdns
         run: |
-          python3.9 -m pip install --no-cache mypdns
+          pip install --no-cache mypdns
 
       - name: Download and convert dumb hosts to plain data
         run: bash "${{ github.workspace }}/scripts/import.sh"
