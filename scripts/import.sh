@@ -10,9 +10,9 @@ set -e
 # Set the right path for "executebles"
 git_dir="$(git rev-parse --show-toplevel)"
 
-WGET=`(command -v wget)`
-CURL=`(command -v curl)`
-PYTHON=`(command -v python3)`
+WGET="$(command -v wget)"
+CURL="$(command -v curl)"
+PYTHON="$(command -v python3)"
 
 c() {
 	curl --tcp-fastopen \
@@ -26,7 +26,10 @@ c() {
 		--retry-delay 2 {$1}
 }
 
-cd ${git_dir}
+cd "${git_dir}"
+
+# Clean up old data dir to make a fresh a data dir as possible
+rm -fr "${git_dir/data/}"
 
 # Next let's Download some external sources, so we don't need to keep
 # downloading them, and save them some bandwidth
@@ -87,11 +90,7 @@ sort -u -f 'data/windowsspyblocker/domain.list' -o 'data/windowsspyblocker/domai
 printf "Imported WindowsSpyBlocker\n"
 
 
-# MobileAdTrackers have closed and moved to https://github.com/AdAway/adaway.github.io/
-#${WGET} -qO- "https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > data/mobileadtrackers/domain.list
-#printf "Imported jawz101 MobileAdTrackers\n"
-rm -fr "data/mobileadtrackers/"
-
+printf "Imported @jawz101 adaway.github.io\n"
 mkdir -p "data/adaway/domain"
 ${WGET} -qO- "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt"  | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "data/adaway/domain.list"
 ${WGET} -q "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/README.md" -O "data/adaway/README.md"
