@@ -39,6 +39,10 @@ jobs:
         run: |
           sudo bash "${{ github.workspace }}/scripts/dependencies.sh"
 
+      - name: Install mypdns
+        run: |
+          python3.9 -m pip install --no-cache mypdns
+
       - name: Download and convert dumb hosts to plain data
         run: bash "${{ github.workspace }}/scripts/import.sh"
 
