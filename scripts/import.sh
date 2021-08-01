@@ -84,7 +84,7 @@ for d in "${wsbLists[@]}"
 do
 	mkdir -p "${git_dir}/data/windowsspyblocker/${d}}"
 	echo -e "\t\nImporting ${d}\n"
-	${WGET} -qO- "${wsbUrl}/${d}.txt" | grep -vE '^(#|$)' | sort -u > "data/windowsspyblocker/${d}/domain.list"
+	${WGET} -qO- "${wsbUrl}/${d}.txt" | grep -vE '^(#|$)' | sort -u > "data/windowsspyblocker/${d}.list"
 done
 
 # mkdir -p "${git_dir}/data/windowsspyblocker/"
