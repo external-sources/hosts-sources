@@ -175,13 +175,13 @@ printf "Imported mirror1.malwaredomains.com\n"
 # blocklistproject CNAME blocklist-site
 # This url is bullshit, trying to bump his own domain. Bullshit url="bsUrl="https://blocklist.site/app/dl/""
 bsLists=(abuse ads crypto drugs facebook fraud gambling malware phishing piracy porn ransomware redirect scam torrent tracking youtube)
-bsUrl="https://raw.githubusercontent.com/blocklistproject/Lists/master/"
+bsUrl="https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/"
 
 for bs in "${bsLists[@]}"
 do
 	mkdir -p "${git_dir}/data/blocklist_${bs}"
 	echo -e "\t\nImporting ${bs}\n"
-	c "${bsUrl}${bs}.txt" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_${bs}/domain.list"
+	c "${bsUrl}${bs}-nl.txt" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",tolower($1)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_${bs}/domain.list"
 done
 
 # Unset variables
