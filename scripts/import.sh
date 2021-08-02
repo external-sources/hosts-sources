@@ -174,7 +174,7 @@ printf "Imported mirror1.malwaredomains.com\n"
 
 # blocklistproject CNAME blocklist-site
 # This url is bullshit, trying to bump his own domain. Bullshit url="bsUrl="https://blocklist.site/app/dl/""
-bsLists=(abuse ads crypto drugs facebook fraud gambling malware phishing piracy porn ransomware redirect scam torrent tracking youtube)
+bsLists=(abuse ads crypto drugs facebook fraud gambling malware phishing piracy porn ransomware redirect scam torrent tracking)
 bsUrl="https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/"
 
 for bs in "${bsLists[@]}"
