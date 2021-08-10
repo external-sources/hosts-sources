@@ -12,3 +12,5 @@
 32.115.114.86.3.rpz-client-ip	CNAME	rpz-drop.
 32.15.149.195.51.rpz-ip	CNAME	.
 32.15.149.195.51.rpz-client-ip	CNAME	rpz-drop.
+32.198.com-47.center-netfix.help.rpz-ip	CNAME	.
+32.198.com-47.center-netfix.help.rpz-client-ip	CNAME	rpz-drop.
