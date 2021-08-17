@@ -1727,7 +1727,6 @@ assets.prod.leanplum.com
 assets.purch.com
 assets.quantcount.com
 assets.rbl.ms
-assets.rebelmouse.io
 assets.revcontent.com
 assets.soom.la
 assets.taboola.com
@@ -2503,7 +2502,6 @@ chartiq-client-prod.s3.amazonaws.com
 chaseusbs823221627973.s.moatpixel.com
 chi.outbrain.com
 chidc2.outbrain.org
-choices.trustarc.com
 choices.truste.com
 churchdwightsizmek22033498.s.moatpixel.com
 ci-mpsnare.iovation.com
@@ -2742,7 +2740,6 @@ consent-manager-events.ogury.io
 consent.api.osano.com
 consent.cmp.oath.com
 consent.mediaforge.com
-consent.trustarc.com
 consentcdn.cookiebot.com-v1.edgekey.net
 consentmanager.mgr.consensu.org
 console.adtarget.com.tr
@@ -4479,8 +4476,6 @@ kibana.leadboxer.com
 kiip.me
 kijiji-d.openx.net
 kiks.yandex.ru
-kinesis.ap-southeast-1.amazonaws.com
-kinesis.us-east-1.amazonaws.com
 king-contenido-prod.secure2.footprint.net
 kinja-com.videoplayerhub.com
 kiosked.com
@@ -5699,7 +5694,6 @@ prebid.mgid.com
 prebid.openx.net
 prebid.s-onetag.com
 prebid.technoratimedia.com
-preferences.trustarc.com
 premiumsrv.aniview.com
 presage.io
 presentation-ams1.turn.com
