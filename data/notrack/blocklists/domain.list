@@ -243,7 +243,6 @@ ads.yahoo.com
 ads.yap.yahoo.com
 ads1.msn.com
 ads2.msn.com
-ads4pubs.com
 ads5-adnow.com
 adsafeprotected.com
 adsafety.net
@@ -341,6 +340,7 @@ agafurretor.com
 agentanalytics.com
 agkn.com
 ahalogy.com
+aiir.net
 aimatch.com
 aimtell.com
 airdropanalytics.com
@@ -785,6 +785,7 @@ clicktracks.com
 clicktripz.com
 client-event-reporter.twitch.tv
 client-telemetry.roblox.com
+clientgear.com
 clientsend.com
 clinch.co
 clixgalore.com
@@ -870,7 +871,9 @@ count-us.rudo.video
 counter.dsp.groupminteraction.ru
 counter.nv.ua
 counter.pushauction.com
+counter.simplybook.me
 counter.tengrinews.kz
+counter.theconversation.com
 counter.yandro.ru
 countess.twitch.tv
 countly.ooni.io
@@ -959,7 +962,6 @@ depreciatewide.com
 detmir-stats.ru
 devaccess.easy4ipcloud.com
 device-metrics-us.amazon.com
-deviceidshare.twitch.tv
 devnxs.net
 dexpredict.com
 dianomi.com
@@ -1027,6 +1029,7 @@ dynamicyield.com
 dynsrvtbg.com
 dyntrk.com
 e-mark.nl
+e-planning.net
 e-webtrack.net
 easyresearch.se
 ebayadvertising.com
@@ -1209,6 +1212,7 @@ fullstory.com
 fwmrm.net
 fyre.co
 g2afse.com
+g2crowd.com
 gadspms.com
 gadspmz.com
 gall-tarquin.com
@@ -1262,6 +1266,7 @@ goroost.com
 gosquared.com
 gotraffic.net
 govmetric.com
+gowebapitrack.com
 grafana.org
 granify.com
 grapeshot-apac.com
@@ -1471,6 +1476,7 @@ klclick2.com
 klclick3.com
 klevu.com
 klick2contact.com
+klickly.com
 kochava.com
 komoona.com
 kontera.com
@@ -1516,6 +1522,7 @@ ligatus.com
 lightcast.com
 lightdatahouse.com
 lijit.com
+lilystyle.ai
 linkbucks.com
 linkis.com
 linkoffers.net
@@ -2793,6 +2800,7 @@ mkt10903.com
 mkt10904.com
 mkt10905.com
 mkt10907.com
+mkt10908.com
 mkt1091.com
 mkt10911.com
 mkt10913.com
@@ -2840,6 +2848,7 @@ mkt10959.com
 mkt1096.com
 mkt10960.com
 mkt10961.com
+mkt10962.com
 mkt10963.com
 mkt10964.com
 mkt10965.com
@@ -2847,11 +2856,13 @@ mkt10966.com
 mkt10967.com
 mkt10969.com
 mkt1097.com
+mkt10970.com
 mkt10972.com
 mkt10974.com
 mkt10975.com
 mkt10976.com
 mkt10978.com
+mkt10979.com
 mkt1098.com
 mkt10980.com
 mkt10981.com
@@ -2860,22 +2871,27 @@ mkt10983.com
 mkt10984.com
 mkt10985.com
 mkt10986.com
+mkt10987.com
 mkt10988.com
 mkt10989.com
 mkt1099.com
+mkt10990.com
 mkt10991.com
 mkt10992.com
 mkt10993.com
 mkt10994.com
 mkt10995.com
+mkt10997.com
 mkt10999.com
 mkt110.com
 mkt1100.com
 mkt11002.com
+mkt11003.com
 mkt11007.com
 mkt11008.com
 mkt11009.com
 mkt1101.com
+mkt11010.com
 mkt11011.com
 mkt11012.com
 mkt11013.com
@@ -13553,7 +13569,6 @@ smetrics.cdw.com
 smetrics.cdwg.com
 smetrics.cedars-sinai.org
 smetrics.celebritycruises.com
-smetrics.centurionmanagedcare.com
 smetrics.centurylink.com
 smetrics.cfainstitute.org
 smetrics.cfox.com
@@ -14257,6 +14272,8 @@ smetrics.worldmarket.com
 smetrics.wrs.com.sg
 smetrics.wunetspendprepaid.com
 smetrics.wyndhamhotels.com
+smetrics.xn--bankingsanandr-74b62j.com
+smetrics.xn--bankingsananr-mxb4a22k.com
 smetrics.xn--bankingsananr-mxb4gy5d.com
 smetrics.xn--bankingsantanr-s1b0h.com
 smetrics.xn--yourbanksanandr-p8b07k.com
@@ -14269,6 +14286,7 @@ smetrics.ybs.co.uk
 smetrics.yellow.com.au
 smetrics.yellowpages.com.au
 smetrics.ytv.com
+smetrics.zalando.sh
 smetrics.zales.com
 smetrics.zalesoutlet.com
 smetrics1.experian.com
@@ -14285,7 +14303,6 @@ snmmd.nl
 snoop.minecraft.net
 snorkletech.com
 snt1.net
-snt2.net
 socialhoney.co
 sociomantic.com
 socy.es
@@ -14592,13 +14609,13 @@ tracking.intl.miui.com
 tracking.komoot.de
 tracking.lenzmx.com
 tracking.minitool.com
-tracking.netdoktor.at
 tracking.ott.yandex.net
 tracking.overwolf.com
 tracking.paypal.com
 tracking.prd.mz.internal.unity3d.com
 tracking.resortsandlodges.com
 tracking.sezzle.com
+tracking.shopstyle.co.uk
 tracking.volo-mobile.com
 tracking.websitealive.com
 tracking.wetter.at
@@ -14625,7 +14642,6 @@ trafficshop.com
 trafficstars.com
 trafforsrv.com
 trafmag.com
-trakingtraffic.com
 traktrafficflow.com
 travelaudience.com
 trckingbyte.com
