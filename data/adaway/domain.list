@@ -28,6 +28,7 @@
 189358.engine.mobileapptracking.com
 189904.engine.mobileapptracking.com
 189983.engine.mobileapptracking.com
+18lus0524edvcif1pa0hruc0e.litix.io
 190107.engine.mobileapptracking.com
 190829.engine.mobileapptracking.com
 192569.engine.mobileapptracking.com
@@ -334,6 +335,7 @@ acme.tango.me
 actions-latb.taboola.com
 activate.ensighten.com
 active.iperceptions.com
+activemetering.com
 activity.m.duiba.com.cn
 activity.tuifish.com
 ad-apac.doubleclick.net
@@ -480,6 +482,7 @@ adlic.us-west-2.elasticbeanstalk.com
 adlockscreen.goforandroid.com
 adlog.flurry.com
 adlog.foxitcloud.com
+adlog.ifood.tv
 adlog.vivo.com.cn
 adlogs.ad2iction.com
 adloox-blocks.deliverimp.com
@@ -1754,6 +1757,7 @@ audit-tcfv2.quantcast.mgr.consensu.org
 auditude.com
 augur.io
 auiopt.unityads.unity3d.com
+austin.logs.roku.com
 auth.follow-apps.com
 auth.split.io
 autoads.asia
@@ -1797,6 +1801,7 @@ b.r10.mopub.com
 b.scorecardresearch.com
 b.sharethrough.com
 b.stats.paypal.com
+b.videoamp.com
 b2c-msm.marketo.com
 b2c.com
 b3.mookie1.com
@@ -1942,6 +1947,7 @@ bip.presage.io
 bip.prod.cloud.ogury.io
 birigum.iad-03.braze.com
 bis.vidazoo.com
+bisdr.vidazoo.com
 bitmedianetwork.com
 bizjournals-d.openx.net
 bj.imp.voiceads.cn
@@ -2732,6 +2738,7 @@ conversions.adaptv.advertising.com
 conversions.appsflyer.com
 conversions.clickmeter.com
 convertexperiments.com.edgekey.net
+conviva.com
 convlatbmp.taboola.com
 convnjmp.taboola.com
 cookie-jam.sgn.com
@@ -2880,6 +2887,7 @@ d.mob.com
 d.monetate.net
 d.pub.network
 d.r10.mopub.com
+d.turn.com
 d.turn.com.akadns.net
 d.us.criteo.com
 d1.hadarone.com
@@ -3004,6 +3012,7 @@ den01-search.spotxchange.com
 den01.event.spotxchange.com
 den01.sync.search.spotxchange.com
 depart.trinitymedia.ai
+detailed-ad-logger-load-balancer-561104410.us-east-1.elb.amazonaws.com
 detect-survey.effectivemeasure.net
 detect.rayjump.com
 dev-as.cluep.com
@@ -3058,6 +3067,7 @@ display.ad.daum.net
 display.ad.g.daum.net
 display.apester.com
 display.bfmio.com
+display.ravm.tv
 display.xad.com
 displayads-formats.googleusercontent.com
 displayf.tubemogul.com
@@ -3526,6 +3536,7 @@ fota5t.adups.com
 fota5tbk.adups.com
 fotacontrol.adfuture.cn
 fout.jp
+fox.com.ssl.d2.sc.omtrdc.net
 foxnet.demdex.net
 foxnews-d.openx.net
 foxnews.demdex.net
@@ -3818,6 +3829,7 @@ hashtaglabs-d.openx.net
 hasmobi.net
 hassaleh.iad-03.braze.com
 hawk.pcgamer.com
+hb-t5u9.raps.ravm.tv
 hb.ad.cpe.dotomi.com
 hb.adscale.de
 hb.aralego.com
@@ -3863,6 +3875,7 @@ hk5.vip.prod.criteo.com
 hk5.vip.prod.criteo.net
 hkbj.biddingx.com
 hlog.hiido.com
+hmi-hershey.hrzn-nxt.com
 hn.inspectlet.com
 hobbes.blueoxtech.com
 holder.com.ua
@@ -3879,6 +3892,7 @@ hotpot.360in.com
 howdoesin.net
 hpr.outbrain.com
 hq1.appsflyer.com
+hrzn-nxt.com
 hs-analytics.net
 hsw-d.openx.net
 ht.adups.com
@@ -4169,6 +4183,7 @@ imprlatbmp.taboola.com
 imprnjmp.taboola.com
 imprsgmp.taboola.com
 imsapi.vnet.cn
+imtwjwoasak.com
 imwx.com
 in-gmtdmp.mookie1.com
 in-spiky.wzrkt.com
@@ -4231,9 +4246,11 @@ insight.adsrvr.org
 insight.logly.co.jp
 insight.ucweb.com
 insightexpressai.com.edgekey.net
+insights-collector.newrelic.com
 insights.bizrate.com
 insights.dice.com
 insights.samsung.com
+insights.vip.aetnd.com
 insights.zeustechnology.com
 inskinmedia689754970364.s.moatpixel.com
 insticator-d.openx.net
@@ -4292,6 +4309,7 @@ irs01.com
 is-gateway.supersonicads.com
 is-tracking-pixel-api-prod.appspot.com
 isgame.ds.duapps.com
+ispot.tv
 it-gmtdmp.mookie1.com
 it-v2.presage.io
 iteratehq.com
@@ -4506,6 +4524,7 @@ linewebtoon-d.openx.net
 link.krxd.net
 link.swrve.com
 linkto-ext-hp-com.ct.impactradius.com
+litix.io
 live-api.immomo.com
 live-log.immomo.com
 live-tag.bannersnack.com
@@ -4552,6 +4571,7 @@ log.fotoable.com
 log.gds.mmstat.com
 log.go.com
 log.hitsteps.com
+log.ifood.tv
 log.intellimize.co
 log.isnssdk.com
 log.kgrid.co.kr
@@ -4805,6 +4825,7 @@ meter-svc.nytimes.com
 metric-android-am.road404.com
 metrics-collector.s-onetag.com
 metrics-logger.spot.im
+metrics.aetn.com
 metrics.boostmobile.com
 metrics.brightcove.com
 metrics.client-eng.a2z.com
@@ -5054,6 +5075,7 @@ networld.hk
 new.fqtag.com
 newfeatureview.perfectionholic.com
 newre-conversions.clickmeter.com
+newrelic.com
 news.iadsdk.apple.com
 newscorp.grapeshot.co.uk
 newspush.sinajs.cn
@@ -5256,6 +5278,7 @@ p-v2.presage.io
 p.ad.gt
 p.adnxs.com
 p.adrta.com
+p.ads.roku.com
 p.adsymptotic.com
 p.alcmpn.com
 p.bokecc.com
@@ -5395,6 +5418,7 @@ phluant.com
 phone-arena-d.openx.net
 phonograph2.voxmedia.com
 phunware.com
+pi.ispot.tv
 pi.pardot.com
 piccdn.igetget.com
 pie.wirelessregistry.com
@@ -5698,6 +5722,7 @@ puds.ucweb.com
 puhtml.com
 pulse.apester.com
 pulse.inmobi.com
+pulse.svod.aetnd.com
 pulsepoint-match.dotomi.com
 purch-match.dotomi.com
 purch-sync.go.sonobi.com
@@ -5802,6 +5827,7 @@ rat.da.us.criteo.com
 rat.fr.eu.criteo.com
 rat.nl.eu.criteo.com
 raven.aprod.scopely.io
+ravm.tv
 rayjump.com
 rb.adnxs.com
 rbc.medialand.ru
@@ -6168,6 +6194,7 @@ scorecardresearch.com
 scorecardresearch.com.edgekey.net
 screencaptue-cdn.kampyle.com
 screencapture.kampyle.com
+scribe.logs.roku.com
 script.4dex.io
 script.crazyegg.com
 script.hotjar.com
@@ -6375,6 +6402,7 @@ segment-data.zqtk.net
 segment.a3cloud.net
 segment.api.useinsider.com
 segment.prod.bidr.io
+segmentapis.com
 segments.adap.tv
 segments.company-target.com
 sejs.moatads.com
@@ -6485,6 +6513,7 @@ sift-campaign-creatives.sift.co
 signal-beacon.s-onetag.com
 signal-metrics-collector-beta.s-onetag.com
 signals.ampiri.com
+silver-fir.cd.segmentapis.com
 silvermob.com
 simage2.pubmatic.com
 simplesharebuttons.com
@@ -6678,6 +6707,8 @@ spot-im-d.openx.net
 spotscenered.info
 spotx-match.dotomi.com
 spotxcdn.com.edgekey.net
+spotxchange.com
+springserve.com
 sprint-srs-appopen.asapp.com
 sprint.asapp.com
 sprout-ad.com
@@ -7241,6 +7272,7 @@ thunder.adnxs.com
 ti.domainforlite.com
 tia.timeinc.net
 ticks2.bugsense.com
+tidaltv.com
 tidaltv.com.akadns.net
 tie.247-inc.net
 tileswan.cmcm.com
@@ -7308,6 +7340,7 @@ trace.qq.com
 tracing-collector.strava.com
 track-east.mobileadtrading.com
 track.accesstrade.vn
+track.activemetering.com
 track.ad.xiaomi.com
 track.addict-mobile.net
 track.adform.net
@@ -7456,6 +7489,7 @@ trk.kissmetrics.com
 trk.klclick3.com
 trk.pinterest.com
 trk.superads.cn
+trk.tidaltv.com
 trk.vidible.tv
 trk.wdacashtrk.com
 tru.am
@@ -7476,6 +7510,7 @@ tunein.deliveryengine.adswizz.com
 turbo.adsbynimbus.com
 turbo.engageclick.com
 turbo2sdk-push.oupeng.com
+turn.com
 turn.com.akadns.net
 tutoads.tv
 tv.rlcdn.com
@@ -7633,6 +7668,7 @@ us.criteo.com
 us.criteo.net
 us.dotomi.weighted.com.akadns.net
 us.iad.legacy.dotomi.weighted.com.akadns.net
+us.ibs.lgappstv.com
 us.sjc.dotomi.weighted.com.akadns.net
 us.sjc.legacy.dotomi.weighted.com.akadns.net
 us.tags.newscgp.com
@@ -7811,6 +7847,7 @@ video.startappservice.com
 video.unrulymedia.com
 video.upqzfile.com
 videoads-cloud.rovio.com
+videoamp.com
 videoclientsservicescalls.outbrain.com
 videoevents.outbrain.com
 videointelligence-d.openx.net
