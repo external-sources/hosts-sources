@@ -184,6 +184,7 @@
 959cad30.api.splkmobile.com
 9864.engine.mobileapptracking.com
 9ed5f5b4.api.splkmobile.com
+a-fds.youborafds01.com
 a-ssl.ligatus.com
 a.ad.gt
 a.adnium.com
@@ -736,6 +737,7 @@ adserver-as.adtech.advertising.com
 adserver-clarium-1405844056.eu-central-1.elb.amazonaws.com
 adserver-clarium-1718981494.us-west-1.elb.amazonaws.com
 adserver-clarium-446793891.us-east-1.elb.amazonaws.com
+adserver-east.extend.tv
 adserver-eu.adtech.advertising.com
 adserver-toy.adtechjp.com
 adserver-us.adtech.advertising.com
@@ -1374,6 +1376,7 @@ api.saypromo.net
 api.sdk.zadn.vn
 api.sdkbox.com
 api.sec.miui.com
+api.secondstreetapp.com
 api.segment.io
 api.sentiance.com
 api.share.mob.com
@@ -1808,6 +1811,8 @@ b3.mookie1.com
 b3bb7de118d3a2fed1dd1ee77ed5a2bac10fe77b.cws.conviva.com
 babel.innertrends.com
 balanced-clk.taptica.com
+balanced-collect.deltadna.net
+balanced-engage.deltadna.net
 balancer.devtodev.com
 bam.eu01.nr-data.net
 bam.nr-data.net
@@ -2622,6 +2627,7 @@ collect2585gmsfw.deltadna.net
 collect3515gvrnr.deltadna.net
 collect4739mgndm.deltadna.net
 collect5081wrdch.deltadna.net
+collect82532756ggplc.deltadna.net
 collecting-consent.g5e.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
@@ -2666,6 +2672,7 @@ conde.amp.permutive.com
 condenast.demdex.net
 condenastus-d.openx.net
 conductor.clicktale.net
+conduit.redfast.com
 conf.lsosad.com
 conf.placer.io
 conf.smartnews-ads.com
@@ -2721,6 +2728,7 @@ content.tapjoy.com
 contentabc.com
 contentapi.celltick.com
 contentstream.pl
+context.iris.tv
 contextual.media.net
 contineljs.com
 control-test-ec.adaptv.advertising.com
@@ -2844,6 +2852,7 @@ cszz.ru
 ct.impactradius.com
 ct.pinterest.com
 ctv.adelement.com
+ctv.truex.com
 cuebiq.com
 currency.prebid.org
 cursa.iad-03.braze.com
@@ -3090,6 +3099,7 @@ dmp.adform.net
 dmp.adotmob.com
 dmp.fout.jp
 dmp.starbolt.io
+dmp.truoptik.com
 dmpsync.3lift.com
 dmv-org-d.openx.net
 dmx.districtm.io
@@ -3147,6 +3157,7 @@ dsum-sec.casalemedia.com
 dsum-sec.casalemedia.com.edgekey.net
 dsum.casalemedia.com
 dsum.casalemedia.com.edgekey.net
+dt-secure.videohub.tv
 dt.adsafeprotected.com
 dtnads-d.openx.net
 dtrc.veinteractive.com
@@ -3238,6 +3249,7 @@ eligibility.wootric.com
 em.bm23.com
 em.dynamicyield.com
 emarketing.sina.com.cn
+embed.secondstreetapp.com
 embed.tagboard.com.herokudns.com
 embed.tempest-identity.prod.saymedia.com
 emea-v3.tracking.justpremium.com
@@ -3260,6 +3272,7 @@ engage15099mrbll.deltadna.net
 engage17070dvntr.deltadna.net
 engage3515gvrnr.deltadna.net
 engage5081wrdch.deltadna.net
+engage82532756ggplc.deltadna.net
 engage8829thscr.deltadna.net
 engagement-bus-prod-713264365.us-east-1.elb.amazonaws.com
 engagement-collector.mobify.net
@@ -3363,6 +3376,7 @@ events.avantisvideo.com
 events.brightline.tv
 events.browsiprod.com
 events.cid.samba.tv
+events.claspws.tv
 events.engager.ecbsn.com
 events.engageya.com
 events.foreseeresults.com
@@ -3417,6 +3431,7 @@ exponential54894892.s.moatpixel.com
 exponentialjsint8023749877114.s.moatpixel.com
 ext-inv-cdn.presage.io
 ext-inv-cdn.prod.cloud.ogury.io
+extend.tv
 extreme-ip-lookup.com
 eyeblaster.akadns.net
 eyeota-match.dotomi.com
@@ -3556,6 +3571,7 @@ freegeoip.net
 freepik-d.openx.net
 freesam.kt.com
 freestar-d.openx.net
+freewheeleventsbidder-east.extend.tv
 front-logs.voodoo-ads.io
 front.adpia.vn
 frtn.socdm.com
@@ -3566,6 +3582,7 @@ fun.adx.admaster.com.cn
 fundingchoices.google.com
 funnel-assets.startappservice.com
 funtomic-d.openx.net
+fuse.forbes.com
 fusion-files-cf.pinsightmedia.com
 fusion-iad-dev-clogs-eqbrmmvphc.elasticbeanstalk.com
 futurenet-d.openx.net
@@ -3680,6 +3697,7 @@ geoinfo.intowow.com
 geoip.cookieyes.com
 geoip.fotoable.net
 geoip.goforandroid.com
+geolocation.forbes.com
 geolocation.onetrust.com
 geoplugin.net
 geoworker.ayads.co
@@ -3724,6 +3742,7 @@ global.event.prod.bidr.io
 global.proper.io
 global.px.quantserve.com
 global.smarterhq.io
+global.telemetry.insights.video.a2z.com
 global.ymtracking.com
 global.yyapi.net
 glsdk.logsss.com
@@ -4301,6 +4320,8 @@ iqzn-useast.adnxs.com
 iqzone.com
 ir-ing-district.clicktale.net
 ir-na.amazon-adsystem.com
+ir.surveywall-api.survata.com
+iris.tv
 iroko.gocarrot.com
 ironsource-d.openx.net
 irqs.ioam.de
@@ -4676,6 +4697,7 @@ ma80-r.analytics.edgekey.net
 ma85-r-analytics.akamaized.net
 mab.chartbeat.com
 mabping.chartbeat.net
+macromill.com
 madadsmedia.com
 mads.amazon-adsystem.com
 mads.amazon.com
@@ -5556,6 +5578,7 @@ pool-mediafin.adhese.com
 pool-pebblemedia.adhese.com
 pool.adizio.com
 poole-collector-prod.bnsqc3zmvt.us-east-1.elasticbeanstalk.com
+pop-iad-2.cf.dash.row.aiv-cdn.net
 popup.taboola.com
 post.iperceptions.com
 post.voiceads.cn
@@ -5861,6 +5884,7 @@ recs.engageya.com
 recs.shareaholic.com
 recv-bak-wd.gridsumdissector.com
 recv-wd.gridsumdissector.com
+redfast.com
 redintelligence.net
 redirect.advconversion.com
 redirect.appmetrica.yandex.com
@@ -6357,6 +6381,7 @@ sec.umeng.com
 seccdn-gl.imrworldwide.com
 seccosquared-d.openx.net
 secondscreenindexer.adswizz.com
+secondstreetapp.com
 secure-adnxs.edgekey.net
 secure-assets.rubiconproject.com
 secure-au.imrworldwide.com
@@ -6983,6 +7008,7 @@ sundaysky-partners.tremorhub.com
 sundaysky-sync-us.teads.tv
 superad2.com.sg
 supersonicads.com
+survata.com
 survey.g.doubleclick.net
 survey.survicate.com
 survey.wootric.com
@@ -7028,6 +7054,7 @@ sync.connectad.io
 sync.console.adtarget.com.tr
 sync.crwdcntrl.net
 sync.dmp.fout.jp
+sync.extend.tv
 sync.fout.jp
 sync.go.sonobi.com
 sync.graph.bluecava.com
@@ -7233,6 +7260,7 @@ tealium.cbsnews.com
 tealium.hs.llnwd.net
 teams.optimizely.com
 telaria.adhaven.com
+telariaeventsbidder-east.extend.tv
 telegraph-d.openx.net
 telegraph.grapeshot.co.uk
 telemetrics.klaviyo.com
@@ -7261,6 +7289,7 @@ theconstructor.pushengage.com
 thedrive-d.openx.net
 thehill-d.openx.net
 theoremreach.com
+thetimmedia.site
 thetradedeskinnovidmaster582779829774.s.moatpixel.com
 thetradedeskv275874568748.s.moatpixel.com
 thetrafficstat.net
@@ -7312,6 +7341,7 @@ townhallmedia-d.openx.net
 townsquaremedia-d.openx.net
 tp-emea.exactag.com
 tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
+tp.videohub.tv
 tpat.api.vungle.akadns.net
 tpat.api.vungle.com
 tpbid.com
@@ -7475,6 +7505,8 @@ trialpay.com
 tribez.game-insight.com
 tribune-d.openx.net
 triggeredmail.appspot.com
+trinity-cdn.thetimmedia.site
+trinity-player.thetimmedia.site
 trinitymirror.grapeshot.co.uk
 triplelift-match.dotomi.com
 trk-int.addealsnetwork.com
@@ -7493,6 +7525,8 @@ trk.tidaltv.com
 trk.vidible.tv
 trk.wdacashtrk.com
 tru.am
+truex.com
+truoptik.com
 trustarc.mgr.consensu.org
 ts-tracker-env-2.us-east-1.elasticbeanstalk.com
 ts-tracker-env.us-east-1.elasticbeanstalk.com
@@ -7637,6 +7671,7 @@ us-east-1.local.emxdgt.com
 us-east-1.prod.pr.analytics.console.aws.a2z.com
 us-east-1.prod.pw.analytics.console.aws.a2z.com
 us-east-1.stinger-ad.bidr.io
+us-east-1.telemetry.insights.video.a2z.com
 us-east-1.world.rw.yieldmo.com
 us-east-2.prod.pr.analytics.console.aws.a2z.com
 us-east-ad-track.aralego.com
@@ -7669,6 +7704,8 @@ us.criteo.net
 us.dotomi.weighted.com.akadns.net
 us.iad.legacy.dotomi.weighted.com.akadns.net
 us.ibs.lgappstv.com
+us.lgtvsdp.com
+us.rdx2.lgtvsdp.com
 us.sjc.dotomi.weighted.com.akadns.net
 us.sjc.legacy.dotomi.weighted.com.akadns.net
 us.tags.newscgp.com
@@ -7850,6 +7887,7 @@ videoads-cloud.rovio.com
 videoamp.com
 videoclientsservicescalls.outbrain.com
 videoevents.outbrain.com
+videohub.tv
 videointelligence-d.openx.net
 videology-partners.tremorhub.com
 videoplaza.tv
@@ -8162,6 +8200,7 @@ yoc-steps.adsbynimbus.com
 yomedia.vn
 yormedia-isr-gbp-d.openx.net
 yoto-d.openx.net
+youborafds01.com
 youmi.net
 youradexchange.com
 yoyi-cm.admaster.com.cn
