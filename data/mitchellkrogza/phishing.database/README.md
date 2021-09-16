@@ -7,13 +7,13 @@
 Please rely **ONLY** on pulling individual list files or the full list of [domains in tar.gz format](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.tar.gz) and [links in tar.gz format](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.tar.gz) (updated hourly) using wget or curl.
 
 _______________
-#### Version: V.2021-09-16.03
-| :boom: Latest Threats<br/>@ 03:36:32 | :boom: Active Threats<br/>Thursday 2021-09-16 | Total Links<br/>Discovered Today |
+#### Version: V.2021-09-16.07
+| :boom: Latest Threats<br/>@ 07:36:36 | :boom: Active Threats<br/>Thursday 2021-09-16 | Total Links<br/>Discovered Today |
 | :---: | :---: |:---: |
-| :warning: [12](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [343](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-TODAY.txt) | [448](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
+| :warning: [47](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [361](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-TODAY.txt) | [514](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
-#### Total Phishing Domains Captured: [363598](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.tar.gz) << (FILE SIZE: 3.0M tar.gz)
-#### Total Phishing Links Captured: [728068](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.tar.gz) << (FILE SIZE: 15M tar.gz)
+#### Total Phishing Domains Captured: [363637](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.tar.gz) << (FILE SIZE: 3.0M tar.gz)
+#### Total Phishing Links Captured: [728134](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.tar.gz) << (FILE SIZE: 15M tar.gz)
 ____________________
 
 
