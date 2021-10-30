@@ -1747,6 +1747,7 @@ metrics.dt.hicloud.com
 metrics.foxnews.com
 metrics.hackerrank.com
 metrics.icloud.com
+metrics.ionos.com
 metrics.ionos.de
 metrics.plex.tv
 metrics.postoffice.co.uk
@@ -2894,6 +2895,7 @@ mkt10930.com
 mkt10931.com
 mkt10932.com
 mkt10936.com
+mkt10937.com
 mkt10938.com
 mkt10939.com
 mkt1094.com
@@ -2979,6 +2981,7 @@ mkt11016.com
 mkt11017.com
 mkt11018.com
 mkt1102.com
+mkt11020.com
 mkt11021.com
 mkt11023.com
 mkt11024.com
@@ -3013,6 +3016,7 @@ mkt11059.com
 mkt1106.com
 mkt11060.com
 mkt11061.com
+mkt11062.com
 mkt11064.com
 mkt11065.com
 mkt11066.com
@@ -3030,12 +3034,14 @@ mkt11080.com
 mkt11081.com
 mkt11082.com
 mkt11083.com
+mkt11085.com
 mkt11087.com
 mkt11088.com
 mkt11089.com
 mkt1109.com
 mkt11090.com
 mkt11091.com
+mkt11092.com
 mkt11095.com
 mkt11096.com
 mkt11097.com
@@ -3050,12 +3056,17 @@ mkt11105.com
 mkt11106.com
 mkt11107.com
 mkt1111.com
+mkt11110.com
 mkt11111.com
 mkt11116.com
+mkt11117.com
 mkt11118.com
 mkt1112.com
+mkt11120.com
 mkt11122.com
+mkt11124.com
 mkt1113.com
+mkt11130.com
 mkt1114.com
 mkt1115.com
 mkt1116.com
@@ -13735,6 +13746,7 @@ smetrics.cartersoshkosh.ca
 smetrics.casio-intl.com
 smetrics.casio.com
 smetrics.casio.jp
+smetrics.catswitharthritis.com
 smetrics.cbc.ca
 smetrics.cbn.com
 smetrics.cdiscount.com
@@ -13772,6 +13784,7 @@ smetrics.comparethemarket.com
 smetrics.consumerreports.org
 smetrics.converse.com
 smetrics.convivacarecenters.com
+smetrics.coolray.com
 smetrics.copart.com
 smetrics.corpayone.com
 smetrics.correos.es
@@ -13858,6 +13871,7 @@ smetrics.eurowings.com
 smetrics.eversource.com
 smetrics.evrysdi-hcp.com
 smetrics.express.com
+smetrics.expressverified.ca
 smetrics.ey.com
 smetrics.farnell.com
 smetrics.fatface.com
@@ -14201,6 +14215,7 @@ smetrics.politico.com
 smetrics.politicopro.com
 smetrics.portlandglass.com
 smetrics.potterybarn.com
+smetrics.potterybarnkids.ca
 smetrics.potterybarnkids.com
 smetrics.poweredbyeinstein.com
 smetrics.prado.com.sv
@@ -14291,6 +14306,7 @@ smetrics.shell.co.uk
 smetrics.shellenergy.co.uk
 smetrics.shinseibank.com
 smetrics.sho.com
+smetrics.shopachotels.com
 smetrics.shopbop.com
 smetrics.shopmyexchange.com
 smetrics.shoppersdrugmart.ca
@@ -15115,6 +15131,7 @@ zeusclicks.com
 zkcdn.net
 zoomanalytics.co
 zotabox.com
+zprk.io
 zqtk.net
 zsj18.com
 zupml.com
