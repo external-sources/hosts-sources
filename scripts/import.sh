@@ -88,18 +88,7 @@ do
 done
 unset wsbLists wsbUrl
 
-# mkdir -p "${git_dir}/data/windowsspyblocker/"
-# ${WGET} -qO- "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/windowsspyblocker/spy.list"
-# printf "Imported WindowsSpyBlocker Spy\n"
-# ${WGET} -qO- 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt' | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/windowsspyblocker/update.list"
-# printf "Imported WindowsSpyBlocker update\n"
-# ${WGET} -qO- 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt' | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/windowsspyblocker/extra.list"
-# printf "Imported WindowsSpyBlocker Extra\n"
-
-# sort -u -f 'data/windowsspyblocker/domain.list' -o 'data/windowsspyblocker/domain.list'
-
 printf "Imported WindowsSpyBlocker\n"
-
 
 printf "Imported adaway.github.io\n"
 mkdir -p "${git_dir}/data/adaway/domain}"
@@ -258,7 +247,7 @@ ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/m
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/README.md" -O "data/mitchellkrogza/phishing.database/README.md"
 
 # As I have no idea or couln't find any RFC telling me that an IPv4 is a valid
-# domain name. It is nessesary to remove them from "Domain"? list
+# domain name. It is nessesary to remove them from "Domain"? list :smirk: :devil:
 
 mkdir -p "${git_dir}/data/mitchellkrogza/Ultimate.Hosts.Blacklist/"
 echo ""
