@@ -101,12 +101,12 @@ unset wsbLists wsbUrl
 printf "Imported WindowsSpyBlocker\n"
 
 
-printf "Imported @jawz101 adaway.github.io\n"
+printf "Imported adaway.github.io\n"
 mkdir -p "${git_dir}/data/adaway/domain}"
 ${WGET} -qO- "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt"  | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "data/adaway/domain.list"
 ${WGET} -q "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/README.md" -O "data/adaway/README.md"
 ${WGET} -q "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/LICENSE.md" -O "data/adaway/LICENSE.md"
-printf "Imported @jawz101 adaway.github.io\n"
+printf "Imported adaway.github.io\n"
 
 mkdir -p "${git_dir}/data/dg-malicious/"
 ${WGET} -qO- "https://www.squidblacklist.org/downloads/dg-malicious.acl" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/dg-malicious/domain.list"
@@ -217,15 +217,6 @@ mkdir -p "${git_dir}/data/spamhaustech/coinblocker/"
 drill axfr coinblocker.srv @35.156.219.71 -p 53 | grep -vE "^(;|$)|(SOA|NS)" | sed -e 's/\.coinblocker\.srv\.[[:blank:]].*$//g' > "data/spamhaustech/coinblocker/domain.list"
 printf "Imported coinblocker .dtq\n"
 
-# Just to big and dumb and full of FP
-# remote: warning: File data/spamhaustech/porn_host_srv/domain.list is
-# 61.08 MB; this is larger than GitHub's recommended maximum file size
-# of 50.00 MB
-#printf "Importing Porn.hosts.srv"
-#mkdir -p "${git_dir}/data/spamhaustech/porn_host_srv/"
-#drill axfr @35.156.219.71 -p 53 porn.host.srv | grep -vE "^(;|$|\*)|(SOA|NS)" | sed -e 's/\.porn\.host\.srv\.[[:blank:]].*$//g' > "data/spamhaustech/porn_host_srv/domain.list"
-#printf "Imported Porn.hosts.srv from ..dtq\n"
-
 # Disconnect ad-servers
 mkdir -p "${git_dir}/data/disconnect-me/"
 c "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' > "data/disconnect-me/domain.list"
@@ -241,16 +232,25 @@ c "https://openphish.com/feed.txt" | awk -F "/" '!/^($|#)/{ print $3 | "sort -u 
 printf "START importing @mitchellkrogza's many lists\n"
 
 mkdir -p "${git_dir}/data/mitchellkrogza/badd_boyz_hosts/"
+echo ""
+echo "Badd-Boyz-Hosts"
+echo ""
 ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/mitchellkrogza/badd_boyz_hosts/domain.list"
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/README.md" -O "data/mitchellkrogza/badd_boyz_hosts/README.md"
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/LICENSE.md" -O "data/mitchellkrogza/badd_boyz_hosts/LICENSE.md"
 
 mkdir -p "${git_dir}/data/mitchellkrogza/the-big-list-of-hacked-malware-web-sites/"
+echo ""
+echo "The-Big-List-of-Hacked-Malware-Web-Sites"
+echo ""
 ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/mitchellkrogza/the-big-list-of-hacked-malware-web-sites/domain.list"
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/README.md" -O "data/mitchellkrogza/the-big-list-of-hacked-malware-web-sites/README.md"
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/LICENSE.md" -O "data/mitchellkrogza/the-big-list-of-hacked-malware-web-sites/LICENSE.md"
 
 mkdir -p "${git_dir}/data/mitchellkrogza/phishing.database/"
+echo ""
+echo "Phishing.Database"
+echo ""
 ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "data/mitchellkrogza/phishing.database/domain.list"
 ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-IPs-ACTIVE.txt" | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | awk -F "." '{  printf("32.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n32.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$4,$3,$2,$1,$4,$3,$2,$1) }' > "data/mitchellkrogza/phishing.database/ipv4.in-addr.arpa"
 ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-IPs-ACTIVE.txt" | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" > "data/mitchellkrogza/phishing.database/ipv4.list"
@@ -261,6 +261,9 @@ ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/m
 # domain name. It is nessesary to remove them from "Domain"? list
 
 mkdir -p "${git_dir}/data/mitchellkrogza/Ultimate.Hosts.Blacklist/"
+echo ""
+echo "Ultimate.Hosts.Blacklist"
+echo ""
 ${WGET} -qO- "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list" | grep -vE "^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$" > "data/mitchellkrogza/Ultimate.Hosts.Blacklist/domain.list"
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/README.md" -O "data/mitchellkrogza/Ultimate.Hosts.Blacklist/README.md"
 ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/LICENSE.md" -O "data/mitchellkrogza/Ultimate.Hosts.Blacklist/LICENSE.md"
