@@ -640,8 +640,6 @@
 22.0.116.185.138.rpz-client-ip	CNAME	rpz-drop.
 22.0.208.186.138.rpz-ip	CNAME	.
 22.0.208.186.138.rpz-client-ip	CNAME	rpz-drop.
-16.0.0.216.138.rpz-ip	CNAME	.
-16.0.0.216.138.rpz-client-ip	CNAME	rpz-drop.
 22.0.172.219.138.rpz-ip	CNAME	.
 22.0.172.219.138.rpz-client-ip	CNAME	rpz-drop.
 16.0.0.249.138.rpz-ip	CNAME	.
