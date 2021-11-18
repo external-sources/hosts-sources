@@ -297,6 +297,7 @@ adserver.automobilwoche.de
 adserver.boersen-zeitung.de
 adserver.diariodosertao.com.br
 adserver.doccheck.com
+adserver.earlygame.com
 adserver.lenouvelliste.com
 adserver.logisticaprofesional.com
 adserver.maispb.com.br
@@ -363,7 +364,6 @@ advertserve.com
 advisor.api.2gis.ru
 adviva.net
 advolution.de
-adwise.agency
 adwonder.cn
 adworldmedia.com
 adx1.com
@@ -452,6 +452,7 @@ analytics.codemasters.com
 analytics.cohesionapps.com
 analytics.convertlanguage.com
 analytics.credible.com
+analytics.dealmoon.com
 analytics.dominos.com
 analytics.eip.telegraph.co.uk
 analytics.evehome.com
@@ -661,6 +662,7 @@ beacon.direct.asda.com
 beacon.dropbox.com
 beacon.my.salesforce.com
 beacon.riskified.com
+beacon.walmart.com
 beacon.wikia-services.com
 beaconimages.netflix.net
 beacons.gcp.gvt2.com
@@ -748,14 +750,9 @@ brightinfo.com
 brightline.tv
 brightroll.mobi
 brightroll.org
-brightrolldsp.com
-brightrollexchange.com
-brightrollmarketplace.com
-brightroulette.com
 brilig.com
 britepool.com
 brpx.com
-brvideosummit.com
 brvs.com
 brxvideosummit.com
 bstats.org
@@ -1390,7 +1387,6 @@ gowebapitrack.com
 grafana.org
 grandchildfee.com
 granify.com
-grapeshot-apac.com
 grapeshot.co.uk
 grapeshot.com
 graphiq.com
@@ -1837,13 +1833,16 @@ metrics.articulate.com
 metrics.asos.com
 metrics.cbc.ca
 metrics.corus.ca
+metrics.data.hicloud.com
 metrics.dt.hicloud.com
+metrics.fe.apple-dns.net
 metrics.fidelity.com
 metrics.foxnews.com
 metrics.hackerrank.com
 metrics.icloud.com
 metrics.ionos.com
 metrics.ionos.de
+metrics.mzstatic.com
 metrics.plex.tv
 metrics.postoffice.co.uk
 metrics.raptr.com
@@ -1869,47 +1868,29 @@ millennialmedia.com
 mindbox.ru
 mixpanel.com
 mkt001.com
-mkt003.com
 mkt005.com
 mkt010.com
 mkt012.com
 mkt015.com
 mkt0203.com
-mkt028.com
 mkt030.com
-mkt032.com
-mkt037.com
 mkt038.com
-mkt039.com
-mkt040.com
 mkt042.com
-mkt043.com
 mkt044.com
 mkt046.com
 mkt047.com
-mkt048.com
-mkt050.com
-mkt054.com
 mkt055.com
 mkt059.com
-mkt061.com
 mkt062.com
 mkt063.com
 mkt064.com
-mkt070.com
-mkt071.com
 mkt073.com
-mkt077.com
-mkt080.com
 mkt086.com
 mkt087.com
-mkt088.com
 mkt089.com
-mkt090.com
 mkt091.com
 mkt093.com
 mkt094.com
-mkt095.com
 mkt096.com
 mkt097.com
 mkt098.com
@@ -3064,6 +3045,7 @@ mkt11081.com
 mkt11082.com
 mkt11083.com
 mkt11085.com
+mkt11086.com
 mkt11087.com
 mkt11088.com
 mkt11089.com
@@ -3071,13 +3053,15 @@ mkt1109.com
 mkt11090.com
 mkt11091.com
 mkt11092.com
+mkt11094.com
 mkt11095.com
 mkt11096.com
 mkt11097.com
 mkt11098.com
-mkt111.com
+mkt11099.com
 mkt1110.com
 mkt11100.com
+mkt11101.com
 mkt11102.com
 mkt11103.com
 mkt11104.com
@@ -3089,6 +3073,7 @@ mkt1111.com
 mkt11110.com
 mkt11111.com
 mkt11114.com
+mkt11115.com
 mkt11116.com
 mkt11117.com
 mkt11118.com
@@ -3098,8 +3083,10 @@ mkt11121.com
 mkt11122.com
 mkt11124.com
 mkt11126.com
+mkt11127.com
 mkt1113.com
 mkt11130.com
+mkt11131.com
 mkt11138.com
 mkt1114.com
 mkt1115.com
@@ -3107,7 +3094,6 @@ mkt1116.com
 mkt1117.com
 mkt1118.com
 mkt1119.com
-mkt112.com
 mkt1120.com
 mkt1121.com
 mkt1122.com
@@ -3219,7 +3205,6 @@ mkt1226.com
 mkt1227.com
 mkt1228.com
 mkt1229.com
-mkt123.com
 mkt1230.com
 mkt1231.com
 mkt1232.com
@@ -3271,7 +3256,6 @@ mkt1276.com
 mkt1277.com
 mkt1278.com
 mkt1279.com
-mkt128.com
 mkt1280.com
 mkt1281.com
 mkt1282.com
@@ -3282,7 +3266,6 @@ mkt1286.com
 mkt1287.com
 mkt1288.com
 mkt1289.com
-mkt129.com
 mkt1290.com
 mkt1291.com
 mkt1292.com
@@ -3293,7 +3276,6 @@ mkt1296.com
 mkt1297.com
 mkt1298.com
 mkt1299.com
-mkt130.com
 mkt1300.com
 mkt1301.com
 mkt1302.com
@@ -3304,7 +3286,6 @@ mkt1306.com
 mkt1307.com
 mkt1308.com
 mkt1309.com
-mkt131.com
 mkt1310.com
 mkt1311.com
 mkt1312.com
@@ -3326,7 +3307,6 @@ mkt1326.com
 mkt1327.com
 mkt1328.com
 mkt1329.com
-mkt133.com
 mkt1330.com
 mkt1331.com
 mkt1332.com
@@ -3348,7 +3328,6 @@ mkt1346.com
 mkt1347.com
 mkt1348.com
 mkt1349.com
-mkt135.com
 mkt1350.com
 mkt1351.com
 mkt1352.com
@@ -3359,7 +3338,6 @@ mkt1356.com
 mkt1357.com
 mkt1358.com
 mkt1359.com
-mkt136.com
 mkt1360.com
 mkt1361.com
 mkt1362.com
@@ -3500,7 +3478,6 @@ mkt1496.com
 mkt1497.com
 mkt1498.com
 mkt1499.com
-mkt150.com
 mkt1500.com
 mkt1501.com
 mkt1502.com
@@ -3511,7 +3488,6 @@ mkt1506.com
 mkt1507.com
 mkt1508.com
 mkt1509.com
-mkt151.com
 mkt1510.com
 mkt1511.com
 mkt1512.com
@@ -3522,7 +3498,6 @@ mkt1516.com
 mkt1517.com
 mkt1518.com
 mkt1519.com
-mkt152.com
 mkt1520.com
 mkt1521.com
 mkt1522.com
@@ -3544,7 +3519,6 @@ mkt1536.com
 mkt1537.com
 mkt1538.com
 mkt1539.com
-mkt154.com
 mkt1540.com
 mkt1541.com
 mkt1542.com
@@ -3555,7 +3529,6 @@ mkt1546.com
 mkt1547.com
 mkt1548.com
 mkt1549.com
-mkt155.com
 mkt1550.com
 mkt1551.com
 mkt1552.com
@@ -3566,7 +3539,6 @@ mkt1556.com
 mkt1557.com
 mkt1558.com
 mkt1559.com
-mkt156.com
 mkt1560.com
 mkt1561.com
 mkt1562.com
@@ -3577,7 +3549,6 @@ mkt1566.com
 mkt1567.com
 mkt1568.com
 mkt1569.com
-mkt157.com
 mkt1570.com
 mkt1571.com
 mkt1572.com
@@ -3588,7 +3559,6 @@ mkt1576.com
 mkt1577.com
 mkt1578.com
 mkt1579.com
-mkt158.com
 mkt1580.com
 mkt1581.com
 mkt1582.com
@@ -3662,7 +3632,6 @@ mkt1646.com
 mkt1647.com
 mkt1648.com
 mkt1649.com
-mkt165.com
 mkt1650.com
 mkt1651.com
 mkt1652.com
@@ -3727,7 +3696,6 @@ mkt1706.com
 mkt1707.com
 mkt1708.com
 mkt1709.com
-mkt171.com
 mkt1710.com
 mkt1711.com
 mkt1712.com
@@ -4246,7 +4214,6 @@ mkt2216.com
 mkt2217.com
 mkt2218.com
 mkt2219.com
-mkt222.com
 mkt2220.com
 mkt2221.com
 mkt2222.com
@@ -4279,7 +4246,6 @@ mkt2246.com
 mkt2247.com
 mkt2248.com
 mkt2249.com
-mkt225.com
 mkt2250.com
 mkt2251.com
 mkt2252.com
@@ -4290,7 +4256,6 @@ mkt2256.com
 mkt2257.com
 mkt2258.com
 mkt2259.com
-mkt226.com
 mkt2260.com
 mkt2261.com
 mkt2262.com
@@ -4301,7 +4266,6 @@ mkt2266.com
 mkt2267.com
 mkt2268.com
 mkt2269.com
-mkt227.com
 mkt2270.com
 mkt2271.com
 mkt2272.com
@@ -4333,7 +4297,6 @@ mkt2296.com
 mkt2297.com
 mkt2298.com
 mkt2299.com
-mkt230.com
 mkt2300.com
 mkt2301.com
 mkt2302.com
@@ -4396,7 +4359,6 @@ mkt2356.com
 mkt2357.com
 mkt2358.com
 mkt2359.com
-mkt236.com
 mkt2360.com
 mkt2361.com
 mkt2362.com
@@ -4479,7 +4441,6 @@ mkt2436.com
 mkt2437.com
 mkt2438.com
 mkt2439.com
-mkt244.com
 mkt2440.com
 mkt2441.com
 mkt2442.com
@@ -4562,7 +4523,6 @@ mkt2516.com
 mkt2517.com
 mkt2518.com
 mkt2519.com
-mkt252.com
 mkt2520.com
 mkt2521.com
 mkt2522.com
@@ -4654,7 +4614,6 @@ mkt2606.com
 mkt2607.com
 mkt2608.com
 mkt2609.com
-mkt261.com
 mkt2610.com
 mkt2611.com
 mkt2612.com
@@ -4696,7 +4655,6 @@ mkt2646.com
 mkt2647.com
 mkt2648.com
 mkt2649.com
-mkt265.com
 mkt2650.com
 mkt2651.com
 mkt2652.com
@@ -4707,7 +4665,6 @@ mkt2656.com
 mkt2657.com
 mkt2658.com
 mkt2659.com
-mkt266.com
 mkt2660.com
 mkt2661.com
 mkt2662.com
@@ -4718,7 +4675,6 @@ mkt2666.com
 mkt2667.com
 mkt2668.com
 mkt2669.com
-mkt267.com
 mkt2670.com
 mkt2671.com
 mkt2672.com
@@ -4740,7 +4696,6 @@ mkt2686.com
 mkt2687.com
 mkt2688.com
 mkt2689.com
-mkt269.com
 mkt2690.com
 mkt2691.com
 mkt2692.com
@@ -4936,7 +4891,6 @@ mkt2876.com
 mkt2877.com
 mkt2878.com
 mkt2879.com
-mkt288.com
 mkt2880.com
 mkt2881.com
 mkt2882.com
@@ -4947,7 +4901,6 @@ mkt2886.com
 mkt2887.com
 mkt2888.com
 mkt2889.com
-mkt289.com
 mkt2890.com
 mkt2891.com
 mkt2892.com
@@ -4968,7 +4921,6 @@ mkt2906.com
 mkt2907.com
 mkt2908.com
 mkt2909.com
-mkt291.com
 mkt2910.com
 mkt2911.com
 mkt2912.com
@@ -5040,7 +4992,6 @@ mkt2976.com
 mkt2977.com
 mkt2978.com
 mkt2979.com
-mkt298.com
 mkt2980.com
 mkt2981.com
 mkt2982.com
@@ -5092,7 +5043,6 @@ mkt3026.com
 mkt3027.com
 mkt3028.com
 mkt3029.com
-mkt303.com
 mkt3030.com
 mkt3031.com
 mkt3032.com
@@ -5207,7 +5157,6 @@ mkt3136.com
 mkt3137.com
 mkt3138.com
 mkt3139.com
-mkt314.com
 mkt3140.com
 mkt3141.com
 mkt3142.com
@@ -5218,7 +5167,6 @@ mkt3146.com
 mkt3147.com
 mkt3148.com
 mkt3149.com
-mkt315.com
 mkt3150.com
 mkt3151.com
 mkt3152.com
@@ -5260,7 +5208,6 @@ mkt3186.com
 mkt3187.com
 mkt3188.com
 mkt3189.com
-mkt319.com
 mkt3190.com
 mkt3191.com
 mkt3192.com
@@ -5281,7 +5228,6 @@ mkt3206.com
 mkt3207.com
 mkt3208.com
 mkt3209.com
-mkt321.com
 mkt3210.com
 mkt3211.com
 mkt3212.com
@@ -5292,7 +5238,6 @@ mkt3216.com
 mkt3217.com
 mkt3218.com
 mkt3219.com
-mkt322.com
 mkt3220.com
 mkt3221.com
 mkt3222.com
@@ -5303,7 +5248,6 @@ mkt3226.com
 mkt3227.com
 mkt3228.com
 mkt3229.com
-mkt323.com
 mkt3230.com
 mkt3231.com
 mkt3232.com
@@ -5354,7 +5298,6 @@ mkt3276.com
 mkt3277.com
 mkt3278.com
 mkt3279.com
-mkt328.com
 mkt3280.com
 mkt3281.com
 mkt3282.com
@@ -5490,7 +5433,6 @@ mkt3406.com
 mkt3407.com
 mkt3408.com
 mkt3409.com
-mkt341.com
 mkt3410.com
 mkt3411.com
 mkt3412.com
@@ -5565,7 +5507,6 @@ mkt3476.com
 mkt3477.com
 mkt3478.com
 mkt3479.com
-mkt348.com
 mkt3480.com
 mkt3481.com
 mkt3482.com
@@ -5608,7 +5549,6 @@ mkt3516.com
 mkt3517.com
 mkt3518.com
 mkt3519.com
-mkt352.com
 mkt3520.com
 mkt3521.com
 mkt3522.com
@@ -5619,7 +5559,6 @@ mkt3526.com
 mkt3527.com
 mkt3528.com
 mkt3529.com
-mkt353.com
 mkt3530.com
 mkt3531.com
 mkt3532.com
@@ -5750,7 +5689,6 @@ mkt3656.com
 mkt3657.com
 mkt3658.com
 mkt3659.com
-mkt366.com
 mkt3660.com
 mkt3661.com
 mkt3662.com
@@ -5772,7 +5710,6 @@ mkt3676.com
 mkt3677.com
 mkt3678.com
 mkt3679.com
-mkt368.com
 mkt3680.com
 mkt3681.com
 mkt3682.com
@@ -5793,7 +5730,6 @@ mkt3696.com
 mkt3697.com
 mkt3698.com
 mkt3699.com
-mkt370.com
 mkt3700.com
 mkt3701.com
 mkt3702.com
@@ -5857,7 +5793,6 @@ mkt3756.com
 mkt3757.com
 mkt3758.com
 mkt3759.com
-mkt376.com
 mkt3760.com
 mkt3761.com
 mkt3762.com
@@ -5888,7 +5823,6 @@ mkt3786.com
 mkt3787.com
 mkt3788.com
 mkt3789.com
-mkt379.com
 mkt3790.com
 mkt3791.com
 mkt3792.com
@@ -5899,7 +5833,6 @@ mkt3796.com
 mkt3797.com
 mkt3798.com
 mkt3799.com
-mkt380.com
 mkt3800.com
 mkt3801.com
 mkt3802.com
@@ -5931,7 +5864,6 @@ mkt3826.com
 mkt3827.com
 mkt3828.com
 mkt3829.com
-mkt383.com
 mkt3830.com
 mkt3831.com
 mkt3832.com
@@ -5942,7 +5874,6 @@ mkt3836.com
 mkt3837.com
 mkt3838.com
 mkt3839.com
-mkt384.com
 mkt3840.com
 mkt3841.com
 mkt3842.com
@@ -5964,7 +5895,6 @@ mkt3856.com
 mkt3857.com
 mkt3858.com
 mkt3859.com
-mkt386.com
 mkt3860.com
 mkt3861.com
 mkt3862.com
@@ -5975,7 +5905,6 @@ mkt3866.com
 mkt3867.com
 mkt3868.com
 mkt3869.com
-mkt387.com
 mkt3870.com
 mkt3871.com
 mkt3872.com
@@ -5996,7 +5925,6 @@ mkt3886.com
 mkt3887.com
 mkt3888.com
 mkt3889.com
-mkt389.com
 mkt3890.com
 mkt3891.com
 mkt3892.com
@@ -6007,7 +5935,6 @@ mkt3896.com
 mkt3897.com
 mkt3898.com
 mkt3899.com
-mkt390.com
 mkt3900.com
 mkt3901.com
 mkt3902.com
@@ -6018,7 +5945,6 @@ mkt3906.com
 mkt3907.com
 mkt3908.com
 mkt3909.com
-mkt391.com
 mkt3910.com
 mkt3911.com
 mkt3912.com
@@ -6029,7 +5955,6 @@ mkt3916.com
 mkt3917.com
 mkt3918.com
 mkt3919.com
-mkt392.com
 mkt3920.com
 mkt3921.com
 mkt3922.com
@@ -6040,7 +5965,6 @@ mkt3926.com
 mkt3927.com
 mkt3928.com
 mkt3929.com
-mkt393.com
 mkt3930.com
 mkt3931.com
 mkt3932.com
@@ -6051,7 +5975,6 @@ mkt3936.com
 mkt3937.com
 mkt3938.com
 mkt3939.com
-mkt394.com
 mkt3940.com
 mkt3941.com
 mkt3942.com
@@ -6082,7 +6005,6 @@ mkt3966.com
 mkt3967.com
 mkt3968.com
 mkt3969.com
-mkt397.com
 mkt3970.com
 mkt3971.com
 mkt3972.com
@@ -6124,7 +6046,6 @@ mkt4006.com
 mkt4007.com
 mkt4008.com
 mkt4009.com
-mkt401.com
 mkt4010.com
 mkt4011.com
 mkt4012.com
@@ -6155,7 +6076,6 @@ mkt4036.com
 mkt4037.com
 mkt4038.com
 mkt4039.com
-mkt404.com
 mkt4040.com
 mkt4041.com
 mkt4042.com
@@ -6166,7 +6086,6 @@ mkt4046.com
 mkt4047.com
 mkt4048.com
 mkt4049.com
-mkt405.com
 mkt4050.com
 mkt4051.com
 mkt4052.com
@@ -6188,7 +6107,6 @@ mkt4066.com
 mkt4067.com
 mkt4068.com
 mkt4069.com
-mkt407.com
 mkt4070.com
 mkt4071.com
 mkt4072.com
@@ -6199,7 +6117,6 @@ mkt4076.com
 mkt4077.com
 mkt4078.com
 mkt4079.com
-mkt408.com
 mkt4080.com
 mkt4081.com
 mkt4082.com
@@ -6210,7 +6127,6 @@ mkt4086.com
 mkt4087.com
 mkt4088.com
 mkt4089.com
-mkt409.com
 mkt4090.com
 mkt4091.com
 mkt4092.com
@@ -6304,7 +6220,6 @@ mkt4176.com
 mkt4177.com
 mkt4178.com
 mkt4179.com
-mkt418.com
 mkt4180.com
 mkt4181.com
 mkt4182.com
@@ -6315,7 +6230,6 @@ mkt4186.com
 mkt4187.com
 mkt4188.com
 mkt4189.com
-mkt419.com
 mkt4190.com
 mkt4191.com
 mkt4192.com
@@ -6326,7 +6240,6 @@ mkt4196.com
 mkt4197.com
 mkt4198.com
 mkt4199.com
-mkt420.com
 mkt4200.com
 mkt4201.com
 mkt4202.com
@@ -6380,7 +6293,6 @@ mkt4246.com
 mkt4247.com
 mkt4248.com
 mkt4249.com
-mkt425.com
 mkt4250.com
 mkt4251.com
 mkt4252.com
@@ -6422,7 +6334,6 @@ mkt4286.com
 mkt4287.com
 mkt4288.com
 mkt4289.com
-mkt429.com
 mkt4290.com
 mkt4291.com
 mkt4292.com
@@ -6664,7 +6575,6 @@ mkt4526.com
 mkt4527.com
 mkt4528.com
 mkt4529.com
-mkt453.com
 mkt4530.com
 mkt4531.com
 mkt4532.com
@@ -7697,7 +7607,6 @@ mkt5546.com
 mkt5547.com
 mkt5548.com
 mkt5549.com
-mkt555.com
 mkt5550.com
 mkt5551.com
 mkt5552.com
@@ -12658,7 +12567,6 @@ porovname.cz
 portbay.trade
 possessedcrackinghart.com
 postrelease.com
-postroller.com
 postup.com
 pow7.com
 powerlinks.com
@@ -12886,7 +12794,6 @@ rm0005.net
 rm0009.net
 rm02.net
 rm04.net
-rm05.net
 rm09.net
 rndmusharnar.com
 rng-snp-003.com
@@ -13518,6 +13425,7 @@ smetrics.landrover.de
 smetrics.lanebryant.com
 smetrics.laredoute.fr
 smetrics.lasexta.com
+smetrics.latitudefinancial.co.nz
 smetrics.latitudefinancial.com
 smetrics.latitudefinancial.com.au
 smetrics.latitudepay.com
@@ -13900,6 +13808,7 @@ smetrics.travelzoo.com
 smetrics.trilliumhealthplan.com
 smetrics.tryg.dk
 smetrics.trygghansa.se
+smetrics.tsc.ca
 smetrics.ttiinc.com
 smetrics.tudorwatch.com
 smetrics.tunegocioenserio.com
@@ -14063,6 +13972,8 @@ stats.digitalcontactmails.net
 stats.ebay.com
 stats.elementary.io
 stats.ft.com
+stats.gc.apple.com
+stats.gc.fe.apple-dns.net
 stats.gcp.smartmailcloud.com
 stats.glb.paypal.com
 stats.grml.org
@@ -14280,6 +14191,7 @@ track.thesaurus.com
 track.tproger.ru
 track.untd.com
 track.wattpad.com
+track.wattpadhq.com
 track.wikibuy.com
 trackad.cz
 trackadm.com
@@ -14297,6 +14209,8 @@ tracking-analytics.net
 tracking.atreemo.com
 tracking.cmjump.com.au
 tracking.epicgames.com
+tracking.hsn.com
+tracking.india.miui.com
 tracking.intl.miui.com
 tracking.komoot.de
 tracking.lenzmx.com
@@ -14306,6 +14220,7 @@ tracking.overwolf.com
 tracking.paypal.com
 tracking.prd.mz.internal.unity3d.com
 tracking.resortsandlodges.com
+tracking.rus.miui.com
 tracking.sezzle.com
 tracking.shopstyle.co.uk
 tracking.volo-mobile.com
@@ -14619,7 +14534,6 @@ yourwebbars.com
 ysance.com
 yuhuads.com
 yunjiasu-cdn.net
-yygslb.com
 z7kxv184l6vg.com
 zbuckz.com
 zdbb.net
