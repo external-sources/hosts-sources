@@ -6,6 +6,7 @@ https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/d
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/blocklist_crypto/domain.list
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/CoinBlockerLists/domain.list
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/phishing_army_blocklist_extended/domain.list
+https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/migueldemoura_malware/domain.list
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/blocklist_torrent/domain.list
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/fademind_antipopads/domain.list
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/dg-ads/domain.list
@@ -24,6 +25,7 @@ https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/d
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/malwaredomains/domain.list
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/someonewhocares/domain.list
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/blocklist_ransomware/domain.list
+https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/migueldemoura_ads-tracking/domain.list
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/BBcan177_MS-4/domain.list
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/blocklist_malware/domain.list
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/dg-malicious/domain.list
@@ -41,6 +43,7 @@ https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/d
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/blocklist_scam/domain.list
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/blocklist_phishing/domain.list
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/BBcan177_MS-2/domain.list
+https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/migueldemoura_ads-tracking-breaking/domain.list
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/hphosts/ad_servers/domain.list
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/hphosts/hjk/domain.list
 https://raw.githubusercontent.com/Import-External-Sources/hosts-sources/master/data/hphosts/psh/domain.list
