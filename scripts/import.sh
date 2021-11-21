@@ -259,6 +259,12 @@ ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blac
 printf "Done importing @mitchellkrogza's many lists\n"
 # mitchellkrogza many lists
 
+echo ""
+echo "1Hosts"
+echo ""
+mkdir -p "${git_dir}/data/1Hosts"
+${WGET} -qO- "https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt" | awk '/^(#|$)/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "${git_dir}/data/1Hostsdomain.list"
+
 echo -e "\n\nThe script ${0}\nExited with error code ${?}\n\n"
 
 # git add .
