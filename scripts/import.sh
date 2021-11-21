@@ -274,7 +274,7 @@ for mu in "${muLists[@]}"
 do
 	mkdir -p "${git_dir}/data/migueldemoura_${mu}"
 	echo -e "\t\nImporting ${mu}\n"
-	c "${muUrl}${mu}" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",tolower($1)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_${mu}/domain.list"
+	c "${muUrl}${mu}" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",tolower($1)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/migueldemoura_${mu}/domain.list"
 done
 
 # Unset variables
