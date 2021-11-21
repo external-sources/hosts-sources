@@ -264,6 +264,22 @@ echo "1Hosts"
 echo ""
 mkdir -p "${git_dir}/data/1Hosts"
 ${WGET} -qO- "https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt" | awk '/^(#|$)/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "${git_dir}/data/1Hostsdomain.list"
+printf "Done importing badmajor 1Hosts\n"
+
+
+muLists=(malware ads-tracking ads-tracking-breaking)
+muUrl="https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/"
+
+for mu in "${muLists[@]}"
+do
+	mkdir -p "${git_dir}/data/migueldemoura_${mu}"
+	echo -e "\t\nImporting ${mu}\n"
+	c "${muUrl}${mu}" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",tolower($1)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_${mu}/domain.list"
+done
+
+# Unset variables
+muLists=""
+muUrl=""
 
 echo -e "\n\nThe script ${0}\nExited with error code ${?}\n\n"
 
