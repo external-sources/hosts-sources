@@ -24,7 +24,7 @@ maintaining blacklists
 
 ```bash
 SEARCH="\.iad2\.secureserver\.net$"
-git grep "${PSEARCH}"
-git grep "${PSEARCH}" | grep -E '(/phis|/phs/)'
-git grep "${PSEARCH}" | grep -E '(/phis|/phs/)' | cut -d : -f 2 | sort -u
+git grep "${SEARCH}"
+git grep "${SEARCH}" | grep -E '(/phis|/phs/)'
+git grep "${SEARCH}" | grep -E '(/phis|/phs/)' | cut -d : -f 2 | sort -u
 ```
