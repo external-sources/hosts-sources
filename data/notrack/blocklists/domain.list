@@ -304,6 +304,7 @@ adserver.pressboard.ca
 adserver.wolterskluwer.pl
 adservice.google.co.uk
 adservice.google.com
+adservice.google.com.pk
 adsfac.eu
 adsgaga.com
 adsgainer.com
@@ -437,13 +438,16 @@ analytics.api.vatominc.com
 analytics.archive.org
 analytics.arecontvision.com
 analytics.autodesk.com
+analytics.awsmcafeeccs.mcafee.com
 analytics.barnebys.sh
 analytics.bluemosh.com
 analytics.bmj.com
 analytics.brave.com
 analytics.businessinsider.com
 analytics.cappasity.com
+analytics.ccs.mcafee.com
 analytics.chase.com
+analytics.chegg.com
 analytics.cincopa.com
 analytics.civicplus.com
 analytics.ckju.net
@@ -505,6 +509,7 @@ analytics.move.ru
 analytics.ngs.ru
 analytics.nike.com
 analytics.ninjakiwi.com
+analytics.ns1.ff.avast.com
 analytics.oneplus.cn
 analytics.ovh.com
 analytics.pinterest.com
@@ -1092,6 +1097,7 @@ dmtracker.com
 dmtrk.net
 dmtry.com
 dmvbdfblevxvx.com
+dn360.net
 docalytics.com
 doctorhousing.com
 dohi.se
@@ -1285,7 +1291,6 @@ fikri-ayo.com
 fimserve.com
 final-aws-01.com
 final-azr-01.com
-firebaseio.com
 firebaselogging.googleapis.com
 fitanalytics.com
 flagcounter.com
@@ -1855,6 +1860,7 @@ metrigo.com
 metrika.bestofworldcontent.com
 metrika.mos.ru
 metrika.myseldon.com
+metrika.thisistheplacetowatch.com
 mfadsrvr.com
 mgid.com
 micpn.com
@@ -12894,6 +12900,7 @@ sex-affiliation.com
 sexualpitfall.com
 sg-living.co.jp
 shareaholic.com
+shareaholic.net
 sharethis.com
 sharethrough.com
 shemedia.com
@@ -14111,6 +14118,8 @@ telemetry.dailymotion.com
 telemetry.dropbox.com
 telemetry.geo.dmcdn.net
 telemetry.gfe.nvidia.com
+telemetry.insights.video.a2z.com
+telemetry.intel.com
 telemetry.malwarebytes.com
 telemetry.microsoft.com
 telemetry.microsoft.com.nsatc.net
@@ -14298,7 +14307,6 @@ twisto.cz
 twndo77864.com
 tworismo.com
 tynt.com
-typekit.net
 tyroo.com
 tyroodr.com
 uadx.com
