@@ -177,7 +177,6 @@ admixplay.com
 admized.com
 admo.tv
 admob.com
-admobclick.com
 admobile.top
 adnami.io
 adnet.de
@@ -245,6 +244,7 @@ ads.mindfactory.de
 ads.msn.com
 ads.newsbook.com.mt
 ads.nordcurrent.com
+ads.pinger.com
 ads.pointermedia.hu
 ads.press24.mk
 ads.proboards.com
@@ -295,6 +295,7 @@ adserver.pandora.com
 adserver.pressboard.ca
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
+adservice.google.co.in
 adservice.google.co.uk
 adservice.google.com
 adservice.google.com.pk
@@ -324,6 +325,7 @@ adtarget.tech
 adtcdn.com
 adtech.com
 adtech.de
+adtech.redventures.io
 adtechium.com
 adtechus.com
 adtelligent.com
@@ -354,6 +356,7 @@ advertising.bbcworldwide.com
 advertising.com
 advertising.microsoft.com
 advertising.twitter.com
+advertising.yahoo.com
 adverts.ie
 advertserve.com
 advisor.api.2gis.ru
@@ -467,6 +470,7 @@ analytics.ghostery.com
 analytics.global.sky.com
 analytics.google.com
 analytics.greensender.pl
+analytics.htmedia.in
 analytics.jibecdn.com
 analytics.kaltura.com
 analytics.khmerload.com
@@ -529,6 +533,7 @@ analytics.spotify.com
 analytics.svt.se
 analytics.theta360.com
 analytics.tiktok.com
+analytics.tmonews.com
 analytics.trionworlds.com
 analytics.tripwireinteractive.com
 analytics.trovit.com
@@ -596,6 +601,7 @@ appnexus.net
 appsflyer.com
 appsmonitoring.com
 appstat.petafuel.net
+apptelemetry.io
 apptimize.com
 apptracker.gamedock.io
 appuniverseapplication.com
@@ -752,7 +758,6 @@ brightedge.com
 brightinfo.com
 brightline.tv
 brightroll.mobi
-brightroll.org
 brilig.com
 britepool.com
 brpx.com
@@ -788,7 +793,6 @@ campaignmonitor.com
 canddi.com
 canddi.download
 canddi.io
-candodigital.biz
 cap-mii.net
 captifymedia.com
 carambo.la
@@ -821,6 +825,7 @@ central-core-7.com
 certainalmostcontent.com
 certona.net
 cetrk.com
+cf.iadsdk.apple.com
 chameleon.ad
 chango.com
 channeladvisor.com
@@ -948,9 +953,9 @@ conviva.com
 convrse.media
 conyak.com
 corp.aol.com
-cosmeticsgenerosity.com
 counciladvertising.net
 count-us.rudo.video
+count.wenxuecity.com
 counter.dsp.groupminteraction.ru
 counter.nv.ua
 counter.pushauction.com
@@ -1271,6 +1276,8 @@ fikri-ayo.com
 fimserve.com
 final-aws-01.com
 final-azr-01.com
+firebaseinstallations.googleapis.com
+firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 fitanalytics.com
 flagcounter.com
@@ -1360,6 +1367,7 @@ godatafeed.com
 golittretre.info
 gooanalytics.com
 google-analytics.com
+googleadservices.com
 googleanalytics.com
 googlesyndication.com
 googletagmanager.com
@@ -1399,6 +1407,7 @@ gumgum.com
 guomob.com
 gw100-10.com
 gwallet.com
+gwmtracking.com
 h5v.eu
 hackers.lv
 hanapinmarketing.com
@@ -1468,6 +1477,7 @@ idqqimg.com
 idvert.cz
 ie3wisa4.com
 igodigital.com
+imageadv.ccb.com
 imedia.cz
 img-taboola.com
 imglnke.com
@@ -1812,6 +1822,7 @@ metrics.aftonbladet.se
 metrics.allrecipes.co.uk
 metrics.articulate.com
 metrics.asos.com
+metrics.beyondwords.io
 metrics.cbc.ca
 metrics.corus.ca
 metrics.data.hicloud.com
@@ -12346,6 +12357,7 @@ networkadvertising.org
 newdisplayformats.com
 newrelic.com
 newrrb.bid
+news.iadsdk.apple.com
 newscgp.com
 newscred.com
 newsinc.com
@@ -12357,6 +12369,7 @@ nextdocs.com
 nextplatform.com
 nicherev.io
 nighkclick.biz
+nineanalytics.io
 ninjacat.io
 ninthdecimal.com
 nitschkeverlag.de
@@ -12529,7 +12542,6 @@ ping.ublock.org
 pingback.giphy.com
 pingdom.net
 pinpoll.com
-pipeschannels.com
 pippio.com
 piwik.com-online.com
 piwik.pro
@@ -12602,6 +12614,7 @@ privacy.aol.com
 privacymanager.io
 privacytrck.com
 privatestats.whatsapp.net
+prmtracking3.com
 prmutv.co
 prnx.net
 pro-market.net
@@ -12708,7 +12721,6 @@ questmedia.ru
 r.i0.cz
 r023m83skv5v.com
 r1-cdn.net
-r16kff9ug2.com
 r24-tech.com
 r42tag.com
 r7ls.net
@@ -12772,7 +12784,6 @@ rev.contractoruk.com
 revcontent.com
 revdepo.com
 revealytics.com
-revelationneighbourly.com
 revengemeantjackpot.com
 revenue.com
 revenuehits.com
@@ -12829,6 +12840,7 @@ rts.mobula.sdk.duapps.com
 ru4.com
 rubiconproject.com
 rubiconproject.net.akadns.net
+rum.minutemediaservices.com
 rum.ngenix.net
 rum20.a.trbcdn.net
 runadtag.com
@@ -13103,7 +13115,6 @@ smetrics.bbvanet.com.co
 smetrics.bbvanet.com.mx
 smetrics.bbvanetcash.pe
 smetrics.bbvaseguros.mx
-smetrics.bbvausa.com
 smetrics.bcbsm.com
 smetrics.bcbsnc.com
 smetrics.beachbody.com
@@ -13586,7 +13597,6 @@ smetrics.nykaaman.com
 smetrics.nyulangone.org
 smetrics.o2online.de
 smetrics.oakley.com
-smetrics.officechairs.com
 smetrics.officeworks.com.au
 smetrics.ok.dk
 smetrics.oliverpeoples.com
@@ -13603,7 +13613,6 @@ smetrics.otsuka-us.com
 smetrics.oxfam.org.uk
 smetrics.pacificsaleskitchenandbath.com
 smetrics.pacsun.com
-smetrics.panasonic.biz
 smetrics.panasonic.net
 smetrics.pandora.net
 smetrics.parentdish.org
@@ -13870,7 +13879,6 @@ smetrics.vodafone.com.tr
 smetrics.vodafone.es
 smetrics.vodafone.gr
 smetrics.vodafone.in
-smetrics.vogue-eyewear.com
 smetrics.vonage.com
 smetrics.vonageforhome.com
 smetrics.vueling.com
@@ -13908,7 +13916,6 @@ smetrics.yaencontre.com
 smetrics.yahoo-shit.com
 smetrics.yahoobridal.com
 smetrics.ybs.co.uk
-smetrics.yellow.com.au
 smetrics.yellowpages.com.au
 smetrics.ytv.com
 smetrics.zalando.gf
@@ -14194,6 +14201,7 @@ tp88trk.com
 tqlkg.com
 tqn.com
 track-srv.com
+track.addevent.com
 track.deskgod.com
 track.dictionary.com
 track.easeus.com
@@ -14233,6 +14241,7 @@ trackedlink.net
 tracker-api.my.com
 tracker.gamedock.io
 tracker.my.com
+tracker.nbcuas.com
 tracker.tutotoons.com
 trackerhqu.com
 trackerrysrv.com
@@ -14394,6 +14403,7 @@ vdo.ai
 veeseo.com
 veille-referencement.com
 veinteractive.com
+velou.com
 velti.com
 venatusmedia.com
 vendemore.com
@@ -14414,6 +14424,7 @@ viafoura.co
 viafoura.com
 viafoura.net
 vicinity.media
+vidalytics.com
 vidazoo.com
 videe.tv
 videoadex.com
@@ -14564,7 +14575,6 @@ yourwebbars.com
 ysance.com
 yuhuads.com
 yunjiasu-cdn.net
-z7kxv184l6vg.com
 zbuckz.com
 zdbb.net
 zedo.com
