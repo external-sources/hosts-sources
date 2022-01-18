@@ -294,8 +294,15 @@ do
 	echo "Importing @ShadowWhisperer ${SW}"
 	c "${SWUrl}/Lists/${SW}" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",tolower($1)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "$git_dir/data/shadowwhisperer/${SW}/domain.list"
 done
+
+echo "Import LICENSE"
+set -x
 c "${SWUrl}/LICENSE" >> "$git_dir/data/shadowwhisperer/LICENSE"
+
+echo "Import README"
+
 c "${SWUrl}/README.md" >> "$git_dir/data/shadowwhisperer/README.md"
+set +x
 
 # Unset variables
 SWLists=""
