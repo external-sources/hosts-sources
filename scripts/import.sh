@@ -281,6 +281,33 @@ done
 muLists=""
 muUrl=""
 
+
+# @ShadowWhisperer
+
+echo "Let's import @ShadowWhisperer"
+
+mkdir -p "${git_dir}/data/1Hosts"
+${WGET} -qO- "https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt" | awk '/^(#|$)/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' > "${git_dir}/data/1Hostsdomain.list"
+
+
+
+SWLists=(Ads Apple Bloat Chat Cryptocurrency Dating Dynamic Filter Free Junk Malware Marketing Marketing-Email Microsoft Remote Risk Scam Shock Tracking Tunnels Typo UrlShortener)
+SWUrl="https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/"
+
+for SW in "${SWLists[@]}"
+do
+	mkdir -p "${git_dir}/data/migueldemoura_${SW}"
+	echo "Importing ${SW}"
+	c "${SWUrl}${SW}" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",tolower($1)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/migueldemoura_${SW}/domain.list"
+done
+
+# Unset variables
+SWLists=""
+SWUrl=""
+
+echo "Done with @ShadowWhisperer, thanks for your contribution, may the the ods"
+echo "always be in your favour :smirk:"
+
 echo -e "\n\nThe script ${0}\nExited with error code ${?}\n\n"
 
 # git add .
