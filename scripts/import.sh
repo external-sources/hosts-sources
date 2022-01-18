@@ -83,7 +83,7 @@ wsbUrl="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/dat
 for d in "${wsbLists[@]}"
 do
 	mkdir -p "${git_dir}/data/windowsspyblocker/${d}"
-	echo -e "\t\nImporting ${d}\n"
+	echo -e "\tImporting ${d}"
 	${WGET} -qO- "${wsbUrl}/${d}.txt" | grep -vE '^(#|$)' | sort -u > "data/windowsspyblocker/${d}.list"
 done
 unset wsbLists wsbUrl
@@ -141,7 +141,7 @@ hpUrl="https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/"
 for d in "${hpLists[@]}"
 do
 	mkdir -p "${git_dir}/data/hphosts/${d}"
-	echo -e "\t\nImporting ${d}\n"
+	echo -e "\tImporting ${d}"
 	touch "data/hphosts/${d}/domain.list"
 	${WGET} -qO- "${hpUrl}/${d}.txt" | grep -vE '^(#|$)' > "data/hphosts/${d}/domain.list"
 done
@@ -168,7 +168,7 @@ bsUrl="https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-versi
 for bs in "${bsLists[@]}"
 do
 	mkdir -p "${git_dir}/data/blocklist_${bs}"
-	echo -e "\t\nImporting ${bs}\n"
+	echo -e "\tImporting ${bs}"
 	c "${bsUrl}${bs}-nl.txt" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",tolower($1)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/blocklist_${bs}/domain.list"
 done
 
@@ -286,14 +286,16 @@ muUrl=""
 echo "Let's import @ShadowWhisperer"
 
 SWLists=(Ads Apple Bloat Chat Cryptocurrency Dating Dynamic Filter Free Junk Malware Marketing Marketing-Email Microsoft Remote Risk Scam Shock Tracking Tunnels Typo UrlShortener)
-SWUrl="https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists"
+SWUrl="https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master"
 
 for SW in "${SWLists[@]}"
 do
 	mkdir -p "${git_dir}/data/shadowwhisperer/${SW}"
 	echo "Importing @ShadowWhisperer ${SW}"
-	c "${SWUrl}/${SW}" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",tolower($1)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/shadowwhisperer/${SW}/domain.list"
+	c "${SWUrl}/Lists/${SW}" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",tolower($1)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/shadowwhisperer/${SW}/domain.list"
 done
+c "${SWUrl}/LICENSE" > "data/shadowwhisperer/LICENSE"
+c "${SWUrl}/README.md" > "data/shadowwhisperer/README.md"
 
 # Unset variables
 SWLists=""
