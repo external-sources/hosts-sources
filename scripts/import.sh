@@ -296,13 +296,11 @@ do
 done
 
 echo "Import LICENSE"
-set -x
-c "${SWUrl}/LICENSE" -O "$git_dir/data/shadowwhisperer/LICENSE"
+${WGET} "${SWUrl}/LICENSE" -O "$git_dir/data/shadowwhisperer/LICENSE"
 
 echo "Import README"
 
-c "${SWUrl}/README.md" -O "$git_dir/data/shadowwhisperer/README.md"
-set +x
+${WGET} "${SWUrl}/README.md" -O "$git_dir/data/shadowwhisperer/README.md"
 
 # Unset variables
 SWLists=""
