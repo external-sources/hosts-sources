@@ -292,10 +292,10 @@ for SW in "${SWLists[@]}"
 do
 	mkdir -p "${git_dir}/data/shadowwhisperer/${SW}"
 	echo "Importing @ShadowWhisperer ${SW}"
-	c "${SWUrl}/Lists/${SW}" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",tolower($1)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "data/shadowwhisperer/${SW}/domain.list"
+	c "${SWUrl}/Lists/${SW}" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",tolower($1)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u > "$git_dir/data/shadowwhisperer/${SW}/domain.list"
 done
-c "${SWUrl}/LICENSE" > "data/shadowwhisperer/LICENSE"
-c "${SWUrl}/README.md" > "data/shadowwhisperer/README.md"
+c "${SWUrl}/LICENSE" >> "$git_dir/data/shadowwhisperer/LICENSE"
+c "${SWUrl}/README.md" >> "$git_dir/data/shadowwhisperer/README.md"
 
 # Unset variables
 SWLists=""
