@@ -297,11 +297,11 @@ done
 
 echo "Import LICENSE"
 set -x
-c "${SWUrl}/LICENSE" >> "$git_dir/data/shadowwhisperer/LICENSE"
+c "${SWUrl}/LICENSE" -O "$git_dir/data/shadowwhisperer/LICENSE"
 
 echo "Import README"
 
-c "${SWUrl}/README.md" >> "$git_dir/data/shadowwhisperer/README.md"
+c "${SWUrl}/README.md" -O "$git_dir/data/shadowwhisperer/README.md"
 set +x
 
 # Unset variables
