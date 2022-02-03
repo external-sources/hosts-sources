@@ -325,11 +325,13 @@ onmicrosoft.com
 optanon.blob.core.windows.net
 orca9o5ptld7p8kl709wbwth.blob.core.windows.net
 osizpcusmagenta001.blob.core.windows.net
+outlook-1.cdn.office.net
 outlook-exo.trafficmanager.net
 owassets.azureedge.net
 p.pfx.ms
 p.sfx.ms
 packages.dmd.metaservices.microsoft.com
+part-0010.t-0009.t-msedge.net
 passport.net
 peer2-den02.msedge.net
 people.skype.com
@@ -345,6 +347,7 @@ prod-api-community.windows.com
 prod-api.acompli.net
 prod-nam-autodetect.acompli.net
 prod-video-cms-rt-microsoft-com.akamaized.net
+prod.blob.core.windows.net
 prod.fs.microsoft.com.akadns.net
 prod.omexcosubretailer.live.com.akadns.net
 prod.rewardsplatform.microsoft.com
@@ -360,6 +363,7 @@ rad.msn.com
 rarewaves.blob.core.windows.net
 rdr.contacts.msn.com
 redir1.cloudapp.net
+res.cdn.office.net
 rewards.microsoft.com
 roa-efz.ms-acdc.office.com
 romeccs.microsoft.com
@@ -464,9 +468,10 @@ weather.microsoft.com
 weather.services.appex.bing.com
 weather.tile.appex.bing.com
 webportals-ngp.trafficmanager.net
+webshell.suite.office.com
 wer.microsoft.com
 westus.tts.speech.microsoft.com
-wfbdevicemanagementprod.blob.core.windows.net
+wfbdevicemanagement
 whiteboard.microsoft.com
 whiteboard.ms
 win10-trt.msedge.net
