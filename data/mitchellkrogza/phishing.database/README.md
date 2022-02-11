@@ -17,12 +17,12 @@ Please rely **ONLY** on pulling individual list files or the full list of [domai
 <a href='https://twitter.com/ArchIsTheBest'><img src='https://img.shields.io/twitter/follow/ubuntu101za.svg?style=social&label=Follow' alt='Follow @ArchIsTheBest'></a> | Help Support Me at https://ko-fi.com/mitchellkrog |
 
 _______________
-#### Version: V.2022-02-11.12
-| :boom: Latest Threats<br/>@ 12:33:13 | :boom: Active Threats<br/>Friday 2022-02-11 | Total Links<br/>Discovered Today |
+#### Version: V.2022-02-11.16
+| :boom: Latest Threats<br/>@ 16:33:12 | :boom: Active Threats<br/>Friday 2022-02-11 | Total Links<br/>Discovered Today |
 | :---: | :---: |:---: |
 | :warning: [34](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [618](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-TODAY.txt) | [806](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
-#### Total Phishing Domains Captured: [294525](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.tar.gz) << (FILE SIZE: 2.5M tar.gz)
+#### Total Phishing Domains Captured: [294527](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.tar.gz) << (FILE SIZE: 2.5M tar.gz)
 #### Total Phishing Links Captured: [564198](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.tar.gz) << (FILE SIZE: 12M tar.gz)
 ____________________
 
