@@ -17,8 +17,8 @@ Please rely **ONLY** on pulling individual list files or the full list of [domai
 <a href='https://twitter.com/ArchIsTheBest'><img src='https://img.shields.io/twitter/follow/ubuntu101za.svg?style=social&label=Follow' alt='Follow @ArchIsTheBest'></a> | Help Support Me at https://ko-fi.com/mitchellkrog |
 
 _______________
-#### Version: V.2022-03-01.00
-| :boom: Latest Threats<br/>@ 00:33:37 | :boom: Active Threats<br/>Tuesday 2022-03-01 | Total Links<br/>Discovered Today |
+#### Version: V.2022-03-01.02
+| :boom: Latest Threats<br/>@ 02:33:47 | :boom: Active Threats<br/>Tuesday 2022-03-01 | Total Links<br/>Discovered Today |
 | :---: | :---: |:---: |
 | :warning: [34](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [618](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-TODAY.txt) | [428](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
