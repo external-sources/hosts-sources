@@ -6,15 +6,16 @@
 **This WILL BREAK daily** due to a complete reset of the repository history every 24 hours.
 Please rely **ONLY** on pulling individual list files or the full list of [domains in tar.gz format](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.tar.gz) and [links in tar.gz format](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.tar.gz) (updated hourly) using wget or curl.
 
-| SPONSORS |
-| :--: |
-| [<img alt="Tines Sponsorship" width="140px" src="https://github.com/mitchellkrogza/Phishing.Database/raw/master/assets/Tines-Sponsorship-Badge-Purple.png" />](https://www.tines.com/?utm_source=oss&utm_medium=sponsorship&utm_campaign=phishfindr) |
+<table>
+  <tr><th colspan=2>SPONSORS</th></tr>
+  <tr><td><a href="https://www.tines.com/?utm_source=oss&utm_medium=sponsorship&utm_campaign=phishfindr"><img alt="Tines Sponsorship" width="140px" src="https://github.com/mitchellkrogza/Phishing.Database/raw/master/assets/Tines-Sponsorship-Badge-Purple.png" /></a></td><td><a href="https://limacharlie.io/?utm_source=phishing-database&utm_medium=banner"><img alt="Limacharlie Sponsorship" width="140px" src="https://github.com/mitchellkrogza/Phishing.Database/raw/master/assets/limacharlie-logo-sponsorship-logo.png" /></a></td></tr>
+</table>
 
 
 | REPO | BECOME A SPONSOR |
 | :--: | :--: |
 | [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/LICENSE.md) | Your logo and link to your domain will appear here if you become a sponsor. Simply email me on mitchellkrog@gmail.com if you would like to sponsor this project as South Africa is not supported yet under the Github sponsor program. |
-<a href='https://twitter.com/ArchIsTheBest'><img src='https://img.shields.io/twitter/follow/ubuntu101za.svg?style=social&label=Follow' alt='Follow @ArchIsTheBest'></a> | Help Support Me at https://ko-fi.com/mitchellkrog |
+<a href='https://twitter.com/PhishFindR'><img src='https://img.shields.io/twitter/follow/PhishFindR.svg?style=social&label=Follow' alt='Follow @PhishFindR'></a> | Help Support Me at https://ko-fi.com/mitchellkrog |
 
 _______________
 #### Version: V.2022-03-05.02
@@ -144,7 +145,7 @@ We are firm believers that threat intelligence on Phishing, Malware and Ransomwa
 ************************************************
 ## Contributors
 
-- [Mitchell Krog](https://github.com/mitchellkrogza/) [<img src="https://github.com/mitchellkrogza/Phishing.Database/blob/master/assets/kofi5.png" alt="Buy me Coffee" width="75"/>](https://www.buymeacoffee.com/mitchellkrog)
+- [Mitchell Krog](https://github.com/mitchellkrogza/) [<img src="https://github.com/mitchellkrogza/Phishing.Database/blob/master/assets/kofi5.png" alt="Buy me Coffee" width="75"/>](https://ko-fi.com/mitchellkrog)
 - [Nissar Chababy](https://github.com/funilrys/) [<img src="https://github.com/mitchellkrogza/Phishing.Database/blob/master/assets/kofi5.png" alt="Buy me Coffee" width="75"/>](https://ko-fi.com/funilrys)
 
 ************************************************
