@@ -20,10 +20,10 @@ hosts file.
 
 ---
 
-- Version: **V2.523.2022.03.14**
-- Total Bad domains in `hosts` file: **588,085**
-- Total Bad IP in `hosts.deny` file: **140,221**
-- Total Bad domains and IP in `superhosts.deny` file: **728,306**
+- Version: **V2.525.2022.03.15**
+- Total Bad domains in `hosts` file: **588,575**
+- Total Bad IP in `hosts.deny` file: **140,224**
+- Total Bad domains and IP in `superhosts.deny` file: **728,799**
 
   :exclamation: **Yes you did indeed read those numbers correctly** :exclamation:
 
@@ -141,7 +141,7 @@ listed domains.
 For example, to drop all requests to certain domains or servers, adding lines
 to your `hosts` file as below will achieve this for you.
 You can create your custom hosts or simply use ours which covers you for
-well over 588,085 bad domains.
+well over 588,575 bad domains.
 
 ```
 # Block Bad Domains and Servers with Hosts File
@@ -329,9 +329,9 @@ Come drop by and visit [Mitchell's Portfolio](https://mitchellkrog.com).
 ```
 MIT License
 
-Copyright (c) 2017, 2018, 2019, 2020, 2021 Ultimate Hosts Blacklist - @Ultimate-Hosts-Blacklist
-Copyright (c) 2017, 2018, 2019, 2020, 2021 Mitchell Krog - @mitchellkrogza
-Copyright (c) 2017, 2018, 2019, 2020, 2021 Nissar Chababy - @funilrys
+Copyright (c) 2017, 2018, 2019, 2020, 2021, 2022 Ultimate Hosts Blacklist - @Ultimate-Hosts-Blacklist
+Copyright (c) 2017, 2018, 2019, 2020, 2021, 2022 Mitchell Krog - @mitchellkrogza
+Copyright (c) 2017, 2018, 2019, 2020, 2021, 2022 Nissar Chababy - @funilrys
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
