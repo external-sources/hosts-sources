@@ -1836,6 +1836,7 @@ metrics.hitman.io
 metrics.icloud.com
 metrics.ionos.com
 metrics.ionos.de
+metrics.media-amazon.com
 metrics.mzstatic.com
 metrics.pico.tools
 metrics.plex.tv
@@ -3239,6 +3240,7 @@ mkt11277.com
 mkt11278.com
 mkt11279.com
 mkt1128.com
+mkt11280.com
 mkt11281.com
 mkt11282.com
 mkt11285.com
@@ -3267,12 +3269,17 @@ mkt11309.com
 mkt1131.com
 mkt11312.com
 mkt11313.com
+mkt11315.com
 mkt11316.com
 mkt11319.com
 mkt1132.com
 mkt11320.com
 mkt11324.com
+mkt11325.com
 mkt1133.com
+mkt11331.com
+mkt11332.com
+mkt11336.com
 mkt1134.com
 mkt1135.com
 mkt1136.com
@@ -12732,7 +12739,6 @@ ppchero.com
 ppjol.net
 preanalytication.com
 prebid.org
-pressingmiscellaneoustry.com
 pricespider.com
 prijspakkertje.nl
 primis.tech
@@ -13217,6 +13223,7 @@ smetrics.bankinter.com
 smetrics.bankofmelbourne.com.au
 smetrics.banter.com
 smetrics.barclays.co.uk
+smetrics.bbb.org
 smetrics.bbva.com.ar
 smetrics.bbva.com.co
 smetrics.bbva.com.uy
@@ -14310,6 +14317,7 @@ tracker.tutotoons.com
 trackerhqu.com
 trackerrysrv.com
 tracking-analytics.net
+tracking.aegpresents.com
 tracking.atreemo.com
 tracking.cmjump.com.au
 tracking.csgipe.com
