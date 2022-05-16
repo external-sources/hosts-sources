@@ -218,6 +218,7 @@
 0.0.0.0 bg5.v4.emdl.ws.microsoft.com
 0.0.0.0 bl2p.wns.notify.windows.com.akadns.net
 0.0.0.0 bl2p.wns.windows.com
+0.0.0.0 blob.dsm08prdstr03a.store.core.windows.net
 0.0.0.0 blob.sn4prdstr03a.store.core.windows.net
 0.0.0.0 client.wns.windows.com
 0.0.0.0 ctldl.windowsupdate.com
@@ -497,6 +498,7 @@
 0.0.0.0 db6sch102091606.wns.windows.com
 0.0.0.0 db6sch102091607.wns.windows.com
 0.0.0.0 definitionupdates.microsoft.com
+0.0.0.0 displaycatalog.md.mp.microsoft.com
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 dl.delivery.mp.microsoft.com
 0.0.0.0 download.microsoft.com
@@ -515,7 +517,9 @@
 0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
 0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
 0.0.0.0 msedge.b.tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 neu-displaycatalogrp.frontdoor.bigcatalog.commerce.microsoft.com
 0.0.0.0 o-ring.msedge.net
+0.0.0.0 sg2p.wns.notify.trafficmanager.net
 0.0.0.0 skydrive.wns.windows.com
 0.0.0.0 skydrivesync.policies.live.net
 0.0.0.0 sls.update.microsoft.com
@@ -530,4 +534,5 @@
 0.0.0.0 v4.download.windowsupdate.com
 0.0.0.0 windowsupdate.com
 0.0.0.0 wns2-db5p.wns.windows.com
+0.0.0.0 wns2-par02p.wns.windows.com
 0.0.0.0 www.download.windowsupdate.com
