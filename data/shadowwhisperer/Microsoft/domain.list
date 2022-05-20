@@ -156,6 +156,7 @@ exp.mp.dse.microsoft.com
 experimental-api.asm.skype.com
 extensionwebstorebase.edgesv.net
 f-0001.f-msedge.net
+fbs1-t-msedge.net
 fe2.update.microsoft.com.akadns.net
 fevoke-windowsservices-tas.msedge.net
 filestore.community.answers.ms.akadns.net
@@ -310,7 +311,6 @@ owassets.azureedge.net
 p.pfx.ms
 p.sfx.ms
 packages.dmd.metaservices.microsoft.com
-part-0010.t-0009.t-msedge.net
 passport.net
 peer2-den02.msedge.net
 people.skype.com
@@ -394,7 +394,6 @@ spyneteurope.microsoft.akadns.net
 sqm.microsoft.com
 ssl.bing.com
 ssw.live.com
-standard.t-0001.t-msedge.net
 static-spartan-eus-s-msn-com.akamaized.net
 static2.sharepointonline.com
 statics-marketingsites-neu-ms-com.akamaized.net
@@ -407,6 +406,7 @@ survey.support.services.microsoft.com
 svmstrgprodus.blob.core.windows.net
 sway-cdn.com
 sway.com
+t-msedge.net
 t-ring.msedge.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
