@@ -115,7 +115,6 @@ config.edge.skype.com
 config.edge.skype.com.trafficmanager.net
 config.messenger.msn.com
 config.scm.windowsphone.com
-config.teams.microsoft.com
 connect.microsoft.com
 consumer.entitlement.skype.com
 contacts.msn.com
@@ -373,6 +372,7 @@ service.weather.microsoft.com
 settings-ssl.xboxlive.com
 settings.data.glbdns2.microsoft.com
 settings.data.microsoft.com
+sfbassets.com
 sfdataservice.microsoft.com
 sfnam.loki.delve.office.com
 sfp.microsoft.com
@@ -397,7 +397,6 @@ ssw.live.com
 static-spartan-eus-s-msn-com.akamaized.net
 static2.sharepointonline.com
 statics-marketingsites-neu-ms-com.akamaized.net
-statics.teams.cdn.office.net
 storage.live.com
 storagetos.datamart.windows.com
 storesdk.dsx.mp.microsoft.com
@@ -410,6 +409,7 @@ t-msedge.net
 t-ring.msedge.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
+teams.cdn.office.net
 teams.live.com
 teams.microsoft.com
 teams.microsoft.us
@@ -422,7 +422,6 @@ to-do.microsoft.com
 to-do.officeppe.com
 toolbar.msn.com
 toshiba13.msn.com
-tr.teams.microsoft.com
 trafficmanager.net
 trafficshaping.dsp.mp.microsoft.com
 trap.skype.com
