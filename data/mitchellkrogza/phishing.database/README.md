@@ -18,8 +18,8 @@ Please rely **ONLY** on pulling individual list files or the full list of [domai
 <a href='https://twitter.com/PhishFindR'><img src='https://img.shields.io/twitter/follow/PhishFindR.svg?style=social&label=Follow' alt='Follow @PhishFindR'></a> | Help Support Me at https://ko-fi.com/mitchellkrog |
 
 _______________
-#### Version: V.2022-07-31.03
-| :boom: Latest Threats<br/>@ 03:33:20 | :boom: Active Threats<br/>Sunday 2022-07-31 | Total Links<br/>Discovered Today |
+#### Version: V.2022-07-31.12
+| :boom: Latest Threats<br/>@ 12:59:20 | :boom: Active Threats<br/>Sunday 2022-07-31 | Total Links<br/>Discovered Today |
 | :---: | :---: |:---: |
 | :warning: [34](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [618](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-TODAY.txt) | [491](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
@@ -131,7 +131,7 @@ Make sure to include links in your report to where else your domain / web site w
 
 Lots of Phishing, Malware and Ransomware links are planted onto very reputable services. We automatically remove [Whitelisted Domains](https://github.com/Ultimate-Hosts-Blacklist/whitelist/blob/master/domains.list) from our list of published [Phishing Domains](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt). 
 
-We do NOT however remove these and enforce an [Anti-Whitelist](https://github.com/mitchellkrogza/Phishing.Database/blob/master/dev-tools/anti-whitelist.txt) from our phishing links/urls lists as these lists help other spam and cybersecurity services to discover new threats and get them taken down. Please send a PR to the [Anti-Whitelist](https://github.com/mitchellkrogza/Phishing.Database/blob/master/dev-tools/anti-whitelist.txt) file to have something important re-included into the [Phishing Links](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-links-ACTIVE.txt) lists. The Anti-Whitelist only filters through link (url) lists and not domain lists.
+We do NOT however remove these and enforce an [Anti-Whitelist](https://github.com/mitchellkrogza/Phishing.Database/blob/master/whitelist.anti/whitelist.anti) from our phishing links/urls lists as these lists help other spam and cybersecurity services to discover new threats and get them taken down. Please send a PR to the [Anti-Whitelist](https://github.com/mitchellkrogza/Phishing.Database/blob/master/whitelist.anti/whitelist.anti) file to have something important re-included into the [Phishing Links](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-links-ACTIVE.txt) lists. The Anti-Whitelist only filters through link (url) lists and not domain lists.
 
 ************************************************
 ## Keep Threat Intelligence Free and Open Source
