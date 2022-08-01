@@ -18,8 +18,8 @@ Please rely **ONLY** on pulling individual list files or the full list of [domai
 <a href='https://twitter.com/PhishFindR'><img src='https://img.shields.io/twitter/follow/PhishFindR.svg?style=social&label=Follow' alt='Follow @PhishFindR'></a> | Help Support Me at https://ko-fi.com/mitchellkrog |
 
 _______________
-#### Version: V.2022-08-01.15
-| :boom: Latest Threats<br/>@ 15:33:17 | :boom: Active Threats<br/>Monday 2022-08-01 | Total Links<br/>Discovered Today |
+#### Version: V.2022-08-01.20
+| :boom: Latest Threats<br/>@ 20:46:22 | :boom: Active Threats<br/>Monday 2022-08-01 | Total Links<br/>Discovered Today |
 | :---: | :---: |:---: |
 | :warning: [34](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [618](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-TODAY.txt) | [973](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
