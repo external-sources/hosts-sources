@@ -31,6 +31,7 @@ appexsports.trafficmanager.net
 appexwusprodweather.blob.core.windows.net
 aria.microsoft.com
 assets.msn.com
+atm-fp-direct.office.com
 az158878.vo.msecnd.net
 az361816.vo.msecnd.net
 az413505.vo.msecnd.net
@@ -155,6 +156,7 @@ exp.mp.dse.microsoft.com
 experimental-api.asm.skype.com
 extensionwebstorebase.edgesv.net
 f-0001.f-msedge.net
+f.c2r.ts.cdn.office.net
 fbs1-t-msedge.net
 fe2.update.microsoft.com.akadns.net
 fevoke-windowsservices-tas.msedge.net
@@ -292,6 +294,8 @@ offerservicefallback.blob.core.windows.net
 office365.us
 officeaka.cloudapp.net
 officehomeblobs.blob.core.windows.net
+ogma.osi.office.net
+omex.cdn.office.net
 oneclient.sfx.ms
 onecs-live.azureedge.net
 onedrive.akadns.net
