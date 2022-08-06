@@ -21,7 +21,9 @@ amp-test.com
 api.bing.com
 api.cdp.microsoft.com
 api.edgeoffer.microsoft.com
+api.flightproxy.skype.com
 api.msn.com
+api3.cc.skype.com
 appexbingfinance.trafficmanager.net
 appexbingweather.trafficmanager.net
 appexeusprodweather.blob.core.windows.net
@@ -465,6 +467,7 @@ windowsphone.xbox.com
 windowssearch.com
 wip.mam.manage.microsoft.com
 woodgrovebank.com
+world.relay.skype.com
 www2.bing.com
 x1ds.xboxlive.com
 xboxab.com
