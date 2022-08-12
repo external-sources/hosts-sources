@@ -172,6 +172,7 @@ footprintdns.com
 fs-wildcard.microsoft.com.edgekey.net
 fs-wildcard.microsoft.com.edgekey.net.globalredir.akadns.net
 fs.microsoft.com
+fs.microsoft.com.akadns.net
 g.ceipmsn.com
 g.msn.com
 global.sam.msn.com
@@ -332,7 +333,6 @@ prod-api.acompli.net
 prod-nam-autodetect.acompli.net
 prod-video-cms-rt-microsoft-com.akamaized.net
 prod.blob.core.windows.net
-prod.fs.microsoft.com.akadns.net
 prod.omexcosubretailer.live.com.akadns.net
 prod.rewardsplatform.microsoft.com
 prod0-api.acompli.net
