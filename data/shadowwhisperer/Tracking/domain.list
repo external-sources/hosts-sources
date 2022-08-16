@@ -49654,6 +49654,7 @@ prod-logs-skyegloup.s3.amazonaws.com
 prod-ps-cdn-us1.azureedge.net
 prod-sb-appanalytics-us1.servicebus.windows.net
 prod-src-track-881266966.ap-northeast-1.elb.amazonaws.com
+prod-static.dejobs.org
 prod-telemetry.paradox-interactive.com
 prod-uilogger.public.prodsupportsite.a.intuit.com
 prod-web-tracker-609271211.us-east-1.elb.amazonaws.com
@@ -66884,6 +66885,7 @@ usage-us-fy2017.myhomescreen.tv
 usage-us-fy2018.myhomescreen.tv
 usage-us-fy2019.myhomescreen.tv
 usage-us-fy2020.myhomescreen.tv
+usage.altrulabs.com
 usage.influxdata.com
 usageanalytics.coveo.com
 usageproof.org
