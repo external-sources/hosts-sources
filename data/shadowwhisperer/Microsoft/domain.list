@@ -18,6 +18,7 @@ activity.windows.com
 adl.windows.com
 admin-mcas-gov.us
 amp-test.com
+api.addins.omex.office.net
 api.bing.com
 api.cdp.microsoft.com
 api.edgeoffer.microsoft.com
@@ -33,7 +34,6 @@ appexsports.trafficmanager.net
 appexwusprodweather.blob.core.windows.net
 aria.microsoft.com
 assets.msn.com
-atm-fp-direct.office.com
 az158878.vo.msecnd.net
 az361816.vo.msecnd.net
 az413505.vo.msecnd.net
@@ -102,6 +102,7 @@ choice.microsoft.com
 choice.microsoft.com.nsatc.net
 choice.microsoft.com.nstac.net
 clientconfig.passport.net
+clients.config.office.net
 clientsettings.books.microsoft.com
 cloudappconfig.blob.core.windows.net
 cloudcollection-ssl.xboxlive.com
@@ -116,10 +117,12 @@ config-edge-skype.l-0014.l-msedge.net
 config.edge.skype.com
 config.edge.skype.com.trafficmanager.net
 config.messenger.msn.com
+config.officeapps.live.com
 config.scm.windowsphone.com
 connect.microsoft.com
 consumer.entitlement.skype.com
 contacts.msn.com
+content.lifecycle.office.net
 continuum.dds.microsoft.com
 contoso.com
 corp.sts.microsoft.com
@@ -133,6 +136,7 @@ cxcs.microsoft.net
 cys-efz.ms-acdc.office.com
 da.xboxservices.com
 data.xboxlive.com
+dcg.microsoft.com
 dell15.msn.com
 dgps-eus2.cloudapp.net
 dgps.support.microsoft.com
@@ -168,6 +172,7 @@ flights.msn.com
 foodanddrink.services.appex.bing.com
 foodanddrink.tile.appex.bing.com
 footprintdns.com
+fpastorage.cdn.office.net
 fs-wildcard.microsoft.com.edgekey.net
 fs-wildcard.microsoft.com.edgekey.net.globalredir.akadns.net
 fs.microsoft.com
@@ -236,6 +241,7 @@ l-0014.l-msedge.net
 l-0015.l-msedge.net
 l-ring.msedge.net
 lb1.www.ms.akadns.net
+lfghub-anonymous.xboxlive.com
 licensingphone.mp.microsoft.com
 live.rads.msn.com
 livetile.hulu.com
@@ -285,6 +291,7 @@ msftspeechmodelsprod.azureedge.net
 msgsearch.skype.com
 msnhome.org
 myhomemsn.com
+nam.loki.delve.office.com
 newsletters.msn.com
 nleditor.osi.office.net
 ntp.msn.com
@@ -437,6 +444,8 @@ troubleshooting.microsoft.com
 trustwave.blob.core.windows.net
 tsfe.trafficshaping.dsp.mp.microsoft.com
 uasprod.blob.core.windows.net
+uci.cdn.office.net
+uci.edog.cdn.office.net
 udc.amp-test.com
 ugcorigin.s-microsoft.com
 urlappmapping.sfp.microsoft.com

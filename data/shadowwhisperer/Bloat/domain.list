@@ -1,7 +1,9 @@
 a5.behance.net
+aa.google.com
 accessibilityserver.org
 accessibly.apps.onthemapmarketing.com
 accessibly.onthemapmarketing.com
+accountcapabilities-pa.googleapis.com
 accountkit.com
 accounts.comodo.com
 aclm.external.hp.com
@@ -24,9 +26,12 @@ aluws.acer.com
 ama-api.isappcloud.com
 amdsurveys.com
 amt-games.com
+android-context-data.googleapis.com
 android-safebrowsing.google.com
+android.apis.google.com
 androidapi.mxplay.com
 androidc.mxplay.com
+androidresumeonreboot-pa.googleapis.com
 ape-asus.isappcloud.com
 api-diagmon.samsungdm.com
 api.erabu.sonymobile.com
@@ -50,6 +55,8 @@ asu.aa.avast.com
 asussupport.asus.com
 audioeye.activehosted.com
 audioeye.com
+auditrecording-pa.googleapis.com
+autopush-geller-pa.sandbox.googleapis.com
 autosug.ebay.com
 autosug.ebaystatic.com
 avastbrowser.com
@@ -60,6 +67,7 @@ babeltimeus.com
 badges.instagram.com
 bench.utorrent.com
 bitmango.com
+blobcomments-pa.clients6.google.com
 block-edge-anycast.dropbox.com
 blocklists.settings.services.mozilla.com
 brazzerssurvey.com
@@ -72,6 +80,7 @@ browser-update.avg.com
 browser-update.org
 bubblewitch3mobile.king.com
 byvgames.com
+calendarpushsubscription-pa.googleapis.com
 calendarsync-pa.googleapis.com
 candycrush.king.com
 candycrushsoda.king.com
@@ -88,6 +97,7 @@ cdn-download.avgbrowser.com
 cdn.deadtarget.info
 cdn.linearicons.com
 cfg.mobisystems.com
+chat-dl.google.com
 chat-pa.clients6.google.com
 checkmarket.com
 chifsr.lenovomm.com
@@ -95,6 +105,7 @@ chkmkt.com
 chrome.cloudflare-dns.com
 chromecontentsuggestions-pa.googleapis.com
 chromefeedcontentsuggestions-pa.googleapis.com
+chromesyncentities-pa.googleapis.com
 ciscobinary.openh264.org
 classicwords.net
 classify-client.services.mozilla.com
@@ -113,6 +124,7 @@ cloud.dell.com
 cloud.webtype.com
 cloudconfig.googleapis.com
 cloudflare-dns.com
+cloudsearch.googleapis.com
 cm.mr-bullet.com
 cmc.comodo.com
 cmcm.com
@@ -129,6 +141,7 @@ connect.mobisystems.com
 connectivity-check.ubuntu.com
 consumer2.valkyrie.comodo.com
 contactsui-pa.googleapis.com
+content-autofill.googleapis.com
 content.dellsupportcenter.com
 content.surpax.net
 cookiebot-assets.envato-static.com
@@ -136,6 +149,8 @@ copypoison.com
 coverfire.s3.dualstack.us-east-1.amazonaws.com
 cprs.hp.com
 crowdsignal.com
+cryptauthdevicesync.googleapis.com
+cryptauthvault.googleapis.com
 csdsupport.toshiba.com
 cspreports.comodo.com
 cuscochromeextension-pa.googleapis.com
@@ -151,6 +166,7 @@ d3ozddcpb3il9a.cloudfront.net
 d3s44e87wooplq.cloudfront.net
 d5c8kzvnetr32.cloudfront.net
 d6wjo2hisqfy2.cloudfront.net
+datamixer-pa.googleapis.com
 dc-api.adobe.io
 dc.di.atlas.samsung.com
 deadtarget.info
@@ -167,6 +183,7 @@ detect.cyberlink.com
 detect.gocyberlink.com
 detectportal.firefox.com
 device-provisioning.googleapis.com
+deviceintegritytokens-pa.googleapis.com
 df-staging.dell.com
 dir-apis.samsungdm.com
 djinnworks.at
@@ -192,6 +209,7 @@ draper-staging.popcap.com
 draper.popcap.com
 drh-fonts.img.digitalrivercontent.net
 duba.net
+dynamicmail-pa.clients6.google.com
 eamobile.com
 eb.bluestacks.com
 ec2-18-216-208-225.us-east-2.compute.amazonaws.com
@@ -206,6 +224,7 @@ engagement.avastbrowser.com
 enterprise.google.com
 epdg.epc.att.net
 error.facebook.com
+espresso-pa.clients6.google.com
 etsv.gameloft.com
 etsv2.gameloft.com
 eu2-scloud-proxy.ssp.samsungosp.com
@@ -220,7 +239,12 @@ ezjoygame.com
 f.kinja-static.com
 fb-graph.asus.com
 fbd.toshiba.com
+fcm-stream.googleapis.com
+fcmconnection.googleapis.com
 fdg-entertainment.com
+federatedml-pa.googleapis.com
+feelinsonice-mvm.l.google.com
+feelinsonice.l.google.com
 fingersoft.net
 firebaseinappmessaging.googleapis.com
 firebaseperusertopics-pa.googleapis.com
@@ -229,6 +253,7 @@ firebasestorage.googleapis.com
 firefox-android-home-recommendations.getpocket.com
 firefox.settings.services.mozilla.com
 firehunt.com
+firestore.googleapis.com
 fls.security.comodo.com
 fls6.security.comodo.com
 flsservices.security.comodo.com
@@ -293,6 +318,7 @@ fonts_rysvarm.storage.googleapis.com
 fontserver.ir
 fontstatic.com
 fontstorage.com
+footprints-pa.googleapis.com
 forcesafesearch.google.com
 fortawesome.com
 four33.com
@@ -307,6 +333,8 @@ gamevil.com
 gateway.arc.io
 gats.popcap.com
 gel.files.bbci.co.uk
+gem-pa.googleapis.com
+geotimezones.googleapis.com
 getfeedback.com
 getpocket.cdn.mozilla.net
 getpocket.com
@@ -318,11 +346,16 @@ glu.com
 glulive.com
 gluops.com
 gm.tools.avast.com
+gnpfesdk-pa.googleapis.com
 goforandroid.com
 gomo.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
+googleapi.com
 googleapis.l.google.com
+googlecommerce.com
+googlehomefoyer-pa.googleapis.com
+googleonebackup-pa.googleapis.com
 googlepages.com
 gpm.samsungqbe.com
 graph.facebook.com
@@ -354,8 +387,10 @@ img-getpocket.cdn.mozilla.net
 img-prod.pocket.prod.cloudops.mozgcp.net
 img4.airdroid.com
 in-game-news.gameloft.com
+infinitedata-pa.googleapis.com
 inmoment.com
 installer.avgbrowser.com
+instantmessaging-pa-us.googleapis.com
 instantmessaging-pa.googleapis.com
 interstatic06.gameloft.com
 investor.techdata.com
@@ -376,10 +411,14 @@ iteratehq.com
 js.redirect.hp.com
 king.com
 laapi.csw.lenovo.com
+lamssettings-pa.googleapis.com
 lb.airdroid.com
 lb.polldaddy.com
+lens-pa.googleapis.com
 lessbuttons.com
 letsfish2-mobileb.cf-tsg.net
+lh2.l.google.com
+lh3.google.com
 libii.com
 licensebuttons.net
 lifepointspanel.com
@@ -394,12 +433,14 @@ m2u.sn.eamobile.com
 macupdate.utorrent.com
 magictavern.com
 mailshell.net
+marketingplatform.google.com
 mcn.lenovo.com
 mcn.lenovo.com.cn
 mdh-pa.googleapis.com
 media.line.naver.jp
 media.tdameritrade.com
 metadata.erabu.sony.tv
+metadata.google.internal
 midasplayer.com
 miniclipcf.com
 minted-fonts.mintedcdn.net
@@ -407,6 +448,7 @@ mir-cdn.behance.net
 mir-s3-cdn-cf.behance.net
 mobile-gtalk.l.google.com
 mobiledataplan-pa.googleapis.com
+mobilenetworkscoring-pa.googleapis.com
 mobimagic.com
 mobirate.com
 mobirix.net
@@ -438,10 +480,12 @@ normandy-cloudfront.cdn.mozilla.net
 nosslsearch.google.com
 noxgroup.org
 nsg.symantec.com
+oauthaccountmanager.googleapis.com
 ocsp.comodoca.com
 ocsp.comodoca4.com
 oct.gameloft.com
 onboarding.avgbrowser.com
+ondevicesafety-pa.googleapis.com
 oneopinion.com
 onlineada.com
 onlinewebfonts.com
@@ -449,12 +493,15 @@ openh264.org
 opensharecount.com
 opinionbar.com
 opinionstage.com
+optimizationguide-pa.googleapis.com
+os-u.storage.googleapis.com
 outfit7.com
 overmind.arc.io
 p001.sb.avast.com
 p002.sb.avast.com
 pachinko-api.wbagora.com
 pack.google.com
+pai.googlezip.net
 passwordsleakcheck-pa.googleapis.com
 pay.mgapex.com
 pc.airdroid.com
@@ -465,6 +512,7 @@ pegmo-prd.popcap.com
 people-pa.clients6.google.com
 people-pa.googleapis.com
 peoplefungames.appspot.com
+peoplestack-pa.clients6.google.com
 peoplestack-pa.googleapis.com
 pfmsqos.australiaeast.cloudapp.azure.com
 pfmsqos.australiasoutheast.cloudapp.azure.com
@@ -486,10 +534,13 @@ pfmsqosprod.southafricanorth.cloudapp.azure.com
 pfmsqosprod.southeastasia.cloudapp.azure.com
 pfmsqosprod.westeurope.cloudapp.azure.com
 pfmsqssi.uaenorth.cloudapp.azure.com
+phonedeviceverification-pa.googleapis.com
 photosdata-pa.googleapis.com
 picasa.google.com
 picasaweb.google.com
 pim.lenovo.com
+pki-goog.l.google.com
+pki.goog
 platinumai.net
 playdemic.com
 playerio.com
@@ -503,6 +554,7 @@ plusone.google.com
 poll-maker.com
 poll.fm
 polldaddy.com
+popup.withgoogle.com
 powr.io
 print-data.houston.hp.com
 privacy.outdoorsg.com
@@ -512,6 +564,7 @@ product.sn.eamobile.com
 program.avast.com
 promo.webpayments.closeby.internet.apps.samsung.com
 pstatic09.mgo-images.com
+pubsub.googleapis.com
 qq.com
 qrserver.com
 qsurvey.mozilla.com
@@ -530,6 +583,7 @@ reliancegames.com
 relicrun-sink-dv.sqexeu.com
 relicrun.cdn.sqexeu.com
 relicrun.s3.amazonaws.com
+reminders-pa.clients6.google.com
 riddle.com
 rjsnetwork.com
 rocketlifeproduction.com
@@ -551,10 +605,13 @@ samsungnewsapi.picks.my
 sandbox.l.google.com
 saygames.io
 sb-ssl.google.com
+scone-pa.googleapis.com
 scopely.com
 scopely.io
 screenshots.firefox.com
 screenshotscdn.firefox.com
+script.google.com
+script.googleusercontent.com
 sd-suggestions.operacdn.com
 sdk.snapkit.com
 search.utorrent.com
@@ -565,14 +622,18 @@ secureapi.samqaicongen.com
 securebrowser.avast.tools.avcdn.net
 securebrowser.com
 secureprotocolengine-test.intel.com
+securetoken.googleapis.com
+securitydomain-pa.googleapis.com
 service-api.mr-bullet.com
 service.biv.sony.tv
 services.gfe.nvidia.com
+services.google.com
 sgizmo.com
 sharethis.com
 sharethis.net
 shavar.prod.mozaws.net
 shavar.services.mozilla.com
+signaler-pa.googleapis.com
 siliconorchard.com
 sink.gameloft.com
 snippets.cdn.mozilla.net
@@ -597,6 +658,7 @@ static.dataservices.hp.com
 steambroadcast.akamaized.net
 sticker-pa.googleapis.com
 strawpoll.com
+subscriptionssettings-pa.googleapis.com
 suggestqueries.google.com
 super-chameleon.com
 supercell.net
@@ -621,8 +683,10 @@ surveys-static.survicate.com
 surveysparrow.com
 survicate.com
 survio.com
+sustainability.google
 svc-cf.spd.samsungdm.com
 syn-dir.sn.eamobile.com
+takeout-pa.clients6.google.com
 talk.google.com
 talkx.l.google.com
 tapps.games
@@ -646,6 +710,7 @@ toolbar.google.com
 toolbar.sonymusic.com
 toolbar.utorrent.com
 topic-sticker-vending.snapchat.com
+tracedepot-pa.clients6.google.com
 trends.google.com
 trustlogo.comodo.com
 tu.backup.avg.cz
@@ -660,6 +725,7 @@ typekit.net
 typography.doordash.com
 typotheque.com
 uc-file.airdroid.com
+ulp1p-pa.googleapis.com
 unicons.iconscout.com
 unity3d.com
 update-tuneup.avg.com
@@ -681,6 +747,7 @@ use.typekit.net
 user-api.internet.apps.samsung.com
 user.sn.eamobile.com
 user.utorrent.com
+userpaneltv-pa.googleapis.com
 usfftp.security.comodo.com
 ushareit.com
 usocial.pro
@@ -691,6 +758,7 @@ vas.samsungapps.com
 videodownloaderultimate.com
 vip.asus.com
 void.steelseries.com
+voilatile-pa.googleapis.com
 voledevice-pa.googleapis.com
 voodoo-tech.io
 wb-agora-hydra-file-storage-pachinko.s3.amazonaws.com
@@ -716,10 +784,13 @@ wshareit.com
 www-hpcom.glb1.hp.com
 www-tc.pbs.org
 www3.l.google.com
+www4.l.google.com
 xing-share.com
 yesinsights.com
 you-cubez.com
 youtubei.googleapis.com
 ytimg-edge-static.l.google.com
+ytstatic.l.google.com
 zas-api.avg.com
 zeptolab.com
+zerostateproxy-pa.googleapis.com
