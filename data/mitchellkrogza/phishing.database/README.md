@@ -18,8 +18,8 @@ Please rely **ONLY** on pulling individual list files or the full list of [domai
 <a href='https://twitter.com/PhishFindR'><img src='https://img.shields.io/twitter/follow/PhishFindR.svg?style=social&label=Follow' alt='Follow @PhishFindR'></a> | Help Support Me at https://ko-fi.com/mitchellkrog |
 
 _______________
-#### Version: V.2022-10-12.15
-| :boom: Latest Threats<br/>@ 15:36:21 | :boom: Active Threats<br/>Wednesday 2022-10-12 | Total Links<br/>Discovered Today |
+#### Version: V.2022-10-12.19
+| :boom: Latest Threats<br/>@ 19:33:25 | :boom: Active Threats<br/>Wednesday 2022-10-12 | Total Links<br/>Discovered Today |
 | :---: | :---: |:---: |
 | :warning: [34](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [618](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-TODAY.txt) | [948](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
@@ -111,7 +111,7 @@ Our System also tests and re-tests anything flagged as INACTIVE or INVALID.
 ************************************************
 ## How do you test?
 
-We make use of the awesome [PyFunceble Testing Suite](https://github.com/funilrys/PyFunceble) written by [Nissar Chababy](https://github.com/funilrys/). Over 2 years in development this testing tool really provides us with a reliable source of active and inactive domains and through regular testing even domains which are inactive and may become active again are automatically moved back to the active list. [Read More about PyFunceble](https://pyfunceble.readthedocs.io/en/latest/)
+We make use of the awesome [PyFunceble Testing Suite](https://github.com/funilrys/PyFunceble) written by [Nissar Chababy](https://github.com/funilrys/). Over many years in development this testing tool really provides us with a reliable source of active and inactive domains and through regular testing even domains which are inactive and may become active again are automatically moved back to the active list. [Read More about PyFunceble](https://pyfunceble.readthedocs.io/en/latest/)
 
 ************************************************
 ## Contributing
