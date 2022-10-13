@@ -338,7 +338,6 @@ privacy.microsoft.com
 prod-api-community.windows.com
 prod-api.acompli.net
 prod-nam-autodetect.acompli.net
-prod-video-cms-rt-microsoft-com.akamaized.net
 prod.blob.core.windows.net
 prod.omexcosubretailer.live.com.akadns.net
 prod.rewardsplatform.microsoft.com
@@ -368,6 +367,7 @@ s-0004.s-msedge.net
 s-ring.msedge.net
 s2s.config.skype.com
 sam.msn.com
+sat-efz.ms-acdc.office.com
 sbsdomains.blob.core.windows.net
 schemas.microsoft.akadns.net
 sci1-1.am.microsoft.com
