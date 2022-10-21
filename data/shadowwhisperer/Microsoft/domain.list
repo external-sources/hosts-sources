@@ -162,6 +162,7 @@ experimental-api.asm.skype.com
 extensionwebstorebase.edgesv.net
 f-0001.f-msedge.net
 fbs1-t-msedge.net
+fd.api.iris.microsoft.com
 fe2.update.microsoft.com.akadns.net
 fevoke-windowsservices-tas.msedge.net
 filestore.community.answers.ms.akadns.net
@@ -219,6 +220,7 @@ ipv6.microsoft.com.akadns.net
 ipv6.msftconnecttest.com
 ipv6.msftncsi.com
 ipv6.msftncsi.com.edgesuite.net
+iris.microsoft.com
 iriscoremetadataprod.blob.core.windows.net
 jcmsfd.account.microsoft.com
 k-0002.k-msedge.net
@@ -321,7 +323,6 @@ outlook-1.cdn.office.net
 outlook-exo.trafficmanager.net
 owassets.azureedge.net
 p.pfx.ms
-p.sfx.ms
 packages.dmd.metaservices.microsoft.com
 passport.net
 peer2-den02.msedge.net
@@ -410,7 +411,6 @@ ssw.live.com
 static-spartan-eus-s-msn-com.akamaized.net
 static2.sharepointonline.com
 statics-marketingsites-neu-ms-com.akamaized.net
-storage.live.com
 storagetos.datamart.windows.com
 storesdk.dsx.mp.microsoft.com
 substrate.office.com
