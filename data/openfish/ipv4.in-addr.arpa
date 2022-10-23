@@ -1,6 +1,14 @@
 32.232.253.141.114.rpz-ip	CNAME	.
 32.232.253.141.114.rpz-client-ip	CNAME	rpz-drop.
-32.87.124.86.172.rpz-ip	CNAME	.
-32.87.124.86.172.rpz-client-ip	CNAME	rpz-drop.
+32.239.210.209.3.rpz-ip	CNAME	.
+32.239.210.209.3.rpz-client-ip	CNAME	rpz-drop.
+32.198.30.228.3.rpz-ip	CNAME	.
+32.198.30.228.3.rpz-client-ip	CNAME	rpz-drop.
+32.200.192.194.44.rpz-ip	CNAME	.
+32.200.192.194.44.rpz-client-ip	CNAME	rpz-drop.
+32.102.105.139.45.rpz-ip	CNAME	.
+32.102.105.139.45.rpz-client-ip	CNAME	rpz-drop.
 32.243.49.89.47.rpz-ip	CNAME	.
 32.243.49.89.47.rpz-client-ip	CNAME	rpz-drop.
+32.160.210.157.54.rpz-ip	CNAME	.
+32.160.210.157.54.rpz-client-ip	CNAME	rpz-drop.
