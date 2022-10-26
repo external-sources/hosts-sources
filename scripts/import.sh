@@ -83,7 +83,7 @@ wsbUrl="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/dat
 for d in "${wsbLists[@]}"; do
     mkdir -p "${git_dir}/data/windowsspyblocker/${d}"
     echo -e "\tImporting ${d}"
-    ${WGET} -qO- "${wsbUrl}/${d}.txt" | grep -vE '^(#|$)' | sed 's/^([0-9]).{6}[ ]//g' sort -u >"data/windowsspyblocker/${d}.list"
+    ${WGET} -qO- "${wsbUrl}/${d}.txt" | grep -vE '^(#|$)' | sed 's/^([0-9]).{6}[ ]//g' | sort -u >"data/windowsspyblocker/${d}.list"
 done
 unset wsbLists wsbUrl
 
