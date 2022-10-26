@@ -83,7 +83,7 @@ wsbUrl="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/dat
 for d in "${wsbLists[@]}"; do
     mkdir -p "${git_dir}/data/windowsspyblocker/${d}"
     echo -e "\tImporting ${d}"
-    ${WGET} -qO- "${wsbUrl}/${d}.txt" | grep -vE '^(#|$)' | sed 's/^([0-9]).{6}[ ]//g' | sort -u >"data/windowsspyblocker/${d}.list"
+    ${WGET} -qO- "${wsbUrl}/${d}.txt" | grep -vE '^(#|$)' | sed 's/^0.0.0.0\ //g' | sort -u >"data/windowsspyblocker/${d}.list"
 done
 unset wsbLists wsbUrl
 
@@ -163,9 +163,10 @@ echo "Imported mirror1.malwaredomains.com"
 bsLists=(abuse ads crypto drugs facebook fraud gambling malware phishing piracy porn ransomware redirect scam torrent tracking)
 bsUrl="https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/"
 
+echo "Importing blocklistproject"
 for bs in "${bsLists[@]}"; do
     mkdir -p "${git_dir}/data/blocklist_${bs}"
-    echo -e "\tImporting ${bs}"
+    echo -e "\t- ${bs}"
     c "${bsUrl}${bs}-nl.txt" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",tolower($1)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u >"data/blocklist_${bs}/domain.list"
 done
 
