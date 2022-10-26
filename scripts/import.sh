@@ -85,8 +85,8 @@ for d in "${wsbLists[@]}"; do
     echo -e "\tImporting ${d}"
     ${WGET} -qO- "${wsbUrl}/${d}.txt" | grep -vE '^(#|$)' | sed 's/^0.0.0.0\ //g' | sort -u >"data/windowsspyblocker/${d}.list"
 done
-${wget} -q "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/LICENSE" -O "data/windowsspyblocker/LICENSE"
-${wget} -q "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/README.md" -O "data/windowsspyblocker/README.md"
+${WGET} -qO "data/windowsspyblocker/LICENSE" "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/LICENSE"
+${WGET} -qO "data/windowsspyblocker/README.md" "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/README.md"
 unset wsbLists wsbUrl
 
 echo "Imported WindowsSpyBlocker"
