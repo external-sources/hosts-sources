@@ -20,10 +20,10 @@ hosts file.
 
 ---
 
-- Version: **V2.1008.2022.11.06**
-- Total Bad domains in `hosts` file: **636,539**
+- Version: **V2.1010.2022.11.07**
+- Total Bad domains in `hosts` file: **636,556**
 - Total Bad IP in `hosts.deny` file: **139,983**
-- Total Bad domains and IP in `superhosts.deny` file: **776,522**
+- Total Bad domains and IP in `superhosts.deny` file: **776,539**
 
   :exclamation: **Yes you did indeed read those numbers correctly** :exclamation:
 
@@ -141,7 +141,7 @@ listed domains.
 For example, to drop all requests to certain domains or servers, adding lines
 to your `hosts` file as below will achieve this for you.
 You can create your custom hosts or simply use ours which covers you for
-well over 636,539 bad domains.
+well over 636,556 bad domains.
 
 ```
 # Block Bad Domains and Servers with Hosts File
@@ -247,16 +247,16 @@ The sources of the input data information are as follows.
 | BadIPs.com_Level_4 | [Link](https://github.com/Ultimate-Hosts-Blacklist/BadIPs.com_Level_4) | [Link](http://www.badips.com/get/list/any/4?age=12) |
 | BadIPs.com_Level_5 | [Link](https://github.com/Ultimate-Hosts-Blacklist/BadIPs.com_Level_5) | [Link](http://www.badips.com/get/list/any/5?age=12) |
 | blacklist | [Link](https://github.com/Ultimate-Hosts-Blacklist/blacklist) | [Link]() |
-| cameleon_at_sysctl.org | [Link](https://github.com/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org) | [Link]() |
+| cameleon_at_sysctl.org | [Link](https://github.com/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org) | [Link](http://sysctl.org/cameleon/hosts) |
 | Cyveillance_Blocks | [Link](https://github.com/Ultimate-Hosts-Blacklist/Cyveillance_Blocks) | [Link]() |
 | firehol_level1 | [Link](https://github.com/Ultimate-Hosts-Blacklist/firehol_level1) | [Link](https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset) |
 | hostsVN | [Link](https://github.com/Ultimate-Hosts-Blacklist/hostsVN) | [Link](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) |
-| justdomains_mirror1.malwaredomains.com | [Link](https://github.com/Ultimate-Hosts-Blacklist/justdomains_mirror1.malwaredomains.com) | [Link]() |
+| justdomains_mirror1.malwaredomains.com | [Link](https://github.com/Ultimate-Hosts-Blacklist/justdomains_mirror1.malwaredomains.com) | [Link](https://raw.githubusercontent.com/smed79/mdlm/master/justdomains.txt) |
 | KADhosts_azet12 | [Link](https://github.com/Ultimate-Hosts-Blacklist/KADhosts_azet12) | [Link](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) |
 | lightswitch05_hosts_ads-and-tracking-extended | [Link](https://github.com/Ultimate-Hosts-Blacklist/lightswitch05_hosts_ads-and-tracking-extended) | [Link](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) |
 | malc0de.com | [Link](https://github.com/Ultimate-Hosts-Blacklist/malc0de.com) | [Link](http://malc0de.com/bl/IP_Blacklist.txt) |
 | MalwareDomainList.com | [Link](https://github.com/Ultimate-Hosts-Blacklist/MalwareDomainList.com) | [Link](https://raw.githubusercontent.com/smed79/mdlm/master/hosts.txt) |
-| Michael_Trimms_Hosts | [Link](https://github.com/Ultimate-Hosts-Blacklist/Michael_Trimms_Hosts) | [Link]() |
+| Michael_Trimms_Hosts | [Link](https://github.com/Ultimate-Hosts-Blacklist/Michael_Trimms_Hosts) | [Link](https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt) |
 | MinimalHostsBlocker | [Link](https://github.com/Ultimate-Hosts-Blacklist/MinimalHostsBlocker) | [Link](https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts) |
 | Mitchell_Krog_Snooping_IPS | [Link](https://github.com/Ultimate-Hosts-Blacklist/Mitchell_Krog_Snooping_IPS) | [Link]() |
 | Phishing.Database | [Link](https://github.com/Ultimate-Hosts-Blacklist/Phishing.Database) | [Link](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt) |
