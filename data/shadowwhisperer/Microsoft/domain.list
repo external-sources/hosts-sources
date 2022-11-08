@@ -24,6 +24,8 @@ api.cdp.microsoft.com
 api.edgeoffer.microsoft.com
 api.flightproxy.skype.com
 api.msn.com
+api.myaccount.microsoft.com
+api.mysignins.microsoft.com
 api3.cc.skype.com
 appexbingfinance.trafficmanager.net
 appexbingweather.trafficmanager.net
@@ -33,6 +35,7 @@ appexnewsappupdate.blob.core.windows.net
 appexsports.trafficmanager.net
 appexwusprodweather.blob.core.windows.net
 aria.microsoft.com
+augloop.office.com
 az158878.vo.msecnd.net
 az361816.vo.msecnd.net
 az413505.vo.msecnd.net
@@ -130,6 +133,7 @@ cortana.ai
 crl.microsoft.com
 cs.dds.microsoft.com
 cs1.wpc.v0cdn.net
+csp.microsoft.com
 customsearch.ai
 cxcs.microsoft.net
 cys-efz.ms-acdc.office.com
@@ -187,6 +191,7 @@ graph.windows.net
 greenid-prod.westus2.cloudapp.azure.com
 groove.microsoft.com
 groups.photos.microsoft.com
+gtm-dyn-direct.office365.com
 h1.msn.com
 h2.msn.com
 h3.msn.com
@@ -207,6 +212,7 @@ ieonline.microsoft.com
 ieonlinews.microsoft.com
 img.stb.s-msn.com
 imvendorportal.com
+inputsuggestions.msdxcdn.microsoft.com
 insiderhub.microsoft.com
 insiderppe.cloudapp.net
 insiderservice.microsoft.com
