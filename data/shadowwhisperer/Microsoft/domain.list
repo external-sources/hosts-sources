@@ -149,9 +149,12 @@ dmd.metaservices.microsoft.com
 ds.microsoft.com
 ds.ssw.live.com
 e-msedge.net
+ecn-us.dev.virtualearth.net
 edge-http.microsoft.com
 edge.activity.windows.com
+edgeassetservice.azureedge.net
 edgebooks.rec.mp.microsoft.com
+edgefrecdn.azureedge.net
 edgeoffer.microsoft.com
 edgetipscdn.microsoft.com
 edgewelcomecdn.microsoft.com
@@ -326,6 +329,7 @@ orca9o5ptld7p8kl709wbwth.blob.core.windows.net
 osizpcusmagenta001.blob.core.windows.net
 outlook-1.cdn.office.net
 outlook-exo.trafficmanager.net
+ov-df.microsoft.com
 owassets.azureedge.net
 p.pfx.ms
 packages.dmd.metaservices.microsoft.com
@@ -351,6 +355,7 @@ products.support.services.microsoft.com
 q-ring.msedge.net
 query.prod.cms.msn.com
 quicktips2016.skypeforbusiness.com
+r.msftstatic.com
 r20swj13mr.microsoft.com
 ra.live.com
 rad.live.com
