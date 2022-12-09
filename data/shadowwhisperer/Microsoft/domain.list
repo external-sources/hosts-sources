@@ -44,6 +44,7 @@ az598575.vo.msecnd.net
 azureedge.net
 b-msedge.net
 b-ring.msedge.net
+b.c2r.ts.cdn.office.net
 b.config.skype.com
 badwlas.skype.com
 bastion.azure.com
@@ -72,7 +73,11 @@ c-bing-com.a-0001.a-msedge.net
 c-ring.msedge.net
 c-s.cms.ms.akadns.net
 c.microsoft.com
+c1-officeapps-15.cdn.office.net
 c1.skype.com
+c1h-excel-15.cdn.office.net
+c1h-onenote-15.cdn.office.net
+c1h-word-edit-15.cdn.office.net
 cache.datamart.windows.com
 carrentals.msn.com
 ccs-pe-us1.cloudapp.net
@@ -80,6 +85,7 @@ cdf-anon.gtm.xboxlive.com
 cdf-anon.xboxlive.com
 cdf-anon.xboxlive.com.edgekey.net
 cdn.content.prod.cms.msn.com
+cdn.techcommunity.microsoft.com
 cds1204.lon.llnw.net
 cds1289.lon.llnw.net
 cds1293.lon.llnw.net
@@ -103,6 +109,7 @@ channel.status.request.url
 choice.microsoft.com
 choice.microsoft.com.nsatc.net
 choice.microsoft.com.nstac.net
+client.ppe.repmap.microsoft.com
 clientconfig.passport.net
 clients.config.office.net
 clientsettings.books.microsoft.com
@@ -188,9 +195,12 @@ fs.microsoft.com
 fs.microsoft.com.akadns.net
 g.ceipmsn.com
 g.msn.com
+gameclipscontent-d2006.media.xboxlive.com
+gameclipscontent-t2006.xboxlive.com
 global.sam.msn.com
 go.microsoft.akadns.net
 graph.microsoft.com
+graph.print.microsoft.com
 graph.windows.net
 greenid-prod.westus2.cloudapp.azure.com
 groove.microsoft.com
@@ -259,6 +269,7 @@ live.rads.msn.com
 livetile.hulu.com
 livetileedge.dsx.mp.microsoft.com
 livetiles.health.appex.bing.com
+local-blu-people.directory.live.com
 loki.delve.office.com
 lpcres.delve.office.com
 ls2web.redmond.corp.microsoft.com
@@ -271,6 +282,7 @@ mcas-gov.us
 mcas.ms
 mediadiscovery.microsoft.com
 mediaredirect.microsoft.com
+messaging.lifecycle.office.com
 messaging.office.com
 messenger.msn.com
 metaservices.microsoft.com
@@ -329,11 +341,13 @@ optanon.blob.core.windows.net
 orca9o5ptld7p8kl709wbwth.blob.core.windows.net
 osizpcusmagenta001.blob.core.windows.net
 outlook-1.cdn.office.net
+outlook-2.cdn.office.net
 outlook-exo.trafficmanager.net
 ov-df.microsoft.com
 owassets.azureedge.net
 p.pfx.ms
 packages.dmd.metaservices.microsoft.com
+pages.store.office.com
 passport.net
 peer2-den02.msedge.net
 people.skype.com
@@ -345,6 +359,7 @@ playready.microsoft.com
 pnv.skype.com
 preview.msn.com
 privacy.microsoft.com
+privacy.xboxlive.com
 prod-api-community.windows.com
 prod-api.acompli.net
 prod-nam-autodetect.acompli.net
@@ -406,6 +421,8 @@ sharepoint.com
 sharepointonline.com
 shell.cdn.office.net
 shell.windows.com
+shredder-us.osi.office.net
+sjc-efz.ms-acdc.office.com
 skype-pcs-prod-usea2-fe-b.cloudapp.net
 skypeecs-prod-use-0-b.cloudapp.net
 snoop.minecraft.net
@@ -425,6 +442,7 @@ statics-marketingsites-neu-ms-com.akamaized.net
 storagetos.datamart.windows.com
 storesdk.dsx.mp.microsoft.com
 substrate.office.com
+sup.directory.live.com
 survey.support.services.microsoft.com
 svmstrgprodus.blob.core.windows.net
 sway-cdn.com
@@ -488,6 +506,7 @@ windowssearch.com
 wip.mam.manage.microsoft.com
 woodgrovebank.com
 world.relay.skype.com
+worldaz.tr.skype.com
 www2.bing.com
 x1ds.xboxlive.com
 xboxab.com
