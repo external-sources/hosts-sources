@@ -20025,6 +20025,7 @@ fox.visionaudiovisual.com
 foxmetrics.com
 fp-afd.azureedge.net
 fp-afd.azureedge.us
+fp-afd.azurefd.net
 fp-afd.azurefd.us
 fp-analytics.hotstar.com
 fp-as-nocache.azureedge.net
@@ -57947,6 +57948,7 @@ us-central1-big-picture-prod.cloudfunctions.net
 us-central1-custom-site-analytics.cloudfunctions.net
 us-central1-production-225218.cloudfunctions.net
 us-east-1-web-oao.ssp.yahoo.com
+us-east-1.metrics.amazonworkdocs.com
 us-events.api.iheart.com
 us-library.klarnaservices.com
 us-power.mtu-solutions.com
@@ -59110,6 +59112,7 @@ wordhub.com
 wordnerds.ai
 work4u.proact.de
 workableachiever.com
+workdrive-metricslogs-uswest2.s3.amazonaws.com
 workforcenow.totalsource-adp.com
 workoperation.com
 workproud.landmarkspace.co.uk
