@@ -17,6 +17,7 @@ activation2.playready.microsoft.com
 activity.windows.com
 adl.windows.com
 admin-mcas-gov.us
+amcdn.msftauth.net
 amp-test.com
 api.addins.omex.office.net
 api.bing.com
@@ -64,6 +65,7 @@ blob.byaprdstr14a.store.core.windows.net
 blob.dm3prdstr04a.store.core.windows.net
 blob.dm5prdstr14a.store.core.windows.net
 blob.dm5prdstr19a.store.core.windows.net
+blob.dsz04prdstr06a.store.core.windows.net
 blob.sn4prdstr02a.store.core.windows.net
 blob.weather.microsoft.com
 bn2-client-s.gateway.messenger.live.com
@@ -84,6 +86,7 @@ ccs-pe-us1.cloudapp.net
 cdf-anon.gtm.xboxlive.com
 cdf-anon.xboxlive.com
 cdf-anon.xboxlive.com.edgekey.net
+cdn-dynmedia-1.microsoft.com
 cdn.content.prod.cms.msn.com
 cdn.fluidpreview.office.net
 cdn.techcommunity.microsoft.com
@@ -163,6 +166,7 @@ edge.activity.windows.com
 edgeassetservice.azureedge.net
 edgebooks.rec.mp.microsoft.com
 edgeoffer.microsoft.com
+edgestoreweb.azureedge.net
 edgetipscdn.microsoft.com
 edgewelcomecdn.microsoft.com
 en-us.appex-rf.msn.com
@@ -265,6 +269,8 @@ l-0015.l-msedge.net
 l-ring.msedge.net
 lb1.www.ms.akadns.net
 lfghub-anonymous.xboxlive.com
+lgincdnmsftuswe2.azureedge.net
+lgincdnvzeuno.azureedge.net
 licensingphone.mp.microsoft.com
 live.rads.msn.com
 livetile.hulu.com
@@ -363,6 +369,7 @@ privacy.microsoft.com
 privacy.xboxlive.com
 prod-api-community.windows.com
 prod-api.acompli.net
+prod-azurecdn-akamai-iris.azureedge.net
 prod-nam-autodetect.acompli.net
 prod-setupoffice.omexexternallfb.office.net.akadns.net
 prod.blob.core.windows.net
@@ -431,6 +438,7 @@ skypeecs-prod-use-0-b.cloudapp.net
 snoop.minecraft.net
 spo-msedge.net
 spo-ring.msedge.net
+spoppe-b.azureedge.net
 spoppe.com
 spov-msedge.net
 spynet2.microsoft.com
@@ -442,6 +450,7 @@ ssw.live.com
 static-spartan-eus-s-msn-com.akamaized.net
 static2.sharepointonline.com
 statics-marketingsites-neu-ms-com.akamaized.net
+staticview.msn.com
 storagetos.datamart.windows.com
 storesdk.dsx.mp.microsoft.com
 substrate.office.com
@@ -450,6 +459,7 @@ survey.support.services.microsoft.com
 svmstrgprodus.blob.core.windows.net
 sway-cdn.com
 sway.com
+swymv3premium-01.azureedge.net
 t-msedge.net
 t-ring.msedge.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
@@ -481,6 +491,7 @@ uci.edog.cdn.office.net
 udc.amp-test.com
 ugcorigin.s-microsoft.com
 urlappmapping.sfp.microsoft.com
+us-api.asm.skype.com
 ussus3westprod.blob.core.windows.net
 v4ncsi.msedge.net
 videoplayercdn.osi.office.net
