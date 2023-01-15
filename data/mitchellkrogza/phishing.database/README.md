@@ -18,13 +18,13 @@ Please rely **ONLY** on pulling individual list files or the full list of [domai
 <a href='https://twitter.com/PhishFindR'><img src='https://img.shields.io/twitter/follow/PhishFindR.svg?style=social&label=Follow' alt='Follow @PhishFindR'></a> | Help Support Me at https://ko-fi.com/mitchellkrog |
 
 _______________
-#### Version: V.2023-01-14.14
-| :boom: Latest Threats<br/>@ 14:32:21 | :boom: Active Threats<br/>Saturday 2023-01-14 | Total Links<br/>Discovered Today |
+#### Version: V.2023-01-15.00
+| :boom: Latest Threats<br/>@ 00:32:44 | :boom: Active Threats<br/>Sunday 2023-01-15 | Total Links<br/>Discovered Today |
 | :---: | :---: |:---: |
-| :warning: [34](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [618](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-TODAY.txt) | [777](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
+| :warning: [34](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [618](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-TODAY.txt) | [357](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
-#### Total Phishing Domains Captured: [471520](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.tar.gz) << (FILE SIZE: 4.0M tar.gz)
-#### Total Phishing Links Captured: [850931](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.tar.gz) << (FILE SIZE: 18M tar.gz)
+#### Total Phishing Domains Captured: [471647](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.tar.gz) << (FILE SIZE: 4.0M tar.gz)
+#### Total Phishing Links Captured: [851288](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.tar.gz) << (FILE SIZE: 18M tar.gz)
 ____________________
 
 
