@@ -15796,6 +15796,7 @@ clientmetrics-augmentum.kik.com
 clientmonitor.isnssdk.com
 clients.bettsrecruiting.com
 clientseoreport.com
+clientstats1-dummy-server-lb-398743415.us-east-1.elb.amazonaws.com
 clientupdatenw.com
 cliktrackr.com
 clinic.knee-joint.net
@@ -27640,6 +27641,7 @@ loendaja.eenet.ee
 log-api.aillis.net
 log-b-1270450396.us-west-1.elb.amazonaws.com
 log-c-2144142094.us-west-1.elb.amazonaws.com
+log-gateway.zoom.us
 log-marketing.jp
 log-mining-web.makeshop.co.kr
 log-remind-web.makeshop.co.kr
@@ -29251,6 +29253,7 @@ matomo.aat-online.de
 matomo.abb-notaries.com
 matomo.abc-messe.com
 matomo.abcreche.com
+matomo.ableto404.com
 matomo.abmk.info
 matomo.academicinfluence.com
 matomo.acck.fr
@@ -29274,6 +29277,7 @@ matomo.ade25.de
 matomo.adelphi.de
 matomo.adelya.net
 matomo.adiane.eu
+matomo.adigitali.net
 matomo.adnov.systems
 matomo.adorum.de
 matomo.adriacongrex.it
@@ -29293,6 +29297,7 @@ matomo.agence-celeste.com
 matomo.agence-web-e-novea.com
 matomo.agencecommon.com
 matomo.agenturamwasser.ch
+matomo.agribusiness-facility.org
 matomo.aherchi.info
 matomo.ainfo.io
 matomo.airportinfo.live
@@ -29301,6 +29306,7 @@ matomo.airvers.com
 matomo.aisw.tv
 matomo.ajur.info
 matomo.aksorn.com
+matomo.akteos.com
 matomo.aktion-hoffnung.org
 matomo.aldcis.dk
 matomo.alekos.net
@@ -29413,6 +29419,7 @@ matomo.awwk.de
 matomo.axongmbh.de
 matomo.ayaline.com
 matomo.azaas.com
+matomo.azo-space.com
 matomo.azoo.co
 matomo.azorian.solutions
 matomo.azure-hosting.de
@@ -29433,6 +29440,7 @@ matomo.baxus.co
 matomo.bccampus.ca
 matomo.bcintel.ai
 matomo.bcw-gruppe.de
+matomo.bdi.eu
 matomo.bdsm-hypnose-seminar.de
 matomo.bdzv.de
 matomo.be-on.de
@@ -29544,6 +29552,7 @@ matomo.caidou.cc
 matomo.cakesie.at
 matomo.calamedia.de
 matomo.calicant.us
+matomo.calzavara.it
 matomo.carax.productions
 matomo.carbo-control.com
 matomo.care2.us
@@ -29695,6 +29704,7 @@ matomo.dev-app.it
 matomo.dev-bremen.de
 matomo.dev-thuria.com
 matomo.dev.ewill.fr
+matomo.dev.provence-tourismus.de
 matomo.dev.pslifestyle-app.net
 matomo.dev.silver-eshop.de
 matomo.dev.sportstiming.dk
@@ -29808,6 +29818,7 @@ matomo.elabore.coop
 matomo.elastisys.com
 matomo.elbinario.net
 matomo.eldar.fr
+matomo.elearn-fundament.com
 matomo.elfgenpick.de
 matomo.elringklinger-kunststoff.de
 matomo.emfa.pt
@@ -29911,6 +29922,8 @@ matomo.fishme.cn
 matomo.fkn-service.de
 matomo.flaex.net
 matomo.flaport.net
+matomo.flexhero-service.de
+matomo.flextcloud.de
 matomo.flinkit.de
 matomo.flm9.net
 matomo.floapps.com
@@ -29936,6 +29949,7 @@ matomo.fourchette-et-bikini.fr
 matomo.fp.de
 matomo.fragnebenan.com
 matomo.frauenhaus-suche.de
+matomo.frederickdugas.com
 matomo.freelock.com
 matomo.freendi.com
 matomo.freeones.com
@@ -29977,6 +29991,7 @@ matomo.gmm.support
 matomo.gmtpubishing.com
 matomo.go-indochine.at
 matomo.go-n-grow.org
+matomo.go-suite.com
 matomo.godsapp.de
 matomo.goldenfellnase.de
 matomo.goldenvalue.nl
@@ -30300,6 +30315,7 @@ matomo.kwik.cx
 matomo.l-shop-team.de
 matomo.l-shop-team.eu
 matomo.lab2000.de
+matomo.laborb.de
 matomo.labrmngp.fr
 matomo.laedansatitia.com
 matomo.laf.li
@@ -30489,9 +30505,11 @@ matomo.monks.de
 matomo.monpetitpixel.fr
 matomo.monsitecommunal.fr
 matomo.monsyndicat.org
+matomo.montpellier.fr
 matomo.montviso-kunden.de
 matomo.moonenpackaging.dev
 matomo.morpheu5.net
+matomo.motools.app
 matomo.motorpresse.de
 matomo.mp3y.download
 matomo.mparsict.com
@@ -30570,6 +30588,7 @@ matomo.nikshay.in
 matomo.nipafx.dev
 matomo.nitrianskagaleria.sk
 matomo.nivea.com
+matomo.nizu.io
 matomo.nlp-atelier.de
 matomo.nmf-konzepte.de
 matomo.nmg.com.hk
@@ -30598,6 +30617,7 @@ matomo.oblaten.org
 matomo.occitanie-en-scene.fr
 matomo.ocebot.com
 matomo.octopus.sg
+matomo.oeh-salzburg.at
 matomo.oeko-einblick.de
 matomo.oekomlamp.de
 matomo.oh22.is
@@ -30720,6 +30740,7 @@ matomo.podium.nl
 matomo.podonaut.com
 matomo.poessl-mobile.de
 matomo.pohnitzer.at
+matomo.pointnemo.com
 matomo.polaris.rotary.ch
 matomo.politische-bildung.sh
 matomo.pollunit.com
@@ -30807,6 +30828,7 @@ matomo.reachmd.com
 matomo.readcoop.eu
 matomo.realestateview.com.au
 matomo.reblu.de
+matomo.redbot.one
 matomo.redthread.studio
 matomo.redusoft.de
 matomo.reemoon.com
@@ -30956,6 +30978,7 @@ matomo.shenfield.cc
 matomo.shopclues.com
 matomo.shoppersguide.com.ph
 matomo.shoppingvorteil.de
+matomo.sib.swiss
 matomo.sichere-videokonferenz.io
 matomo.sidelines.io
 matomo.sigmalab.co.uk
@@ -31078,6 +31101,7 @@ matomo.stummkonzert.de
 matomo.stuttgart.de
 matomo.stuttgartskreative.de
 matomo.stva.de
+matomo.stwh.customer.ingenit.com
 matomo.stynet.com
 matomo.sub-i.de
 matomo.suggesto.eu
@@ -31125,6 +31149,7 @@ matomo.tecxport.at
 matomo.tedic.org
 matomo.tedxntua.com
 matomo.teha.biz
+matomo.tehprogress.msk.ru
 matomo.tek.fi
 matomo.telefoontest.net
 matomo.teleschau.de
@@ -31177,6 +31202,7 @@ matomo.tolkienforum.de
 matomo.toll-collect.de
 matomo.tollhaus.de
 matomo.tonydarcy.net
+matomo.tootukassa.ee
 matomo.tourismeloiret.com
 matomo.touvet.fr
 matomo.tpf.nu
@@ -31204,6 +31230,7 @@ matomo.tt-lfjt.com
 matomo.ttg.at
 matomo.tu-dresden.de
 matomo.tubit.tu-berlin.de
+matomo.tuev-verband.de
 matomo.turbo-pc.es
 matomo.turbo.fr
 matomo.tuttobohne.de
@@ -31271,6 +31298,7 @@ matomo.vivanco.de
 matomo.vivancos.eu
 matomo.vmb.nrw
 matomo.vmm.be
+matomo.voiceonscreen.com
 matomo.voidcloud.de
 matomo.volkerhenn.de
 matomo.volzmedien.de
@@ -31327,6 +31355,7 @@ matomo.webprojeler.com
 matomo.webschleuder.net
 matomo.websecure.pt
 matomo.webseiten-angebot.com
+matomo.webstrategies.fr
 matomo.webtong.net
 matomo.webwork.de
 matomo.webzilla.cz
@@ -31344,6 +31373,7 @@ matomo.werkgalerie.ch
 matomo.westinho.de
 matomo.wfb-bremen.de
 matomo.wfgsha.de
+matomo.wholstersystems.com
 matomo.whvn.cc
 matomo.whyex.com
 matomo.widder.at
@@ -32932,6 +32962,7 @@ mule.pricelessai.com
 mule.reel.so
 multifamily.rediq.com
 multifbpixels.website
+munchkin.marketo.net
 mundanepollution.com
 muniservices.com
 mupixa.com
@@ -36082,6 +36113,7 @@ piwik.aditu.de
 piwik.adlandix.com
 piwik.adler-personal.com
 piwik.adlev.io
+piwik.admin.cyberlinka.com
 piwik.admin.media
 piwik.admin.stugen.de
 piwik.adminforge.de
@@ -38745,6 +38777,7 @@ piwik.leotec-leipzig.de
 piwik.leotours.it
 piwik.lepidus.com.br
 piwik.lerenleukermaken.nl
+piwik.lernen-im-ganztag.de
 piwik.lesamisdesallenoves.fr
 piwik.leschaco.com
 piwik.lesplumesdamazone.com
@@ -40474,6 +40507,7 @@ piwik.steliatec.de
 piwik.stellenticket.de
 piwik.stemke.gd
 piwik.stephanknull.de
+piwik.stephenwillis.co
 piwik.sterben-trauern-hoffen.de
 piwik.steur.de
 piwik.stev-halle.de
@@ -41223,6 +41257,7 @@ piwik.wirtschaftsforum-hamburg.de
 piwik.wirtschaftsmuseum.at
 piwik.wisit.com
 piwik.wisp.net.au
+piwik.wissweb.at
 piwik.wittenetwork.de
 piwik.wizard.de
 piwik.wlanco.de
@@ -41307,6 +41342,7 @@ piwik.xxl-maenner.de
 piwik.xyzcar.com
 piwik.y-m-e.net
 piwik.yabrab.ch
+piwik.yacht24.org
 piwik.yakaboo.ua
 piwik.yanzen.de
 piwik.yaron-strauch.de
@@ -41925,6 +41961,7 @@ plausible.calips.nl
 plausible.callingly.com
 plausible.campwire.com
 plausible.canpoi.com
+plausible.caprover.asciiarena.se
 plausible.casualgaming.no
 plausible.centric.shu.ac.uk
 plausible.cervenka.io
@@ -42144,6 +42181,7 @@ plausible.scg.cz
 plausible.schmidtflo.space
 plausible.sdwebhosting.de
 plausible.serein.co.uk
+plausible.server.cioospacific.ca
 plausible.shadygrovepca.org
 plausible.sharky.lol
 plausible.shiso.sh
@@ -42165,7 +42203,9 @@ plausible.straightvisions.com
 plausible.strzibny.name
 plausible.sysloun.cz
 plausible.tac.dappstar.io
+plausible.tadaa.fr
 plausible.tasteslikeme.ca
+plausible.tech-asuwish.fr
 plausible.tech4germany.org
 plausible.territoriolinux.es
 plausible.test.sketch.com
@@ -42229,6 +42269,7 @@ plcrm.protolabs.com
 pleasantpump.com
 plerdy.com
 plexa.io
+plg3-research.epson.biz
 plotparent.com
 plotrabbit.com
 plow.streem.com.au
@@ -44489,6 +44530,7 @@ s.youtube.com
 s001.machinedesign.com
 s033.pe.com
 s0m2.org
+s1.menatwork-statistik.de
 s1.soundvenue.com
 s1.subaru.com
 s1182545284.t.eloqua.com
@@ -55560,6 +55602,7 @@ stats.punkt191.de
 stats.pure-isp.eu
 stats.puri.sm
 stats.purpleblox.nl
+stats.pusher.com
 stats.pv-fasanerie-feldmoching.de
 stats.pv-pacem.de
 stats.pvs.de
@@ -59120,6 +59163,7 @@ tp.deutsche-bank.de
 tp.frankonia.de
 tp.plusnet.de
 tp.postbank.de
+tp2.spokeo.com
 tp88trk.com
 tpdanalytics.com
 tpginsights.com
@@ -66633,6 +66677,7 @@ y-medialink.com
 y-track.com
 y.ourp.cc
 y114.hillspet.com
+y3p7g7u2.stackpathcdn.com
 y4pamtrk.com
 y544.industryweek.com
 y5qhzz3q.designdetails.fm
