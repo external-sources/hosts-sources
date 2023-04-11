@@ -126,6 +126,7 @@ commerce.bing.com
 community.skype.com
 compass-ssl.xboxlive.com
 compatexchange.cloudapp.net
+concierge.live.com
 config-edge-skype.l-0014.l-msedge.net
 config.edge.skype.com
 config.edge.skype.com.trafficmanager.net
@@ -335,6 +336,8 @@ office365.us
 officeaka.cloudapp.net
 officehomeblobs.blob.core.windows.net
 ogma.osi.office.net
+oloobe-prod-cdn-storage.azureedge.net
+oloobe.officeapps.live.com
 omex.cdn.office.net
 oneclient.sfx.ms
 onecs-live.azureedge.net
@@ -519,6 +522,7 @@ shell.cdn.office.net
 shell.windows.com
 shredder-us.osi.office.net
 sjc-efz.ms-acdc.office.com
+skyapi.onedrive.live.com
 skype-pcs-prod-usea2-fe-b.cloudapp.net
 skypeecs-prod-use-0-b.cloudapp.net
 snoop.minecraft.net
@@ -534,6 +538,7 @@ sqm.microsoft.com
 ssl.bing.com
 ssw.live.com
 static-spartan-eus-s-msn-com.akamaized.net
+static.edge.microsoftapp.net
 static2.sharepointonline.com
 statics-marketingsites-neu-ms-com.akamaized.net
 staticview.msn.com
