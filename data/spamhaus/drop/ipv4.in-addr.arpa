@@ -438,6 +438,8 @@
 22.0.88.205.103.rpz-client-ip	CNAME	rpz-drop.
 22.0.244.210.103.rpz-ip	CNAME	.
 22.0.244.210.103.rpz-client-ip	CNAME	rpz-drop.
+22.0.56.214.103.rpz-ip	CNAME	.
+22.0.56.214.103.rpz-client-ip	CNAME	rpz-drop.
 22.0.80.215.103.rpz-ip	CNAME	.
 22.0.80.215.103.rpz-client-ip	CNAME	rpz-drop.
 22.0.72.225.103.rpz-ip	CNAME	.
