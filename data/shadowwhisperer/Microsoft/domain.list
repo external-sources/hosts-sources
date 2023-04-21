@@ -28,6 +28,7 @@ api.flightproxy.skype.com
 api.msn.com
 api.myaccount.microsoft.com
 api.mysignins.microsoft.com
+api.userstore.skype.com
 api3.cc.skype.com
 appexbingfinance.trafficmanager.net
 appexbingweather.trafficmanager.net
@@ -124,6 +125,7 @@ cloudtile.photos.microsoft.com
 cmsresources.windowsphone.com
 co2.sls.microsoft.com
 commerce.bing.com
+common.online.office.com
 community.skype.com
 compass-ssl.xboxlive.com
 compatexchange.cloudapp.net
@@ -313,10 +315,14 @@ msantispy.com
 msappproxy.net
 msc.wlxrs.com
 mscrl.microsoft.com
+msdl.microsoft.com
 msdnshared.blob.core.windows.net
 msecn.net
 msedge.b.tlu.dl.delivery.mp.microsoft.com
+msedge.f.dl.delivery.mp.microsoft.com
+msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedge.net
+msedge.sf.dl.delivery.mp.microsoft.com
 msegceporticoprodassets.blob.core.windows.net
 msft-my.spoppe.com
 msft.spoppe.com
@@ -327,6 +333,7 @@ myhomemsn.com
 nam.loki.delve.office.com
 newsletters.msn.com
 nleditor.osi.office.net
+noam.cc.skype.com
 notificationinbox.xboxlive.com
 ntp.msn.com
 o.xbox.com
@@ -432,7 +439,6 @@ onedriveclucprodbn20010.blob.core.windows.net
 onedriveclucprodbn20022.blob.core.windows.net
 onenote.com
 onenote.net
-oneocsp.microsoft.com
 onerm.olsvc.com
 onmicrosoft.com
 optanon.blob.core.windows.net
@@ -468,6 +474,7 @@ prod.omexcosubretailer.live.com.akadns.net
 prod.rewardsplatform.microsoft.com
 prod0-api.acompli.net
 products.support.services.microsoft.com
+pus5-collabhubrtc.officeapps.live.com
 q-ring.msedge.net
 query.prod.cms.msn.com
 quicktips2016.skypeforbusiness.com
@@ -522,6 +529,7 @@ sharepointonline.com
 shell.cdn.office.net
 shell.windows.com
 shredder-us.osi.office.net
+shredder.osi.office.net
 sjc-efz.ms-acdc.office.com
 skyapi.onedrive.live.com
 skype-pcs-prod-usea2-fe-b.cloudapp.net
@@ -564,6 +572,7 @@ teams.microsoft.us
 telecommandsvc.microsoft.com
 teredo.ipv6.microsoft.com
 test.activity.windows.com
+thor.aesir.office.com
 tile-service.weather.microsoft.com
 tk2.plt.msn.com
 to-do.microsoft.com
@@ -584,6 +593,8 @@ udc.amp-test.com
 ugcorigin.s-microsoft.com
 urlappmapping.sfp.microsoft.com
 us-api.asm.skype.com
+us7-excel-collab.officeapps.live.com
+usc-excel.officeapps.live.com
 ussus3westprod.blob.core.windows.net
 v4ncsi.msedge.net
 videoplayercdn.osi.office.net
