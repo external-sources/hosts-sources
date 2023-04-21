@@ -13082,6 +13082,7 @@ api.scuffeduno.online
 api.snapkit.com
 api.sosiago.id
 api.tech26.de
+api.us-east-1.aiv-delivery.net
 api.waldo.toyota.com
 api.www.s81c.com
 api2.amplitude.com
@@ -42946,6 +42947,7 @@ prod-telemetry.paradox-interactive.com
 prod-uilogger.public.prodsupportsite.a.intuit.com
 prod-web-tracker-609271211.us-east-1.elb.amazonaws.com
 prod.accdab.net
+prod.assets.mcxdiego.prime.amazon.dev
 prod.geo.gluops.com
 prod.geoservice.gluops.com
 prod.log.shortbread.aws.dev
