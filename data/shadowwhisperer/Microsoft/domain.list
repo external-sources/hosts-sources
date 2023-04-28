@@ -27,6 +27,7 @@ api.edgeoffer.microsoft.com
 api.flightproxy.skype.com
 api.msn.com
 api.myaccount.microsoft.com
+api.myapplications.microsoft.com
 api.mysignins.microsoft.com
 api.userstore.skype.com
 api3.cc.skype.com
@@ -122,6 +123,7 @@ clientsettings.books.microsoft.com
 cloudappconfig.blob.core.windows.net
 cloudcollection-ssl.xboxlive.com
 cloudtile.photos.microsoft.com
+club.live.com
 cmsresources.windowsphone.com
 co2.sls.microsoft.com
 commerce.bing.com
@@ -235,6 +237,7 @@ ieonline.microsoft.com
 ieonlinews.microsoft.com
 img.stb.s-msn.com
 imvendorportal.com
+info.microsoft.com
 inputsuggestions.msdxcdn.microsoft.com
 insiderhub.microsoft.com
 insiderppe.cloudapp.net
@@ -309,6 +312,7 @@ microsoftcrmportals.com
 microsoftedge.com
 microsoftedgetips.microsoft.com
 microsoftonline.com
+modernb.akamai.odsp.cdn.office.net
 modpim.com
 mrrcountries.cdn.skype.com
 msantispy.com
@@ -338,11 +342,13 @@ notificationinbox.xboxlive.com
 ntp.msn.com
 o.xbox.com
 oaspapps.com
+oauth.online.office.com
 odinvzc.azureedge.net
 offerservicefallback.blob.core.windows.net
 office365.us
 officeaka.cloudapp.net
 officehomeblobs.blob.core.windows.net
+officeredir.microsoft.com
 ogma.osi.office.net
 oloobe-prod-cdn-storage.azureedge.net
 oloobe.officeapps.live.com
@@ -439,6 +445,7 @@ onedriveclucprodbn20010.blob.core.windows.net
 onedriveclucprodbn20022.blob.core.windows.net
 onenote.com
 onenote.net
+onenote.officeapps.live.com
 onerm.olsvc.com
 onmicrosoft.com
 optanon.blob.core.windows.net
@@ -461,6 +468,7 @@ platform.bing.com
 playfabapi.com
 playready.microsoft.com
 pnv.skype.com
+pptsgs.officeapps.live.com
 preview.msn.com
 privacy.microsoft.com
 privacy.xboxlive.com
@@ -474,6 +482,7 @@ prod.omexcosubretailer.live.com.akadns.net
 prod.rewardsplatform.microsoft.com
 prod0-api.acompli.net
 products.support.services.microsoft.com
+ps.azurewaf.microsoft.com
 pus5-collabhubrtc.officeapps.live.com
 q-ring.msedge.net
 query.prod.cms.msn.com
@@ -556,6 +565,7 @@ storesdk.dsx.mp.microsoft.com
 substrate.office.com
 sup.directory.live.com
 survey.support.services.microsoft.com
+sus1-onenote.officeapps.live.com
 svmstrgprodus.blob.core.windows.net
 sway-cdn.com
 sway.com
@@ -595,6 +605,7 @@ urlappmapping.sfp.microsoft.com
 us-api.asm.skype.com
 us7-excel-collab.officeapps.live.com
 usc-excel.officeapps.live.com
+usc-onenote.officeapps.live.com
 ussus3westprod.blob.core.windows.net
 v4ncsi.msedge.net
 videoplayercdn.osi.office.net
@@ -620,10 +631,12 @@ windows.msn.com
 windowsphone.xbox.com
 windowssearch.com
 wip.mam.manage.microsoft.com
+wise.public.cdn.office.net
 woodgrovebank.com
 world.relay.skype.com
 worldaz.tr.skype.com
 wus-streaming-video-rt-microsoft-com.akamaized.net
+wus2s2c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com
 www2.bing.com
 x1ds.xboxlive.com
 xboxab.com
