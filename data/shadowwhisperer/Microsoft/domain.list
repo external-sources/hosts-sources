@@ -23,6 +23,7 @@ amp-test.com
 api.addins.omex.office.net
 api.bing.com
 api.cdp.microsoft.com
+api.cognitive.microsoft.com
 api.edgeoffer.microsoft.com
 api.flightproxy.skype.com
 api.msn.com
@@ -40,6 +41,7 @@ appexsports.trafficmanager.net
 appexwusprodweather.blob.core.windows.net
 aria.microsoft.com
 augloop.office.com
+australiaeast.api.cognitive.microsoft.com
 az158878.vo.msecnd.net
 az361816.vo.msecnd.net
 az413505.vo.msecnd.net
@@ -73,6 +75,7 @@ blob.sn4prdstr02a.store.core.windows.net
 blob.weather.microsoft.com
 bn2-client-s.gateway.messenger.live.com
 bot-framework.azureedge.net
+brazilsouth.api.cognitive.microsoft.com
 browserdefaults.microsoft.com
 c-bing-com.a-0001.a-msedge.net
 c-ring.msedge.net
@@ -84,6 +87,7 @@ c1h-excel-15.cdn.office.net
 c1h-onenote-15.cdn.office.net
 c1h-word-edit-15.cdn.office.net
 cache.datamart.windows.com
+canadacentral.api.cognitive.microsoft.com
 carrentals.msn.com
 ccs-pe-us1.cloudapp.net
 cdf-anon.gtm.xboxlive.com
@@ -110,6 +114,8 @@ cds459.lcy.llnw.net
 cds494.lcy.llnw.net
 cds965.lon.llnw.net
 ceipmsn.com
+centralindia.api.cognitive.microsoft.com
+centralus.api.cognitive.microsoft.com
 cggameszone.cloudapp.net
 channel.status.request.url
 choice.microsoft.com
@@ -166,6 +172,9 @@ dmd.metaservices.microsoft.com
 ds.microsoft.com
 ds.ssw.live.com
 e-msedge.net
+eastasia.api.cognitive.microsoft.com
+eastus.api.cognitive.microsoft.com
+eastus2.api.cognitive.microsoft.com
 ecn-us.dev.virtualearth.net
 edge-http.microsoft.com
 edge.activity.windows.com
@@ -173,6 +182,7 @@ edgeassetservice.azureedge.net
 edgebooks.rec.mp.microsoft.com
 edgeoffer.microsoft.com
 edgestoreweb.azureedge.net
+edgestorewebcdn.azureedge.net
 edgetipscdn.microsoft.com
 edgewelcomecdn.microsoft.com
 en-us.appex-rf.msn.com
@@ -200,6 +210,7 @@ foodanddrink.services.appex.bing.com
 foodanddrink.tile.appex.bing.com
 footprintdns.com
 fpastorage.cdn.office.net
+francecentral.api.cognitive.microsoft.com
 fs-wildcard.microsoft.com.edgekey.net
 fs-wildcard.microsoft.com.edgekey.net.globalredir.akadns.net
 fs.microsoft.com
@@ -255,9 +266,12 @@ ipv6.msftncsi.com
 ipv6.msftncsi.com.edgesuite.net
 iris.microsoft.com
 iriscoremetadataprod.blob.core.windows.net
+japaneast.api.cognitive.microsoft.com
+japanwest.api.cognitive.microsoft.com
 jcmsfd.account.microsoft.com
 k-0002.k-msedge.net
 k-ring.msedge.net
+koreacentral.api.cognitive.microsoft.com
 l-0001.l-msedge.net
 l-0002.l-msedge.net
 l-0003.l-msedge.net
@@ -332,11 +346,15 @@ msft.spoppe.com
 msftspeechmodelsprod.azureedge.net
 msgsearch.skype.com
 msnhome.org
+mydefender.microsoft.com
 myhomemsn.com
+mysecurity.microsoft.com
 nam.loki.delve.office.com
 newsletters.msn.com
 nleditor.osi.office.net
 noam.cc.skype.com
+northcentralus.api.cognitive.microsoft.com
+northeurope.api.cognitive.microsoft.com
 notificationinbox.xboxlive.com
 ntp.msn.com
 o.xbox.com
@@ -543,6 +561,9 @@ skyapi.onedrive.live.com
 skype-pcs-prod-usea2-fe-b.cloudapp.net
 skypeecs-prod-use-0-b.cloudapp.net
 snoop.minecraft.net
+southafricanorth.api.cognitive.microsoft.com
+southcentralus.api.cognitive.microsoft.com
+southeastasia.api.cognitive.microsoft.com
 spo-msedge.net
 spo-ring.msedge.net
 spoppe-b.azureedge.net
@@ -600,6 +621,7 @@ uci.cdn.office.net
 uci.edog.cdn.office.net
 udc.amp-test.com
 ugcorigin.s-microsoft.com
+uksouth.api.cognitive.microsoft.com
 urlappmapping.sfp.microsoft.com
 us-api.asm.skype.com
 us7-excel-collab.officeapps.live.com
@@ -618,7 +640,11 @@ weather.tile.appex.bing.com
 webportals-ngp.trafficmanager.net
 webshell.suite.office.com
 wer.microsoft.com
+westcentralus.api.cognitive.microsoft.com
+westeurope.api.cognitive.microsoft.com
+westus.api.cognitive.microsoft.com
 westus.tts.speech.microsoft.com
+westus2.api.cognitive.microsoft.com
 wfbdevicemanagement
 whiteboard.microsoft.com
 whiteboard.ms
