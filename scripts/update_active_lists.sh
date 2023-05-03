@@ -10,7 +10,7 @@ truncate -s 0 "${git_dir}/sources.list"
 
 for lists in `find data/ -type f -name domain.list`
 do
-	printf "0xacab.org/$CI_PROJECT_PATH/-/raw/master/$lists\n" | sort -u -f >> "${git_dir}/sources.list"
+	printf "$CI_PROJECT_URL/-/raw/master/$lists\n" | sort -u -f >> "${git_dir}/sources.list"
 done
 
 echo -e "\n\nThe script ${0}\nExited with error code ${?}\n\n"
