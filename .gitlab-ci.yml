@@ -9,10 +9,11 @@ before_script:
   - echo "Before script section"
   - export DEBIAN_FRONTEND=noninteractive
   - apt-get update
-  - apt-get install -yqf bash git pgp python3-pip python3.10 rsync npm wget curl
+  - apt-get install -yqf bash git pgp python3-pip python3.10 rsync npm
+    wget curl ldnsutils
   - git config --global user.email "10725-spirillen@users.noreply.0xacab.org"
   - git config --global user.name "spirillen"
-  - git remote set-url origin https://spirillen:$CI_JOB_TOKEN@0xacab.org/$CI_PROJECT_PATH.git
+  - git remote set-url origin https://gitlab-ci-token:${CI_JOB_TOKEN}@0xacab.org/$CI_PROJECT_PATH.git
   # - python --version  # For debugging
   - if [ -f requirements.txt ]; then python3.10 -m pip install --no-cache -I -r requirements.txt; fi
   - - git checkout master
@@ -23,7 +24,7 @@ after_script:
   - git add .
   - git commit -m "Committed new lists. BuildID $CI_JOB_ID.$CI_COMMIT_SHA [ci-skip]"
   - git pull --rebase origin master
-  - git push origin master "https://spirillen:${CI_JOB_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
+  - git push origin master "https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
   - git status
 
 build:
