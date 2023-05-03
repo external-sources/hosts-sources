@@ -21,7 +21,7 @@ after_script:
   - git status
   - git add .
   - git commit -m "Committed new lists. BuildID $CI_JOB_ID.$CI_COMMIT_SHA [ci-skip]"
-  - git pull --rebase
+  - git pull --rebase origin master
   - git push origin master "https://spirillen:${CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
   - git status
 
@@ -29,6 +29,7 @@ build:
   stage: build
   allow_failure: true
   script:
+    - git checkout master
     # - echo "Install DEPS"
     # - sudo bash "$CI_PROJECT_DIR/scripts/dependencies.sh"
     - echo "Install mypdns"
