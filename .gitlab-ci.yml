@@ -13,7 +13,7 @@ before_script:
     wget curl ldnsutils
   - git config --global user.email "10725-spirillen@users.noreply.0xacab.org"
   - git config --global user.name "spirillen"
-  - git remote set-url origin https://gitlab-ci-token:${CI_JOB_TOKEN}@0xacab.org/$CI_PROJECT_PATH.git
+  - git remote set-url origin "https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_REPOSITORY_URL}"
   # - python --version  # For debugging
   - if [ -f requirements.txt ]; then python3.10 -m pip install --no-cache -I -r requirements.txt; fi
   - - git checkout master
@@ -24,12 +24,12 @@ after_script:
   - git add .
   - git commit -m "Committed new lists. BuildID $CI_JOB_ID.$CI_COMMIT_SHA [ci-skip]"
   - git pull --rebase origin master
-  - git push origin master "https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
+  - git push origin master "https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_REPOSITORY_URL}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
   - git status
 
 build:
   stage: build
-  allow_failure: true
+  allow_failure: false
   script:
     # - echo "Install DEPS"
     # - sudo bash "$CI_PROJECT_DIR/scripts/dependencies.sh"
