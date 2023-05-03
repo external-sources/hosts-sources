@@ -14,7 +14,7 @@ before_script:
   - git config --global user.name "spirillen"
   - git remote set-url origin https://spirillen:$CI_ACCESS_TOKEN@0xacab.org/$CI_PROJECT_PATH.git
   #   - python --version  # For debugging
-  - if [ -f requirements.txt ]; then python -m pip install --no-cache -I -r requirements.txt; fi
+  - if [ -f requirements.txt ]; then python3.10 -m pip install --no-cache -I -r requirements.txt; fi
 
 after_script:
   - echo -e "After script section...\n"
