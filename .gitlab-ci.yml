@@ -9,12 +9,12 @@ before_script:
   - echo "Before script section"
   - export DEBIAN_FRONTEND=noninteractive
   - apt-get update
-  - apt-get install -yqqf bash git pgp python3-pip python3.10 rsync npm
+  - apt-get install -yqf bash git pgp python3-pip python3.10 rsync npm wget curl
   - git config --global user.email "spirillen@danwin1210.de"
   - git config --global user.name "spirillen"
   - git remote set-url origin https://spirillen:$CI_ACCESS_TOKEN@0xacab.org/$CI_PROJECT_PATH.git
   #   - python --version  # For debugging
-  - if [ -f requirements.txt ]; then python3.10 -m pip install --no-cache -I -r requirements.txt; fi
+  - if [ -f requirements.txt ]; then python -m pip install --no-cache -I -r requirements.txt; fi
 
 after_script:
   - echo -e "After script section...\n"
@@ -29,7 +29,11 @@ build:
   stage: build
   allow_failure: true
   script:
-    - sudo bash "$CI_PROJECT_DIR/scripts/dependencies.sh"
+    # - echo "Install DEPS"
+    # - sudo bash "$CI_PROJECT_DIR/scripts/dependencies.sh"
+    - echo "Install mypdns"
     - pip install --no-cache mypdns
+    - echo "Running IMPORT script"
     - bash "$CI_PROJECT_DIR/scripts/import.sh"
+    - echo "Update ACTIVE lists"
     - bash "$CI_PROJECT_DIR/scripts/update_active_lists.sh"
