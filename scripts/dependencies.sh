@@ -9,8 +9,7 @@ set -e
 
 # Check if we have root right to install the apps via apt
 
-if [ `whoami` != "root" ]
-    then
+if [ "$(whoami)" != "root" ]; then
     echo "You need to be root to do this!"
     exit 1
 fi
@@ -29,4 +28,3 @@ bash -c "$(curl -sL https://raw.githubusercontent.com/ilikenwf/apt-fast/master/q
 apt-fast update -yqq
 #apt-fastdist-upgrade -yqq
 apt-fast install -yqq openssh-client curl wget dos2unix ldnsutils
-
