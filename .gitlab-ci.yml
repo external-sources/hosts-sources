@@ -22,10 +22,10 @@ after_script:
   - echo -e "After script section...\n"
   - git status
   - git add .
-  - git commit -m "Committed new lists. BuildID ${CI_JOB_ID}.${CI_COMMIT_SHA} [ci-skip]" -o skip-ci || echo "No changes, nothing to commit!"
+  - git commit -m "Committed new lists. BuildID ${CI_JOB_ID}.${CI_COMMIT_SHA} [ci-skip]" || echo "No changes, nothing to commit!"
   - git remote rm origin && git remote add origin "https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_REPOSITORY_URL}"
   # - git pull --rebase origin master
-  - git push origin HEAD:$CI_COMMIT_REF_NAME # Pushes to the same branch as the trigger #"https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_REPOSITORY_URL}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
+  - git push origin HEAD:$CI_COMMIT_REF_NAME -o skip-ci # Pushes to the same branch as the trigger #"https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_REPOSITORY_URL}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
   - git status
 
 build:
