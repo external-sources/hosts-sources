@@ -9,8 +9,8 @@ before_script:
   - echo "Before script section"
   - export DEBIAN_FRONTEND=noninteractive
   - apt-get update
-  - apt-get install -yqf bash git pgp python3-pip python3.10 rsync npm
-    wget curl ldnsutils
+  - apt-get install -yqf bash git pgp python3-pip python3.10 wget curl
+    ldnsutils
   # - git config --global user.email "${GITLAB_USER_EMAIL}"
   # - git config --global user.name "${GITLAB_USER_NAME}"
   - git config user.name "Gitlab CI"
