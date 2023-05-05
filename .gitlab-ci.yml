@@ -15,7 +15,7 @@ before_script:
   # - git config --global user.name "${GITLAB_USER_NAME}"
   - git config user.name "Gitlab CI"
   - git config user.email "gitlabci@0xacab.org"
-  - git remote add git@0xacab.org:my-privacy-dns/import-external-sources/hosts-sources.git
+  - git remote set-url origin git@0xacab.org:my-privacy-dns/import-external-sources/hosts-sources.git
   # - git remote set-url origin "https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_REPOSITORY_URL#*@}"
   # - python --version  # For debugging
   - if [ -f requirements.txt ]; then python3.10 -m pip install --no-cache -I -r requirements.txt; fi
