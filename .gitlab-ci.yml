@@ -9,16 +9,12 @@ before_script:
   - echo "Before script section"
   - export DEBIAN_FRONTEND=noninteractive
   - apt-get update
-  - apt-get install -yqf bash git pgp python3-pip python3.10 wget curl
-    ldnsutils
-  # - git config --global user.email "${GITLAB_USER_EMAIL}"
-  # - git config --global user.name "${GITLAB_USER_NAME}"
-  - git config user.name "Gitlab CI"
-  - git config user.email "gitlabci@0xacab.org"
-  - git remote set-url origin git@0xacab.org:my-privacy-dns/import-external-sources/hosts-sources.git
-  # - git remote set-url origin "https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_REPOSITORY_URL#*@}"
+  - apt-get install -yqf bash git python3-pip rsync npm wget curl ldnsutils
+  - git config --global user.email "${GITLAB_USER_EMAIL}"
+  - git config --global user.name "${GITLAB_USER_NAME}"
+  - git remote set-url origin "https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_REPOSITORY_URL#*@}"
   # - python --version  # For debugging
-  - if [ -f requirements.txt ]; then python3.10 -m pip install --no-cache -I -r requirements.txt; fi
+  - if [ -f requirements.txt ]; then pip install --no-cache -I -r requirements.txt; fi
   - - git checkout master
 
 after_script:
@@ -26,7 +22,7 @@ after_script:
   - git status
   - git add .
   - git commit -m "Committed new lists. BuildID ${CI_JOB_ID}.${CI_COMMIT_SHA} [ci-skip]" || echo "No changes, nothing to commit!"
-  # - git remote rm origin && git remote add origin "https://${GITLAB_USER_NAME}:${CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}"
+  - git remote rm origin && git remote add origin "https://${GITLAB_USER_NAME}:${CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}"
   # - git pull --rebase origin master
   - git push origin HEAD:$CI_COMMIT_REF_NAME -o skip-ci # Pushes to the same branch as the trigger #"https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
   - git status
