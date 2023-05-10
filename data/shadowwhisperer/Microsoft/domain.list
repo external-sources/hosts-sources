@@ -133,6 +133,7 @@ cloudtile.photos.microsoft.com
 club.live.com
 cmsresources.windowsphone.com
 co2.sls.microsoft.com
+collabrtc.officeapps.live.com
 commerce.bing.com
 common.online.office.com
 community.skype.com
@@ -297,6 +298,7 @@ lgincdnmsftuswe2.azureedge.net
 lgincdnvzeuno.azureedge.net
 licensingphone.mp.microsoft.com
 live.rads.msn.com
+livefilestore.com
 livetile.hulu.com
 livetileedge.dsx.mp.microsoft.com
 livetiles.health.appex.bing.com
@@ -502,7 +504,11 @@ prod.rewardsplatform.microsoft.com
 prod0-api.acompli.net
 products.support.services.microsoft.com
 ps.azurewaf.microsoft.com
+pus4-collabhubrtc.officeapps.live.com
 pus5-collabhubrtc.officeapps.live.com
+pus6-collabhubrtc.officeapps.live.com
+pus7-collabhubrtc.officeapps.live.com
+pus8-collabhubrtc.officeapps.live.com
 q-ring.msedge.net
 query.prod.cms.msn.com
 quicktips2016.skypeforbusiness.com
