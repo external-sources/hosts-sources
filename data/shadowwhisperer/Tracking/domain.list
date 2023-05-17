@@ -3200,7 +3200,9 @@ analytics-api.upliftmoney.com
 analytics-api.vanceai.com
 analytics-api.webflow.com
 analytics-archive.ttc.io
+analytics-ari-nfl.yinzcam.com
 analytics-beta.hcaptcha.com
+analytics-buf-nhl.yinzcam.com
 analytics-cdn.avatrade.io
 analytics-cdn.friendly.is
 analytics-cdn.junilearning.com
@@ -3209,6 +3211,7 @@ analytics-cdn.neat.com
 analytics-cdn.prensaiberica.es
 analytics-cdn.redbubble.com
 analytics-cdn.xmaxdata.com
+analytics-cin-nfl.yinzcam.com
 analytics-club.org
 analytics-cms.whitebeard.me
 analytics-cn.mcon-group.com
@@ -3220,6 +3223,7 @@ analytics-dev.molib.com
 analytics-digitek.onlinesupporter.eu
 analytics-egain.com
 analytics-engine.com
+analytics-f1-venues.yinzcam.com
 analytics-gw.games.wanmei.com
 analytics-helper.com
 analytics-henrique.top
@@ -3232,13 +3236,19 @@ analytics-janai.muj-antikvariat.cz
 analytics-js-cdn.liferay.com
 analytics-junimuc.de
 analytics-kewl-ninja.poopy.cloud
+analytics-lal-nba.yinzcam.com
+analytics-league-xfl.yinzcam.com
 analytics-live.gameforge.com
 analytics-mar.lacek.net
 analytics-matamo.gunt.de
 analytics-matomo.streamlabs.com
 analytics-matomo.westeurope.cloudapp.azure.com
 analytics-mentopolis.sitebase-classic.de
+analytics-mil-nba.yinzcam.com
+analytics-min-nba.yinzcam.com
 analytics-my.carid.com
+analytics-nba-1.yinzcam.com
+analytics-phi-nba.yinzcam.com
 analytics-pillarfour-1105396686.us-east-1.elb.amazonaws.com
 analytics-prd.aws.wehaa.net
 analytics-pro.smartvel.com
@@ -3260,6 +3270,7 @@ analytics-sm.com
 analytics-staging.profinda.com
 analytics-static.ugc.bazaarvoice.com
 analytics-stg.zhdk.ch
+analytics-stl-nhl.yinzcam.com
 analytics-tcprod.weka.at
 analytics-test.decomposer.de
 analytics-test.vesta-gematik.de
@@ -3267,6 +3278,7 @@ analytics-test.visualvest.de
 analytics-test.wla-backend.de
 analytics-test.woopi.org
 analytics-testing.datadividendproject.com
+analytics-tot-fa.yinzcam.com
 analytics-tracking.meetup.com
 analytics-ue1.webcastcloud.com
 analytics-us.knexusplatform.com
@@ -12996,6 +13008,7 @@ antlion.launch.fyi
 antlion.rsllr.io
 antlion.streambus.com
 ants.vn
+antsomi.com
 antvoice.com
 anxiousapples.com
 anytrack.io
@@ -13311,6 +13324,7 @@ argyresthia.com
 arinsights.com
 ariseanalytics.com
 ariseboundary.com
+aristotleinsight.com
 arithmeticadjustment.com
 arity.co
 arity.com
@@ -18193,6 +18207,7 @@ devisemath.com
 devmate.com
 devopsmartboard.com
 devpardot.jp-sonpo.co.jp
+devstats.cncf.io
 devtodev.com
 dexwebanalytics.dexfront.live
 df-srv.de
@@ -19318,6 +19333,7 @@ embot.takaratomymall.jp
 embracecontext.com
 embtrk.com
 emcien.com
+emctrack.com
 emea-comms.axis.com
 emea.electrorent.com
 emea.hologic.com
@@ -20823,6 +20839,7 @@ gb.zettle.com
 gbl007.com
 gblwebcen.com
 gbqofs.com
+gbqofs.io
 gbxgateway.dell.com
 gc.bmonkeys.net
 gc.gibbscam.com
@@ -20948,6 +20965,9 @@ geoip.blackmilkclothing.com
 geoip.boredpanda.com
 geoip.businessoffashion.com
 geoip.cdn.arkadiumhosted.com
+geoip.dp.discovery.com.qaci-android.i.dsc.tv
+geoip.dp.discovery.com.qaci-eurodiscovery.i.dsc.tv
+geoip.dp.discovery.com.qaci-euroiosnew.i.dsc.tv
 geoip.enlistfully.com
 geoip.enlistsecureup.com
 geoip.entrsecre.com
@@ -20994,6 +21014,7 @@ geoip.transit.finance
 geoip2.livecall.io
 geoip2.restream.io
 geoiplookup.io
+geoiplookup.net
 geoiplookup.wikia.com
 geoiptool.com
 geojs.io
@@ -27561,6 +27582,7 @@ lightboxapi2.azurewebsites.net
 lightboxcdn.com
 lightcushion.com
 lighthouseapp.com
+lighthouselabs.eu
 lighting.ggled.net
 lightning.adultswim.co.uk
 lightning.adultswim.com
@@ -28014,6 +28036,7 @@ logger.goeuro.com
 logger.nerdwallet.com
 logger.pw
 logger.visionsage.com
+logger.vwonehub.io
 logger.yp.ca
 logger007.cam4.com
 logging-e2e.api.intuit.com
@@ -32587,6 +32610,9 @@ metrics.dairyreporter.com
 metrics.datafeedtoolbox.com
 metrics.dertour-reisebuero.de
 metrics.dertour.de
+metrics.discovery.com.qaci-android.i.dsc.tv
+metrics.discovery.com.qaci-eurodiscovery.i.dsc.tv
+metrics.discovery.com.qaci-euroiosnew.i.dsc.tv
 metrics.domclick.ru
 metrics.dominos.com.tr
 metrics.dune.com
@@ -32702,6 +32728,9 @@ metrics.samsclub.com
 metrics.sbermarketing.ru
 metrics.schooloutfitters.com
 metrics.seagl.org
+metrics.services.dp.discovery.com.qaci-android.i.dsc.tv
+metrics.services.dp.discovery.com.qaci-eurodiscovery.i.dsc.tv
+metrics.services.dp.discovery.com.qaci-euroiosnew.i.dsc.tv
 metrics.shepherd.com
 metrics.shopkarls.com
 metrics.simons.ca
@@ -32742,6 +32771,7 @@ metricssecure.luna.com
 metricssecure.nmfn.com
 metricssecure.northwesternmutual.com
 metricssecure.todaysales.com
+metricstream.com
 metrika.click
 metrika.lookmovie2.to
 metrika.playerwatchlm53.xyz
@@ -59298,6 +59328,7 @@ tealium.cbsnews.com
 tealium.co.jp
 tealium.com
 tealiumiq.com
+team-rec.jp
 team.americaneagle.com
 team.ditto.com
 team.rmhc.org.nz
@@ -59905,6 +59936,7 @@ track-bremen.de
 track-cdn.39ej7e.com
 track-dark-bz.b-cdn.net
 track-eu1.hubspot.com
+track-event.com
 track-flow.com
 track-lpp.israelhayom.co.il
 track-mv.com
@@ -60083,6 +60115,7 @@ track.oxone.co.uk
 track.parentmood.com
 track.parlonspeauparlonsbien.org
 track.patpat.com
+track.peopleshost.com
 track.pfnztoday.com
 track.ph-connect.de
 track.playsimple.games
@@ -60107,6 +60140,7 @@ track.rycklicht.de
 track.salesflare.com
 track.segmentstream.com
 track.sexcamchats.com
+track.sexyepc.com
 track.sfdermato.org
 track.shomargar.ir
 track.shop2market.com
@@ -61040,6 +61074,7 @@ ttysetrk.com
 tu.tungsram.com
 tubularlabs.com
 tucker-co.com
+tui.taobao.com
 tul.pcgamer.com
 tumblebirds.com
 tumra.com
