@@ -74,7 +74,7 @@ c 'https://zerodot1.gitlab.io/CoinBlockerLists/list.txt' | sort -u | uniq -u | p
 echo "Imported CoinBlockerLists"
 
 mkdir -p "${git_dir}/data/mvps/"
-${WGET} -qO- "http://winhelp2002.mvps.org/hosts.txt}" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/mvps/domain.list"
+${WGET} -qO- "http://winhelp2002.mvps.org/hosts.txt" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/mvps/domain.list"
 echo "Imported mvps"
 
 wsbLists=(spy update extra)
