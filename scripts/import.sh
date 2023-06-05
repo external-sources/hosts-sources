@@ -35,7 +35,7 @@ rm -fr "${git_dir}/data/"
 # downloading them, and save them some bandwidth
 
 mkdir -p "${git_dir}/data/yoyo.org/"
-c 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=one-line&showintro=0&mimetype=plaintext' | egrep -v '#' | tr , '\n' | sort -u >"data/yoyo.org/domain.list"
+c 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=one-line&showintro=0&mimetype=plaintext' | grep -Ev '#' | tr , '\n' | sort -u >"data/yoyo.org/domain.list"
 echo "Imported yoyo"
 
 # Full featured RPZ list availble from
