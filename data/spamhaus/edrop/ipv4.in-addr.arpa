@@ -82,8 +82,6 @@
 24.0.66.88.45.rpz-client-ip	CNAME	rpz-drop.
 24.0.67.88.45.rpz-ip	CNAME	.
 24.0.67.88.45.rpz-client-ip	CNAME	rpz-drop.
-24.0.90.88.45.rpz-ip	CNAME	.
-24.0.90.88.45.rpz-client-ip	CNAME	rpz-drop.
 24.0.227.91.45.rpz-ip	CNAME	.
 24.0.227.91.45.rpz-client-ip	CNAME	rpz-drop.
 24.0.234.128.45.rpz-ip	CNAME	.
@@ -104,8 +102,6 @@
 24.0.186.146.45.rpz-client-ip	CNAME	rpz-drop.
 24.0.120.148.45.rpz-ip	CNAME	.
 24.0.120.148.45.rpz-client-ip	CNAME	rpz-drop.
-24.0.235.149.45.rpz-ip	CNAME	.
-24.0.235.149.45.rpz-client-ip	CNAME	rpz-drop.
 24.0.150.152.45.rpz-ip	CNAME	.
 24.0.150.152.45.rpz-client-ip	CNAME	rpz-drop.
 24.0.223.156.45.rpz-ip	CNAME	.
