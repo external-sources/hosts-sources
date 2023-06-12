@@ -11,8 +11,8 @@ set -e
 git_dir="$(git rev-parse --show-toplevel)"
 
 WGET="$(command -v wget)"
-CURL="$(command -v curl)"
-PYTHON="$(command -v python3)"
+# CURL="$(command -v curl)"
+# PYTHON="$(command -v python3)"
 
 c() {
     curl --tcp-fastopen \
@@ -23,7 +23,7 @@ c() {
         --ignore-content-length \
         --silent \
         --retry 5 \
-        --retry-delay 2 {$1}
+        --retry-delay 2 "${1}"
 }
 
 cd "${git_dir}"
@@ -44,6 +44,11 @@ mkdir -p "${git_dir}/data/abuse.ch/sslipblacklist/"
 c "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt" | tr -d '\015' | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | sed 's/ \;.*$//' | awk -F "[/.]" '{  printf("32.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n32.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$4,$3,$2,$1,$4,$3,$2,$1) }' >"data/abuse.ch/sslipblacklist/ipv4.in-addr.arpa"
 c "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt" | tr -d '\015' | grep -v "#" | cut -d " " -f 1 >"data/abuse.ch/sslipblacklist/ip4.list"
 echo "Imported abuse.ch"
+
+mkdir -p "${git_dir}/data/anudeepND/adservers/"
+echo "anudeepND"
+${WGET} -qO- "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/anudeepND/adservers/domain.list"
+echo "Imported anudeepND"
 
 mkdir -p "${git_dir}/data/abuse.ch/urlhaus/"
 ${WGET} -qO- 'https://urlhaus.abuse.ch/downloads/rpz/' | awk '/^;/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' >"data/abuse.ch/urlhaus/domain.list"
@@ -147,7 +152,6 @@ for d in "${hpLists[@]}"; do
 done
 
 # For protecting the future devs we unset variables
-hpLists=""
 hpUrl=""
 
 echo "Puuh.. done importing Active hosts-file.net...."
@@ -173,7 +177,6 @@ for bs in "${bsLists[@]}"; do
 done
 
 # Unset variables
-bsLists=""
 bsUrl=""
 
 echo "Imported blocklist.site"
@@ -274,7 +277,6 @@ for mu in "${muLists[@]}"; do
 done
 
 # Unset variables
-muLists=""
 muUrl=""
 
 # @ShadowWhisperer
@@ -298,13 +300,15 @@ echo "Import README"
 ${WGET} "${SWUrl}/README.md" -O "$git_dir/data/shadowwhisperer/README.md"
 
 # Unset variables
-SWLists=""
 SWUrl=""
 
 echo "Done with @ShadowWhisperer, thanks for your contribution, may the the ods"
 echo "always be in your favour :smirk:"
 
-echo -e "\n\nThe script ${0}\nExited with error code ${?}\n\n"
+echo ""
+echo ""
+echo "The script ${0}"
+echo "Exited with error code ${?}\n\n"
 
 # git add .
 
