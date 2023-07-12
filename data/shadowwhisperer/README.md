@@ -7,6 +7,7 @@
     Dating           Dating Sites  
     Dynamic          Dynamic DNS:  DNS --> IP  
     Free             Free/Cheap Hosting, Free Blogs  
+    Gambling         Casino, Gambling, Poker sites  
     Junk             Personally Untrusted Antivirus, Browser Extensions, Search Engines, etc  
     Malware          Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites  
     Marketing        Marketing, Ebay Listing Tools, etc  
