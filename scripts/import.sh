@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-# The perpose of this script is to import various eternal hosts files into lists
-# that contail only domain.tld for easier working with the lists to our RPZ files
+# The perpose of this script is to import various external hosts files into lists
+# that only contains domain.tld, for easier working with the lists to our RPZ files
 
 # Exit on any errors
 
