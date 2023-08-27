@@ -102,13 +102,13 @@ ${WGET} -q "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/REA
 ${WGET} -q "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/LICENSE.md" -O "data/adaway/LICENSE.md"
 echo "Imported adaway.github.io"
 
-mkdir -p "${git_dir}/data/dg-malicious/"
-${WGET} -qO- "https://www.squidblacklist.org/downloads/dg-malicious.acl" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/dg-malicious/domain.list"
-echo "Imported dg-malicious"
+# mkdir -p "${git_dir}/data/dg-malicious/"
+# ${WGET} -qO- "https://www.squidblacklist.org/downloads/dg-malicious.acl" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/dg-malicious/domain.list"
+# echo "Imported dg-malicious"
 
-mkdir -p "${git_dir}/data/dg-ads/"
-${WGET} -qO- "https://www.squidblacklist.org/downloads/dg-ads.acl" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/dg-ads/domain.list"
-echo "Imported dg-ads"
+# mkdir -p "${git_dir}/data/dg-ads/"
+# ${WGET} -qO- "https://www.squidblacklist.org/downloads/dg-ads.acl" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/dg-ads/domain.list"
+# echo "Imported dg-ads"
 
 mkdir -p "${git_dir}/data/malwaredomainlist/"
 ${WGET} -qO- "https://www.malwaredomainlist.com/hostslist/hosts.txt" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/malwaredomainlist/domain.list"
