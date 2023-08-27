@@ -110,9 +110,9 @@ echo "Imported adaway.github.io"
 # ${WGET} -qO- "https://www.squidblacklist.org/downloads/dg-ads.acl" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/dg-ads/domain.list"
 # echo "Imported dg-ads"
 
-mkdir -p "${git_dir}/data/malwaredomainlist/"
-${WGET} -qO- "https://www.malwaredomainlist.com/hostslist/hosts.txt" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/malwaredomainlist/domain.list"
-echo "Imported malwaredomainlist"
+# mkdir -p "${git_dir}/data/malwaredomainlist/"
+# ${WGET} -qO- "https://www.malwaredomainlist.com/hostslist/hosts.txt" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/malwaredomainlist/domain.list"
+# echo "Imported malwaredomainlist"
 
 mkdir -p "${git_dir}/data/joewein/"
 ${WGET} -qO- "https://www.joewein.net/dl/bl/dom-bl-base.txt" | grep -Ev '\b(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\b' | grep -Ev '(\%a\;419|\{|^$)' | sed 's/\;.*//' >"data/joewein/domain.list"
