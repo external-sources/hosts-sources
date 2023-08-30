@@ -146,6 +146,7 @@ config.messenger.msn.com
 config.officeapps.live.com
 config.scm.windowsphone.com
 connect.microsoft.com
+consent.config.office.com
 consumer.entitlement.skype.com
 contacts.msn.com
 content.lifecycle.office.net
@@ -467,6 +468,7 @@ onenote.net
 onenote.officeapps.live.com
 onerm.olsvc.com
 onmicrosoft.com
+ooc-g2.tm-4.office.com
 open-ai-connect.skype.com
 optanon.blob.core.windows.net
 orca9o5ptld7p8kl709wbwth.blob.core.windows.net
