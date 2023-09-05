@@ -1,3 +1,4 @@
+"http://www.w3.org/tr/xhtml1/dtd/xhtml1-strict.dtd">
 0------------0-------------0.0n-line.biz
 0------------0-------------0.0n-line.info
 0------------0-------------0.123erp.net
@@ -3165,6 +3166,20 @@
 9workbypass.info
 9x5.org
 9y2.net
+</body>
+</head>
+</html>
+<?xml
+<body>
+<h1>error
+<h3>error
+<head>
+<hr>
+<html>
+<p>details:
+<p>first
+<p>varnish
+<title>503
 a-1proxy.info
 a-4.info
 a-5.info
