@@ -1370,6 +1370,12 @@
 24.0.232.175.199.rpz-client-ip	CNAME	rpz-drop.
 19.0.64.178.199.rpz-ip	CNAME	.
 19.0.64.178.199.rpz-client-ip	CNAME	rpz-drop.
+21.0.0.184.199.rpz-ip	CNAME	.
+21.0.0.184.199.rpz-client-ip	CNAME	rpz-drop.
+22.0.8.184.199.rpz-ip	CNAME	.
+22.0.8.184.199.rpz-client-ip	CNAME	rpz-drop.
+23.0.12.184.199.rpz-ip	CNAME	.
+23.0.12.184.199.rpz-client-ip	CNAME	rpz-drop.
 24.0.82.184.199.rpz-ip	CNAME	.
 24.0.82.184.199.rpz-client-ip	CNAME	rpz-drop.
 24.0.223.184.199.rpz-ip	CNAME	.
