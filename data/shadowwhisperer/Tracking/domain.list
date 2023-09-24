@@ -13233,6 +13233,7 @@ api-analytics.pelikan.sk
 api-bd.kohls.com
 api-bdc.net
 api-data-collection.insta360.cn
+api-engagement-us-east.velaro.com
 api-frontend-events.prodigygame.com
 api-gdpr.voodoo-tech.io
 api-gmg-ksat-prod.cdn.arcpublishing.com
@@ -13253,6 +13254,7 @@ api-track.hygraph.com
 api-triangle.canadiantire.ca
 api-v1.tenor.com
 api-v3.tinypass.com
+api-visitor-us-east.velaro.com
 api-webrp-analytics.cloud.toast.com
 api.americanphysician.com
 api.amplitude.com
@@ -13275,6 +13277,7 @@ api.levelaccess.net
 api.mailmojo.no
 api.makewellanalytics.com
 api.maladiecoronavirus.fr
+api.medscape.com
 api.mixpanel.com
 api.mxtoolbox.com
 api.mypurecloud.com
@@ -28162,6 +28165,7 @@ live.pandora-streaming.com
 live.sciolytix.com
 live.verndale.com
 liveapi.huya.com
+livechat-metrics.messagebird.com
 livecounter.theyosh.nl
 livein.common.com
 liveintent.com
@@ -47481,6 +47485,7 @@ singular.net
 sinkbooks.com
 sinmo.chasecenter.com
 sinndrin-matomo-app.cdd.sinndrin.ch
+sinoclick.com
 sintelligence.marykay.com
 sintelligence.marykayintouch.com
 sinter-collect.com
@@ -49503,6 +49508,7 @@ st.newyorklife.com
 st.next-bahn.de
 st.nic.ru
 st.noxvo.net
+st.ntppool.org
 st.nylinvestments.com
 st.opec.org
 st.s-bahn-muenchen-magazin.de
@@ -62827,6 +62833,7 @@ vextras.com
 veylinx.com
 vg01.met.vgwort.de
 vg03.met.vgwort.de
+vg05.met.vgwort.de
 vhfconfig.cmail20.com
 vhihealthsquad.ie
 via2trk.com
@@ -63284,6 +63291,7 @@ web-analytics.zero-gravity-service.de
 web-call-analytics.com
 web-conforama-trackingapi-live.sparkow.net
 web-counter.net
+web-device-id.banggood.com
 web-events.esputnik.com
 web-frontend-dot-sc-analytics.appspot.com
 web-matomo-analytics.aphp.fr
