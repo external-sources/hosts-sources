@@ -6,10 +6,10 @@
 **This WILL BREAK daily** due to a complete reset of the repository history every 24 hours.
 Please rely **ONLY** on pulling individual list files or the full list of [domains in tar.gz format](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.tar.gz) and [links in tar.gz format](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.tar.gz) (updated hourly) using wget or curl.
 
-<table>
+<!--<table>
   <tr><th colspan=2>SPONSORS</th></tr>
   <tr><td><a href="https://www.tines.com/?utm_source=oss&utm_medium=sponsorship&utm_campaign=phishfindr"><img alt="Tines Sponsorship" width="140px" src="https://github.com/mitchellkrogza/Phishing.Database/raw/master/assets/Tines-Sponsorship-Badge-Purple.png" /></a></td><td><a href="https://limacharlie.io/?utm_source=phishing-database&utm_medium=banner"><img alt="Limacharlie Sponsorship" width="140px" src="https://github.com/mitchellkrogza/Phishing.Database/raw/master/assets/limacharlie-logo-sponsorship-logo.png" /></a></td></tr>
-</table>
+</table>-->
 
 
 | REPO | BECOME A SPONSOR |
@@ -18,13 +18,13 @@ Please rely **ONLY** on pulling individual list files or the full list of [domai
 <a href='https://twitter.com/PhishFindR'><img src='https://img.shields.io/twitter/follow/PhishFindR.svg?style=social&label=Follow' alt='Follow @PhishFindR'></a> | Help Support Me at https://ko-fi.com/mitchellkrog |
 
 _______________
-#### Version: V.2023-12-11.08
-| :boom: Latest Threats<br/>@ 08:32:05 | :boom: Active Threats<br/>Monday 2023-12-11 | Total Links<br/>Discovered Today |
+#### Version: V.2023-12-11.13
+| :boom: Latest Threats<br/>@ 13:04:53 | :boom: Active Threats<br/>Monday 2023-12-11 | Total Links<br/>Discovered Today |
 | :---: | :---: |:---: |
-| :warning: [34](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [598](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-TODAY.txt) | [448](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
+| :warning: [34](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [598](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-TODAY.txt) | [919](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
-#### Total Phishing Domains Captured: [615657](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.tar.gz) << (FILE SIZE: 5.2M tar.gz)
-#### Total Phishing Links Captured: [1107307](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.tar.gz) << (FILE SIZE: 24M tar.gz)
+#### Total Phishing Domains Captured: [615809](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.tar.gz) << (FILE SIZE: 5.2M tar.gz)
+#### Total Phishing Links Captured: [1107781](https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.tar.gz) << (FILE SIZE: 24M tar.gz)
 ____________________
 
 
