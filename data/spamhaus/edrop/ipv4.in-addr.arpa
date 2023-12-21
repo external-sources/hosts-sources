@@ -270,6 +270,8 @@
 22.0.224.155.107.rpz-client-ip	CNAME	rpz-drop.
 24.0.182.107.109.rpz-ip	CNAME	.
 24.0.182.107.109.rpz-client-ip	CNAME	rpz-drop.
+23.0.84.172.109.rpz-ip	CNAME	.
+23.0.84.172.109.rpz-client-ip	CNAME	rpz-drop.
 24.0.237.206.109.rpz-ip	CNAME	.
 24.0.237.206.109.rpz-client-ip	CNAME	rpz-drop.
 24.0.64.68.111.rpz-ip	CNAME	.
