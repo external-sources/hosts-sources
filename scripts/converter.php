@@ -73,6 +73,8 @@ $lists = array(
     'winhelp2002' => 'http://winhelp2002.mvps.org/hosts.txt'
 );
 
+$idn_to_ascii = function_exists('idn_to_ascii');
+
 foreach ($lists as $name => $list) {
     echo "Converting {$name}...\n";
 
@@ -81,13 +83,13 @@ foreach ($lists as $name => $list) {
     $lines = explode("\n", $lines);
 
     // HOSTS header.
-    //$hosts  = "# {$name}\n";
-    //$hosts .= "#\n";
-    //$hosts .= "# Converted from - {$list}\n";
-    //$hosts .= "# Last converted - " . date( 'r' ) . "\n";
-    //$hosts .= "#\n\n";
+    $hosts = "# {$name}\n";
+    $hosts .= "#\n";
+    $hosts .= "# Converted from - {$list}\n";
+    $hosts .= '# Last converted - ' . date('r') . "\n";
+    $hosts .= "#\n\n";
 
-    $exceptions = array();
+    $domains = $exceptions = array();
 
     // Loop through each ad filter.
     foreach ($lines as $filter) {
@@ -101,19 +103,43 @@ foreach ($lists as $name => $list) {
         if (false !== strpos($filter, '/')) {
             continue;
         }
-        if (false !== strpos($filter, '=')) {
-            continue;
-        }
         if (false !== strpos($filter, '#')) {
             continue;
         }
         if (false !== strpos($filter, ' ')) {
             continue;
         }
+        if (false !== strpos($filter, 'abp?')) {
+            continue;
+        }
+
+        // Skip Adguard HTML filtering syntax.
+        if (false !== strpos($filter, '$$') || false !== strpos($filter, '$@$')) {
+            continue;
+        }
+
+        // For $domain syntax, strip domain rules.
+        if (false !== strpos($filter, '$domain') && false === strpos($filter, '@@')) {
+            $filter = substr($filter, 0, strpos($filter, '$domain'));
+        } elseif (false !== strpos($filter, '=')) {
+            continue;
+        }
 
         // Replace filter syntax with HOSTS syntax.
         // @todo Perhaps skip $third-party, $image and $popup?
-        $filter = str_replace(array('||', '^', '$third-party', ',third-party', '$image', ',image', ',important', '$script', ',script', ',object', '$popup', '$empty', '$object-subrequest', '$subdocument'), '', $filter);
+        $filter = str_replace(array('||', '^third-party', '^', '$third-party', ',third-party', '$all', ',all', '$image', ',image', ',important', '$script', ',script', '$object', ',object', '$popup', ',popup', '$empty', '$object-subrequest', '$document', '$subdocument', ',subdocument', '$ping', '$important', '$badfilter', ',badfilter', '$websocket', '$cookie', '$other'), '', $filter);
+
+        /*
+         * Workarounds. Groan.
+         */
+        // EasyPrivacySpecific. See https://github.com/r-a-y/mobile-hosts/issues/17.
+        if ('soundcloud.com' === $filter) {
+            continue;
+        }
+        // See https://github.com/r-a-y/mobile-hosts/issues/26.
+        if ('global.ssl.fastly.net' === $filter) {
+            continue;
+        }
 
         // Skip rules matching 'xmlhttprequest' for now.
         if (false !== strpos($filter, 'xmlhttprequest')) {
@@ -135,7 +161,12 @@ foreach ($lists as $name => $list) {
 
         // If starting with '-', skip.
         // https://github.com/r-a-y/mobile-hosts/issues/5
-        if ('-' === substr($filter, 0, 1)) {
+        if ('-' === substr($filter, 0, 1) || '_' === substr($filter, 0, 1)) {
+            continue;
+        }
+
+        // If starting with '!', skip.
+        if ('!' === substr($filter, 0, 1)) {
             continue;
         }
 
@@ -144,27 +175,51 @@ foreach ($lists as $name => $list) {
             $filter = str_replace('|', '', $filter);
         }
 
-        // Save exception to parse later.
-        if (0 === strpos($filter, '@@')) {
-            $exceptions[] = str_replace('@@', '', $filter);
+        // Skip file extensions
+        if ('.jpg' === substr($filter, -4) || '.gif' === substr($filter, -4)) {
             continue;
         }
 
-        $hosts .= "{$filter}\n";
+        // Strip port numbers.
+        if (false !== strpos($filter, ':')) {
+            $filter = substr($filter, 0, strpos($filter, ':'));
+        }
+
+        // Convert internationalized domain names to punycode.
+        if ($idn_to_ascii && preg_match('//u', $filter)) {
+            $filter = idn_to_ascii($filter);
+        }
+
+        // If empty, skip.
+        if (empty($filter)) {
+            continue;
+        }
+
+        // Save exception to parse later.
+        if (0 === strpos($filter, '@@')) {
+            $exceptions[] = '0.0.0.0 ' . str_replace('@@', '', $filter);
+            continue;
+        }
+
+        $domains[] = "0.0.0.0 {$filter}";
     }
 
-    // Remove exceptions.
-    if (!empty($exceptions)) {
-        foreach ($exceptions as $ex) {
-            $find = "0.0.0.0 {$ex}\n";
-            if (false !== strpos($hosts, $find)) {
-                $hosts = str_replace($find, '', $hosts);
-            }
+    // Generate the hosts list.
+    if (!empty($domains)) {
+        // Filter out duplicates.
+        $domains = array_unique($domains);
+
+        // Remove exceptions.
+        if (!empty($exceptions)) {
+            $domains = array_diff($domains, $exceptions);
         }
+
+        $hosts .= implode("\n", $domains);
+        unset($domains);
     }
 
     // Output the file.
-    file_put_contents("tmp/{$name}.txt", $hosts);
+    file_put_contents("data/{$name}.txt", $hosts);
 
-    echo "{$name} converted to plain file - see data/{$name}.txt\n";
+    echo "{$name} converted to HOSTS file - see data/{$name}.txt\n";
 }
