@@ -1,9 +1,12 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 06 Feb 2024 08:57:51 +0000
+# Last converted - Tue, 06 Feb 2024 12:58:31 +0000
 #
 
+0.0.0.0 stethuth.xyz
+0.0.0.0 ktxvbcbfs.xyz
+0.0.0.0 ro.ondatrakrafts.com
 0.0.0.0 ewhareey.com
 0.0.0.0 skatistlollard.com
 0.0.0.0 monthcurrencybeam.com
@@ -44177,6 +44180,9 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 volceapplog.com
+0.0.0.0 toblog.tobsnssdk.com
+0.0.0.0 tobapplog.tobsnssdk.com
 0.0.0.0 log.talkie-ai.com
 0.0.0.0 log.goodreels.com
 0.0.0.0 log.dramaboxdb.com
@@ -57010,6 +57016,8 @@
 0.0.0.0 ciimar.icu
 0.0.0.0 myiryc.xyz
 0.0.0.0 awhsaso.cn
+0.0.0.0 cdolhlwq.xyz
+0.0.0.0 xdolhlwq.xyz
 0.0.0.0 zzyy19.top
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
