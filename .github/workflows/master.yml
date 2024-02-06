@@ -35,6 +35,11 @@ jobs:
         with:
           token: '${{ secrets.GITHUB_TOKEN }}'
 
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.1'
+
       - name: Install requirements
         run: |
           sudo bash "${{ github.workspace }}/scripts/dependencies.sh"
@@ -43,8 +48,11 @@ jobs:
         run: |
           pip install --no-cache mypdns
 
-      - name: Download and convert dumb hosts to plain data
+      - name: Import IP based blacklists
         run: bash "${{ github.workspace }}/scripts/import.sh"
+
+      - name: Download and convert dumb hosts to plain data
+        run: php -f  "${{ github.workspace }}/scripts/converter.php"
 
       - name: Update active list
         run: bash "${{ github.workspace }}/scripts/update_active_lists.sh"
