@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Tue, 06 Feb 2024 12:59:05 +0000
+# Last converted - Tue, 06 Feb 2024 16:58:39 +0000
 #
 
 0.0.0.0 00px.net
@@ -7458,6 +7458,7 @@
 0.0.0.0 capptivemarkets.com
 0.0.0.0 cappumedia.com
 0.0.0.0 cappushino.com
+0.0.0.0 captads.com
 0.0.0.0 carambo.la
 0.0.0.0 caramel.am
 0.0.0.0 carbonads.com
