@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 06 Feb 2024 16:58:03 +0000
+# Last converted - Tue, 06 Feb 2024 20:57:52 +0000
 #
 
 0.0.0.0 stethuth.xyz
@@ -1524,14 +1524,14 @@
 0.0.0.0 es.ylilauta.org
 0.0.0.0 sab.fast.ge
 0.0.0.0 crystal-ad.ge
-0.0.0.0 ban.bhol.co.il
-0.0.0.0 ext.bhol.co.il
-0.0.0.0 st1.bhol.co.il
 0.0.0.0 head-clickfusion.com
 0.0.0.0 headerbidding.services
 0.0.0.0 3myad.com
 0.0.0.0 cdn.234doo.com
 0.0.0.0 a.b.napiszar.com
+0.0.0.0 ban.bhol.co.il
+0.0.0.0 ext.bhol.co.il
+0.0.0.0 st1.bhol.co.il
 0.0.0.0 planner.tiscali.it
 0.0.0.0 reklammen.spellchecker.lu
 0.0.0.0 bn.gogo.mn
@@ -3492,6 +3492,7 @@
 0.0.0.0 afootwitword.com
 0.0.0.0 aforepayoffstutter.com
 0.0.0.0 afosseel.net
+0.0.0.0 afpjryqtnkctv.com
 0.0.0.0 afqqnxifhgsaqab.com
 0.0.0.0 afr4g5.de
 0.0.0.0 afrage.com
@@ -3739,6 +3740,7 @@
 0.0.0.0 ajjwuunaxq.com
 0.0.0.0 ajkzd9h.com
 0.0.0.0 ajlwaseodqo.com
+0.0.0.0 ajmpeuf.com
 0.0.0.0 ajozrjh.com
 0.0.0.0 ajrkm1.com
 0.0.0.0 ajtmfkposamrcrx.com
@@ -5517,6 +5519,7 @@
 0.0.0.0 bbgickdocf.xyz
 0.0.0.0 bbgtranst.com
 0.0.0.0 bbhxuqym.xyz
+0.0.0.0 bbjnttjqknnmf.com
 0.0.0.0 bbkaqmmknori.com
 0.0.0.0 bbkydnakc.com
 0.0.0.0 bbmlhsehxwi.com
@@ -9317,6 +9320,7 @@
 0.0.0.0 daysstone.com
 0.0.0.0 dayznews.biz
 0.0.0.0 daz3rw5a5k4h.com
+0.0.0.0 dazeoffhandskip.com
 0.0.0.0 dazhantai.com
 0.0.0.0 db20da1532.com
 0.0.0.0 db5f3a82ab.com
@@ -10927,6 +10931,7 @@
 0.0.0.0 edbritingsynt.info
 0.0.0.0 edcritessuspi.com
 0.0.0.0 eddffea7e1.com
+0.0.0.0 eddieunamply.com
 0.0.0.0 eddmciqkvq.com
 0.0.0.0 edeybivah.com
 0.0.0.0 edgar2al2larngpoer.com
@@ -11040,6 +11045,7 @@
 0.0.0.0 eertogro.net
 0.0.0.0 eeshemto.com
 0.0.0.0 eesihighlyrec.xyz
+0.0.0.0 eessoong.com
 0.0.0.0 eessoost.net
 0.0.0.0 eetchaid.net
 0.0.0.0 eethilsi.com
@@ -11205,6 +11211,7 @@
 0.0.0.0 elasticdestruct.com
 0.0.0.0 elaterconditin.info
 0.0.0.0 elaterconditing.info
+0.0.0.0 elatorfatback.com
 0.0.0.0 elbowfixes.com
 0.0.0.0 elbowrevolutionary.com
 0.0.0.0 elbowsmouldoral.com
@@ -11523,6 +11530,7 @@
 0.0.0.0 eogaeapolaric.com
 0.0.0.0 eondunpea.com
 0.0.0.0 eonsmedia.com
+0.0.0.0 eontappetito.com
 0.0.0.0 eonwayaha.com
 0.0.0.0 eooslfyhziubo.com
 0.0.0.0 eopleshouldt.info
@@ -11714,6 +11722,7 @@
 0.0.0.0 estrinuprise.guru
 0.0.0.0 estuousopalish.guru
 0.0.0.0 esumeformo.info
+0.0.0.0 eswsentatives.info
 0.0.0.0 esxjpnkgyaeiu.xyz
 0.0.0.0 etapescaisse.com
 0.0.0.0 etbelpoyes.xyz
@@ -13624,6 +13633,7 @@
 0.0.0.0 gdecordingholo.info
 0.0.0.0 gdjejefdqthxmy.xyz
 0.0.0.0 gdkixpmakvrpm.com
+0.0.0.0 gdlxtjk.com
 0.0.0.0 gdmconvtrck.com
 0.0.0.0 gdmdigital.com
 0.0.0.0 gdmgsecure.com
@@ -17171,6 +17181,7 @@
 0.0.0.0 jehobsee.com
 0.0.0.0 jeivreeultvgt.com
 0.0.0.0 jekmmlwnyzyjr.top
+0.0.0.0 jekzyyowqwmwl.top
 0.0.0.0 jellifytayer.com
 0.0.0.0 jelllearnedhungry.com
 0.0.0.0 jellyhelpless.com
@@ -17438,6 +17449,7 @@
 0.0.0.0 joltidiotichighest.com
 0.0.0.0 joltouch.net
 0.0.0.0 joltperforming.com
+0.0.0.0 joluw.net
 0.0.0.0 jomvyhmfxqnvox.xyz
 0.0.0.0 jonaharsu.com
 0.0.0.0 joodoush.com
@@ -20927,6 +20939,7 @@
 0.0.0.0 muriheem.net
 0.0.0.0 murkilyergots.com
 0.0.0.0 murkymouse.online
+0.0.0.0 murreyequate.com
 0.0.0.0 muscledarcysilly.com
 0.0.0.0 muscleomnipresent.com
 0.0.0.0 muscleserrandrotund.com
@@ -20971,6 +20984,7 @@
 0.0.0.0 mvjlsdqd.com
 0.0.0.0 mvkjeglvbbfvm.xyz
 0.0.0.0 mvlvxzhxjci.com
+0.0.0.0 mvnmkbixlvb.com
 0.0.0.0 mvqlsrakwp.com
 0.0.0.0 mvubzqaowhhgii.com
 0.0.0.0 mvujvxc.com
@@ -22142,6 +22156,7 @@
 0.0.0.0 oargaung.com
 0.0.0.0 oarsmenmytilid.uno
 0.0.0.0 oarsmorsel.com
+0.0.0.0 oarsoocm.com
 0.0.0.0 oarsouss.net
 0.0.0.0 oartoogree.com
 0.0.0.0 oasazedy.com
@@ -22435,6 +22450,7 @@
 0.0.0.0 ohnwmjnsvijdrgx.xyz
 0.0.0.0 ohoycaline.com
 0.0.0.0 ohpgamsojj.com
+0.0.0.0 ohqcrifmugat.com
 0.0.0.0 ohrdsplu.com
 0.0.0.0 ohrkihivhtz.com
 0.0.0.0 ohsatum.info
@@ -24267,6 +24283,7 @@
 0.0.0.0 pkpibupbbuvbgwh.xyz
 0.0.0.0 pkthyp.uno
 0.0.0.0 pkudawbkcl.com
+0.0.0.0 pkxseoxojrg.com
 0.0.0.0 placeofres.com
 0.0.0.0 placingcompany.com
 0.0.0.0 placingsolemnlyinexpedient.com
@@ -28158,6 +28175,7 @@
 0.0.0.0 shitucka.net
 0.0.0.0 shivateicher.com
 0.0.0.0 shlyapajhd2kle8pnc09.com
+0.0.0.0 shoabibs.xyz
 0.0.0.0 shoabsie.xyz
 0.0.0.0 shoageep.com
 0.0.0.0 shoagooy.net
@@ -29420,6 +29438,7 @@
 0.0.0.0 stressfulsurroundingcomeback.com
 0.0.0.0 stretchedbarbarian.com
 0.0.0.0 stretchedcreepy.com
+0.0.0.0 stretchedgluttony.com
 0.0.0.0 stretchingwicked.com
 0.0.0.0 strettechoco.com
 0.0.0.0 strewdirtinessnestle.com
@@ -29875,6 +29894,7 @@
 0.0.0.0 tableshooliganbait.com
 0.0.0.0 tabletbragcreak.com
 0.0.0.0 tabloidbadger.com
+0.0.0.0 tabloidquantitycosts.com
 0.0.0.0 tabloidsuggest.com
 0.0.0.0 taboringrigri.com
 0.0.0.0 tabulaeokas.com
@@ -30337,6 +30357,7 @@
 0.0.0.0 theoltoozle.com
 0.0.0.0 theonecdn.com
 0.0.0.0 theonlins.com
+0.0.0.0 theoriamungey.com
 0.0.0.0 theoryexempt.com
 0.0.0.0 theoverheat.com
 0.0.0.0 thepeom.com
@@ -30775,6 +30796,7 @@
 0.0.0.0 tomsjousts.life
 0.0.0.0 tonapplaudfreak.com
 0.0.0.0 toncooperateapologise.com
+0.0.0.0 toneadds.com
 0.0.0.0 toneernestport.com
 0.0.0.0 tonemedia.com
 0.0.0.0 tonesprotectioncard.com
@@ -31462,6 +31484,7 @@
 0.0.0.0 typerealisepredict.com
 0.0.0.0 typescoordinate.com
 0.0.0.0 typicalappleashy.com
+0.0.0.0 typicalsecuritydevice.com
 0.0.0.0 typiccor.com
 0.0.0.0 typiconrices.com
 0.0.0.0 tyqptghilt.com
@@ -31481,6 +31504,7 @@
 0.0.0.0 tzaristdiploma.com
 0.0.0.0 tzegilo.com
 0.0.0.0 tzgygfy.com
+0.0.0.0 tzngtmzpvysh.com
 0.0.0.0 tzrlfzwyicvj.com
 0.0.0.0 tzugumojfm.com
 0.0.0.0 tzuhumrwypw.com
@@ -31990,6 +32014,7 @@
 0.0.0.0 uprightmidsummer.com
 0.0.0.0 uprimp.com
 0.0.0.0 uprivaladserver.net
+0.0.0.0 uproarglossy.com
 0.0.0.0 upsaibou.net
 0.0.0.0 upsajeve.com
 0.0.0.0 upsamurottr.com
@@ -33383,6 +33408,7 @@
 0.0.0.0 wg-aff.com
 0.0.0.0 wgbwlgzthobp.com
 0.0.0.0 wgchrrammzv.com
+0.0.0.0 wghzbgmjpyig.com
 0.0.0.0 wgkggub.com
 0.0.0.0 wgplayer.com
 0.0.0.0 wgpsjcpdulptl.com
@@ -33953,6 +33979,7 @@
 0.0.0.0 wpush.org
 0.0.0.0 wpushorg.com
 0.0.0.0 wqjbldnnceroue.com
+0.0.0.0 wqlnfrxnp.xyz
 0.0.0.0 wqorxfp.com
 0.0.0.0 wqzjfsmudvpct.com
 0.0.0.0 wqzqoobqpubx.com
@@ -34092,6 +34119,7 @@
 0.0.0.0 wxmccgdodvsqibm.com
 0.0.0.0 wxmicgwfzqekj.com
 0.0.0.0 wxmxbvuwj.com
+0.0.0.0 wxoywtyuj.com
 0.0.0.0 wxseedslpi.com
 0.0.0.0 wxvfhgdeis.com
 0.0.0.0 wydtxpctgipa.xyz
@@ -34545,6 +34573,7 @@
 0.0.0.0 yfddaetiu.xyz
 0.0.0.0 yfedatherappeal.xyz
 0.0.0.0 yfedatherappear.com.ua
+0.0.0.0 yfgrxkz.com
 0.0.0.0 yforaglasys.xyz
 0.0.0.0 yfquojkptgpoai.com
 0.0.0.0 yfrrsktkzfp.com
@@ -34839,6 +34868,7 @@
 0.0.0.0 zagvee.com
 0.0.0.0 zaheki.uno
 0.0.0.0 zaicasoawoul.com
+0.0.0.0 zaigaphy.net
 0.0.0.0 zailoanoy.com
 0.0.0.0 zaipheetour.com
 0.0.0.0 zaistaug.net
@@ -36486,6 +36516,7 @@
 0.0.0.0 1173384488.rsc.cdn77.org
 0.0.0.0 1187531871.rsc.cdn77.org
 0.0.0.0 1437953666.rsc.cdn77.org
+0.0.0.0 1445112467.rsc.cdn77.org
 0.0.0.0 1556048427.rsc.cdn77.org
 0.0.0.0 1580345775.rsc.cdn77.org
 0.0.0.0 1647871863.rsc.cdn77.org
@@ -36758,6 +36789,7 @@
 0.0.0.0 d1ezlc9vy4yc7g.cloudfront.net
 0.0.0.0 d1f05vr3sjsuy7.cloudfront.net
 0.0.0.0 d1f52ha44xvggk.cloudfront.net
+0.0.0.0 d1f5r3d462eit5.cloudfront.net
 0.0.0.0 d1f9tkqiyb5a97.cloudfront.net
 0.0.0.0 d1fs2ef81chg3.cloudfront.net
 0.0.0.0 d1g2nud28z4vph.cloudfront.net
@@ -36949,6 +36981,7 @@
 0.0.0.0 d29i6o40xcgdai.cloudfront.net
 0.0.0.0 d29mxewlidfjg1.cloudfront.net
 0.0.0.0 d2a80scaiwzqau.cloudfront.net
+0.0.0.0 d2b4jmuffp1l21.cloudfront.net
 0.0.0.0 d2bbq3twedfo2f.cloudfront.net
 0.0.0.0 d2bkkt3kqfmyo0.cloudfront.net
 0.0.0.0 d2bvfdz3bljcfk.cloudfront.net
@@ -38683,6 +38716,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 analytics-cf.bigcrunch.com
+0.0.0.0 trackerapi.ebxcdn.com
+0.0.0.0 tongjiniao.com
 0.0.0.0 first-id.fr
 0.0.0.0 pixad.com.tr
 0.0.0.0 trandgid.com
@@ -55455,6 +55491,7 @@
 0.0.0.0 awareista.com
 0.0.0.0 awaw.asia
 0.0.0.0 awcdst.icu
+0.0.0.0 awhsaso.cn
 0.0.0.0 awzddev.cn
 0.0.0.0 ax7fv.space
 0.0.0.0 aymwiq.xyz
@@ -55564,6 +55601,7 @@
 0.0.0.0 cbttnmo.xyz
 0.0.0.0 cbyhoe.xyz
 0.0.0.0 ccwxma.xyz
+0.0.0.0 cdolhlwq.xyz
 0.0.0.0 cdsa2.icu
 0.0.0.0 ceiuip.icu
 0.0.0.0 cfateu.xyz
@@ -55577,6 +55615,7 @@
 0.0.0.0 chsdwjes.xyz
 0.0.0.0 chubsxmg.xyz
 0.0.0.0 chzjidgc.xyz
+0.0.0.0 ciimar.icu
 0.0.0.0 cjndvoglik.xyz
 0.0.0.0 cjohpsc.cn
 0.0.0.0 cjpczyi.cn
@@ -55946,6 +55985,7 @@
 0.0.0.0 iknhgj.com
 0.0.0.0 ileled.xyz
 0.0.0.0 ilph0.icu
+0.0.0.0 im71za.cn
 0.0.0.0 imrvyop.cn
 0.0.0.0 imwxsu.xyz
 0.0.0.0 imxsvpxe.xyz
@@ -56116,6 +56156,7 @@
 0.0.0.0 lcid.top
 0.0.0.0 lckjqtx.xyz
 0.0.0.0 ldjnbn.xyz
+0.0.0.0 ldvdwlt.xyz
 0.0.0.0 ldvnehc.xyz
 0.0.0.0 leidad.xyz
 0.0.0.0 leizylb.icu
@@ -56254,6 +56295,7 @@
 0.0.0.0 mwfyab.icu
 0.0.0.0 mycxhgrp.xyz
 0.0.0.0 mydzfldt.xyz
+0.0.0.0 myiryc.xyz
 0.0.0.0 mymahuxv.xyz
 0.0.0.0 myyxox.icu
 0.0.0.0 mzelzfnj.xyz
@@ -56263,6 +56305,7 @@
 0.0.0.0 n0h56.site
 0.0.0.0 n2faw.site
 0.0.0.0 n522rv1.cn
+0.0.0.0 n5n5s.icu
 0.0.0.0 nahgvfhs.xyz
 0.0.0.0 nanaimostarkle.com
 0.0.0.0 nangongmall.com
@@ -56370,6 +56413,7 @@
 0.0.0.0 pidurrmu.xyz
 0.0.0.0 pipc.top
 0.0.0.0 pirubcfy.xyz
+0.0.0.0 pjvkhh.xyz
 0.0.0.0 pkfuxvbk.xyz
 0.0.0.0 pknrnj.xyz
 0.0.0.0 plnrkgc.xyz
@@ -56515,6 +56559,7 @@
 0.0.0.0 sigjuw.xyz
 0.0.0.0 skdaj.cn
 0.0.0.0 skdunkig.xyz
+0.0.0.0 skskssso.com
 0.0.0.0 slkdfg.com
 0.0.0.0 slkdnlkfnskl.com
 0.0.0.0 sllo.top
@@ -56817,6 +56862,7 @@
 0.0.0.0 xcqbbcqpl.xyz
 0.0.0.0 xdfdqce.xyz
 0.0.0.0 xdjdpyrt.xyz
+0.0.0.0 xdolhlwq.xyz
 0.0.0.0 xdsahkln.xyz
 0.0.0.0 xeazoj.icu
 0.0.0.0 xebohjhh.xyz
@@ -56905,6 +56951,7 @@
 0.0.0.0 ycgkol.icu
 0.0.0.0 ycmgeb.icu
 0.0.0.0 yddbysa.xyz
+0.0.0.0 ydolhlwq.xyz
 0.0.0.0 ydv7k.cyou
 0.0.0.0 yepgdita.xyz
 0.0.0.0 yfsstec96.xyz
@@ -57008,16 +57055,6 @@
 0.0.0.0 zzlong14.cn
 0.0.0.0 zzyy17.top
 0.0.0.0 zzyy18.top
-0.0.0.0 im71za.cn
-0.0.0.0 n5n5s.icu
-0.0.0.0 pjvkhh.xyz
-0.0.0.0 ydolhlwq.xyz
-0.0.0.0 ldvdwlt.xyz
-0.0.0.0 ciimar.icu
-0.0.0.0 myiryc.xyz
-0.0.0.0 awhsaso.cn
-0.0.0.0 cdolhlwq.xyz
-0.0.0.0 xdolhlwq.xyz
 0.0.0.0 zzyy19.top
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
