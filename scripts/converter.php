@@ -70,7 +70,7 @@ $lists = array(
     'UltimateHostsBlacklist1' => 'https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list',
     'UltimateHostsBlacklist2' => 'https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list',
     'urlHaus' => 'https://urlhaus.abuse.ch/downloads/rpz/',
-    'winhelp2002' => 'http://winhelp2002.mvps.org/hosts.txt'
+    'winhelp2002' => 'https://winhelp2002.mvps.org/hosts.txt'
 );
 
 $idn_to_ascii = function_exists('idn_to_ascii');
