@@ -62,6 +62,7 @@ jobs:
           tag=$(date +'day: %j of year %Y %H:%M:%S')
           git config --local user.email "$GIT_EMAIL"
           git config --local user.name "$GIT_NAME"
+          git add .
           git commit -m "Committed new lists $tag" -a
           git pull --rebase
 
