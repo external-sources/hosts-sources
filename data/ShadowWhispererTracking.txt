@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Tue, 06 Feb 2024 12:59:07 +0000
+# Last converted - Tue, 06 Feb 2024 16:58:41 +0000
 #
 
 0.0.0.0 01counter.com
@@ -19084,6 +19084,11 @@
 0.0.0.0 feedback.lntnxt.com
 0.0.0.0 feedback.manychat.com
 0.0.0.0 feedbackmart.com
+0.0.0.0 feedback-pa.clients1.google.com
+0.0.0.0 feedback-pa.clients2.google.com
+0.0.0.0 feedback-pa.clients3.google.com
+0.0.0.0 feedback-pa.clients4.google.com
+0.0.0.0 feedback-pa.clients5.google.com
 0.0.0.0 feedback-pa.clients6.google.com
 0.0.0.0 feedback-pa.googleapis.com
 0.0.0.0 feedback.pornhub.com
@@ -19650,6 +19655,7 @@
 0.0.0.0 futuristicfold.com
 0.0.0.0 futuristicframe.com
 0.0.0.0 fuzzybasketball.com
+0.0.0.0 fuzzyerror.com
 0.0.0.0 fuzzyflavor.com
 0.0.0.0 fuzzyweather.com
 0.0.0.0 fvl1f.pw
