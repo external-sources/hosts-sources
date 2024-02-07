@@ -1,7 +1,7 @@
 # easyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 07 Feb 2024 16:58:27 +0000
+# Last converted - Wed, 07 Feb 2024 20:58:21 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -1231,6 +1231,7 @@
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
 0.0.0.0 d1f0tbk1v3e25u.cloudfront.net
 0.0.0.0 d1gp8joe0evc8s.cloudfront.net
+0.0.0.0 d1hyarjnwqrenh.cloudfront.net
 0.0.0.0 d1k8sb4xbepqao.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1n00d49gkbray.cloudfront.net
