@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 07 Feb 2024 08:58:36 +0000
+# Last converted - Wed, 07 Feb 2024 12:58:51 +0000
 #
 
 0.0.0.0 stethuth.xyz
@@ -35936,6 +35936,7 @@
 0.0.0.0 gripdownload.co
 0.0.0.0 groovinads.com
 0.0.0.0 growadvertising.com
+0.0.0.0 grv.media
 0.0.0.0 grvmedia.com
 0.0.0.0 guitaralliance.com
 0.0.0.0 gumgum.com
@@ -38720,6 +38721,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 stats.getaim.org
 0.0.0.0 analytics-cf.bigcrunch.com
 0.0.0.0 trackerapi.ebxcdn.com
 0.0.0.0 tongjiniao.com
@@ -42097,6 +42099,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 affex.org
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 tcx-beacon.docs.aws.dev
 0.0.0.0 analytics.githubassets.com
 0.0.0.0 hkrpg-log-upload.mihoyo.com
 0.0.0.0 reporting-api.gannettinnovation.com
@@ -57069,6 +57072,9 @@
 0.0.0.0 xvilxdv.cn
 0.0.0.0 atwqyor.cn
 0.0.0.0 clkdbbvy.xyz
+0.0.0.0 gmxysb.icu
+0.0.0.0 glittersh.com
+0.0.0.0 xlkdbbvy.xyz
 0.0.0.0 zzyy19.top
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
