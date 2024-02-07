@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 07 Feb 2024 04:58:11 +0000
+# Last converted - Wed, 07 Feb 2024 08:58:36 +0000
 #
 
 0.0.0.0 stethuth.xyz
@@ -57059,6 +57059,16 @@
 0.0.0.0 zzlong14.cn
 0.0.0.0 zzyy17.top
 0.0.0.0 zzyy18.top
+0.0.0.0 0j91h.cyou
+0.0.0.0 xtxidx.xyz
+0.0.0.0 ylkdbbvy.xyz
+0.0.0.0 xvzvqoq.xyz
+0.0.0.0 p2ijd.space
+0.0.0.0 25ktra.cn
+0.0.0.0 ykgfcs.xyz
+0.0.0.0 xvilxdv.cn
+0.0.0.0 atwqyor.cn
+0.0.0.0 clkdbbvy.xyz
 0.0.0.0 zzyy19.top
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
@@ -60039,6 +60049,7 @@
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
 0.0.0.0 27gh.cc
+0.0.0.0 wenxue.youzhicn.com
 0.0.0.0 003store.com
 0.0.0.0 0941.org
 0.0.0.0 1.07swz.com
