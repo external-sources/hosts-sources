@@ -1,9 +1,13 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 07 Feb 2024 16:57:59 +0000
+# Last converted - Wed, 07 Feb 2024 20:57:55 +0000
 #
 
+0.0.0.0 bqeuffmdobmpoe.xyz
+0.0.0.0 njsbccyenjyq.com
+0.0.0.0 vowpairmax.live
+0.0.0.0 slownansuch.info
 0.0.0.0 stethuth.xyz
 0.0.0.0 ktxvbcbfs.xyz
 0.0.0.0 ro.ondatrakrafts.com
@@ -23626,6 +23630,7 @@
 0.0.0.0 pavymoieter.com
 0.0.0.0 pawderstream.com
 0.0.0.0 pawheatyous.com
+0.0.0.0 pawkilycurvous.com
 0.0.0.0 pawkychantey.com
 0.0.0.0 pawmhkhbp.com
 0.0.0.0 pawnoutletprimary.com
@@ -28283,6 +28288,7 @@
 0.0.0.0 shutdownpious.com
 0.0.0.0 shutesaroph.com
 0.0.0.0 shuttleprivileged.com
+0.0.0.0 shutunga.com
 0.0.0.0 shweflix.com
 0.0.0.0 shwomettleye.com
 0.0.0.0 shydastidu.com
@@ -30004,6 +30010,7 @@
 0.0.0.0 tarokbien.com
 0.0.0.0 tarriesthetine.digital
 0.0.0.0 tarrilyathenee.com
+0.0.0.0 tarsiusbaconic.com
 0.0.0.0 tartanaanvils.com
 0.0.0.0 tartarsharped.com
 0.0.0.0 tartator.com
@@ -30107,6 +30114,7 @@
 0.0.0.0 techreviewtech.com
 0.0.0.0 tecominchisel.com
 0.0.0.0 tecuil.com
+0.0.0.0 teddedskeich.com
 0.0.0.0 teddynineteenthpreoccupation.com
 0.0.0.0 tedious-weight.pro
 0.0.0.0 tediousdetective.com
@@ -30636,6 +30644,7 @@
 0.0.0.0 tipcartoleron.com
 0.0.0.0 tipcatscarola.com
 0.0.0.0 tipcupids.com
+0.0.0.0 tipmanperdure.com
 0.0.0.0 tiprd.xyz
 0.0.0.0 tipsembankment.com
 0.0.0.0 tiptoesstbd.com
@@ -46378,6 +46387,7 @@
 0.0.0.0 solution911.com
 0.0.0.0 templates.buscape.com
 0.0.0.0 yestorrents.org
+0.0.0.0 usesentry.com
 0.0.0.0 fzgrpqktmq.com
 0.0.0.0 igbfwa.com
 0.0.0.0 ippstuet.com
@@ -55338,6 +55348,7 @@
 0.0.0.0 0efghij.com
 0.0.0.0 0ghijkl.com
 0.0.0.0 0hq6k.site
+0.0.0.0 0j91h.cyou
 0.0.0.0 0mnopqr.com
 0.0.0.0 0yzabcd.com
 0.0.0.0 1227a.xyz
@@ -55367,6 +55378,7 @@
 0.0.0.0 20szp.com
 0.0.0.0 222aa333bb.com
 0.0.0.0 24w0p.com
+0.0.0.0 25ktra.cn
 0.0.0.0 273knt.xyz
 0.0.0.0 2c0a5.xyz
 0.0.0.0 2hpg0.fun
@@ -55487,6 +55499,7 @@
 0.0.0.0 athecsz.cn
 0.0.0.0 atlggfy.cn
 0.0.0.0 atmdew.xyz
+0.0.0.0 atwqyor.cn
 0.0.0.0 audgiqb.cn
 0.0.0.0 aueajkn.cn
 0.0.0.0 auerkbo.cn
@@ -55631,6 +55644,7 @@
 0.0.0.0 ckmbig.xyz
 0.0.0.0 clcmdie.com
 0.0.0.0 clgvlvbc.xyz
+0.0.0.0 clkdbbvy.xyz
 0.0.0.0 clrjnhxi.xyz
 0.0.0.0 clypzbzs.xyz
 0.0.0.0 cmdcdacq.xyz
@@ -55847,6 +55861,7 @@
 0.0.0.0 gizlnr.com
 0.0.0.0 gkktjf.top
 0.0.0.0 gkswas.xyz
+0.0.0.0 glittersh.com
 0.0.0.0 glruh.site
 0.0.0.0 gmgbmzz.xyz
 0.0.0.0 gmx10.top
@@ -55886,6 +55901,7 @@
 0.0.0.0 gmx46.top
 0.0.0.0 gmx47.top
 0.0.0.0 gmx48.top
+0.0.0.0 gmxysb.icu
 0.0.0.0 gn01.top
 0.0.0.0 gnuoipb.cn
 0.0.0.0 gqleov.icu
@@ -56403,6 +56419,7 @@
 0.0.0.0 oyotqp.icu
 0.0.0.0 oyugspe.cn
 0.0.0.0 ozolei.xyz
+0.0.0.0 p2ijd.space
 0.0.0.0 p5kzev.com
 0.0.0.0 pajhvd.xyz
 0.0.0.0 pdhjnz.xyz
@@ -56899,6 +56916,7 @@
 0.0.0.0 xlam.cn
 0.0.0.0 xlca666.site
 0.0.0.0 xlgvlvbc.xyz
+0.0.0.0 xlkdbbvy.xyz
 0.0.0.0 xlnvvbk.xyz
 0.0.0.0 xlrjnhxi.xyz
 0.0.0.0 xltmjevd.xyz
@@ -56930,13 +56948,16 @@
 0.0.0.0 xtcxflak.xyz
 0.0.0.0 xtnwxhjv.xyz
 0.0.0.0 xtvrtrya.xyz
+0.0.0.0 xtxidx.xyz
 0.0.0.0 xucyufv.icu
 0.0.0.0 xuoizbtl.xyz
 0.0.0.0 xuyanlong1.cn
 0.0.0.0 xvbnrh.xyz
+0.0.0.0 xvilxdv.cn
 0.0.0.0 xvorpqz.cn
 0.0.0.0 xvpqrydt.xyz
 0.0.0.0 xvzfyra.xyz
+0.0.0.0 xvzvqoq.xyz
 0.0.0.0 xwlnhw.com
 0.0.0.0 xxfphsg.cn
 0.0.0.0 xxkswdf.icu
@@ -56975,10 +56996,12 @@
 0.0.0.0 yivkzvog.xyz
 0.0.0.0 yjbdyjnctgj.top
 0.0.0.0 yjxzvqy.xyz
+0.0.0.0 ykgfcs.xyz
 0.0.0.0 ykujch.icu
 0.0.0.0 ykxafzdu.xyz
 0.0.0.0 yldfkfb.cn
 0.0.0.0 ylgvlvbc.xyz
+0.0.0.0 ylkdbbvy.xyz
 0.0.0.0 ylrjnhxi.xyz
 0.0.0.0 ylypzbzs.xyz
 0.0.0.0 ymmiyun.com
@@ -57062,19 +57085,6 @@
 0.0.0.0 zzlong14.cn
 0.0.0.0 zzyy17.top
 0.0.0.0 zzyy18.top
-0.0.0.0 0j91h.cyou
-0.0.0.0 xtxidx.xyz
-0.0.0.0 ylkdbbvy.xyz
-0.0.0.0 xvzvqoq.xyz
-0.0.0.0 p2ijd.space
-0.0.0.0 25ktra.cn
-0.0.0.0 ykgfcs.xyz
-0.0.0.0 xvilxdv.cn
-0.0.0.0 atwqyor.cn
-0.0.0.0 clkdbbvy.xyz
-0.0.0.0 gmxysb.icu
-0.0.0.0 glittersh.com
-0.0.0.0 xlkdbbvy.xyz
 0.0.0.0 zzyy19.top
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
@@ -60055,7 +60065,6 @@
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
 0.0.0.0 27gh.cc
-0.0.0.0 wenxue.youzhicn.com
 0.0.0.0 003store.com
 0.0.0.0 0941.org
 0.0.0.0 1.07swz.com
@@ -60732,6 +60741,7 @@
 0.0.0.0 wap1.laogu.wang
 0.0.0.0 wenhua.jiaoshou.com
 0.0.0.0 wenxue.weimeifan.net
+0.0.0.0 wenxue.youzhicn.com
 0.0.0.0 whfpbc.99.com.cn
 0.0.0.0 wj.jiancai365.cn
 0.0.0.0 wm.mipcdn.com
