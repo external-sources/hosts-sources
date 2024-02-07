@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 06 Feb 2024 20:57:52 +0000
+# Last converted - Wed, 07 Feb 2024 01:36:55 +0000
 #
 
 0.0.0.0 stethuth.xyz
@@ -8536,6 +8536,7 @@
 0.0.0.0 conventforgotten.com
 0.0.0.0 conventionalrestaurant.com
 0.0.0.0 convers.link
+0.0.0.0 convertedhorace.com
 0.0.0.0 conveysvelure.life
 0.0.0.0 convincedtrick.com
 0.0.0.0 convrse.media
@@ -18311,6 +18312,7 @@
 0.0.0.0 kshzlyvbaaa.com
 0.0.0.0 ksnbiepnvjdi.com
 0.0.0.0 kssvsjfhxpzwfd.com
+0.0.0.0 kstjqjuaw.xyz
 0.0.0.0 kstvhknmhfppbf.com
 0.0.0.0 ksuoodqeiuupey.com
 0.0.0.0 ksurpiwdayc.com
@@ -29113,6 +29115,7 @@
 0.0.0.0 srqfutavhy.com
 0.0.0.0 srrmpfstbh.com
 0.0.0.0 srshqnrmqs.com
+0.0.0.0 srsotqdgln.com
 0.0.0.0 srtlyye.com
 0.0.0.0 srumifuroqkuoi.com
 0.0.0.0 sruzefwboxu.com
@@ -34267,6 +34270,7 @@
 0.0.0.0 xiqougw.com
 0.0.0.0 xiryrnrz.com
 0.0.0.0 xissidearm.com
+0.0.0.0 xitesa.uno
 0.0.0.0 xitwpifbihsxpj.com
 0.0.0.0 xivmviuynlt.com
 0.0.0.0 xjakcitm.com
