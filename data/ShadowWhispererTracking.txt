@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 07 Feb 2024 12:59:30 +0000
+# Last converted - Wed, 07 Feb 2024 16:58:37 +0000
 #
 
 0.0.0.0 01counter.com
@@ -25697,6 +25697,7 @@
 0.0.0.0 keap.com
 0.0.0.0 keen.io
 0.0.0.0 kemok.io
+0.0.0.0 kendall.ai
 0.0.0.0 kennethcoleemail.com
 0.0.0.0 kentgroupltd.com
 0.0.0.0 kepleranalytics.com
