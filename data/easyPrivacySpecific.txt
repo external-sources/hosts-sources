@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 07 Feb 2024 12:59:20 +0000
+# Last converted - Wed, 07 Feb 2024 16:58:27 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -376,6 +376,7 @@
 0.0.0.0 r.bbci.co.uk
 0.0.0.0 rankhit.china.com
 0.0.0.0 ras.yahoo.com
+0.0.0.0 react-admin-telemetry.marmelab.com
 0.0.0.0 rec.banggood.com
 0.0.0.0 relay.fiverr.com
 0.0.0.0 reports.tunein.com

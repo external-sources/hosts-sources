@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 07 Feb 2024 12:59:28 +0000
+# Last converted - Wed, 07 Feb 2024 16:58:35 +0000
 #
 
 0.0.0.0 00px.net
@@ -382,6 +382,7 @@
 0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 0.0.0.0 a3.zdg.de
 0.0.0.0 a47b.com
+0.0.0.0 a.480bbdf9664629877bc67d2094ca011cc759f779887c3337e8ae8bfd.com
 0.0.0.0 a4alticeadvertising.com
 0.0.0.0 a.4b1b5677193b53828020053ae4a0c9d2dec12ef98fe68dc0f880d08c.com
 0.0.0.0 a4bbd.com
@@ -505,6 +506,7 @@
 0.0.0.0 abw.fraza.ua
 0.0.0.0 abyamaskor.com
 0.0.0.0 abyss.sk
+0.0.0.0 a.c5bbb6d791bda0b2587d212ce345a027fab31c67388fa54079c33307.com
 0.0.0.0 acacdn.com
 0.0.0.0 acadot.com
 0.0.0.0 ac-advertising.com

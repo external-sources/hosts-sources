@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Wed, 07 Feb 2024 12:59:32 +0000
+# Last converted - Wed, 07 Feb 2024 16:58:38 +0000
 #
 
 0.0.0.0 010.at
@@ -51,6 +51,7 @@
 0.0.0.0 20.dk
 0.0.0.0 222.at
 0.0.0.0 233.be
+0.0.0.0 247superhost.com
 0.0.0.0 256.so
 0.0.0.0 2bio.link
 0.0.0.0 2h.ae
@@ -127,6 +128,7 @@
 0.0.0.0 9-16.me
 0.0.0.0 925.seiu.org
 0.0.0.0 999.sh
+0.0.0.0 9jagistme.com.ng
 0.0.0.0 9k.gg
 0.0.0.0 9oz.com
 0.0.0.0 9u9.de
@@ -251,6 +253,7 @@
 0.0.0.0 azikk.com
 0.0.0.0 azipurl.app
 0.0.0.0 azipurl.com
+0.0.0.0 azx.az
 0.0.0.0 b0.ro
 0.0.0.0 b1url.com
 0.0.0.0 b22.in
@@ -351,6 +354,7 @@
 0.0.0.0 brendan.fyi
 0.0.0.0 breverie.app
 0.0.0.0 brisktopia.com
+0.0.0.0 brst.link
 0.0.0.0 bslm.me
 0.0.0.0 bst.gg
 0.0.0.0 bstnd.in
@@ -707,6 +711,7 @@
 0.0.0.0 hbs.me
 0.0.0.0 hbtl.co
 0.0.0.0 hedonpisansidiki.com
+0.0.0.0 hero.link
 0.0.0.0 hgs.xyz
 0.0.0.0 hhbw.io
 0.0.0.0 hide.link
@@ -1716,6 +1721,7 @@
 0.0.0.0 ual.fyi
 0.0.0.0 ucal.us
 0.0.0.0 ucblib.link
+0.0.0.0 ufai.app
 0.0.0.0 uhishado.com
 0.0.0.0 uich.cc
 0.0.0.0 ujootchu.net
@@ -1882,6 +1888,7 @@
 0.0.0.0 wfryer.me
 0.0.0.0 whts.cc
 0.0.0.0 wig.ht
+0.0.0.0 wilksom.live
 0.0.0.0 win7.life
 0.0.0.0 winlynk.com
 0.0.0.0 wipp.me
