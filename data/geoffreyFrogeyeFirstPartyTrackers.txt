@@ -1,7 +1,7 @@
 # geoffreyFrogeyeFirstPartyTrackers
 #
 # Converted from - https://hostfiles.frogeye.fr/firstparty-trackers.txt
-# Last converted - Wed, 07 Feb 2024 20:58:23 +0000
+# Last converted - Thu, 08 Feb 2024 01:37:29 +0000
 #
 
 0.0.0.0 101230059950694.wt-eu02.net
@@ -3939,7 +3939,6 @@
 0.0.0.0 greenweez.eulerian.net
 0.0.0.0 greenweez-uk.eulerian.net
 0.0.0.0 greetz01.wt-eu02.net
-0.0.0.0 grid.bidswitch.net
 0.0.0.0 groupe-fsc-com.eulerian.net
 0.0.0.0 groupevents.sixflags.com
 0.0.0.0 groupsales.sixflags.com
