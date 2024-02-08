@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 07 Feb 2024 20:57:55 +0000
+# Last converted - Thu, 08 Feb 2024 01:37:00 +0000
 #
 
 0.0.0.0 bqeuffmdobmpoe.xyz
@@ -9314,6 +9314,7 @@
 0.0.0.0 dauptoawhi.com
 0.0.0.0 dausoofo.net
 0.0.0.0 dautegoa.xyz
+0.0.0.0 davctinijon.com
 0.0.0.0 davjdaauvlp.com
 0.0.0.0 daweneath.com
 0.0.0.0 dawirax.com
@@ -17574,6 +17575,7 @@
 0.0.0.0 jsfeedadsget.com
 0.0.0.0 jsfrfeuubna.com
 0.0.0.0 jsftfmegwcyhsed.com
+0.0.0.0 jsftzha.com
 0.0.0.0 jsfuz.com
 0.0.0.0 jsjocrwmcg.com
 0.0.0.0 jsmentry.com
@@ -29563,6 +29565,7 @@
 0.0.0.0 suctionspelts.com
 0.0.0.0 sudorwauve.com
 0.0.0.0 sudsguidon.com
+0.0.0.0 sudvclh.com
 0.0.0.0 suescollum.com
 0.0.0.0 sufeismmitered.digital
 0.0.0.0 suffertreasureapproval.com
@@ -36621,6 +36624,7 @@
 0.0.0.0 get.thisisvegas.com
 0.0.0.0 gfxa.sheetmusicplus.com
 0.0.0.0 gg.caixin.com
+0.0.0.0 googleads.github.io
 0.0.0.0 hb.yahoo.net
 0.0.0.0 hbid.ams3.cdn.digitaloceanspaces.com
 0.0.0.0 hotwire-widget.dailywire.com
@@ -45536,6 +45540,7 @@
 0.0.0.0 d1af033869koo7.cloudfront.net
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
 0.0.0.0 d1f0tbk1v3e25u.cloudfront.net
+0.0.0.0 d1hyarjnwqrenh.cloudfront.net
 0.0.0.0 d1k8sb4xbepqao.cloudfront.net
 0.0.0.0 d1qnmu4nrib73p.cloudfront.net
 0.0.0.0 d1r2sy6oc0ariq.cloudfront.net

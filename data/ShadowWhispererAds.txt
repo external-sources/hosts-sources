@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 07 Feb 2024 20:58:29 +0000
+# Last converted - Thu, 08 Feb 2024 01:38:05 +0000
 #
 
 0.0.0.0 00px.net
@@ -17054,6 +17054,7 @@
 0.0.0.0 xpromo-cdn.pikpok.com
 0.0.0.0 xpromo.froo.com
 0.0.0.0 xpromo.frooition.com
+0.0.0.0 xpromo.g5e.com
 0.0.0.0 xpromo.pikpok.com
 0.0.0.0 xptou.com
 0.0.0.0 xpuqrn.com
