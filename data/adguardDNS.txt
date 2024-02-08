@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 08 Feb 2024 04:58:24 +0000
+# Last converted - Thu, 08 Feb 2024 08:58:04 +0000
 #
 
 0.0.0.0 bqeuffmdobmpoe.xyz
@@ -29204,6 +29204,7 @@
 0.0.0.0 startd0wnload22x.com
 0.0.0.0 startlemanipulativedamaging.com
 0.0.0.0 startpagea.com
+0.0.0.0 startperfectsolutions.com
 0.0.0.0 starvardsee.xyz
 0.0.0.0 starvationdefence.com
 0.0.0.0 starvegingerwaist.com
@@ -57090,6 +57091,18 @@
 0.0.0.0 zzlong14.cn
 0.0.0.0 zzyy17.top
 0.0.0.0 zzyy18.top
+0.0.0.0 ydhfvrug.xyz
+0.0.0.0 dswcrlf.cn
+0.0.0.0 ofdnkro.xyz
+0.0.0.0 q6gub.website
+0.0.0.0 vwmjkl.icu
+0.0.0.0 kjeqga.xyz
+0.0.0.0 fdhnsr56.shop
+0.0.0.0 wecfgy36.shop
+0.0.0.0 xdzjbn.xyz
+0.0.0.0 bcttodv.cn
+0.0.0.0 cdhfvrug.xyz
+0.0.0.0 bbtta91.shop
 0.0.0.0 zzyy19.top
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
