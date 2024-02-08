@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Thu, 08 Feb 2024 16:58:32 +0000
+# Last converted - Thu, 08 Feb 2024 20:58:52 +0000
 #
 
 0.0.0.0 007-dvd.com
@@ -2691,6 +2691,7 @@
 0.0.0.0 concessio.shop
 0.0.0.0 conchovalleynews.com
 0.0.0.0 concretechemsonline.com
+0.0.0.0 concreteh.com
 0.0.0.0 condensem.com
 0.0.0.0 confidentiak.com
 0.0.0.0 confrontk.com
@@ -6379,6 +6380,7 @@
 0.0.0.0 leaningoakfrenchies.com
 0.0.0.0 learnedgene.com
 0.0.0.0 leatherstoreworld.com
+0.0.0.0 lebedyk.info
 0.0.0.0 lebrockcavaliers.com
 0.0.0.0 lecoindesinfideles.com
 0.0.0.0 ledchics.com
@@ -7694,6 +7696,7 @@
 0.0.0.0 ngangsishorthairkittens.com
 0.0.0.0 ngoultralogistics.com
 0.0.0.0 ngyenmbofarm.com
+0.0.0.0 nhadatcantho.top
 0.0.0.0 nhbusinessdaily.com
 0.0.0.0 nibaragdollhome.com
 0.0.0.0 nicefeaturing.com

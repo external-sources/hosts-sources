@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 08 Feb 2024 16:58:21 +0000
+# Last converted - Thu, 08 Feb 2024 20:58:39 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -246,6 +246,7 @@
 0.0.0.0 i.pokernews.com
 0.0.0.0 iam-rum-intake.datadoghq.com
 0.0.0.0 iedc.fitbit.com
+0.0.0.0 iguazu.doordash.com
 0.0.0.0 ih.newegg.com
 0.0.0.0 indmetric.rediff.com
 0.0.0.0 ingest.make.rvohealth.com
