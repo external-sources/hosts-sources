@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 08 Feb 2024 01:37:00 +0000
+# Last converted - Thu, 08 Feb 2024 04:58:24 +0000
 #
 
 0.0.0.0 bqeuffmdobmpoe.xyz
