@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 08 Feb 2024 16:57:53 +0000
+# Last converted - Thu, 08 Feb 2024 20:58:07 +0000
 #
 
+0.0.0.0 lfkxjcrlrrar.com
 0.0.0.0 feetdonsub.live
 0.0.0.0 whimsicalcoat.com
 0.0.0.0 cylindrical-form.com
@@ -18150,6 +18151,7 @@
 0.0.0.0 kndaspiratioty.org
 0.0.0.0 kndvqgmfwrdyf.com
 0.0.0.0 kneeansweras.com
+0.0.0.0 kneeletromero.com
 0.0.0.0 kneescountdownenforcement.com
 0.0.0.0 kneesettingflashing.com
 0.0.0.0 knewwholesomecharming.com
@@ -46398,6 +46400,7 @@
 0.0.0.0 solution911.com
 0.0.0.0 templates.buscape.com
 0.0.0.0 yestorrents.org
+0.0.0.0 proppellerads.ru
 0.0.0.0 usesentry.com
 0.0.0.0 fzgrpqktmq.com
 0.0.0.0 igbfwa.com
@@ -55534,11 +55537,13 @@
 0.0.0.0 bbccf12.xyz
 0.0.0.0 bbfnrn.xyz
 0.0.0.0 bbrnpj.xyz
+0.0.0.0 bbtta91.shop
 0.0.0.0 bbttf26.shop
 0.0.0.0 bbyfsfo.cn
 0.0.0.0 bcovazp.icu
 0.0.0.0 bcqnbge.cn
 0.0.0.0 bcthd12.shop
+0.0.0.0 bcttodv.cn
 0.0.0.0 bctxtl.xyz
 0.0.0.0 bd9wv.icu
 0.0.0.0 bdjdpyrt.xyz
@@ -55632,6 +55637,7 @@
 0.0.0.0 cbttnmo.xyz
 0.0.0.0 cbyhoe.xyz
 0.0.0.0 ccwxma.xyz
+0.0.0.0 cdhfvrug.xyz
 0.0.0.0 cdolhlwq.xyz
 0.0.0.0 cdsa2.icu
 0.0.0.0 ceiuip.icu
@@ -55737,6 +55743,7 @@
 0.0.0.0 dsbudkwq.xyz
 0.0.0.0 dskjbvzvs.com
 0.0.0.0 dskjhs.com
+0.0.0.0 dswcrlf.cn
 0.0.0.0 dugapiece.com
 0.0.0.0 dumeia.cn
 0.0.0.0 dunrnd.com
@@ -55800,6 +55807,7 @@
 0.0.0.0 fbvskv3.com
 0.0.0.0 fcgmoas.cn
 0.0.0.0 fcgxidqwcx.xyz
+0.0.0.0 fdhnsr56.shop
 0.0.0.0 feakio.top
 0.0.0.0 fehrda.xyz
 0.0.0.0 feijied.xyz
@@ -56123,6 +56131,7 @@
 0.0.0.0 kjacgk.xyz
 0.0.0.0 kjappzvz.xyz
 0.0.0.0 kjdbcjkmc.com
+0.0.0.0 kjeqga.xyz
 0.0.0.0 kjjjusb.xyz
 0.0.0.0 kjrspnbf.xyz
 0.0.0.0 kkbbjtfp.xyz
@@ -56143,6 +56152,7 @@
 0.0.0.0 knhmgn.com
 0.0.0.0 knuaxfv.cn
 0.0.0.0 kogtrmjz.xyz
+0.0.0.0 komvkup.cn
 0.0.0.0 koqsxdpx.xyz
 0.0.0.0 koyuod.xyz
 0.0.0.0 kozhyf.icu
@@ -56307,6 +56317,7 @@
 0.0.0.0 mpyerxzn.xyz
 0.0.0.0 mqjqripb.xyz
 0.0.0.0 mqrupjsm.xyz
+0.0.0.0 mqxnid.cn
 0.0.0.0 mqznjujv.xyz
 0.0.0.0 mross044.com
 0.0.0.0 mrs30w.com
@@ -56397,6 +56408,7 @@
 0.0.0.0 oe3.top
 0.0.0.0 oehcxmhk.xyz
 0.0.0.0 oektiu.xyz
+0.0.0.0 ofdnkro.xyz
 0.0.0.0 ogmjhve.cn
 0.0.0.0 ogouawc.cn
 0.0.0.0 ogxstqna.xyz
@@ -56472,9 +56484,11 @@
 0.0.0.0 pvpdbth.xyz
 0.0.0.0 pxxnejx.xyz
 0.0.0.0 pzcogpj.icu
+0.0.0.0 pzpivx.xyz
 0.0.0.0 pztjlr.xyz
 0.0.0.0 pzwjonv.icu
 0.0.0.0 q4v3c.site
+0.0.0.0 q6gub.website
 0.0.0.0 qauksl.icu
 0.0.0.0 qbcmws.xyz
 0.0.0.0 qbhjokk.xyz
@@ -56836,6 +56850,7 @@
 0.0.0.0 vtnmxx.xyz
 0.0.0.0 vttqld.xyz
 0.0.0.0 vvlhrz.xyz
+0.0.0.0 vwmjkl.icu
 0.0.0.0 vwsgmf.icu
 0.0.0.0 vxdpmxw.xyz
 0.0.0.0 vyriglq.cn
@@ -56849,6 +56864,7 @@
 0.0.0.0 wdadad.cn
 0.0.0.0 wdakda.cn
 0.0.0.0 wdcigo.xyz
+0.0.0.0 wecfgy36.shop
 0.0.0.0 wecklrb.cn
 0.0.0.0 werssf.com
 0.0.0.0 wewbnso.cn
@@ -56896,9 +56912,11 @@
 0.0.0.0 xcholvbc.xyz
 0.0.0.0 xcqbbcqpl.xyz
 0.0.0.0 xdfdqce.xyz
+0.0.0.0 xdhfvrug.xyz
 0.0.0.0 xdjdpyrt.xyz
 0.0.0.0 xdolhlwq.xyz
 0.0.0.0 xdsahkln.xyz
+0.0.0.0 xdzjbn.xyz
 0.0.0.0 xeazoj.icu
 0.0.0.0 xebohjhh.xyz
 0.0.0.0 xekmhvbb.xyz
@@ -56990,6 +57008,7 @@
 0.0.0.0 ycgkol.icu
 0.0.0.0 ycmgeb.icu
 0.0.0.0 yddbysa.xyz
+0.0.0.0 ydhfvrug.xyz
 0.0.0.0 ydolhlwq.xyz
 0.0.0.0 ydv7k.cyou
 0.0.0.0 yepgdita.xyz
@@ -57049,6 +57068,7 @@
 0.0.0.0 z1wfe.top
 0.0.0.0 z3p9f.xyz
 0.0.0.0 z91f4.top
+0.0.0.0 zacveh.com
 0.0.0.0 zattdf.xyz
 0.0.0.0 zbxtcwi.xyz
 0.0.0.0 zchvyet.cn
@@ -57096,22 +57116,6 @@
 0.0.0.0 zzlong14.cn
 0.0.0.0 zzyy17.top
 0.0.0.0 zzyy18.top
-0.0.0.0 ydhfvrug.xyz
-0.0.0.0 dswcrlf.cn
-0.0.0.0 ofdnkro.xyz
-0.0.0.0 q6gub.website
-0.0.0.0 vwmjkl.icu
-0.0.0.0 kjeqga.xyz
-0.0.0.0 fdhnsr56.shop
-0.0.0.0 wecfgy36.shop
-0.0.0.0 xdzjbn.xyz
-0.0.0.0 bcttodv.cn
-0.0.0.0 cdhfvrug.xyz
-0.0.0.0 bbtta91.shop
-0.0.0.0 pzpivx.xyz
-0.0.0.0 komvkup.cn
-0.0.0.0 xdhfvrug.xyz
-0.0.0.0 zacveh.com
 0.0.0.0 zzyy19.top
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
