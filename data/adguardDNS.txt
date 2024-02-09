@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 08 Feb 2024 20:58:07 +0000
+# Last converted - Fri, 09 Feb 2024 01:36:37 +0000
 #
 
 0.0.0.0 lfkxjcrlrrar.com
@@ -2236,6 +2236,7 @@
 0.0.0.0 65mjvw6i1z.com
 0.0.0.0 65vk1fba34.com
 0.0.0.0 660cba7db1.com
+0.0.0.0 665166e5a9.com
 0.0.0.0 669fb3128e4b4.com
 0.0.0.0 6775afc540.com
 0.0.0.0 68069795d1.com
@@ -5053,6 +5054,7 @@
 0.0.0.0 avprotect.store
 0.0.0.0 avqhelxlb.com
 0.0.0.0 avrqaijwdqk.xyz
+0.0.0.0 avrqikbubjin.com
 0.0.0.0 avthelkp.net
 0.0.0.0 avtklwruejfr.com
 0.0.0.0 avtvcuofgz.com
@@ -5198,6 +5200,7 @@
 0.0.0.0 azoaltou.com
 0.0.0.0 azoogleads.com
 0.0.0.0 azorbe.com
+0.0.0.0 azotvby.com
 0.0.0.0 azpresearch.club
 0.0.0.0 azskk.com
 0.0.0.0 aztecash.com
@@ -6514,6 +6517,7 @@
 0.0.0.0 bowlsolicitor.com
 0.0.0.0 bowmoolog.com
 0.0.0.0 bowtellwhincow.cfd
+0.0.0.0 boxernightdilution.com
 0.0.0.0 boxhaulchrist.guru
 0.0.0.0 boxlikepavers.com
 0.0.0.0 boxlivegarden.com
@@ -14710,6 +14714,7 @@
 0.0.0.0 guyabe.xyz
 0.0.0.0 gvbgvrjmap.com
 0.0.0.0 gvcgmvblssh.com
+0.0.0.0 gvfkzyq.com
 0.0.0.0 gvhmoascwa.xyz
 0.0.0.0 gvkmifcvr.com
 0.0.0.0 gvkqpogjqvni.com
@@ -14993,6 +14998,7 @@
 0.0.0.0 haviouseulom.club
 0.0.0.0 havoccasualtypersistent.com
 0.0.0.0 havocsbilaan.com
+0.0.0.0 hawhuxee.com
 0.0.0.0 hawkyeye5ssnd.com
 0.0.0.0 hawsquallgenerate.com
 0.0.0.0 hawsuffer.com
@@ -16257,6 +16263,7 @@
 0.0.0.0 immenselytoken.com
 0.0.0.0 immenseprivilegelibel.com
 0.0.0.0 immersepingcompromise.com
+0.0.0.0 immerseweariness.com
 0.0.0.0 immigrantpavement.com
 0.0.0.0 immigrateskating.com
 0.0.0.0 immigrationspiralprosecution.com
@@ -17114,6 +17121,7 @@
 0.0.0.0 jb7hvckszone.com
 0.0.0.0 jbalrqvennvka.top
 0.0.0.0 jbalrqvennvrl.top
+0.0.0.0 jbirahiifj.com
 0.0.0.0 jbkelaamjanar.top
 0.0.0.0 jbkelaamjawnv.top
 0.0.0.0 jbkmskjeaevkne.xyz
@@ -18953,6 +18961,7 @@
 0.0.0.0 limberkilnman.cam
 0.0.0.0 limeclassycaption.com
 0.0.0.0 liminechests.com
+0.0.0.0 limineshucks.com
 0.0.0.0 limitagesdidjet.site
 0.0.0.0 limitationvolleyballdejected.com
 0.0.0.0 limitbrillianceads.com
@@ -20206,6 +20215,7 @@
 0.0.0.0 messenger-notify.xyz
 0.0.0.0 messengerinternfair.com
 0.0.0.0 messiahspoot.com
+0.0.0.0 messy-concentrate.com
 0.0.0.0 messymeter.com
 0.0.0.0 mestoaxo.net
 0.0.0.0 mestreqa.com
@@ -20612,6 +20622,7 @@
 0.0.0.0 modoro360.com
 0.0.0.0 modtrnxsmf.com
 0.0.0.0 modularmental.com
+0.0.0.0 modulecooper.com
 0.0.0.0 moduledescendantlos.com
 0.0.0.0 modulepush.com
 0.0.0.0 modulohanafi.com
@@ -23615,6 +23626,7 @@
 0.0.0.0 patrondescendantprecursor.com
 0.0.0.0 patronimproveyourselves.com
 0.0.0.0 patroposalun.pro
+0.0.0.0 patsincerelyswing.com
 0.0.0.0 patsyendless.com
 0.0.0.0 pattyheadlong.com
 0.0.0.0 paubaulo.com
@@ -24270,6 +24282,7 @@
 0.0.0.0 pixazza.com
 0.0.0.0 pixelhere.com
 0.0.0.0 pixelplay.pro
+0.0.0.0 pixelspivot.com
 0.0.0.0 pixfuture.net
 0.0.0.0 pixinform.com
 0.0.0.0 pixiv.org
@@ -28698,6 +28711,7 @@
 0.0.0.0 snoddetrude.uno
 0.0.0.0 snodlycaccias.com
 0.0.0.0 snoopundesirable.com
+0.0.0.0 snoopytown.pro
 0.0.0.0 snoreempire.com
 0.0.0.0 snorefamiliarsiege.com
 0.0.0.0 snorkremiss.com
@@ -30306,6 +30320,7 @@
 0.0.0.0 thathatrowthena.com
 0.0.0.0 thathechoxe.com
 0.0.0.0 thatincidentwad.com
+0.0.0.0 thatmonkeybites3.com
 0.0.0.0 thatshab.website
 0.0.0.0 thaucmozsurvey.space
 0.0.0.0 thaudray.com
@@ -36557,6 +36572,7 @@
 0.0.0.0 360playvid.info
 0.0.0.0 a-delivery.rmbl.ws
 0.0.0.0 a.ucoz.net
+0.0.0.0 ad-blocking24.net
 0.0.0.0 ad-serve.b-cdn.net
 0.0.0.0 ad.22betpartners.com
 0.0.0.0 ad.about.co.kr
@@ -57117,6 +57133,8 @@
 0.0.0.0 zzyy17.top
 0.0.0.0 zzyy18.top
 0.0.0.0 zzyy19.top
+0.0.0.0 vu43lh.cn
+0.0.0.0 fnbhxv.xyz
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
 0.0.0.0 027dir.com
