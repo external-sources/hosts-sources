@@ -1,9 +1,11 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 09 Feb 2024 12:58:59 +0000
+# Last converted - Fri, 09 Feb 2024 16:57:47 +0000
 #
 
+0.0.0.0 lhamjcpnpqb.xyz
+0.0.0.0 blowssubplow.com
 0.0.0.0 lalalkamwsz.com
 0.0.0.0 xmegaxvideoxxx.com
 0.0.0.0 singfrthemmnt.com
@@ -2548,6 +2550,7 @@
 0.0.0.0 aabproxytestsdomain.top
 0.0.0.0 aabtestsproxydomain.top
 0.0.0.0 aac585e70c.com
+0.0.0.0 aactxwic.com
 0.0.0.0 aaf26c0e6a.com
 0.0.0.0 aafdcq.com
 0.0.0.0 aagm.link
@@ -3424,6 +3427,7 @@
 0.0.0.0 aesary.com
 0.0.0.0 aesaul.com
 0.0.0.0 aevpinebvmdhih.com
+0.0.0.0 aevspdhb.com
 0.0.0.0 aezgnctgfqn.com
 0.0.0.0 af91c27a8e.com
 0.0.0.0 afahivar.com
@@ -3714,6 +3718,7 @@
 0.0.0.0 airticmonsoa.com
 0.0.0.0 airydeservesannounce.com
 0.0.0.0 aisaipty.xyz
+0.0.0.0 aishaibe.com
 0.0.0.0 aisrvyvstyq.xyz
 0.0.0.0 aistekso.net
 0.0.0.0 aistgsgxvsrywhf.com
@@ -4307,6 +4312,7 @@
 0.0.0.0 anyuazfpjzj.com
 0.0.0.0 anyvzvbmknqew.top
 0.0.0.0 anywaybreeches.com
+0.0.0.0 anywaysreives.com
 0.0.0.0 aoalmfwinbsstec23.com
 0.0.0.0 aofppecbmordq.com
 0.0.0.0 aofzkovajqti.com
@@ -5382,6 +5388,7 @@
 0.0.0.0 bakbdouw.com
 0.0.0.0 bakerbrandy.com
 0.0.0.0 bakeronerousfollowing.com
+0.0.0.0 bakertangiblebehaved.com
 0.0.0.0 bakongojotted.com
 0.0.0.0 baksunjwoa.com
 0.0.0.0 bakteso.ru
@@ -5717,6 +5724,7 @@
 0.0.0.0 behowlcapa.com
 0.0.0.0 beigecombinedsniffing.com
 0.0.0.0 beinri.com
+0.0.0.0 beitandfalloni.com
 0.0.0.0 beiven.pw
 0.0.0.0 bejesustrolly.guru
 0.0.0.0 bejolteonor.com
@@ -7373,6 +7381,7 @@
 0.0.0.0 cb675f778b.com
 0.0.0.0 cb7f35d82c.com
 0.0.0.0 cba-fed-igh.com
+0.0.0.0 cba6182add.com
 0.0.0.0 cbdedibles.site
 0.0.0.0 cbfdzofxzgbgor.com
 0.0.0.0 cbfpiqq.com
@@ -9789,6 +9798,7 @@
 0.0.0.0 dfgbalon.com
 0.0.0.0 dfhajyevxmposa.xyz
 0.0.0.0 dfionytxsva.com
+0.0.0.0 dfkoqeunyv.com
 0.0.0.0 dflewibj.com
 0.0.0.0 dfnetwork.link
 0.0.0.0 dfpstitialtag.com
@@ -10622,6 +10632,7 @@
 0.0.0.0 dubunwiseobjections.com
 0.0.0.0 dubvacasept.com
 0.0.0.0 dubzenom.com
+0.0.0.0 ducallydamar.com
 0.0.0.0 duckiecaesura.com
 0.0.0.0 duckletnervous.uno
 0.0.0.0 ducksintroduce.com
@@ -11001,6 +11012,7 @@
 0.0.0.0 eddffea7e1.com
 0.0.0.0 eddieunamply.com
 0.0.0.0 eddmciqkvq.com
+0.0.0.0 eddmfazptxl.com
 0.0.0.0 edeybivah.com
 0.0.0.0 edgar2al2larngpoer.com
 0.0.0.0 edgbas.com
@@ -12214,6 +12226,7 @@
 0.0.0.0 facilityearlyimminent.com
 0.0.0.0 facilitypestilent.com
 0.0.0.0 fackeyess.com
+0.0.0.0 fackinsismal.com
 0.0.0.0 faclientirethe.xyz
 0.0.0.0 factquicker.com
 0.0.0.0 facyptythu.com
@@ -13504,6 +13517,7 @@
 0.0.0.0 fxqsxxvfgderjdf.com
 0.0.0.0 fxrbsadtui.com
 0.0.0.0 fxroflypm.com
+0.0.0.0 fxrwmhbbxfcpb.com
 0.0.0.0 fxwykuxh.com
 0.0.0.0 fybkhsfntvuyat.com
 0.0.0.0 fydczmk.com
@@ -15254,6 +15268,7 @@
 0.0.0.0 herew-lmq.com
 0.0.0.0 herhomeou.xyz
 0.0.0.0 heritorclysmic.com
+0.0.0.0 herlittleboywhow.info
 0.0.0.0 hermichermicbroadcastinglifting.com
 0.0.0.0 hermichermicfurnished.com
 0.0.0.0 hernialbriefer.com
@@ -16870,6 +16885,7 @@
 0.0.0.0 iqnevmje.com
 0.0.0.0 iqpkee.com
 0.0.0.0 iqtest365.online
+0.0.0.0 iqwfauzxumyk.com
 0.0.0.0 iqxsncsregcxu.xyz
 0.0.0.0 irbout.com
 0.0.0.0 ireced.com
@@ -17854,6 +17870,7 @@
 0.0.0.0 jzeamuow.com
 0.0.0.0 jzeapwlruols.com
 0.0.0.0 jzleekzkrwjll.top
+0.0.0.0 jzokkejmqrbmq.top
 0.0.0.0 jzokkejmqrbyj.top
 0.0.0.0 jzpdjbpusgcbr.com
 0.0.0.0 jzqbyykbrrzvq.top
@@ -18667,6 +18684,7 @@
 0.0.0.0 larundadozily.com
 0.0.0.0 larvpydqmwvt.com
 0.0.0.0 las4srv.com
+0.0.0.0 lascivioushelpfulstool.com
 0.0.0.0 laserdrivepreview.com
 0.0.0.0 lasosignament.com
 0.0.0.0 lasqnpjwuaoiqr.xyz
@@ -23032,6 +23050,7 @@
 0.0.0.0 orchidreducedbleak.com
 0.0.0.0 orcinsjewish.com
 0.0.0.0 orcjagpox.com
+0.0.0.0 ordbzeokdxku.com
 0.0.0.0 ordealsreannoy.top
 0.0.0.0 orderfritter.com
 0.0.0.0 orderlymall.pro
@@ -23456,6 +23475,7 @@
 0.0.0.0 ozooltik.com
 0.0.0.0 ozsoekwgy.com
 0.0.0.0 ozsturgeonafford.com
+0.0.0.0 ozwwawcaxoxh.com
 0.0.0.0 p-analytics.life
 0.0.0.0 p123p.com
 0.0.0.0 p2e9r4n9.stackpathcdn.com
@@ -27672,6 +27692,7 @@
 0.0.0.0 sanggilregard.com
 0.0.0.0 sangogne.com
 0.0.0.0 sanhitaamerce.uno
+0.0.0.0 sanjay44.xyz
 0.0.0.0 sanjibbraggy.uno
 0.0.0.0 sankaudacityrefine.com
 0.0.0.0 sankjerusalemflabbergasted.com
@@ -31748,6 +31769,7 @@
 0.0.0.0 ufoomals.net
 0.0.0.0 ufpcdn.com
 0.0.0.0 ufptkylyfa.com
+0.0.0.0 ufqxgccf.com
 0.0.0.0 ufsbauge.com
 0.0.0.0 ufzanvc.com
 0.0.0.0 ufzqrmflbnlze.com
@@ -33112,6 +33134,7 @@
 0.0.0.0 vudoutch.com
 0.0.0.0 vuftouks.com
 0.0.0.0 vugnubier.com
+0.0.0.0 vuiluaz.xyz
 0.0.0.0 vujriahqyleveh.com
 0.0.0.0 vukpwyvge.com
 0.0.0.0 vulgarmilletappear.com
@@ -33417,6 +33440,7 @@
 0.0.0.0 wcxegvp.com
 0.0.0.0 wcyapvikap.com
 0.0.0.0 wcycotzoxhvapo.com
+0.0.0.0 wczpllwwwjoi.com
 0.0.0.0 wd282endfws.de
 0.0.0.0 wdavrzv.com
 0.0.0.0 wddlydaxtmm.com
@@ -34419,6 +34443,7 @@
 0.0.0.0 xibilitukydteam.info
 0.0.0.0 xidx.org
 0.0.0.0 xigrtoai.com
+0.0.0.0 xiifrwasfouifb.com
 0.0.0.0 xijgedjgg5f55.com
 0.0.0.0 xilbalar.com
 0.0.0.0 xiloncopmat.com
@@ -34678,6 +34703,7 @@
 0.0.0.0 ybcqozfk.com
 0.0.0.0 ybmebpsmpwueo.com
 0.0.0.0 ybmnptiuj.xyz
+0.0.0.0 ybriifs.com
 0.0.0.0 ybs2ffs7v.com
 0.0.0.0 ybuduzpe.com
 0.0.0.0 ybujfcuqya.com
@@ -35223,6 +35249,7 @@
 0.0.0.0 zixuyi.xyz
 0.0.0.0 ziziatramel.uno
 0.0.0.0 zizoxozoox.com
+0.0.0.0 zizulw.org
 0.0.0.0 zjbzzmnnkbjzy.top
 0.0.0.0 zjlbugpawe.com
 0.0.0.0 zjmmkjayjjazy.top
@@ -42263,6 +42290,8 @@
 0.0.0.0 wizaly.com
 0.0.0.0 affex.org
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 noa.yahoo.com
+0.0.0.0 mdstats.info
 0.0.0.0 tcx-beacon.docs.aws.dev
 0.0.0.0 analytics.githubassets.com
 0.0.0.0 hkrpg-log-upload.mihoyo.com
