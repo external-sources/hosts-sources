@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 09 Feb 2024 04:58:13 +0000
+# Last converted - Fri, 09 Feb 2024 08:57:54 +0000
 #
 
 0.0.0.0 lfkxjcrlrrar.com
@@ -57135,6 +57135,18 @@
 0.0.0.0 zzyy19.top
 0.0.0.0 vu43lh.cn
 0.0.0.0 fnbhxv.xyz
+0.0.0.0 aa3e4.cyou
+0.0.0.0 wcd2l.icu
+0.0.0.0 axhfeum.xyz
+0.0.0.0 qxvp6.site
+0.0.0.0 yldxphtg.xyz
+0.0.0.0 blntzf.xyz
+0.0.0.0 wvceki.xyz
+0.0.0.0 zgwvcv.icu
+0.0.0.0 erluankuan.com
+0.0.0.0 88lm04.com
+0.0.0.0 sltbjrf.cn
+0.0.0.0 cldxphtg.xyz
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
 0.0.0.0 027dir.com
