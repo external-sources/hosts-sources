@@ -1,7 +1,7 @@
 # ShadowWhispererChat
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
-# Last converted - Fri, 09 Feb 2024 12:59:44 +0000
+# Last converted - Fri, 09 Feb 2024 16:58:21 +0000
 #
 
 0.0.0.0 1talking.net
@@ -106,6 +106,7 @@
 0.0.0.0 chat.smithville.com
 0.0.0.0 chat.suncorp.com.au
 0.0.0.0 chatsupport.co
+0.0.0.0 chatsvc.getgobot.com
 0.0.0.0 chat.topbet.eu
 0.0.0.0 chat-us.libanswers.com
 0.0.0.0 chat.webdive.de

@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Fri, 09 Feb 2024 12:59:44 +0000
+# Last converted - Fri, 09 Feb 2024 16:58:20 +0000
 #
 
 0.0.0.0 00px.net
@@ -10782,6 +10782,7 @@
 0.0.0.0 khmer24.ws
 0.0.0.0 khmer-media.com
 0.0.0.0 kia.klambt.services
+0.0.0.0 kickcdn.com
 0.0.0.0 kickcharge.com
 0.0.0.0 kidoz.net
 0.0.0.0 kidsafeseal.com
@@ -15181,6 +15182,7 @@
 0.0.0.0 standartnews.eu
 0.0.0.0 stankeviciusmgm.com
 0.0.0.0 stanoadleads.com
+0.0.0.0 starcdnvideo.com
 0.0.0.0 stargamesaffiliate.com
 0.0.0.0 starlingmedia.com
 0.0.0.0 starmedia.ca
