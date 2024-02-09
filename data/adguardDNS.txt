@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 09 Feb 2024 16:57:47 +0000
+# Last converted - Fri, 09 Feb 2024 20:57:56 +0000
 #
 
 0.0.0.0 lhamjcpnpqb.xyz
@@ -16472,6 +16472,7 @@
 0.0.0.0 inclineflaming.com
 0.0.0.0 inclk.com
 0.0.0.0 incloak.com
+0.0.0.0 incloseoverprotective.com
 0.0.0.0 includemodal.com
 0.0.0.0 includeoutgoingangry.com
 0.0.0.0 inclusacharmed.com
@@ -36807,6 +36808,7 @@
 0.0.0.0 hotwire-widget.dailywire.com
 0.0.0.0 inrdeals.com
 0.0.0.0 join.megaphonetv.com
+0.0.0.0 js.manga1001.win
 0.0.0.0 js.mangakl.su
 0.0.0.0 js.mangalove.top
 0.0.0.0 js.phoenixmanga.com
@@ -55611,6 +55613,7 @@
 0.0.0.0 88lajs6.com
 0.0.0.0 88lm02.com
 0.0.0.0 88lm03.com
+0.0.0.0 88lm04.com
 0.0.0.0 89hdn.cn
 0.0.0.0 8d07a.xyz
 0.0.0.0 8ovgk.online
@@ -55629,6 +55632,7 @@
 0.0.0.0 9t51o.icu
 0.0.0.0 a4bj6.xyz
 0.0.0.0 a99hz.space
+0.0.0.0 aa3e4.cyou
 0.0.0.0 aa889988aa.com
 0.0.0.0 aadmei.xyz
 0.0.0.0 aaiwuq.xyz
@@ -55698,6 +55702,7 @@
 0.0.0.0 awhsaso.cn
 0.0.0.0 awzddev.cn
 0.0.0.0 ax7fv.space
+0.0.0.0 axhfeum.xyz
 0.0.0.0 aymwiq.xyz
 0.0.0.0 azdiqsb.cn
 0.0.0.0 bachou.cn
@@ -55748,6 +55753,7 @@
 0.0.0.0 bjtgds.xyz
 0.0.0.0 bkbbjtfp.xyz
 0.0.0.0 bkxuprh.cn
+0.0.0.0 blntzf.xyz
 0.0.0.0 blthwbe.xyz
 0.0.0.0 bltmjevd.xyz
 0.0.0.0 bmatgg18.xyz
@@ -55830,6 +55836,7 @@
 0.0.0.0 cklithuw.xyz
 0.0.0.0 ckmbig.xyz
 0.0.0.0 clcmdie.com
+0.0.0.0 cldxphtg.xyz
 0.0.0.0 clgvlvbc.xyz
 0.0.0.0 clkdbbvy.xyz
 0.0.0.0 clrjnhxi.xyz
@@ -55956,6 +55963,7 @@
 0.0.0.0 epxfjcb.xyz
 0.0.0.0 eqcwpeo.cn
 0.0.0.0 eraygc.xyz
+0.0.0.0 erluankuan.com
 0.0.0.0 erutxdk.cn
 0.0.0.0 eshbqn.icu
 0.0.0.0 esnysd.icu
@@ -56000,6 +56008,7 @@
 0.0.0.0 fm44f.space
 0.0.0.0 fmvbyji.cn
 0.0.0.0 fmzifaqi.xyz
+0.0.0.0 fnbhxv.xyz
 0.0.0.0 foizico.cn
 0.0.0.0 fol9v.xyz
 0.0.0.0 fopksr.icu
@@ -56695,6 +56704,7 @@
 0.0.0.0 qwjtdcl.cn
 0.0.0.0 qwmamh.icu
 0.0.0.0 qwnmfiti.xyz
+0.0.0.0 qxvp6.site
 0.0.0.0 qxzlmzt.xyz
 0.0.0.0 qydoex.icu
 0.0.0.0 qyoqeq.xyz
@@ -56782,6 +56792,7 @@
 0.0.0.0 slkdfg.com
 0.0.0.0 slkdnlkfnskl.com
 0.0.0.0 sllo.top
+0.0.0.0 sltbjrf.cn
 0.0.0.0 sltle.icu
 0.0.0.0 smbx8.net
 0.0.0.0 smgsue.xyz
@@ -57019,6 +57030,7 @@
 0.0.0.0 vrwdsvr.icu
 0.0.0.0 vtnmxx.xyz
 0.0.0.0 vttqld.xyz
+0.0.0.0 vu43lh.cn
 0.0.0.0 vvlhrz.xyz
 0.0.0.0 vwmjkl.icu
 0.0.0.0 vwsgmf.icu
@@ -57030,6 +57042,7 @@
 0.0.0.0 wbkaqly.cn
 0.0.0.0 wbnbocz.xyz
 0.0.0.0 wcbghap63.shop
+0.0.0.0 wcd2l.icu
 0.0.0.0 wclsylk.cn
 0.0.0.0 wdadad.cn
 0.0.0.0 wdakda.cn
@@ -57063,6 +57076,7 @@
 0.0.0.0 wuruigroup.com
 0.0.0.0 wutsldsk.xyz
 0.0.0.0 wuyaw.cn
+0.0.0.0 wvceki.xyz
 0.0.0.0 wvtem.com
 0.0.0.0 wvyqks.xyz
 0.0.0.0 wwhsxwow.xyz
@@ -57114,6 +57128,7 @@
 0.0.0.0 xkjmjj.com
 0.0.0.0 xlam.cn
 0.0.0.0 xlca666.site
+0.0.0.0 xldxphtg.xyz
 0.0.0.0 xlgvlvbc.xyz
 0.0.0.0 xlkdbbvy.xyz
 0.0.0.0 xlnvvbk.xyz
@@ -57200,6 +57215,7 @@
 0.0.0.0 ykujch.icu
 0.0.0.0 ykxafzdu.xyz
 0.0.0.0 yldfkfb.cn
+0.0.0.0 yldxphtg.xyz
 0.0.0.0 ylgvlvbc.xyz
 0.0.0.0 ylkdbbvy.xyz
 0.0.0.0 ylrjnhxi.xyz
@@ -57253,6 +57269,7 @@
 0.0.0.0 zfvtswv.xyz
 0.0.0.0 zghrxn.xyz
 0.0.0.0 zghsep.icu
+0.0.0.0 zgwvcv.icu
 0.0.0.0 zhangyuting04.cn
 0.0.0.0 zhongfumzzew.com
 0.0.0.0 zigyspv.icu
@@ -57287,21 +57304,6 @@
 0.0.0.0 zzyy17.top
 0.0.0.0 zzyy18.top
 0.0.0.0 zzyy19.top
-0.0.0.0 vu43lh.cn
-0.0.0.0 fnbhxv.xyz
-0.0.0.0 aa3e4.cyou
-0.0.0.0 wcd2l.icu
-0.0.0.0 axhfeum.xyz
-0.0.0.0 qxvp6.site
-0.0.0.0 yldxphtg.xyz
-0.0.0.0 blntzf.xyz
-0.0.0.0 wvceki.xyz
-0.0.0.0 zgwvcv.icu
-0.0.0.0 erluankuan.com
-0.0.0.0 88lm04.com
-0.0.0.0 sltbjrf.cn
-0.0.0.0 cldxphtg.xyz
-0.0.0.0 xldxphtg.xyz
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
 0.0.0.0 027dir.com
