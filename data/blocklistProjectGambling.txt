@@ -1,7 +1,7 @@
 # blocklistProjectGambling
 #
 # Converted from - https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/gambling-nl.txt
-# Last converted - Fri, 09 Feb 2024 08:58:08 +0000
+# Last converted - Fri, 09 Feb 2024 12:59:17 +0000
 #
 
 0.0.0.0 borgataonline.com
