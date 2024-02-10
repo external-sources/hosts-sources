@@ -1,9 +1,20 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 10 Feb 2024 08:57:48 +0000
+# Last converted - Sat, 10 Feb 2024 12:58:04 +0000
 #
 
+0.0.0.0 wearishalgins.com
+0.0.0.0 estouca.com
+0.0.0.0 qvtcigr.com
+0.0.0.0 nkbhsbteuu.com
+0.0.0.0 vodsourg.net
+0.0.0.0 hewiseryoun.com
+0.0.0.0 wouldmakefeagre.info
+0.0.0.0 silldisappoint.com
+0.0.0.0 qsxkxuqnsqg.com
+0.0.0.0 ievjylvqfjry.com
+0.0.0.0 floristgathering.com
 0.0.0.0 lhamjcpnpqb.xyz
 0.0.0.0 blowssubplow.com
 0.0.0.0 lalalkamwsz.com
@@ -1312,6 +1323,7 @@
 0.0.0.0 d71e6dd31a026d45.com
 0.0.0.0 adrunnr.com
 0.0.0.0 samsungtvads.com
+0.0.0.0 d1kx6hl0p7bemr.cloudfront.net
 0.0.0.0 ads.videy.co
 0.0.0.0 ads.sportslocalmedia.com
 0.0.0.0 ads.tvp.pl
@@ -57322,6 +57334,7 @@
 0.0.0.0 nxledn.xyz
 0.0.0.0 dqlhuf.icu
 0.0.0.0 cdazjxso.xyz
+0.0.0.0 xdazjxso.xyz
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
 0.0.0.0 027dir.com
