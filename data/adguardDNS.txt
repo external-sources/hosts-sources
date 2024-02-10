@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 09 Feb 2024 20:57:56 +0000
+# Last converted - Sat, 10 Feb 2024 01:35:20 +0000
 #
 
 0.0.0.0 lhamjcpnpqb.xyz
@@ -10095,6 +10095,7 @@
 0.0.0.0 dissipatedifficulty.com
 0.0.0.0 dissipateetiquetteheavenly.com
 0.0.0.0 dissolveretinue.com
+0.0.0.0 dissolvetimesuspicions.com
 0.0.0.0 distancemedicalchristian.com
 0.0.0.0 distant-session.pro
 0.0.0.0 distantsoil.com
@@ -11920,6 +11921,7 @@
 0.0.0.0 evgywgur.com
 0.0.0.0 eviclick.pro
 0.0.0.0 evidenceguidance.com
+0.0.0.0 evidencestunundermine.com
 0.0.0.0 evidentlysoup.com
 0.0.0.0 evidhjksdtgyxrh.xyz
 0.0.0.0 evifokcrmhdmai.com
@@ -12168,6 +12170,7 @@
 0.0.0.0 ezdgmtsaeu.com
 0.0.0.0 ezexfzek.com
 0.0.0.0 ezhefg9gbhgh10.com
+0.0.0.0 ezidygd.com
 0.0.0.0 ezijyfiq.xyz
 0.0.0.0 ezjhhapcoe.com
 0.0.0.0 ezmob.com
@@ -12503,6 +12506,7 @@
 0.0.0.0 feegozoa.com
 0.0.0.0 feegreep.xyz
 0.0.0.0 feelfereetoc.top
+0.0.0.0 feelingsmixed.com
 0.0.0.0 feelingstoriesplumb.com
 0.0.0.0 feeloshu.com
 0.0.0.0 feelresolve.com
@@ -13529,6 +13533,7 @@
 0.0.0.0 fzdpvjatkwpg.com
 0.0.0.0 fzfcrqlwph.com
 0.0.0.0 fzfxqjilrzvdw.com
+0.0.0.0 fzszuvb.com
 0.0.0.0 fztmn.top
 0.0.0.0 g-statistic.com
 0.0.0.0 g0awayu.com
@@ -15485,6 +15490,7 @@
 0.0.0.0 hitcpm.com
 0.0.0.0 hitlnk.com
 0.0.0.0 hiug862dj0.com
+0.0.0.0 hiyaxgkemtiad.com
 0.0.0.0 hizanpwhexw.com
 0.0.0.0 hizlireklam.com
 0.0.0.0 hjalma.com
@@ -21720,6 +21726,7 @@
 0.0.0.0 niftiesrotonde.com
 0.0.0.0 nifty-drive.pro
 0.0.0.0 nifty-transportation.com
+0.0.0.0 nifvikfakt.com
 0.0.0.0 nigerm.com
 0.0.0.0 niggedpacaya.com
 0.0.0.0 niggeusakebvkb.xyz
@@ -36709,6 +36716,7 @@
 0.0.0.0 10945-5.s.cdn15.com
 0.0.0.0 1173384488.rsc.cdn77.org
 0.0.0.0 1187531871.rsc.cdn77.org
+0.0.0.0 1433024343.rsc.cdn77.org
 0.0.0.0 1437953666.rsc.cdn77.org
 0.0.0.0 1445112467.rsc.cdn77.org
 0.0.0.0 1556048427.rsc.cdn77.org
@@ -57304,6 +57312,11 @@
 0.0.0.0 zzyy17.top
 0.0.0.0 zzyy18.top
 0.0.0.0 zzyy19.top
+0.0.0.0 nxditl.xyz
+0.0.0.0 ydazjxso.xyz
+0.0.0.0 qhapoq.xyz
+0.0.0.0 mphxyxk.xyz
+0.0.0.0 vhgunzr.cn
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
 0.0.0.0 027dir.com
