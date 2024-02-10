@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 10 Feb 2024 04:57:47 +0000
+# Last converted - Sat, 10 Feb 2024 08:57:48 +0000
 #
 
 0.0.0.0 lhamjcpnpqb.xyz
@@ -10035,6 +10035,7 @@
 0.0.0.0 disgraceannihilate.com
 0.0.0.0 disgracefulforeword.com
 0.0.0.0 disguised-dad.com
+0.0.0.0 disgustassembledarctic.com
 0.0.0.0 disgustinghindsight.com
 0.0.0.0 disgustingscuffleaching.com
 0.0.0.0 disheartensunstroketeen.com
@@ -57317,6 +57318,10 @@
 0.0.0.0 qhapoq.xyz
 0.0.0.0 mphxyxk.xyz
 0.0.0.0 vhgunzr.cn
+0.0.0.0 wckkl.online
+0.0.0.0 nxledn.xyz
+0.0.0.0 dqlhuf.icu
+0.0.0.0 cdazjxso.xyz
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
 0.0.0.0 027dir.com
