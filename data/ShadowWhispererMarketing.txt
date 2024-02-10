@@ -1,7 +1,7 @@
 # ShadowWhispererMarketing
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Marketing
-# Last converted - Sat, 10 Feb 2024 08:58:33 +0000
+# Last converted - Sat, 10 Feb 2024 12:58:38 +0000
 #
 
 0.0.0.0 clickbank.com
