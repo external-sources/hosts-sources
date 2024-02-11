@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 10 Feb 2024 20:57:46 +0000
+# Last converted - Sun, 11 Feb 2024 01:41:50 +0000
 #
 
 0.0.0.0 wearishalgins.com
@@ -7291,6 +7291,7 @@
 0.0.0.0 carmeleanurous.com
 0.0.0.0 caroakitab.com
 0.0.0.0 carpenterexplorerdemolition.com
+0.0.0.0 carpfreshtying.com
 0.0.0.0 carpi3fnusbetgu5lus.com
 0.0.0.0 carpincur.com
 0.0.0.0 carredwithblao.xyz
@@ -9132,6 +9133,7 @@
 0.0.0.0 cuunpsyhsb.com
 0.0.0.0 cuyynol.com
 0.0.0.0 cvastico.com
+0.0.0.0 cvixthukvgac.com
 0.0.0.0 cvjfmrrgyrqnsnw.xyz
 0.0.0.0 cvkilmfhorl.com
 0.0.0.0 cvkvtsjjrs.xyz
@@ -9533,6 +9535,7 @@
 0.0.0.0 decknetwork.net
 0.0.0.0 declarationfascinatedrace.com
 0.0.0.0 declarcercket.org
+0.0.0.0 declareave.com
 0.0.0.0 declaredjuvenile.com
 0.0.0.0 declaredpolitics.com
 0.0.0.0 declarefollowersuspected.com
@@ -9591,6 +9594,7 @@
 0.0.0.0 defenseneckpresent.com
 0.0.0.0 defensive-bad.com
 0.0.0.0 defensiveevidence.pro
+0.0.0.0 deferapproximately.com
 0.0.0.0 defiancebelow.com
 0.0.0.0 defiantsniffbitterly.com
 0.0.0.0 deficiencyluckrapt.com
@@ -11217,6 +11221,7 @@
 0.0.0.0 efwmpduvgedai.com
 0.0.0.0 egafopmtv.xyz
 0.0.0.0 egallsylvate.com
+0.0.0.0 egazedatthe.xyz
 0.0.0.0 egcqohrksmlmu.xyz
 0.0.0.0 egczvoopdo.com
 0.0.0.0 egerssarcel.com
@@ -17837,6 +17842,7 @@
 0.0.0.0 juniorapplesconsonant.com
 0.0.0.0 juniorsalloquy.guru
 0.0.0.0 junipe3rus4virginiana.com
+0.0.0.0 junivmr.com
 0.0.0.0 junkeach.com
 0.0.0.0 junkieenthusiasm.com
 0.0.0.0 junkieswudge.com
@@ -21081,6 +21087,7 @@
 0.0.0.0 muchotrust.com
 0.0.0.0 mucinyak.com
 0.0.0.0 mucmoapa.com
+0.0.0.0 mucopussamkhya.com
 0.0.0.0 muddiedbubales.com
 0.0.0.0 muddytransplantinsert.com
 0.0.0.0 mudsishaiboo.com
@@ -27025,6 +27032,7 @@
 0.0.0.0 rgtqgsgwkopgnf.com
 0.0.0.0 rguxbwbj.xyz
 0.0.0.0 rgvqcsxqge.com
+0.0.0.0 rhdhdmxeqx.com
 0.0.0.0 rhendam.com
 0.0.0.0 rhesusvitrite.com
 0.0.0.0 rhjcnfypo.com
@@ -27787,6 +27795,7 @@
 0.0.0.0 sapsixysho.pro
 0.0.0.0 saptiledispatch.com
 0.0.0.0 saptorge.com
+0.0.0.0 saracsoxcpa.com
 0.0.0.0 sarcasmidentifiers.com
 0.0.0.0 sarcasticdismalconstrue.com
 0.0.0.0 sarcineamender.store
@@ -45049,7 +45058,6 @@
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 ams-pageview-public.s3.amazonaws.com
 0.0.0.0 analyse.bcovery.com
-0.0.0.0 analyse.lnearn.com
 0.0.0.0 analytic.rollout.io
 0.0.0.0 analytic.xingcloud.com
 0.0.0.0 analyticcdn.globalmailer.com
@@ -45214,6 +45222,7 @@
 0.0.0.0 collect-ap2.attraqt.io
 0.0.0.0 collect-eu.attraqt.io
 0.0.0.0 collect.alphastream.io
+0.0.0.0 collect.analyse.lnearn.com
 0.0.0.0 collect.bannercrowd.net
 0.0.0.0 collect.cloudsponge.com
 0.0.0.0 collect.iteam-dress.com
@@ -45360,7 +45369,6 @@
 0.0.0.0 gemius.mgr.consensu.org
 0.0.0.0 geo.gorillanation.com
 0.0.0.0 geo.mezr.com
-0.0.0.0 geo.q5media.net
 0.0.0.0 geo.thehindu.com
 0.0.0.0 geobar.ziffdavisinternational.com
 0.0.0.0 geoip.apps.avada.io
@@ -46254,7 +46262,6 @@
 0.0.0.0 artemis-cdn.ocdn.eu
 0.0.0.0 blacktri-a.akamaihd.net
 0.0.0.0 cgicounter.onlinehome.de
-0.0.0.0 collector.ozeex.com
 0.0.0.0 com.econa.com
 0.0.0.0 counter.1i.kz
 0.0.0.0 counter.blogoscoop.net
@@ -57404,6 +57411,15 @@
 0.0.0.0 zzyy17.top
 0.0.0.0 zzyy18.top
 0.0.0.0 zzyy19.top
+0.0.0.0 nhvgrb.xyz
+0.0.0.0 lrxdnyq.cn
+0.0.0.0 ctydsy.xyz
+0.0.0.0 yhlpshi.xyz
+0.0.0.0 ylwrdnrw.xyz
+0.0.0.0 ybf1o.online
+0.0.0.0 huatmp.icu
+0.0.0.0 ggttbe961.shop
+0.0.0.0 ggttmu853.shop
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
 0.0.0.0 027dir.com
