@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 11 Feb 2024 04:57:41 +0000
+# Last converted - Sun, 11 Feb 2024 08:57:58 +0000
 #
 
 0.0.0.0 wearishalgins.com
@@ -57420,6 +57420,9 @@
 0.0.0.0 huatmp.icu
 0.0.0.0 ggttbe961.shop
 0.0.0.0 ggttmu853.shop
+0.0.0.0 docfj.cyou
+0.0.0.0 hjjshv.xyz
+0.0.0.0 szbzp.cn
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
 0.0.0.0 027dir.com
