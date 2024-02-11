@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 11 Feb 2024 08:57:58 +0000
+# Last converted - Sun, 11 Feb 2024 12:58:00 +0000
 #
 
 0.0.0.0 wearishalgins.com
@@ -1860,9 +1860,7 @@
 0.0.0.0 1ts19.top
 0.0.0.0 1uno1xkktau4.com
 0.0.0.0 1web.me
-0.0.0.0 1xlite-208883.top
 0.0.0.0 1xlite-503779.top
-0.0.0.0 1xlite-510677.top
 0.0.0.0 1xlite-522762.top
 0.0.0.0 1xroom.com
 0.0.0.0 200088d4e2.com
@@ -2061,7 +2059,6 @@
 0.0.0.0 3mhg.online
 0.0.0.0 3mhg.site
 0.0.0.0 3qfe1gfa.de
-0.0.0.0 3r1kwxcd.top
 0.0.0.0 3redlightfix.com
 0.0.0.0 3sk7d418al8u.com
 0.0.0.0 3wr110.net
@@ -13178,7 +13175,6 @@
 0.0.0.0 formingantecedent.com
 0.0.0.0 formsassistanceclassy.com
 0.0.0.0 formsmir.com
-0.0.0.0 formulacountess.com
 0.0.0.0 formulamuseconnected.com
 0.0.0.0 fornvjvi.com
 0.0.0.0 forooqso.tv
@@ -20019,7 +20015,6 @@
 0.0.0.0 marchedrevolution.com
 0.0.0.0 marcherfilippo.com
 0.0.0.0 marchgrinwimp.com
-0.0.0.0 marchingsmug.com
 0.0.0.0 marcoscrupulousmarks.com
 0.0.0.0 marecreateddew.com
 0.0.0.0 marenfu11.cn
@@ -28543,7 +28538,6 @@
 0.0.0.0 sicknessfestivity.com
 0.0.0.0 sickoaji.com
 0.0.0.0 sicleclarets.com
-0.0.0.0 sidanarchy.com
 0.0.0.0 sidanarchy.net
 0.0.0.0 sidebyx.com
 0.0.0.0 sidebyz.com
@@ -33927,7 +33921,6 @@
 0.0.0.0 wildlifesolemnlyrecords.com
 0.0.0.0 wildmatch.com
 0.0.0.0 wildxxxparties.com
-0.0.0.0 wilfridamendment.com
 0.0.0.0 wilfulkilometre.com
 0.0.0.0 wilfulknives.com
 0.0.0.0 wilfulpessimistic.com
@@ -57423,6 +57416,8 @@
 0.0.0.0 docfj.cyou
 0.0.0.0 hjjshv.xyz
 0.0.0.0 szbzp.cn
+0.0.0.0 jhpxlyd.cn
+0.0.0.0 xlwrdnrw.xyz
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
 0.0.0.0 027dir.com
