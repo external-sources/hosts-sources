@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 12 Feb 2024 16:57:53 +0000
+# Last converted - Mon, 12 Feb 2024 20:58:00 +0000
 #
 
 0.0.0.0 lhamjcpnpqb.xyz
@@ -2322,6 +2322,7 @@
 0.0.0.0 7a994c3318.com
 0.0.0.0 7abf0af03c.com
 0.0.0.0 7anfpatlo8lwmb.com
+0.0.0.0 7app.top
 0.0.0.0 7b763dbdf3.com
 0.0.0.0 7bchhgh.de
 0.0.0.0 7c0616849b.com
@@ -4393,6 +4394,7 @@
 0.0.0.0 applicationsrapacity.com
 0.0.0.0 applifycontent.com
 0.0.0.0 applifysolutions.com
+0.0.0.0 applifysolutions.net
 0.0.0.0 appmateforbests.com
 0.0.0.0 appnow.sbs
 0.0.0.0 appoineditardwide.com
@@ -7180,6 +7182,7 @@
 0.0.0.0 canoemissioninjunction.com
 0.0.0.0 canoevaguely.com
 0.0.0.0 canonch.pro
+0.0.0.0 canopusacrux.top
 0.0.0.0 canramble.com
 0.0.0.0 cansdecyne.com
 0.0.0.0 canstrm.com
@@ -8105,6 +8108,7 @@
 0.0.0.0 cloisteroutdooragitate.com
 0.0.0.0 clokemidriff.com
 0.0.0.0 cloneabaff.com
+0.0.0.0 clonesmesopic.com
 0.0.0.0 clongerip.com
 0.0.0.0 clonkfanion.com
 0.0.0.0 clorec.net
@@ -8637,6 +8641,7 @@
 0.0.0.0 corepsh.top
 0.0.0.0 coresepyllia.com
 0.0.0.0 corialthanes.life
+0.0.0.0 corixaraphide.top
 0.0.0.0 corkremembranceastray.com
 0.0.0.0 corneey.com
 0.0.0.0 corneredcommunicationcancel.com
@@ -9123,6 +9128,7 @@
 0.0.0.0 cylindermonastery.com
 0.0.0.0 cylsszrrfbkgjf.com
 0.0.0.0 cymqhqxuchas.com
+0.0.0.0 cymtiadhurrie.com
 0.0.0.0 cyneburg-yam.com
 0.0.0.0 cynicalspireheroism.com
 0.0.0.0 cyprecaccia.guru
@@ -9387,6 +9393,7 @@
 0.0.0.0 dbplygoi.com
 0.0.0.0 dbqlghadltookjo.xyz
 0.0.0.0 dbrheqlhk.xyz
+0.0.0.0 dbtbfsf.com
 0.0.0.0 dbvault.net
 0.0.0.0 dc29186682.com
 0.0.0.0 dc3b671cce.com
@@ -11878,6 +11885,7 @@
 0.0.0.0 everythingtoknows.com
 0.0.0.0 everywheresavourblouse.com
 0.0.0.0 eveteaemo.com
+0.0.0.0 evfisahy.xyz
 0.0.0.0 evgywgur.com
 0.0.0.0 eviclick.pro
 0.0.0.0 evidenceguidance.com
@@ -13821,6 +13829,7 @@
 0.0.0.0 getxml.org
 0.0.0.0 getyourbitco.in
 0.0.0.0 getyoursoft.ru
+0.0.0.0 getyourtool.co
 0.0.0.0 getyousoft.ru
 0.0.0.0 gevauwaudsem.com
 0.0.0.0 geviet.com
@@ -14014,6 +14023,7 @@
 0.0.0.0 glaringregister.com
 0.0.0.0 glassesoftruth.com
 0.0.0.0 glassmilheart.com
+0.0.0.0 glasssmash.site
 0.0.0.0 glaubuph.com
 0.0.0.0 glaughoa.xyz
 0.0.0.0 glaultoa.com
@@ -14899,6 +14909,7 @@
 0.0.0.0 hamletuponcontribute.com
 0.0.0.0 hammaidentomb.guru
 0.0.0.0 hammalorphans.com
+0.0.0.0 hammamfehmic.com
 0.0.0.0 hammerhewer.top
 0.0.0.0 hammockpublisherillumination.com
 0.0.0.0 hamoumpa.xyz
@@ -17822,6 +17833,7 @@
 0.0.0.0 jzqgyccwefd.com
 0.0.0.0 jztchllgpcrwu.com
 0.0.0.0 jztucbb.com
+0.0.0.0 jzvwawvqawemb.top
 0.0.0.0 k-09mobiles.com
 0.0.0.0 k28maingeneral.com
 0.0.0.0 k4umr0wuc.com
@@ -19224,6 +19236,7 @@
 0.0.0.0 loastees.net
 0.0.0.0 loathederava.uno
 0.0.0.0 loathepimpery.com
+0.0.0.0 loatherelevens.top
 0.0.0.0 loatheskeletonethic.com
 0.0.0.0 loaubriqie.com
 0.0.0.0 lobby-x.eu
@@ -19998,6 +20011,7 @@
 0.0.0.0 maxonclick.com
 0.0.0.0 maxprofitcontrol.com
 0.0.0.0 maxserving.com
+0.0.0.0 maxytrk.com
 0.0.0.0 maybejanuarycosmetics.com
 0.0.0.0 mayberesemble.com
 0.0.0.0 mayhemabjure.com
@@ -22367,6 +22381,7 @@
 0.0.0.0 ocuuqdqupbpvp.com
 0.0.0.0 ocuwyfarlvbq.com
 0.0.0.0 ocygacror.com
+0.0.0.0 oczqhythihhu.com
 0.0.0.0 odbayigjoagd.com
 0.0.0.0 oddauthorscreative.com
 0.0.0.0 oddlyogeed.com
@@ -27954,6 +27969,7 @@
 0.0.0.0 semsicou.net
 0.0.0.0 semupgrjbnlhi.com
 0.0.0.0 semwtaanx.xyz
+0.0.0.0 senagegrasper.com
 0.0.0.0 senecaanoles.com
 0.0.0.0 sength.com
 0.0.0.0 senonsiatinus.com
@@ -28512,6 +28528,7 @@
 0.0.0.0 skeletallake.com
 0.0.0.0 skeletonemail.com
 0.0.0.0 skelpedwiney.website
+0.0.0.0 skenaiaefaldy.com
 0.0.0.0 skenedomains.digital
 0.0.0.0 sketbhang.guru
 0.0.0.0 sketchdroughtregional.com
@@ -30146,6 +30163,7 @@
 0.0.0.0 tdeogusnou.xyz
 0.0.0.0 tdqhlowkhxeohe.com
 0.0.0.0 tdspa.top
+0.0.0.0 tdwbcjgaal.com
 0.0.0.0 teachmewind.com
 0.0.0.0 teads.tv
 0.0.0.0 teaismonless.com
@@ -30955,6 +30973,7 @@
 0.0.0.0 toselfless.com
 0.0.0.0 tosfeed.com
 0.0.0.0 toshlygappier.guru
+0.0.0.0 toshlypilate.com
 0.0.0.0 toskmisway.com
 0.0.0.0 tosolroa.xyz
 0.0.0.0 tosspowers.com
@@ -32824,6 +32843,7 @@
 0.0.0.0 visitstrack.com
 0.0.0.0 visitsviolatedifficult.com
 0.0.0.0 visitweb.com
+0.0.0.0 visivefluxing.com
 0.0.0.0 visivegaucie.com
 0.0.0.0 visoadroursu.com
 0.0.0.0 vissregion.com
@@ -36031,6 +36051,7 @@
 0.0.0.0 ibannerexchange.com
 0.0.0.0 ibillboard.com
 0.0.0.0 icorp.ro
+0.0.0.0 idevaffiliate.com
 0.0.0.0 idreammedia.com
 0.0.0.0 imediaaudiences.com
 0.0.0.0 imho.ru
@@ -42188,6 +42209,8 @@
 0.0.0.0 wizaly.com
 0.0.0.0 affex.org
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 visitor.sokuja.net
+0.0.0.0 nlog.naver.com
 0.0.0.0 collector.taoxh.life
 0.0.0.0 noa.yahoo.com
 0.0.0.0 mdstats.info
@@ -46468,6 +46491,7 @@
 0.0.0.0 solution911.com
 0.0.0.0 templates.buscape.com
 0.0.0.0 yestorrents.org
+0.0.0.0 bcdjcjjhgfiejgfjhah.world
 0.0.0.0 proppellerads.ru
 0.0.0.0 usesentry.com
 0.0.0.0 fzgrpqktmq.com
@@ -55513,6 +55537,7 @@
 0.0.0.0 89hdn.cn
 0.0.0.0 8d07a.xyz
 0.0.0.0 8ovgk.online
+0.0.0.0 8suis.top
 0.0.0.0 8zkt7.xyz
 0.0.0.0 913mj.xyz
 0.0.0.0 94n33.fun
@@ -55625,6 +55650,7 @@
 0.0.0.0 beezwol.com
 0.0.0.0 befyah.icu
 0.0.0.0 bekmhvbb.xyz
+0.0.0.0 bellessb.com
 0.0.0.0 bepmrb.xyz
 0.0.0.0 berrynicolo.com
 0.0.0.0 beste3.icu
@@ -55713,6 +55739,7 @@
 0.0.0.0 cdhfvrug.xyz
 0.0.0.0 cdolhlwq.xyz
 0.0.0.0 cdsa2.icu
+0.0.0.0 cdttxdqe.xyz
 0.0.0.0 ceiuip.icu
 0.0.0.0 cfateu.xyz
 0.0.0.0 cgbswl.icu
@@ -55818,6 +55845,7 @@
 0.0.0.0 drzgtli.com
 0.0.0.0 dsbfpt.xyz
 0.0.0.0 dsbudkwq.xyz
+0.0.0.0 dsceopm.cn
 0.0.0.0 dskjbvzvs.com
 0.0.0.0 dskjhs.com
 0.0.0.0 dswcrlf.cn
@@ -56289,6 +56317,7 @@
 0.0.0.0 leidad.xyz
 0.0.0.0 leizylb.icu
 0.0.0.0 lejshxao.xyz
+0.0.0.0 lekfez.icu
 0.0.0.0 lemida.xyz
 0.0.0.0 lewhrzv.xyz
 0.0.0.0 lfhnzbj.xyz
@@ -56333,6 +56362,7 @@
 0.0.0.0 lwhffh.xyz
 0.0.0.0 lwmzoaf.cn
 0.0.0.0 lwwlkj1.cn
+0.0.0.0 lxtuzcb.cn
 0.0.0.0 lxznbz.xyz
 0.0.0.0 lyckery.com
 0.0.0.0 lznpcwl.xyz
@@ -56392,6 +56422,7 @@
 0.0.0.0 mnhncf.cn
 0.0.0.0 mnorkc.xyz
 0.0.0.0 mnvxdkd.xyz
+0.0.0.0 mobiteu.cn
 0.0.0.0 mogtrmjz.xyz
 0.0.0.0 moqsxdpx.xyz
 0.0.0.0 motcmn.icu
@@ -56519,6 +56550,7 @@
 0.0.0.0 orbxiul.xyz
 0.0.0.0 orssengseen.com
 0.0.0.0 oryhic.xyz
+0.0.0.0 oswowg.xyz
 0.0.0.0 otbeksf.cn
 0.0.0.0 otxlhpm.xyz
 0.0.0.0 ovbgeum.cn
@@ -56572,6 +56604,7 @@
 0.0.0.0 pvpdbth.xyz
 0.0.0.0 pxxnejx.xyz
 0.0.0.0 pzcogpj.icu
+0.0.0.0 pzphmkf.xyz
 0.0.0.0 pzpivx.xyz
 0.0.0.0 pztjlr.xyz
 0.0.0.0 pzwjonv.icu
@@ -56698,6 +56731,7 @@
 0.0.0.0 sigjuw.xyz
 0.0.0.0 skdaj.cn
 0.0.0.0 skdunkig.xyz
+0.0.0.0 skldbklsbvss.com
 0.0.0.0 skskssso.com
 0.0.0.0 slkdfg.com
 0.0.0.0 slkdnlkfnskl.com
@@ -56735,6 +56769,7 @@
 0.0.0.0 szmdp.cn
 0.0.0.0 szmkr.cn
 0.0.0.0 szmmb.cn
+0.0.0.0 szmns.cn
 0.0.0.0 szmtd.cn
 0.0.0.0 szmty.cn
 0.0.0.0 szpbg.cn
@@ -56762,6 +56797,7 @@
 0.0.0.0 tgvgzt.xyz
 0.0.0.0 thboxp.xyz
 0.0.0.0 thjwxz.xyz
+0.0.0.0 tihdjd.xyz
 0.0.0.0 tiiepofl.xyz
 0.0.0.0 tipl.top
 0.0.0.0 titv.top
@@ -56941,6 +56977,7 @@
 0.0.0.0 vrnrpzy.xyz
 0.0.0.0 vrosqolcg.com
 0.0.0.0 vrwdsvr.icu
+0.0.0.0 vrxhnr.xyz
 0.0.0.0 vtnmxx.xyz
 0.0.0.0 vttqld.xyz
 0.0.0.0 vu43lh.cn
@@ -57015,6 +57052,7 @@
 0.0.0.0 xdjdpyrt.xyz
 0.0.0.0 xdolhlwq.xyz
 0.0.0.0 xdsahkln.xyz
+0.0.0.0 xdttxdqe.xyz
 0.0.0.0 xdzjbn.xyz
 0.0.0.0 xeazoj.icu
 0.0.0.0 xebohjhh.xyz
@@ -57113,6 +57151,7 @@
 0.0.0.0 yddbysa.xyz
 0.0.0.0 ydhfvrug.xyz
 0.0.0.0 ydolhlwq.xyz
+0.0.0.0 ydttxdqe.xyz
 0.0.0.0 ydv7k.cyou
 0.0.0.0 yepgdita.xyz
 0.0.0.0 yfsstec96.xyz
@@ -57206,6 +57245,7 @@
 0.0.0.0 zohdfd.xyz
 0.0.0.0 zomcz.cyou
 0.0.0.0 zotcjeig.xyz
+0.0.0.0 zpcj8.online
 0.0.0.0 zpvfsrb.xyz
 0.0.0.0 zpvuugw.cn
 0.0.0.0 zpzlbv.xyz
@@ -57224,18 +57264,6 @@
 0.0.0.0 zzyy17.top
 0.0.0.0 zzyy18.top
 0.0.0.0 zzyy19.top
-0.0.0.0 lxtuzcb.cn
-0.0.0.0 ydttxdqe.xyz
-0.0.0.0 zpcj8.online
-0.0.0.0 vrxhnr.xyz
-0.0.0.0 pzphmkf.xyz
-0.0.0.0 oswowg.xyz
-0.0.0.0 lekfez.icu
-0.0.0.0 tihdjd.xyz
-0.0.0.0 szmns.cn
-0.0.0.0 bellessb.com
-0.0.0.0 cdttxdqe.xyz
-0.0.0.0 mobiteu.cn
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
 0.0.0.0 027dir.com
