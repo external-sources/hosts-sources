@@ -1,21 +1,9 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 11 Feb 2024 20:57:44 +0000
+# Last converted - Mon, 12 Feb 2024 01:38:03 +0000
 #
 
-0.0.0.0 6hdw.site
-0.0.0.0 wearishalgins.com
-0.0.0.0 estouca.com
-0.0.0.0 qvtcigr.com
-0.0.0.0 nkbhsbteuu.com
-0.0.0.0 vodsourg.net
-0.0.0.0 hewiseryoun.com
-0.0.0.0 wouldmakefeagre.info
-0.0.0.0 silldisappoint.com
-0.0.0.0 qsxkxuqnsqg.com
-0.0.0.0 ievjylvqfjry.com
-0.0.0.0 floristgathering.com
 0.0.0.0 lhamjcpnpqb.xyz
 0.0.0.0 blowssubplow.com
 0.0.0.0 lalalkamwsz.com
@@ -1324,7 +1312,6 @@
 0.0.0.0 d71e6dd31a026d45.com
 0.0.0.0 adrunnr.com
 0.0.0.0 samsungtvads.com
-0.0.0.0 d1kx6hl0p7bemr.cloudfront.net
 0.0.0.0 ads.videy.co
 0.0.0.0 ads.sportslocalmedia.com
 0.0.0.0 ads.tvp.pl
@@ -2284,6 +2271,7 @@
 0.0.0.0 6f752f73ce.com
 0.0.0.0 6fxtpu64lxyt.com
 0.0.0.0 6glece4homah8dweracea.com
+0.0.0.0 6hdw.site
 0.0.0.0 6j296m8k.de
 0.0.0.0 6kportot.com
 0.0.0.0 6l1twlw9fy.com
@@ -3596,6 +3584,7 @@
 0.0.0.0 ageory.com
 0.0.0.0 ageteexomis.com
 0.0.0.0 agffrusilj.com
+0.0.0.0 agfgasaglasw.com
 0.0.0.0 aggestose.com
 0.0.0.0 aggjprvqamtl.com
 0.0.0.0 aggravatecapeamoral.com
@@ -9765,6 +9754,7 @@
 0.0.0.0 deslatiosan.com
 0.0.0.0 desorbtarrify.com
 0.0.0.0 despanpouran.com
+0.0.0.0 desperateambient.com
 0.0.0.0 desperationembassy.com
 0.0.0.0 despik.com
 0.0.0.0 despitethriftmartial.com
@@ -11607,6 +11597,7 @@
 0.0.0.0 ensignpancreasrun.com
 0.0.0.0 ensinthetertaning.com
 0.0.0.0 ensosignal.com
+0.0.0.0 ensuebusinessman.com
 0.0.0.0 ensueswill.com
 0.0.0.0 entachbanker.top
 0.0.0.0 entaildollar.com
@@ -11852,6 +11843,7 @@
 0.0.0.0 esteemtalented.com
 0.0.0.0 estkewasa.com
 0.0.0.0 estoopsi.com
+0.0.0.0 estouca.com
 0.0.0.0 estrinuprise.guru
 0.0.0.0 estuousopalish.guru
 0.0.0.0 esumeformo.info
@@ -12960,6 +12952,7 @@
 0.0.0.0 floodingonion.com
 0.0.0.0 floodtender.com
 0.0.0.0 floppytopo.com
+0.0.0.0 floristgathering.com
 0.0.0.0 flossyarrayal.life
 0.0.0.0 flouralmighty.com
 0.0.0.0 flowerasunder.com
@@ -13290,6 +13283,7 @@
 0.0.0.0 frarychazan.com
 0.0.0.0 frauck.com
 0.0.0.0 fraudholdingpeas.com
+0.0.0.0 frayed-common.pro
 0.0.0.0 frayvehemently.com
 0.0.0.0 frbyvuxzvmqpb.com
 0.0.0.0 frcpth.xyz
@@ -13399,6 +13393,7 @@
 0.0.0.0 fruins.com
 0.0.0.0 fruitfulgreenhousefacility.com
 0.0.0.0 fruitfulpot.com
+0.0.0.0 fruitnotability.com
 0.0.0.0 frustrationfungus.com
 0.0.0.0 frxuqdho.com
 0.0.0.0 frxwattywgcnsgw.xyz
@@ -15363,6 +15358,7 @@
 0.0.0.0 hewawkward.com
 0.0.0.0 hewdisobedienceliveliness.com
 0.0.0.0 hewhimaulols.com
+0.0.0.0 hewiseryoun.com
 0.0.0.0 hexovythi.pro
 0.0.0.0 heycompassion.com
 0.0.0.0 heycrktc.xyz
@@ -16202,6 +16198,7 @@
 0.0.0.0 ieoyptnech.com
 0.0.0.0 ietbwrkg.com
 0.0.0.0 ietyofedinj89yewtburgh.com
+0.0.0.0 ievjylvqfjry.com
 0.0.0.0 iewhonhdvryu.com
 0.0.0.0 iezptsoc.com
 0.0.0.0 iezxmddndn.com
@@ -21539,6 +21536,7 @@
 0.0.0.0 needeevo.xyz
 0.0.0.0 needierstraits.website
 0.0.0.0 needleworkemmaapostrophe.com
+0.0.0.0 needleworkhearingnorm.com
 0.0.0.0 neednguarded.space
 0.0.0.0 needyscarcasserole.com
 0.0.0.0 neegreez.com
@@ -21852,10 +21850,12 @@
 0.0.0.0 njkewubccvt.com
 0.0.0.0 njlcmkzfex.com
 0.0.0.0 njlzougyfjo.com
+0.0.0.0 njpaqnkhaxpwg.xyz
 0.0.0.0 njplpnoxgnbpid.com
 0.0.0.0 njprfviomemec.com
 0.0.0.0 njufnhkmqpk.xyz
 0.0.0.0 njvacw.xyz
+0.0.0.0 nkbhsbteuu.com
 0.0.0.0 nkbobsj.com
 0.0.0.0 nkcsycwf.com
 0.0.0.0 nkfinsdg.com
@@ -23075,6 +23075,7 @@
 0.0.0.0 opshuckleor.com
 0.0.0.0 opsivesh.net
 0.0.0.0 opsoomet.net
+0.0.0.0 opsoudaw.xyz
 0.0.0.0 optad360.io
 0.0.0.0 optaivuy.net
 0.0.0.0 opteama.com
@@ -26066,6 +26067,7 @@
 0.0.0.0 qsorirgzqw.com
 0.0.0.0 qsoxiekkfjl.com
 0.0.0.0 qsthtbjljqfuo.com
+0.0.0.0 qsxkxuqnsqg.com
 0.0.0.0 qsxptjxruxrttu.xyz
 0.0.0.0 qtbb6.com
 0.0.0.0 qtejflbrrtesvk.com
@@ -26158,6 +26160,7 @@
 0.0.0.0 qvjpjsglmvhcbv.xyz
 0.0.0.0 qvlczhitbsqpl.com
 0.0.0.0 qvol.tv
+0.0.0.0 qvtcigr.com
 0.0.0.0 qwa3ldhn9u0t.com
 0.0.0.0 qwaapgxfahce.com
 0.0.0.0 qwbaiftlbfbnt.com
@@ -28581,6 +28584,7 @@
 0.0.0.0 silkyslyness.life
 0.0.0.0 silkytitle.com
 0.0.0.0 sillagoalgae.website
+0.0.0.0 silldisappoint.com
 0.0.0.0 sillinessinterfere.com
 0.0.0.0 sillinessmarshal.com
 0.0.0.0 sillinessowner.com
@@ -31516,6 +31520,7 @@
 0.0.0.0 truceforensicswaterfall.com
 0.0.0.0 trucemallow.website
 0.0.0.0 trulyunderestimatediscard.com
+0.0.0.0 trumppuffy.com
 0.0.0.0 truoqtqjyxes.com
 0.0.0.0 trustaffs.com
 0.0.0.0 trustbummler.com
@@ -33103,6 +33108,7 @@
 0.0.0.0 vocath.com
 0.0.0.0 vodjnqarncm.com
 0.0.0.0 vodobyve.pro
+0.0.0.0 vodsourg.net
 0.0.0.0 vogo-vogo.ru
 0.0.0.0 voicearrogancesideway.com
 0.0.0.0 voicebeddingtaint.com
@@ -33561,6 +33567,7 @@
 0.0.0.0 weaponvelocitypredator.com
 0.0.0.0 weaptqsmbshwd.xyz
 0.0.0.0 wearinggenear.com
+0.0.0.0 wearishalgins.com
 0.0.0.0 wearisomeexertiontales.com
 0.0.0.0 wearisomeraynope.com
 0.0.0.0 wearydisturbing.com
@@ -34224,6 +34231,7 @@
 0.0.0.0 woukrkskillsom.info
 0.0.0.0 wouldmakefea.org
 0.0.0.0 wouldmakefeag.info
+0.0.0.0 wouldmakefeagre.info
 0.0.0.0 wouled.com
 0.0.0.0 woulin.com
 0.0.0.0 woulst.com
@@ -37125,6 +37133,7 @@
 0.0.0.0 d1ktmtailsv07c.cloudfront.net
 0.0.0.0 d1kttpj1t6674w.cloudfront.net
 0.0.0.0 d1kwkwcfmhtljq.cloudfront.net
+0.0.0.0 d1kx6hl0p7bemr.cloudfront.net
 0.0.0.0 d1kzm6rtbvkdln.cloudfront.net
 0.0.0.0 d1l906mtvq85kd.cloudfront.net
 0.0.0.0 d1lihuem8ojqxz.cloudfront.net
