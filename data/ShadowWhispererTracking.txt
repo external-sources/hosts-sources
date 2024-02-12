@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Mon, 12 Feb 2024 16:58:33 +0000
+# Last converted - Mon, 12 Feb 2024 20:58:45 +0000
 #
 
 0.0.0.0 01counter.com
@@ -103,6 +103,7 @@
 0.0.0.0 2.eqho.com
 0.0.0.0 2.homesnorthofboston.com
 0.0.0.0 2-instant.okcupid.com
+0.0.0.0 2ip.ee
 0.0.0.0 2ip.fun
 0.0.0.0 2ip.io
 0.0.0.0 2ip.me
@@ -214,6 +215,7 @@
 0.0.0.0 7-aclk.net
 0.0.0.0 7analytics.no
 0.0.0.0 7cw2jpjf.sptpub.com
+0.0.0.0 7ip.ru
 0.0.0.0 7kgd3hs1oh.execute-api.us-east-1.amazonaws.com
 0.0.0.0 7lytix.com
 0.0.0.0 7segments.com
