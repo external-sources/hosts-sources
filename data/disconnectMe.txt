@@ -1,7 +1,7 @@
 # disconnectMe
 #
 # Converted from - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# Last converted - Mon, 12 Feb 2024 04:58:33 +0000
+# Last converted - Mon, 12 Feb 2024 08:58:36 +0000
 #
 
 0.0.0.0 101com.com
