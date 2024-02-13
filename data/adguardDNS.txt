@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 13 Feb 2024 04:57:45 +0000
+# Last converted - Tue, 13 Feb 2024 08:58:12 +0000
 #
 
 0.0.0.0 slownansuch.info
@@ -46139,7 +46139,6 @@
 0.0.0.0 stats.hanmaker.com
 0.0.0.0 sugs.m.sm.cn
 0.0.0.0 tce.alicdn.com
-0.0.0.0 toruk.tanx.com
 0.0.0.0 tr.n2.hk
 0.0.0.0 track.tomwx.net
 0.0.0.0 tracker-00.qvb.qcloud.com
@@ -57211,6 +57210,11 @@
 0.0.0.0 aeucyo.xyz
 0.0.0.0 ylplrhum.xyz
 0.0.0.0 pozrwj.icu
+0.0.0.0 6b70b1086b.com
+0.0.0.0 ogyoopo.cn
+0.0.0.0 fufrnl.xyz
+0.0.0.0 clplrhum.xyz
+0.0.0.0 iwatojc.cn
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
 0.0.0.0 027dir.com
