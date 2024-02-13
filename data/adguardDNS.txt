@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 13 Feb 2024 16:57:48 +0000
+# Last converted - Tue, 13 Feb 2024 20:57:55 +0000
 #
 
 0.0.0.0 wenoolgo.icu
@@ -12795,7 +12795,6 @@
 0.0.0.0 freeevpn.info
 0.0.0.0 freefromads.com
 0.0.0.0 freefromads.pro
-0.0.0.0 freeply.cards
 0.0.0.0 freeskreen.com
 0.0.0.0 freesoftwarelive.com
 0.0.0.0 freespsprugs.com
@@ -38955,6 +38954,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 citrusad.net
 0.0.0.0 pubperf.com
 0.0.0.0 stats.getaim.org
 0.0.0.0 analytics-cf.bigcrunch.com
@@ -44970,7 +44970,6 @@
 0.0.0.0 addthis.com
 0.0.0.0 addthisedge.com
 0.0.0.0 pphwrevr.com
-0.0.0.0 citrusad.net
 0.0.0.0 clickguardian.app
 0.0.0.0 clickyab.com
 0.0.0.0 fpjscdn.net
@@ -55696,6 +55695,7 @@
 0.0.0.0 adtonus.com
 0.0.0.0 adtx2.cn
 0.0.0.0 aerbgpn.xyz
+0.0.0.0 aeucyo.xyz
 0.0.0.0 aflsj.com
 0.0.0.0 agossuoeach.com
 0.0.0.0 ahernssa.com
@@ -55828,6 +55828,7 @@
 0.0.0.0 bqxexj.xyz
 0.0.0.0 brookssa.com
 0.0.0.0 brorzpj.cn
+0.0.0.0 brtzgnd.xyz
 0.0.0.0 bsvkfwth.xyz
 0.0.0.0 btfjjwt.xyz
 0.0.0.0 bthypgm.cn
@@ -55890,6 +55891,7 @@
 0.0.0.0 cldxphtg.xyz
 0.0.0.0 clgvlvbc.xyz
 0.0.0.0 clkdbbvy.xyz
+0.0.0.0 clplrhum.xyz
 0.0.0.0 clrjnhxi.xyz
 0.0.0.0 clypzbzs.xyz
 0.0.0.0 cmdcdacq.xyz
@@ -56078,6 +56080,7 @@
 0.0.0.0 fsgiosi.com
 0.0.0.0 ftdbtko.xyz
 0.0.0.0 ftzzbx.xyz
+0.0.0.0 fufrnl.xyz
 0.0.0.0 fuvbbjl.xyz
 0.0.0.0 fv77e.icu
 0.0.0.0 fwffa.cn
@@ -56291,6 +56294,7 @@
 0.0.0.0 iujlwn.icu
 0.0.0.0 iumboa.xyz
 0.0.0.0 iuvssgh.cn
+0.0.0.0 iwatojc.cn
 0.0.0.0 iwwmaq.xyz
 0.0.0.0 jackdd.xyz
 0.0.0.0 jane1.top
@@ -56658,6 +56662,7 @@
 0.0.0.0 ogmjhve.cn
 0.0.0.0 ogouawc.cn
 0.0.0.0 ogxstqna.xyz
+0.0.0.0 ogyoopo.cn
 0.0.0.0 ohdvafp.xyz
 0.0.0.0 ohopao.xyz
 0.0.0.0 okpcyp.icu
@@ -56714,6 +56719,7 @@
 0.0.0.0 pmnct63.shop
 0.0.0.0 pobrpr.xyz
 0.0.0.0 poiwer.com
+0.0.0.0 pozrwj.icu
 0.0.0.0 ppenid.xyz
 0.0.0.0 pptclb.xyz
 0.0.0.0 ppvpmrt.xyz
@@ -56734,6 +56740,7 @@
 0.0.0.0 pzpivx.xyz
 0.0.0.0 pztjlr.xyz
 0.0.0.0 pzwjonv.icu
+0.0.0.0 q1gel.icu
 0.0.0.0 q4v3c.site
 0.0.0.0 q6gub.website
 0.0.0.0 qauksl.icu
@@ -56956,6 +56963,7 @@
 0.0.0.0 tszoxhtk.xyz
 0.0.0.0 ttgjwxp.icu
 0.0.0.0 ttnwxhjv.xyz
+0.0.0.0 ttrruq749.shop
 0.0.0.0 ttwwzqdx.xyz
 0.0.0.0 tunovl.xyz
 0.0.0.0 tuoizbtl.xyz
@@ -57055,6 +57063,7 @@
 0.0.0.0 vainews.cn
 0.0.0.0 valerieavisnba.com
 0.0.0.0 valerieurania.com
+0.0.0.0 vbzfjh.xyz
 0.0.0.0 vbzrkme.xyz
 0.0.0.0 vcbppb.xyz
 0.0.0.0 vcjczwnc.xyz
@@ -57211,6 +57220,7 @@
 0.0.0.0 xlgvlvbc.xyz
 0.0.0.0 xlkdbbvy.xyz
 0.0.0.0 xlnvvbk.xyz
+0.0.0.0 xlplrhum.xyz
 0.0.0.0 xlrjnhxi.xyz
 0.0.0.0 xltmjevd.xyz
 0.0.0.0 xlwrdnrw.xyz
@@ -57302,6 +57312,7 @@
 0.0.0.0 yldxphtg.xyz
 0.0.0.0 ylgvlvbc.xyz
 0.0.0.0 ylkdbbvy.xyz
+0.0.0.0 ylplrhum.xyz
 0.0.0.0 ylrjnhxi.xyz
 0.0.0.0 ylwrdnrw.xyz
 0.0.0.0 ylypzbzs.xyz
@@ -57332,6 +57343,7 @@
 0.0.0.0 yxcrcc.xyz
 0.0.0.0 yxptcrss.xyz
 0.0.0.0 yxrxsov.xyz
+0.0.0.0 yyodimq.cn
 0.0.0.0 yyyaih.icu
 0.0.0.0 yzfrapd.xyz
 0.0.0.0 yzmcok.xyz
@@ -57390,18 +57402,6 @@
 0.0.0.0 zzyy17.top
 0.0.0.0 zzyy18.top
 0.0.0.0 zzyy19.top
-0.0.0.0 vbzfjh.xyz
-0.0.0.0 q1gel.icu
-0.0.0.0 brtzgnd.xyz
-0.0.0.0 aeucyo.xyz
-0.0.0.0 ylplrhum.xyz
-0.0.0.0 pozrwj.icu
-0.0.0.0 ogyoopo.cn
-0.0.0.0 fufrnl.xyz
-0.0.0.0 clplrhum.xyz
-0.0.0.0 iwatojc.cn
-0.0.0.0 yyodimq.cn
-0.0.0.0 xlplrhum.xyz
 0.0.0.0 zzyy20.top
 0.0.0.0 01v62.xyz
 0.0.0.0 027dir.com
