@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Tue, 13 Feb 2024 16:58:21 +0000
+# Last converted - Tue, 13 Feb 2024 20:58:31 +0000
 #
 
 0.0.0.0 00px.net
@@ -14745,7 +14745,10 @@
 0.0.0.0 shocking-design.pro
 0.0.0.0 shokme.com
 0.0.0.0 shoofle.tv
+0.0.0.0 shopdartcdn.com
+0.0.0.0 shopdogystyle.com
 0.0.0.0 shopgamescdn.com
+0.0.0.0 shopgameslive.com
 0.0.0.0 shophermedia.com
 0.0.0.0 shophermedia.net
 0.0.0.0 shopliftr.com

@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Tue, 13 Feb 2024 16:58:24 +0000
+# Last converted - Tue, 13 Feb 2024 20:58:35 +0000
 #
 
 0.0.0.0 010.at
@@ -280,6 +280,7 @@
 0.0.0.0 benes.se
 0.0.0.0 berater-it.de
 0.0.0.0 bestshortlink.com
+0.0.0.0 betaloop.io
 0.0.0.0 beteshis.com
 0.0.0.0 bez.link
 0.0.0.0 bfol.me
@@ -598,6 +599,7 @@
 0.0.0.0 film24owo.pl
 0.0.0.0 fi.ro
 0.0.0.0 fitz.ms
+0.0.0.0 flashsc.re
 0.0.0.0 flextrig.com
 0.0.0.0 flickerlink.com
 0.0.0.0 fliplink.io
@@ -1687,6 +1689,7 @@
 0.0.0.0 tokurlshortener.com
 0.0.0.0 toliveal.ie
 0.0.0.0 tonancos.com
+0.0.0.0 toolssagar.com
 0.0.0.0 topfiften.com
 0.0.0.0 topkale.me
 0.0.0.0 toplistt.com
