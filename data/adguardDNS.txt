@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 13 Feb 2024 20:57:55 +0000
+# Last converted - Wed, 14 Feb 2024 01:38:51 +0000
 #
 
 0.0.0.0 wenoolgo.icu
@@ -3023,6 +3023,7 @@
 0.0.0.0 aidata.io
 0.0.0.0 aidraiphejpb.com
 0.0.0.0 aidspectacle.com
+0.0.0.0 aifoghou.com
 0.0.0.0 aigaithojo.com
 0.0.0.0 aightutaitlastwe.xyz
 0.0.0.0 aigligno.net
@@ -3909,6 +3910,7 @@
 0.0.0.0 ariotgribble.com
 0.0.0.0 aristianewr.club
 0.0.0.0 arithpouted.com
+0.0.0.0 arkadyczsk.com
 0.0.0.0 arkdcz.com
 0.0.0.0 arkfacialdaybreak.com
 0.0.0.0 arkmedboo.live
@@ -5314,6 +5316,7 @@
 0.0.0.0 bewailindigestionunhappy.com
 0.0.0.0 bewarecontroversy.com
 0.0.0.0 bewareisopointless.com
+0.0.0.0 bewarevampiresister.com
 0.0.0.0 bewathis.com
 0.0.0.0 bewdnkh.com
 0.0.0.0 bewitchadmiringconstraint.com
@@ -16723,6 +16726,7 @@
 0.0.0.0 izitrckr.com
 0.0.0.0 izjzkye.com
 0.0.0.0 izlunwgx.com
+0.0.0.0 izlutev.com
 0.0.0.0 izlzunewumqgg.com
 0.0.0.0 izrnvo.com
 0.0.0.0 izrvuofcrrhsm.com
@@ -16756,6 +16760,7 @@
 0.0.0.0 jadqoc.xyz
 0.0.0.0 jads.co
 0.0.0.0 jaftouja.net
+0.0.0.0 jafzkymimxz.com
 0.0.0.0 jaggedthronelaxative.com
 0.0.0.0 jaggedunaccustomeddime.com
 0.0.0.0 jaggedunique.pro
@@ -17480,6 +17485,7 @@
 0.0.0.0 jxhgcitcqmvv.com
 0.0.0.0 jxkayopaij.com
 0.0.0.0 jxlpafdxbnhak.com
+0.0.0.0 jxlxeeo.com
 0.0.0.0 jxofoyftjdo.xyz
 0.0.0.0 jxpjltwdeu.com
 0.0.0.0 jxpqjztcprvvb.com
@@ -18865,6 +18871,7 @@
 0.0.0.0 lklaiwqnk.com
 0.0.0.0 lklhwrqrcbsxdn.com
 0.0.0.0 lklofubgk.com
+0.0.0.0 lkoqoxgkntjv.com
 0.0.0.0 lkoulntogv.com
 0.0.0.0 lkoxbiwi.com
 0.0.0.0 lkpmprksau.com
@@ -21376,6 +21383,7 @@
 0.0.0.0 nhjnkis.com
 0.0.0.0 nhjsuchlliioi.com
 0.0.0.0 nhkokkrr.com
+0.0.0.0 nhksyoei.com
 0.0.0.0 nhopaepzrh.com
 0.0.0.0 nhotninca.xyz
 0.0.0.0 nhpfvdlbjg.com
@@ -23758,6 +23766,7 @@
 0.0.0.0 perigshfnon.com
 0.0.0.0 periodicmassageate.com
 0.0.0.0 periodpennavigation.com
+0.0.0.0 periodscirculation.com
 0.0.0.0 perishcraft.com
 0.0.0.0 perjurycelsiussenses.com
 0.0.0.0 perksthawers.com
@@ -23916,6 +23925,7 @@
 0.0.0.0 pheneobdure.digital
 0.0.0.0 phenomenonwhilstsleek.com
 0.0.0.0 phenotypebest.com
+0.0.0.0 phepofte.net
 0.0.0.0 pheptoam.com
 0.0.0.0 pheselta.net
 0.0.0.0 phesheet.net
@@ -25864,6 +25874,7 @@
 0.0.0.0 quotes.com
 0.0.0.0 quqcasuxuytehkw.com
 0.0.0.0 qusfmaxgfa.xyz
+0.0.0.0 quxegtegmvlfln.com
 0.0.0.0 quxsiraqxla.com
 0.0.0.0 quxuejhcaz.com
 0.0.0.0 quxwpwcwmmx.xyz
@@ -31348,6 +31359,7 @@
 0.0.0.0 trrmmxjst.com
 0.0.0.0 trsbmiw.com
 0.0.0.0 trskwvl.com
+0.0.0.0 trstx.org
 0.0.0.0 trtjigpsscmv9epe10.com
 0.0.0.0 trtxdtigvap.com
 0.0.0.0 truanet.com
@@ -36744,6 +36756,7 @@
 0.0.0.0 1187386545.rsc.cdn77.org
 0.0.0.0 1187531871.rsc.cdn77.org
 0.0.0.0 1373864970.rsc.cdn77.org
+0.0.0.0 1390582286.rsc.cdn77.org
 0.0.0.0 1433024343.rsc.cdn77.org
 0.0.0.0 1437953666.rsc.cdn77.org
 0.0.0.0 1445112467.rsc.cdn77.org
