@@ -1,7 +1,7 @@
 # ShadowWhispererDynamic
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
-# Last converted - Wed, 14 Feb 2024 08:58:38 +0000
+# Last converted - Wed, 14 Feb 2024 13:00:34 +0000
 #
 
 0.0.0.0 0000000000000000000000.com

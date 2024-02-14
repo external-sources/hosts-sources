@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 14 Feb 2024 08:57:54 +0000
+# Last converted - Wed, 14 Feb 2024 12:59:49 +0000
 #
 
 0.0.0.0 wenoolgo.icu
@@ -38967,6 +38967,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 scripts.jixie.media
+0.0.0.0 pt.wisernotify.com
 0.0.0.0 citrusad.net
 0.0.0.0 pubperf.com
 0.0.0.0 stats.getaim.org
@@ -42347,7 +42349,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 affex.org
 0.0.0.0 tagman.britishairways.com
-0.0.0.0 track.addevent.com
+0.0.0.0 a.deadlinefunnel.com
 0.0.0.0 visitor.sokuja.net
 0.0.0.0 nlog.naver.com
 0.0.0.0 collector.taoxh.life
@@ -55585,6 +55587,11 @@
 0.0.0.0 zvc.cc
 0.0.0.0 zvietcombank.com
 0.0.0.0 zvietnakello.weebly.com
+0.0.0.0 ngnxyub.cn
+0.0.0.0 tyodot.icu
+0.0.0.0 caomeixz7.xyz
+0.0.0.0 cdmnlxtu.xyz
+0.0.0.0 xdmnlxtu.xyz
 0.0.0.0 052db.website
 0.0.0.0 055g.com
 0.0.0.0 05826.online
