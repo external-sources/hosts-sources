@@ -1,9 +1,14 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 15 Feb 2024 16:58:12 +0000
+# Last converted - Thu, 15 Feb 2024 20:57:53 +0000
 #
 
+0.0.0.0 externalfavlink.com
+0.0.0.0 arwobaton.com
+0.0.0.0 gaming001.site
+0.0.0.0 fountaincheek.com
+0.0.0.0 eanwhitepinafor.com
 0.0.0.0 rubestdealfinder.com
 0.0.0.0 wenoolgo.icu
 0.0.0.0 slownansuch.info
@@ -1871,6 +1876,7 @@
 0.0.0.0 aarghwoning.digital
 0.0.0.0 aarswtcnoz.com
 0.0.0.0 aaseovhxkkggtxj.com
+0.0.0.0 aawdlvr.com
 0.0.0.0 aaxads.com
 0.0.0.0 aayeuxotc.com
 0.0.0.0 ab1n.net
@@ -10362,7 +10368,6 @@
 0.0.0.0 eanlingtumfie.com
 0.0.0.0 eanrzzvvmjkl.top
 0.0.0.0 eanrzzvvmjqm.top
-0.0.0.0 eanwhitepinafor.com
 0.0.0.0 earact.com
 0.0.0.0 eardepth-prisists.com
 0.0.0.0 eargentssep.one
@@ -11563,6 +11568,7 @@
 0.0.0.0 exhno.com
 0.0.0.0 exi8ef83z9.com
 0.0.0.0 exinepenname.top
+0.0.0.0 existenceassociationvoice.com
 0.0.0.0 existencethrough.com
 0.0.0.0 existingcraziness.com
 0.0.0.0 exists-mazard.icu
@@ -16386,6 +16392,7 @@
 0.0.0.0 invast.site
 0.0.0.0 inventdebosh.com
 0.0.0.0 inventorypikepockets.com
+0.0.0.0 investcoma.com
 0.0.0.0 investmentstar.org
 0.0.0.0 investorequalityfrog.com
 0.0.0.0 investortirelimetree.com
@@ -20767,6 +20774,7 @@
 0.0.0.0 musclesadmonishment.com
 0.0.0.0 muscleserrandrotund.com
 0.0.0.0 musclesprefacelie.com
+0.0.0.0 musclyskeely.top
 0.0.0.0 museumimpenetrablerepose.com
 0.0.0.0 musicalbilateral.com
 0.0.0.0 musicalglutton.com
@@ -22134,6 +22142,7 @@
 0.0.0.0 oclpegogoccxlw.com
 0.0.0.0 ocmhood.com
 0.0.0.0 ocmtag.com
+0.0.0.0 ocoaksib.com
 0.0.0.0 ocogmhqo.com
 0.0.0.0 oconner.link
 0.0.0.0 ocrppeqevqihdi.com
@@ -22308,6 +22317,7 @@
 0.0.0.0 ohvcuqjqmjcfiys.com
 0.0.0.0 ohwhdspj.com
 0.0.0.0 oiarske.com
+0.0.0.0 oiavdib.com
 0.0.0.0 oijorfkfwtdswv.xyz
 0.0.0.0 oillesssris.guru
 0.0.0.0 oilskinvulvar.digital
@@ -22441,6 +22451,7 @@
 0.0.0.0 omkitww.com
 0.0.0.0 omkxadadsh.com
 0.0.0.0 ommatearittock.digital
+0.0.0.0 ommopxpfuofm.com
 0.0.0.0 omnatuor.com
 0.0.0.0 omni-ads.com
 0.0.0.0 omnidokingon.com
@@ -23832,6 +23843,7 @@
 0.0.0.0 pftamvhajdqhps.xyz
 0.0.0.0 pfuettchk.com
 0.0.0.0 pfulhwxjeoi.com
+0.0.0.0 pfyscjwxjcqdsqc.com
 0.0.0.0 pgbmjuhwiej.xyz
 0.0.0.0 pgdmon.com
 0.0.0.0 pgdyfaphfgouq.com
@@ -27747,6 +27759,7 @@
 0.0.0.0 sdmfyqkghzedvx.com
 0.0.0.0 sdprsvbnj.xyz
 0.0.0.0 sdwbmqqluxiu.com
+0.0.0.0 sdxtxvq.com
 0.0.0.0 sdyxesmfevby.com
 0.0.0.0 seaboblit.com
 0.0.0.0 seafoodclickwaited.com
@@ -33738,6 +33751,7 @@
 0.0.0.0 whupsoza.xyz
 0.0.0.0 whuptaiz.net
 0.0.0.0 whuptouky.com
+0.0.0.0 whustemu.com
 0.0.0.0 whutchey.com
 0.0.0.0 whuweehy.xyz
 0.0.0.0 whychymithy.com
@@ -35262,6 +35276,7 @@
 0.0.0.0 zmikrctxf.com
 0.0.0.0 zmjagawa.com
 0.0.0.0 znaptag.com
+0.0.0.0 zncsdysorwms.com
 0.0.0.0 znqip.net
 0.0.0.0 zoachoar.net
 0.0.0.0 zoachops.com
@@ -36709,6 +36724,7 @@
 0.0.0.0 1647871863.rsc.cdn77.org
 0.0.0.0 1675450967.rsc.cdn77.org
 0.0.0.0 1680292335.rsc.cdn77.org
+0.0.0.0 1687097253.rsc.cdn77.org
 0.0.0.0 1736253261.rsc.cdn77.org
 0.0.0.0 1857964468.rsc.cdn77.org
 0.0.0.0 1874562524.rsc.cdn77.org
@@ -36876,6 +36892,7 @@
 0.0.0.0 widgets.oddschecker.com
 0.0.0.0 widgets.progrids.com
 0.0.0.0 widgets.tree.com
+0.0.0.0 winonexd.b-cdn.net
 0.0.0.0 yield-op-idsync.live.streamtheworld.com
 0.0.0.0 zv.7vid.net
 0.0.0.0 ad.intl.xiaomi.com
@@ -42296,6 +42313,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 affex.org
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 statistik.changing-cities.org
 0.0.0.0 ping.paidy.com
 0.0.0.0 a.deadlinefunnel.com
 0.0.0.0 visitor.sokuja.net
@@ -49887,6 +49905,7 @@
 0.0.0.0 analytics.sunet.se
 0.0.0.0 analytics.svt.se
 0.0.0.0 analytics.undeco.se
+0.0.0.0 analytics.vackertvader.se
 0.0.0.0 analytics-smhise.smhi.se
 0.0.0.0 analytics.ci-360.se
 0.0.0.0 angry-golick-2a96e5.netlify.app
@@ -49895,6 +49914,7 @@
 0.0.0.0 anonymousdemographics.com
 0.0.0.0 api.adfenix.com
 0.0.0.0 api.getlevelten.com
+0.0.0.0 api.lab.eu.amplitude.com
 0.0.0.0 app.converdiant.com
 0.0.0.0 app.truconversion.com
 0.0.0.0 apps.shareaholic.com
@@ -50016,6 +50036,7 @@
 0.0.0.0 fapp.pw
 0.0.0.0 feed.aservice.tools
 0.0.0.0 fila.com.se
+0.0.0.0 flag.lab.eu.amplitude.com
 0.0.0.0 footjoygolfskorrea.com.se
 0.0.0.0 fraagesport.com
 0.0.0.0 freegeoip.app
@@ -50149,6 +50170,7 @@
 0.0.0.0 rpofsweden.com
 0.0.0.0 rpofsweden.se
 0.0.0.0 rum-http-intake.logs.datadoghq.eu
+0.0.0.0 rum-reporter-prod.exp.bn.nr
 0.0.0.0 s.ntv.io
 0.0.0.0 sak.userreport.com
 0.0.0.0 salesbooster.ai
@@ -55534,26 +55556,26 @@
 0.0.0.0 zvc.cc
 0.0.0.0 zvietcombank.com
 0.0.0.0 zvietnakello.weebly.com
-0.0.0.0 caomeixz7.xyz
-0.0.0.0 cdmnlxtu.xyz
-0.0.0.0 ngnxyub.cn
-0.0.0.0 tyodot.icu
-0.0.0.0 lvdedf.xyz
-0.0.0.0 spsfupq.cn
-0.0.0.0 yliffnsc.xyz
-0.0.0.0 agmed.cyou
-0.0.0.0 ycqbgm.xyz
-0.0.0.0 xszw0.icu
-0.0.0.0 ztxjutz.xyz
 0.0.0.0 88lm05.com
-0.0.0.0 dsbqvj.xyz
+0.0.0.0 agmed.cyou
+0.0.0.0 caomeixz7.xyz
 0.0.0.0 ccsshn137.shop
-0.0.0.0 cwssfg632.shop
-0.0.0.0 szpnz.cn
+0.0.0.0 cdmnlxtu.xyz
 0.0.0.0 cliffnsc.xyz
+0.0.0.0 cwssfg632.shop
+0.0.0.0 dsbqvj.xyz
+0.0.0.0 lvdedf.xyz
+0.0.0.0 ngnxyub.cn
+0.0.0.0 spsfupq.cn
+0.0.0.0 szpnz.cn
+0.0.0.0 tyodot.icu
 0.0.0.0 xcypgd.icu
-0.0.0.0 xliffnsc.xyz
 0.0.0.0 xdmnlxtu.xyz
+0.0.0.0 xliffnsc.xyz
+0.0.0.0 xszw0.icu
+0.0.0.0 ycqbgm.xyz
+0.0.0.0 yliffnsc.xyz
+0.0.0.0 ztxjutz.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
