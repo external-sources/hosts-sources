@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 15 Feb 2024 04:57:46 +0000
+# Last converted - Thu, 15 Feb 2024 08:57:42 +0000
 #
 
 0.0.0.0 wenoolgo.icu
@@ -2473,6 +2473,7 @@
 0.0.0.0 adro.pro
 0.0.0.0 adroitontoconstraint.com
 0.0.0.0 adrokt.com
+0.0.0.0 adrpqhttgzcjb.com
 0.0.0.0 ads-delivery.b-cdn.net
 0.0.0.0 ads-static.conde.digital
 0.0.0.0 ads-twitter.com
@@ -6132,6 +6133,7 @@
 0.0.0.0 bro1.biz
 0.0.0.0 bro4.biz
 0.0.0.0 broadliquorsecretion.com
+0.0.0.0 broadsheetblaze.com
 0.0.0.0 broadsheetcounterfeitappeared.com
 0.0.0.0 broadsimp.site
 0.0.0.0 broadsview.site
@@ -18902,6 +18904,7 @@
 0.0.0.0 lkyrxsfsust.com
 0.0.0.0 lkzlambkzljee.top
 0.0.0.0 lkzlambkzllaz.top
+0.0.0.0 llalo.click
 0.0.0.0 llantynethebrav.xyz
 0.0.0.0 llapaewllfc.com
 0.0.0.0 llcbcqfwxyhgyda.com
@@ -21384,6 +21387,7 @@
 0.0.0.0 ngeoziadiyc4hi2e.com
 0.0.0.0 ngforanoppor.info
 0.0.0.0 ngfruitiesmatc.info
+0.0.0.0 ngineet.cfd
 0.0.0.0 nglestpeoplesho.com
 0.0.0.0 nglmedia.com
 0.0.0.0 ngnhdkjnspb.com
@@ -28847,6 +28851,7 @@
 0.0.0.0 softpopads.com
 0.0.0.0 softspace.mobi
 0.0.0.0 softsystem.pro
+0.0.0.0 softwa.cfd
 0.0.0.0 softwarepastel.com
 0.0.0.0 softwares2015.com
 0.0.0.0 sogadetin.com
@@ -36807,6 +36812,7 @@
 0.0.0.0 1680292335.rsc.cdn77.org
 0.0.0.0 1736253261.rsc.cdn77.org
 0.0.0.0 1857964468.rsc.cdn77.org
+0.0.0.0 1874562524.rsc.cdn77.org
 0.0.0.0 1921777336.rsc.cdn77.org
 0.0.0.0 1931283355.rsc.cdn77.org
 0.0.0.0 1934671980.rsc.cdn77.org
@@ -55632,6 +55638,20 @@
 0.0.0.0 cdmnlxtu.xyz
 0.0.0.0 ngnxyub.cn
 0.0.0.0 tyodot.icu
+0.0.0.0 lvdedf.xyz
+0.0.0.0 spsfupq.cn
+0.0.0.0 yliffnsc.xyz
+0.0.0.0 agmed.cyou
+0.0.0.0 ycqbgm.xyz
+0.0.0.0 xszw0.icu
+0.0.0.0 ztxjutz.xyz
+0.0.0.0 88lm05.com
+0.0.0.0 dsbqvj.xyz
+0.0.0.0 ccsshn137.shop
+0.0.0.0 cwssfg632.shop
+0.0.0.0 szpnz.cn
+0.0.0.0 cliffnsc.xyz
+0.0.0.0 xcypgd.icu
 0.0.0.0 xdmnlxtu.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
