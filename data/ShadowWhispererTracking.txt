@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 14 Feb 2024 20:58:59 +0000
+# Last converted - Thu, 15 Feb 2024 01:38:57 +0000
 #
 
 0.0.0.0 01counter.com
@@ -12838,6 +12838,7 @@
 0.0.0.0 av.herman-is.com
 0.0.0.0 aviation.shell.com
 0.0.0.0 avidglobalmedia.com
+0.0.0.0 avidstats.com
 0.0.0.0 avighna9.realatte.com
 0.0.0.0 aviso.com
 0.0.0.0 a.vliegwinkel.nl
@@ -32194,6 +32195,7 @@
 0.0.0.0 mspy.com
 0.0.0.0 ms.sc-jpl.com
 0.0.0.0 ms.starbucks.co.jp
+0.0.0.0 mstat.info
 0.0.0.0 mstcs.info
 0.0.0.0 mstm.motorsport.com
 0.0.0.0 mstrlytcs.com

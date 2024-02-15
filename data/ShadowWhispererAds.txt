@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 14 Feb 2024 20:58:55 +0000
+# Last converted - Thu, 15 Feb 2024 01:38:55 +0000
 #
 
 0.0.0.0 00px.net
@@ -5670,6 +5670,7 @@
 0.0.0.0 adx.gayboy.at
 0.0.0.0 adx.hoanggia.net.vn
 0.0.0.0 adx.hongtinnhanh.com
+0.0.0.0 ad.xiaomi.com
 0.0.0.0 adxinspidsp.com
 0.0.0.0 ad.xinyinhao.cn
 0.0.0.0 adx.io
@@ -10411,6 +10412,7 @@
 0.0.0.0 inspiremarketing.co
 0.0.0.0 inspon.ae
 0.0.0.0 instabid.tech
+0.0.0.0 instagramcdn.com
 0.0.0.0 installads.com
 0.0.0.0 installfarm.com
 0.0.0.0 instantpu.sh

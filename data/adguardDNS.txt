@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 14 Feb 2024 20:58:12 +0000
+# Last converted - Thu, 15 Feb 2024 01:38:23 +0000
 #
 
 0.0.0.0 wenoolgo.icu
@@ -3835,6 +3835,7 @@
 0.0.0.0 aqkbyevrklvnw.top
 0.0.0.0 aqkkoalfpz.com
 0.0.0.0 aqqlwcuqtskbz.com
+0.0.0.0 aqroxlquvshe.com
 0.0.0.0 aqsufdbramaw.com
 0.0.0.0 aquentlytujim.com
 0.0.0.0 aquiliapistrix.guru
@@ -6056,6 +6057,7 @@
 0.0.0.0 brbupali.com
 0.0.0.0 brdhbgcp.com
 0.0.0.0 breadpro.com
+0.0.0.0 breadthneedle.com
 0.0.0.0 breakablepermit.com
 0.0.0.0 breakdownreprintsentimental.com
 0.0.0.0 breakfastinvitingdetergent.com
@@ -8647,6 +8649,7 @@
 0.0.0.0 czfpgkujv.com
 0.0.0.0 czfyaemtweo.com
 0.0.0.0 czglcxlh.com
+0.0.0.0 czgsygbcaazp.com
 0.0.0.0 czh5aa.xyz
 0.0.0.0 czvdyzt.com
 0.0.0.0 czyoxhxufpm.com
@@ -9081,6 +9084,7 @@
 0.0.0.0 delayeddisembroildisembroil.com
 0.0.0.0 delegatediscussion.com
 0.0.0.0 deletedjohnny.com
+0.0.0.0 delicious-slip.pro
 0.0.0.0 delightedintention.com
 0.0.0.0 delightful-page.pro
 0.0.0.0 delightfulsensitive.pro
@@ -12040,6 +12044,7 @@
 0.0.0.0 feedinburgmands.site
 0.0.0.0 feedlottumasha.guru
 0.0.0.0 feedyourheadmag.com
+0.0.0.0 feefoamo.net
 0.0.0.0 feefouga.com
 0.0.0.0 feegozoa.com
 0.0.0.0 feegreep.xyz
@@ -14629,6 +14634,7 @@
 0.0.0.0 hatchetsummit.com
 0.0.0.0 hatchord.com
 0.0.0.0 hatedgeographical.com
+0.0.0.0 hatefulgirlfriend.com
 0.0.0.0 hatredsmell.uno
 0.0.0.0 hats-47b.com
 0.0.0.0 hatsamevill.org
@@ -18731,6 +18737,7 @@
 0.0.0.0 lilacbalak.top
 0.0.0.0 lilacdefencelessroyal.com
 0.0.0.0 lilacsloppy.com
+0.0.0.0 lilcybu.com
 0.0.0.0 lilureem.com
 0.0.0.0 lilysuffocateacademy.com
 0.0.0.0 lilysummoned.com
@@ -19202,6 +19209,7 @@
 0.0.0.0 lsandothesaber.org
 0.0.0.0 lsckongo.website
 0.0.0.0 lsgktcuajpifxg.xyz
+0.0.0.0 lsgwkbk.com
 0.0.0.0 lsjne.com
 0.0.0.0 lsjvqovgx.com
 0.0.0.0 lsnghcma.com
@@ -20514,6 +20522,7 @@
 0.0.0.0 montpdp.top
 0.0.0.0 montwam.top
 0.0.0.0 monumentsmaterialeasel.com
+0.0.0.0 monutroco.com
 0.0.0.0 monxserver.com
 0.0.0.0 mooantink.com
 0.0.0.0 moocaicaico.com
@@ -21713,6 +21722,7 @@
 0.0.0.0 notify-service.com
 0.0.0.0 notify.rocks
 0.0.0.0 notify6.com
+0.0.0.0 notifydisparage.com
 0.0.0.0 notifyerr.com
 0.0.0.0 notifyoutspoken.com
 0.0.0.0 notifypicture.info
@@ -24902,6 +24912,7 @@
 0.0.0.0 proceduresjeer.com
 0.0.0.0 procesosfultry.info
 0.0.0.0 processionhardly.com
+0.0.0.0 processpardon.com
 0.0.0.0 proclamationgumadvocate.com
 0.0.0.0 proclean.club
 0.0.0.0 procristhimber.cfd
@@ -26155,6 +26166,7 @@
 0.0.0.0 rcwuzudjcsjmr.com
 0.0.0.0 rddywd.com
 0.0.0.0 rderstartirrelea.info
+0.0.0.0 rdgdjmgll.com
 0.0.0.0 rdghnhu.com
 0.0.0.0 rdjbhghljkrca.com
 0.0.0.0 rdrceting.com
@@ -29609,6 +29621,7 @@
 0.0.0.0 stupendousconcept.pro
 0.0.0.0 stupidityficklecapability.com
 0.0.0.0 stuted.com
+0.0.0.0 stvbiopr.net
 0.0.0.0 stvkr.com
 0.0.0.0 stvsmdhfplfrcy.xyz
 0.0.0.0 stydrumgmaringpo.info
@@ -31985,6 +31998,7 @@
 0.0.0.0 unequaltravelresearch.com
 0.0.0.0 unevenobjective.com
 0.0.0.0 unevenregime.com
+0.0.0.0 uneventechnology.com
 0.0.0.0 unfainfraseirs.org
 0.0.0.0 unfairpromritual.com
 0.0.0.0 unfaithfulgoddess.com
@@ -36796,6 +36810,7 @@
 0.0.0.0 1921777336.rsc.cdn77.org
 0.0.0.0 1931283355.rsc.cdn77.org
 0.0.0.0 1934671980.rsc.cdn77.org
+0.0.0.0 1948576968.rsc.cdn77.org
 0.0.0.0 1969321160.rsc.cdn77.org
 0.0.0.0 360playvid.com
 0.0.0.0 360playvid.info
