@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Fri, 16 Feb 2024 12:59:54 +0000
+# Last converted - Fri, 16 Feb 2024 16:58:40 +0000
 #
 
 0.0.0.0 00px.net
@@ -8812,6 +8812,7 @@
 0.0.0.0 dustin5043.fr
 0.0.0.0 dutchleader.nl
 0.0.0.0 duxad.com
+0.0.0.0 dvagh3p3rk8xj.cloudfront.net
 0.0.0.0 dvs.com
 0.0.0.0 dvypar.com
 0.0.0.0 dw26xg4lubooo.cloudfront.net
@@ -9163,6 +9164,7 @@
 0.0.0.0 extads.gameloft.com
 0.0.0.0 extendad.com
 0.0.0.0 extend.tv
+0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 extras.prairiemountainmedia.com
 0.0.0.0 extra.treddi.com
 0.0.0.0 extremeleadprogram.com
