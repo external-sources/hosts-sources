@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 16 Feb 2024 08:57:53 +0000
+# Last converted - Fri, 16 Feb 2024 12:59:18 +0000
 #
 
+0.0.0.0 imagoluchuan.com
 0.0.0.0 externalfavlink.com
 0.0.0.0 arwobaton.com
 0.0.0.0 gaming001.site
@@ -55767,6 +55768,10 @@
 0.0.0.0 yyddkm526.shop
 0.0.0.0 przbzr.xyz
 0.0.0.0 bmnbyn.icu
+0.0.0.0 cdfhidrk.xyz
+0.0.0.0 szptp.cn
+0.0.0.0 xdfhidrk.xyz
+0.0.0.0 gicjtss.cn
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
