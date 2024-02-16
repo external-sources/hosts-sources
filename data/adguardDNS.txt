@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 15 Feb 2024 20:57:53 +0000
+# Last converted - Fri, 16 Feb 2024 01:37:38 +0000
 #
 
 0.0.0.0 externalfavlink.com
@@ -7173,6 +7173,7 @@
 0.0.0.0 childrenweavestun.com
 0.0.0.0 chileslatrede.com
 0.0.0.0 chiliadv.com
+0.0.0.0 chilicached.com
 0.0.0.0 chilionturcism.website
 0.0.0.0 chimamanndgaocozmi.com
 0.0.0.0 chimblyconyger.com
@@ -25914,6 +25915,7 @@
 0.0.0.0 qzdmvwewzxzzze.com
 0.0.0.0 qzkjkiexmsyv.com
 0.0.0.0 qzqmrlqnnzwab.top
+0.0.0.0 qzsgudj.com
 0.0.0.0 qzyllgqficyd.com
 0.0.0.0 qzynbzjrkarma.top
 0.0.0.0 r-tb.com
@@ -27426,6 +27428,7 @@
 0.0.0.0 safebrowsdv.com
 0.0.0.0 safeclatter.com
 0.0.0.0 safeconspiracy.com
+0.0.0.0 safeglimmerlongitude.com
 0.0.0.0 safeguardconform.com
 0.0.0.0 safeguardoperating.com
 0.0.0.0 safelinkconverter.com
@@ -32053,6 +32056,7 @@
 0.0.0.0 untiedecide.com
 0.0.0.0 untifa.com
 0.0.0.0 untimburra.com
+0.0.0.0 untineanunder.com
 0.0.0.0 untrendenam.com
 0.0.0.0 untrk.xyz
 0.0.0.0 untrol.com
@@ -32916,6 +32920,7 @@
 0.0.0.0 vlfpznssnvbdt.com
 0.0.0.0 vlitag.com
 0.0.0.0 vlkkwxncamnq.com
+0.0.0.0 vllsour.com
 0.0.0.0 vlnk.me
 0.0.0.0 vlry5l4j5gbn.com
 0.0.0.0 vltwoizzckpp.com
@@ -55576,6 +55581,14 @@
 0.0.0.0 ycqbgm.xyz
 0.0.0.0 yliffnsc.xyz
 0.0.0.0 ztxjutz.xyz
+0.0.0.0 js131.cn
+0.0.0.0 ydfhidrk.xyz
+0.0.0.0 kbomku.xyz
+0.0.0.0 lfffzv.xyz
+0.0.0.0 uctutu3789.xyz
+0.0.0.0 gvbta.icu
+0.0.0.0 qlbbowx.xyz
+0.0.0.0 yyddkm526.shop
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
