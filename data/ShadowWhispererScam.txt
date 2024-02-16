@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Thu, 15 Feb 2024 20:58:28 +0000
+# Last converted - Fri, 16 Feb 2024 01:38:11 +0000
 #
 
 0.0.0.0 007-dvd.com
@@ -1354,6 +1354,7 @@
 0.0.0.0 bflairs.com
 0.0.0.0 bforex.com
 0.0.0.0 bfscontainersales.com
+0.0.0.0 bgri.site
 0.0.0.0 bhavgroup.com
 0.0.0.0 bheasycargo.com
 0.0.0.0 biancaangelskennels.co.za
@@ -5661,6 +5662,7 @@
 0.0.0.0 hpenvy.us
 0.0.0.0 hpeprint.co
 0.0.0.0 hpfulldrivers.com
+0.0.0.0 hphelp.info
 0.0.0.0 hpnotebookdrivers.com
 0.0.0.0 hp-number.com
 0.0.0.0 hpprinterconnect.com
@@ -7747,6 +7749,7 @@
 0.0.0.0 news4ktla.com
 0.0.0.0 news4more.com
 0.0.0.0 news9.com
+0.0.0.0 newscheck15.com
 0.0.0.0 newshirtstore.com
 0.0.0.0 newsmutiny.com
 0.0.0.0 newspunch.com
@@ -8429,7 +8432,6 @@
 0.0.0.0 pcbplc.com
 0.0.0.0 pclitters.com
 0.0.0.0 pcrndt.com
-0.0.0.0 pcsx4.com
 0.0.0.0 pctonics.com
 0.0.0.0 p-cul.com
 0.0.0.0 pdhcontractors.com
