@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 17 Feb 2024 08:57:50 +0000
+# Last converted - Sat, 17 Feb 2024 12:58:05 +0000
 #
 
 0.0.0.0 fxhngjdubf.xyz
@@ -42493,6 +42493,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 affex.org
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 collector-pxfqtaw5et.px-client.net
 0.0.0.0 statistik.changing-cities.org
 0.0.0.0 ping.paidy.com
 0.0.0.0 a.deadlinefunnel.com
@@ -55779,6 +55780,7 @@
 0.0.0.0 bjswhpy.cn
 0.0.0.0 fwcnex.icu
 0.0.0.0 cvbjctqs.xyz
+0.0.0.0 xvbjctqs.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
