@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 17 Feb 2024 04:58:00 +0000
+# Last converted - Sat, 17 Feb 2024 08:57:50 +0000
 #
 
 0.0.0.0 fxhngjdubf.xyz
@@ -25363,6 +25363,7 @@
 0.0.0.0 pu1.biz
 0.0.0.0 pu3.biz
 0.0.0.0 pu5hk1n2020.com
+0.0.0.0 pub.network
 0.0.0.0 pubacca5mc.com
 0.0.0.0 pubaka5.com
 0.0.0.0 pubceremony.com
@@ -55768,6 +55769,16 @@
 0.0.0.0 yliffnsc.xyz
 0.0.0.0 yyddkm526.shop
 0.0.0.0 ztxjutz.xyz
+0.0.0.0 hmrwkcx.cn
+0.0.0.0 yvbjctqs.xyz
+0.0.0.0 tchdxl.xyz
+0.0.0.0 l5kt1.icu
+0.0.0.0 wnmaoc.xyz
+0.0.0.0 cdftizu.xyz
+0.0.0.0 bdxpdz.xyz
+0.0.0.0 bjswhpy.cn
+0.0.0.0 fwcnex.icu
+0.0.0.0 cvbjctqs.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
