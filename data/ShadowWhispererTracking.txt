@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Fri, 16 Feb 2024 20:58:27 +0000
+# Last converted - Sat, 17 Feb 2024 01:37:06 +0000
 #
 
 0.0.0.0 01counter.com
@@ -12801,6 +12801,7 @@
 0.0.0.0 automation.quickshop.ro
 0.0.0.0 automation.staylearning.com
 0.0.0.0 automation.translatemedia.com
+0.0.0.0 automizely-analytics.com
 0.0.0.0 automotive.horiba.com
 0.0.0.0 autonavi.com
 0.0.0.0 autonomous-analytics-qffztaoryq-uc.a.run.app

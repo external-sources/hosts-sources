@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 16 Feb 2024 20:57:53 +0000
+# Last converted - Sat, 17 Feb 2024 01:36:31 +0000
 #
 
 0.0.0.0 fxhngjdubf.xyz
@@ -10835,6 +10835,7 @@
 0.0.0.0 ekrnhbmrbbvwdro.com
 0.0.0.0 ektobedirectuklyec.info
 0.0.0.0 ekwpqoql.xyz
+0.0.0.0 ekwzxay.com
 0.0.0.0 elacapivi.com
 0.0.0.0 elaifmeauswvlki.xyz
 0.0.0.0 elajowser.com
@@ -11852,6 +11853,7 @@
 0.0.0.0 falcatayamalka.com
 0.0.0.0 falkag.net
 0.0.0.0 falkwo.com
+0.0.0.0 fallalentered.com
 0.0.0.0 fallingseveral.com
 0.0.0.0 fallinsolence.com
 0.0.0.0 falloutbraidengaged.com
@@ -15704,6 +15706,7 @@
 0.0.0.0 ibjdmthqkz.com
 0.0.0.0 ibonmfvcwb.xyz
 0.0.0.0 ibpxnkwstvqcon.com
+0.0.0.0 ibqjduiipukerj.com
 0.0.0.0 ibrapush.com
 0.0.0.0 ibryte.com
 0.0.0.0 ibtjhkwytup.xyz
@@ -16380,6 +16383,7 @@
 0.0.0.0 integralpickleatrocious.com
 0.0.0.0 integrationproducerbeing.com
 0.0.0.0 integrityprinciplesthorough.com
+0.0.0.0 intellectualhide.com
 0.0.0.0 intellectualintellect.com
 0.0.0.0 intellibanners.com
 0.0.0.0 intelligenceadx.com
@@ -18225,6 +18229,7 @@
 0.0.0.0 kvymlsb.com
 0.0.0.0 kw3y5otoeuniv7e9rsi.com
 0.0.0.0 kwbmkwej.com
+0.0.0.0 kwedzcq.com
 0.0.0.0 kwhhdwyuvi.com
 0.0.0.0 kwjjpphbsuuoe.com
 0.0.0.0 kwkkxztnjbr.com
@@ -24439,6 +24444,7 @@
 0.0.0.0 pneral.com
 0.0.0.0 pnlsgvlgujav.com
 0.0.0.0 pnlwbcxphfhgqp.com
+0.0.0.0 pnperf.com
 0.0.0.0 pnpmreuwqv.xyz
 0.0.0.0 pnrblholty.com
 0.0.0.0 pnsqsv.com
@@ -24544,6 +24550,7 @@
 0.0.0.0 pompomsshock.com
 0.0.0.0 pompousdescended.com
 0.0.0.0 pompoussqueal.com
+0.0.0.0 pompreflected.com
 0.0.0.0 pomptame.com
 0.0.0.0 pon-prairie.com
 0.0.0.0 ponchowafesargb.com
@@ -25356,7 +25363,6 @@
 0.0.0.0 pu1.biz
 0.0.0.0 pu3.biz
 0.0.0.0 pu5hk1n2020.com
-0.0.0.0 pub.network
 0.0.0.0 pubacca5mc.com
 0.0.0.0 pubaka5.com
 0.0.0.0 pubceremony.com
@@ -30734,6 +30740,7 @@
 0.0.0.0 throngsarseno.com
 0.0.0.0 throughdazzlesponge.com
 0.0.0.0 throughdfp.com
+0.0.0.0 throwsceases.com
 0.0.0.0 thrtle.com
 0.0.0.0 thruss.com
 0.0.0.0 thrustlumpypulse.com
@@ -38165,7 +38172,6 @@
 0.0.0.0 plantaosexy.com
 0.0.0.0 plugrush.com
 0.0.0.0 pnads.com
-0.0.0.0 pnperf.com
 0.0.0.0 poonproscash.com
 0.0.0.0 popander.com
 0.0.0.0 popupclick.ru
@@ -39100,6 +39106,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 site-config.com
 0.0.0.0 getui.com
 0.0.0.0 pixel.glimr.io
 0.0.0.0 scripts.jixie.media
