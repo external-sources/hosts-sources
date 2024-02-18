@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 17 Feb 2024 20:57:53 +0000
+# Last converted - Sun, 18 Feb 2024 01:41:01 +0000
 #
 
 0.0.0.0 fxhngjdubf.xyz
@@ -3955,6 +3955,7 @@
 0.0.0.0 army.delivery
 0.0.0.0 arnautjamdani.com
 0.0.0.0 arnchealpa.com
+0.0.0.0 arnditluplfa.com
 0.0.0.0 arnepurxlbsjiih.xyz
 0.0.0.0 arnimalconeer.com
 0.0.0.0 arnofourgu.com
@@ -4071,6 +4072,7 @@
 0.0.0.0 ashionismscol.info
 0.0.0.0 ashkeyoptical.guru
 0.0.0.0 ashlarinaugur.com
+0.0.0.0 ashopsoo.net
 0.0.0.0 ashoreyuripatter.com
 0.0.0.0 ashoupsu.com
 0.0.0.0 ashturfchap.com
@@ -18403,6 +18405,7 @@
 0.0.0.0 lardyirreproachabledeserve.com
 0.0.0.0 larentisol.com
 0.0.0.0 largedoubly.com
+0.0.0.0 largeharass.com
 0.0.0.0 largepeering.com
 0.0.0.0 larkyabandum.com
 0.0.0.0 larontale.com
@@ -19230,6 +19233,7 @@
 0.0.0.0 lp-preview.net
 0.0.0.0 lp247p.com
 0.0.0.0 lpaqjnfmxftqfx.com
+0.0.0.0 lparket.com
 0.0.0.0 lpawakkabpho.com
 0.0.0.0 lpeqztx.com
 0.0.0.0 lpetooopz.com
@@ -20735,6 +20739,7 @@
 0.0.0.0 mpbpuctr.com
 0.0.0.0 mpecehfd.xyz
 0.0.0.0 mpfofpynoououe.xyz
+0.0.0.0 mphhqaw.com
 0.0.0.0 mpk01.com
 0.0.0.0 mplayeranyd.info
 0.0.0.0 mpmant.com
@@ -24532,6 +24537,7 @@
 0.0.0.0 poligh.com
 0.0.0.0 polishsimilarlybutcher.com
 0.0.0.0 politenesscalmantiquarian.com
+0.0.0.0 politesewer.com
 0.0.0.0 politicallyautograph.com
 0.0.0.0 politicallypotentgentle.com
 0.0.0.0 politicalname.com
@@ -26879,6 +26885,7 @@
 0.0.0.0 rfmjcnramsw.com
 0.0.0.0 rftodidsrel.com
 0.0.0.0 rftslb.com
+0.0.0.0 rfxxjpuh.com
 0.0.0.0 rgbvgxfcp.xyz
 0.0.0.0 rgbvncnqzlvwr.com
 0.0.0.0 rgcxmzrmcvbxem.com
@@ -28263,6 +28270,7 @@
 0.0.0.0 shauhacm.net
 0.0.0.0 shauhaik.xyz
 0.0.0.0 shauksug.com
+0.0.0.0 shauladubhe.top
 0.0.0.0 shaulauhuck.com
 0.0.0.0 shaumpem.com
 0.0.0.0 shaumtol.com
@@ -30771,6 +30779,7 @@
 0.0.0.0 thump-night-stand.com
 0.0.0.0 thumpdrownthreat.com
 0.0.0.0 thumpssleys.com
+0.0.0.0 thunderdepthsforger.top
 0.0.0.0 thunderhead.com
 0.0.0.0 thunderous-request.pro
 0.0.0.0 thuphedsaup.com
@@ -31664,6 +31673,7 @@
 0.0.0.0 turnminimizeinterference.com
 0.0.0.0 turnreview.com
 0.0.0.0 turnstilespacious.com
+0.0.0.0 turnstileunavailablesite.com
 0.0.0.0 turpentinecomics.com
 0.0.0.0 tuscanyaskant.com
 0.0.0.0 tuskercampe.life
@@ -33913,6 +33923,7 @@
 0.0.0.0 whowascryingforthe.com
 0.0.0.0 whowhipi.net
 0.0.0.0 whpqvmaxr.xyz
+0.0.0.0 whqxqwy.com
 0.0.0.0 whreqyvajeer.com
 0.0.0.0 whsledorking.com
 0.0.0.0 whuckaip.xyz
@@ -55834,6 +55845,11 @@
 0.0.0.0 yvbjctqs.xyz
 0.0.0.0 yyddkm526.shop
 0.0.0.0 ztxjutz.xyz
+0.0.0.0 tmjetb.xyz
+0.0.0.0 ogznfgl.cn
+0.0.0.0 qzalsk.xyz
+0.0.0.0 ydybwjpa.xyz
+0.0.0.0 ovjlccs.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
