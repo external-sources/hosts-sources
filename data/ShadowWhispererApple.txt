@@ -1,6 +1,6 @@
 # ShadowWhispererApple
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple
-# Last converted - Sun, 18 Feb 2024 04:58:44 +0000
+# Last converted - Sun, 18 Feb 2024 08:58:15 +0000
 #
 
