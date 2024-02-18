@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 18 Feb 2024 08:57:43 +0000
+# Last converted - Sun, 18 Feb 2024 12:58:12 +0000
 #
 
 0.0.0.0 fxhngjdubf.xyz
@@ -36899,6 +36899,24 @@
 0.0.0.0 lgad.cjpowercast.com.edgesuite.net
 0.0.0.0 lgsmartad.com
 0.0.0.0 samsungacr.com
+0.0.0.0 utiq-aws.net
+0.0.0.0 utiq.24auto.de
+0.0.0.0 utiq.24hamburg.de
+0.0.0.0 utiq.24rhein.de
+0.0.0.0 utiq.buzzfeed.de
+0.0.0.0 utiq.come-on.de
+0.0.0.0 utiq.einfach-tasty.de
+0.0.0.0 utiq.fnp.de
+0.0.0.0 utiq.fr.de
+0.0.0.0 utiq.hna.de
+0.0.0.0 utiq.ingame.de
+0.0.0.0 utiq.kreiszeitung.de
+0.0.0.0 utiq.merkur.de
+0.0.0.0 utiq.mopo.de
+0.0.0.0 utiq.op-online.de
+0.0.0.0 utiq.soester-anzeiger.de
+0.0.0.0 utiq.tz.de
+0.0.0.0 utiq.wa.de
 0.0.0.0 1080872514.rsc.cdn77.org
 0.0.0.0 10945-2.s.cdn15.com
 0.0.0.0 10945-5.s.cdn15.com
@@ -39132,6 +39150,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 event.lib.visumo.io
 0.0.0.0 gtm.taginstall.com
 0.0.0.0 mdstats.info
 0.0.0.0 site-config.com
@@ -42520,6 +42539,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 affex.org
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 analytics.castel.jp
 0.0.0.0 tagging.anaxago.com
 0.0.0.0 tagging.boataround.com
 0.0.0.0 tagging.bokus.com
@@ -55859,6 +55879,7 @@
 0.0.0.0 uu22662.com
 0.0.0.0 benpsbp.com
 0.0.0.0 tu2024020388.com
+0.0.0.0 xdybwjpa.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
