@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 19 Feb 2024 08:58:13 +0000
+# Last converted - Mon, 19 Feb 2024 12:59:30 +0000
 #
 
 0.0.0.0 fxhngjdubf.xyz
@@ -30294,7 +30294,6 @@
 0.0.0.0 taxmenredug.top
 0.0.0.0 taxodiu2m2dis7tichum.com
 0.0.0.0 taxpillsqueal.com
-0.0.0.0 tayloryourbestlife.com
 0.0.0.0 tazagdv.com
 0.0.0.0 tberjonk.com
 0.0.0.0 tbgmckdemnv.com
@@ -37115,6 +37114,7 @@
 0.0.0.0 widgets.progrids.com
 0.0.0.0 widgets.tree.com
 0.0.0.0 winonexd.b-cdn.net
+0.0.0.0 wixlabs-adsense-v3.uc.r.appspot.com
 0.0.0.0 yield-op-idsync.live.streamtheworld.com
 0.0.0.0 zv.7vid.net
 0.0.0.0 ad.intl.xiaomi.com
@@ -49172,6 +49172,8 @@
 0.0.0.0 mineralisasse.site
 0.0.0.0 kz.cateredjapish.com
 0.0.0.0 adserver.icimedias.ca
+0.0.0.0 ad1.girls-affiliate.com
+0.0.0.0 manga.boy.jp
 0.0.0.0 af.atsoho.com
 0.0.0.0 flux-cdn.com
 0.0.0.0 seo.linel.top
@@ -55920,6 +55922,7 @@
 0.0.0.0 nkbkor.icu
 0.0.0.0 szbhb.cn
 0.0.0.0 cvudqzoa.xyz
+0.0.0.0 xvudqzoa.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
