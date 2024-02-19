@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 18 Feb 2024 20:57:52 +0000
+# Last converted - Mon, 19 Feb 2024 01:39:31 +0000
 #
 
 0.0.0.0 fxhngjdubf.xyz
@@ -55893,6 +55893,11 @@
 0.0.0.0 tu2024020388.com
 0.0.0.0 xdybwjpa.xyz
 0.0.0.0 kksjsa.top
+0.0.0.0 bwlcpr.xyz
+0.0.0.0 uxrdg.cn
+0.0.0.0 yvudqzoa.xyz
+0.0.0.0 clywws.xyz
+0.0.0.0 anjdwmq.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
