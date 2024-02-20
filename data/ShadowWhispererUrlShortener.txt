@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Mon, 19 Feb 2024 20:58:36 +0000
+# Last converted - Tue, 20 Feb 2024 01:37:22 +0000
 #
 
 0.0.0.0 010.at
@@ -189,6 +189,7 @@
 0.0.0.0 aka.sainnhe.dev
 0.0.0.0 ak.gd
 0.0.0.0 akoo.ir
+0.0.0.0 akslot.io
 0.0.0.0 alaa.tv
 0.0.0.0 alas.click
 0.0.0.0 albn.org
@@ -1152,6 +1153,7 @@
 0.0.0.0 nnt.ag
 0.0.0.0 nord.click
 0.0.0.0 nowlinks.net
+0.0.0.0 nowtrade.live
 0.0.0.0 nsk.sg
 0.0.0.0 nwspprs.com
 0.0.0.0 nxm.us

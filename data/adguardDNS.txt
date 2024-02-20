@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 19 Feb 2024 20:57:58 +0000
+# Last converted - Tue, 20 Feb 2024 01:36:47 +0000
 #
 
 0.0.0.0 fxhngjdubf.xyz
@@ -5528,6 +5528,7 @@
 0.0.0.0 bitesized-commission.pro
 0.0.0.0 biticesar.com
 0.0.0.0 bitterlyimprovegreat.com
+0.0.0.0 bitternessjudicious.com
 0.0.0.0 bitterportablerespectively.com
 0.0.0.0 bittygravely.com.com
 0.0.0.0 bittygravely.com
@@ -16364,6 +16365,7 @@
 0.0.0.0 inspikon.com
 0.0.0.0 inspirationstarednope.com
 0.0.0.0 inspirecarriermagnetic.com
+0.0.0.0 inspiringperiods.com
 0.0.0.0 inspxtrc.com
 0.0.0.0 insrvicigquj.com
 0.0.0.0 insta-cash.net
@@ -17535,6 +17537,7 @@
 0.0.0.0 juvuqsdxjfk.com
 0.0.0.0 juyafctq.xyz
 0.0.0.0 juyvatnil.com
+0.0.0.0 juzzclftcseca.com
 0.0.0.0 jvaemllmeezyw.top
 0.0.0.0 jvbzzmnjezeba.top
 0.0.0.0 jvbzzmnjeznrw.top
@@ -21497,6 +21500,7 @@
 0.0.0.0 ngvoicethaults.com
 0.0.0.0 ngxpprnv.com
 0.0.0.0 nhamformane.com
+0.0.0.0 nhanziohqat.com
 0.0.0.0 nharghiooudi.xyz
 0.0.0.0 nhckxyxaiwqnssh.com
 0.0.0.0 nheappyrincen.info
@@ -33319,6 +33323,7 @@
 0.0.0.0 vungqwclop.xyz
 0.0.0.0 vuolobnhqb.com
 0.0.0.0 vuphoubs.com
+0.0.0.0 vupoupay.com
 0.0.0.0 vuruzy.xyz
 0.0.0.0 vusrabieg.com
 0.0.0.0 vuuwd.com
@@ -36955,6 +36960,7 @@
 0.0.0.0 utiq.soester-anzeiger.de
 0.0.0.0 utiq.tz.de
 0.0.0.0 utiq.wa.de
+0.0.0.0 1079823516.rsc.cdn77.org
 0.0.0.0 1080872514.rsc.cdn77.org
 0.0.0.0 10945-2.s.cdn15.com
 0.0.0.0 10945-5.s.cdn15.com
@@ -55955,6 +55961,13 @@
 0.0.0.0 yvudqzoa.xyz
 0.0.0.0 yyddkm526.shop
 0.0.0.0 ztxjutz.xyz
+0.0.0.0 8xtm6i.cn
+0.0.0.0 wqcfg.cn
+0.0.0.0 okwkaa.xyz
+0.0.0.0 2jse6.icu
+0.0.0.0 tahznx.xyz
+0.0.0.0 rfnvqpo.xyz
+0.0.0.0 ydrvkdni.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
