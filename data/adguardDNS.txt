@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 20 Feb 2024 08:58:12 +0000
+# Last converted - Tue, 20 Feb 2024 12:59:21 +0000
 #
 
+0.0.0.0 kerryfluence.com
 0.0.0.0 fxhngjdubf.xyz
 0.0.0.0 ptoockex.xyz
 0.0.0.0 imagoluchuan.com
@@ -8324,6 +8325,7 @@
 0.0.0.0 cqrvwq.com
 0.0.0.0 cqwajn.com
 0.0.0.0 cr-brands.net
+0.0.0.0 cr.adsappier.com
 0.0.0.0 cr08.biz
 0.0.0.0 crabdefend.com
 0.0.0.0 craccaanybody.com
@@ -42589,6 +42591,10 @@
 0.0.0.0 wizaly.com
 0.0.0.0 affex.org
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 supportmetrics.apple.com
+0.0.0.0 securemvt.apple.com
+0.0.0.0 metrics.apple.com
+0.0.0.0 eldoradottfha.dataplane.rudderstack.com
 0.0.0.0 analytics.castel.jp
 0.0.0.0 tagging.anaxago.com
 0.0.0.0 tagging.boataround.com
@@ -45082,7 +45088,9 @@
 0.0.0.0 us-tracking.nextdoor.com
 0.0.0.0 us-events.api.iheart.com
 0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.news.apple-dns.net
 0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.news.apple-dns.net
 0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 smetrics.cnn.com
 0.0.0.0 metrics.claspws.tv
@@ -46054,7 +46062,6 @@
 0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 metrics-dra.dt.hicloud.com
-0.0.0.0 supportmetrics.apple.com
 0.0.0.0 d11bdev7tcn7wh.cloudfront.net
 0.0.0.0 d15kdaxu5c0hfw.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
@@ -46913,6 +46920,7 @@
 0.0.0.0 solution911.com
 0.0.0.0 templates.buscape.com
 0.0.0.0 yestorrents.org
+0.0.0.0 1wiipr.xyz
 0.0.0.0 bcdjcjjhgfiejgfjhah.world
 0.0.0.0 proppellerads.ru
 0.0.0.0 usesentry.com
@@ -55968,6 +55976,12 @@
 0.0.0.0 tahznx.xyz
 0.0.0.0 rfnvqpo.xyz
 0.0.0.0 ydrvkdni.xyz
+0.0.0.0 cdrvkdni.xyz
+0.0.0.0 nyt5j.cyou
+0.0.0.0 szpwh.cn
+0.0.0.0 ruqwgb.icu
+0.0.0.0 p04qzl.cn
+0.0.0.0 xdrvkdni.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
