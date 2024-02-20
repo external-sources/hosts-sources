@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Tue, 20 Feb 2024 12:59:56 +0000
+# Last converted - Tue, 20 Feb 2024 16:59:01 +0000
 #
 
 0.0.0.0 010.at
@@ -1111,6 +1111,7 @@
 0.0.0.0 music.yosa.org
 0.0.0.0 muth.io
 0.0.0.0 my-ab.co
+0.0.0.0 myanlink.com
 0.0.0.0 myaz.tech
 0.0.0.0 myf.mg
 0.0.0.0 myfonts.us
