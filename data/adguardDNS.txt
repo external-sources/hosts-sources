@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 20 Feb 2024 04:58:15 +0000
+# Last converted - Tue, 20 Feb 2024 08:58:12 +0000
 #
 
 0.0.0.0 fxhngjdubf.xyz
