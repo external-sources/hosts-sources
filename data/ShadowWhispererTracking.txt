@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Tue, 20 Feb 2024 16:58:59 +0000
+# Last converted - Tue, 20 Feb 2024 20:58:21 +0000
 #
 
 0.0.0.0 01counter.com
@@ -1992,6 +1992,7 @@
 0.0.0.0 acorn-int.maelstrom.gameservices.xboxlive.com
 0.0.0.0 a-counters.com
 0.0.0.0 acousticsapparel.com
+0.0.0.0 acp-magento.appspot.com
 0.0.0.0 acq.aicventures.com
 0.0.0.0 acquia.com
 0.0.0.0 acquireattention.com
@@ -19347,6 +19348,7 @@
 0.0.0.0 fls-na.amazon.com.br
 0.0.0.0 fls-na.amazon.com.mx
 0.0.0.0 fltag.findlawresources.com.cdn.cloudflare.net
+0.0.0.0 flukeproxy.com
 0.0.0.0 flurry.com
 0.0.0.0 flutteringfireman.com
 0.0.0.0 fluxloop.com
@@ -27394,6 +27396,7 @@
 0.0.0.0 marketing.cloeren.com
 0.0.0.0 marketingcloud.cloudco.com.mx
 0.0.0.0 marketing.cloudco.com.mx
+0.0.0.0 marketingcloudfx.com
 0.0.0.0 marketing.coffreo.com
 0.0.0.0 marketing.collectivemedical.com
 0.0.0.0 marketing.collercapital.com
@@ -44799,6 +44802,7 @@
 0.0.0.0 skink.asorman.io
 0.0.0.0 skink.magnastar.net
 0.0.0.0 skink.thoumi.ch
+0.0.0.0 skipify.com
 0.0.0.0 skisofa.com
 0.0.0.0 skizzi.site
 0.0.0.0 skj28trk.com
