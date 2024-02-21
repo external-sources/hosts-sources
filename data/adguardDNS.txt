@@ -1,9 +1,11 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 21 Feb 2024 04:57:54 +0000
+# Last converted - Wed, 21 Feb 2024 13:00:13 +0000
 #
 
+0.0.0.0 reonews.pl
+0.0.0.0 reomanager.pl
 0.0.0.0 adx.ws
 0.0.0.0 kerryfluence.com
 0.0.0.0 fxhngjdubf.xyz
@@ -42637,6 +42639,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 affex.org
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 analytics.b2.ai
 0.0.0.0 tracking.ai.rakuten.co.jp
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 securemvt.apple.com
@@ -51158,6 +51161,7 @@
 0.0.0.0 adfly.vn
 0.0.0.0 adi.vcmedia.vn
 0.0.0.0 adnetwork.vn
+0.0.0.0 adop.asia
 0.0.0.0 adp.vnecdn.net
 0.0.0.0 ads-admin.hubs.vn
 0.0.0.0 ads-platform.zalo.me
@@ -51626,6 +51630,7 @@
 0.0.0.0 bi.vhost.vn
 0.0.0.0 bidgear-syndication.com
 0.0.0.0 btrack.homedy.com
+0.0.0.0 bubblyzucchini.com
 0.0.0.0 campaign.gitiho.com
 0.0.0.0 cdn-ads.thesaigontimes.vn
 0.0.0.0 cdn.api-connect.io
@@ -51694,6 +51699,7 @@
 0.0.0.0 log-dttc.sggp.org.vn
 0.0.0.0 log-en.nhandan.vn
 0.0.0.0 log-en.sggp.org.vn
+0.0.0.0 log.247post.vn
 0.0.0.0 log.anninhthudo.vn
 0.0.0.0 log.baobackan.com.vn
 0.0.0.0 log.baocaobang.vn
@@ -51930,6 +51936,7 @@
 0.0.0.0 widget.kyna.vn
 0.0.0.0 xads.joboko.com
 0.0.0.0 xmadsapi.joboko.com
+0.0.0.0 za.agiay.vn
 0.0.0.0 zigzag.vn
 0.0.0.0 0088shop.com
 0.0.0.0 009855.com
@@ -52407,6 +52414,7 @@
 0.0.0.0 dichvucong.tgovn.cc
 0.0.0.0 dichvucong.vgovn.net
 0.0.0.0 dichvucong.xgovn.net
+0.0.0.0 dichvucong.zvgov.com
 0.0.0.0 dichvucongbaohiemxahoi.com
 0.0.0.0 dichvudaohantindung.com
 0.0.0.0 dichvunhantien-eu.org
@@ -56038,6 +56046,11 @@
 0.0.0.0 fmfnrf.xyz
 0.0.0.0 veaiyl.icu
 0.0.0.0 dxrnksm.xyz
+0.0.0.0 heapz.cyou
+0.0.0.0 p0v2ni.cn
+0.0.0.0 ddielv.cn
+0.0.0.0 cvnxetmq.xyz
+0.0.0.0 shuocyw.cn
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
