@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Thu, 22 Feb 2024 13:01:36 +0000
+# Last converted - Thu, 22 Feb 2024 16:58:30 +0000
 #
 
 0.0.0.0 00px.net
@@ -16064,6 +16064,7 @@
 0.0.0.0 twiago.com
 0.0.0.0 twil.it
 0.0.0.0 twinadsrv.com
+0.0.0.0 twindesire.com
 0.0.0.0 twinedigital.com
 0.0.0.0 twinfill.com
 0.0.0.0 t.winpbn.com

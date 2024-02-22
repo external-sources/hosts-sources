@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Thu, 22 Feb 2024 13:01:38 +0000
+# Last converted - Thu, 22 Feb 2024 16:58:32 +0000
 #
 
 0.0.0.0 01counter.com
@@ -15920,6 +15920,7 @@
 0.0.0.0 coral.defygravity.co
 0.0.0.0 coral.doublefine.com
 0.0.0.0 coralogix.com
+0.0.0.0 coralreverie.com
 0.0.0.0 coral.rideapart.com
 0.0.0.0 cordcopper.com
 0.0.0.0 cordlogue.com
@@ -16469,6 +16470,7 @@
 0.0.0.0 custom-tracking.salesloft.com
 0.0.0.0 custom.twpcpa.com
 0.0.0.0 custora.com
+0.0.0.0 cutcurrent.com
 0.0.0.0 cutecalculator.com
 0.0.0.0 cutechin.com
 0.0.0.0 cutecushion.com
@@ -18446,6 +18448,7 @@
 0.0.0.0 engiselle.com
 0.0.0.0 englshrs.com
 0.0.0.0 eni.bb.com.br
+0.0.0.0 enigmaticvoyage.com
 0.0.0.0 eniscope.com
 0.0.0.0 enlistsecurely.com
 0.0.0.0 en.netmind.net
@@ -46412,6 +46415,7 @@
 0.0.0.0 sqa-web.ory.sh
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 sq.sunquestinfo.com
+0.0.0.0 squalidscrew.com
 0.0.0.0 squarkai.com
 0.0.0.0 squashfriction.com
 0.0.0.0 squeaky.ai
@@ -64397,6 +64401,7 @@
 0.0.0.0 yak.juicydevils.gr
 0.0.0.0 yak.withlindy.com
 0.0.0.0 yama1.yg801.jp
+0.0.0.0 yametric.com
 0.0.0.0 yamstamp.com
 0.0.0.0 yandeg.ru
 0.0.0.0 yast.rutube.ru
