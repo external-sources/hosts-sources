@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Thu, 22 Feb 2024 01:37:35 +0000
+# Last converted - Thu, 22 Feb 2024 04:58:33 +0000
 #
 
 0.0.0.0 00px.net
@@ -2306,6 +2306,7 @@
 0.0.0.0 ads.api.24ur.si
 0.0.0.0 ads-api.ft.com
 0.0.0.0 ads-api.smartnews.com
+0.0.0.0 adsapi.snapchat.com
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads.apotheke-adhoc.de

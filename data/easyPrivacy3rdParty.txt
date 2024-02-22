@@ -1,7 +1,7 @@
 # easyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 22 Feb 2024 01:37:28 +0000
+# Last converted - Thu, 22 Feb 2024 04:58:26 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -1199,6 +1199,7 @@
 0.0.0.0 xp2023-pix.s3.amazonaws.com
 0.0.0.0 adsdk.yandex.ru
 0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 analytics.b2.ai
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analytics.samsungknox.com
 0.0.0.0 app.chat.xiaomi.net
