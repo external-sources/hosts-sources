@@ -1,7 +1,7 @@
 # ShadowWhispererDating
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dating
-# Last converted - Thu, 22 Feb 2024 04:58:34 +0000
+# Last converted - Thu, 22 Feb 2024 09:00:06 +0000
 #
 
 0.0.0.0 1000-dating-sites.com
