@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Thu, 22 Feb 2024 13:01:38 +0000
+# Last converted - Thu, 22 Feb 2024 16:58:32 +0000
 #
 
 0.0.0.0 007-dvd.com
@@ -4613,6 +4613,7 @@
 0.0.0.0 frigorificohvsa.com
 0.0.0.0 frittertee.com
 0.0.0.0 frobux.net
+0.0.0.0 fromajor.com
 0.0.0.0 frontierpetsglobal.com
 0.0.0.0 frontstorechemical.com
 0.0.0.0 frozen-exporters.com
