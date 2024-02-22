@@ -1,7 +1,7 @@
 # ShadowWhispererDating
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dating
-# Last converted - Wed, 21 Feb 2024 20:58:11 +0000
+# Last converted - Thu, 22 Feb 2024 01:37:36 +0000
 #
 
 0.0.0.0 1000-dating-sites.com
@@ -929,6 +929,7 @@
 0.0.0.0 speed-dating-lyon.com
 0.0.0.0 speeddatingmontreal.com
 0.0.0.0 sturb.com
+0.0.0.0 sugarbook.com
 0.0.0.0 sugarmatchmaking.com
 0.0.0.0 sunioo.com
 0.0.0.0 sweetdiscreet.com

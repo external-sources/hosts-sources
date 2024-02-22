@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 21 Feb 2024 20:57:38 +0000
+# Last converted - Thu, 22 Feb 2024 01:37:01 +0000
 #
 
 0.0.0.0 ipurseeh.xyz
@@ -22130,6 +22130,7 @@
 0.0.0.0 o911o.com
 0.0.0.0 oacaighy.com
 0.0.0.0 oacfxrqghamyaq.com
+0.0.0.0 oachailo.net
 0.0.0.0 oackoubs.com
 0.0.0.0 oadaheba.net
 0.0.0.0 oadrojoa.net
@@ -27840,6 +27841,7 @@
 0.0.0.0 scadstech.com
 0.0.0.0 scaffoldoppresshaphazard.com
 0.0.0.0 scaffoldsense.com
+0.0.0.0 scalenerequin.com
 0.0.0.0 scalesfilamentmow.com
 0.0.0.0 scaleshustleprice.com
 0.0.0.0 scalesmothforget.com
@@ -56056,6 +56058,10 @@
 0.0.0.0 yvudqzoa.xyz
 0.0.0.0 yyddkm526.shop
 0.0.0.0 ztxjutz.xyz
+0.0.0.0 misjgy.xyz
+0.0.0.0 wkywrc.cn
+0.0.0.0 rarcff.xyz
+0.0.0.0 phvfevk.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
