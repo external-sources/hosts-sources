@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 22 Feb 2024 16:57:55 +0000
+# Last converted - Thu, 22 Feb 2024 20:57:38 +0000
 #
 
+0.0.0.0 ganehangmen.com
 0.0.0.0 ipurseeh.xyz
 0.0.0.0 reonews.pl
 0.0.0.0 reomanager.pl
@@ -6621,6 +6622,7 @@
 0.0.0.0 cajesa.uno
 0.0.0.0 cajggfj.com
 0.0.0.0 cajipdiqqjijeh.xyz
+0.0.0.0 cajrijrhov.com
 0.0.0.0 cajunecch.guru
 0.0.0.0 cakeprofessionally.com
 0.0.0.0 caketteemblem.uno
@@ -9715,6 +9717,7 @@
 0.0.0.0 distractfragment.com
 0.0.0.0 distractiontradingamass.com
 0.0.0.0 distressamusement.com
+0.0.0.0 distressedsoultabloid.com
 0.0.0.0 distributionrealmoth.com
 0.0.0.0 districtacrid.com
 0.0.0.0 districtbaloneywhiskers.com
@@ -12345,6 +12348,7 @@
 0.0.0.0 fihsgqbif.com
 0.0.0.0 fiinann.com
 0.0.0.0 fiinnancesur.com
+0.0.0.0 fiisscqwokt.com
 0.0.0.0 fijekone.com
 0.0.0.0 fijetuxa.com
 0.0.0.0 fikedaquabib.com
@@ -13410,6 +13414,7 @@
 0.0.0.0 gauzedisparage.com
 0.0.0.0 gauzon.com
 0.0.0.0 gavnogeeygaika.com
+0.0.0.0 gawainshirty.com
 0.0.0.0 gayadpros.com
 0.0.0.0 gayalgenipa.digital
 0.0.0.0 gayuxhswva.com
@@ -15884,6 +15889,7 @@
 0.0.0.0 idelv.net
 0.0.0.0 identifiernancy.com
 0.0.0.0 identifierslionessproof.com
+0.0.0.0 identifierssadlypreferred.com
 0.0.0.0 identitymansfield.com
 0.0.0.0 idescargarapk.com
 0.0.0.0 idiafix.com
@@ -19243,6 +19249,7 @@
 0.0.0.0 loglaupt.com
 0.0.0.0 logystowtencon.info
 0.0.0.0 loinpriestinfected.com
+0.0.0.0 loivpcn.com
 0.0.0.0 loivpdbzx.com
 0.0.0.0 loketsaucy.com
 0.0.0.0 lokinatoer5.com
@@ -20192,6 +20199,7 @@
 0.0.0.0 memoriagamine.com
 0.0.0.0 memorizeaestheticspiders.com
 0.0.0.0 memorizematch.com
+0.0.0.0 memuiynuldyoh.com
 0.0.0.0 memunjcvfv.xyz
 0.0.0.0 mendationforca.info
 0.0.0.0 mendedrefuel.com
@@ -24800,6 +24808,7 @@
 0.0.0.0 poorlytanrubbing.com
 0.0.0.0 poorstress.pro
 0.0.0.0 poosoahe.com
+0.0.0.0 poostith.net
 0.0.0.0 poosugap.com
 0.0.0.0 pop.dojo.cc
 0.0.0.0 pop5sjhspear.com
@@ -26078,6 +26087,7 @@
 0.0.0.0 qoredi.com
 0.0.0.0 qorlxle.com
 0.0.0.0 qovwrntfxpilyt.com
+0.0.0.0 qowncyf.com
 0.0.0.0 qowqnnhf.com
 0.0.0.0 qoytmrsfvu.com
 0.0.0.0 qozveo.com
@@ -28294,6 +28304,7 @@
 0.0.0.0 senagegrasper.com
 0.0.0.0 senatescouttax.com
 0.0.0.0 sendmepush.com
+0.0.0.0 senecaanoles.com
 0.0.0.0 sength.com
 0.0.0.0 seniorstemsdisability.com
 0.0.0.0 senonsiatinus.com
@@ -45050,6 +45061,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 analytics.starmakerstudios.com
+0.0.0.0 track.starmakerstudios.com
 0.0.0.0 volceapplog.com
 0.0.0.0 toblog.tobsnssdk.com
 0.0.0.0 tobapplog.tobsnssdk.com
