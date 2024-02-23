@@ -1,7 +1,7 @@
 # ShadowWhispererMicrosoft
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
-# Last converted - Fri, 23 Feb 2024 01:39:16 +0000
+# Last converted - Fri, 23 Feb 2024 05:00:54 +0000
 #
 
 0.0.0.0 a-0003.a-msedge.net
