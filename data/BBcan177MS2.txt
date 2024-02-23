@@ -1,7 +1,7 @@
 # BBcan177MS2
 #
 # Converted from - https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2
-# Last converted - Fri, 23 Feb 2024 16:58:06 +0000
+# Last converted - Fri, 23 Feb 2024 20:57:44 +0000
 #
 
 0.0.0.0 api1.wipmania.com.wipmsc.ru
