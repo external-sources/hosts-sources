@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 23 Feb 2024 16:58:00 +0000
+# Last converted - Fri, 23 Feb 2024 20:57:38 +0000
 #
 
 0.0.0.0 agazejagless.com
@@ -1627,6 +1627,7 @@
 0.0.0.0 76a7doiet256.com
 0.0.0.0 76f74721ab.com
 0.0.0.0 771703f2e9.com
+0.0.0.0 776173f9e6.com
 0.0.0.0 777seo.com
 0.0.0.0 778669.com
 0.0.0.0 77ad133646.com
@@ -1865,6 +1866,7 @@
 0.0.0.0 aabproxydomaintests.top
 0.0.0.0 aabproxytests.top
 0.0.0.0 aabproxytestsdomain.top
+0.0.0.0 aabrsjmsgqnltc.com
 0.0.0.0 aabtestsproxydomain.top
 0.0.0.0 aac585e70c.com
 0.0.0.0 aactxwic.com
@@ -3439,6 +3441,7 @@
 0.0.0.0 amenityleisurelydays.com
 0.0.0.0 amenityremorse.com
 0.0.0.0 ameofmuki.info
+0.0.0.0 ameoutofthe.info
 0.0.0.0 amesgraduatel.xyz
 0.0.0.0 amexcadrillon.com
 0.0.0.0 amfennekinom.com
@@ -3605,6 +3608,7 @@
 0.0.0.0 anonymouswrangle.com
 0.0.0.0 anopportunitytost.info
 0.0.0.0 another-surprise.pro
+0.0.0.0 anotiachilli.com
 0.0.0.0 anpptedtah.com
 0.0.0.0 anqigmbloqnnypa.com
 0.0.0.0 anqnbzyjlknbm.top
@@ -5059,6 +5063,7 @@
 0.0.0.0 beavervehicle.com
 0.0.0.0 beaxewr.com
 0.0.0.0 beaziotclb.com
+0.0.0.0 bebayjoisted.com
 0.0.0.0 beblass.com
 0.0.0.0 bebloommulvel.com
 0.0.0.0 bebpnmskw.com
@@ -7631,6 +7636,7 @@
 0.0.0.0 cloisonprecool.uno
 0.0.0.0 cloisteroutdooragitate.com
 0.0.0.0 clokemidriff.com
+0.0.0.0 clokeowt.com
 0.0.0.0 cloneabaff.com
 0.0.0.0 clonesmesopic.com
 0.0.0.0 clongerip.com
@@ -11809,6 +11815,7 @@
 0.0.0.0 eyrarbuggers.com
 0.0.0.0 eyrvfxwrogfslk.com
 0.0.0.0 eytheed.com
+0.0.0.0 eyyicbskhglf.com
 0.0.0.0 ezaicmee.xyz
 0.0.0.0 ezatrvzfe.com
 0.0.0.0 ezcgojaamg.com
@@ -12483,6 +12490,7 @@
 0.0.0.0 fkwkzlb.com
 0.0.0.0 fkyhqtfiopfit.com
 0.0.0.0 fkyujept.com
+0.0.0.0 fkzgfsddr.com
 0.0.0.0 fla4n6ne7r8ydcohcojnnor.com
 0.0.0.0 flabbyyolkinfection.com
 0.0.0.0 flagads.net
@@ -15696,6 +15704,7 @@
 0.0.0.0 huszawnuqad.com
 0.0.0.0 hutanz.xyz
 0.0.0.0 hutremindbond.com
+0.0.0.0 huvohjvpaog.com
 0.0.0.0 huwkiycoup.com
 0.0.0.0 huwuftie.com
 0.0.0.0 huylki.com
@@ -17430,6 +17439,7 @@
 0.0.0.0 jouzoapi.com
 0.0.0.0 jovialwoman.com
 0.0.0.0 jovqyyqvvmjjj.top
+0.0.0.0 jowelcabbala.com
 0.0.0.0 jowliercollude.com
 0.0.0.0 jowlishdiviner.com
 0.0.0.0 joxaviri.com
@@ -24140,6 +24150,7 @@
 0.0.0.0 petrolbuck.com
 0.0.0.0 petsavoury.com
 0.0.0.0 pettedcres.com
+0.0.0.0 pettishprecopy.com
 0.0.0.0 pettledsupper.space
 0.0.0.0 petwoodfustet.com
 0.0.0.0 petyntrx.com
@@ -27266,6 +27277,7 @@
 0.0.0.0 rkfodhkxmf.com
 0.0.0.0 rkgwzfwjgk.com
 0.0.0.0 rkjnazpgfihz.com
+0.0.0.0 rknwwtg.com
 0.0.0.0 rkomf.com
 0.0.0.0 rkwithcatuk.org
 0.0.0.0 rkyynuthufhutew.xyz
@@ -27287,6 +27299,7 @@
 0.0.0.0 rlsspiuyx.com
 0.0.0.0 rlvvakyuipqbl.com
 0.0.0.0 rlwiupbqn.com
+0.0.0.0 rlxw.info
 0.0.0.0 rmagugarmk.com
 0.0.0.0 rmaiksacouuo.xyz
 0.0.0.0 rmanentsyshru.com
@@ -28471,6 +28484,7 @@
 0.0.0.0 shady-addition.com
 0.0.0.0 shadybenefitpassed.com
 0.0.0.0 shadyobscene.com
+0.0.0.0 shaeian.xyz
 0.0.0.0 shaftheadstonetopmost.com
 0.0.0.0 shaggyaleswede.com
 0.0.0.0 shahebso.com
@@ -29861,6 +29875,7 @@
 0.0.0.0 stootsou.net
 0.0.0.0 stopgapdentoid.top
 0.0.0.0 stopscondole.com
+0.0.0.0 stopundoer.com
 0.0.0.0 storage-ad.com
 0.0.0.0 storagelassitudeblend.com
 0.0.0.0 storagewitnessotherwise.com
@@ -32254,6 +32269,7 @@
 0.0.0.0 ukrkskillsombine.info
 0.0.0.0 uksqotykpmjtdgw.com
 0.0.0.0 uktureukworekt.info
+0.0.0.0 ukworlowedonh.com
 0.0.0.0 ul8seok7w5al.com
 0.0.0.0 ulaiwhiw.xyz
 0.0.0.0 ulalrars.net
@@ -32955,6 +32971,7 @@
 0.0.0.0 vaugaiva.net
 0.0.0.0 vaugroar.com
 0.0.0.0 vaultwrite.com
+0.0.0.0 vauptaih.com
 0.0.0.0 vauthaud.net
 0.0.0.0 vavcashpop.com
 0.0.0.0 vavilisys.com
@@ -33765,6 +33782,7 @@
 0.0.0.0 wartletkenn.com
 0.0.0.0 wartletsewar.guru
 0.0.0.0 warumbistdusoarm.space
+0.0.0.0 warworkunson.top
 0.0.0.0 wary-pressure.pro
 0.0.0.0 wasgildedall.com
 0.0.0.0 washdaycalmly.com
@@ -35265,6 +35283,7 @@
 0.0.0.0 yfquojkptgpoai.com
 0.0.0.0 yfrrsktkzfp.com
 0.0.0.0 yftpnol.com
+0.0.0.0 yfykzbhaiuzbht.com
 0.0.0.0 yfznypugeuunng.com
 0.0.0.0 ygfytomneijjj.com
 0.0.0.0 ygzkedoxwhqlzp.com
@@ -39493,6 +39512,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 adx.promo
 0.0.0.0 trk.decido.io
 0.0.0.0 tracker.oval.id
 0.0.0.0 event.lib.visumo.io
@@ -42884,6 +42904,9 @@
 0.0.0.0 wizaly.com
 0.0.0.0 affex.org
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 events.caffeine.tv
+0.0.0.0 analytics.totalprosports.com
+0.0.0.0 analytics-conomi.line.me
 0.0.0.0 sopr-api.cian.ru
 0.0.0.0 analytics.b2.ai
 0.0.0.0 tracking.ai.rakuten.co.jp
@@ -56201,8 +56224,10 @@
 0.0.0.0 zvc.cc
 0.0.0.0 zvietcombank.com
 0.0.0.0 zvietnakello.weebly.com
+0.0.0.0 0j775d.cn
 0.0.0.0 1ny3r.icu
 0.0.0.0 2jse6.icu
+0.0.0.0 51hir.cyou
 0.0.0.0 88lm05.com
 0.0.0.0 8xtm6i.cn
 0.0.0.0 999xx999kk.com
@@ -56211,11 +56236,13 @@
 0.0.0.0 anjdwmq.xyz
 0.0.0.0 awuvcq.xyz
 0.0.0.0 bba9603w.com
+0.0.0.0 bdtdat652.shop
 0.0.0.0 bdxpdz.xyz
 0.0.0.0 benpsbp.com
 0.0.0.0 bjswhpy.cn
 0.0.0.0 bmnbyn.icu
 0.0.0.0 bwlcpr.xyz
+0.0.0.0 bzzxyyh.xyz
 0.0.0.0 caomeixz7.xyz
 0.0.0.0 ccsshn137.shop
 0.0.0.0 cdfhidrk.xyz
@@ -56223,18 +56250,22 @@
 0.0.0.0 cdmnlxtu.xyz
 0.0.0.0 cdrvkdni.xyz
 0.0.0.0 cdybwjpa.xyz
+0.0.0.0 chayassa.com
 0.0.0.0 cliffnsc.xyz
 0.0.0.0 clywws.xyz
 0.0.0.0 cvbjctqs.xyz
+0.0.0.0 cvgrszkg.xyz
 0.0.0.0 cvnxetmq.xyz
 0.0.0.0 cvudqzoa.xyz
 0.0.0.0 cwssfg632.shop
 0.0.0.0 ddielv.cn
 0.0.0.0 dsbqvj.xyz
 0.0.0.0 dxrnksm.xyz
+0.0.0.0 dyegif.icu
 0.0.0.0 ebgwdon.cn
 0.0.0.0 fmfnrf.xyz
 0.0.0.0 fwcnex.icu
+0.0.0.0 ghgasdb365.shop
 0.0.0.0 ghgasdt963.shop
 0.0.0.0 gicjtss.cn
 0.0.0.0 gvbta.icu
@@ -56270,9 +56301,11 @@
 0.0.0.0 qzalsk.xyz
 0.0.0.0 rarcff.xyz
 0.0.0.0 rfnvqpo.xyz
+0.0.0.0 rktddv.xyz
 0.0.0.0 ruqwgb.icu
 0.0.0.0 rydyvv.xyz
 0.0.0.0 shuocyw.cn
+0.0.0.0 soffersk.com
 0.0.0.0 spsfupq.cn
 0.0.0.0 szbhb.cn
 0.0.0.0 szpnz.cn
@@ -56287,6 +56320,7 @@
 0.0.0.0 uu22662.com
 0.0.0.0 uxrdg.cn
 0.0.0.0 veaiyl.icu
+0.0.0.0 vxfdepn.cn
 0.0.0.0 wkywrc.cn
 0.0.0.0 wnmaoc.xyz
 0.0.0.0 wqcfg.cn
@@ -56298,31 +56332,21 @@
 0.0.0.0 xliffnsc.xyz
 0.0.0.0 xszw0.icu
 0.0.0.0 xvbjctqs.xyz
+0.0.0.0 xvgrszkg.xyz
 0.0.0.0 xvudqzoa.xyz
 0.0.0.0 ycqbgm.xyz
 0.0.0.0 ydfhidrk.xyz
 0.0.0.0 ydrvkdni.xyz
 0.0.0.0 ydybwjpa.xyz
+0.0.0.0 yhqukg.xyz
 0.0.0.0 yliffnsc.xyz
 0.0.0.0 yvbjctqs.xyz
 0.0.0.0 yvnxetmq.xyz
 0.0.0.0 yvudqzoa.xyz
 0.0.0.0 yyddkm526.shop
+0.0.0.0 zagyjnn.cn
 0.0.0.0 zopuqv.icu
 0.0.0.0 ztxjutz.xyz
-0.0.0.0 bdtdat652.shop
-0.0.0.0 ghgasdb365.shop
-0.0.0.0 rktddv.xyz
-0.0.0.0 yhqukg.xyz
-0.0.0.0 0j775d.cn
-0.0.0.0 dyegif.icu
-0.0.0.0 soffersk.com
-0.0.0.0 51hir.cyou
-0.0.0.0 vxfdepn.cn
-0.0.0.0 bzzxyyh.xyz
-0.0.0.0 chayassa.com
-0.0.0.0 zagyjnn.cn
-0.0.0.0 cvgrszkg.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
