@@ -1,9 +1,11 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 23 Feb 2024 08:57:43 +0000
+# Last converted - Fri, 23 Feb 2024 12:58:47 +0000
 #
 
+0.0.0.0 agazejagless.com
+0.0.0.0 forestallbladdermajestic.com
 0.0.0.0 ganehangmen.com
 0.0.0.0 ipurseeh.xyz
 0.0.0.0 reonews.pl
@@ -42882,6 +42884,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 affex.org
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 sopr-api.cian.ru
 0.0.0.0 analytics.b2.ai
 0.0.0.0 tracking.ai.rakuten.co.jp
 0.0.0.0 supportmetrics.apple.com
@@ -56316,6 +56319,10 @@
 0.0.0.0 soffersk.com
 0.0.0.0 51hir.cyou
 0.0.0.0 vxfdepn.cn
+0.0.0.0 bzzxyyh.xyz
+0.0.0.0 chayassa.com
+0.0.0.0 zagyjnn.cn
+0.0.0.0 cvgrszkg.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
