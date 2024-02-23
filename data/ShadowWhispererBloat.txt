@@ -1,7 +1,7 @@
 # ShadowWhispererBloat
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
-# Last converted - Thu, 22 Feb 2024 20:58:11 +0000
+# Last converted - Fri, 23 Feb 2024 01:39:15 +0000
 #
 
 0.0.0.0 font.im

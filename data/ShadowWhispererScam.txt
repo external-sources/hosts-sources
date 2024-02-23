@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Thu, 22 Feb 2024 20:58:12 +0000
+# Last converted - Fri, 23 Feb 2024 01:39:16 +0000
 #
 
 0.0.0.0 007-dvd.com
@@ -331,6 +331,7 @@
 0.0.0.0 adorableyorkiepups.xyz
 0.0.0.0 adorob.com
 0.0.0.0 adowniferta.co
+0.0.0.0 adoworshipre.com
 0.0.0.0 adrationmi.com
 0.0.0.0 adroitsay.com
 0.0.0.0 adultere-messenger.com
