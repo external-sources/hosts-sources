@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 23 Feb 2024 05:00:22 +0000
+# Last converted - Fri, 23 Feb 2024 08:57:43 +0000
 #
 
 0.0.0.0 ganehangmen.com
@@ -56313,6 +56313,9 @@
 0.0.0.0 yhqukg.xyz
 0.0.0.0 0j775d.cn
 0.0.0.0 dyegif.icu
+0.0.0.0 soffersk.com
+0.0.0.0 51hir.cyou
+0.0.0.0 vxfdepn.cn
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
