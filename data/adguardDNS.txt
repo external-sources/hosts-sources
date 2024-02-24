@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 24 Feb 2024 01:34:21 +0000
+# Last converted - Sat, 24 Feb 2024 04:58:05 +0000
 #
 
 0.0.0.0 agazejagless.com
