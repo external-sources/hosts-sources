@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Sat, 24 Feb 2024 04:58:49 +0000
+# Last converted - Sat, 24 Feb 2024 08:58:39 +0000
 #
 
 0.0.0.0 007-dvd.com
@@ -1550,6 +1550,7 @@
 0.0.0.0 bornlegendaryfrenchies.com
 0.0.0.0 boschpetcenterhome.co.za
 0.0.0.0 bossaving.com
+0.0.0.0 bossdating.fr
 0.0.0.0 bossmanshop.com
 0.0.0.0 bossofficialfactory.de
 0.0.0.0 bossypitbullieshouse.com
@@ -4457,6 +4458,7 @@
 0.0.0.0 forbiddenflirts.com
 0.0.0.0 forcefulliber.com
 0.0.0.0 force-gay.com
+0.0.0.0 forcegay.es
 0.0.0.0 fordlincolnofhuntington.com
 0.0.0.0 forecait.com
 0.0.0.0 foreignerhelp.com
@@ -6101,6 +6103,7 @@
 0.0.0.0 jingle-shines.uk
 0.0.0.0 jkaylani.com
 0.0.0.0 jlnsdynamic.com
+0.0.0.0 jm-adultere.com
 0.0.0.0 jm-date.com
 0.0.0.0 jmfamilyfarmpuppieshomes.co.za
 0.0.0.0 jmgo.com
@@ -11475,6 +11478,7 @@
 0.0.0.0 topchris.com
 0.0.0.0 topdefenceshop.com
 0.0.0.0 topekasun.com
+0.0.0.0 toperos.ch
 0.0.0.0 topfirearmssupplies.com
 0.0.0.0 topforexcrypto.com
 0.0.0.0 topgradedcannabis.com

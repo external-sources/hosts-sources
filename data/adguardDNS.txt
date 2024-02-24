@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 24 Feb 2024 04:58:05 +0000
+# Last converted - Sat, 24 Feb 2024 08:57:52 +0000
 #
 
 0.0.0.0 agazejagless.com
@@ -37427,6 +37427,7 @@
 0.0.0.0 pacontainer.s3.amazonaws.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 parking.godaddy.com
+0.0.0.0 partner-app.softwareselect.com
 0.0.0.0 partner.e-conomic.com
 0.0.0.0 partner.vecteezy.com
 0.0.0.0 partners.autotrader.co.uk
@@ -46084,6 +46085,7 @@
 0.0.0.0 pagesense-collect.zoho.com
 0.0.0.0 pagesocket.glam.com
 0.0.0.0 pap.qualityunit.com
+0.0.0.0 pbjs-stream.bydata.com
 0.0.0.0 pegasus.unifygroup.com
 0.0.0.0 perso.aws.arc.pub
 0.0.0.0 pets.channeladvisor.com
@@ -56376,6 +56378,9 @@
 0.0.0.0 arqvm.cn
 0.0.0.0 yddjmpjo.xyz
 0.0.0.0 ktoioo.xyz
+0.0.0.0 srzpsbf.xyz
+0.0.0.0 pjzxdl.xyz
+0.0.0.0 sjaaquj.cn
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
