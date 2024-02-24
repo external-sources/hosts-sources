@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 23 Feb 2024 20:57:38 +0000
+# Last converted - Sat, 24 Feb 2024 01:34:21 +0000
 #
 
 0.0.0.0 agazejagless.com
@@ -3466,6 +3466,7 @@
 0.0.0.0 ammunitionconsiderinstitution.com
 0.0.0.0 amnew.net
 0.0.0.0 amnoctowlan.club
+0.0.0.0 amnruvbmeoqp.com
 0.0.0.0 amntx1.net
 0.0.0.0 amoddishor.com
 0.0.0.0 amofqosgs.com
@@ -6455,6 +6456,7 @@
 0.0.0.0 bxacmsvmxb.com
 0.0.0.0 bxevkphcx.com
 0.0.0.0 bxikceucv.com
+0.0.0.0 bxmpcfzlllej.com
 0.0.0.0 bxpjpkldxrsss.xyz
 0.0.0.0 bxrqdnkb.com
 0.0.0.0 bxscdyybtuxbfda.xyz
@@ -10681,6 +10683,7 @@
 0.0.0.0 edutechlearners.com
 0.0.0.0 edverys.buzz
 0.0.0.0 edvfwlacluo.com
+0.0.0.0 edvjvadg.com
 0.0.0.0 edvrfjrrxk.com
 0.0.0.0 edvruqmrjvlg.com
 0.0.0.0 edvxygh.com
@@ -13937,6 +13940,7 @@
 0.0.0.0 gluttonybuzzingtroubled.com
 0.0.0.0 gluwhoas.com
 0.0.0.0 glvhvesvnp.com
+0.0.0.0 glwcxdq.com
 0.0.0.0 glxrubskce.com
 0.0.0.0 glxtest.site
 0.0.0.0 glycylsrapped.com
@@ -16182,6 +16186,7 @@
 0.0.0.0 impenetrableauthorslimbs.com
 0.0.0.0 imperativecapitaltraitor.com
 0.0.0.0 imperativetheirs.com
+0.0.0.0 imperialbattervideo.com
 0.0.0.0 imperialtense.com
 0.0.0.0 impertinentwishing.com
 0.0.0.0 imperturbableawesome.com
@@ -22534,6 +22539,7 @@
 0.0.0.0 offerstrackingnow.com
 0.0.0.0 offerwall.site
 0.0.0.0 offfurreton.com
+0.0.0.0 offhandpump.com
 0.0.0.0 offhdgatyooum.com
 0.0.0.0 officerolivehaughty.com
 0.0.0.0 officetablntry.org
@@ -22910,6 +22916,7 @@
 0.0.0.0 onwekdebd.xyz
 0.0.0.0 onznwiocrrim.com
 0.0.0.0 oo00.biz
+0.0.0.0 oobitsou.net
 0.0.0.0 oobuwjnlljbah.com
 0.0.0.0 oocxefrgn.com
 0.0.0.0 oodnaturedf.xyz
@@ -23173,6 +23180,7 @@
 0.0.0.0 osjhvtxsyiuyjv.com
 0.0.0.0 oskiwood.com
 0.0.0.0 oskxpvmnalfb.com
+0.0.0.0 oslcypxrrpod.com
 0.0.0.0 osmanlikaraite.com
 0.0.0.0 osmatecosh.com
 0.0.0.0 osmosewatch.top
@@ -24103,6 +24111,7 @@
 0.0.0.0 perseducatiuca.com
 0.0.0.0 perseverancekaleidoscopefinance.com
 0.0.0.0 perseverancewash.com
+0.0.0.0 perseverehang.com
 0.0.0.0 persevereindirect.com
 0.0.0.0 perseverevoice.com
 0.0.0.0 persistentadequate.com
@@ -26111,6 +26120,7 @@
 0.0.0.0 qqohtssdp.com
 0.0.0.0 qqqqbdma.com
 0.0.0.0 qqqwes.com
+0.0.0.0 qqurzfi.com
 0.0.0.0 qquubyoknj.com
 0.0.0.0 qqvlbzlbqenbk.top
 0.0.0.0 qqvvkebebnbb.top
@@ -27162,6 +27172,7 @@
 0.0.0.0 rhombosdupe.top
 0.0.0.0 rhpjzjqhgz.com
 0.0.0.0 rhsorga.com
+0.0.0.0 rhtysfkaqle.com
 0.0.0.0 rhubarbraise.com
 0.0.0.0 rhudsplm.com
 0.0.0.0 rhufmdelxa.com
@@ -29000,6 +29011,7 @@
 0.0.0.0 slimlyeneas.com
 0.0.0.0 slimreply.pro
 0.0.0.0 slinkyfoliot.com
+0.0.0.0 slippersphoto.com
 0.0.0.0 slipperspinchingsyntax.com
 0.0.0.0 slipperswallpaper.com
 0.0.0.0 slippery-bed.pro
@@ -33027,6 +33039,7 @@
 0.0.0.0 veildiscotacky.com
 0.0.0.0 veilsuccessfully.com
 0.0.0.0 veinletunapart.com
+0.0.0.0 veipcwjeupr.com
 0.0.0.0 vekroata.net
 0.0.0.0 velikacontact.top
 0.0.0.0 velocecdn.com
@@ -33841,6 +33854,7 @@
 0.0.0.0 waufooke.com
 0.0.0.0 waughtsquint.com
 0.0.0.0 waugique.net
+0.0.0.0 wauloumu.net
 0.0.0.0 waunsgraphs.website
 0.0.0.0 wauroufu.net
 0.0.0.0 waushaup.com
@@ -35181,6 +35195,7 @@
 0.0.0.0 yackedslaveys.com
 0.0.0.0 yacurlik.com
 0.0.0.0 yaefddu.com
+0.0.0.0 yaeigtmhvsibf.com
 0.0.0.0 yafabu.uno
 0.0.0.0 yafmqibivbuu.com
 0.0.0.0 yahuu.org
@@ -37264,11 +37279,14 @@
 0.0.0.0 utiq.soester-anzeiger.de
 0.0.0.0 utiq.tz.de
 0.0.0.0 utiq.wa.de
+0.0.0.0 1017167188.rsc.cdn77.org
 0.0.0.0 1079823516.rsc.cdn77.org
 0.0.0.0 1080872514.rsc.cdn77.org
 0.0.0.0 10945-2.s.cdn15.com
 0.0.0.0 10945-5.s.cdn15.com
 0.0.0.0 1130482418.rsc.cdn77.org
+0.0.0.0 1147571014.rsc.cdn77.org
+0.0.0.0 1171766178.rsc.cdn77.org
 0.0.0.0 1173384488.rsc.cdn77.org
 0.0.0.0 1187386545.rsc.cdn77.org
 0.0.0.0 1187531871.rsc.cdn77.org
@@ -37278,12 +37296,14 @@
 0.0.0.0 1433024343.rsc.cdn77.org
 0.0.0.0 1437953666.rsc.cdn77.org
 0.0.0.0 1445112467.rsc.cdn77.org
+0.0.0.0 1476351501.rsc.cdn77.org
 0.0.0.0 1477803098.rsc.cdn77.org
 0.0.0.0 1527684727.rsc.cdn77.org
 0.0.0.0 1556048427.rsc.cdn77.org
 0.0.0.0 1580345775.rsc.cdn77.org
 0.0.0.0 1647871863.rsc.cdn77.org
 0.0.0.0 1656002483.rsc.cdn77.org
+0.0.0.0 1665091311.rsc.cdn77.org
 0.0.0.0 1675450967.rsc.cdn77.org
 0.0.0.0 1680292335.rsc.cdn77.org
 0.0.0.0 1687097253.rsc.cdn77.org
@@ -37291,13 +37311,16 @@
 0.0.0.0 1741975790.rsc.cdn77.org
 0.0.0.0 1786886222.rsc.cdn77.org
 0.0.0.0 1851120889.rsc.cdn77.org
+0.0.0.0 1851933582.rsc.cdn77.org
 0.0.0.0 1857964468.rsc.cdn77.org
+0.0.0.0 1859033409.rsc.cdn77.org
 0.0.0.0 1874562524.rsc.cdn77.org
 0.0.0.0 1921777336.rsc.cdn77.org
 0.0.0.0 1931283355.rsc.cdn77.org
 0.0.0.0 1934671980.rsc.cdn77.org
 0.0.0.0 1939682047.rsc.cdn77.org
 0.0.0.0 1948576968.rsc.cdn77.org
+0.0.0.0 1957370781.rsc.cdn77.org
 0.0.0.0 1969321160.rsc.cdn77.org
 0.0.0.0 1993311980.rsc.cdn77.org
 0.0.0.0 360playvid.com
@@ -38170,6 +38193,7 @@
 0.0.0.0 ddrvjrfwnij7n.cloudfront.net
 0.0.0.0 ddvbjehruuj5y.cloudfront.net
 0.0.0.0 ddvfoj5yrl2oi.cloudfront.net
+0.0.0.0 ddzswov1e84sp.cloudfront.net
 0.0.0.0 de2nsnw1i3egd.cloudfront.net
 0.0.0.0 desgao1zt7irn.cloudfront.net
 0.0.0.0 dew9ckzjyt2gn.cloudfront.net
@@ -46354,6 +46378,7 @@
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 vdrn.redplum.com
 0.0.0.0 vercel-vitals.axiom.co
+0.0.0.0 video-analytics-api.cloudinary.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vst.sibnet.ru
 0.0.0.0 vstat.borderlessbd.com
@@ -56347,6 +56372,10 @@
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zopuqv.icu
 0.0.0.0 ztxjutz.xyz
+0.0.0.0 zuvbzl.xyz
+0.0.0.0 arqvm.cn
+0.0.0.0 yddjmpjo.xyz
+0.0.0.0 ktoioo.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com

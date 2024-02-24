@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Fri, 23 Feb 2024 20:58:18 +0000
+# Last converted - Sat, 24 Feb 2024 01:35:05 +0000
 #
 
 0.0.0.0 01counter.com
@@ -28426,6 +28426,7 @@
 0.0.0.0 matomo.bmw-boerse.at
 0.0.0.0 matomo.bne-online.de
 0.0.0.0 matomo.bodenheizung-24.de
+0.0.0.0 matomo.boergener.de
 0.0.0.0 matomo.bonus.direct
 0.0.0.0 matomo.boostclic.com
 0.0.0.0 matomo.bordeaux-tourisme.com
@@ -28650,6 +28651,7 @@
 0.0.0.0 matomo.deeplinkexpress.pro
 0.0.0.0 matomo.defencegateway.mod.uk
 0.0.0.0 matomo.defis.info
+0.0.0.0 matomo.dehring.net
 0.0.0.0 matomo.deliciousdesign.de
 0.0.0.0 matomo.delinat.com
 0.0.0.0 matomo.delorus.de
@@ -29473,6 +29475,7 @@
 0.0.0.0 matomo.limeandseo.it
 0.0.0.0 matomo.limelightplatform.com
 0.0.0.0 matomo.limit-fatigue.com
+0.0.0.0 matomo.limitloot.de
 0.0.0.0 matomo.lingphon.net
 0.0.0.0 matomo.linkhost.it
 0.0.0.0 matomo.linnmarketing.de
@@ -40881,6 +40884,7 @@
 0.0.0.0 plausible.ayedo.de
 0.0.0.0 plausible.baguette.engineering
 0.0.0.0 plausible.baselgovernance.org
+0.0.0.0 plausible.beberweil.eu
 0.0.0.0 plausible.benoitblanchon.fr
 0.0.0.0 plausible.berenger.dev
 0.0.0.0 plausible.bilbet.com
@@ -44674,6 +44678,7 @@
 0.0.0.0 sicksmash.com
 0.0.0.0 sid.nordstrom.com
 0.0.0.0 sidsayshello.sidlee.com
+0.0.0.0 sierrakermit.com
 0.0.0.0 sievo.com
 0.0.0.0 siftscience.com
 0.0.0.0 sig.ig.com
@@ -59867,7 +59872,9 @@
 0.0.0.0 wishpond.net
 0.0.0.0 wishpondpages.com
 0.0.0.0 wistfulflight.com
+0.0.0.0 wistfulwaste.com
 0.0.0.0 witstroom.com
+0.0.0.0 wittypopcorn.com
 0.0.0.0 wiwo.in-citu.fr
 0.0.0.0 wix-engage-visitors-prod-5.firebaseio.com
 0.0.0.0 wixlabs-hcounter.appspot.com
