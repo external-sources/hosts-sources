@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 24 Feb 2024 08:57:52 +0000
+# Last converted - Sat, 24 Feb 2024 12:57:47 +0000
 #
 
 0.0.0.0 agazejagless.com
@@ -37056,6 +37056,7 @@
 0.0.0.0 smartadtags.com
 0.0.0.0 smartadv.ru
 0.0.0.0 smartclip.net
+0.0.0.0 smartico.one
 0.0.0.0 smarttargetting.co.uk
 0.0.0.0 smarttargetting.net
 0.0.0.0 smartyads.com
@@ -50469,7 +50470,6 @@
 0.0.0.0 server4ads.com
 0.0.0.0 servote.de
 0.0.0.0 sexgoesmobile.com
-0.0.0.0 smartico.one
 0.0.0.0 solads.media
 0.0.0.0 spaceeditors.com
 0.0.0.0 sparkads.ws
