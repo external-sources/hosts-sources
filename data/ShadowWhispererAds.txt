@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Sat, 24 Feb 2024 04:58:46 +0000
+# Last converted - Sat, 24 Feb 2024 08:58:35 +0000
 #
 
 0.0.0.0 00px.net
@@ -10192,6 +10192,7 @@
 0.0.0.0 iad.apple.com
 0.0.0.0 iadcontent.apple.com
 0.0.0.0 iadsdk.apple.com
+0.0.0.0 iads.unity3d.com
 0.0.0.0 iamaffiliate.com
 0.0.0.0 iamcommunication.co
 0.0.0.0 iamniyati.com
