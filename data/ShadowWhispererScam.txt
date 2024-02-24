@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Fri, 23 Feb 2024 20:58:18 +0000
+# Last converted - Sat, 24 Feb 2024 01:35:05 +0000
 #
 
 0.0.0.0 007-dvd.com
@@ -11699,6 +11699,7 @@
 0.0.0.0 ubitfull.com
 0.0.0.0 ubrbdanig.com.ng
 0.0.0.0 ucointrades.com
+0.0.0.0 udates.io
 0.0.0.0 udpgovassist.com
 0.0.0.0 udpsgovgrant.com
 0.0.0.0 udriverslicense.com

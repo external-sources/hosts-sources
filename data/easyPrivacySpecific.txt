@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 23 Feb 2024 20:58:05 +0000
+# Last converted - Sat, 24 Feb 2024 01:34:52 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -97,6 +97,7 @@
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.xbox.com
 0.0.0.0 c.ypcdn.com
+0.0.0.0 capital.com
 0.0.0.0 cl.canva.com
 0.0.0.0 clanker-events.squarespace.com
 0.0.0.0 clarice.streema.com
