@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 25 Feb 2024 08:57:49 +0000
+# Last converted - Sun, 25 Feb 2024 12:57:55 +0000
 #
 
 0.0.0.0 4lke.online
