@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 25 Feb 2024 04:58:04 +0000
+# Last converted - Sun, 25 Feb 2024 08:57:49 +0000
 #
 
 0.0.0.0 4lke.online
@@ -56386,6 +56386,13 @@
 0.0.0.0 zopuqv.icu
 0.0.0.0 ztxjutz.xyz
 0.0.0.0 zuvbzl.xyz
+0.0.0.0 dzuht.cn
+0.0.0.0 bvxiht.xyz
+0.0.0.0 hexcvb.xyz
+0.0.0.0 efmtsw.xyz
+0.0.0.0 b37r5.cyou
+0.0.0.0 ejdhmed.xyz
+0.0.0.0 szmnf.cn
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
