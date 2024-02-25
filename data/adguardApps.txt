@@ -1,7 +1,7 @@
 # adguardApps
 #
 # Converted from - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
-# Last converted - Sun, 25 Feb 2024 16:58:04 +0000
+# Last converted - Sun, 25 Feb 2024 20:58:01 +0000
 #
 
 0.0.0.0 adcenter-api.cashwalk.co
@@ -9,7 +9,6 @@
 0.0.0.0 ads-d.viber.com
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 preitem.wshareit.com
-0.0.0.0 mobimagic.com
 0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 promotion.polarisoffice.com
 0.0.0.0 newad.ifeng.com
