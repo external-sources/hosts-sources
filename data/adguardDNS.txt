@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 24 Feb 2024 20:57:40 +0000
+# Last converted - Sun, 25 Feb 2024 01:41:14 +0000
 #
 
 0.0.0.0 4lke.online
@@ -30589,6 +30589,7 @@
 0.0.0.0 tbiwkjomju.com
 0.0.0.0 tbm09.com
 0.0.0.0 tbmwkwbdcryfhb.xyz
+0.0.0.0 tbpot.com
 0.0.0.0 tbppfktchj.com
 0.0.0.0 tbradshedm.org
 0.0.0.0 tbsjkaorxwuchyb.com
