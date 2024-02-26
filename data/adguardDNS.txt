@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 26 Feb 2024 16:57:57 +0000
+# Last converted - Mon, 26 Feb 2024 20:58:14 +0000
 #
 
 0.0.0.0 rwwmbymwbzbea.top
@@ -37430,6 +37430,7 @@
 0.0.0.0 campaigns.williamhill.com
 0.0.0.0 cdn.ad.page
 0.0.0.0 cdn.ads.tapzin.com
+0.0.0.0 cdn.b2.ai
 0.0.0.0 cdn22904910.ahacdn.me
 0.0.0.0 chandrabinduad.com
 0.0.0.0 chicoryapp.com
@@ -39581,6 +39582,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 log.dance
 0.0.0.0 adx.promo
 0.0.0.0 trk.decido.io
 0.0.0.0 tracker.oval.id
@@ -49344,6 +49346,7 @@
 0.0.0.0 exchange.informer.ua
 0.0.0.0 hdvmyo.com
 0.0.0.0 adsy.mail.bg
+0.0.0.0 hemenindir.to
 0.0.0.0 srvd2204.com
 0.0.0.0 cryptosmoke.care
 0.0.0.0 intermediaworks.com
@@ -56168,6 +56171,7 @@
 0.0.0.0 hhffks967.shop
 0.0.0.0 hhffnu135.shop
 0.0.0.0 hmrwkcx.cn
+0.0.0.0 hozatr.xyz
 0.0.0.0 jgmywh.icu
 0.0.0.0 jqpejp.xyz
 0.0.0.0 js131.cn
@@ -56195,7 +56199,11 @@
 0.0.0.0 phvfevk.xyz
 0.0.0.0 pjzxdl.xyz
 0.0.0.0 przbzr.xyz
+0.0.0.0 qbhzghb.xyz
 0.0.0.0 qlbbowx.xyz
+0.0.0.0 qqkkpos.com
+0.0.0.0 qrkhwe.xyz
+0.0.0.0 qrttfmo.cn
 0.0.0.0 qzalsk.xyz
 0.0.0.0 rarcff.xyz
 0.0.0.0 rfnvqpo.xyz
@@ -56208,6 +56216,7 @@
 0.0.0.0 spsfupq.cn
 0.0.0.0 srzpsbf.xyz
 0.0.0.0 szbhb.cn
+0.0.0.0 szmnd.cn
 0.0.0.0 szmnf.cn
 0.0.0.0 szpnz.cn
 0.0.0.0 szptp.cn
@@ -56221,6 +56230,7 @@
 0.0.0.0 uu22662.com
 0.0.0.0 uxrdg.cn
 0.0.0.0 veaiyl.icu
+0.0.0.0 vhvwlb.xyz
 0.0.0.0 vxfdepn.cn
 0.0.0.0 wbvfj.xyz
 0.0.0.0 wkywrc.cn
@@ -56231,6 +56241,7 @@
 0.0.0.0 xdmnlxtu.xyz
 0.0.0.0 xdrvkdni.xyz
 0.0.0.0 xdybwjpa.xyz
+0.0.0.0 xklofoz.cn
 0.0.0.0 xliffnsc.xyz
 0.0.0.0 xn--wgvp78a61swpe6zdozj.cn
 0.0.0.0 xszw0.icu
@@ -56252,14 +56263,6 @@
 0.0.0.0 zopuqv.icu
 0.0.0.0 ztxjutz.xyz
 0.0.0.0 zuvbzl.xyz
-0.0.0.0 qrttfmo.cn
-0.0.0.0 qbhzghb.xyz
-0.0.0.0 hozatr.xyz
-0.0.0.0 qrkhwe.xyz
-0.0.0.0 vhvwlb.xyz
-0.0.0.0 szmnd.cn
-0.0.0.0 qqkkpos.com
-0.0.0.0 xklofoz.cn
 0.0.0.0 01v62.xyz
 0.0.0.0 052db.website
 0.0.0.0 053h94.com
