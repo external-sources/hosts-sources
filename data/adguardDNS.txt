@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 27 Feb 2024 08:57:42 +0000
+# Last converted - Tue, 27 Feb 2024 12:59:17 +0000
 #
 
 0.0.0.0 rwwmbymwbzbea.top
@@ -47288,6 +47288,7 @@
 0.0.0.0 solution911.com
 0.0.0.0 templates.buscape.com
 0.0.0.0 yestorrents.org
+0.0.0.0 qkyspzfxnc.ru
 0.0.0.0 monetizer.guru
 0.0.0.0 1wiipr.xyz
 0.0.0.0 bcdjcjjhgfiejgfjhah.world
@@ -50508,6 +50509,7 @@
 0.0.0.0 external.reseguiden.se
 0.0.0.0 f.convertkit.com
 0.0.0.0 fapp.pw
+0.0.0.0 faro-collector-prod-eu-west-0.grafana.net
 0.0.0.0 feed.aservice.tools
 0.0.0.0 fila.com.se
 0.0.0.0 flag.lab.eu.amplitude.com
@@ -56205,6 +56207,11 @@
 0.0.0.0 ndthdte125.shop
 0.0.0.0 ndthdtr586.shop
 0.0.0.0 3bxe2.cyou
+0.0.0.0 rzfdbsn.cn
+0.0.0.0 hgthpj.xyz
+0.0.0.0 usltmus.cn
+0.0.0.0 tgccct.icu
+0.0.0.0 svncowt.cn
 0.0.0.0 yyddkm526.shop
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zopuqv.icu
