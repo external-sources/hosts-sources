@@ -1,7 +1,7 @@
 # PhishingDatabase
 #
 # Converted from - https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
-# Last converted - Tue, 27 Feb 2024 13:00:01 +0000
+# Last converted - Tue, 27 Feb 2024 16:58:29 +0000
 #
 
 0.0.0.0 0-i-fdik.000webhostapp.com
@@ -20801,7 +20801,6 @@
 0.0.0.0 elishaloglesby.com
 0.0.0.0 elissipohbranch.com
 0.0.0.0 elite-pass-gratis-free-fire.000webhostapp.com
-0.0.0.0 elite-rentals.net
 0.0.0.0 elite-ucrohome.com
 0.0.0.0 eliteandroidapp.cu.ma
 0.0.0.0 elitebrandapparel.com
