@@ -1,7 +1,7 @@
 # blocklistProjectRansomware
 #
 # Converted from - https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/ransomware-nl.txt
-# Last converted - Tue, 27 Feb 2024 08:58:04 +0000
+# Last converted - Tue, 27 Feb 2024 12:59:44 +0000
 #
 
 0.0.0.0 25z5g623wpqpdwis.onion.to
