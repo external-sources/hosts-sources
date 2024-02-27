@@ -1,7 +1,7 @@
 # ShadowWhispererDating
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dating
-# Last converted - Mon, 26 Feb 2024 20:58:53 +0000
+# Last converted - Tue, 27 Feb 2024 01:36:52 +0000
 #
 
 0.0.0.0 1000-dating-sites.com
@@ -54,6 +54,7 @@
 0.0.0.0 agematch.com
 0.0.0.0 alena-marriage-agency.com
 0.0.0.0 allianceinter.com
+0.0.0.0 alompartner.com
 0.0.0.0 amadonna.com
 0.0.0.0 amateurmatch.com
 0.0.0.0 ambiancematchmaking.com
@@ -476,6 +477,7 @@
 0.0.0.0 guidedenuit.com
 0.0.0.0 guide-sites-rencontres.ch
 0.0.0.0 hallokoko.com
+0.0.0.0 happn.com
 0.0.0.0 happysingles.fr
 0.0.0.0 harmonylove.com
 0.0.0.0 hasimausi.de

@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Mon, 26 Feb 2024 20:58:56 +0000
+# Last converted - Tue, 27 Feb 2024 01:36:54 +0000
 #
 
 0.0.0.0 010.at
@@ -1390,6 +1390,7 @@
 0.0.0.0 rpd.ink
 0.0.0.0 rq.fyi
 0.0.0.0 rr.be
+0.0.0.0 rtpslotmax.win
 0.0.0.0 rtube.nl
 0.0.0.0 rtxt.co
 0.0.0.0 ruhgsliughs.com
