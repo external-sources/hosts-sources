@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 27 Feb 2024 04:58:04 +0000
+# Last converted - Tue, 27 Feb 2024 08:57:42 +0000
 #
 
 0.0.0.0 rwwmbymwbzbea.top
@@ -56204,6 +56204,7 @@
 0.0.0.0 cqisam.xyz
 0.0.0.0 ndthdte125.shop
 0.0.0.0 ndthdtr586.shop
+0.0.0.0 3bxe2.cyou
 0.0.0.0 yyddkm526.shop
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zopuqv.icu
