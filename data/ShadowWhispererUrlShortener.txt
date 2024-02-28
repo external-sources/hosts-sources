@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Wed, 28 Feb 2024 08:58:41 +0000
+# Last converted - Wed, 28 Feb 2024 12:59:51 +0000
 #
 
 0.0.0.0 010.at

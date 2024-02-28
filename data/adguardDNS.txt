@@ -1,9 +1,13 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 28 Feb 2024 08:57:54 +0000
+# Last converted - Wed, 28 Feb 2024 12:59:16 +0000
 #
 
+0.0.0.0 aj2555.bid
+0.0.0.0 vlkxsrhi.com
+0.0.0.0 lxvluwda.com
+0.0.0.0 afeerdah.net
 0.0.0.0 shodaisy.com
 0.0.0.0 cqkhdhrpo.com
 0.0.0.0 rwwmbymwbzbea.top
@@ -56281,6 +56285,9 @@
 0.0.0.0 tsrvrr.xyz
 0.0.0.0 qhocciks.com
 0.0.0.0 xkrnud.icu
+0.0.0.0 rnkzhsi.cn
+0.0.0.0 ok8867s.com
+0.0.0.0 wisealty.com
 0.0.0.0 yyddkm526.shop
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zopuqv.icu
