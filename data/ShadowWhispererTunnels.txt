@@ -1,7 +1,7 @@
 # ShadowWhispererTunnels
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
-# Last converted - Tue, 27 Feb 2024 20:58:25 +0000
+# Last converted - Wed, 28 Feb 2024 01:38:54 +0000
 #
 
 0.0.0.0 0000a-fast-proxy.de
@@ -44,6 +44,7 @@
 0.0.0.0 anonymousvpn.org
 0.0.0.0 anonymox.net
 0.0.0.0 anonymster.com
+0.0.0.0 anonymurl.biz
 0.0.0.0 antistalkerfree-eu.europe-west1.firebasedatabase.app
 0.0.0.0 appshost.us
 0.0.0.0 assets-prod-a230.s3.serverwild.com
