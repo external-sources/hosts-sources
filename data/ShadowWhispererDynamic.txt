@@ -1,7 +1,7 @@
 # ShadowWhispererDynamic
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
-# Last converted - Tue, 27 Feb 2024 20:58:23 +0000
+# Last converted - Wed, 28 Feb 2024 01:38:52 +0000
 #
 
 0.0.0.0 0000000000000000000000.com
@@ -292,6 +292,7 @@
 0.0.0.0 dnshome.icu
 0.0.0.0 dnsiskinky.com
 0.0.0.0 d-n-s.name
+0.0.0.0 dnsname.org
 0.0.0.0 dnsnet.info
 0.0.0.0 dnsnew.org
 0.0.0.0 dnsomatic.com

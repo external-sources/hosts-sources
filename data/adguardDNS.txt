@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 27 Feb 2024 20:57:48 +0000
+# Last converted - Wed, 28 Feb 2024 01:38:18 +0000
 #
 
 0.0.0.0 shodaisy.com
@@ -9120,6 +9120,7 @@
 0.0.0.0 decpo.xyz
 0.0.0.0 decreasetome.com
 0.0.0.0 decreertenet.website
+0.0.0.0 decswci.com
 0.0.0.0 deddsunland.com
 0.0.0.0 dedfearingles.info
 0.0.0.0 dedicatedmedia.com
@@ -10363,6 +10364,7 @@
 0.0.0.0 dutythursday.com
 0.0.0.0 duwabchhdgkqc.com
 0.0.0.0 duwtkigcyxh.com
+0.0.0.0 duwvinarma.com
 0.0.0.0 duxqonqkcaum.com
 0.0.0.0 duzbhonizsk.com
 0.0.0.0 duzmevl.com
@@ -14897,6 +14899,7 @@
 0.0.0.0 hbpcjmegtll.com
 0.0.0.0 hbrphusgbhpjpi.com
 0.0.0.0 hbxbiwgdjervee.com
+0.0.0.0 hbzikbe.com
 0.0.0.0 hcdmhyq.com
 0.0.0.0 hcitgdljlrfw.com
 0.0.0.0 hcritiesec.xyz
@@ -19323,6 +19326,7 @@
 0.0.0.0 lonfilliongin.com
 0.0.0.0 longeargloving.com
 0.0.0.0 longerbuttonamendment.com
+0.0.0.0 longerhorns.com
 0.0.0.0 longestwaileddeadlock.com
 0.0.0.0 longingarsonistexemplify.com
 0.0.0.0 longlakeweb.com
@@ -23335,6 +23339,7 @@
 0.0.0.0 oulrukry.xyz
 0.0.0.0 oulsools.com
 0.0.0.0 oulukdliketo.shop
+0.0.0.0 oumpashy.net
 0.0.0.0 oumtirsu.com
 0.0.0.0 ouncillorswhow.info
 0.0.0.0 oungimuk.net
@@ -24544,6 +24549,7 @@
 0.0.0.0 pitasevpk.com
 0.0.0.0 pitchedfurs.com
 0.0.0.0 pitchedgenuinevillain.com
+0.0.0.0 pitchedvalleyspageant.com
 0.0.0.0 pitcherprobable.com
 0.0.0.0 pithgregor.com
 0.0.0.0 pitiersamara.com
@@ -29069,6 +29075,7 @@
 0.0.0.0 slenderglowingcontrary.com
 0.0.0.0 sleptornament.com
 0.0.0.0 slfsmf.com
+0.0.0.0 slfznewdii.com
 0.0.0.0 slibb.xyz
 0.0.0.0 slickerunderdo.com
 0.0.0.0 slickgrapes.com
@@ -35405,6 +35412,7 @@
 0.0.0.0 yholvajpu.com
 0.0.0.0 yhomrdh.com
 0.0.0.0 yhrjmamaxni.com
+0.0.0.0 yhrvpvbcfbuj.com
 0.0.0.0 yhvejawarouohb.xyz
 0.0.0.0 yhwwinrhjwrxpm.com
 0.0.0.0 yhwysogyho.com
@@ -37374,6 +37382,7 @@
 0.0.0.0 utiq.soester-anzeiger.de
 0.0.0.0 utiq.tz.de
 0.0.0.0 utiq.wa.de
+0.0.0.0 1008858461.rsc.cdn77.org
 0.0.0.0 1017167188.rsc.cdn77.org
 0.0.0.0 1079823516.rsc.cdn77.org
 0.0.0.0 1080872514.rsc.cdn77.org
@@ -37975,6 +37984,7 @@
 0.0.0.0 d2ob4whwpjvvpa.cloudfront.net
 0.0.0.0 d2ohmkyg5w2c18.cloudfront.net
 0.0.0.0 d2ojfulajn60p5.cloudfront.net
+0.0.0.0 d2oouw5449k1qr.cloudfront.net
 0.0.0.0 d2ov8ip31qpxly.cloudfront.net
 0.0.0.0 d2oxs0429n9gfd.cloudfront.net
 0.0.0.0 d2oy22m6xey08r.cloudfront.net
@@ -46955,6 +46965,7 @@
 0.0.0.0 nexxtv-events.servicebus.windows.net
 0.0.0.0 omniture.eaeurope.eu
 0.0.0.0 orbidder.otto.de
+0.0.0.0 owen.prolitteris.ch
 0.0.0.0 pixel.poptok.com
 0.0.0.0 plausible.ams.to
 0.0.0.0 retrack.q-divisioncdn.de
@@ -47149,6 +47160,7 @@
 0.0.0.0 collect.adplogger.no
 0.0.0.0 analytics.aasaam.com
 0.0.0.0 analytics.greensender.pl
+0.0.0.0 ar1.aza.io
 0.0.0.0 cmp.dreamlab.pl
 0.0.0.0 dsg.interia.pl
 0.0.0.0 pixel.homebook.pl
@@ -56262,6 +56274,12 @@
 0.0.0.0 yvbjctqs.xyz
 0.0.0.0 yvnxetmq.xyz
 0.0.0.0 yvudqzoa.xyz
+0.0.0.0 halct.cn
+0.0.0.0 pidzlp.xyz
+0.0.0.0 ocggec.xyz
+0.0.0.0 tdljuuw.xyz
+0.0.0.0 tsrvrr.xyz
+0.0.0.0 qhocciks.com
 0.0.0.0 yyddkm526.shop
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zopuqv.icu

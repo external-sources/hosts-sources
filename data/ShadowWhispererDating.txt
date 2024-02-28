@@ -1,7 +1,7 @@
 # ShadowWhispererDating
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dating
-# Last converted - Tue, 27 Feb 2024 20:58:23 +0000
+# Last converted - Wed, 28 Feb 2024 01:38:52 +0000
 #
 
 0.0.0.0 1000-dating-sites.com
@@ -389,8 +389,6 @@
 0.0.0.0 eharmony.com
 0.0.0.0 eharmony.co.uk
 0.0.0.0 elitemate.com
-0.0.0.0 elitesingles.ca
-0.0.0.0 elitesingles.com
 0.0.0.0 elovedates.com
 0.0.0.0 e-match.net
 0.0.0.0 encontrar-pareja.net
@@ -994,6 +992,7 @@
 0.0.0.0 undeuxtoi.com
 0.0.0.0 une-rencontre-serieuse.com
 0.0.0.0 upforit.com
+0.0.0.0 upward-app.com
 0.0.0.0 urbansocial.com
 0.0.0.0 u-rencontres.com
 0.0.0.0 valentimatchmaking.com
