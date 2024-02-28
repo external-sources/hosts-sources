@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 28 Feb 2024 12:59:16 +0000
+# Last converted - Wed, 28 Feb 2024 16:58:22 +0000
 #
 
 0.0.0.0 aj2555.bid
