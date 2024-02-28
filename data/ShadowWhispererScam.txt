@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Wed, 28 Feb 2024 16:59:05 +0000
+# Last converted - Wed, 28 Feb 2024 20:58:56 +0000
 #
 
 0.0.0.0 007-dvd.com
@@ -2040,6 +2040,7 @@
 0.0.0.0 canonusadrivers.com
 0.0.0.0 canonwirelessconnect.com
 0.0.0.0 cantonreporter.com
+0.0.0.0 canucklovers.com
 0.0.0.0 canvirex.com
 0.0.0.0 caoefe.shop
 0.0.0.0 caorchareb.net
@@ -7602,6 +7603,7 @@
 0.0.0.0 myhandshops.myshopify.com
 0.0.0.0 my-hpdrivers.com
 0.0.0.0 myjeepus.com
+0.0.0.0 mykinkyclub.com
 0.0.0.0 mykinkylifestyle.com
 0.0.0.0 myladyboydate.com
 0.0.0.0 mylahragdollhome.com
@@ -7609,8 +7611,11 @@
 0.0.0.0 myleaffarm.com
 0.0.0.0 mylilpup.com
 0.0.0.0 mylocalcrush.com
+0.0.0.0 mylonelyladies.com
+0.0.0.0 mylushlass.com
 0.0.0.0 myluxuryscent.com
 0.0.0.0 mymaplemistress.com
+0.0.0.0 mymaturematch.com
 0.0.0.0 my-mcafee.com
 0.0.0.0 my-movie.club
 0.0.0.0 mymovingchanges.com
@@ -7658,6 +7663,7 @@
 0.0.0.0 mysteriousk.com
 0.0.0.0 mysteriouslover.com
 0.0.0.0 mysteriousmissus.com
+0.0.0.0 mysteriousseductress.com
 0.0.0.0 mythicware.com
 0.0.0.0 myticketstoindia.com
 0.0.0.0 mytinypawteacupyorkieboutique.com
@@ -7861,6 +7867,7 @@
 0.0.0.0 nextdayshihtzufarm.com
 0.0.0.0 nextdoor-lesbian.ca
 0.0.0.0 nextdoor-lesbian.com
+0.0.0.0 nextdoornooky.com
 0.0.0.0 nextlevelgoods.com
 0.0.0.0 nextlvltee.com
 0.0.0.0 nextsocialsoft.com
