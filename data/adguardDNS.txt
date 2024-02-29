@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 29 Feb 2024 04:58:01 +0000
+# Last converted - Thu, 29 Feb 2024 08:58:07 +0000
 #
 
 0.0.0.0 guangzhuiyuan.com
@@ -25308,6 +25308,7 @@
 0.0.0.0 privacycounter.com
 0.0.0.0 privacysearching.com
 0.0.0.0 privacywithholdrepose.com
+0.0.0.0 privateapi.click
 0.0.0.0 privatediamond.pro
 0.0.0.0 privatedqualizebrui.info
 0.0.0.0 privateleaflet.com
@@ -56333,6 +56334,10 @@
 0.0.0.0 bugzmn.icu
 0.0.0.0 aourgk.xyz
 0.0.0.0 fvpboxu.xyz
+0.0.0.0 jioed.cyou
+0.0.0.0 xsfajf.xyz
+0.0.0.0 fefgvh.xyz
+0.0.0.0 tduenkq839.shop
 0.0.0.0 yyddkm526.shop
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zopuqv.icu
