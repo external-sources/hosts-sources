@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 29 Feb 2024 08:58:39 +0000
+# Last converted - Thu, 29 Feb 2024 12:58:56 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -298,6 +298,7 @@
 0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs.us.tiktokv.com
 0.0.0.0 medal.tv
+0.0.0.0 megatron.igraal.com
 0.0.0.0 metrics.audius.co
 0.0.0.0 metrics.bangbros.com
 0.0.0.0 metrics.camsoda.com
