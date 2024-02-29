@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 28 Feb 2024 20:58:10 +0000
+# Last converted - Thu, 29 Feb 2024 01:36:49 +0000
 #
 
 0.0.0.0 guangzhuiyuan.com
@@ -11787,6 +11787,7 @@
 0.0.0.0 explodemedicine.com
 0.0.0.0 exploitdevoid.com
 0.0.0.0 exploitingenious.com
+0.0.0.0 exploittonlets.com
 0.0.0.0 exploreannihilationquicker.com
 0.0.0.0 explorecomparison.com
 0.0.0.0 explorefast-1.com
@@ -12926,6 +12927,7 @@
 0.0.0.0 foutoanaugab.com
 0.0.0.0 foutyoxyaena.website
 0.0.0.0 fouwiphy.net
+0.0.0.0 fovdvoz.com
 0.0.0.0 foviyii.com
 0.0.0.0 foxmeywkh.xyz
 0.0.0.0 foxpush.io
@@ -16071,6 +16073,7 @@
 0.0.0.0 ihtckcitkr.com
 0.0.0.0 ihttscqovzzb.com
 0.0.0.0 ihzuephjxb.com
+0.0.0.0 iibhytvj.com
 0.0.0.0 iicheewi.com
 0.0.0.0 iidohheneuda.com
 0.0.0.0 iifvcfwiqi.com
@@ -17323,6 +17326,7 @@
 0.0.0.0 jigsawthirsty.com
 0.0.0.0 jiiglogwdkcqwou.xyz
 0.0.0.0 jijhkclur.com
+0.0.0.0 jikbwoozvci.com
 0.0.0.0 jikclwxavkanym.com
 0.0.0.0 jikicotho.pro
 0.0.0.0 jikvcrikdvng.com
@@ -33079,6 +33083,7 @@
 0.0.0.0 varabs.com
 0.0.0.0 varasbrijkt.com
 0.0.0.0 varechphugoid.com
+0.0.0.0 variabilityproducing.com
 0.0.0.0 variableexternal.com
 0.0.0.0 variablevisualforty.com
 0.0.0.0 variationaspenjaunty.com
@@ -33128,6 +33133,7 @@
 0.0.0.0 vbijjrg.com
 0.0.0.0 vbmfeuvrtnxafy.com
 0.0.0.0 vbqbtfkon.com
+0.0.0.0 vbrbgki.com
 0.0.0.0 vbtrax.com
 0.0.0.0 vbzsjkrnsqewy.com
 0.0.0.0 vcbydvfouqqyls.com
@@ -56323,6 +56329,10 @@
 0.0.0.0 yvbjctqs.xyz
 0.0.0.0 yvnxetmq.xyz
 0.0.0.0 yvudqzoa.xyz
+0.0.0.0 zsjpi.cn
+0.0.0.0 bugzmn.icu
+0.0.0.0 aourgk.xyz
+0.0.0.0 fvpboxu.xyz
 0.0.0.0 yyddkm526.shop
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zopuqv.icu

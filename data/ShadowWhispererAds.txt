@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 28 Feb 2024 20:58:52 +0000
+# Last converted - Thu, 29 Feb 2024 01:37:21 +0000
 #
 
 0.0.0.0 00px.net
@@ -13142,6 +13142,7 @@
 0.0.0.0 plexmedia.co.uk
 0.0.0.0 plexop.net
 0.0.0.0 plezi.co
+0.0.0.0 pliki.audiostereo.pl
 0.0.0.0 plista.com
 0.0.0.0 plrsrvcs.com
 0.0.0.0 plsdonblock.supjav.buzz
@@ -14358,6 +14359,7 @@
 0.0.0.0 rvv.emol.com
 0.0.0.0 rvv.pdnegocios.cl
 0.0.0.0 rwadx.com
+0.0.0.0 rwc-ad-2022.raysweather.com
 0.0.0.0 rwpypf.com
 0.0.0.0 rxlnd.net
 0.0.0.0 rx-news.com
