@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 28 Feb 2024 20:58:56 +0000
+# Last converted - Thu, 29 Feb 2024 01:37:22 +0000
 #
 
 0.0.0.0 01counter.com
@@ -18104,6 +18104,7 @@
 0.0.0.0 e.givergy.com
 0.0.0.0 e.goamur.com
 0.0.0.0 e.godiva.com
+0.0.0.0 e.golden1.com
 0.0.0.0 e-govsystems.com
 0.0.0.0 e.grci.group
 0.0.0.0 egret.brothers.studio
