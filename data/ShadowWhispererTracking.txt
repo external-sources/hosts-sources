@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Thu, 29 Feb 2024 16:58:33 +0000
+# Last converted - Thu, 29 Feb 2024 20:58:39 +0000
 #
 
 0.0.0.0 01counter.com
@@ -18372,6 +18372,7 @@
 0.0.0.0 energy.utility-aid.co.uk
 0.0.0.0 enews.biscom.com
 0.0.0.0 enews.mortonarb.org
+0.0.0.0 enews.saks.com
 0.0.0.0 engage2.accfb.org
 0.0.0.0 engage.3csoftware.com
 0.0.0.0 engage.9principles.com
@@ -18663,6 +18664,7 @@
 0.0.0.0 europe-west1-realtime-logging-228816.cloudfunctions.net
 0.0.0.0 e.usaa.com
 0.0.0.0 ev98trk.com
+0.0.0.0 eval.privateapi.click
 0.0.0.0 evaluateend.com
 0.0.0.0 evaluationkit.com
 0.0.0.0 evalueserve.com
@@ -19593,6 +19595,7 @@
 0.0.0.0 fraudlabspro.com
 0.0.0.0 fraudlogix.com
 0.0.0.0 fraudmetrix.cn
+0.0.0.0 frd-mms-matomo.mehrkanal.com
 0.0.0.0 free411.com
 0.0.0.0 freeappanalytics.com
 0.0.0.0 freebloghitcounter.com
@@ -59420,6 +59423,7 @@
 0.0.0.0 web-analytics.accadis.net
 0.0.0.0 webanalytics.acs.org
 0.0.0.0 webanalyticsadmin.sumtotal.host
+0.0.0.0 webanalytics.americanreading.com
 0.0.0.0 webanalytics.astrogaming.com
 0.0.0.0 web-analytics.aueb.gr
 0.0.0.0 web-analytics.bienenkamp.de
@@ -59452,6 +59456,7 @@
 0.0.0.0 web-analytics.nftconsult.com
 0.0.0.0 web-analytics.nic.br
 0.0.0.0 webanalyticsnossl.websense.com
+0.0.0.0 web-analytics.onventis.com
 0.0.0.0 web-analytics.opusvl.com
 0.0.0.0 webanalytics.pgatour.com
 0.0.0.0 webanalytics.platform.acommerce.asia
@@ -59459,6 +59464,7 @@
 0.0.0.0 webanalytics.prod.ooda-health.io
 0.0.0.0 webanalytics.qualcomm.com
 0.0.0.0 web-analytics.scoe.net
+0.0.0.0 web-analytics.smart-ltd.co.uk
 0.0.0.0 webanalyticsssl.websense.com
 0.0.0.0 webanalytics.stage.sumtotal.host
 0.0.0.0 webanalytics.sumtotal.host
@@ -59649,6 +59655,7 @@
 0.0.0.0 webstats.kern.org
 0.0.0.0 webstats.liberale.de
 0.0.0.0 webstats.mylearnerportal.com
+0.0.0.0 webstats.ne.ch
 0.0.0.0 webstats.opensoftware.it
 0.0.0.0 web-stats.org
 0.0.0.0 webstats.oriented.net
