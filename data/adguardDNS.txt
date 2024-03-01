@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 01 Mar 2024 04:57:38 +0000
+# Last converted - Fri, 01 Mar 2024 08:58:10 +0000
 #
 
 0.0.0.0 gvwdwrtzrs.com
@@ -56395,6 +56395,8 @@
 0.0.0.0 bmret.cn
 0.0.0.0 dkjwbv.xyz
 0.0.0.0 ahyyqq.xyz
+0.0.0.0 fxjnfn.xyz
+0.0.0.0 szmnk.cn
 0.0.0.0 zhaweifeng.com
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
