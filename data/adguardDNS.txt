@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 01 Mar 2024 08:58:10 +0000
+# Last converted - Fri, 01 Mar 2024 12:59:40 +0000
 #
 
 0.0.0.0 gvwdwrtzrs.com
@@ -50536,7 +50536,6 @@
 0.0.0.0 angry-golick-2a96e5.netlify.app
 0.0.0.0 annons.svenskjakt.se
 0.0.0.0 annons.turist.se
-0.0.0.0 anonymousdemographics.com
 0.0.0.0 api.adfenix.com
 0.0.0.0 api.getlevelten.com
 0.0.0.0 api.lab.eu.amplitude.com
@@ -50575,7 +50574,6 @@
 0.0.0.0 cargodisplayads.com
 0.0.0.0 carneoam.com
 0.0.0.0 casinotoplists.com
-0.0.0.0 caviera-sverige.shop
 0.0.0.0 cdn.adfenix.com
 0.0.0.0 cdn.adswizz.com
 0.0.0.0 cdn.adt356.com
@@ -50594,7 +50592,6 @@
 0.0.0.0 cdn.jst.ai
 0.0.0.0 cdn.matomo.cloud
 0.0.0.0 cdn.myadmessenger.com
-0.0.0.0 cdn.oribi.io
 0.0.0.0 cdn.pushalert.co
 0.0.0.0 cdn.reaktion.se
 0.0.0.0 cdn.routy.app
@@ -50659,7 +50656,6 @@
 0.0.0.0 extern.prisjakt.nu
 0.0.0.0 external.reseguiden.se
 0.0.0.0 f.convertkit.com
-0.0.0.0 fapp.pw
 0.0.0.0 faro-collector-prod-eu-west-0.grafana.net
 0.0.0.0 feed.aservice.tools
 0.0.0.0 fila.com.se
@@ -56397,6 +56393,7 @@
 0.0.0.0 ahyyqq.xyz
 0.0.0.0 fxjnfn.xyz
 0.0.0.0 szmnk.cn
+0.0.0.0 crjeymh.cn
 0.0.0.0 zhaweifeng.com
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
