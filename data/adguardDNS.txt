@@ -1,9 +1,11 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 01 Mar 2024 16:58:02 +0000
+# Last converted - Fri, 01 Mar 2024 20:58:19 +0000
 #
 
+0.0.0.0 aeoqmogkswsd.com
+0.0.0.0 aunauque.net
 0.0.0.0 gvwdwrtzrs.com
 0.0.0.0 guangzhuiyuan.com
 0.0.0.0 agamaevascla.top
@@ -3030,6 +3032,7 @@
 0.0.0.0 ahagreatlypromised.com
 0.0.0.0 ahaheartburndo.com
 0.0.0.0 ahaurgoo.net
+0.0.0.0 ahaxoenizuaon.com
 0.0.0.0 ahbdsply.com
 0.0.0.0 ahcdsply.com
 0.0.0.0 ahdytiyc.xyz
@@ -3700,6 +3703,7 @@
 0.0.0.0 anvilfaintmaiden.com
 0.0.0.0 anvkmi.com
 0.0.0.0 anwhic.com
+0.0.0.0 anwhitepinafore.info
 0.0.0.0 anwyrxpockct.xyz
 0.0.0.0 anxiouslyconsistencytearing.com
 0.0.0.0 anxiouslywonderexcitement.com
@@ -6051,6 +6055,7 @@
 0.0.0.0 bowlsolicitor.com
 0.0.0.0 bowmoolog.com
 0.0.0.0 bowtellwhincow.cfd
+0.0.0.0 boxappellation.com
 0.0.0.0 boxernightdilution.com
 0.0.0.0 boxhaulchrist.guru
 0.0.0.0 boxlikepavers.com
@@ -6308,6 +6313,7 @@
 0.0.0.0 bshrdr.com
 0.0.0.0 bsjusnip.com
 0.0.0.0 bsolaoecm.xyz
+0.0.0.0 bsshcuxgxtovjv.com
 0.0.0.0 bsudzbtp.com
 0.0.0.0 bswakciowtsmnm.com
 0.0.0.0 bsxqnbhahvjrrry.com
@@ -6634,6 +6640,7 @@
 0.0.0.0 caeli-rns.com
 0.0.0.0 caesardamaging.com
 0.0.0.0 caesaw.com
+0.0.0.0 cafenehkikki.com
 0.0.0.0 cafeteriasobwaiter.com
 0.0.0.0 caffleklismos.website
 0.0.0.0 cafqeelk.com
@@ -9488,6 +9495,7 @@
 0.0.0.0 di7stero.com
 0.0.0.0 diaepoxy.guru
 0.0.0.0 diagramcetyl.digital
+0.0.0.0 dialedbollox.com
 0.0.0.0 dialling-abutory.com
 0.0.0.0 dialoguemarvellouswound.com
 0.0.0.0 dialogueshipwreck.com
@@ -12151,6 +12159,7 @@
 0.0.0.0 fbmedia-bls.com
 0.0.0.0 fbmedia-ckl.com
 0.0.0.0 fbmedia-dhs.com
+0.0.0.0 fbnztqwlirf.com
 0.0.0.0 fbpgdlprsiz.com
 0.0.0.0 fbrheofkccovs.xyz
 0.0.0.0 fbtinlxy.com
@@ -12176,6 +12185,7 @@
 0.0.0.0 fczaifik.com
 0.0.0.0 fd2a9dd918.com
 0.0.0.0 fd2cd5c351.com
+0.0.0.0 fd39024d2a.com
 0.0.0.0 fd5orie8e.com
 0.0.0.0 fd7qz88ckd.com
 0.0.0.0 fddfqxxxqbuhss.xyz
@@ -13054,6 +13064,7 @@
 0.0.0.0 frfetchme.com
 0.0.0.0 frfhhcxeqkubk.xyz
 0.0.0.0 frhbrkjgerikm2f8mjek09.com
+0.0.0.0 frhjqdgtfeb.com
 0.0.0.0 fri4esianewheywr90itrage.com
 0.0.0.0 fricacedisgulf.uno
 0.0.0.0 frictionliteral.com
@@ -14943,6 +14954,7 @@
 0.0.0.0 hbzikbe.com
 0.0.0.0 hcdmhyq.com
 0.0.0.0 hcitgdljlrfw.com
+0.0.0.0 hcndrrodt.com
 0.0.0.0 hcritiesec.xyz
 0.0.0.0 hcrwvno.com
 0.0.0.0 hcsiquau.com
@@ -15825,6 +15837,7 @@
 0.0.0.0 hwqybdkniptwm.com
 0.0.0.0 hwrcxpfzmfxg.com
 0.0.0.0 hwucqkpdinfb.xyz
+0.0.0.0 hwvvvuwpvu.com
 0.0.0.0 hwydfevh.com
 0.0.0.0 hwyjfhdjgoorb.com
 0.0.0.0 hwyrtegwvyjvbim.com
@@ -17455,6 +17468,7 @@
 0.0.0.0 jnlldyq.com
 0.0.0.0 jnnbzmyqaekzj.top
 0.0.0.0 jnovoksjreeyrpm.xyz
+0.0.0.0 jnqkvgkm.com
 0.0.0.0 jnrgcwf.com
 0.0.0.0 jnrtavp2x66u.com
 0.0.0.0 jnsgdaqsiqcumg.xyz
@@ -18073,6 +18087,7 @@
 0.0.0.0 khment.com
 0.0.0.0 khnwnqmwmdttsd.com
 0.0.0.0 khoslo.com
+0.0.0.0 khuanynodefado.com
 0.0.0.0 khvphqpsl.com
 0.0.0.0 kiaughsviner.com
 0.0.0.0 kiblahsbuenas.com
@@ -18768,6 +18783,7 @@
 0.0.0.0 lcwoewvvmhj.com
 0.0.0.0 lcwogxmmukoe.com
 0.0.0.0 ld.myrciawaapa.com
+0.0.0.0 ldcadfuway.com
 0.0.0.0 ldclxgkcy.xyz
 0.0.0.0 ldcrfkvy.com
 0.0.0.0 ldedallover.info
@@ -19591,6 +19607,7 @@
 0.0.0.0 luckyforbet.com
 0.0.0.0 luckypapa.xyz
 0.0.0.0 luckypushh.com
+0.0.0.0 luckyz.xyz
 0.0.0.0 lucrativeemotionallypromised.com
 0.0.0.0 lucrumvirga.life
 0.0.0.0 lucvhrdlywvnwh.com
@@ -19686,6 +19703,7 @@
 0.0.0.0 lvsnmgg.com
 0.0.0.0 lvwdrsrerso.com
 0.0.0.0 lvwuuehkvitwn.com
+0.0.0.0 lvyowwkqealv.top
 0.0.0.0 lwgadm.com
 0.0.0.0 lwghtbqqmbxiet.com
 0.0.0.0 lwjdefxsrithve.com
@@ -21459,6 +21477,7 @@
 0.0.0.0 naturalhealthsource.club
 0.0.0.0 naturalistsbumpmystic.com
 0.0.0.0 naturallyedaciousedacious.com
+0.0.0.0 naubme.info
 0.0.0.0 naucaips.com
 0.0.0.0 naucaish.net
 0.0.0.0 naufistuwha.com
@@ -22736,6 +22755,7 @@
 0.0.0.0 ohfowsawvgig.com
 0.0.0.0 ohgmnmgrd.xyz
 0.0.0.0 ohibal.com
+0.0.0.0 ohjhsopp.com
 0.0.0.0 ohkahfwumd.com
 0.0.0.0 ohkdsplu.com
 0.0.0.0 ohkvifgino.com
@@ -23372,6 +23392,7 @@
 0.0.0.0 otorwardsoffhdgat.com
 0.0.0.0 otqxvqzdgl.com
 0.0.0.0 otrwaram.com
+0.0.0.0 otrzcixradze.com
 0.0.0.0 ottack.com
 0.0.0.0 ottdhysral.com
 0.0.0.0 otterwoodlandobedient.com
@@ -26256,6 +26277,7 @@
 0.0.0.0 qppq166n.de
 0.0.0.0 qprthjab.com
 0.0.0.0 qpvbsekwtwsoe.com
+0.0.0.0 qqdxtmllptdlz.com
 0.0.0.0 qqfelxqmhoc.com
 0.0.0.0 qqgfubewassi.com
 0.0.0.0 qqguvmf.com
@@ -30486,6 +30508,7 @@
 0.0.0.0 swordeast.com
 0.0.0.0 swordrelievedictum.com
 0.0.0.0 swordshiret.net
+0.0.0.0 swpnyrxgobtryu.com
 0.0.0.0 swtchrules.click
 0.0.0.0 swunge.com
 0.0.0.0 swungencetacea.website
@@ -32298,6 +32321,7 @@
 0.0.0.0 u595sebqih.com
 0.0.0.0 u9axpzf50.com
 0.0.0.0 uaaftpsy.com
+0.0.0.0 uabpuwz.com
 0.0.0.0 uads.cc
 0.0.0.0 uads.digital
 0.0.0.0 uads.info
@@ -36054,6 +36078,7 @@
 0.0.0.0 zoutubephaid.com
 0.0.0.0 zoutufoostou.com
 0.0.0.0 zoxkljeicxi.com
+0.0.0.0 zoytgckcoxokah.com
 0.0.0.0 zozolilla.com
 0.0.0.0 zpbiqrovnozhn.com
 0.0.0.0 zpcfnzjq.com
@@ -37474,6 +37499,7 @@
 0.0.0.0 1080872514.rsc.cdn77.org
 0.0.0.0 10945-2.s.cdn15.com
 0.0.0.0 10945-5.s.cdn15.com
+0.0.0.0 1118519355.rsc.cdn77.org
 0.0.0.0 1130482418.rsc.cdn77.org
 0.0.0.0 1147571014.rsc.cdn77.org
 0.0.0.0 1171766178.rsc.cdn77.org
@@ -37483,6 +37509,7 @@
 0.0.0.0 1373864970.rsc.cdn77.org
 0.0.0.0 1386132757.rsc.cdn77.org
 0.0.0.0 1390582286.rsc.cdn77.org
+0.0.0.0 1413290090.rsc.cdn77.org
 0.0.0.0 1433024343.rsc.cdn77.org
 0.0.0.0 1437953666.rsc.cdn77.org
 0.0.0.0 1445112467.rsc.cdn77.org
@@ -37502,6 +37529,7 @@
 0.0.0.0 1786886222.rsc.cdn77.org
 0.0.0.0 1851120889.rsc.cdn77.org
 0.0.0.0 1851933582.rsc.cdn77.org
+0.0.0.0 1857833196.rsc.cdn77.org
 0.0.0.0 1857964468.rsc.cdn77.org
 0.0.0.0 1859033409.rsc.cdn77.org
 0.0.0.0 1874562524.rsc.cdn77.org
@@ -43096,6 +43124,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 affex.org
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 recv.tbs.co.jp
 0.0.0.0 tracking.game8.co
 0.0.0.0 analysis.aws.locondo.jp
 0.0.0.0 reports.tunein.com
@@ -44584,7 +44613,6 @@
 0.0.0.0 sayac.tmgrup.com.tr
 0.0.0.0 sbeacon.sina.com.cn
 0.0.0.0 sci.intuit.com
-0.0.0.0 scis.tbs.co.jp
 0.0.0.0 secure-wa-na.unileversolutions.com
 0.0.0.0 segment-cdn.producthunt.com
 0.0.0.0 segments.adap.tv
@@ -56215,6 +56243,7 @@
 0.0.0.0 999xx999kk.com
 0.0.0.0 aaoisp.com
 0.0.0.0 agmed.cyou
+0.0.0.0 ahyyqq.xyz
 0.0.0.0 anjdwmq.xyz
 0.0.0.0 aourgk.xyz
 0.0.0.0 arqvm.cn
@@ -56226,6 +56255,7 @@
 0.0.0.0 benpsbp.com
 0.0.0.0 bjswhpy.cn
 0.0.0.0 bmnbyn.icu
+0.0.0.0 bmret.cn
 0.0.0.0 bugzmn.icu
 0.0.0.0 bvxiht.xyz
 0.0.0.0 bwlcpr.xyz
@@ -56241,6 +56271,7 @@
 0.0.0.0 cliffnsc.xyz
 0.0.0.0 clywws.xyz
 0.0.0.0 cqisam.xyz
+0.0.0.0 crjeymh.cn
 0.0.0.0 ctlrarz.xyz
 0.0.0.0 cvbjctqs.xyz
 0.0.0.0 cvgrszkg.xyz
@@ -56248,6 +56279,7 @@
 0.0.0.0 cvudqzoa.xyz
 0.0.0.0 cwssfg632.shop
 0.0.0.0 ddielv.cn
+0.0.0.0 dkjwbv.xyz
 0.0.0.0 dsbqvj.xyz
 0.0.0.0 dxrnksm.xyz
 0.0.0.0 dyegif.icu
@@ -56261,6 +56293,7 @@
 0.0.0.0 fmfnrf.xyz
 0.0.0.0 fvpboxu.xyz
 0.0.0.0 fwcnex.icu
+0.0.0.0 fxjnfn.xyz
 0.0.0.0 ghgasdb365.shop
 0.0.0.0 ghgasdt963.shop
 0.0.0.0 gicjtss.cn
@@ -56334,6 +56367,7 @@
 0.0.0.0 szbhb.cn
 0.0.0.0 szmnd.cn
 0.0.0.0 szmnf.cn
+0.0.0.0 szmnk.cn
 0.0.0.0 szmnl.cn
 0.0.0.0 szpnz.cn
 0.0.0.0 szptp.cn
@@ -56348,6 +56382,7 @@
 0.0.0.0 tu2024020388.com
 0.0.0.0 tyodot.icu
 0.0.0.0 uctutu3789.xyz
+0.0.0.0 uiqcf.cn
 0.0.0.0 usltmus.cn
 0.0.0.0 uu22662.com
 0.0.0.0 uxlvk.cn
@@ -56365,6 +56400,7 @@
 0.0.0.0 xdmnlxtu.xyz
 0.0.0.0 xdrvkdni.xyz
 0.0.0.0 xdybwjpa.xyz
+0.0.0.0 xhfxtqt.xyz
 0.0.0.0 xklofoz.cn
 0.0.0.0 xkrnud.icu
 0.0.0.0 xliffnsc.xyz
@@ -56386,15 +56422,8 @@
 0.0.0.0 yvudqzoa.xyz
 0.0.0.0 yyddkm526.shop
 0.0.0.0 zagyjnn.cn
-0.0.0.0 xhfxtqt.xyz
-0.0.0.0 zojyob.icu
-0.0.0.0 bmret.cn
-0.0.0.0 dkjwbv.xyz
-0.0.0.0 ahyyqq.xyz
-0.0.0.0 fxjnfn.xyz
-0.0.0.0 szmnk.cn
-0.0.0.0 crjeymh.cn
 0.0.0.0 zhaweifeng.com
+0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
 0.0.0.0 ztxjutz.xyz
