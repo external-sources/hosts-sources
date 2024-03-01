@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 29 Feb 2024 20:57:54 +0000
+# Last converted - Fri, 01 Mar 2024 01:43:18 +0000
 #
 
 0.0.0.0 gvwdwrtzrs.com
@@ -2991,6 +2991,7 @@
 0.0.0.0 agisdayra.com
 0.0.0.0 agitated-potential.pro
 0.0.0.0 agitationdispense.com
+0.0.0.0 agl001.bid
 0.0.0.0 agle21xe2anfddirite.com
 0.0.0.0 aglocobanners.com
 0.0.0.0 agloogly.com
@@ -3310,6 +3311,7 @@
 0.0.0.0 allhugenewz.com
 0.0.0.0 allhypefeed.com
 0.0.0.0 allicinarenig.com
+0.0.0.0 allloveydovey.fun
 0.0.0.0 allmt.com
 0.0.0.0 allnesskepped.com
 0.0.0.0 allobarpepped.uno
@@ -4630,6 +4632,7 @@
 0.0.0.0 axwnmenruo.com
 0.0.0.0 axwortbabysit.com
 0.0.0.0 axwortbunko.com
+0.0.0.0 axwpawahnwux.com
 0.0.0.0 axxcqwxdcijxl.xyz
 0.0.0.0 axzxkeawbo.com
 0.0.0.0 ay.delivery
@@ -7503,6 +7506,7 @@
 0.0.0.0 ckeyutgnwtsojbc.xyz
 0.0.0.0 ckfkigayvdb.com
 0.0.0.0 ckgsrzu.com
+0.0.0.0 ckiepxrgriwvbv.xyz
 0.0.0.0 ckjetuohm.com
 0.0.0.0 ckkpjtkqjqdnyom.xyz
 0.0.0.0 ckofrnk.com
@@ -8867,6 +8871,7 @@
 0.0.0.0 dailychronicles2.xyz
 0.0.0.0 dailyenoplan.website
 0.0.0.0 dailyvids.space
+0.0.0.0 daimfkgotytcqld.com
 0.0.0.0 daimioswhimper.com
 0.0.0.0 daipsaut.com
 0.0.0.0 dairebougee.com
@@ -13642,6 +13647,7 @@
 0.0.0.0 gettjohytn.com
 0.0.0.0 gettraffnews.com
 0.0.0.0 getupwoleai.com
+0.0.0.0 getvideoz.click
 0.0.0.0 getxml.org
 0.0.0.0 getyourbitco.in
 0.0.0.0 getyoursoft.ru
@@ -14008,6 +14014,7 @@
 0.0.0.0 gluttonybrand.com
 0.0.0.0 gluttonybuzzingtroubled.com
 0.0.0.0 gluwhoas.com
+0.0.0.0 gluxouvauque.com
 0.0.0.0 glvhvesvnp.com
 0.0.0.0 glwcxdq.com
 0.0.0.0 glxrubskce.com
@@ -14324,6 +14331,7 @@
 0.0.0.0 grasshopperprudencecondiment.com
 0.0.0.0 grasutie.net
 0.0.0.0 grataeraghu.digital
+0.0.0.0 gratchit.com
 0.0.0.0 gratertiedbubble.com
 0.0.0.0 gratificationdesperate.com
 0.0.0.0 gratifiedmatrix.com
@@ -15267,6 +15275,7 @@
 0.0.0.0 hillyhaeres.website
 0.0.0.0 hiloss.com
 0.0.0.0 hilove.life
+0.0.0.0 hiltingcid.com
 0.0.0.0 himediads.com
 0.0.0.0 himediadx.com
 0.0.0.0 himekingrow.com
@@ -17818,6 +17827,7 @@
 0.0.0.0 jyrfbtmbuqeaeo.com
 0.0.0.0 jytbxzil.com
 0.0.0.0 jyuirxswk.com
+0.0.0.0 jywczbx.com
 0.0.0.0 jzbvpyvhus.com
 0.0.0.0 jzbvwqezlwrzy.top
 0.0.0.0 jzbvwqezlwyaz.top
@@ -18822,6 +18832,7 @@
 0.0.0.0 lebpeqroqqvtf.com
 0.0.0.0 lebsigry.com
 0.0.0.0 lecapush.net
+0.0.0.0 lecdhuq.com
 0.0.0.0 lecythleche.website
 0.0.0.0 ledaoutrush.com
 0.0.0.0 ledgesprimely.com
@@ -19559,6 +19570,7 @@
 0.0.0.0 lteyrcwpoh.xyz
 0.0.0.0 ltingcoempa.info
 0.0.0.0 ltmlsehfqikh.xyz
+0.0.0.0 ltmywtp.com
 0.0.0.0 ltnyzlrqggx.com
 0.0.0.0 ltohnghngrfeg.xyz
 0.0.0.0 ltyabkihjsecl.xyz
@@ -19922,6 +19934,7 @@
 0.0.0.0 mameyesmulemen.digital
 0.0.0.0 mamluksburion.com
 0.0.0.0 mammalbuy.com
+0.0.0.0 mammaldealbustle.com
 0.0.0.0 mammalsidewaysthankful.com
 0.0.0.0 mammeysterrae.com
 0.0.0.0 mammocksambos.com
@@ -25744,6 +25757,7 @@
 0.0.0.0 ptvfranfbdaq.xyz
 0.0.0.0 ptwmemd.com
 0.0.0.0 ptwmjmp.com
+0.0.0.0 ptyalinbrattie.com
 0.0.0.0 ptyomtzjpdlcf.com
 0.0.0.0 pu1.biz
 0.0.0.0 pu3.biz
@@ -26112,6 +26126,7 @@
 0.0.0.0 qe0ckm024b.com
 0.0.0.0 qedeczzdt.com
 0.0.0.0 qehwgbwjmjvq.xyz
+0.0.0.0 qeildfuznofnlq.com
 0.0.0.0 qekbmjyzwewvj.top
 0.0.0.0 qekgygdkyewbzv.com
 0.0.0.0 qel-qel-fie.com
@@ -34655,6 +34670,7 @@
 0.0.0.0 wnkibwzr.com
 0.0.0.0 wnp.com
 0.0.0.0 wnrusisedprivatedq.info
+0.0.0.0 wnt-s0me-push.net
 0.0.0.0 wnt-some-psh.net
 0.0.0.0 wnt-some-push.com
 0.0.0.0 wnt-some-push.net
@@ -35756,6 +35772,7 @@
 0.0.0.0 z6naousb.com
 0.0.0.0 z7yru.com
 0.0.0.0 zabanit.xyz
+0.0.0.0 zachunsears.com
 0.0.0.0 zacleporis.com
 0.0.0.0 zadauque.net
 0.0.0.0 zaemi.xyz
@@ -56373,6 +56390,11 @@
 0.0.0.0 yvudqzoa.xyz
 0.0.0.0 yyddkm526.shop
 0.0.0.0 zagyjnn.cn
+0.0.0.0 xhfxtqt.xyz
+0.0.0.0 zojyob.icu
+0.0.0.0 bmret.cn
+0.0.0.0 dkjwbv.xyz
+0.0.0.0 ahyyqq.xyz
 0.0.0.0 zhaweifeng.com
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
