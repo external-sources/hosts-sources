@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Sat, 02 Mar 2024 08:58:34 +0000
+# Last converted - Sat, 02 Mar 2024 12:59:17 +0000
 #
 
 0.0.0.0 01counter.com
@@ -56663,6 +56663,7 @@
 0.0.0.0 telemetryverification.net
 0.0.0.0 telemetry.vg.ac.pvp.net
 0.0.0.0 telemetry_watson.live.com
+0.0.0.0 telemetry-web.api.playstation.com
 0.0.0.0 telemetry-web.betterme.world
 0.0.0.0 telemetry.westeurope.cloudapp.azure.com
 0.0.0.0 telephoneapparatus.com
