@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 02 Mar 2024 16:58:04 +0000
+# Last converted - Sat, 02 Mar 2024 20:57:57 +0000
 #
 
 0.0.0.0 aeoqmogkswsd.com
@@ -56260,6 +56260,7 @@
 0.0.0.0 51hir.cyou
 0.0.0.0 88lm05.com
 0.0.0.0 88lm06.com
+0.0.0.0 8t9he.cyou
 0.0.0.0 8xtm6i.cn
 0.0.0.0 999xx999kk.com
 0.0.0.0 aaoisp.com
@@ -56299,14 +56300,18 @@
 0.0.0.0 cvnxetmq.xyz
 0.0.0.0 cvudqzoa.xyz
 0.0.0.0 cwssfg632.shop
+0.0.0.0 dawdlealmonry.com
 0.0.0.0 ddielv.cn
 0.0.0.0 dkjwbv.xyz
 0.0.0.0 dsbqvj.xyz
 0.0.0.0 dxrnksm.xyz
 0.0.0.0 dyegif.icu
+0.0.0.0 dytkgl.icu
 0.0.0.0 dzuht.cn
 0.0.0.0 ebgwdon.cn
 0.0.0.0 efmtsw.xyz
+0.0.0.0 egywbps748.shop
+0.0.0.0 egywbpu286.shop
 0.0.0.0 ejdhmed.xyz
 0.0.0.0 execuri.com
 0.0.0.0 fefgvh.xyz
@@ -56329,19 +56334,24 @@
 0.0.0.0 hmrwkcx.cn
 0.0.0.0 hozatr.xyz
 0.0.0.0 ijvla.cn
+0.0.0.0 ivbgpax.cn
 0.0.0.0 jgmywh.icu
 0.0.0.0 jioed.cyou
 0.0.0.0 jqpejp.xyz
 0.0.0.0 js131.cn
+0.0.0.0 jzjpntr.xyz
 0.0.0.0 kbomku.xyz
 0.0.0.0 kksjsa.top
 0.0.0.0 ktoioo.xyz
 0.0.0.0 l5kt1.icu
 0.0.0.0 lfffzv.xyz
+0.0.0.0 lulxzl.xyz
 0.0.0.0 luofk.xyz
 0.0.0.0 lvdedf.xyz
+0.0.0.0 mdhv3.icu
 0.0.0.0 misjgy.xyz
 0.0.0.0 mlhtr.cn
+0.0.0.0 mtwmuy.xyz
 0.0.0.0 nddld.cn
 0.0.0.0 ndthdte125.shop
 0.0.0.0 ndthdtr586.shop
@@ -56372,6 +56382,7 @@
 0.0.0.0 qzalsk.xyz
 0.0.0.0 rarcff.xyz
 0.0.0.0 rfnvqpo.xyz
+0.0.0.0 rjhbjv.xyz
 0.0.0.0 rktddv.xyz
 0.0.0.0 rnkzhsi.cn
 0.0.0.0 ruqwgb.icu
@@ -56437,6 +56448,7 @@
 0.0.0.0 ydrvkdni.xyz
 0.0.0.0 ydybwjpa.xyz
 0.0.0.0 yhqukg.xyz
+0.0.0.0 ykkhihg.cn
 0.0.0.0 yliffnsc.xyz
 0.0.0.0 yvbjctqs.xyz
 0.0.0.0 yvnxetmq.xyz
@@ -56444,16 +56456,6 @@
 0.0.0.0 yyddkm526.shop
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zhaweifeng.com
-0.0.0.0 lulxzl.xyz
-0.0.0.0 dytkgl.icu
-0.0.0.0 mdhv3.icu
-0.0.0.0 jzjpntr.xyz
-0.0.0.0 rjhbjv.xyz
-0.0.0.0 mtwmuy.xyz
-0.0.0.0 8t9he.cyou
-0.0.0.0 ykkhihg.cn
-0.0.0.0 egywbps748.shop
-0.0.0.0 ivbgpax.cn
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
