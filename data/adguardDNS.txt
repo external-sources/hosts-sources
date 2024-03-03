@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 03 Mar 2024 04:57:46 +0000
+# Last converted - Sun, 03 Mar 2024 08:57:43 +0000
 #
 
 0.0.0.0 aeoqmogkswsd.com
@@ -56465,6 +56465,17 @@
 0.0.0.0 yyddkm526.shop
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zhaweifeng.com
+0.0.0.0 mthhhuq.cn
+0.0.0.0 gsuxyg.xyz
+0.0.0.0 arnhhwo.xyz
+0.0.0.0 7vviw.cyou
+0.0.0.0 lenvvb.xyz
+0.0.0.0 hciwyv.icu
+0.0.0.0 0940088.com
+0.0.0.0 imevzbn.cn
+0.0.0.0 difmnd.xyz
+0.0.0.0 smallfo.com
+0.0.0.0 costarg.com
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
