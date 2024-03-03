@@ -1,7 +1,7 @@
 # PhishingDatabase
 #
 # Converted from - https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
-# Last converted - Sun, 03 Mar 2024 04:58:21 +0000
+# Last converted - Sun, 03 Mar 2024 08:58:18 +0000
 #
 
 0.0.0.0 0-i-fdik.000webhostapp.com
@@ -35601,7 +35601,6 @@
 0.0.0.0 linkepcb.com
 0.0.0.0 linkfox.io
 0.0.0.0 linkitnetwork.com
-0.0.0.0 linklyhq.com
 0.0.0.0 linkourschool.com
 0.0.0.0 linkprotect.cudasvc.com
 0.0.0.0 linkreativo.com
@@ -61869,7 +61868,6 @@
 0.0.0.0 telecreditolbcp.com
 0.0.0.0 teleecom.com.br
 0.0.0.0 telegr.am
-0.0.0.0 telegra.ph
 0.0.0.0 telegram-abuse.000webhostapp.com
 0.0.0.0 telegram-downloads.ru
 0.0.0.0 telegram.systems
