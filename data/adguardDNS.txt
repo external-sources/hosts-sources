@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 03 Mar 2024 08:57:43 +0000
+# Last converted - Sun, 03 Mar 2024 12:57:56 +0000
 #
 
 0.0.0.0 aeoqmogkswsd.com
@@ -50663,6 +50663,7 @@
 0.0.0.0 cdn001.milotree.com
 0.0.0.0 cdn1.profitmetrics.io
 0.0.0.0 cdn-magiclinks.trackonomics.net
+0.0.0.0 cdn.pushmaster-cdn.xyz
 0.0.0.0 cdn.vip-hd-movies.xyz
 0.0.0.0 cintnetworks.com
 0.0.0.0 cision.com
@@ -51050,6 +51051,7 @@
 0.0.0.0 tracking.ystadsallehanda.se
 0.0.0.0 tracking.etidning.fagersta-posten.se
 0.0.0.0 tracking.fagersta-posten.se
+0.0.0.0 tradecore.tradehouse.media
 0.0.0.0 traffic.feedremedy.com
 0.0.0.0 trckr1.nordiskemedier.dk
 0.0.0.0 turbolion.io
@@ -56476,6 +56478,7 @@
 0.0.0.0 difmnd.xyz
 0.0.0.0 smallfo.com
 0.0.0.0 costarg.com
+0.0.0.0 riscil.com
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
