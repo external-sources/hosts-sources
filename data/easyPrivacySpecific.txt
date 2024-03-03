@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 03 Mar 2024 01:40:01 +0000
+# Last converted - Sun, 03 Mar 2024 04:58:15 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -157,6 +157,7 @@
 0.0.0.0 dc.banggood.com
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.nytimes.com
+0.0.0.0 ddome-tag.blablacar.com
 0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dls-account.di.atlas.samsung.com
