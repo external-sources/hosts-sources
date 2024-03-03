@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 02 Mar 2024 20:58:22 +0000
+# Last converted - Sun, 03 Mar 2024 01:40:01 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -70,6 +70,7 @@
 0.0.0.0 api-hotmart-tracking-manager.hotmart.com
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api.privacyguides.net
+0.0.0.0 api.takealot.com
 0.0.0.0 appanalysis.banggood.com
 0.0.0.0 atrack.allposters.com
 0.0.0.0 ats.alot.com
