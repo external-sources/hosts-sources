@@ -1,9 +1,31 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 03 Mar 2024 20:58:10 +0000
+# Last converted - Mon, 04 Mar 2024 01:45:19 +0000
 #
 
+0.0.0.0 tauphaub.net
+0.0.0.0 koophaip.net
+0.0.0.0 regardsperformedgreens.com
+0.0.0.0 bywordmiddleagedpowder.com
+0.0.0.0 layoutsdaydawn.top
+0.0.0.0 eveneraw.digital
+0.0.0.0 tpciqzm.com
+0.0.0.0 vhdbohe.com
+0.0.0.0 showdoyoukno.info
+0.0.0.0 hfjvuxuwasf.com
+0.0.0.0 phaiseen.com
+0.0.0.0 interimmemory.com
+0.0.0.0 jpsthqhvxynfdx.com
+0.0.0.0 joaqaylueycfqw.xyz
+0.0.0.0 minsaith.xyz
+0.0.0.0 billiardsnotealertness.com
+0.0.0.0 perverseunsuccessful.com
+0.0.0.0 hadseaside.com
+0.0.0.0 sheardirectly.com
+0.0.0.0 frulednulx.com
+0.0.0.0 divorcebelievable.com
+0.0.0.0 swzgvmlvt.com
 0.0.0.0 aeoqmogkswsd.com
 0.0.0.0 aunauque.net
 0.0.0.0 gvwdwrtzrs.com
@@ -56481,6 +56503,11 @@
 0.0.0.0 yyddkm526.shop
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zhaweifeng.com
+0.0.0.0 tbpwrj.xyz
+0.0.0.0 lmxiqf.icu
+0.0.0.0 wwjtdjj.cn
+0.0.0.0 tlfvj.cyou
+0.0.0.0 seslco.xyz
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
