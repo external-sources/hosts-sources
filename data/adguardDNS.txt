@@ -1,9 +1,14 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 04 Mar 2024 16:58:36 +0000
+# Last converted - Mon, 04 Mar 2024 20:58:13 +0000
 #
 
+0.0.0.0 randomadsrv.com
+0.0.0.0 crmentjg.com
+0.0.0.0 crmtt.livejasmin.com
+0.0.0.0 servetag.com
+0.0.0.0 madurird.com
 0.0.0.0 vhsugcbelruygy.com
 0.0.0.0 tauphaub.net
 0.0.0.0 koophaip.net
@@ -5058,6 +5063,7 @@
 0.0.0.0 bbgickdocf.xyz
 0.0.0.0 bbgtranst.com
 0.0.0.0 bbhxuqym.xyz
+0.0.0.0 bbiuowdofb.com
 0.0.0.0 bbjnttjqknnmf.com
 0.0.0.0 bbkaqmmknori.com
 0.0.0.0 bbkydnakc.com
@@ -5891,6 +5897,7 @@
 0.0.0.0 boayipids.com
 0.0.0.0 bobabillydirect.org
 0.0.0.0 bobboro.com
+0.0.0.0 bobqucc.com
 0.0.0.0 bocoyoutage.com
 0.0.0.0 bodaichi.xyz
 0.0.0.0 bodaile.com
@@ -6134,6 +6141,7 @@
 0.0.0.0 bqeuffmdobmpoe.xyz
 0.0.0.0 bqiajdqye.com
 0.0.0.0 bqieaijre.xyz
+0.0.0.0 bqimhnhltoili.com
 0.0.0.0 bqklioghtnqs.com
 0.0.0.0 bqkwfioyd.xyz
 0.0.0.0 bqlhwrgxoedsm.com
@@ -6565,6 +6573,7 @@
 0.0.0.0 bxrqdnkb.com
 0.0.0.0 bxscdyybtuxbfda.xyz
 0.0.0.0 bxvirhgaq.com
+0.0.0.0 bxvlyrw.com
 0.0.0.0 bxvxfsdvgstu.com
 0.0.0.0 bxwmfozavo.com
 0.0.0.0 bxxiklwst.xyz
@@ -8595,7 +8604,6 @@
 0.0.0.0 crjpingate.com
 0.0.0.0 crlkyzwra.com
 0.0.0.0 crm4d.com
-0.0.0.0 crmentjg.com
 0.0.0.0 crmpt.livejasmin.com
 0.0.0.0 crnhbkd.com
 0.0.0.0 crninkvhariuh.com
@@ -10900,6 +10908,7 @@
 0.0.0.0 eertogro.net
 0.0.0.0 eeshemto.com
 0.0.0.0 eesihighlyrec.xyz
+0.0.0.0 eespekw.com
 0.0.0.0 eessoong.com
 0.0.0.0 eessoost.net
 0.0.0.0 eetchaid.net
@@ -11643,6 +11652,7 @@
 0.0.0.0 etretantothis.com
 0.0.0.0 ettilt.com
 0.0.0.0 ettjvrjujt.xyz
+0.0.0.0 etuvehackly.com
 0.0.0.0 etxahpe.com
 0.0.0.0 etyequiremu.org
 0.0.0.0 etymonsibycter.com
@@ -13929,6 +13939,7 @@
 0.0.0.0 gjzbcvatvn.com
 0.0.0.0 gk79a2oup.com
 0.0.0.0 gkbvnyk.com
+0.0.0.0 gkcltxp.com
 0.0.0.0 gkencyarcoc.com
 0.0.0.0 gkfehrdhbm.com
 0.0.0.0 gkkchmjdndovu.xyz
@@ -18079,6 +18090,7 @@
 0.0.0.0 kdosimp.com
 0.0.0.0 kdpnmlygyagyx.com
 0.0.0.0 kdwdrpiwdxof.com
+0.0.0.0 kdwsfvwrbrzke.com
 0.0.0.0 kdwuiulga.com
 0.0.0.0 kdxhsaaealyadm.com
 0.0.0.0 kdyxxkcd.com
@@ -19766,6 +19778,7 @@
 0.0.0.0 lumaktoys.com
 0.0.0.0 luminosoocchio.com
 0.0.0.0 lumnstoodthe.info
+0.0.0.0 lumpilap.net
 0.0.0.0 lumpmancommos.guru
 0.0.0.0 lumptaxmen.com
 0.0.0.0 lumpy-skirt.pro
@@ -19968,7 +19981,6 @@
 0.0.0.0 madsokz.com
 0.0.0.0 madsone.com
 0.0.0.0 madspmz.com
-0.0.0.0 madurird.com
 0.0.0.0 maebtjn.com
 0.0.0.0 mafon.xyz
 0.0.0.0 mafrarc3e9h.com
@@ -20235,6 +20247,7 @@
 0.0.0.0 mathneedle.com
 0.0.0.0 mathscrayonreference.com
 0.0.0.0 mathssyrupword.com
+0.0.0.0 maticalmasterouh.info
 0.0.0.0 matildawu.online
 0.0.0.0 matiro.com
 0.0.0.0 matmechanic.com
@@ -22748,6 +22761,7 @@
 0.0.0.0 oconner.link
 0.0.0.0 ocrppeqevqihdi.com
 0.0.0.0 octanmystes.com
+0.0.0.0 octavdtabacco.top
 0.0.0.0 octavianflingpod.com
 0.0.0.0 octavianimmaculate.com
 0.0.0.0 octkuhwuvxarsk.xyz
@@ -22848,6 +22862,7 @@
 0.0.0.0 offshorenonfictionbriefing.com
 0.0.0.0 offshuppetchan.com
 0.0.0.0 offsigilyphor.com
+0.0.0.0 offxkeapbvwe.com
 0.0.0.0 ofgogoatan.com
 0.0.0.0 ofhappinyer.com
 0.0.0.0 ofhypnoer.com
@@ -26724,7 +26739,6 @@
 0.0.0.0 rancidstrait.com
 0.0.0.0 rancorousnoncommittalsomewhat.com
 0.0.0.0 randiul.com
-0.0.0.0 randomadsrv.com
 0.0.0.0 randomamongst.com
 0.0.0.0 randomassertiveacacia.com
 0.0.0.0 randomignitiondentist.com
@@ -30240,6 +30254,7 @@
 0.0.0.0 stoaxugi.com
 0.0.0.0 stockingsight.com
 0.0.0.0 stogerde.com
+0.0.0.0 stokoaks.net
 0.0.0.0 stolenforensicssausage.com
 0.0.0.0 stoltoog.net
 0.0.0.0 stonkphymata.com
@@ -35047,6 +35062,7 @@
 0.0.0.0 worthless-living.pro
 0.0.0.0 worthless-theme.pro
 0.0.0.0 worthlessanxiety.pro
+0.0.0.0 worthlesspattern.com
 0.0.0.0 worthspontaneous.com
 0.0.0.0 worthwhile-chance.com
 0.0.0.0 worthwhileawe.com
@@ -35557,6 +35573,7 @@
 0.0.0.0 xvbtdwdelhhxe.com
 0.0.0.0 xvderylqps.xyz
 0.0.0.0 xvdifvuro.com
+0.0.0.0 xvhgtyvpaav.xyz
 0.0.0.0 xvideos00.sbs
 0.0.0.0 xvika.com
 0.0.0.0 xviperonec.com
@@ -37749,6 +37766,7 @@
 0.0.0.0 1390582286.rsc.cdn77.org
 0.0.0.0 1413290090.rsc.cdn77.org
 0.0.0.0 1433024343.rsc.cdn77.org
+0.0.0.0 1434260732.rsc.cdn77.org
 0.0.0.0 1437953666.rsc.cdn77.org
 0.0.0.0 1445112467.rsc.cdn77.org
 0.0.0.0 1476351501.rsc.cdn77.org
@@ -37766,6 +37784,7 @@
 0.0.0.0 1736253261.rsc.cdn77.org
 0.0.0.0 1741975790.rsc.cdn77.org
 0.0.0.0 1786886222.rsc.cdn77.org
+0.0.0.0 1822370020.rsc.cdn77.org
 0.0.0.0 1841035884.rsc.cdn77.org
 0.0.0.0 1851120889.rsc.cdn77.org
 0.0.0.0 1851933582.rsc.cdn77.org
@@ -39992,6 +40011,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 hscollectedforms.net
 0.0.0.0 m.stripe.com
 0.0.0.0 log.dance
 0.0.0.0 adx.promo
@@ -56515,6 +56535,7 @@
 0.0.0.0 cdrvkdni.xyz
 0.0.0.0 cdybwjpa.xyz
 0.0.0.0 chayassa.com
+0.0.0.0 cijianggun.com
 0.0.0.0 cliffnsc.xyz
 0.0.0.0 clywws.xyz
 0.0.0.0 cnvmhzt.cn
@@ -56561,6 +56582,7 @@
 0.0.0.0 hgthpj.xyz
 0.0.0.0 hhffks967.shop
 0.0.0.0 hhffnu135.shop
+0.0.0.0 hjshal.com
 0.0.0.0 hmrwkcx.cn
 0.0.0.0 hozatr.xyz
 0.0.0.0 ijvla.cn
@@ -56578,6 +56600,7 @@
 0.0.0.0 l5kt1.icu
 0.0.0.0 lenvvb.xyz
 0.0.0.0 lfffzv.xyz
+0.0.0.0 lmxiqf.icu
 0.0.0.0 lulxzl.xyz
 0.0.0.0 luofk.xyz
 0.0.0.0 lvdedf.xyz
@@ -56624,6 +56647,7 @@
 0.0.0.0 rydyvv.xyz
 0.0.0.0 rzfdbsn.cn
 0.0.0.0 sdjkbcjksbdsvv.com
+0.0.0.0 seslco.xyz
 0.0.0.0 shanvezhu.com
 0.0.0.0 shuocyw.cn
 0.0.0.0 sjaaquj.cn
@@ -56637,14 +56661,17 @@
 0.0.0.0 szmnf.cn
 0.0.0.0 szmnk.cn
 0.0.0.0 szmnl.cn
+0.0.0.0 szmnm.cn
 0.0.0.0 szpnz.cn
 0.0.0.0 szptp.cn
 0.0.0.0 szpwh.cn
 0.0.0.0 tahznx.xyz
+0.0.0.0 tbpwrj.xyz
 0.0.0.0 tchdxl.xyz
 0.0.0.0 tdljuuw.xyz
 0.0.0.0 tduenkq839.shop
 0.0.0.0 tgccct.icu
+0.0.0.0 tlfvj.cyou
 0.0.0.0 tmjetb.xyz
 0.0.0.0 tsrvrr.xyz
 0.0.0.0 tu2024020388.com
@@ -56663,6 +56690,7 @@
 0.0.0.0 wkywrc.cn
 0.0.0.0 wnmaoc.xyz
 0.0.0.0 wqcfg.cn
+0.0.0.0 wwjtdjj.cn
 0.0.0.0 xcypgd.icu
 0.0.0.0 xdfhidrk.xyz
 0.0.0.0 xdmnlxtu.xyz
@@ -56675,6 +56703,7 @@
 0.0.0.0 xn--wgvp78a61swpe6zdozj.cn
 0.0.0.0 xsfajf.xyz
 0.0.0.0 xszw0.icu
+0.0.0.0 xudarl.xyz
 0.0.0.0 xvbjctqs.xyz
 0.0.0.0 xvgrszkg.xyz
 0.0.0.0 xvudqzoa.xyz
@@ -56692,15 +56721,6 @@
 0.0.0.0 yyddkm526.shop
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zhaweifeng.com
-0.0.0.0 tbpwrj.xyz
-0.0.0.0 lmxiqf.icu
-0.0.0.0 wwjtdjj.cn
-0.0.0.0 tlfvj.cyou
-0.0.0.0 seslco.xyz
-0.0.0.0 szmnm.cn
-0.0.0.0 xudarl.xyz
-0.0.0.0 hjshal.com
-0.0.0.0 cijianggun.com
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
@@ -61265,7 +61285,6 @@
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
 0.0.0.0 27gh.cc
-0.0.0.0 js.entm.top
 0.0.0.0 003store.com
 0.0.0.0 0941.org
 0.0.0.0 1.07swz.com
@@ -61759,6 +61778,7 @@
 0.0.0.0 jquery.envi-met.com.cn
 0.0.0.0 js.263y.com
 0.0.0.0 js.92aliyun.com
+0.0.0.0 js.entm.top
 0.0.0.0 js.kt250.com
 0.0.0.0 js.oh100.com
 0.0.0.0 js.ruiwen.com
