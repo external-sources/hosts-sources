@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 04 Mar 2024 01:45:19 +0000
+# Last converted - Mon, 04 Mar 2024 05:39:47 +0000
 #
 
 0.0.0.0 tauphaub.net
