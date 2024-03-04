@@ -1,7 +1,7 @@
 # ShadowWhispererTypo
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Typo
-# Last converted - Mon, 04 Mar 2024 05:40:23 +0000
+# Last converted - Mon, 04 Mar 2024 10:31:41 +0000
 #
 
 0.0.0.0 0andora.com

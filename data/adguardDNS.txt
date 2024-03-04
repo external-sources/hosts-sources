@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 04 Mar 2024 05:39:47 +0000
+# Last converted - Mon, 04 Mar 2024 10:31:04 +0000
 #
 
 0.0.0.0 tauphaub.net
@@ -6596,6 +6596,7 @@
 0.0.0.0 bzamusfalofn.com
 0.0.0.0 bzsiyxkvehty.com
 0.0.0.0 bzuyxqrmndod.com
+0.0.0.0 bzwo2lmwioxa.com
 0.0.0.0 bzxcygmykxymcj.com
 0.0.0.0 bzzmlqkljkrw.top
 0.0.0.0 bzzmlqkljyer.top
@@ -8341,6 +8342,7 @@
 0.0.0.0 counsellinggrimlyengineer.com
 0.0.0.0 counsellingrouge.com
 0.0.0.0 counsellorunderwaterstriped.com
+0.0.0.0 countdownwildestmargarine.com
 0.0.0.0 counteractpull.com
 0.0.0.0 counterfeitbear.com
 0.0.0.0 countertrck.com
@@ -9094,6 +9096,7 @@
 0.0.0.0 dcsv33.com
 0.0.0.0 dcuonsugikrma.com
 0.0.0.0 dcybyvmtwgnp.com
+0.0.0.0 dd0122893e.com
 0.0.0.0 dd9l0474.de
 0.0.0.0 ddagyoyucaqay.com
 0.0.0.0 dddashasledopyt.com
@@ -10280,6 +10283,7 @@
 0.0.0.0 drwornspinster.com
 0.0.0.0 dryerslegatos.com
 0.0.0.0 dryinfestinsight.com
+0.0.0.0 dryingaefauld.com
 0.0.0.0 drylotsimbil.website
 0.0.0.0 drystervernile.life
 0.0.0.0 ds3.biz
@@ -12403,6 +12407,7 @@
 0.0.0.0 fgxfnkiojgs.com
 0.0.0.0 fh259by01r25.com
 0.0.0.0 fhahujwafaf.com
+0.0.0.0 fhajhezinl.com
 0.0.0.0 fhdwtku.com
 0.0.0.0 fhepiqajsdap.com
 0.0.0.0 fhgh9sd.com
@@ -13716,6 +13721,7 @@
 0.0.0.0 gfuaveumtb.xyz
 0.0.0.0 gfunwoakvgwo.com
 0.0.0.0 gfxkxbai.com
+0.0.0.0 gfzbdtwtlw.com
 0.0.0.0 ggeaqltgasbcysu.com
 0.0.0.0 ggedandoscarr.xyz
 0.0.0.0 ggetsurv4youu.com
@@ -23168,6 +23174,7 @@
 0.0.0.0 op01.biz
 0.0.0.0 op02.biz
 0.0.0.0 opaleyeacarol.com
+0.0.0.0 opalmetely.com
 0.0.0.0 opatacarnal.top
 0.0.0.0 opcharizardon.com
 0.0.0.0 opchikoritar.com
@@ -32300,6 +32307,7 @@
 0.0.0.0 twtdkzg.com
 0.0.0.0 twvybupqup.xyz
 0.0.0.0 twwp3.top
+0.0.0.0 twwxjqsk.com
 0.0.0.0 txcmjo.com
 0.0.0.0 txhrnluuyt.com
 0.0.0.0 txouliypi.com
@@ -32924,6 +32932,7 @@
 0.0.0.0 urgedhearted.com
 0.0.0.0 urgedsuitcase.com
 0.0.0.0 urgefranchise.com
+0.0.0.0 urgentprotections.com
 0.0.0.0 urgingcolleen.uno
 0.0.0.0 urimnugocfr.com
 0.0.0.0 urimtats.com
@@ -36073,6 +36082,7 @@
 0.0.0.0 zkxggrwzswhpgn.com
 0.0.0.0 zlacraft.com
 0.0.0.0 zlbvewof.com
+0.0.0.0 zlebdfhnampju.com
 0.0.0.0 zlink2.com
 0.0.0.0 zlink6.com
 0.0.0.0 zlinkc.com
@@ -56508,6 +56518,8 @@
 0.0.0.0 wwjtdjj.cn
 0.0.0.0 tlfvj.cyou
 0.0.0.0 seslco.xyz
+0.0.0.0 szmnm.cn
+0.0.0.0 xudarl.xyz
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
@@ -61072,6 +61084,7 @@
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
 0.0.0.0 27gh.cc
+0.0.0.0 js.entm.top
 0.0.0.0 003store.com
 0.0.0.0 0941.org
 0.0.0.0 1.07swz.com
