@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Sun, 03 Mar 2024 20:58:48 +0000
+# Last converted - Mon, 04 Mar 2024 01:45:54 +0000
 #
 
 0.0.0.0 01counter.com
@@ -57906,6 +57906,7 @@
 0.0.0.0 track.tapthislink.com
 0.0.0.0 track.tastyarea.com
 0.0.0.0 track.tcnjnvse.com
+0.0.0.0 track.tech.softonic.com
 0.0.0.0 track.theagencyone.com
 0.0.0.0 track.thebase.in
 0.0.0.0 track.thefunpost.com
