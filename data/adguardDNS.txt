@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 04 Mar 2024 20:58:13 +0000
+# Last converted - Tue, 05 Mar 2024 01:37:17 +0000
 #
 
 0.0.0.0 randomadsrv.com
@@ -9637,6 +9637,7 @@
 0.0.0.0 digitalmediapp.com
 0.0.0.0 dignifiedclipbum.com
 0.0.0.0 dignityhourmulticultural.com
+0.0.0.0 dignityunattractivefungus.com
 0.0.0.0 digqvvtb.com
 0.0.0.0 diguver.com
 0.0.0.0 digyniahuffle.com
@@ -28913,6 +28914,7 @@
 0.0.0.0 sharieta.com
 0.0.0.0 sharkbiz.lol
 0.0.0.0 sharkflowing.com
+0.0.0.0 sharonwhiledemocratic.com
 0.0.0.0 sharpofferlinks.com
 0.0.0.0 sharpphysicallyupcoming.com
 0.0.0.0 shartems.com
@@ -35361,6 +35363,7 @@
 0.0.0.0 xdmicjkveqlgllp.com
 0.0.0.0 xdohrleybrd.com
 0.0.0.0 xduvqslud.com
+0.0.0.0 xdvorqmcxpyvy.com
 0.0.0.0 xdvsijtlhr.com
 0.0.0.0 xdycqcoefditwj.com
 0.0.0.0 xebadu.com
@@ -56721,6 +56724,13 @@
 0.0.0.0 yyddkm526.shop
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zhaweifeng.com
+0.0.0.0 mondigo.cn
+0.0.0.0 eqqwgw.xyz
+0.0.0.0 pwhtip.icu
+0.0.0.0 blrupz.xyz
+0.0.0.0 ybrrvck.xyz
+0.0.0.0 rlw86.cyou
+0.0.0.0 jgblvt.xyz
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
