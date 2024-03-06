@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 06 Mar 2024 12:59:53 +0000
+# Last converted - Wed, 06 Mar 2024 16:58:18 +0000
 #
 
 0.0.0.0 00px.net
@@ -6227,6 +6227,7 @@
 0.0.0.0 anymad.com
 0.0.0.0 anymind360.com
 0.0.0.0 anytheengmedia.com
+0.0.0.0 anythinktech.com
 0.0.0.0 anytimead.com
 0.0.0.0 anzu.io
 0.0.0.0 aolplatforms.com
@@ -6289,7 +6290,6 @@
 0.0.0.0 appbid.com
 0.0.0.0 appboycdn.com
 0.0.0.0 appboy.com
-0.0.0.0 appbrain.com
 0.0.0.0 appcast.io
 0.0.0.0 appcdn01.xyz
 0.0.0.0 appclick.co
