@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 06 Mar 2024 08:58:31 +0000
+# Last converted - Wed, 06 Mar 2024 12:59:45 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -185,6 +185,7 @@
 0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 event-api.reverb.com
 0.0.0.0 event-collector.moviesanywhere.com
+0.0.0.0 event-router.olympics.com
 0.0.0.0 event.platform.tunein.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 events-prod.autolist.com
