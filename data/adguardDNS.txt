@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 05 Mar 2024 20:57:57 +0000
+# Last converted - Wed, 06 Mar 2024 01:37:51 +0000
 #
 
 0.0.0.0 virusscanner.to
@@ -8418,6 +8418,7 @@
 0.0.0.0 crninkvhariuh.com
 0.0.0.0 croakconfirmedget.com
 0.0.0.0 crockerycrowdedincidentally.com
+0.0.0.0 crockuncomfortable.com
 0.0.0.0 crocopop.com
 0.0.0.0 crooth.com
 0.0.0.0 croplake.com
@@ -18410,6 +18411,7 @@
 0.0.0.0 ladbrokesaffiliates.com.au
 0.0.0.0 ladnet.co
 0.0.0.0 ladnova.info
+0.0.0.0 ladrecaidroo.com
 0.0.0.0 ladsabs.com
 0.0.0.0 ladsans.com
 0.0.0.0 ladsats.com
@@ -19548,6 +19550,7 @@
 0.0.0.0 lycopuscris.com
 0.0.0.0 lycoty.com
 0.0.0.0 lydebbqcuam.com
+0.0.0.0 lydiacorneredreflect.com
 0.0.0.0 lyemiatteffulrf.xyz
 0.0.0.0 lyemmayrabawe.top
 0.0.0.0 lyemmayrabzew.top
@@ -34848,6 +34851,7 @@
 0.0.0.0 xdvorqmcxpyvy.com
 0.0.0.0 xdvsijtlhr.com
 0.0.0.0 xdycqcoefditwj.com
+0.0.0.0 xdypuudfxmecd.com
 0.0.0.0 xebadu.com
 0.0.0.0 xefefetgxnh.com
 0.0.0.0 xegluwate.com
@@ -35632,6 +35636,7 @@
 0.0.0.0 zelllwrite.com
 0.0.0.0 zelqytckpgzwag.com
 0.0.0.0 zelrasty.net
+0.0.0.0 zelsaips.com
 0.0.0.0 zemewitted.com
 0.0.0.0 zemteksu.xyz
 0.0.0.0 zemydreamsa.info
@@ -56215,6 +56220,10 @@
 0.0.0.0 yyddkm526.shop
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zhaweifeng.com
+0.0.0.0 xnpuw.cn
+0.0.0.0 ktvjpmi.xyz
+0.0.0.0 vszzzj.xyz
+0.0.0.0 tgwfaz.icu
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
