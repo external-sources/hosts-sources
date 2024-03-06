@@ -1,7 +1,7 @@
 # ShadowWhispererRemote
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
-# Last converted - Wed, 06 Mar 2024 16:58:20 +0000
+# Last converted - Wed, 06 Mar 2024 20:58:55 +0000
 #
 
 0.0.0.0 01com.com
