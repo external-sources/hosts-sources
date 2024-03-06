@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Wed, 06 Mar 2024 16:58:20 +0000
+# Last converted - Wed, 06 Mar 2024 20:58:56 +0000
 #
 
 0.0.0.0 007-dvd.com
@@ -1596,6 +1596,7 @@
 0.0.0.0 braethorn.com
 0.0.0.0 brainbrave.com
 0.0.0.0 braioncalit.com
+0.0.0.0 brandclearrance.com
 0.0.0.0 brands-deals.com
 0.0.0.0 brands-sales.com
 0.0.0.0 bransontimes.com
@@ -12527,6 +12528,7 @@
 0.0.0.0 worldclonecards.com
 0.0.0.0 worldcourierxpresslogistics.com
 0.0.0.0 worldglobedocuments.com
+0.0.0.0 worldgunstore.com
 0.0.0.0 worldieltshelpers.com
 0.0.0.0 worldmedspharma.com
 0.0.0.0 worldmulticreditunion.com
