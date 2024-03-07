@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 06 Mar 2024 20:58:57 +0000
+# Last converted - Thu, 07 Mar 2024 01:24:17 +0000
 #
 
 0.0.0.0 01counter.com
@@ -50,6 +50,7 @@
 0.0.0.0 1-instant.okcupid.com
 0.0.0.0 1kings847.com
 0.0.0.0 1l-hit.mail.ru
+0.0.0.0 1l-hit.my.games
 0.0.0.0 1.librestream.com
 0.0.0.0 1mm.fr
 0.0.0.0 1nr.io
@@ -2414,6 +2415,7 @@
 0.0.0.0 affiliate.petitwedding.com
 0.0.0.0 affiliates.cdkeys.com
 0.0.0.0 affiliates.hola.org
+0.0.0.0 affiliate.streamingvideoprovider.com
 0.0.0.0 affiliates-us.invoxia.com
 0.0.0.0 affiliate.taihoshop.jp
 0.0.0.0 affiliatetracking.com
@@ -13372,6 +13374,7 @@
 0.0.0.0 bi.pst.tech
 0.0.0.0 birdanalytics.ai
 0.0.0.0 bird.brondby.com
+0.0.0.0 birdeatsbug.com
 0.0.0.0 bird.money
 0.0.0.0 bird.recruitkit.com.au
 0.0.0.0 bird.webitizevoice.com
@@ -15063,6 +15066,7 @@
 0.0.0.0 cmp.dreamlab.pl
 0.0.0.0 cmp.lemonde.fr
 0.0.0.0 cmpnet.com
+0.0.0.0 cm.provhealth.org
 0.0.0.0 cmq.christinemcqueen.com.au
 0.0.0.0 cms-clickmap-prod.us-west-2.web.dealer.com
 0.0.0.0 c.msn.com
@@ -17685,6 +17689,7 @@
 0.0.0.0 d.putnam.com
 0.0.0.0 dq0trk.com
 0.0.0.0 dq95d35.com
+0.0.0.0 dqecz.titan.fitness
 0.0.0.0 dql2clk.com
 0.0.0.0 dr3fr5q4g2ul9.cloudfront.net
 0.0.0.0 dr4qe3ddw9y32.cloudfront.net
@@ -21381,6 +21386,7 @@
 0.0.0.0 hystericalfinger.com
 0.0.0.0 hystericalhelp.com
 0.0.0.0 hzstats.com
+0.0.0.0 hz-telemetry.adobe.io
 0.0.0.0 i0.cz
 0.0.0.0 i122.angelnexus.com
 0.0.0.0 i2gtrk.com
@@ -26053,6 +26059,7 @@
 0.0.0.0 landfowl.typegang.com
 0.0.0.0 landing.bonitasoft.com
 0.0.0.0 landing.copastur.com.br
+0.0.0.0 landingcube.com
 0.0.0.0 landing.daikinapplied.com
 0.0.0.0 landing.eimparis.com
 0.0.0.0 landing.essentialstaffcare.com
@@ -34752,6 +34759,7 @@
 0.0.0.0 partenariats.fft.fr
 0.0.0.0 particularaudience.com
 0.0.0.0 particuliers2.geg.fr
+0.0.0.0 partnerboost.com
 0.0.0.0 partnerize.com
 0.0.0.0 partner.kry.de
 0.0.0.0 partner.linkfire.com
@@ -40675,6 +40683,7 @@
 0.0.0.0 pixel.irblindado.com
 0.0.0.0 pixel.jachsonrocha.com.br
 0.0.0.0 pixel.jacintocosta.com.br
+0.0.0.0 pixel.javycoffee.com
 0.0.0.0 pixel.jeitodeviverfamilia.com.br
 0.0.0.0 pixel.jhonnymakis.com.br
 0.0.0.0 pixel.jornadaessencial.com.br
@@ -44006,6 +44015,7 @@
 0.0.0.0 search.graffittibooks.com
 0.0.0.0 search.homepartners.com
 0.0.0.0 searchiq.co
+0.0.0.0 searchiq.io
 0.0.0.0 searchlistening.com
 0.0.0.0 searchmetrics.com
 0.0.0.0 searchstax.com
@@ -50160,6 +50170,7 @@
 0.0.0.0 stats.deichtorhallen.de
 0.0.0.0 stats.delattre.de
 0.0.0.0 stats.delinie-ict.nl
+0.0.0.0 stats.dell.com
 0.0.0.0 stats.delobel-industry.com
 0.0.0.0 stats.dembach.eu
 0.0.0.0 stats.demirtopreziosi.it
@@ -55679,6 +55690,7 @@
 0.0.0.0 st.mashable.com
 0.0.0.0 st.mazdausa.com
 0.0.0.0 stmg-prod.mirror.co.uk
+0.0.0.0 stmg-prod.themirror.com
 0.0.0.0 stms.53.com
 0.0.0.0 st.mubi.com
 0.0.0.0 st.net-factory.de
@@ -58520,6 +58532,7 @@
 0.0.0.0 ubermedia.com
 0.0.0.0 ubimo.com
 0.0.0.0 ubiquitousyard.com
+0.0.0.0 ubistatic-a.ubisoft.com
 0.0.0.0 ubmconferencesasean.com
 0.0.0.0 ubmlive.com
 0.0.0.0 ubm-us.net
@@ -59780,6 +59793,7 @@
 0.0.0.0 we-stats.com
 0.0.0.0 westats.dev
 0.0.0.0 wetcj.site
+0.0.0.0 wetracked.io
 0.0.0.0 wetracker.azurewebsites.net
 0.0.0.0 we.turnto.com
 0.0.0.0 we.zebranding.com
@@ -59824,6 +59838,7 @@
 0.0.0.0 whatsmyip.vertigo-games.com
 0.0.0.0 whatsnextinnatural.com
 0.0.0.0 wheeleradvertisingcqstats.com
+0.0.0.0 wheelhousedmg.com
 0.0.0.0 wheelioapp.azureedge.net
 0.0.0.0 whenu.com
 0.0.0.0 wheredoyoucomefrom.ovh

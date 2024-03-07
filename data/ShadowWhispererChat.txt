@@ -1,7 +1,7 @@
 # ShadowWhispererChat
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
-# Last converted - Wed, 06 Mar 2024 20:58:53 +0000
+# Last converted - Thu, 07 Mar 2024 01:24:15 +0000
 #
 
 0.0.0.0 1talking.net
@@ -136,6 +136,7 @@
 0.0.0.0 coreliscare-com.mb.softbank.jp
 0.0.0.0 crisp.chat
 0.0.0.0 crisp.im
+0.0.0.0 crm.wondershare.com
 0.0.0.0 customerconnections.io
 0.0.0.0 customerly.io
 0.0.0.0 czater.pl

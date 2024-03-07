@@ -1,7 +1,7 @@
 # ShadowWhispererRemote
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
-# Last converted - Wed, 06 Mar 2024 20:58:55 +0000
+# Last converted - Thu, 07 Mar 2024 01:24:16 +0000
 #
 
 0.0.0.0 01com.com
@@ -120,6 +120,7 @@
 0.0.0.0 system-monitor.com
 0.0.0.0 teamviewer.cn
 0.0.0.0 teamviewer.com
+0.0.0.0 terminalserviceplus.com
 0.0.0.0 tigervnc.org
 0.0.0.0 tightvnc.com
 0.0.0.0 todesk.com
