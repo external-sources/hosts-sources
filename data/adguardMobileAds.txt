@@ -1,7 +1,7 @@
 # adguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Thu, 07 Mar 2024 08:58:09 +0000
+# Last converted - Thu, 07 Mar 2024 12:59:35 +0000
 #
 
 0.0.0.0 adx-open-service.youku.com
@@ -86,6 +86,7 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 cdn-ads.tmap.co.kr
 0.0.0.0 downloadshi.b-cdn.net
 0.0.0.0 ads.rmbl.ws
 0.0.0.0 adsassets-ipv6.waze.com
