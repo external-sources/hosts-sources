@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 07 Mar 2024 16:57:53 +0000
+# Last converted - Thu, 07 Mar 2024 20:57:46 +0000
 #
 
 0.0.0.0 cqeomumqwx.com
@@ -3992,6 +3992,7 @@
 0.0.0.0 armedtidying.com
 0.0.0.0 armetsremoved.guru
 0.0.0.0 armiesinvolve.com
+0.0.0.0 armineambeers.top
 0.0.0.0 arminius.io
 0.0.0.0 arminuntor.com
 0.0.0.0 armisticeexpress.com
@@ -4187,6 +4188,7 @@
 0.0.0.0 assisteggs.com
 0.0.0.0 assistspell.com
 0.0.0.0 assithdisseat.com
+0.0.0.0 assobredrouked.com
 0.0.0.0 associationstoopedacid.com
 0.0.0.0 associationwish.com
 0.0.0.0 assoilrehboc.top
@@ -6914,6 +6916,7 @@
 0.0.0.0 cb7f35d82c.com
 0.0.0.0 cba-fed-igh.com
 0.0.0.0 cba6182add.com
+0.0.0.0 cbd2dd06ba.com
 0.0.0.0 cbdedibles.site
 0.0.0.0 cbfdzofxzgbgor.com
 0.0.0.0 cbfpiqq.com
@@ -7819,6 +7822,7 @@
 0.0.0.0 cobweblockerdiana.com
 0.0.0.0 cobwebzincdelicacy.com
 0.0.0.0 cobworksurview.com
+0.0.0.0 cocaindeictic.com
 0.0.0.0 cocath.com
 0.0.0.0 coccalunhele.space
 0.0.0.0 coccinstuart.com
@@ -8679,6 +8683,7 @@
 0.0.0.0 curinetuxedos.com
 0.0.0.0 curledbuffet.com
 0.0.0.0 curlingtyphon.com
+0.0.0.0 curlsl.info
 0.0.0.0 curlsomewherespider.com
 0.0.0.0 curlybottom.com
 0.0.0.0 curlyhomes.com
@@ -11380,6 +11385,7 @@
 0.0.0.0 epushclick.com
 0.0.0.0 eputysolomon.com
 0.0.0.0 epxmxnhjqknsuql.com
+0.0.0.0 epynkklzkvnvs.com
 0.0.0.0 eqads.com
 0.0.0.0 eqcilkii.com
 0.0.0.0 eqdudaj.com
@@ -15245,6 +15251,7 @@
 0.0.0.0 higheurest.com
 0.0.0.0 highjournalistbargain.com
 0.0.0.0 highlypersevereenrapture.com
+0.0.0.0 highlyrecomemu.info
 0.0.0.0 highmaidfhr.com
 0.0.0.0 highnets.com
 0.0.0.0 highperformancecpm.com
@@ -17950,6 +17957,7 @@
 0.0.0.0 kcaamcduwwu.com
 0.0.0.0 kcdn.xyz
 0.0.0.0 kcigvmdkwda.com
+0.0.0.0 kckullrxagokk.com
 0.0.0.0 kcnfrqincdlf.xyz
 0.0.0.0 kcwtugkvnq.xyz
 0.0.0.0 kdfjabv.com
@@ -19653,6 +19661,7 @@
 0.0.0.0 lunio.net
 0.0.0.0 lunyfallace.com
 0.0.0.0 lunylarynx.uno
+0.0.0.0 luofinality.com
 0.0.0.0 lupininulster.com
 0.0.0.0 lupvaqvfeka.com
 0.0.0.0 lupyjpkuykoc.com
@@ -27381,6 +27390,7 @@
 0.0.0.0 rhungs.com
 0.0.0.0 rhvdsplm.com
 0.0.0.0 rhvsujcakbmdpkh.com
+0.0.0.0 rhwvpab.com
 0.0.0.0 rhxdsplm.com
 0.0.0.0 rhymerhaysel.guru
 0.0.0.0 rhymeryamebas.top
@@ -29746,6 +29756,7 @@
 0.0.0.0 spotxchange.com
 0.0.0.0 spoutable.com
 0.0.0.0 spouttheory.com
+0.0.0.0 sppolexrumj.com
 0.0.0.0 spratstatters.com
 0.0.0.0 spreebogbean.com
 0.0.0.0 sprengaivr.digital
@@ -31843,6 +31854,7 @@
 0.0.0.0 trafficportsrv.com
 0.0.0.0 trafficshop.com
 0.0.0.0 traffictraders.com
+0.0.0.0 traffmgnt.com
 0.0.0.0 traffmgnt.name
 0.0.0.0 trafogon.com
 0.0.0.0 trafyield.com
@@ -32817,6 +32829,7 @@
 0.0.0.0 upgrownloathly.space
 0.0.0.0 upgulpinon.com
 0.0.0.0 uphastod.xyz
+0.0.0.0 uphelmscowed.com
 0.0.0.0 uphewoab.net
 0.0.0.0 uphillgrandmaanger.com
 0.0.0.0 uphilo.com
@@ -34999,6 +35012,7 @@
 0.0.0.0 wvrgnlvzqmi.com
 0.0.0.0 wvsrebdogmq.com
 0.0.0.0 wvtynme.com
+0.0.0.0 wvuvpahnbmnxt.com
 0.0.0.0 wvvkxni.com
 0.0.0.0 wvwxjfjjytaf.com
 0.0.0.0 wvxcdtuhcagistb.xyz
@@ -43169,9 +43183,9 @@
 0.0.0.0 wizaly.com
 0.0.0.0 affex.org
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 apcdp.apnews.com
 0.0.0.0 3p-udc.yahoo.com
 0.0.0.0 3p-geo.yahoo.com
-0.0.0.0 blue.nbc4i.com
 0.0.0.0 t.streetsblog.org
 0.0.0.0 receive.wmcdp.io
 0.0.0.0 event-router.olympics.com
@@ -43961,8 +43975,6 @@
 0.0.0.0 behave.noen.at
 0.0.0.0 beta.simpel.nl
 0.0.0.0 bia.brightinfo.com
-0.0.0.0 blue.fox8.com
-0.0.0.0 blue.thehill.com
 0.0.0.0 bonfire.spklw.com
 0.0.0.0 boomerang.dell.com
 0.0.0.0 broker.datazoom.io
@@ -56290,6 +56302,7 @@
 0.0.0.0 zvietnakello.weebly.com
 0.0.0.0 0940088.com
 0.0.0.0 0j775d.cn
+0.0.0.0 0uyt5b.cn
 0.0.0.0 1ny3r.icu
 0.0.0.0 2jse6.icu
 0.0.0.0 3bxe2.cyou
@@ -56317,6 +56330,7 @@
 0.0.0.0 bijiangqing.com
 0.0.0.0 bjswhpy.cn
 0.0.0.0 blrupz.xyz
+0.0.0.0 blzbjpg.xyz
 0.0.0.0 bmnbyn.icu
 0.0.0.0 bmret.cn
 0.0.0.0 bugzmn.icu
@@ -56325,6 +56339,7 @@
 0.0.0.0 bwlcpr.xyz
 0.0.0.0 bzzxyyh.xyz
 0.0.0.0 caomeixz7.xyz
+0.0.0.0 cbcvou.xyz
 0.0.0.0 ccsshn137.shop
 0.0.0.0 cdfhidrk.xyz
 0.0.0.0 cdftizu.xyz
@@ -56335,6 +56350,7 @@
 0.0.0.0 cijianggun.com
 0.0.0.0 cliffnsc.xyz
 0.0.0.0 clywws.xyz
+0.0.0.0 cnifdlaf.top
 0.0.0.0 cnvmhzt.cn
 0.0.0.0 costarg.com
 0.0.0.0 cqisam.xyz
@@ -56373,6 +56389,7 @@
 0.0.0.0 gicjtss.cn
 0.0.0.0 gsuxyg.xyz
 0.0.0.0 gvbta.icu
+0.0.0.0 ha723.icu
 0.0.0.0 halct.cn
 0.0.0.0 hbjolp.xyz
 0.0.0.0 hciwyv.icu
@@ -56385,10 +56402,12 @@
 0.0.0.0 hjshal.com
 0.0.0.0 hmrwkcx.cn
 0.0.0.0 hozatr.xyz
+0.0.0.0 hrnkdr.xyz
 0.0.0.0 hyusnisu.top
 0.0.0.0 ijvla.cn
 0.0.0.0 imevzbn.cn
 0.0.0.0 ivbgpax.cn
+0.0.0.0 jflwhf.xyz
 0.0.0.0 jgblvt.xyz
 0.0.0.0 jgmywh.icu
 0.0.0.0 jioed.cyou
@@ -56450,6 +56469,7 @@
 0.0.0.0 rktddv.xyz
 0.0.0.0 rlw86.cyou
 0.0.0.0 rnkzhsi.cn
+0.0.0.0 rouqiuqq.cn
 0.0.0.0 ruqwgb.icu
 0.0.0.0 rydyvv.xyz
 0.0.0.0 rzfdbsn.cn
@@ -56498,6 +56518,7 @@
 0.0.0.0 vhvwlb.xyz
 0.0.0.0 vszzzj.xyz
 0.0.0.0 vxfdepn.cn
+0.0.0.0 wbubgob.cn
 0.0.0.0 wbvfj.xyz
 0.0.0.0 wisealty.com
 0.0.0.0 wkywrc.cn
@@ -56511,6 +56532,7 @@
 0.0.0.0 xdybwjpa.xyz
 0.0.0.0 xhfxtqt.xyz
 0.0.0.0 xklofoz.cn
+0.0.0.0 xklrsj.icu
 0.0.0.0 xkrnud.icu
 0.0.0.0 xliffnsc.xyz
 0.0.0.0 xn--wgvp78a61swpe6zdozj.cn
@@ -56536,15 +56558,6 @@
 0.0.0.0 yyddkm526.shop
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zhaweifeng.com
-0.0.0.0 jflwhf.xyz
-0.0.0.0 xklrsj.icu
-0.0.0.0 0uyt5b.cn
-0.0.0.0 blzbjpg.xyz
-0.0.0.0 hrnkdr.xyz
-0.0.0.0 cbcvou.xyz
-0.0.0.0 ha723.icu
-0.0.0.0 wbubgob.cn
-0.0.0.0 rouqiuqq.cn
 0.0.0.0 zhihucloud.xyz
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
