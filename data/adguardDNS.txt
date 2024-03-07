@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 07 Mar 2024 04:58:10 +0000
+# Last converted - Thu, 07 Mar 2024 08:58:08 +0000
 #
 
 0.0.0.0 d3c.life
@@ -56536,6 +56536,7 @@
 0.0.0.0 blzbjpg.xyz
 0.0.0.0 hrnkdr.xyz
 0.0.0.0 cbcvou.xyz
+0.0.0.0 ha723.icu
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
