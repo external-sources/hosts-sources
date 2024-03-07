@@ -1,9 +1,28 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 06 Mar 2024 20:58:08 +0000
+# Last converted - Thu, 07 Mar 2024 01:23:42 +0000
 #
 
+0.0.0.0 d3c.life
+0.0.0.0 toqaxrsbv.com
+0.0.0.0 achejoos.com
+0.0.0.0 whatnotbenjoin.top
+0.0.0.0 papizedromon.life
+0.0.0.0 vigsole.com
+0.0.0.0 snlpclc.com
+0.0.0.0 theremployeesi.info
+0.0.0.0 xtijeyyeqwjegz.com
+0.0.0.0 ttrcegmkccshey.com
+0.0.0.0 kxjanwkatrixltf.xyz
+0.0.0.0 naiglipu.xyz
+0.0.0.0 vrvthmwyvbedy.com
+0.0.0.0 xfvkxbouozw.com
+0.0.0.0 idwystdnvb.com
+0.0.0.0 honeycombabstinence.com
+0.0.0.0 skhqmobc.com
+0.0.0.0 nqgkuanetr.com
+0.0.0.0 altarrousebrows.com
 0.0.0.0 bj2550.com
 0.0.0.0 nastokit.com
 0.0.0.0 jfssblglhreubu.com
@@ -12947,6 +12966,7 @@
 0.0.0.0 fqpxjydyj.com
 0.0.0.0 fqskuzqwpgu.com
 0.0.0.0 fqtfwulmcdw.com
+0.0.0.0 fqxjrbepn.com
 0.0.0.0 fqybolmt.com
 0.0.0.0 fqygyfvmz.com
 0.0.0.0 fqyxbvuefdlt.com
@@ -35763,6 +35783,7 @@
 0.0.0.0 yvzgazds6d.com
 0.0.0.0 ywgpkjg.com
 0.0.0.0 ywhowascryin.com
+0.0.0.0 ywopyohpihnkppc.xyz
 0.0.0.0 ywronwasthetron.com
 0.0.0.0 ywrvpmapjcg.xyz
 0.0.0.0 ywsxqrcfrtsnfa.com
@@ -56509,6 +56530,12 @@
 0.0.0.0 yyddkm526.shop
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zhaweifeng.com
+0.0.0.0 jflwhf.xyz
+0.0.0.0 xklrsj.icu
+0.0.0.0 0uyt5b.cn
+0.0.0.0 blzbjpg.xyz
+0.0.0.0 hrnkdr.xyz
+0.0.0.0 cbcvou.xyz
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn

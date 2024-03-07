@@ -1,15 +1,18 @@
 # ShadowWhispererApple
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple
-# Last converted - Wed, 06 Mar 2024 20:58:53 +0000
+# Last converted - Thu, 07 Mar 2024 01:24:15 +0000
 #
 
+0.0.0.0 amp-account.apps.apple.com
+0.0.0.0 amp-api.apps.apple.com
 0.0.0.0 api-edge.apps.apple.com
 0.0.0.0 apple.com.edgekey.net.globalredir.akadns.net
 0.0.0.0 apple-dns.net
 0.0.0.0 app-site-association.cdn-apple.com
 0.0.0.0 autolinkmaker.itunes.apple.com
 0.0.0.0 basejumper.apple.com
+0.0.0.0 buy.apps.apple.com
 0.0.0.0 carrierbundle.itunes.apple.com
 0.0.0.0 cdn.apple-cloudkit.com
 0.0.0.0 cdn.apple-livephotoskit.com
@@ -33,6 +36,7 @@
 0.0.0.0 fdereg.apple.com
 0.0.0.0 fe.apple-dns.net
 0.0.0.0 fides-pol.apple.com
+0.0.0.0 fpinit.itunes.apple.com
 0.0.0.0 friend.gc.apple.com
 0.0.0.0 gateway-carry.icloud.com
 0.0.0.0 gil.apple.com.akadns.net
@@ -62,6 +66,7 @@
 0.0.0.0 iphone-wu.apple.com
 0.0.0.0 iprofiles.apple.com
 0.0.0.0 itunes.apple.com.edgekey.net
+0.0.0.0 kt-prod.ess.apple.com
 0.0.0.0 limit.itunesu.com
 0.0.0.0 link.gc.apple.com
 0.0.0.0 lookup-api.apple.com
@@ -91,6 +96,7 @@
 0.0.0.0 play.itunes.apple.com
 0.0.0.0 play.itunes.apple.com.edgesuite.net
 0.0.0.0 porco.apple.com
+0.0.0.0 prd-usw2-requestattribution-iad.apple.com
 0.0.0.0 proddav.apple.com
 0.0.0.0 profile.ess.apple.com
 0.0.0.0 pubsbuild.apple.com
@@ -98,6 +104,7 @@
 0.0.0.0 rabat.apple.com
 0.0.0.0 radio.itunes.apple.com
 0.0.0.0 redcarpet.apple.com
+0.0.0.0 safety-alert.apple.com
 0.0.0.0 sandbox.gc.apple.com
 0.0.0.0 sandbox.itunes.apple.com
 0.0.0.0 scento.apple.com
