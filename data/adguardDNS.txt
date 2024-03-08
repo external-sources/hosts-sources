@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 08 Mar 2024 01:37:25 +0000
+# Last converted - Fri, 08 Mar 2024 04:57:44 +0000
 #
 
 0.0.0.0 cqeomumqwx.com

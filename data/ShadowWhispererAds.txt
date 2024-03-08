@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Fri, 08 Mar 2024 01:38:06 +0000
+# Last converted - Fri, 08 Mar 2024 04:58:16 +0000
 #
 
 0.0.0.0 00px.net
@@ -402,6 +402,7 @@
 0.0.0.0 a6lxbeui.ru
 0.0.0.0 a7i02p23sj.xyz
 0.0.0.0 a8723.com
+0.0.0.0 a.89f5318ce93d828ab801f693bf6d1bf4ba587299f920697b486e751c.com
 0.0.0.0 a.8d4b8e3228cf9c859d4a4721929775dee41828804dddc0b1519562b9.com
 0.0.0.0 a8.net
 0.0.0.0 a9.com
