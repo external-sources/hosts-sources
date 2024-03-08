@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Thu, 07 Mar 2024 20:58:19 +0000
+# Last converted - Fri, 08 Mar 2024 01:38:06 +0000
 #
 
 0.0.0.0 00px.net
@@ -688,6 +688,7 @@
 0.0.0.0 ad999.biz
 0.0.0.0 ad.a93a.com
 0.0.0.0 ada-asia.com
+0.0.0.0 ad.abema.io
 0.0.0.0 ad.abogadosbaluarte.com
 0.0.0.0 adabouts.com
 0.0.0.0 adacado.com
@@ -1100,6 +1101,7 @@
 0.0.0.0 addesignz.com
 0.0.0.0 addesignz.co.za
 0.0.0.0 ad-dev.globalnoticias.pt
+0.0.0.0 ad.dev.smartnews.net
 0.0.0.0 ad.df.kg
 0.0.0.0 ad.diaosiquan.com
 0.0.0.0 addictiveads.com
@@ -4183,6 +4185,7 @@
 0.0.0.0 ads.marsbahisaffiliates.com
 0.0.0.0 adsmart.104.com.tw
 0.0.0.0 adsmart.com
+0.0.0.0 ad.smartnews.net
 0.0.0.0 ad.smarttag.fr
 0.0.0.0 ads.masliri.com
 0.0.0.0 ads.masonstudentmedia.com

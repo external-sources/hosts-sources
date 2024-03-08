@@ -1,7 +1,7 @@
 # ShadowWhispererMicrosoft
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
-# Last converted - Thu, 07 Mar 2024 20:58:20 +0000
+# Last converted - Fri, 08 Mar 2024 01:38:07 +0000
 #
 
 0.0.0.0 a-0003.a-msedge.net
@@ -276,7 +276,6 @@
 0.0.0.0 trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 troubleshooting.microsoft.com
 0.0.0.0 trustwave.blob.core.windows.net
-0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 uasprod.blob.core.windows.net
 0.0.0.0 ugcorigin.s-microsoft.com
 0.0.0.0 uksouth.api.cognitive.microsoft.com
