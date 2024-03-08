@@ -1,7 +1,7 @@
 # easyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 08 Mar 2024 08:58:46 +0000
+# Last converted - Fri, 08 Mar 2024 12:59:15 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -463,6 +463,7 @@
 0.0.0.0 f-log-test.grammarly.io
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fcmatch.youtube.com
+0.0.0.0 feliz.data.tm-awx.com
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 fingerprinter-production.herokuapp.com
 0.0.0.0 firebaselogging-pa.googleapis.com

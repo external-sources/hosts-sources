@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 08 Mar 2024 08:58:03 +0000
+# Last converted - Fri, 08 Mar 2024 12:58:50 +0000
 #
 
 0.0.0.0 cqeomumqwx.com
@@ -39818,6 +39818,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 feliz.data.tm-awx.com
 0.0.0.0 adoric-om.com
 0.0.0.0 lz-pub-ads.com
 0.0.0.0 w4h5ae.ru
@@ -56584,6 +56585,7 @@
 0.0.0.0 lardmoni.com
 0.0.0.0 skfda5.com
 0.0.0.0 xxle.cn
+0.0.0.0 cherylssb.com
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
