@@ -1,7 +1,7 @@
 # blocklistProjectPiracy
 #
 # Converted from - https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/piracy-nl.txt
-# Last converted - Fri, 08 Mar 2024 04:58:01 +0000
+# Last converted - Fri, 08 Mar 2024 08:58:35 +0000
 #
 
 0.0.0.0 0daycn.net

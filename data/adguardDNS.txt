@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 08 Mar 2024 04:57:44 +0000
+# Last converted - Fri, 08 Mar 2024 08:58:03 +0000
 #
 
 0.0.0.0 cqeomumqwx.com
@@ -56582,6 +56582,8 @@
 0.0.0.0 inworket.com
 0.0.0.0 tcheeter.com
 0.0.0.0 lardmoni.com
+0.0.0.0 skfda5.com
+0.0.0.0 xxle.cn
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
