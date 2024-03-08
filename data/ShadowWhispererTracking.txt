@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Fri, 08 Mar 2024 12:59:24 +0000
+# Last converted - Fri, 08 Mar 2024 16:59:48 +0000
 #
 
 0.0.0.0 01counter.com
@@ -17759,6 +17759,7 @@
 0.0.0.0 d-tag.com
 0.0.0.0 dtc-330d.com
 0.0.0.0 dt-cdn.net
+0.0.0.0 dtc.mblock.cc
 0.0.0.0 dtc-v6t.com
 0.0.0.0 dte.is
 0.0.0.0 dtequipment.com
@@ -38598,6 +38599,7 @@
 0.0.0.0 piwik.noszczak.com
 0.0.0.0 piwik.nothing2hide.org
 0.0.0.0 piwik.notizandich.de
+0.0.0.0 piwik.notmyidea.org
 0.0.0.0 piwik.novabuilding.de
 0.0.0.0 piwik.novacor.ch
 0.0.0.0 piwik.novalab.ch

@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Fri, 08 Mar 2024 12:59:23 +0000
+# Last converted - Fri, 08 Mar 2024 16:59:41 +0000
 #
 
 0.0.0.0 007-dvd.com
@@ -1663,6 +1663,7 @@
 0.0.0.0 brongersburmesekittens.com
 0.0.0.0 brooksidepomskies.com
 0.0.0.0 brooks-running.shop
+0.0.0.0 brooksshoes.net
 0.0.0.0 brotherdriver.com
 0.0.0.0 brotheronlinehelp.com
 0.0.0.0 brotherprinterdriver.live
@@ -6522,7 +6523,6 @@
 0.0.0.0 latticevlog.com
 0.0.0.0 latwa-randki.com
 0.0.0.0 launchcharm.online
-0.0.0.0 launchgiftcards.com
 0.0.0.0 laurasamoyeds.com
 0.0.0.0 lauriesmaltipoodogs.com
 0.0.0.0 lawrencereporter.com
@@ -7453,6 +7453,7 @@
 0.0.0.0 momodistribution.com
 0.0.0.0 momonaglobal.com
 0.0.0.0 momoxxio.com
+0.0.0.0 momsgetnaughty.com
 0.0.0.0 monchparts.com
 0.0.0.0 monetarysupplycompany.com
 0.0.0.0 moneyinsurveys.com
