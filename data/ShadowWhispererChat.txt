@@ -1,7 +1,7 @@
 # ShadowWhispererChat
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
-# Last converted - Fri, 08 Mar 2024 12:59:22 +0000
+# Last converted - Fri, 08 Mar 2024 16:59:39 +0000
 #
 
 0.0.0.0 1talking.net
@@ -46,6 +46,7 @@
 0.0.0.0 botmind.io
 0.0.0.0 bots.kore.ai
 0.0.0.0 botsnext.com
+0.0.0.0 botsonic.ai
 0.0.0.0 botsupply.ai
 0.0.0.0 carrotquest.io
 0.0.0.0 cbox.co.za
@@ -391,6 +392,7 @@
 0.0.0.0 webmecanik.inbenta.com
 0.0.0.0 whoson.com
 0.0.0.0 wotnot.io
+0.0.0.0 writesonic.com
 0.0.0.0 yellow.ai
 0.0.0.0 yellowmessenger.com
 0.0.0.0 zammo.ai

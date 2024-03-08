@@ -1,7 +1,7 @@
 # PhishingDatabase
 #
 # Converted from - https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
-# Last converted - Fri, 08 Mar 2024 12:59:21 +0000
+# Last converted - Fri, 08 Mar 2024 16:59:38 +0000
 #
 
 0.0.0.0 0-i-fdik.000webhostapp.com
