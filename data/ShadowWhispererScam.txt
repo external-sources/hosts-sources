@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Thu, 07 Mar 2024 20:58:21 +0000
+# Last converted - Fri, 08 Mar 2024 01:38:08 +0000
 #
 
 0.0.0.0 007-dvd.com
@@ -9471,6 +9471,7 @@
 0.0.0.0 rapunzeel.com
 0.0.0.0 raredvds.biz
 0.0.0.0 rarepitbullplace.com
+0.0.0.0 raschika.info
 0.0.0.0 raskai.com
 0.0.0.0 ratherrhan.com
 0.0.0.0 ratingadultdating.com

@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 07 Mar 2024 20:57:46 +0000
+# Last converted - Fri, 08 Mar 2024 01:37:25 +0000
 #
 
 0.0.0.0 cqeomumqwx.com
@@ -3478,6 +3478,7 @@
 0.0.0.0 amhippopotastor.com
 0.0.0.0 amhpbhyxfgvd.com
 0.0.0.0 amiddespair.com
+0.0.0.0 amidoxypochard.com
 0.0.0.0 amimialonging.com
 0.0.0.0 aminopay.net
 0.0.0.0 amira-efz.com
@@ -9926,6 +9927,7 @@
 0.0.0.0 doctorhousing.com
 0.0.0.0 doctorpost.net
 0.0.0.0 documentaryextraction.com
+0.0.0.0 documentaryselfless.com
 0.0.0.0 dodayobeitand.xyz
 0.0.0.0 doddiesteaey.guru
 0.0.0.0 doddygoofed.com
@@ -15373,6 +15375,7 @@
 0.0.0.0 hkkpfcnqoajtsu.com
 0.0.0.0 hkmvirkwqnscx.xyz
 0.0.0.0 hkngacxry.com
+0.0.0.0 hkowhqtenjfud.com
 0.0.0.0 hksmstpzsnlj.com
 0.0.0.0 hkuuopuhl.xyz
 0.0.0.0 hkuypnhpafbuyy.com
@@ -24593,6 +24596,7 @@
 0.0.0.0 pigsflintconfidentiality.com
 0.0.0.0 pigstrustmarijuana.com
 0.0.0.0 pigtre.com
+0.0.0.0 pihmvhv.com
 0.0.0.0 pihu.xxxpornhd.pro
 0.0.0.0 pikecentreconfederate.com
 0.0.0.0 pikedhelloed.com
@@ -24866,6 +24870,7 @@
 0.0.0.0 pmeuehivfps.com
 0.0.0.0 pmieprlpq.com
 0.0.0.0 pmimdcjx.com
+0.0.0.0 pmmojatx.com
 0.0.0.0 pmpubs.com
 0.0.0.0 pmsrvr.com
 0.0.0.0 pmtkhcr.com
@@ -25678,6 +25683,7 @@
 0.0.0.0 psootchu.net
 0.0.0.0 psoothie.xyz
 0.0.0.0 psothoms.com
+0.0.0.0 psougnoa.net
 0.0.0.0 psougoar.com
 0.0.0.0 psougrie.com
 0.0.0.0 psoumoalt.com
@@ -30472,6 +30478,7 @@
 0.0.0.0 sviter2s1olenyami1.com
 0.0.0.0 svkmxwssih.com
 0.0.0.0 svntrk.com
+0.0.0.0 svnutntmq.com
 0.0.0.0 svrilvrrvwyh.xyz
 0.0.0.0 svtlgjmqyzmwz.com
 0.0.0.0 svvrkmqyvb.xyz
@@ -31578,6 +31585,7 @@
 0.0.0.0 toluenehoedown.com
 0.0.0.0 tolyafbnjt9dedjj10.com
 0.0.0.0 tomatohackblobs.com
+0.0.0.0 tomatoqqamber.click
 0.0.0.0 tomawilea.com
 0.0.0.0 tombclients.com
 0.0.0.0 tomekas.com
@@ -31598,6 +31606,7 @@
 0.0.0.0 tonesnorrisbytes.com
 0.0.0.0 tonganserried.life
 0.0.0.0 tongsgodforsaken.com
+0.0.0.0 tonguedvulturn.com
 0.0.0.0 tonicdivedfounded.com
 0.0.0.0 tonicneighbouring.com
 0.0.0.0 toninjaska.com
@@ -34306,6 +34315,7 @@
 0.0.0.0 wffbdim.com
 0.0.0.0 wfnetwork.com
 0.0.0.0 wfnpay.com
+0.0.0.0 wfodwkk.com
 0.0.0.0 wfredir.net
 0.0.0.0 wfthumty.pm
 0.0.0.0 wfutphkrendhr.com
@@ -35171,6 +35181,7 @@
 0.0.0.0 xfileload.com
 0.0.0.0 xfimwjibh.top
 0.0.0.0 xftrtljc.xyz
+0.0.0.0 xfujihakbk.com
 0.0.0.0 xfvvygrv.com
 0.0.0.0 xfwblpomxc.com
 0.0.0.0 xfxssqakis.com
@@ -37537,6 +37548,7 @@
 0.0.0.0 utiq.wa.de
 0.0.0.0 1008858461.rsc.cdn77.org
 0.0.0.0 1017167188.rsc.cdn77.org
+0.0.0.0 1034656016.rsc.cdn77.org
 0.0.0.0 1037764212.rsc.cdn77.org
 0.0.0.0 1079823516.rsc.cdn77.org
 0.0.0.0 1080872514.rsc.cdn77.org
@@ -37573,6 +37585,7 @@
 0.0.0.0 1741975790.rsc.cdn77.org
 0.0.0.0 1786886222.rsc.cdn77.org
 0.0.0.0 1822370020.rsc.cdn77.org
+0.0.0.0 1838211237.rsc.cdn77.org
 0.0.0.0 1841035884.rsc.cdn77.org
 0.0.0.0 1851120889.rsc.cdn77.org
 0.0.0.0 1851933582.rsc.cdn77.org
@@ -56559,6 +56572,16 @@
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zhaweifeng.com
 0.0.0.0 zhihucloud.xyz
+0.0.0.0 brixel.cn
+0.0.0.0 tdlyfz.xyz
+0.0.0.0 rpnufv.xyz
+0.0.0.0 buvdkt.icu
+0.0.0.0 onagsc.xyz
+0.0.0.0 nvdtdsd.xyz
+0.0.0.0 hnifdlau.top
+0.0.0.0 inworket.com
+0.0.0.0 tcheeter.com
+0.0.0.0 lardmoni.com
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn

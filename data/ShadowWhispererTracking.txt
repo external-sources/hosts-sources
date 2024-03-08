@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Thu, 07 Mar 2024 20:58:21 +0000
+# Last converted - Fri, 08 Mar 2024 01:38:08 +0000
 #
 
 0.0.0.0 01counter.com
@@ -3580,6 +3580,7 @@
 0.0.0.0 analyticsapi.happypancake.net
 0.0.0.0 analytics-api.home-assistant.io
 0.0.0.0 analytics-api.junilearning.com
+0.0.0.0 analytics.api.justeattakeaway.com
 0.0.0.0 analytics-api.klickly.com
 0.0.0.0 analytics-api.lahaus.com
 0.0.0.0 analytics-api.liveapp.com
@@ -6928,6 +6929,7 @@
 0.0.0.0 analytics.initworks.com
 0.0.0.0 analytics.inkscope.org
 0.0.0.0 analytics.inmoolah.com
+0.0.0.0 analytics.innogames.de
 0.0.0.0 analytics.innologica.com
 0.0.0.0 analytics.innova.co.ke
 0.0.0.0 analytics.innovativity.io
@@ -18796,6 +18798,7 @@
 0.0.0.0 events.jeld-wen.ca
 0.0.0.0 events.jobsohio.com
 0.0.0.0 events.jotform.com
+0.0.0.0 events.just-eat.fr
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 events-logs.doctolib.com
 0.0.0.0 events.mapbox.com
@@ -40780,6 +40783,7 @@
 0.0.0.0 pixel.simplificanva.com
 0.0.0.0 pixel.sitevibes.com
 0.0.0.0 pixelsmarter.com
+0.0.0.0 pixel.smartnews.com
 0.0.0.0 pixel.snapsmedia.io
 0.0.0.0 pixel.sommoslab.com
 0.0.0.0 pixel.sosconcursosdetox.com.br
@@ -42525,6 +42529,7 @@
 0.0.0.0 reporting-api.gannettinnovation.com
 0.0.0.0 reporting-api.gubagoo.io
 0.0.0.0 reporting-api.newworldinteractive.com
+0.0.0.0 reporting-app.teamscx.com
 0.0.0.0 reporting.cdndex.io
 0.0.0.0 reporting.cisco.com
 0.0.0.0 reporting.cloudcare.avg.com
@@ -56781,6 +56786,7 @@
 0.0.0.0 testosteroneprime.com
 0.0.0.0 test.pardot.securian.com
 0.0.0.0 test-pd.epson.jp
+0.0.0.0 testrobotflower.com
 0.0.0.0 test.sharing-innovations.co.jp
 0.0.0.0 test.shigoto-web.com
 0.0.0.0 test.suntechmed.com
@@ -59779,6 +59785,8 @@
 0.0.0.0 wellmarkapmbeacon.wellmark.com
 0.0.0.0 wellness.spreadshirt.com
 0.0.0.0 wellpass.com
+0.0.0.0 wellsky.com
+0.0.0.0 wellsky.io
 0.0.0.0 welltok.com
 0.0.0.0 well.wellapp.com
 0.0.0.0 wemarketing.webempresa.eu

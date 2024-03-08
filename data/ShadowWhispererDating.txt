@@ -1,7 +1,7 @@
 # ShadowWhispererDating
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dating
-# Last converted - Thu, 07 Mar 2024 20:58:20 +0000
+# Last converted - Fri, 08 Mar 2024 01:38:06 +0000
 #
 
 0.0.0.0 1000-dating-sites.com
@@ -873,6 +873,7 @@
 0.0.0.0 reseaucontact.com
 0.0.0.0 retrouve-moi.fr
 0.0.0.0 reveuse.fr
+0.0.0.0 roastdating.com
 0.0.0.0 rockabillydate.com
 0.0.0.0 rollosfaciles.com
 0.0.0.0 rsvp.com.au

@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Thu, 07 Mar 2024 20:58:22 +0000
+# Last converted - Fri, 08 Mar 2024 01:38:10 +0000
 #
 
 0.0.0.0 010.at
@@ -1771,6 +1771,7 @@
 0.0.0.0 tfushort.com
 0.0.0.0 tg.pe
 0.0.0.0 tharp.me
+0.0.0.0 thebindaas.com
 0.0.0.0 thecanvaprints.com
 0.0.0.0 thefood2.com
 0.0.0.0 thefunkymonkey.lu
