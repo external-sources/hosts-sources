@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 09 Mar 2024 16:57:57 +0000
+# Last converted - Sat, 09 Mar 2024 20:58:16 +0000
 #
 
 0.0.0.0 cqeomumqwx.com
@@ -3104,6 +3104,7 @@
 0.0.0.0 aipofeem.net
 0.0.0.0 aiqdviuyvlcplis.xyz
 0.0.0.0 aiqidwcfrm.com
+0.0.0.0 aiquqqaadd.xyz
 0.0.0.0 airairgu.com
 0.0.0.0 airartapt.site
 0.0.0.0 airaujoog.com
@@ -4250,6 +4251,7 @@
 0.0.0.0 asuipiirq.com
 0.0.0.0 asukedrev.com
 0.0.0.0 asverymuc.org
+0.0.0.0 asxeilpougog.com
 0.0.0.0 asxjhqaey.com
 0.0.0.0 asyetaprovinc.org
 0.0.0.0 asyledieses.com
@@ -6548,6 +6550,7 @@
 0.0.0.0 bxikceucv.com
 0.0.0.0 bxmpcfzlllej.com
 0.0.0.0 bxpjpkldxrsss.xyz
+0.0.0.0 bxrfbsrlerio.com
 0.0.0.0 bxrqdnkb.com
 0.0.0.0 bxvirhgaq.com
 0.0.0.0 bxvlyrw.com
@@ -6926,6 +6929,7 @@
 0.0.0.0 causingguard.com
 0.0.0.0 causoque.xyz
 0.0.0.0 caussr.com
+0.0.0.0 caustopa.net
 0.0.0.0 cauthaushoas.com
 0.0.0.0 cautiotumfie.com
 0.0.0.0 cautiousroof.pro
@@ -8777,6 +8781,7 @@
 0.0.0.0 cuttledpph.life
 0.0.0.0 cuunpsyhsb.com
 0.0.0.0 cuyynol.com
+0.0.0.0 cuzsgqr.com
 0.0.0.0 cvastico.com
 0.0.0.0 cvixthukvgac.com
 0.0.0.0 cvjfmrrgyrqnsnw.xyz
@@ -9974,6 +9979,7 @@
 0.0.0.0 dnoicciekfm.xyz
 0.0.0.0 dnswinq.com
 0.0.0.0 dntaiiifdbwno.com
+0.0.0.0 dnvgecz.com
 0.0.0.0 doaboowa.com
 0.0.0.0 doaipomer.com
 0.0.0.0 doaltariaer.com
@@ -11564,6 +11570,7 @@
 0.0.0.0 eshoohasteeg.com
 0.0.0.0 eshouloo.net
 0.0.0.0 esisfulylydev.com
+0.0.0.0 esjvrfq.com
 0.0.0.0 eskimi.com
 0.0.0.0 esmyinteuk.info
 0.0.0.0 esmystem.com
@@ -12152,6 +12159,7 @@
 0.0.0.0 fardelbungo.com
 0.0.0.0 fardemanjack.com
 0.0.0.0 fardingsoiling.com
+0.0.0.0 farflungwelcome.pro
 0.0.0.0 fargoodgarotes.digital
 0.0.0.0 fargwyn.com
 0.0.0.0 farinassurbase.uno
@@ -14814,6 +14822,7 @@
 0.0.0.0 h98s.com
 0.0.0.0 habdjbbkq.com
 0.0.0.0 habeglee.net
+0.0.0.0 habhudvimli.com
 0.0.0.0 habitofstic.xyz
 0.0.0.0 habitofsticklik.com
 0.0.0.0 habitualivoryashes.com
@@ -16071,6 +16080,7 @@
 0.0.0.0 icebergreptilefury.com
 0.0.0.0 icedewear.site
 0.0.0.0 icelessbogles.com
+0.0.0.0 icfjair.com
 0.0.0.0 ichairaivi.com
 0.0.0.0 ichauphy.com
 0.0.0.0 ichimaip.net
@@ -17173,6 +17183,7 @@
 0.0.0.0 iyfbodn.com
 0.0.0.0 iyfnz.com
 0.0.0.0 iyfnzgb.com
+0.0.0.0 iymbywma.com
 0.0.0.0 iyqaosd.com
 0.0.0.0 iyvxqckadbplaa.com
 0.0.0.0 izanzjtuvpp.com
@@ -17421,6 +17432,7 @@
 0.0.0.0 jesulf.com
 0.0.0.0 jesupe.com
 0.0.0.0 jetordinarilysouvenirs.com
+0.0.0.0 jetpgnebpwm.com
 0.0.0.0 jetsdulce.com
 0.0.0.0 jetsowilk.com
 0.0.0.0 jettrujole.com
@@ -17450,6 +17462,7 @@
 0.0.0.0 jfknowifcewd.com
 0.0.0.0 jfmbkffcxg.com
 0.0.0.0 jfmpafthtwuo.com
+0.0.0.0 jfnjgiq.com
 0.0.0.0 jfoaxwbatlic.com
 0.0.0.0 jfoowqditdf.com
 0.0.0.0 jfsocqmvvqt.com
@@ -17886,6 +17899,7 @@
 0.0.0.0 jungianoxamide.space
 0.0.0.0 junglehikingfence.com
 0.0.0.0 juniorapplesconsonant.com
+0.0.0.0 juniorluteum.top
 0.0.0.0 juniorsalloquy.guru
 0.0.0.0 junipe3rus4virginiana.com
 0.0.0.0 junivmr.com
@@ -17994,6 +18008,7 @@
 0.0.0.0 jzleekzkrwjll.top
 0.0.0.0 jzokkejmqrbmq.top
 0.0.0.0 jzokkejmqrbyj.top
+0.0.0.0 jzokkejmqrkyw.top
 0.0.0.0 jzpdjbpusgcbr.com
 0.0.0.0 jzqbyykbrrzvq.top
 0.0.0.0 jzqgyccwefd.com
@@ -25059,6 +25074,7 @@
 0.0.0.0 pmpubs.com
 0.0.0.0 pmsrvr.com
 0.0.0.0 pmtkhcr.com
+0.0.0.0 pmxyzqm.com
 0.0.0.0 pmzbrfpijoa.com
 0.0.0.0 pmzer.com
 0.0.0.0 pncloudfl.com
@@ -25857,6 +25873,7 @@
 0.0.0.0 psithich.com
 0.0.0.0 psixoahi.xyz
 0.0.0.0 psma02.com
+0.0.0.0 psoackaw.net
 0.0.0.0 psoaftob.xyz
 0.0.0.0 psoageeb.com
 0.0.0.0 psoageph.com
@@ -26090,6 +26107,7 @@
 0.0.0.0 punosy.best
 0.0.0.0 punosy.com
 0.0.0.0 punpzyvwao.com
+0.0.0.0 punystudio.pro
 0.0.0.0 punyvamos.com
 0.0.0.0 puoxpytcblqrti.xyz
 0.0.0.0 pupilexpressionscent.com
@@ -28913,6 +28931,7 @@
 0.0.0.0 sftapi.com
 0.0.0.0 sfultraight.xyz
 0.0.0.0 sfuoasztfxr.com
+0.0.0.0 sfxjgafgs.com
 0.0.0.0 sgeujrpxuqyzqd.com
 0.0.0.0 sgfdfikdguqdkv.com
 0.0.0.0 sgfsdvc.com
@@ -30318,6 +30337,7 @@
 0.0.0.0 stogerde.com
 0.0.0.0 stokoaks.net
 0.0.0.0 stolenforensicssausage.com
+0.0.0.0 stoltassi.net
 0.0.0.0 stoltoog.net
 0.0.0.0 stonkphymata.com
 0.0.0.0 stoobsut.com
@@ -31368,6 +31388,7 @@
 0.0.0.0 theloungenet.com
 0.0.0.0 thembriskjumbo.com
 0.0.0.0 themeillogical.com
+0.0.0.0 themingmidland.top
 0.0.0.0 themselphenyls.com
 0.0.0.0 themselvesafloatmirth.com
 0.0.0.0 themselvesbike.com
@@ -33174,6 +33195,7 @@
 0.0.0.0 urgedhearted.com
 0.0.0.0 urgedsuitcase.com
 0.0.0.0 urgefranchise.com
+0.0.0.0 urgentlyfeerobots.com
 0.0.0.0 urgentprotections.com
 0.0.0.0 urgingcolleen.uno
 0.0.0.0 urimnugocfr.com
@@ -36058,6 +36080,7 @@
 0.0.0.0 yuhqeim.com
 0.0.0.0 yuhuads.com
 0.0.0.0 yukonearshot.com
+0.0.0.0 yukreserve.top
 0.0.0.0 yulunanews.name
 0.0.0.0 yumenetworks.com
 0.0.0.0 yumkelis.com
@@ -37189,7 +37212,6 @@
 0.0.0.0 firstimpression.io
 0.0.0.0 fisari.com
 0.0.0.0 fixionmedia.com
-0.0.0.0 flashtalking.com
 0.0.0.0 flower-ads.com
 0.0.0.0 flyersquare.com
 0.0.0.0 flymyads.com
@@ -37595,7 +37617,6 @@
 0.0.0.0 smartad.ee
 0.0.0.0 smartadtags.com
 0.0.0.0 smartadv.ru
-0.0.0.0 smartclip.net
 0.0.0.0 smartico.one
 0.0.0.0 smarttargetting.co.uk
 0.0.0.0 smarttargetting.net
@@ -47813,6 +47834,7 @@
 0.0.0.0 refblock.com
 0.0.0.0 say.ac
 0.0.0.0 seomaster.com.br
+0.0.0.0 smartclip.net
 0.0.0.0 softclick.com.br
 0.0.0.0 solution911.com
 0.0.0.0 templates.buscape.com
@@ -51191,6 +51213,7 @@
 0.0.0.0 selectofmychoices.com
 0.0.0.0 sentry.outbid.io
 0.0.0.0 seonify.com
+0.0.0.0 servedby.flashtalking.com
 0.0.0.0 servedby.lintigroup.se
 0.0.0.0 se-ads-microservice.ads.allermedia.io
 0.0.0.0 sgtm.inet.se
@@ -56869,6 +56892,7 @@
 0.0.0.0 frtnqpw837.shop
 0.0.0.0 0v1syj.cn
 0.0.0.0 mxeq.cn
+0.0.0.0 888bb555ww.com
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
