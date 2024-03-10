@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 10 Mar 2024 08:57:47 +0000
+# Last converted - Sun, 10 Mar 2024 12:58:14 +0000
 #
 
+0.0.0.0 qfyavpwmraqibv.com
 0.0.0.0 cqeomumqwx.com
 0.0.0.0 d3c.life
 0.0.0.0 toqaxrsbv.com
@@ -1347,23 +1348,39 @@
 0.0.0.0 2ts55ek00.de
 0.0.0.0 3-mobiappu.com
 0.0.0.0 300daytravel.com
+0.0.0.0 302kslgdl.de
 0.0.0.0 3034f47ff3.com
 0.0.0.0 303ag0nc7.de
 0.0.0.0 303marketplace.com
+0.0.0.0 307i6i7do.de
 0.0.0.0 308d13be14.com
+0.0.0.0 30929d3de9.com
 0.0.0.0 30986g8ab.de
 0.0.0.0 30b9e3a7d7e2b.com
 0.0.0.0 30d5shnjq.de
 0.0.0.0 30f5554dd4.com
 0.0.0.0 30hccor10.de
 0.0.0.0 30koqnlks.de
+0.0.0.0 30m4hpei1.de
+0.0.0.0 30p70ar8m.de
 0.0.0.0 30pk41r1i.de
+0.0.0.0 30se9p8a0.de
+0.0.0.0 30tgh64jp.de
+0.0.0.0 3120jpllh.de
 0.0.0.0 314d7d699d.com
 0.0.0.0 314gqd3es.de
 0.0.0.0 316feq0nc.de
+0.0.0.0 317796hmh.de
+0.0.0.0 318pmmtrp.de
+0.0.0.0 3192a7tqk.de
+0.0.0.0 31aceidfj.de
+0.0.0.0 31aqn13o6.de
 0.0.0.0 31bqljnla.de
 0.0.0.0 31cm5fq78.de
 0.0.0.0 31d6gphkr.de
+0.0.0.0 31daa5lnq.de
+0.0.0.0 31def61c3.de
+0.0.0.0 31o0jl63.de
 0.0.0.0 321naturelikefurfuroid.com
 0.0.0.0 3221dkf7m2.com
 0.0.0.0 329efb045e.com
@@ -1392,7 +1409,9 @@
 0.0.0.0 3819544f76.com
 0.0.0.0 3841f4b0c4.com
 0.0.0.0 38d9953876.com
+0.0.0.0 38ds89f8.de
 0.0.0.0 395b8c2123.com
+0.0.0.0 39e6p9p7.de
 0.0.0.0 39f204776a.com
 0.0.0.0 39irqwnzlv.com
 0.0.0.0 3a17d27bf9.com
@@ -1418,6 +1437,7 @@
 0.0.0.0 3lr67y45.com
 0.0.0.0 3mhg.online
 0.0.0.0 3mhg.site
+0.0.0.0 3ng6p6m0.de
 0.0.0.0 3qfe1gfa.de
 0.0.0.0 3redlightfix.com
 0.0.0.0 3sk7d418al8u.com
@@ -34394,6 +34414,7 @@
 0.0.0.0 weaverdispensepause.com
 0.0.0.0 web-affiliation.com
 0.0.0.0 web-guardian.xyz
+0.0.0.0 web-hosts.io
 0.0.0.0 web-security.cloud
 0.0.0.0 web0.eu
 0.0.0.0 webads.co.nz
@@ -46931,7 +46952,6 @@
 0.0.0.0 verify.safesigned.com
 0.0.0.0 websecurity.norton.com
 0.0.0.0 widgets.trustedshops.com
-0.0.0.0 3ng6p6m0.de
 0.0.0.0 adcrowd.com
 0.0.0.0 adquality.ch
 0.0.0.0 area51.to
@@ -56757,6 +56777,7 @@
 0.0.0.0 delhirs.com
 0.0.0.0 6zfem.icu
 0.0.0.0 lewiooz.cn
+0.0.0.0 0uvt8b.cn
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
