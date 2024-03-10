@@ -71,6 +71,7 @@ $lists = array(
     'UltimateHostsBlacklist0' => 'https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list',
     'UltimateHostsBlacklist1' => 'https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list',
     'UltimateHostsBlacklist2' => 'https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list',
+    'Phishing.database' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt',
     'urlHaus' => 'https://urlhaus.abuse.ch/downloads/rpz/',
     'winhelp2002' => 'https://winhelp2002.mvps.org/hosts.txt'
 );
@@ -78,16 +79,16 @@ $lists = array(
 $idn_to_ascii = function_exists('idn_to_ascii');
 
 foreach ($lists as $name => $list) {
-    echo "Converting {$name}...\n";
+    echo "Converting $name...\n";
 
     // Fetch filter list and explode into an array.
     $lines = file_get_contents($list);
     $lines = explode("\n", $lines);
 
     // HOSTS header.
-    $hosts = "# {$name}\n";
+    $hosts = "# $name\n";
     $hosts .= "#\n";
-    $hosts .= "# Converted from - {$list}\n";
+    $hosts .= "# Converted from - $list\n";
     $hosts .= '# Last converted - ' . date('r') . "\n";
     $hosts .= "#\n\n";
 
@@ -129,7 +130,7 @@ foreach ($lists as $name => $list) {
 
         // Replace filter syntax with HOSTS syntax.
         // @todo Perhaps skip $third-party, $image and $popup?
-        $filter = str_replace(array('0.0.0.0', '||', '^third-party', '^', '$third-party', ',third-party', '$all', ',all', '$image', ',image', ',important', '$script', ',script', '$object', ',object', '$popup', ',popup', '$empty', '$object-subrequest', '$document', '$subdocument', ',subdocument', '$ping', '$important', '$badfilter', ',badfilter', '$websocket', '$cookie', '$other'), '', $filter);
+        $filter = str_replace(array('||', '^third-party', '^', '$third-party', ',third-party', '$all', ',all', '$image', ',image', ',important', '$script', ',script', '$object', ',object', '$popup', ',popup', '$empty', '$object-subrequest', '$document', '$subdocument', ',subdocument', '$ping', '$important', '$badfilter', ',badfilter', '$websocket', '$cookie', '$other'), '', $filter);
 
         /*
          * Workarounds. Groan.
@@ -203,7 +204,7 @@ foreach ($lists as $name => $list) {
             continue;
         }
 
-        // $domains[] = "0.0.0.0 {$filter}";
+        $domains[] = "$filter";
     }
 
     // Generate the hosts list.
@@ -221,7 +222,7 @@ foreach ($lists as $name => $list) {
     }
 
     // Output the file.
-    file_put_contents("data/{$name}.txt", $hosts);
+    file_put_contents("data/$name.txt", $hosts);
 
-    echo "{$name} converted to HOSTS file - see data/{$name}.txt\n";
+    echo "$name converted to HOSTS file - see data/$name.txt\n";
 }
