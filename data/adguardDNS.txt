@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 10 Mar 2024 16:58:14 +0000
+# Last converted - Sun, 10 Mar 2024 20:57:43 +0000
 #
 
 0.0.0.0 qfyavpwmraqibv.com
@@ -56482,6 +56482,7 @@
 0.0.0.0 zvietnakello.weebly.com
 0.0.0.0 0940088.com
 0.0.0.0 0j775d.cn
+0.0.0.0 0uvt8b.cn
 0.0.0.0 0uyt5b.cn
 0.0.0.0 0v1syj.cn
 0.0.0.0 1ny3r.icu
@@ -56489,6 +56490,7 @@
 0.0.0.0 3bxe2.cyou
 0.0.0.0 51hir.cyou
 0.0.0.0 5z0d3.cyou
+0.0.0.0 6zfem.icu
 0.0.0.0 7vviw.cyou
 0.0.0.0 888bb555ww.com
 0.0.0.0 88lm05.com
@@ -56550,6 +56552,7 @@
 0.0.0.0 cwssfg632.shop
 0.0.0.0 dawdlealmonry.com
 0.0.0.0 ddielv.cn
+0.0.0.0 delhirs.com
 0.0.0.0 difmnd.xyz
 0.0.0.0 dkjwbv.xyz
 0.0.0.0 dqhxmbx.cn
@@ -56569,6 +56572,7 @@
 0.0.0.0 fefgvh.xyz
 0.0.0.0 fekpcd.icu
 0.0.0.0 ferriesendless.com
+0.0.0.0 fidelius.cn
 0.0.0.0 fmfnrf.xyz
 0.0.0.0 fpjjjh.xyz
 0.0.0.0 frtnqps358.shop
@@ -56606,6 +56610,8 @@
 0.0.0.0 jgblvt.xyz
 0.0.0.0 jgmywh.icu
 0.0.0.0 jioed.cyou
+0.0.0.0 jnifdlaa.top
+0.0.0.0 jozbun.icu
 0.0.0.0 jqpejp.xyz
 0.0.0.0 js131.cn
 0.0.0.0 jzjpntr.xyz
@@ -56617,7 +56623,9 @@
 0.0.0.0 l5kt1.icu
 0.0.0.0 lardmoni.com
 0.0.0.0 lenvvb.xyz
+0.0.0.0 lewiooz.cn
 0.0.0.0 lfffzv.xyz
+0.0.0.0 lfhdryz.xyz
 0.0.0.0 lmxiqf.icu
 0.0.0.0 lulxzl.xyz
 0.0.0.0 luofk.xyz
@@ -56634,9 +56642,11 @@
 0.0.0.0 ndthdtr586.shop
 0.0.0.0 ngnxyub.cn
 0.0.0.0 nkbkor.icu
+0.0.0.0 nowhern.com
 0.0.0.0 nplahh.xyz
 0.0.0.0 nvdtdsd.xyz
 0.0.0.0 nyt5j.cyou
+0.0.0.0 obturex.com
 0.0.0.0 ocggec.xyz
 0.0.0.0 ogznfgl.cn
 0.0.0.0 ok8867s.com
@@ -56662,6 +56672,7 @@
 0.0.0.0 qrttfmo.cn
 0.0.0.0 qzalsk.xyz
 0.0.0.0 rarcff.xyz
+0.0.0.0 rbhunp.xyz
 0.0.0.0 rfnvqpo.xyz
 0.0.0.0 riscil.com
 0.0.0.0 rjhbjv.xyz
@@ -56714,6 +56725,7 @@
 0.0.0.0 tyodot.icu
 0.0.0.0 uctutu3789.xyz
 0.0.0.0 uiqcf.cn
+0.0.0.0 ulwfys.xyz
 0.0.0.0 usltmus.cn
 0.0.0.0 uu22662.com
 0.0.0.0 uxlvk.cn
@@ -56764,20 +56776,8 @@
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zhaweifeng.com
 0.0.0.0 zhihucloud.xyz
-0.0.0.0 znhlxvb.xyz
-0.0.0.0 fidelius.cn
-0.0.0.0 jnifdlaa.top
-0.0.0.0 lfhdryz.xyz
-0.0.0.0 rbhunp.xyz
 0.0.0.0 zjrtxt.xyz
-0.0.0.0 ulwfys.xyz
-0.0.0.0 jozbun.icu
-0.0.0.0 nowhern.com
-0.0.0.0 obturex.com
-0.0.0.0 delhirs.com
-0.0.0.0 6zfem.icu
-0.0.0.0 lewiooz.cn
-0.0.0.0 0uvt8b.cn
+0.0.0.0 znhlxvb.xyz
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
