@@ -210,8 +210,8 @@ echo "Imported openfish.com"
 # ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/LICENSE.md" -O "data/mitchellkrogza/phishing.database/LICENSE.md"
 # ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/README.md" -O "data/mitchellkrogza/phishing.database/README.md"
 
-# # As I have no idea or couln't find any RFC telling me that an IPv4 is a valid
-# # domain name. It is nessesary to remove them from "Domain"? list :smirk: :devil:
+# # As I have no idea or couldn't find any RFC telling me that an IPv4 is a valid
+# # domain name. It is necessary to remove them from "Domain"? list :smirk: :devil:
 
 # mkdir -p "${git_dir}/data/mitchellkrogza/Ultimate.Hosts.Blacklist/"
 # echo ""
