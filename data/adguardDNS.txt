@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 09 Mar 2024 20:58:16 +0000
+# Last converted - Sun, 10 Mar 2024 01:41:42 +0000
 #
 
 0.0.0.0 cqeomumqwx.com
@@ -1906,6 +1906,7 @@
 0.0.0.0 aabtestsproxydomain.top
 0.0.0.0 aac585e70c.com
 0.0.0.0 aactxwic.com
+0.0.0.0 aaeqnqqbs.com
 0.0.0.0 aaf26c0e6a.com
 0.0.0.0 aafdcq.com
 0.0.0.0 aagm.link
@@ -20915,6 +20916,7 @@
 0.0.0.0 mmotraffic.com
 0.0.0.0 mmphijndajxiui.com
 0.0.0.0 mmqvujl.com
+0.0.0.0 mmsmpjtksdnjqw.com
 0.0.0.0 mmtnat.com
 0.0.0.0 mmutpubcaegu.com
 0.0.0.0 mmvideocdn.com
@@ -28843,6 +28845,7 @@
 0.0.0.0 serve-serving.com
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 servedbysmart.com
+0.0.0.0 serveforthwithtill.com
 0.0.0.0 servehub.info
 0.0.0.0 servenobid.com
 0.0.0.0 serverbid.com
@@ -56611,12 +56614,14 @@
 0.0.0.0 0940088.com
 0.0.0.0 0j775d.cn
 0.0.0.0 0uyt5b.cn
+0.0.0.0 0v1syj.cn
 0.0.0.0 1ny3r.icu
 0.0.0.0 2jse6.icu
 0.0.0.0 3bxe2.cyou
 0.0.0.0 51hir.cyou
 0.0.0.0 5z0d3.cyou
 0.0.0.0 7vviw.cyou
+0.0.0.0 888bb555ww.com
 0.0.0.0 88lm05.com
 0.0.0.0 88lm06.com
 0.0.0.0 8t9he.cyou
@@ -56630,6 +56635,7 @@
 0.0.0.0 arnhhwo.xyz
 0.0.0.0 arqvm.cn
 0.0.0.0 awuvcq.xyz
+0.0.0.0 azyuuk.xyz
 0.0.0.0 b37r5.cyou
 0.0.0.0 bba9603w.com
 0.0.0.0 bdtdat652.shop
@@ -56688,11 +56694,16 @@
 0.0.0.0 egywbps748.shop
 0.0.0.0 egywbpu286.shop
 0.0.0.0 ejdhmed.xyz
+0.0.0.0 endolift.cn
 0.0.0.0 eqqwgw.xyz
 0.0.0.0 execuri.com
 0.0.0.0 fefgvh.xyz
+0.0.0.0 fekpcd.icu
 0.0.0.0 ferriesendless.com
 0.0.0.0 fmfnrf.xyz
+0.0.0.0 fpjjjh.xyz
+0.0.0.0 frtnqps358.shop
+0.0.0.0 frtnqpw837.shop
 0.0.0.0 fvpboxu.xyz
 0.0.0.0 fwcnex.icu
 0.0.0.0 fxjnfn.xyz
@@ -56719,6 +56730,7 @@
 0.0.0.0 hyusnisu.top
 0.0.0.0 ijvla.cn
 0.0.0.0 imevzbn.cn
+0.0.0.0 inifdlao.top
 0.0.0.0 inworket.com
 0.0.0.0 ivbgpax.cn
 0.0.0.0 jflwhf.xyz
@@ -56747,6 +56759,7 @@
 0.0.0.0 mondigo.cn
 0.0.0.0 mthhhuq.cn
 0.0.0.0 mtwmuy.xyz
+0.0.0.0 mxeq.cn
 0.0.0.0 nddld.cn
 0.0.0.0 ndthdte125.shop
 0.0.0.0 ndthdtr586.shop
@@ -56791,6 +56804,7 @@
 0.0.0.0 ruqwgb.icu
 0.0.0.0 rydyvv.xyz
 0.0.0.0 rzfdbsn.cn
+0.0.0.0 rzpvbl.xyz
 0.0.0.0 sdjkbcjksbdsvv.com
 0.0.0.0 seslco.xyz
 0.0.0.0 shanvezhu.com
@@ -56881,18 +56895,13 @@
 0.0.0.0 zagyjnn.cn
 0.0.0.0 zhaweifeng.com
 0.0.0.0 zhihucloud.xyz
-0.0.0.0 inifdlao.top
-0.0.0.0 rzpvbl.xyz
-0.0.0.0 azyuuk.xyz
-0.0.0.0 endolift.cn
 0.0.0.0 znhlxvb.xyz
-0.0.0.0 fekpcd.icu
-0.0.0.0 fpjjjh.xyz
-0.0.0.0 frtnqps358.shop
-0.0.0.0 frtnqpw837.shop
-0.0.0.0 0v1syj.cn
-0.0.0.0 mxeq.cn
-0.0.0.0 888bb555ww.com
+0.0.0.0 fidelius.cn
+0.0.0.0 jnifdlaa.top
+0.0.0.0 lfhdryz.xyz
+0.0.0.0 rbhunp.xyz
+0.0.0.0 zjrtxt.xyz
+0.0.0.0 ulwfys.xyz
 0.0.0.0 zojyob.icu
 0.0.0.0 zopuqv.icu
 0.0.0.0 zsjpi.cn
