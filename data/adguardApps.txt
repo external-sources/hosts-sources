@@ -1,6 +1,17 @@
 # adguardApps
 #
 # Converted from - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
-# Last converted - Sun, 10 Mar 2024 23:35:11 +0000
+# Last converted - Sun, 10 Mar 2024 23:46:09 +0000
 #
 
+adcenter-api.cashwalk.co
+ads.viber.com
+ads-d.viber.com
+adcs.rqmob.com
+preitem.wshareit.com
+api-a.op-mobile.opera.com
+promotion.polarisoffice.com
+newad.ifeng.com
+etl.tindersparks.com
+sensors.larkplayerapp.com
+log.kajicam.com

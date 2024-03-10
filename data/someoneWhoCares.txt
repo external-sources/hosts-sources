@@ -1,6 +1,10 @@
 # someoneWhoCares
 #
 # Converted from - https://someonewhocares.org/hosts/hosts
-# Last converted - Sun, 10 Mar 2024 23:35:46 +0000
+# Last converted - Sun, 10 Mar 2024 23:46:55 +0000
 #
 
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+127.0.0.1	local
