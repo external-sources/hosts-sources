@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 11 Mar 2024 01:04:40 +0100
+# Last converted - Mon, 11 Mar 2024 00:07:16 +0000
 #
 
 qfyavpwmraqibv.com
@@ -39327,7 +39327,7 @@ launcher.us.yeshen.com
 search.adcaffe.com
 monitor.adcaffe.com
 ad-api.ehawk.com
-gwrtdp-tn690BFAdt.tclclouds.com
+gwrtdp-tn690bfadt.tclclouds.com
 mobotoolpush.moboapps.io
 ssp.mediation.trnox.com
 bu1.duba.com
@@ -52537,7 +52537,7 @@ zigzag.vn
 99lotte.com
 9g5lm9.cyou
 9smomo.com
-Free-4paid.com
+free-4paid.com
 a666.vn
 aaeeonmart.com
 abbabbbank.com
