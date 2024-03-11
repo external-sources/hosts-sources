@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 11 Mar 2024 08:58:07 +0000
+# Last converted - Mon, 11 Mar 2024 12:59:19 +0000
 #
 
+owfrbdikoorgn.xyz
 qfyavpwmraqibv.com
 cqeomumqwx.com
 d3c.life
@@ -689,6 +690,7 @@ hub.fghtem.com
 d71e6dd31a026d45.com
 adrunnr.com
 samsungtvads.com
+rec.deezer.com
 ads.greengeeks.com
 d1rr5z16sjcy10.cloudfront.net
 d2xupcbyjjjfoa.cloudfront.net
@@ -40371,6 +40373,7 @@ stats.darkreader.app
 t.adbr.io
 cizion.com
 analytics.iss.one
+reports-tsi.tangerine.io
 analytics.partcommunity.com
 lr-ingest.io
 svibeacon.onezapp.com
@@ -40435,7 +40438,6 @@ wdfl.co
 uplift-platform.com
 lmepbq.com
 cdn.rlets.com
-tangerine.io
 b.sli-spark.com
 tracker-rec.smart-bdash.com
 perzonalization.com
@@ -43446,7 +43448,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
-ljc.coupang.com
+tracking.pennypublications.com
 apcdp.apnews.com
 3p-udc.yahoo.com
 3p-geo.yahoo.com
@@ -56874,6 +56876,8 @@ nsjnmx.icu
 lafirx.xyz
 gkutca.xyz
 qw9cu.cyou
+jbmfldt.cn
+diccsbhij.com
 zojyob.icu
 zopuqv.icu
 zsjpi.cn
