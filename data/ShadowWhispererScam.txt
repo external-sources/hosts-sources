@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Mon, 11 Mar 2024 12:59:56 +0000
+# Last converted - Mon, 11 Mar 2024 16:58:30 +0000
 #
 
 007-dvd.com
@@ -8331,6 +8331,7 @@ oraioninvestment.com
 orangestee.com
 orangetargetammo.net
 orangetransglobal.com
+orasliving.com
 orbusinessdaily.com
 orchtraeter.com
 ordercocaineforsale.com
