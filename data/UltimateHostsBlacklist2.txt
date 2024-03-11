@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sun, 10 Mar 2024 23:46:59 +0000
+# Last converted - Mon, 11 Mar 2024 00:07:57 +0000
 #
 
 reachmax.cm.admaster.com.cn
