@@ -1,7 +1,7 @@
 # blocklistProjectCrypto
 #
 # Converted from - https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/crypto-nl.txt
-# Last converted - Sun, 10 Mar 2024 23:46:21 +0000
+# Last converted - Mon, 11 Mar 2024 01:05:03 +0100
 #
 
 0.r.msn.com
@@ -14476,6 +14476,7 @@ shxbqzirzonks.bid
 shyyyxjw.com
 si.nanopool.org
 si.pool.mn
+sia-.nanopool.org
 sia-asia1.nanopool.org
 sia-asia2.nanopool.org
 sia-au1.nanopool.org
@@ -22178,6 +22179,7 @@ www.xmr-tw.org
 www.xmr-ue1.nanopool.org
 www.xmr-us-east.nanopool.org
 www.xmr-useast1.nanopool.org
+www.xmr.-eu1.nanopool.org
 www.xmr.alpha.nanopool.org
 www.xmr.arhash.xyz
 www.xmr.btgirl.com.cn
@@ -22716,6 +22718,7 @@ xmr-us.mixpools.org
 xmr-us.suprnova.cc
 xmr-usa.dwarfpool.com
 xmr-useast1.nanopool.org
+xmr.-eu1.nanopool.org
 xmr.101010.pl
 xmr.5b6b7b.ru
 xmr.alimabi.cn
@@ -23440,6 +23443,7 @@ zec-us1.dwarfpool.com
 zec-us1.nanopool.org
 zec-us2.nanopool.org
 zec-west1.nanopool.org
+zec.-eu1.nanopool.org
 zec.1stpool.com
 zec.2miners.com
 zec.2miners.ru
