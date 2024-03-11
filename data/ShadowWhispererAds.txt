@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 11 Mar 2024 16:58:27 +0000
+# Last converted - Mon, 11 Mar 2024 20:58:43 +0000
 #
 
 00px.net
@@ -8700,6 +8700,7 @@ dlads.cn
 dl.indexmovies.xyz
 dlv.itmedia.jp
 dmarc.net
+dmdj655uxuj8f.cloudfront.net
 dmhike.com
 dmipl.com
 dmr.com.sg
@@ -13527,6 +13528,7 @@ pubfuture-ad.com
 pubgenius.io
 pubguru.com
 pubguru.net
+pubimgs.com
 publicgood.com
 publicidad.cibeles.net
 publicidade.jn.pt
@@ -16422,6 +16424,7 @@ vibenomics.com
 viboom.com
 vibrantideas.co.in
 vibrantmedia.com
+vibrantpact.com
 vicious-instruction.pro
 vidads.gr
 vidads.in

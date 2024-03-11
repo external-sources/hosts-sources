@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Mon, 11 Mar 2024 16:58:31 +0000
+# Last converted - Mon, 11 Mar 2024 20:58:45 +0000
 #
 
 01counter.com
@@ -2526,6 +2526,7 @@ aimatch.com
 a.imgvc.com
 a.imkern.jetzt
 aimms.com
+aim-tag.hcn.health
 aimultiple.com
 a.independent.co.uk
 aiocr.mediadrive.jp
@@ -18471,6 +18472,7 @@ engage.uq.edu.au
 engage.valley.com
 engage.vantagecircle.com
 engage.videopoker.com
+engage.vzw.com
 engage.wearemarketing.com
 engage.zillion.com
 engineering.linde.com
@@ -18492,6 +18494,7 @@ enquiry.lkproperty.com.au
 ensighten.bhphoto.com
 ensighten.com
 ensighten.huntingtonbank.com
+ensighten.maurices.com
 ensighten.norton.com
 ensighten.staticcache.org
 ent.amazoneducation.com
@@ -34834,6 +34837,8 @@ payplanmail.com
 payrollhr.ahola.com
 pbbl.co
 pbcdn1.podbean.com
+pbcs.nypost.com
+pbcs.realtor.com
 pb.gochikurunow.com
 pbio.pressurebiosciences.com
 pbk-analytics.de
@@ -35029,6 +35034,7 @@ performance-booster.com
 performance-click.com
 performancehorizon.com
 performance-logger.minted.com
+performance.squarespace.com
 performance-statistic.kredivo.com
 performgroup.com
 performrct.com
@@ -35697,6 +35703,7 @@ piwik.awekas.at
 piwik.awesomewm.org
 piwik.awexi.dk
 piwik.awi.de
+piwik.awn.com
 piwik.awo-ruhr-mitte.de
 piwik.awo-seniorendienste-nr.de
 piwik.axenhus.com
@@ -41715,6 +41722,7 @@ proximic.com
 proxsee.io
 proxy.angelstudios.com
 pr.retire.americanfunds.com
+prsnbaa.dealeron.com
 pr.sunpowermarketing.co.uk
 pr.tac.co.jp
 pr.tryeting.jp
@@ -42915,6 +42923,7 @@ rm07.net
 rm08.net
 r.m1.integratedinterest.com
 r.m3.integratedinterest.com
+rma.homedepot.com
 r.mail2.ipem-market.com
 r.mail2.ticketxpress.tw
 r.mail.abesummit.com
@@ -43023,6 +43032,7 @@ rmulus.com
 rn9nhnpa.micpn.com
 rna.acdbio.com
 rnaanalytics.com
+rna.homedepot.com
 r.n.alpinstore.com
 rnengage.com
 r.news2.rm.org.br
@@ -44444,6 +44454,7 @@ sentry.sc-prod.net
 sentry.sonarr.tv
 sentry.vance.ai
 sentry.voicemod.net
+sentry.wixpress.com
 senzing.com
 seoab.io
 seo.greenteedesign.com
@@ -45451,6 +45462,7 @@ smetrics.marshalls.com
 smetrics.marshandmclennan.com
 smetrics.mathworks.com
 smetrics.matlabexpo.com
+smetrics.maurices.com
 smetrics.mcafee.com
 smetrics.media-global.net
 smetrics.med-info.me
@@ -46352,6 +46364,7 @@ spiffymachine.com
 sp.independentcitymarket.ca
 sp.indystar.com
 sp.infinigrow.com
+spiny.ai
 spirebaboon.com
 spitfire-analytics.com
 s.pixsrvcs.com
@@ -58477,6 +58490,7 @@ tvisioninsights.com
 t.visx.net
 tvpixel.com
 tv.rlcdn.com
+tvspix.com
 tvtrack.us
 t.wayfair.com
 t.webjavaskript.net
@@ -64614,6 +64628,7 @@ zensights.ai
 zenus.ai
 zenweshare.com
 zeotap.com
+zephr-v4.nypost.com
 zergnet.com
 zeroclickfraud.com
 zero-e.saysinter.com

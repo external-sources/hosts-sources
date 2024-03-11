@@ -1,7 +1,7 @@
 # ShadowWhispererChat
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
-# Last converted - Mon, 11 Mar 2024 16:58:28 +0000
+# Last converted - Mon, 11 Mar 2024 20:58:43 +0000
 #
 
 1talking.net
@@ -94,6 +94,7 @@ chat.gosquared.com
 chatidcdn.com
 chatid.com
 chat.intertops.eu
+chatling.ai
 chatlio.com
 chat.modelcentro.com
 chat.outboundengine.com
@@ -105,6 +106,7 @@ chatserver11.comm100.io
 chatserver1.comm100.io
 chat.sharpen.cx
 chat.smithville.com
+chat.stream-io-api.com
 chat.suncorp.com.au
 chatsupport.co
 chatsvc.getgobot.com
