@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Tue, 12 Mar 2024 12:59:40 +0000
+# Last converted - Tue, 12 Mar 2024 16:58:42 +0000
 #
 
 00px.net
@@ -12052,6 +12052,7 @@ myhappy-news.com
 myhayo.com
 myimagetracking.com
 mylead.global
+myleadx.com
 mymediashield.com
 mymilliondollarbiz.com
 myoads.com
@@ -12380,7 +12381,6 @@ notificationmessaging.com
 notification-prod.svc.gearsofwar.net
 notifications-api.cf.sky.com
 notifications.ennova-research.com
-notifications-pa.googleapis.com
 notifications.skype.com
 notification.tubecup.net
 notifiche.secoloditalia.it

@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Tue, 12 Mar 2024 12:59:43 +0000
+# Last converted - Tue, 12 Mar 2024 16:58:45 +0000
 #
 
 010.at
@@ -1366,6 +1366,7 @@ putar.win
 pwgo.to
 pxlcrv.co
 pxl.fm
+pygy.co
 py.md
 pymd.org
 q8at.link
@@ -1508,6 +1509,7 @@ senin.lol
 serveracts.net
 serverpa.rs
 s.evx.ca
+sexy.jill.survive.from.the.monster
 sg0.co
 s.gdngs.de
 sgrtldm.com
@@ -1729,6 +1731,7 @@ suoc.me
 suo.su
 superbidmagnet.com
 superbl.ink
+support-online-mail.cloud.wpontos-app.cloud
 supportsae.com
 supurlman.com
 sura.pw
