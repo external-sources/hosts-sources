@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 12 Mar 2024 08:58:14 +0000
+# Last converted - Tue, 12 Mar 2024 12:59:06 +0000
 #
 
 owfrbdikoorgn.xyz
@@ -40162,6 +40162,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+cadmus.script.ac
 feliz.data.tm-awx.com
 adoric-om.com
 lz-pub-ads.com
@@ -43543,6 +43544,9 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+analytics.purelovers.com
+analytics.pixels.ai
+globalservices.conde.digital
 tracking.pennypublications.com
 apcdp.apnews.com
 3p-udc.yahoo.com
@@ -46329,7 +46333,6 @@ analytics.paddle.com
 analytics.pagefly.io
 analytics.piksel.com
 analytics.pinterest.com
-analytics.pixels.ai
 analytics.pop2watch.com
 analytics.prezly.com
 analytics.qualityunit.com
@@ -46869,6 +46872,7 @@ t.rentcafe.com
 t.screeb.app
 t.sharethis.com
 t.smile.eu
+t.spbx.app
 t.spot.im
 t2.t2b.click
 tag-manager.playbuzz.com
@@ -61555,6 +61559,7 @@ z.nowscore.com
 zt2088.com
 ztyumn.ifeng.com
 27gh.cc
+c81.ipanocloud.com
 003store.com
 0941.org
 1.07swz.com
@@ -61927,7 +61932,6 @@ dm.wenshenxiu.com
 dm.zjut.cc
 dm.zuowenku.net
 dm1.ddwk8.cn
-dm1.guanwawa.com
 dm1.zjydt.com
 dmm.aizhan.com
 dmr.cnhoney.com
@@ -62400,9 +62404,6 @@ popina.ir
 popunder.ir
 popupdl.ir
 peyvandha.ir
-10.10.34.34
-10.10.34.35
-10.10.34.36
 phoenixad.io
 partclick.ir
 persianrank.ir
