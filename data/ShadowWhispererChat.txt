@@ -1,7 +1,7 @@
 # ShadowWhispererChat
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
-# Last converted - Tue, 12 Mar 2024 12:59:40 +0000
+# Last converted - Tue, 12 Mar 2024 16:58:42 +0000
 #
 
 1talking.net
@@ -102,6 +102,7 @@ chatpath.com
 chatplus.jp
 chat-proxy-service.thulium.com
 chatra.io
+chat.rumahweb.com
 chatserver11.comm100.io
 chatserver1.comm100.io
 chat.sharpen.cx
