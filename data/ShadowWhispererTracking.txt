@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 13 Mar 2024 01:41:09 +0000
+# Last converted - Wed, 13 Mar 2024 04:59:10 +0000
 #
 
 01counter.com
@@ -13778,7 +13778,6 @@ brewmee.maatoo.io
 bridge.dplfp.com
 briefbears.com
 briefstem.com
-brightback.com
 brightedge.com
 brighteroption.com
 brightfunnel.com
@@ -18825,6 +18824,7 @@ events.photosat.ca
 event.spotxchange.com
 events.prd.api.max.com
 events.privy.com
+events.prod.brightback.com
 events.qortex.ai
 events.reddit.com
 events.redditmedia.com
@@ -18881,6 +18881,7 @@ e.viously.com
 evisitanalyst.com
 evivebenefits.com
 ev.kck.st
+evnt.byspotify.com
 evnt.nmgplatform.com
 evoke.fr
 evolution360.com
@@ -40589,6 +40590,7 @@ pixel.blivenyc.com
 pixel.bordadoacademy.com
 pixel.bridge.dooca.store
 pixel.brokerhunter.com.br
+pixel.byspotify.com
 pixel.canvapackmho.com
 pixel.carolnsmkt.com
 pixel.casalprospero.com.br
