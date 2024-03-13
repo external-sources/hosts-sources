@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 12 Mar 2024 20:57:47 +0000
+# Last converted - Wed, 13 Mar 2024 01:40:25 +0000
 #
 
 owfrbdikoorgn.xyz
@@ -2938,6 +2938,7 @@ afootulnas.com
 afootwitword.com
 aforepayoffstutter.com
 afosseel.net
+afpbuzfwyjri.com
 afpjryqtnkctv.com
 afqqnxifhgsaqab.com
 afr4g5.de
@@ -7641,6 +7642,7 @@ clcassd.com
 clcknads.pro
 clcknipop.com
 clckpbnce.com
+clcktrck.com
 clckysudks.com
 cldlr.com
 cldlyuc.com
@@ -10388,6 +10390,7 @@ dsixipuj.com
 dslsgbrckqshuep.com
 dsmrnsngvnrc.xyz
 dsnextgen.com
+dsnfeddmxnsfq.com
 dsnkkjmxogwtpju.com
 dsnr-affiliates.com
 dsoodbye.xyz
@@ -17695,6 +17698,7 @@ jobfilletfortitude.com
 joblouder.com
 jobmkewrymmvb.top
 jobsngeilvxm.com
+jobsonationsing.com
 jobsyndicate.com
 jocauzee.net
 jocelynrace.com
@@ -18546,6 +18550,7 @@ kongabsa.xyz
 kongry.com
 konradsheriff.com
 kontextua.com
+konupucy.net
 kooboaphe.com
 koocash.com
 koochooy.net
@@ -22321,6 +22326,7 @@ nonfictiontickle.com
 nongamemealman.guru
 nonimoomi.com
 nonotro.name
+nonremid.com
 nonsensethingresult.com
 nonspewpa.com
 nonstoppartner.de
@@ -56698,6 +56704,7 @@ zvietcombank.com
 zvietnakello.weebly.com
 0940088.com
 0j775d.cn
+0tq6ub.cn
 0uvt8b.cn
 0uyt5b.cn
 0v1syj.cn
@@ -56809,6 +56816,7 @@ halct.cn
 hbjolp.xyz
 hciwyv.icu
 hdtedar126.shop
+hdvsrz.xyz
 heapz.cyou
 hexcvb.xyz
 hgthpj.xyz
@@ -56864,6 +56872,7 @@ nddld.cn
 ndthdte125.shop
 ndthdtr586.shop
 ngnxyub.cn
+njhvalu.cn
 nkbkor.icu
 nowhern.com
 nplahh.xyz
@@ -56877,6 +56886,8 @@ ok8867s.com
 okwkaa.xyz
 onagsc.xyz
 oojjsa.com
+oppnfev.xyz
+osisk.com
 ostjpig.cn
 ovjlccs.xyz
 p04qzl.cn
@@ -56898,6 +56909,7 @@ qw9cu.cyou
 qzalsk.xyz
 rarcff.xyz
 rbhunp.xyz
+rcyzsh.icu
 rfnvqpo.xyz
 riscil.com
 rjhbjv.xyz
@@ -56919,10 +56931,12 @@ shuocyw.cn
 sjaaquj.cn
 skfda5.com
 smallfo.com
+snifdlab.top
 soffersk.com
 spsfupq.cn
 srzpsbf.xyz
 svncowt.cn
+swsegi.xyz
 szbhb.cn
 szmnd.cn
 szmnf.cn
@@ -57005,14 +57019,12 @@ zhaweifeng.com
 zhihucloud.xyz
 zjrtxt.xyz
 znhlxvb.xyz
-hdvsrz.xyz
-swsegi.xyz
-rcyzsh.icu
-snifdlab.top
-oppnfev.xyz
-0tq6ub.cn
-njhvalu.cn
-osisk.com
+0r3tyg.cn
+ahtfzhs.xyz
+pnxtnp.xyz
+vmnlkr.icu
+enifdlaw.top
+eiqsky.xyz
 zojyob.icu
 zopuqv.icu
 zsjpi.cn
@@ -61578,7 +61590,6 @@ z.nowscore.com
 zt2088.com
 ztyumn.ifeng.com
 27gh.cc
-c81.ipanocloud.com
 003store.com
 0941.org
 1.07swz.com
@@ -61870,6 +61881,7 @@ c1.chajiaotong.com
 c1.china.cn
 c1.czcol.cn
 c6.friok.com
+c81.ipanocloud.com
 ca.yangshengtv.com
 car.qcmrjx.com
 cbdm.weathercn.com
