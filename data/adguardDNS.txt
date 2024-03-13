@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 13 Mar 2024 16:57:39 +0000
+# Last converted - Wed, 13 Mar 2024 20:59:55 +0000
 #
 
+raneeptaid.net
 al-adtech.com
 owfrbdikoorgn.xyz
 qfyavpwmraqibv.com
@@ -17130,6 +17131,7 @@ itvwnehwnxkdld.com
 itweedler.com
 itweepinbelltor.com
 itwkuouldhuke.info
+itwoheflewround.info
 ityonatallco.info
 itzekromom.com
 iuc1.online
@@ -21278,6 +21280,7 @@ mpfqphqf.com
 mphhqaw.com
 mpk01.com
 mplayeranyd.info
+mploymehnthejuias.info
 mpmant.com
 mpnrs.com
 mppqellliovkuqi.com
@@ -28433,6 +28436,7 @@ sandcomemunicat.info
 sandelf.com
 sandflyligules.com
 sandhiswiggish.top
+sandmakingsilver.info
 sandtheircle.com
 sandyconference.com
 sanfordcessor.space
@@ -32965,6 +32969,7 @@ uncovereasel.com
 uncoverherbal.com
 uncree.com
 uncrobator.com
+uncroptbhutia.com
 uncrownarmenic.com
 uncslucanid.space
 unctic.com
@@ -36001,6 +36006,7 @@ yjrlciff.com
 yjuxkncvy.com
 yjvuthpuwrdmdt.xyz
 ykdwyf.com
+ykgkxcount.com
 ykmvnhue.com
 ykqalsm.com
 ykraeij.com
@@ -38325,6 +38331,7 @@ d1tt3ye7u0e0ql.cloudfront.net
 d1tttug1538qv1.cloudfront.net
 d1twn22x8kvw17.cloudfront.net
 d1u1byonn4po0b.cloudfront.net
+d1u5ibtsigyagv.cloudfront.net
 d1uae3ok0byyqw.cloudfront.net
 d1ue5xz1lnqk0d.cloudfront.net
 d1ugiptma3cglb.cloudfront.net
@@ -43556,6 +43563,10 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+tracker.sqreemtech.com
+analytics.waifu2x.org
+analytics-api.vanceai.com
+track.prod.smash.pet
 metrics.quillbot.com
 j927.statnews.com
 metrics.ceneo.pl
@@ -56693,6 +56704,7 @@ zvietcombank.com
 zvietnakello.weebly.com
 0940088.com
 0j775d.cn
+0r3tyg.cn
 0tq6ub.cn
 0uvt8b.cn
 0uyt5b.cn
@@ -56712,6 +56724,7 @@ zvietnakello.weebly.com
 999xx999kk.com
 aaoisp.com
 agmed.cyou
+ahtfzhs.xyz
 ahyyqq.xyz
 anjdwmq.xyz
 aourgk.xyz
@@ -56731,6 +56744,8 @@ blzbjpg.xyz
 bmnbyn.icu
 bmret.cn
 brixel.cn
+btyhnbmn289.shop
+btyhnraw653.shop
 bugzmn.icu
 buvdkt.icu
 bvtvlp.xyz
@@ -56779,8 +56794,10 @@ ebgwdon.cn
 efmtsw.xyz
 egywbps748.shop
 egywbpu286.shop
+eiqsky.xyz
 ejdhmed.xyz
 endolift.cn
+enifdlaw.top
 eqqwgw.xyz
 execuri.com
 fefgvh.xyz
@@ -56885,6 +56902,7 @@ p45m0.icu
 phvfevk.xyz
 pidzlp.xyz
 pjzxdl.xyz
+pnxtnp.xyz
 przbzr.xyz
 pwhtip.icu
 qbhzghb.xyz
@@ -56961,11 +56979,13 @@ uxrdg.cn
 vdvcjlp.cn
 veaiyl.icu
 vhvwlb.xyz
+vmnlkr.icu
 vszzzj.xyz
 vxfdepn.cn
 wbubgob.cn
 wbvfj.xyz
 wisealty.com
+wjwod.cyou
 wkywrc.cn
 wnmaoc.xyz
 wopvmmy.cn
@@ -56995,6 +57015,7 @@ ycqbgm.xyz
 yddjmpjo.xyz
 ydfhidrk.xyz
 ydrvkdni.xyz
+ydwkrbg.cn
 ydybwjpa.xyz
 yhqukg.xyz
 ykkhihg.cn
@@ -57008,16 +57029,6 @@ zhaweifeng.com
 zhihucloud.xyz
 zjrtxt.xyz
 znhlxvb.xyz
-0r3tyg.cn
-ahtfzhs.xyz
-pnxtnp.xyz
-vmnlkr.icu
-enifdlaw.top
-eiqsky.xyz
-btyhnbmn289.shop
-btyhnraw653.shop
-wjwod.cyou
-ydwkrbg.cn
 zojyob.icu
 zopuqv.icu
 zsjpi.cn
