@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Wed, 13 Mar 2024 21:00:36 +0000
+# Last converted - Thu, 14 Mar 2024 01:39:01 +0000
 #
 
 reachspaces.adx1.com

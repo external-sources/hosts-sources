@@ -1,7 +1,7 @@
 # ShadowWhispererChat
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
-# Last converted - Wed, 13 Mar 2024 21:00:28 +0000
+# Last converted - Thu, 14 Mar 2024 01:38:51 +0000
 #
 
 1talking.net
