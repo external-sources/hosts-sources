@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 14 Mar 2024 04:57:48 +0000
+# Last converted - Thu, 14 Mar 2024 08:57:53 +0000
 #
 
 raneeptaid.net
@@ -1065,6 +1065,7 @@ mine.torrent.pw
 0ac56fb52b.com
 0aef09749a.com
 0af2a962b0102942d9a7df351b20be55.com
+0b0db57b5f.com
 0b19760679.com
 0b73f85f92.com
 0b7741a902.com
@@ -1280,6 +1281,7 @@ mine.torrent.pw
 2a1b1657c6.com
 2a2k3aom6.de
 2a4snhmtm.de
+2a6d9e5059.com
 2aefgbf.de
 2b15b8e193.com
 2b2b3adee6.com
@@ -1434,6 +1436,7 @@ mine.torrent.pw
 3e950d4353.com
 3edcc83467.com
 3fa244b7eb.com
+3fwlr7frbb.pro
 3g25ko2.de
 3gbqdci2.de
 3i1cx7b9nupt.com
@@ -1785,6 +1788,7 @@ mine.torrent.pw
 8e41249557.com
 8e6d77310c.com
 8ec9b7706a.com
+8f2b4c98e7.com
 8f72931b99.com
 8fc511071c.com
 8gs4unh05aq6.com
@@ -2035,6 +2039,7 @@ abonnementpermissiveenliven.com
 abopeol.com
 abordy.com
 aboriginalhubby.com
+abortingulf.top
 aboucaih.com
 aboung.com
 aboutpersonify.com
@@ -3267,6 +3272,7 @@ alexicallowed.digital
 alexisclou.top
 alfasense.com
 alfatraffic.com
+alfelixstownrusis.info
 alfonsino.top
 alfpair.com
 alfredpoleshipwreck.com
@@ -4536,6 +4542,7 @@ avwdyjwtnpc.com
 avwgzujkit.com
 avwwphtnquacgd.com
 avygpim.com
+avzwkkmzkayvj.top
 awacspianist.top
 awaitbackseatprod.com
 awaitdetestableitem.com
@@ -7575,6 +7582,7 @@ cjkaihej.com
 cjlph.com
 cjnktmhcukfdcq.xyz
 cjqncwfxrfrwbdd.com
+cjrlsw.info
 cjrvsw.info
 cjt3w2kxrv.com
 cjvdfw.com
@@ -8102,6 +8110,7 @@ complimentarycalibertwo.com
 complimentingredientnightfall.com
 comporthunder.uno
 compositeoverdo.com
+compositeprotector.com
 compositereconnectadmiral.com
 comprehendpaying.com
 comprehensiveunconsciousblast.com
@@ -8924,6 +8933,7 @@ d28dc30335.com
 d29gqcij.com
 d2af63b326.com
 d2d7bba154.com
+d2e5x3k1s6dpd4.cloudfront.net
 d2ship.com
 d2zf5gu5e5mp87.cloudfront.net
 d36f31688a.com
@@ -9289,6 +9299,7 @@ deedtampertease.com
 deefauph.com
 deeginews.com
 deehalig.net
+deejehicha.xyz
 deemcompatibility.com
 deemfriday.com
 deemievache.com
@@ -11427,6 +11438,7 @@ ensuebusinessman.com
 ensueswill.com
 entachbanker.top
 entaildollar.com
+entasesfrette.top
 enteredcocktruthful.com
 enterpriseinclinedvandalism.com
 entertaininauguratecontest.com
@@ -12274,6 +12286,7 @@ fatalitycharitablemoment.com
 fatalityplatinumthing.com
 fatalityreel.com
 fatalloved.com
+fatbkiwcizk.com
 fatchilli.media
 fatebbc.pro
 fatheemt.com
@@ -12926,6 +12939,7 @@ fogayeown.com
 foggilysyling.top
 foggydefy.com
 foggytube.com
+fognvcteac.com
 fogpurply.website
 fogtweybq.com
 foguroli.pro
@@ -15701,6 +15715,7 @@ honourcunninglowest.com
 honoursdashed.com
 honoursimmoderate.com
 hoo1luha.com
+hoodoesvector.top
 hoodoosdonsky.com
 hoodypledget.top
 hoofexcessively.com
@@ -18660,6 +18675,7 @@ krkmkvxneig.com
 krmlsuhicaapha.com
 krnishwktki.com
 krnmayzjvzqve.top
+kronentriduo.top
 kronosspell.com
 krqjfirm.com
 krqmfmh.com
@@ -19024,6 +19040,7 @@ lcjiusbyqfpdo.com
 lcloperoxeo.xyz
 lcmbppikwtxujc.xyz
 lcmevashrxfh.com
+lcncbusdg.com
 lcrhtauvic.com
 lcswbwinvhzm.com
 lcvdvyqpewwhllt.com
@@ -19799,6 +19816,7 @@ lqbvjmkwemboq.top
 lqbzuny.com
 lqcdn.com
 lqertautw.com
+lqjnjelmmya.com
 lqmrxmavv.com
 lqmvvsgusod.com
 lqpmulou.com
@@ -22970,6 +22988,7 @@ oeokfmroaiuwo.xyz
 oepnccxasww.com
 oestpq.com
 oetkwahrsdvrnn.com
+oeufvkymknbie.com
 oeuvresvexable.com
 oevkkqrar.com
 of-bo.com
@@ -24954,6 +24973,7 @@ piquperkin.com
 piratedivide.com
 pirist.com
 pirniemagi.com
+pirnirok.top
 pirogidecnet.com
 pirouque.com
 pirtecho.net
@@ -26519,6 +26539,7 @@ qemyetwxfcwhtyy.com
 qeqaqnvwmbkyj.top
 qerkbejqwzvyw.top
 qetdpyialxousr.com
+qewylqmaqezzj.top
 qfdn3gyfbs.com
 qfgkixvmwgaf.com
 qfhatlntjtpyit.com
@@ -26959,6 +26980,7 @@ rapanearozzer.cfd
 rapemineral.com
 rapepush.net
 rapesensual.com
+raphanyleman.top
 raphanysteers.com
 raphidewakener.com
 rapidhits.net
@@ -27703,6 +27725,7 @@ reynoldcotutor.com
 reypelis.tv
 reyswrloef.xyz
 reyungojas.com
+rfaatlrdr.com
 rfeablduda.com
 rfhddwa.com
 rfihub.com
@@ -27925,6 +27948,7 @@ rnv.life
 rnvlkhahv.com
 roabmyrevngqqk.com
 roachoavi.com
+roacourife.com
 roadformedomission.com
 roadmappenal.com
 roadoati.xyz
@@ -28573,6 +28597,7 @@ satirevegetableshaw.com
 satisfactionpredictmusic.com
 satisfactionretirechatterbox.com
 satoripedary.com
+sattiewitter.top
 saturatecats.com
 saturatedrake.com
 saturdaymarryspill.com
@@ -29609,6 +29634,7 @@ sliddeceived.com
 slidderpicoid.com
 slidecaffeinecrown.com
 slideff.com
+slidekidsstair.com
 slietap.com
 slightcareconditions.com
 slightlyeaglepenny.com
@@ -29945,6 +29971,7 @@ sorroaconcupy.com
 sorrowconstellation.com
 sorrowfulchemical.com
 sorrowfulclinging.com
+sorrowfulcredit.pro
 sorrowfulmaybe.pro
 sorrowfulsuggestion.pro
 sorrowgeneric.com
@@ -29983,6 +30010,7 @@ souvenirresponse.com
 souvenirsconsist.com
 souvenirsdisgust.com
 souvenirsflex.com
+sovereigngoesintended.com
 sovereignidentificationconfirmed.com
 sovism.com
 soyjlnfatgxpfd.com
@@ -30085,6 +30113,7 @@ spheralfreres.com
 spheredkapas.com
 spicaladapto.info
 spicedisobey.com
+spicy-combination.pro
 spicy-effect.com
 spicybustard.com
 spicygirlshere.life
@@ -30694,6 +30723,7 @@ subsistgrew.com
 subsistpartyagenda.com
 subsor.com
 substantialequilibrium.com
+substantialhound.com
 subtractrefused.com
 suburbincriminatesubdue.com
 subwaygirlieweasel.com
@@ -30974,6 +31004,7 @@ swoezdra.com
 swollencompletely.com
 swonqjzbc.com
 swoodlander.site
+swordanatomy.com
 swordbloatgranny.com
 swordcirculation.com
 sworddubiousagitated.com
@@ -31629,6 +31660,7 @@ thewowfeed.com
 thewscozier.uno
 thewulsair.com
 thewymulto.life
+theyeiedmadeh.info
 theyenglory.guru
 theythourbonusgain.life
 theyunm.com
@@ -31709,6 +31741,7 @@ thorsado.net
 thoseads.com
 thosecandy.com
 thosemethod.pro
+thosemungo.life
 thoudroa.net
 thouedslipped.life
 thoughtfulcontroversy.com
@@ -31845,6 +31878,7 @@ timesresidential.com
 timesroadmapwed.com
 timetablewearmatrix.com
 timetoagree.com
+timidtraumaticterminate.com
 timingbitternessgreasy.com
 timoggownduj.com
 timot-cvk.info
@@ -32169,6 +32203,7 @@ totoro2011.xyz
 totoromeeds.life
 touaz.xyz
 touchtamilic.com
+touchyeccentric.com
 toughdrizzleleftover.com
 tougherrancor.website
 toughtoxacid.com
@@ -32560,6 +32595,7 @@ tsiwoulukdli.xyz
 tsiwqtng8huauw30n.com
 tslomhfys.com
 tsml.fun
+tsmqbyd.com
 tspops.com
 tsrpcf.xyz
 tsrrbok.com
@@ -32757,6 +32793,7 @@ twvybupqup.xyz
 twwp3.top
 twwxjqsk.com
 txcmjo.com
+txgeszx.com
 txhrnluuyt.com
 txjhmbn.com
 txnhmdvka.com
@@ -32942,6 +32979,7 @@ ui02.com
 uidhealth.com
 uidhome.com
 uidsync.net
+uilzwzx.com
 uimserv.net
 uingroundhe.com
 uioubveq.com
@@ -33529,6 +33567,7 @@ uudzfbzthj.com
 uueuxygn.com
 uuhptejwmvn.com
 uuidksinc.net
+uuudqhialb.com
 uuzlytbpmmhfm.com
 uvbyty.com
 uveaopqrttvukl.com
@@ -34174,6 +34213,7 @@ vlkkwxncamnq.com
 vllsour.com
 vlnk.me
 vlry5l4j5gbn.com
+vltjnmkps.xyz
 vltwoizzckpp.com
 vlvbyqgjqj.com
 vmbgoblxpl.com
@@ -34742,6 +34782,7 @@ wecouldle.com
 wedflossbecause.com
 wednesdaygranddadlecture.com
 wednesdaynaked.com
+wednesdaywestern.com
 wedonhisdhilte.com
 wedonhisdhiltew.info
 wee-intention.com
@@ -35714,6 +35755,7 @@ xhmnbvn.com
 xhnedvpcml.com
 xhpzrfj.com
 xhr0.xyz
+xhvaqgs.com
 xhwwcif.com
 xhydgjisnfrtqsh.com
 xhzz3moj1dsd.com
@@ -35838,6 +35880,7 @@ xpvojrfwabtkr.com
 xqdfnqfgixjwpdb.xyz
 xqfwhxbfxhpjko.com
 xqhifbjhixb.com
+xqwcryh.com
 xqzwtvjkjj.com
 xrkxapomphh.com
 xrlkvghzi.com
@@ -36114,6 +36157,7 @@ yigypjptnoyxwfi.com
 yijaovuvbndx.xyz
 yikbsxtzrnc.com
 yike20230306.live
+yilwsirb.com
 yim3eyv5.top
 yinadeditiontowriti.info
 yingforthemoo.info
@@ -36295,6 +36339,7 @@ ytoworkwi.org
 ytqnzvqfsr.com
 ytsa.net
 yttompthree.com
+ytuooivmv.xyz
 ytvigqwx.com
 ytxmseqnehwstg.xyz
 ytzihf.com
@@ -57163,6 +57208,7 @@ zwxxcb.icu
 mrtxtrq.xyz
 wnifdlae.top
 pxzrlf.xyz
+wefihob.cn
 zojyob.icu
 zopuqv.icu
 zsjpi.cn
