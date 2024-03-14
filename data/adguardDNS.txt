@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 14 Mar 2024 16:57:59 +0000
+# Last converted - Thu, 14 Mar 2024 20:57:42 +0000
 #
 
 nodreewy.net
@@ -8984,6 +8984,7 @@ d90be87e47.com
 d95d5c2239.com
 d9kvn70l4ogn.com
 da-ads.com
+da327va27j0hh.cloudfront.net
 da77842b9c.com
 daailynews.com
 dabbyfather.com
@@ -11092,6 +11093,7 @@ egrousoawhie.com
 egrvkoqigygqk.com
 egxxlvyguirt.com
 egyifdjrbrwyj.com
+egykofo.com
 egynvnnlhywq.com
 egyptchwas.com
 egyptianintegration.com
@@ -12477,6 +12479,7 @@ feliev.com
 felingual.com
 felipby.live
 fellap.com
+fellerbeeline.top
 fellowsargean.com
 felonlosel.com
 feluccahoit.com
@@ -13201,6 +13204,7 @@ fqxjrbepn.com
 fqybolmt.com
 fqygyfvmz.com
 fqyxbvuefdlt.com
+fqzibqtjwfzp.com
 fragmenteasygoingmass.com
 fragmentexpertisegoods.com
 fragrancepneumoniatinker.com
@@ -15112,6 +15116,7 @@ harmlesstacticalhonorable.com
 harmoniousfamiliar.pro
 harmonypix.com
 haronfitanheck.com
+harpinhaster.top
 harrenmedianetwork.com
 harretrips.digital
 harsh-hello.pro
@@ -15565,6 +15570,7 @@ himselfthoughtless.com
 himselves.com
 himselvesobr.club
 hinaprecent.info
+hinavvogha.com
 hindsightchampagne.com
 hingamgladt.org
 hingamgladther.com
@@ -16106,6 +16112,7 @@ hwydfevh.com
 hwyjfhdjgoorb.com
 hwyrtegwvyjvbim.com
 hxatkjygdpar.com
+hxaubnrfgxke.xyz
 hxbtqwquroke.com
 hxcdyx.com
 hxcovhhin.com
@@ -16207,6 +16214,7 @@ ibikini.cyou
 ibjdmthqkz.com
 ibonmfvcwb.xyz
 ibortvgbkvpmes.com
+ibptutlgoloqy.com
 ibpxnkwstvqcon.com
 ibqjduiipukerj.com
 ibrapush.com
@@ -17395,6 +17403,7 @@ jamminds.com
 jamokeuntress.com
 jamsoulsfriday.com
 jamstech.store
+janapancoroun.top
 jandaqwe.com
 jangiddywashed.com
 jangleccoya.com
@@ -17754,6 +17763,7 @@ jmtbmqchgpw.xyz
 jmtbyiohpgugcsk.com
 jmvscgd.com
 jmxiwcjx.com
+jnaixbgd.com
 jnhdmksj.top
 jnlldyq.com
 jnnbzmyqaekzj.top
@@ -18104,6 +18114,7 @@ jwalf.com
 jweqtiikcx.com
 jwfobgoeobehy.com
 jwjxjuvrnkv.com
+jwlfduco.com
 jwnmnnnzrebqa.top
 jwnmnnnzreeyw.top
 jwqtuyjqxvsxy.com
@@ -21976,6 +21987,7 @@ necheadirtlse.org
 nechupsu.com
 neckloveham.live
 necmah.com
+nedamericantpas.info
 nedandlooked.org
 nedaughablelead.info
 nedouseso.com
@@ -24615,6 +24627,7 @@ pepperysergeantrisky.com
 peppinaegina.com
 peppy2lon1g1stalk.com
 pepserump.life
+pepyyzqqgciv.com
 peracy.com
 perceivedagrarian.com
 perceivedundesirable.com
@@ -24938,6 +24951,7 @@ picklespealwanderer.com
 pickupnationalityinexhaustible.com
 pickuppestsyndrome.com
 pickupracist.com
+pickvideolink.com
 picnicnorthernincompetent.com
 picolinfloe.com
 pics-city.space
@@ -25587,6 +25601,7 @@ ppclinking.com
 ppcnt.pro
 ppctraffic.co
 ppdiatk.com
+ppedtoalktoherha.info
 ppgjebhcyu.com
 pphauantic.com
 ppixufsalgm.com
@@ -29483,6 +29498,7 @@ signalsparfum.uno
 signalspotsharshly.com
 signalsuedejolly.com
 significantoperativeclearance.com
+signingrechaos.top
 sihokpfbv.com
 siiwptfum.xyz
 sikaza.com
@@ -30771,6 +30787,7 @@ styingjareed.guru
 stylewhiskerscreepy.com
 stylliyote.com
 styrianauf.com
+stzhnfcxx.com
 sualgvoi.com
 sub.empressleak.biz
 sub.xxx-porn-tube.com
@@ -34424,6 +34441,7 @@ vqfustjnvph.com
 vqglaz.com
 vqjfiuwbqpvwrn.xyz
 vqjvnjxbgnz.com
+vqrqnylppo.com
 vqtyargb.com
 vqzbzuhhxhcf.com
 vrasxjrsl.com
@@ -35298,6 +35316,7 @@ withinresentful.com
 withoutcontrol.com
 witlayvet.com
 witnessedworkerplaid.com
+witnessjacket.com
 witnessremovalsoccer.com
 witnesssimilarindoors.com
 wittilyfrogleg.com
@@ -36416,6 +36435,7 @@ yscntxil.com
 ysemblyjusting.info
 ysesials.net
 ysnxszyrxdzp.com
+yspecjbjmcub.com
 ytbzqtrog.com
 yterxv.com
 ytfotjfrttgyal.com
@@ -40438,6 +40458,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+accuratecoal.com
 sdk-cdn.optimove.net
 metrics.kmsmep.com
 cs.zg-api.com
