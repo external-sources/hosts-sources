@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 15 Mar 2024 04:57:41 +0000
+# Last converted - Fri, 15 Mar 2024 08:58:00 +0000
 #
 
 nodreewy.net
@@ -57334,6 +57334,8 @@ qnifdlay.top
 damiul.icu
 xhbshv.xyz
 djxpnuo.xyz
+irayedo.cn
+o1b04.cyou
 zojyob.icu
 zopuqv.icu
 zsjpi.cn
