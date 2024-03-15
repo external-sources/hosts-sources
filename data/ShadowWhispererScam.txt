@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Thu, 14 Mar 2024 20:58:19 +0000
+# Last converted - Fri, 15 Mar 2024 01:39:27 +0000
 #
 
 007-dvd.com
@@ -9765,6 +9765,7 @@ reviewshirts.com
 reviewtees.com
 reviversoft.com
 revolutionaryfireams.com
+revouninstaller.pro
 rewardcircular.com
 rewardcoo.com
 rewardrobux.com

@@ -1,7 +1,7 @@
 # migueldemouraAdsTracking
 #
 # Converted from - https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
-# Last converted - Thu, 14 Mar 2024 20:58:12 +0000
+# Last converted - Fri, 15 Mar 2024 01:39:21 +0000
 #
 
 0818480808.privacysandbox.googleadservices.com
