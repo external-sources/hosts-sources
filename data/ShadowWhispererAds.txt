@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Thu, 14 Mar 2024 20:58:17 +0000
+# Last converted - Fri, 15 Mar 2024 01:39:26 +0000
 #
 
 00px.net
@@ -1043,6 +1043,7 @@ adconnexa.com
 adconscious.com
 adconsole.ch
 ad-constructor.yandex.ru
+adcontent.xyz
 adcore.com
 ad-core.ru
 adcorpo.com
@@ -5260,6 +5261,7 @@ aduhads.us
 ad.ulanding.io
 adultadbroker.com
 adultads.biz
+adult-ads.ovh
 adultadvertising.net
 adultadworld.com
 adultbanners.co.uk
