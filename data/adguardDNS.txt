@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 16 Mar 2024 04:57:41 +0000
+# Last converted - Sat, 16 Mar 2024 08:57:50 +0000
 #
 
 pekroace.net
@@ -18675,6 +18675,7 @@ kookarek.com
 koolawet.net
 koophaip.net
 koosaipiph.com
+kootovouz.com
 kootzjkz.com
 koovaubi.xyz
 koowhoos.com
