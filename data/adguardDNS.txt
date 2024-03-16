@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 15 Mar 2024 20:58:12 +0000
+# Last converted - Sat, 16 Mar 2024 01:35:48 +0000
 #
 
+pekroace.net
 vikaez.xyz
 nodreewy.net
 wtuuilhbfvsiqbo.com
@@ -4054,6 +4055,7 @@ arointbarra.com
 arointitacism.com
 aromabirch.com
 aromatic-possibility.pro
+arosepageant.com
 arossb.com
 aroundpayslips.com
 arousedcricket.com
@@ -7178,6 +7180,7 @@ cermetszanonia.com
 cerningronco.com
 certainalmostcontent.com
 certainlydisparagewholesome.com
+certaintyurnincur.com
 certificaterainbow.com
 certified-apps.com
 ces2007.org
@@ -14448,6 +14451,7 @@ gophykopta.com
 goplayhere.com
 gopushka1.com
 gopushmajor1.com
+goraccodisobey.com
 goralogplumach.com
 goraps.com
 gordiustouse.website
@@ -15429,6 +15433,7 @@ hewdisobedienceliveliness.com
 hewhimaulols.com
 hewiseryoun.com
 hewmjifrn4gway.com
+hewokhn.com
 hexerpabalum.com
 hexovythi.pro
 heycompassion.com
@@ -16860,6 +16865,7 @@ inrqqddrnqkk.xyz
 insanitynapoleon.com
 inscriptionharm.com
 insectclothe.com
+insectearly.com
 insectsaw.com
 insectsmanners.com
 insecurepaint.pro
@@ -19097,6 +19103,7 @@ lbbvyupbdq.com
 lbbzxarfoukaf.com
 lbjxsort.xyz
 lbkezllkewevy.top
+lbswotkkpry.com
 lbwjqrtxeeriap.com
 lbxcnbrczmmp.com
 lbxetynjwqyrw.com
@@ -57012,6 +57019,7 @@ zvietcombank.com
 zvietnakello.weebly.com
 0940088.com
 0j775d.cn
+0op8kh.cn
 0r3tyg.cn
 0tq6ub.cn
 0uvt8b.cn
@@ -57080,17 +57088,20 @@ costarg.com
 cqisam.xyz
 crjeymh.cn
 ctlrarz.xyz
+ctmrso.xyz
 cvbjctqs.xyz
 cvgrszkg.xyz
 cvnxetmq.xyz
 cvudqzoa.xyz
 cwssfg632.shop
 cxlvlbx.xyz
+damiul.icu
 dawdlealmonry.com
 ddielv.cn
 delhirs.com
 diccsbhij.com
 difmnd.xyz
+djxpnuo.xyz
 dkjwbv.xyz
 dqhxmbx.cn
 dsbqvj.xyz
@@ -57146,6 +57157,7 @@ ijvla.cn
 imevzbn.cn
 inifdlao.top
 inworket.com
+irayedo.cn
 ivbgpax.cn
 jbmfldt.cn
 jflwhf.xyz
@@ -57179,6 +57191,7 @@ mdhv3.icu
 misjgy.xyz
 mlhtr.cn
 mondigo.cn
+mrtxtrq.xyz
 mthhhuq.cn
 mtwmuy.xyz
 mxeq.cn
@@ -57193,6 +57206,7 @@ nplahh.xyz
 nsjnmx.icu
 nvdtdsd.xyz
 nyt5j.cyou
+o1b04.cyou
 obturex.com
 ocggec.xyz
 ogznfgl.cn
@@ -57213,10 +57227,13 @@ pjzxdl.xyz
 pnxtnp.xyz
 przbzr.xyz
 pwhtip.icu
+pxzrlf.xyz
 qbhzghb.xyz
 qcohkm.xyz
 qhocciks.com
+qhodog.xyz
 qlbbowx.xyz
+qnifdlay.top
 qqkkpos.com
 qrkhwe.xyz
 qrttfmo.cn
@@ -57282,6 +57299,7 @@ uiqcf.cn
 ulwfys.xyz
 usltmus.cn
 uu22662.com
+uuvzmba.cn
 uxlvk.cn
 uxrdg.cn
 vdvcjlp.cn
@@ -57292,9 +57310,11 @@ vszzzj.xyz
 vxfdepn.cn
 wbubgob.cn
 wbvfj.xyz
+wefihob.cn
 wisealty.com
 wjwod.cyou
 wkywrc.cn
+wnifdlae.top
 wnmaoc.xyz
 wopvmmy.cn
 wqcfg.cn
@@ -57304,6 +57324,7 @@ xdfhidrk.xyz
 xdmnlxtu.xyz
 xdrvkdni.xyz
 xdybwjpa.xyz
+xhbshv.xyz
 xhfxtqt.xyz
 xklofoz.cn
 xklrsj.icu
@@ -57337,27 +57358,22 @@ zhaweifeng.com
 zhihucloud.xyz
 zjrtxt.xyz
 znhlxvb.xyz
-qhodog.xyz
-uuvzmba.cn
-zwxxcb.icu
-mrtxtrq.xyz
-wnifdlae.top
-pxzrlf.xyz
-wefihob.cn
-ctmrso.xyz
-0op8kh.cn
-qnifdlay.top
-damiul.icu
-xhbshv.xyz
-djxpnuo.xyz
-irayedo.cn
-o1b04.cyou
 zojyob.icu
+pbbhhxm.xyz
+xrdqdd.xyz
+0oqt9i.cn
+ofkcww.xyz
+tnifdlai.top
+udykkl.cn
+hkbumv.icu
+kssolo.com
+ldgjwdohqbi.xyz
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
 zuvbzl.xyz
+zwxxcb.icu
 01v62.xyz
 052db.website
 053h94.com
