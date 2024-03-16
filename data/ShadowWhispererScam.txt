@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Sat, 16 Mar 2024 16:58:40 +0000
+# Last converted - Sat, 16 Mar 2024 20:58:32 +0000
 #
 
 007-dvd.com
@@ -6206,6 +6206,7 @@ jlnsdynamic.com
 jm-adultere.com
 jm-date.com
 jmfamilyfarmpuppieshomes.co.za
+jm-fetichistes.com
 jmgo.com
 jm-plancul.com
 jm-plan-rapide.com
