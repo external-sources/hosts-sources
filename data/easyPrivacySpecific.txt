@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 17 Mar 2024 04:58:28 +0000
+# Last converted - Sun, 17 Mar 2024 08:58:32 +0000
 #
 
 a-reporting.nytimes.com

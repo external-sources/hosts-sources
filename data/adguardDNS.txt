@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 17 Mar 2024 04:57:56 +0000
+# Last converted - Sun, 17 Mar 2024 08:58:05 +0000
 #
 
 pekroace.net
@@ -51337,6 +51337,7 @@ analytics.smhi.se
 analytics.sunet.se
 analytics.svenskdam.se
 analytics.svt.se
+analytics.teknikveckan.se
 analytics.undeco.se
 analytics.vackertvader.se
 analytics-smhise.smhi.se
@@ -51571,6 +51572,7 @@ petrk.com
 pixel-profile-cloud.eniro.com
 platform-api.sharethis.com
 plus.sharedcount.com
+pm.azerioncircle.com
 popitunder.com
 portalhc.com
 proxyas.com
@@ -57380,6 +57382,10 @@ ariqye.xyz
 fbfrbt.xyz
 dzfzak.cn
 dryden.cn
+btfzbak.xyz
+pa4ye.cyou
+lulgef.icu
+fhtfnb.xyz
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz
