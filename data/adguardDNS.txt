@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 17 Mar 2024 08:58:05 +0000
+# Last converted - Sun, 17 Mar 2024 12:58:12 +0000
 #
 
 pekroace.net
@@ -214,7 +214,6 @@ allprofitsurvey.top
 bloxplay.com
 berangkasilmu.com
 zusepe.xyz
-cdn.applixir.com
 selfishmourninhabitants.com
 monsy.com
 fireworkadservices1.com
@@ -37315,6 +37314,7 @@ apex-ad.com
 apexcdn.com
 aphookkensidah.pro
 apmebf.com
+applixir.com
 appnext.com
 apprupt.com
 apptap.com
@@ -46705,6 +46705,7 @@ analyticsehnwe.servicebus.windows.net
 analyticssec.overwolf.com
 ao-freegeoip.herokuapp.com
 api-analytics-prd.pelcro.com
+api.country.is
 api.wipmania.com
 app.adjust.com
 apple.www.letv.com
@@ -57386,6 +57387,9 @@ btfzbak.xyz
 pa4ye.cyou
 lulgef.icu
 fhtfnb.xyz
+drummers.cn
+zailgrae.com
+uljoifw.cn
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz
