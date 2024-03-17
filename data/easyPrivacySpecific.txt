@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 17 Mar 2024 08:58:32 +0000
+# Last converted - Sun, 17 Mar 2024 12:58:43 +0000
 #
 
 a-reporting.nytimes.com
@@ -168,11 +168,13 @@ dot.nonolive.com
 dp.shoprunner.com
 dtag.breadfinancial.com
 dumpster.cam4.com
+e.quizlet.com
 ea.epochbase.com
 ec.thredup.com
 edge.staging.fullstory.com
 eec.crunchyroll.com
 ejlytics.editorji.com
+el.quizlet.com
 engagefront.meteomedia.com
 engagefront.theweathernetwork.com
 engagement.feedly.com
