@@ -1,7 +1,7 @@
 # PhishingDatabase
 #
 # Converted from - https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
-# Last converted - Sun, 17 Mar 2024 04:58:36 +0000
+# Last converted - Sun, 17 Mar 2024 08:58:38 +0000
 #
 
 0-i-fdik.000webhostapp.com
@@ -44777,7 +44777,6 @@ oferticas.com
 ofertmaga.com
 ofertodomesunica.com
 oferty.autoszwajcaria.pl
-off---line.com
 off-the-cuff-examin.000webhostapp.com
 offaltummy.co.kr
 offcampusdrivepune.top
