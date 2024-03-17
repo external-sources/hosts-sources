@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 16 Mar 2024 20:57:54 +0000
+# Last converted - Sun, 17 Mar 2024 01:41:18 +0000
 #
 
 pekroace.net
@@ -57374,6 +57374,12 @@ zhihucloud.xyz
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
+hendehy.com
+unifdlat.top
+ariqye.xyz
+fbfrbt.xyz
+dzfzak.cn
+dryden.cn
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz
