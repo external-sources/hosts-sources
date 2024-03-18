@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Mon, 18 Mar 2024 13:00:56 +0000
+# Last converted - Mon, 18 Mar 2024 16:58:30 +0000
 #
 
 01counter.com
@@ -3075,6 +3075,7 @@ analytic.goexpats.com
 analytic.greensoft.mn
 analytic.growghana.org
 analytic.hain.li
+analytic.hayaservice.com
 analytic.hdr-media.de
 analytic.hinatarin.com
 analytic.holly-hechelt.de
@@ -3096,6 +3097,7 @@ analytic.lebenslust-jetzt.de
 analytic.lebenslust-jetzt.org
 analytic.lionbit.com
 analytic.liulp.club
+analytic.longwoods.com
 analytic.loylty.com
 analytic.mapban.eu
 analytic.mapban.gg
@@ -3203,6 +3205,7 @@ analytics-3.aasaam.com
 analytics.3blmedia.com
 analytics.3bsystems.com
 analytics.3c-carbon-group.com
+analytics3.dacadoo.com
 analytics.3d-cnc-tischlerei-cluse.de
 analytics.3divi.com
 analytics.3divi.ru
@@ -3316,6 +3319,7 @@ analytics.acetime.net
 analytics.ac-foto.com
 analytics.acgnx.net
 analytics.acgnx.se
+analytics.achso-app.de
 analytics.achterhoek.cloud
 analytics.achtungshow.biz
 analytics.acisweb.org
@@ -3391,6 +3395,7 @@ analytics.a-five.de
 analytics.aflds.dev
 analytics.afm-koeln.de
 analytics.af.peachylips.com
+analytics.afrinic.net
 analytics.afrivelle.com
 analytics.agamus.it
 analytics.agarobak.com
@@ -3510,6 +3515,7 @@ analytics.alogic.com
 analytics.aloha-ayurveda.de
 analytics.alpencams.net
 analytics.alpenverein-rotthalmuenster.de
+analytics.alphadevops.org
 analytics.alpha-dice.de
 analytics.alpinebroadband.com
 analytics.alsetic.fr
@@ -3776,6 +3782,7 @@ analytics.arnewingbermuehle.com
 analytics.arnmk.com
 analytics.arpae.it
 analytics.ar.peachylips.com
+analytics.arpent.co.uk
 analytics.arrel.cloud
 analytics.arri.com
 analytics.arrivalguides.com
@@ -3855,6 +3862,7 @@ analytics.atomi.co.il
 analytics.atomicx1.com
 analytics.atracktiv.com
 analytics.attacke-kopfschmerzen.de
+analytics.attemic-apps.com
 analytics.attentif.ch
 analytics.attractivemedia.de
 analytics.atypiccraft.com
@@ -3928,6 +3936,7 @@ analytics.awo-lemgo.de
 analytics.awowiesbaden.de
 analytics.awsli.com.br
 analytics.axeljorgensen.com
+analytics.axenso.com
 analytics.axess.fr
 analytics.axiom-team.fr
 analytics.axl.one
@@ -3968,6 +3977,7 @@ analytics.baharcms.ir
 analytics.bahlsen.promo
 analyticsbaidu.com
 analytics.baiedequiberon.bzh
+analytics.baijen.com
 analytics.baki.app
 analytics.bale.media
 analytics.ballance-concepts.de
@@ -3977,6 +3987,7 @@ analytics.band-aid.com
 analytics.bandiga.it
 analytics.bange-verlag.de
 analytics.banijay.com
+analytics.bankenverband.de
 analytics.bankomatfinder.at
 analytics.bannach.ch
 analytics.banquetcreative.com.au
@@ -4616,6 +4627,7 @@ analytics-cdn.prensaiberica.es
 analytics-cdn.redbubble.com
 analytics.cdnweb.info
 analytics-cdn.xmaxdata.com
+analytics.cebin.info
 analytics.cec.philips.com
 analytics.cedejot.net
 analytics.cego-online.de
@@ -5209,6 +5221,7 @@ analytics.dbdigi.com
 analytics.dbf.ovh
 analytics.dceserver.de
 analytics.dc-fotografie.de
+analytics.dc-mh.de
 analytics.dcreative.nl
 analyticsdcs.ccs.mcafee.com
 analytics.dd-admin.de
@@ -5273,6 +5286,7 @@ analytics.dennis-dorsch.de
 analytics.dennissmink.com
 analytics.dennis-wilke.de
 analytics.denniswisnia.com
+analytics.densou.dk
 analytics.dentalaegis.com
 analytics.dentalespace.com
 analytics.dental-materials.community
@@ -5295,11 +5309,13 @@ analytics.derwisch.de
 analytics.desagaz.com
 analytics.desgrange.net
 analytics.desica.uk
+analytics.designkarussell.com
 analytics.designlovers.de
 analytics.design-minds.de
 analytics.designspiration.com
 analytics.desktopcal.com
 analytics.deskyo.com
+analytics.desmos.com
 analytics.desmos.network
 analytics.despertrans.com
 analytics.dessineleweb.fr
@@ -5320,6 +5336,7 @@ analytics.devattendant.de
 analytics.dev.caleffi.ci.sparkfabrik.cloud
 analytics.devcon.cc
 analytics.devcon.team
+analytics.devcore.se
 analytics.dev.eismartlink.com
 analytics.develop2grow.com
 analytics.developepper.com
@@ -5347,6 +5364,7 @@ analytics.dev.vreuls.com
 analytics.dewaslot.app
 analytics.dexalo.de
 analytics.dext.de
+analytics.dezion.net
 analytics.df5si.com
 analytics.dfab.ch
 analytics.dfh-ufa.org
@@ -5497,6 +5515,7 @@ analytics.domlogix.net
 analytics.domodeco.fr
 analytics.dompfarreiengemeinschaft.de
 analytics.dompie.de
+analytics.domra.de
 analytics.domverein-magdeburg.de
 analytics.donalds.co.za
 analytics.donkeyjump.co.uk
@@ -6088,6 +6107,7 @@ analytics.finonet.de
 analytics.finqu.com
 analytics.fintech-concepts.de
 analytics.finto.fi
+analytics.fiohost.com.br
 analytics.fippev.de
 analytics.fir.de
 analytics.firefly-iii.org
@@ -6182,6 +6202,7 @@ analytics.foodabout.org
 analytics.foodcalculator.de
 analytics.foodnetwork.com
 analytics.foolsubs.com
+analytics.football360.ir
 analytics.footballdb.com
 analytics.footballerista.com
 analytics.footballseeding.com
@@ -6273,6 +6294,7 @@ analytics.friedrichshafen.de
 analytics.friendly.is
 analytics.friesenenterprises.com
 analytics.frinbr.com
+analytics.fris.de
 analytics.friseure-ruesgen.de
 analytics.frogtek.org
 analytics.frontandbackend.com
@@ -6336,6 +6358,7 @@ analytics.gamearea.fr
 analytics.gamedayapp.se
 analytics.gamepix.com
 analytics.gamerzoasis.com
+analytics.gamesdrive.net
 analytics.gamezoom.net
 analytics.gamua.com
 analytics.gandi.net
@@ -6720,6 +6743,7 @@ analytics.heart-bits.com
 analytics.heartofthecontinent.org
 analytics.heartstreak.com
 analytics.heathen.pl
+analytics.heavytruckparts.net
 analytics.hebela.vn
 analytics.heberlink.de
 analytics.hebling.eu
@@ -6753,6 +6777,7 @@ analytics.henryclaire.com
 analytics.henry-technologies.de
 analytics.hentaiclub.net
 analytics.heos.media
+analytics.heritageweb.com
 analytics.hermanndettmann.de
 analytics.hermes.ovh
 analytics.heronitec-solutions.de
@@ -6816,6 +6841,7 @@ analytics.hobo.fi
 analytics.hoche-avocats.com
 analytics.hochschuldidaktik.net
 analytics.hockeygametheory.com
+analytics.hockeymikey.com
 analytics.hoerbehindert.ch
 analytics.hoergeraete-seifert.de
 analytics.hoest.eu
@@ -6839,6 +6865,7 @@ analytics.honkomp-gmbh.de
 analytics.honzanet.cz
 analytics.hoofdstraat81.nl
 analytics.hoopy.be
+analytics.hopeplatform.org
 analytics.horizonesport.net
 analytics.horizon-prevoyance-patrimoine.com
 analytics.hospiz-rhein-selz.org
@@ -7021,6 +7048,7 @@ analytics.imbik.hfk-bremen.de
 analytics.imb-managementberatung.de
 analytics.imbu.nl
 analytics.imedia8.com
+analytics.imirwin.com
 analytics.immes-visuals.de
 analytics.immobilienbesitzer-muenchen.de
 analytics.immo-express.at
@@ -7205,6 +7233,7 @@ analytics.iskamimot.com
 analytics.islamiccenterofvallejo.org
 analytics.isleofmanmotormuseum.com
 analytics.islesurfandsup.com
+analytics.islide.cc
 analytics.islippin.com
 analytics.isn-systems.com
 analytics.isoconn-cm.com
@@ -7227,6 +7256,7 @@ analytics.itens.sk
 analytics.itfs.com.ar
 analytics.itgen.com.br
 analytics.it-hueffer.de
+analytics.itinnove.com
 analytics.itjh.de
 analytics.itll.de
 analytics.itm-systems.com
@@ -7327,6 +7357,7 @@ analytics.jeffbannister.com.au
 analytics.jemediacorp.com
 analytics.jemont.com
 analytics.jensarnold.com
+analytics.jeoway.com
 analytics.jepublichealth.com
 analytics.jeremiepoiroux.com
 analytics.jeroenvreuls.nl
@@ -7507,6 +7538,7 @@ analytics.katehildenbrand.com
 analytics.kath-hechingen.de
 analytics.kathi-traut-euch.de
 analytics.kath-kirche-nordost.de
+analytics.katholisch-diedorf.de
 analytics.katholische-akademie-berlin.de
 analytics.katholisch-fuessen.de
 analytics.katuka.de
@@ -7922,6 +7954,7 @@ analytics.lightbase.io
 analytics.lightspoke.com
 analytics.lightyearsoftware.com
 analytics.liine.com
+analytics.liiv.solutions
 analytics.likefont.com
 analytics.lilaquadrat.de
 analytics.lil.tools
@@ -8035,6 +8068,7 @@ analytics.lrnet.de
 analytics.lsk-engineering.at
 analytics-ls.stridelearning.com
 analytics.lt-goldankauf.de
+analytics.lt.lv
 analytics.ltweeboom.com
 analytics.ltwsolutions.com
 analytics.lubeclean.ca
@@ -8126,6 +8160,7 @@ analytics.mainstreamtv.in
 analytics.mainter.ro
 analytics.maishameds.org
 analytics.maisondumonde.org
+analytics.maisonetcampagne.ca
 analytics.maison-rivalland-larochelle.fr
 analytics.majestic.com
 analytics.majeure.io
@@ -8166,6 +8201,7 @@ analytics.manager.it
 analytics.mandaatti.fi
 analytics.mandala-vibratoire.fr
 analytics.mandala.zone
+analytics.mangahigh.com
 analytics.manholebuddy.net
 analytics.mann-o-meter.de
 analytics.mantrapm.com
@@ -8488,6 +8524,7 @@ analytics.minitube.de
 analytics-min-nba.yinzcam.com
 analytics.minnow.it
 analytics.minoriti.sk
+analytics.minor-kontor.de
 analytics.mino-siena.de
 analytics.mintcream.gr
 analytics.mintmunk.com
@@ -8622,6 +8659,7 @@ analytics.mp3tag.de
 analytics.mpfciudad.gob.ar
 analytics.mpihq.com
 analytics.mpi.nl
+analytics.mplatform.io
 analytics.mpndistribution.com
 analytics.mprofiag.ch
 analytics.mprofiag.de
@@ -8634,6 +8672,7 @@ analytics.mrhn.de
 analytics.mrktsprk.com
 analytics.mrodrigue.dyjix.fr
 analytics.mrupp.eu
+analytics.ms0688.qsrv.de
 analytics.ms0.co.uk
 analytics.ms-architecte.fr
 analytics.mschraub.de
@@ -9201,6 +9240,7 @@ analytics.osmoziswifi.com
 analytics.osn.com
 analytics.osobrand.net
 analytics.osoz.ch
+analytics.ossupstream.org
 analytics.ostalbkreis.de.production-2.oneba.se
 analytics.osteolia.com
 analytics.ostsee-expedition.de
@@ -9375,6 +9415,7 @@ analytics.perifem.oonops.eu
 analytics.perini.cc
 analytics.perpigare.fr
 analytics.pesieducation.com
+analytics.pesktop.com
 analytics.petalatino.com
 analytics.peta.org
 analytics.peterboroughmatters.co.uk
@@ -9450,6 +9491,7 @@ analytics.pinterest.com
 analytics.pioneersofchange.org
 analytics.pioniernetz.de
 analytics.piotraschke.io
+analytics.piotr.cz
 analytics.pipeline.page
 analytics.pirateparty.gr
 analytics.pirateparty.org.au
@@ -9637,6 +9679,7 @@ analytics.proteqtor.nl
 analytics.protontherapie-normandie.fr
 analytics.prototypr.io
 analytics.provello.co.uk
+analytics.provenplumbers.com
 analytics.provisio.com
 analytics.provitool.de
 analytics.proware.fr
@@ -9665,6 +9708,7 @@ analytics.puls13.com
 analytics.pulseheberg.io
 analytics.pulsundzeit.de
 analytics.pulvis.ch
+analytics.punchup.world
 analytics.pundr.de
 analytics.punkhosting.com
 analytics.punkpighosting.co.uk
@@ -9703,6 +9747,7 @@ analytics.qsalts.com
 analytics.qsistant.de
 analytics.quadtouren-spreewald.de
 analytics.qualispace.fr
+analytics.quantalys.it
 analytics.quanteviour.ch
 analytics.quanthealth.org
 analytics.quanti.io
@@ -9900,6 +9945,7 @@ analytics.retinad.com
 analytics.revantoptics.com
 analytics.revbits.com
 analytics.revengebucks.com
+analytics.reverseads.info
 analytics.revidd.tv
 analytics.revierwelt.de
 analytics.review-center.de
@@ -9946,6 +9992,7 @@ analytics.rita-friedl.de
 analytics.ritec-tv.de
 analytics.ritterknight.com
 analytics.riverbedmarketing.com
+analytics.rivercity.cz
 analytics.rivuletdigital.com
 analytics.rixner-brochier.de
 analytics.rizospastis.gr
@@ -10244,6 +10291,7 @@ analytics.scueeze.com
 analytics.sculpteo.com
 analytics.scummvm.org
 analytics.scw.systems
+analytics.sd-group.com.au
 analytics.sdhd.hosting
 analytics-sdk-api.pumpjackdataworks.com
 analytics-sdk.yle.fi
@@ -10394,6 +10442,7 @@ analytics.sharewood.team
 analytics.sharplaunch.com
 analytics.sharplaunchlabs.com
 analytics.sh-designs.de
+analytics.sheepdog.digital
 analytics.shein.com
 analytics.shemzone.com
 analytics.shephertz.com
@@ -10481,6 +10530,7 @@ analytics.singles-gemeinsam.de
 analytics.sinnoptics.de
 analytics.sip-notprod.homeoffice.gov.uk
 analytics.sirob.eu
+analytics-sis.daturex.de
 analytics.sisinternational.net
 analytics.sis-schwerin.de
 analytics.sistematlan.com
@@ -10912,6 +10962,7 @@ analytics.sundaymedia.de
 analytics.sunet.se
 analytics.sunflexasia.com
 analytics.sunsingle.de
+analytics.suntara.net
 analytics.supanova.nl
 analytics.supermoto-hessen.de
 analytics.superstation.com
@@ -11106,6 +11157,7 @@ analytics.tellick.nl
 analytics.tellusm.com
 analytics.tempest.dev
 analytics.tempolabs.com
+analytics.tenaya360.com
 analytics.tenckhoff.de
 analytics.tendielist.com
 analytics.tepuyburger.es
@@ -11341,6 +11393,7 @@ analytics.tourenaar.be
 analytics.tourismusnetz.com
 analytics.toutdo.com
 analytics.toutsimcities.com
+analytics.town.lv
 analytics.toyonut.co.jp
 analytics.tqsg.de
 analytics.trachtenkapelle-oberwolfach.de
@@ -11391,6 +11444,7 @@ analytics.trendform.ag
 analytics.trendfox.org
 analytics.trendico.net
 analytics.trendkraft.io
+analytics.trentinosviluppo.it
 analytics.treppenlift-zentrum.de
 analytics.triebwerk3.ch
 analytics.trilogie.de
@@ -11439,6 +11493,7 @@ analytics.tulz.co
 analytics.tumbles.net
 analytics.tumedico.com
 analytics.tuonetti.cloud
+analytics.tupalo.com
 analytics.turalt.com
 analytics.turbotoaster.de
 analytics.turbovpb.com
@@ -11466,6 +11521,7 @@ analytics.tweb-dev.unibo.it
 analytics.twelvegrimmauldplace.fr
 analytics.twenty.blue
 analytics.twigi.de
+analytics.twincreekmedia.com
 analytics.twinhosting.nl
 analytics.twinklestep.de
 analytics.twinter.eu
@@ -11674,6 +11730,7 @@ analytics.verbandtonic.com
 analytics.vereint-digital.de
 analytics.verifieddev.com
 analytics.verizonwireless.com
+analytics.verkeerscentrum.be
 analytics.verolind.de
 analytics.verseon.com
 analytics.versichertdigital.de
@@ -11761,6 +11818,7 @@ analytics.visualstudio.com
 analytics.visualvest.de
 analytics.visualworkplace.com
 analytics.vitaeco.it
+analytics.vitalsignstracker.com
 analytics.vitrend.de
 analytics.vivaverde.ma
 analytics.vivoqui.it
@@ -11981,6 +12039,7 @@ analytics.werbemanufaktur-hamburg.de
 analytics.werbemanufaktur-zug.ch
 analytics.werbschaft.de
 analytics.werbylo.com
+analytics.werk-raum.de
 analytics.werkstaetten-haushall.de
 analytics.werner-dosiertechnik.de
 analytics.westcentralus.prod.visitpay.com
@@ -12101,6 +12160,7 @@ analytics.wpengine.careers
 analytics.wpfabrik.com
 analytics.wpgaint.com
 analytics.wp-hausmeister.de
+analytics.wpspace.de
 analytics.wrisberg.org
 analytics.write.as
 analytics.write-it.com
@@ -12219,6 +12279,7 @@ analytics.ypme.de
 analytics.yrityssuomi.fi
 analytics.yro.jtc.mybluehost.me
 analytics.yrt.io
+analytics.yten.com
 analytics.yt.gl
 analytics.ytmp3.ch
 analytics.yts.vn
@@ -12228,6 +12289,7 @@ analytics.yugen.to
 analytics.yurylapitsky.com
 analytics.yves-apel.eu
 analytics.yvesapel.eu
+analytics.yv.wtf
 analytics.y-web.ch
 analytics.ywemedia.com
 analytics.zaflu.de
@@ -12699,6 +12761,7 @@ appmetr.com
 appmetrica.yandex.com
 appmetrica.yandex.net
 appmetrica.yandex.ru
+appmetrics.pilat.com
 appmetrix.com
 appneura.com
 appnext.com
@@ -13622,6 +13685,7 @@ bi1s9trk.com
 bia.com
 biakelsey.com
 bibliotheque.irht.cnrs.fr
+bicepsanalytics.com
 bidgear.com
 bidminer.com
 bidr.io
@@ -14412,6 +14476,7 @@ canid.innovatingchildrensservices.org
 canid.mestamaster.fi
 canid.peterakkies.net
 cannabis.salientsys.com
+canna-stats.com
 cannonjudo.com
 cannontwin.com
 canny.io
@@ -14548,6 +14613,7 @@ cat.sprucely.net
 cat.thisminute.app
 cat.tinylittlebusinesses.com
 cattle.apisyouwonthate.com
+cattlecommittee.com
 cattle.domaincomet.com
 cattle.driftbot.io
 cattle.elitecanines.com.au
@@ -19372,6 +19438,7 @@ faceinfo.dpsk12.org
 faceitanalytics.com
 face-stats.dollarshaveclub.com
 faceunity.com
+facilistats.com
 facilitategrandfather.com
 fact.ai
 factors.ai
@@ -19680,6 +19747,7 @@ flow.1passwordservices.com
 flow.aft.com
 flowersornament.com
 flowerstreatment.com
+flowerycreature.com
 floweryfact.com
 floweryflavor.com
 floweryoperation.com
@@ -19930,6 +19998,7 @@ fraudjs.io
 fraudlabspro.com
 fraudlogix.com
 fraudmetrix.cn
+frd-dws-piwik.mehrkanal.com
 frd-mms-matomo.mehrkanal.com
 free411.com
 freeappanalytics.com
@@ -19983,6 +20052,7 @@ friendlyanalytics.ch
 friendlyanalytics.io
 friendlyautomate.co
 friendly.ch
+friendlycrayon.com
 friendlyfold.com
 friendwool.com
 frightenedpotato.com
@@ -20301,6 +20371,7 @@ geoip.radio-canada.ca
 geoip.redirect-ads.com
 geoip.registersafely.com
 geoip-rest.ably.io
+geoip.scalefast.com
 geoip.secomtech.com
 geoip.securitetotale.com
 geoip.sezzle.com
@@ -20738,6 +20809,7 @@ goals101.ai
 go-apac.mrisoftware.com
 go-apac-news.sika.com
 goat.aicontentdojo.com
+goat.bchrd.ca
 goat.blahdns.com
 goat.codeofar.ms
 goatcounter.com
@@ -26596,6 +26668,7 @@ lemming.nicolasmenard.com
 lemming.scottspence.com
 lemming.vivian.do
 lemnisk.co
+lemonsanalytics.dk
 lemur.a-and-a-trucking.com
 lemur.bendaron.com
 lemur.joliebulle.org
@@ -28511,6 +28584,7 @@ matomo.ad-sys.de
 matomo.adt.alsace
 matomo.advicemedia.com
 matomo.advicted.com
+matomo.ae2agence.com
 matomo.aeins.at
 matomo.aeksbg.at
 matomo.aenow.com
@@ -28537,6 +28611,7 @@ matomo.airportreisen.de
 matomo.airvers.com
 matomo.aisw.tv
 matomo.ajur.info
+matomo.akbal.dev
 matomo.akimedia.eu
 matomo.akquinet.com
 matomo.aksorn.com
@@ -28693,6 +28768,7 @@ matomo.baharcms.ir
 matomo.balsatic.fr
 matomo.baluartesystem.com
 matomo.baningo.net
+matomo.bantheme.xyz
 matomo.barangayhub.ph
 matomo.bartenbach.leadxperience.de
 matomo.baseplus.de
@@ -28996,6 +29072,7 @@ matomo.daseinslabor.net
 matomo.das-ist-thueringen.de
 matomo.data4life.care
 matomo.datacruit.com
+matomo.datago.ru
 matomo.dataplatform.nl
 matomo.datenhelden.com
 matomo.datenkollektiv.net
@@ -29114,6 +29191,7 @@ matomo.domicil.online
 matomo.domus-cura.de
 matomo.dopa.at
 matomo.dose-hosting-4.de
+matomo.dos-online.de
 matomo.dotdot.my
 matomo.dotenterprise.com
 matomo.dotnetfabrik.de
@@ -29199,6 +29277,7 @@ matomo.engagemedia.org
 matomo.englisch-hdh.de
 matomo.enlaps.io
 matomo.ennemoser-advertising.at
+matomo.ennit-app.de
 matomo.enolane.com
 matomo.entrouvert.org
 matomo.envirology.co.nz
@@ -30919,6 +30998,7 @@ matomo.ulysses.app
 matomo.umdieecke.at
 matomo.umg.eu
 matomo.umg.photo
+matomo.um.wroc.pl
 matomo-unibas.hosting.stucki.io
 matomo.unicaf.org
 matomo.uni-hamburg.de
@@ -32288,6 +32368,7 @@ metrics.dcshoes.com
 metrics.defenseone.com
 metrics.delhaizedirect.be
 metrics.delicious.com.au
+metrics.delocal.hu
 metrics.deltadentalwi.com
 metrics.deltafarmpress.com
 metrics.delwebb.com
@@ -33952,6 +34033,7 @@ mtm.betus.com.pa
 mtm.castr.com
 mtm.fliegende-pillen.de
 mtm.hbhhslzp.com
+mtm.httptest.de
 mtm.nrjnet.de
 mtm.ntl.cloud
 mtmo.gensuite.com
@@ -33979,6 +34061,7 @@ mtrs.fluor.com
 mtrs.fluorconstructors.ca
 mtrs.fluorconstructors.com
 mtrs.virtainc.com
+mt.wellblue.com
 mtx.xeroshoes.com
 muchostr4ffic.com
 muddledaftermath.com
@@ -34190,6 +34273,7 @@ naar.edmondhalley.nl
 nablasol.com
 na.brenntag.com
 n.accessmylibrary.com
+na.fertila.de
 nagios.soft-com.biz
 na.goepson.com
 nagoya-lp.kumamoto-energy.co.jp
@@ -35241,6 +35325,7 @@ overnodes.com
 overratedchalk.com
 overtonmetrics.de
 overwolf-analytics.tracker.network
+owa.agriprim.se
 owa.carhartt.com
 owal.io
 owa.oasisadvantage.com
@@ -35748,6 +35833,7 @@ pa.ashisuto.co.jp
 paas-push-api-log.immomo.com
 pacaio.match.qq.com
 pac-analytics.s3-us-west-1.amazonaws.com
+pa.carlosfelic.io
 paciolanmail.com
 packet-responder.ff.avast.com
 paclonanalytics.com
@@ -36973,6 +37059,7 @@ piwik.2watt.net
 piwik2.websuite.de
 piwik.32fly.com
 piwik.3720.co.uk
+piwik.3banken.net
 piwik.3ebra.com
 piwik.3-seitenmarkise.de
 piwik.3st-digital.net
@@ -38040,6 +38127,7 @@ piwik.dev-man.de
 piwik.dev-neveling.net
 piwik.dev-null.at
 piwik.dev.passionfive.de
+piwik.dev.quentn.com
 piwik.dev-xarevision.com
 piwik.devxpert.de
 piwik.dewaal.it
@@ -40921,6 +41009,7 @@ piwik.rz.uni-duesseldorf.de
 piwik.rz.uni-frankfurt.de
 piwik.rz.uni-jena.de
 piwik.s101.sinkov.net
+piwik.s11.de
 piwik.s1.centralmedia-solutions.de
 piwik.s2.centralmedia-solutions.de
 piwik.s5.gorisek.org
@@ -41165,10 +41254,12 @@ piwik.smartb2b.eu
 piwik.smartcounter.ch
 piwik.smartdouran.com
 piwik.smart-mt.at
+piwik.smbit.it
 piwik.smbsolutions.dk
 piwik.smilehouse.de
 piwik.smint.no
 piwik.smit.ee
+piwik.smoke-signal.us
 piwik.smool.de
 piwik.smop.fail
 piwik.smorlow.net
@@ -43802,6 +43893,7 @@ plausible.equinux.net
 plausible.essenheilt.de
 plausible.explorable.com
 plausible.ezrayellin.com
+plausible.fangamer.eu
 plausible.fcbinside.de
 plausible.felix.computer
 plausible.ferranfigueredo.com
@@ -44630,6 +44722,7 @@ putags.com
 putler.com
 puzzlingproperty.com
 pvd.to
+p.veliainn.com
 pview.gomtv.com
 p.visiativ.com
 p-visitor-tracking.s3.ap-south-1.amazonaws.com
@@ -51451,9 +51544,11 @@ snowplow.onefootball.com
 snowplow.onsip.com
 snowplow.peddle.com
 snowplow-pixel.tradingview.com
+snowplow.prod.oneplatform.build
 snowplow.quintoandar.com.br
 snowplow.rhone.com
 snowplow.rossmann.pl
+snowplow.simplycook.com
 snowplow.suamusica.com.br
 snowplow.swm.digital
 snowplow.trx.gitlab.net
@@ -53039,6 +53134,7 @@ stat.castoretpollux.com
 stat.cateringmaja.ch
 stat.cateringvantaa.fi
 stat.cat.net
+stat.cctld.com
 stat.cdn-reichelt.de
 stat.centranet.pl
 stat.centreparamedicalcasteau.com
@@ -53185,6 +53281,7 @@ stat.emaks.net
 statementsweater.com
 stat.emiratesvoice.com
 stat.enchantry.dev
+stat.encodelabs.top
 stat.engenium.at
 stat.engineeringcloud.io
 stat.englishmanagement.fi
@@ -53633,6 +53730,7 @@ statistics.itm-lang.de
 statistics.jandj-solutions.us
 statistics.jobswop.io
 statistics.joomlaheerenveen.nl
+statistics.kandelhardtech.de
 statistics.kapsid.de
 statistics.kibusch.de
 statistics.kittdev.com
@@ -53661,6 +53759,7 @@ statistics.naghshinehpars.com
 statistics.needstime.net
 statistics.netz-designer.de
 statistics.netzfrauen.org
+statistics.neumass.com
 statistics.newgenesys.eu
 statistics.nicklisch-wr.de
 statistics.nls-check.com
@@ -53728,6 +53827,7 @@ statistics.thechurchonline.com
 statistics.theodor-heuss-kolleg.de
 statistics.thinkeria.org
 statistics.thinktag.ch
+statistics.tivtools.de
 statistics.toyotairan.com
 statistics.trancefish.de
 statistics.transcript-verlag.de
@@ -53774,6 +53874,7 @@ statistik.avamboo.de
 statistik.bistum-fulda.de
 statistik.bmz.de
 statistik.bundestag.de
+statistik.co2online.de
 statistik.codemiq.at
 statistik.dohrmann-projekt.de
 statistik.dpsg-passau.de
@@ -54304,6 +54405,7 @@ stat.newprint.fi
 stat.newti.me
 stat.nexttrex.de
 stat.nfc21.de
+stat.nfon.com
 stat.nghugg.fi
 stat.nic.at
 stat.nordbox.net
@@ -54563,6 +54665,7 @@ stat.really.fi
 stat.rebootcode.ro
 stat.receptariusz.amara.pl
 stat.recherswil.ch
+stat.redstars.show
 stat.refugeelaw.fi
 stat.regendach.ch
 stat.regit.com.pl
@@ -54684,6 +54787,7 @@ stats.2iopenservice.com
 stats2.japendo.de
 stats.2.kitzhost.com
 stats2.klartextmedia.de
+stats2.koiouki.fr
 stats.2lm.sk
 stats2.marketingcafe.de
 stats2.migosens.de
@@ -54691,6 +54795,7 @@ stats.2ms-creation.com
 stats.2nis.net
 stats2.non.lt
 stats2.paradise-electric.eu
+stats2.prefdevelopers.com
 stats2.quraan.us
 stats2.radioarmonia.ro
 stats.2raumwelten.de
@@ -54707,6 +54812,7 @@ stats.2weeks.ch
 stats2.witrynka.pl
 stats2.xtreamlab.net
 stats.30flavors.com
+stats.327media.com
 stats.360news.co.za
 stats.3960.org
 stats.3dreams.com
@@ -55220,6 +55326,7 @@ stats.atlantis-press.com
 stats.atlasante.fr
 stats.atlashoster.net
 stats.atmosfere.news
+stats.atometic.fr
 stats.atomtigerzoo.com
 stats.atos.net
 stats.atout-site.com
@@ -55529,6 +55636,7 @@ stats.bix.hu
 stats.bizooc.com
 stats.bizpay.lk
 stats.bizweb.vn
+stats.bizzdesign.cloud
 stats.bjres.net
 stats.bkj.de
 stats.bkk-zf-partner.de
@@ -55543,6 +55651,7 @@ stats.blanquier.fr
 stats.blanquier.net
 stats.blauequelle.de
 stats.blenderbasics.com
+stats.blendernation.com
 stats.blep.cz
 stats.bleublancrose.com
 stats.blgp-architekten.ch
@@ -55908,6 +56017,7 @@ stats.cifaitalia.it
 stats.cigan.in
 stats.cigliola.com
 stats.cihar.com
+stats.cinemateket.no
 stats.ci-net-int.prod.webrunners.de
 stats.ci-net.prod.webrunners.de
 stats.cinfo.es
@@ -56001,6 +56111,7 @@ stats.codeme.de
 stats.codepoints.net
 stats.codersco.com
 stats.codespatial.io
+stats.codeur.com
 stats.coinpayments.net
 stats.coinversable.com
 stats.coko.foundation
@@ -56388,6 +56499,7 @@ stats.dgsrv.de
 stats.dgtf.de
 stats.dhde.de
 stats.dh-it.net
+stats.diabetes.nl
 stats.dial.community
 stats.dial.de
 stats.diamondyacca.com
@@ -56414,6 +56526,7 @@ stats.digital-avocat.fr
 stats.digitalchalk.com
 stats.digitale-lernumgebung.de
 stats.digitales-deutsches-frauenarchiv.de
+stats.digitalforce.nl
 stats.digitalhorizon.uk
 stats.digitalimagination.com
 stats.digitallaut.at
@@ -56430,6 +56543,7 @@ stats.digitree.cz
 stats.dignelesbains.fr
 stats.digoplan.com
 stats.dijon-parle-anglais.fr
+stats.diltech.com
 stats.dimabu.de
 stats.dimboy.com
 stats.dioceseparis.fr
@@ -56495,6 +56609,7 @@ stats.dogyun.com
 stats.doks-innovation.com
 stats.doll-ws.com
 stats.dolni-bousov.cz
+stats.dolniujezd-knihovna.cz
 stats.domaine-andre-brunel.com
 stats.domaine-andrebrunel.com
 stats.domaine-andre-brunel.fr
@@ -56958,6 +57073,7 @@ stats.feg-wetzlar.de
 stats.felicien.io
 stats.felinn.org
 stats.felino.co.uk
+stats.felixbreuer.me
 stats.felixinx.me
 stats.felixrender.com
 stats.fellecs-tech.net
@@ -57023,6 +57139,7 @@ stats.fishersci.com
 stats.fishersci.de
 stats.fishersci.it
 stats.fishfarm.de
+stats.fishreports.com
 stats.fiskeridir.no
 stats.fitforlife-coach.de
 stats.fitkurs.de
@@ -57068,6 +57185,7 @@ stats.flying-sphinx.com
 stats.fm-g.eu
 stats.fm.net
 stats.fnh.org
+stats.fn.no
 stats.fnoobtechno.com
 stats.fnordserver.eu
 stats.fnorm.de
@@ -58076,6 +58194,7 @@ stat.siukonen.com
 stat.siukonen.fi
 stats.iunds.com
 stats.iutsn.fr
+stats.ivangavrilov.com
 stats.ivanhercaz.com
 stats.ivan.urltemporal.com
 stats.ivpn.net
@@ -58443,6 +58562,7 @@ stats.kosmoglobal.com
 stats.koumoul.com
 stats.kp-net.eu
 stats.k-prod.fr
+stats.kraftech.io
 stats.kraftl.at
 stats.krakoukass.org
 stats.krankengymnastik-buchner.de
@@ -58933,6 +59053,7 @@ stats.mbvd-classicpartner.de
 stats.mbwit.com
 stats.mcgriff.com
 stats.mc-healthcare.de
+stats.mchstech.org
 stats.mcleodgaming.com
 stats.mclogs.com
 stats.mcmm.com
@@ -59414,6 +59535,7 @@ stats.nextpower.pt
 stats.next-reality.de
 stats.nextron.ch
 stats.nexxar.com
+stats.nfi.no
 stats.nforcesolutions.com
 stats.nhg.org
 stats.nhgstat-test10.prolocation.net
@@ -59582,6 +59704,7 @@ stats.oliver-granicky.de
 stats.olivertempel.de
 stats.olivierpierre.net
 stats.oliwah.de
+stats.olki.com.pl
 stat.solomatin.in.ua
 stats.olyusei.com
 stats.omahasteaks.com
@@ -59623,6 +59746,7 @@ stats.opciweb.nl
 stats.opco.ca
 stats.openconcept.no
 stats.opendoor.fr
+stats.openenergy.org.uk
 stats.openerotik.com
 stats.openflighthpc.org
 stats.openinternetproject.org
@@ -59667,6 +59791,7 @@ stats.originesrpg.net
 stats.oriole.webarch.net
 stats.orizzontescuola.it
 stats.orl-tahiti.com
+stats.orokom.com
 stats.orpin.in
 stats.orpininternational.com
 stats.orsenna.org
@@ -60004,6 +60129,7 @@ stats.primaprofi.de
 stats.prime-benefits.com
 stats.princeoftyrus.com
 stats.prismm.net
+stats.privacy-focused.com
 stats.privacyguides.net
 stats.privatni-zona.cz
 stats.privatradio.org
@@ -61030,6 +61156,7 @@ stats.tankbillig.in
 stats.tanknotes.com
 stats.tankstelle-velmede.de
 stat.stanner-damian.de
+stats.tantely.bio
 stats.tao-harmonie.ch
 stats.taotic.eu
 stats.tapiren.se
@@ -61631,6 +61758,7 @@ stats.vr-smart-finanz.de
 stats.vrtlr.de
 stats.vsknet.com
 stats.vsmimagescreation.fr
+stats.vsupalov.com
 stats.vszdrav.cz
 stats.vtlog.net
 stats.vulga.athanael.com
@@ -61701,6 +61829,7 @@ stats.webarch.net
 stats.webbastelbude.de
 stats.web-bits.net
 stats.webboothhosting.co.uk
+stats-web.bretagne.bzh
 stats.webclicktracer.com
 stats.webcoast.dk
 stats.webcollectivites.fr
@@ -61830,6 +61959,7 @@ stats.williamoneil.com
 stats.williamsnewyork.com
 stats.williamstreetbasement.com
 stats.willit.fail
+stats.wilma.events
 stats.wilstuff.com
 stats.wimmer.dev
 stats.windscribe.com
@@ -61952,6 +62082,7 @@ stats.yellowphoenix18.de
 stats.yellowscarf.org.uk
 stats.yelter.com
 stats.yendesign.pl
+stats.yetaga.in
 stats.ymedia.at
 stats.ymmv.pl
 stat.synapsy.net
@@ -64053,6 +64184,7 @@ track.alltags.net
 trackalyzer.com
 track.americansongwriter.com
 track.angelscare.org.ua
+track.angelstudios.com
 track.annspeech.com
 track-api.klickly.com
 track.apotheosistech.com
@@ -64277,6 +64409,7 @@ tracker.tubecj.com
 tracker.twofive25.com
 tracker.unibase.ru
 tracker-v4.gamedock.io
+tracker.venasoft.com
 tracker.vinalda.pt
 tracker.watsons-property.co.uk
 tracker.wild.org
@@ -64392,6 +64525,7 @@ trackingb2b.com
 tracking.barcodesinc.com
 tracking.bauermedia.co.uk
 tracking.beocondis-apps.de
+tracking.bestseoplans.com
 tracking.bigdoor24.pl
 tracking.binaco.de
 tracking.bloomberg.com
@@ -64572,6 +64706,7 @@ tracking.prd.mz.internal.unity3d.com
 tracking.projekte-leicht-gemacht.de
 tracking.prophix.com
 tracking.protective.com
+tracking.pulsehealth.tech
 trackingq.de
 tracking.rabbits.world
 tracking.rauchwetter.com
@@ -64671,6 +64806,7 @@ tracking.winwinza.com
 tracking.wirtschaftswerkstatt.de
 tracking.wordgenius.com
 tracking.wpnetwork.eu
+tracking.wvg-online.de
 tracking.xcite.com
 track.inmemoryofme.fr
 track.inspirage.com
@@ -64772,9 +64908,11 @@ track.plumb5.com
 track.podolskaya.com.ua
 trackpoint.ibspoint.com
 track.ppe.fenixcommerce.com
+track.pramari.de
 track.prestiyou.it
 track.primeagencia.com.br
 track.promokon.com.ua
+track.proofreadanywhere.com
 track.punnel.com
 trackpup.com
 track.puppylychee.com
@@ -64932,6 +65070,7 @@ trafficmanager.com
 trafficmob.net
 trafficmp.com
 traffic.mplx.eu
+traffic.okfn.de
 traffic.ollo.it
 traffic.robey.one
 traffic.shiplift.dev
@@ -65111,6 +65250,7 @@ trk.farmprogress.com
 trk.fensi.plus
 trk.fidelizanet.com
 trk.findmanufacturingbuyers.com
+trk.floorplanner.com
 trk.food-management.com
 trk.funiber.org
 trk.gamecareerguide.com
@@ -65122,6 +65262,7 @@ trkingad.com
 trk.investacademy.net
 trklc.canadavetexpress.com
 trk.lcn.com
+trk.logic.expert
 trk.mail.ru
 trk.mddionline.com
 trk.mdeawards.com
@@ -65654,6 +65795,7 @@ umtrack.com
 unablehope.com
 unacast.com
 unaccountablepie.com
+unadvisedengine.com
 unagi-eu.amazon.com
 unagi-fe.amazon.com
 unagi-na.amazon.com
@@ -66220,6 +66362,7 @@ vwo.com
 vxh7fghi.com
 vxml4.plavxml.com
 vyrly.com
+vznrw-piwik.init-ag.de
 w00ttrk.com
 w020.newmilfordspectrum.com
 w132.franklinsports.com
@@ -66465,6 +66608,7 @@ web.araglegal.com
 web.atlasroofing.com
 webbanalys.msb.se
 web.bell.co.uk
+webbplatsanalys.goteborg.se
 web.brighttalk.com
 web.cachefly.com
 web-call-analytics.com
@@ -71564,6 +71708,7 @@ zakelijk.tritel.nl
 zalify.com
 zam.nextinpact.com
 z-analytics.net
+zanalytics.vip
 zango.com
 zapr.in
 zarget.com

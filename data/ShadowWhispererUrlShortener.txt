@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Mon, 18 Mar 2024 13:00:57 +0000
+# Last converted - Mon, 18 Mar 2024 16:58:31 +0000
 #
 
 010.at
@@ -460,6 +460,7 @@ comes.ee
 contra.dance
 cop.vn
 cortalo.net
+covgo.cc
 coz.de
 cpamax.in
 cph.bz
@@ -1795,6 +1796,7 @@ thinurl.com
 tick.news
 tiffanyandco-us.com
 tik.la
+tik.lol
 tiky.cc
 t.im
 tinu.be
