@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Mon, 18 Mar 2024 13:00:55 +0000
+# Last converted - Mon, 18 Mar 2024 16:58:30 +0000
 #
 
 007-dvd.com
@@ -3379,6 +3379,7 @@ distant-moon.net
 districtstrappers.com
 disttclarify.com
 diversev.com
+divine-wonder.com
 dixielandpups.com
 diybeauti.com
 dizzykittens.com
@@ -4372,6 +4373,7 @@ finallyabsent.com
 finalpath.org
 financial-marketsworld.com
 financialmarketsworld.com
+financietx.com
 findaasianlover.com
 findafucktonight.com
 findanasianlover.com

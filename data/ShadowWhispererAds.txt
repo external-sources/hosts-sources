@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 18 Mar 2024 13:00:51 +0000
+# Last converted - Mon, 18 Mar 2024 16:58:28 +0000
 #
 
 00px.net
@@ -2246,6 +2246,7 @@ adsadept.com
 ads.admiralibg.com
 ads.adrain.bg
 ads.adred.de
+ads.adsense.al
 ads.adsmarketing.pl
 ads.adunanza.net
 ads.advancedmanufacturing.org
@@ -2282,6 +2283,7 @@ ads.allenbrothers.co.uk
 ads.almakos.com
 ads.almanar-tv.org
 ads.almasdarnews.com
+ads.alobacsi.vn
 ads-alpha.ewscloud.com
 ads.alpha-it.nl
 ads.alqabas.com
@@ -2599,6 +2601,7 @@ ads.cxoinsightme.com
 ads.cyberctm.com
 ads.cydnoticias.mx
 ads.cytoday.eu
+ads.d2c.ne.jp
 ads.daara.co.kr
 ads.dahoam-kaufen.at
 ads.daidegasforum.com
@@ -2777,6 +2780,7 @@ adserve.impel.link
 adserve.iws.in
 adserve.jbs.org
 adserv.ekatelevision.com
+adserve.lasentinelle.mu
 adserve.live
 adserve.ltd
 adserve.media
@@ -2956,6 +2960,7 @@ adserver.dainikshiksha.com
 adserver.dd-media.de
 adserver.de
 adserver.deal-magazin.com
+adserver.dennisangenendt.de
 adserver.der-lausitzer.de
 adserver.designagency.gr
 adserver.designitnow.ltd
@@ -3035,6 +3040,7 @@ adserver.fireequipmentmexico.com
 adserver.fleet.com.pl
 adserver.flickstream.com
 adserver.fondsprofessionell.com
+adserver.foot24.tn
 adserver.forbes.ro
 adserver.forbondfansonly.com
 adserver.fortune-holding.com
@@ -3360,6 +3366,7 @@ adserver.theassociationpartner.net
 adserver.thelivinggod.online
 adserver.thepit.gg
 adserver.thesportsnewz.com
+adserver.thisdaylive.com
 adserver.timestechnet.com
 adserver.tinglytube.com
 adserver.today
@@ -3442,6 +3449,7 @@ adserv.gretor.net
 adserv.hardware-mag.de
 adserv.hasznaltauto.hu
 adserv.henrytek.com
+adservice.ccra.com
 adservice.com
 adservice.dk
 ad.service.faceiraq.com
@@ -3873,6 +3881,7 @@ ads.hackneycitizen.co.uk
 ads.hallka.com
 ads.hankooki.com
 ads.hansespace.de
+ads.hardwarebg.com
 adsharenetwork.com
 adshares.net
 adshark.xyz
@@ -3892,6 +3901,7 @@ ads.heytapmobile.com
 ad-shield.io
 ads.himia.bg
 ad.shinjuku-mens-chuoh.com
+ads.hiox.com
 ads.hir6.hu
 ads.hirextra.hu
 ads.hitparade.ch
@@ -4350,6 +4360,7 @@ ads.no
 ads.nocorspolicy.com
 ads.nocutnews.co.kr
 ads.nocutnews.co.kr.cdngc.net
+ads.nodengo.com
 ads.nodo9.com
 ads.nomojo.net
 ads.nooxlabs.fr
@@ -4395,6 +4406,7 @@ adsongo.com
 adsonica.com
 ads.online2pdf.com
 adsonpop.com
+ads.ooh.digital
 ads.opads.us
 ads.operiada.pl
 ads.ophyer.com
@@ -4480,6 +4492,7 @@ adspirit.com
 adspirit.de
 adspirit.info
 adspirit.net
+ads.pixercreative.com
 ads-pixiv.net
 ads.pixstash.net
 ads.pl
@@ -4569,6 +4582,7 @@ ads.ramsalt.com
 ads.randomexp.net
 ads.randomexp.net.cdn.cloudflare.net
 adsraves.com
+ads.rc-network.de
 ads.rcom.hu
 adsrecruit.com
 ads.red
@@ -9600,6 +9614,7 @@ game-advertising-online.com
 gamebassadors.net
 gamepills.com
 gamersad.com
+gamescdnfor.com
 gameserverads.com
 gamesfromheaven.com
 gamespipe.com
@@ -12107,6 +12122,7 @@ myhayo.com
 myimagetracking.com
 mylead.global
 myleadx.com
+myliveforyoudreder.com
 mymediashield.com
 mymilliondollarbiz.com
 myoads.com
@@ -16715,6 +16731,7 @@ warp90.com
 warpwrite.com
 warroominc.com
 waryboot.pro
+wasd.1agency.de
 wasp-182b.com
 watchmedia.biz
 watchtaro.com

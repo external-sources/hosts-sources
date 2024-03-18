@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 18 Mar 2024 13:00:42 +0000
+# Last converted - Mon, 18 Mar 2024 16:58:20 +0000
 #
 
 a-reporting.nytimes.com
@@ -534,6 +534,7 @@ track.mrgugu.com
 track.netzero.net
 track.sodapdf.com
 track.thesaurus.com
+track.ttsave.app
 track.ultimate-guitar.com
 tracker.affiliate.iqbroker.com
 tracker.nbcuas.com
