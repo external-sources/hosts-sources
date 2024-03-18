@@ -1,9 +1,11 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 18 Mar 2024 08:58:22 +0000
+# Last converted - Mon, 18 Mar 2024 13:00:11 +0000
 #
 
+aetgjds.com
+ndqkxjo.com
 pekroace.net
 vikaez.xyz
 nodreewy.net
@@ -39873,6 +39875,7 @@ adballoon.afreecatv.com
 deapi.afreecatv.com
 startup.mobile.yandex.net
 startup-mobile.ap.yandex-net.ru
+kiesta.net
 cdn-ads.tmap.co.kr
 downloadshi.b-cdn.net
 ads.rmbl.ws
@@ -40483,6 +40486,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+app.ardalio.com
 events-ingestion.services.gorgias.com
 accuratecoal.com
 sdk-cdn.optimove.net
@@ -43873,6 +43877,8 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+analytics.3c5.com
+unidentifiedanalytics.web.app
 t.poki.io
 p.armorgames.net
 analytics.crazygames.com
@@ -57398,6 +57404,9 @@ uqwbcm.xyz
 onifdlak.top
 nlhpxj.xyz
 rghqrj.xyz
+nljrvdh.xyz
+savionl.com
+dorper.cn
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz
