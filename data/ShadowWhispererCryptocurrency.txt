@@ -1,7 +1,7 @@
 # ShadowWhispererCryptocurrency
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency
-# Last converted - Mon, 18 Mar 2024 01:39:13 +0000
+# Last converted - Mon, 18 Mar 2024 04:58:44 +0000
 #
 
 10xbitcoin.com

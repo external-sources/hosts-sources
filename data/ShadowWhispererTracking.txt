@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Mon, 18 Mar 2024 01:39:14 +0000
+# Last converted - Mon, 18 Mar 2024 04:58:47 +0000
 #
 
 01counter.com
@@ -65810,6 +65810,7 @@ usergroupsummit.com
 user.hawkcentral.com
 user.indystar.com
 useriq.com
+user.knoxnews.com
 user.lansingstatejournal.com
 userleap.com
 userled.io
@@ -65833,6 +65834,7 @@ usersurge.com
 usersurvey.dropbox.com
 usersvc.shutterfly.com
 usersync.samplicio.us
+user.tennessean.com
 usertesting.com
 user.thepublicopinion.com
 usertrack.balticlei.ee
@@ -66548,6 +66550,7 @@ weblog.coupang.com
 weblog.hackers.ac
 web.lumicks.com
 web-matomo-analytics.aphp.fr
+webmaxlogger.net
 webmecanik.com
 webmetrics.avaya.com
 webmetrics.marketamerica.com
