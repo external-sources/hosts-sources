@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 19 Mar 2024 04:57:55 +0000
+# Last converted - Tue, 19 Mar 2024 08:57:37 +0000
 #
 
 eradobzl.com
@@ -6602,6 +6602,7 @@ bwceohkom.xyz
 bwgmymp.com
 bwmvzwkbqlmrz.top
 bwnmwhblsf.com
+bwpirrwsh.com
 bwpuoba.com
 bwunebnqdu.com
 bwvqjqmlkezjk.top
@@ -13715,6 +13716,7 @@ garretram.com
 garricketiam.website
 garrisonparttimemount.com
 garthitalici.top
+garumkachin.com
 gasasphrad.com
 gaseous-power.com
 gasolinerent.com
@@ -14890,6 +14892,7 @@ gushswarthy.com
 gussame.com
 gussbkpr.website
 gussimsosurvey.space
+gustdertrum.com
 gustilyoblate.uno
 gutchauzaugh.com
 gutobtdagruw.com
@@ -17585,6 +17588,7 @@ jelqr4dqeep7.com
 jeltoocm.xyz
 jemdexat.xyz
 jemonews.com
+jenkincraved.com
 jennyunfit.com
 jennyvisits.com
 jenonaw.com
@@ -19789,6 +19793,7 @@ loolausufouw.com
 loolowhy.com
 looluchu.com
 loomlarynx.com
+loomplyer.com
 loomspreadingnamely.com
 loopanews.com
 loopme.me
@@ -23797,6 +23802,7 @@ osrhdsoeqhos.com
 ossealatvia.com
 ossgogoaton.com
 osshydreigonan.com
+ossifygenial.com
 osskanger.com
 osskugvirs.com
 ossmightyenar.net
@@ -33347,6 +33353,7 @@ unforgivablefrozen.com
 unforgivablegrowl.com
 unfymctyuuuynis.com
 ungillhenbane.com
+ungirthranee.com
 ungloomnisnas.com
 ungothoritator.com
 ungoutylensmen.website
@@ -35518,6 +35525,7 @@ woofoafi.xyz
 woogoust.com
 woolasib.net
 woolenabled.com
+woolensulking.com
 woolsawaq.com
 woopeekip.com
 woopteem.net
@@ -36089,6 +36097,7 @@ xucmzszyyzqe.com
 xueserverhost.com
 xuffojr.com
 xuircnbbidmu.com
+xukevxdf.com
 xukpresesmr.info
 xuninrfwruoyqb.xyz
 xuosvih.com
@@ -36932,6 +36941,7 @@ zukary.com
 zukore.com
 zukxd6fkxqn.com
 zulindeerosion.top
+zuluizeskater.com
 zumfzaamdxaw.com
 zumid.xyz
 zumolery.xyz
