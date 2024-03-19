@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 19 Mar 2024 08:57:37 +0000
+# Last converted - Tue, 19 Mar 2024 12:57:49 +0000
 #
 
+pta.wcm.pl
 eradobzl.com
 grantedpigsunborn.com
 aetgjds.com
@@ -57469,6 +57470,9 @@ nvjqtz.xyz
 lsfevr.xyz
 bnifdlav.top
 edjjpgf.xyz
+mtddqjk.cn
+threrlak.com
+d3g4a.cyou
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz
