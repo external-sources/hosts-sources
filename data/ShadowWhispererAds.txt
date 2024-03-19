@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 18 Mar 2024 20:59:56 +0000
+# Last converted - Tue, 19 Mar 2024 01:38:59 +0000
 #
 
 00px.net
@@ -1909,6 +1909,7 @@ adoperatorcore.com
 adopexchange.com
 adop.kr
 adops.ro
+ad-optima.com
 adoptim.com
 adopt-media.com
 adoptum.net
@@ -8359,6 +8360,7 @@ d1nruqhae353qc.cloudfront.net
 d1otoma47x30pg.cloudfront.net
 d1pr3sk5xr0dce.cloudfront.net
 d1qv75s97cbp4.cloudfront.net
+d1r3ddyrqrmcjv.cloudfront.net
 d1tprjo2w7krrh.cloudfront.net
 d1upt0rqzff34l.cloudfront.net
 d1ux8fwkxchynl.cloudfront.net
