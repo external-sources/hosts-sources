@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Tue, 19 Mar 2024 20:58:36 +0000
+# Last converted - Wed, 20 Mar 2024 01:38:24 +0000
 #
 
 00px.net
@@ -1478,6 +1478,7 @@ ad.inter-edu.com
 ad.inter.it
 adintext.net
 adintop.com
+adinvigorate.com
 adio.co.il
 adipexp.3xforum.ro
 ad.iplayer.org
@@ -5147,9 +5148,12 @@ ads.zsezt.com
 ads.zsezt.com.cname2039.yjs-cdn.com
 ads.zunia.vn
 ads.zygon.com.br
+adt348.net
+adt356.com
 adt357.net
 adt361.com
 adt511.net
+adt523.net
 adt532.com
 adt567.net
 adt598.com
@@ -12131,6 +12135,7 @@ myoads.com
 myopenads.com
 myopenware.co.uk
 mypagerank.net
+mypixel.com
 mypopads.com
 mypopups.com
 myprecisionads.com

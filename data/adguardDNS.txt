@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 19 Mar 2024 20:58:00 +0000
+# Last converted - Wed, 20 Mar 2024 01:37:47 +0000
 #
 
 rtbuqtue.com
@@ -57482,6 +57482,13 @@ zhihucloud.xyz
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
+sosakk.xyz
+mnifdlax.top
+urqwzbu.cn
+vflorp.xyz
+sdfsad562.xyz
+xedpzh.xyz
+qvnbjjd.xyz
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz
