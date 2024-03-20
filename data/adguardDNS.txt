@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 20 Mar 2024 12:59:45 +0000
+# Last converted - Wed, 20 Mar 2024 16:58:17 +0000
 #
 
 ajvkakodvgpe.com
