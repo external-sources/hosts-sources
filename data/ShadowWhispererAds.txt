@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 20 Mar 2024 16:59:02 +0000
+# Last converted - Wed, 20 Mar 2024 20:58:35 +0000
 #
 
 00px.net
@@ -14729,6 +14729,7 @@ seal-us.bbb.org
 seal-utah.bbb.org
 seal-vawest.bbb.org
 seal-vi.bbb.org
+seal.websecurity.norton.com
 seal-westernmichigan.bbb.org
 seal-westernpennsylvania.bbb.org
 seal-westflorida.bbb.org
