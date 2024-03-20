@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 20 Mar 2024 01:37:47 +0000
+# Last converted - Wed, 20 Mar 2024 04:57:44 +0000
 #
 
 rtbuqtue.com

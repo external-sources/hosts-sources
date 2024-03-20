@@ -1,7 +1,7 @@
 # PhishingDatabase
 #
 # Converted from - https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
-# Last converted - Wed, 20 Mar 2024 01:38:24 +0000
+# Last converted - Wed, 20 Mar 2024 04:58:21 +0000
 #
 
 0-i-fdik.000webhostapp.com
@@ -11320,7 +11320,6 @@ businessesatoz.com
 businessinsight-az.com
 businessjetclassifieds.com
 businesslifecoachingcanada.com
-businesslift.com
 businessmail.shrishtisoftech.com
 businessmentorme.com
 businessmodelcommunity.com
