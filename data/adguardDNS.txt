@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 20 Mar 2024 08:57:45 +0000
+# Last converted - Wed, 20 Mar 2024 12:59:45 +0000
 #
 
+ajvkakodvgpe.com
 rtbuqtue.com
 roamapheejub.com
 ojyggbl.com
@@ -43936,6 +43937,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+auth-srv.launchthatapps.com
 ast.techbook.de
 track.ttsave.app
 analytics.3c5.com
@@ -57489,6 +57491,7 @@ vflorp.xyz
 sdfsad562.xyz
 xedpzh.xyz
 qvnbjjd.xyz
+dndmygr.cn
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz
