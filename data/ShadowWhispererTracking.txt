@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Tue, 19 Mar 2024 20:58:38 +0000
+# Last converted - Wed, 20 Mar 2024 01:38:27 +0000
 #
 
 01counter.com
@@ -55,6 +55,7 @@
 1mm.fr
 1nr.io
 1.oceanfrontwealth.com
+1pixelcloud.com
 1plusx.com
 1plusx.io
 1q.com
@@ -14723,7 +14724,6 @@ cdn.mrkhub.com
 cdn-net.com
 cdn.nxakpj4ac8gkd53.info
 cdn.onnetwork.tv
-cdn.paddle.com
 cdn.pdst.fm
 cdn-personalization-us-2.goacoustic.com
 cdn.pricespider.com
@@ -15446,6 +15446,7 @@ c.my.msn.com
 cn.dematic.cn
 cnd.landsend.com
 cnd-motionmedia.de
+cnect-stats.com
 cn-geo1.uber.com
 c.nine.com.au
 cn.lek.com
@@ -16619,6 +16620,7 @@ cr.crossface.co.jp
 crdr.us
 crdtrack.com
 c.realtytrac.com
+creandi-reporting.de
 create.lidstatic.com
 createwith.wrapbook.com
 creativeassets.asosservices.com
@@ -16846,6 +16848,7 @@ customer-feedbacks.web.roku.com
 customer.guru
 customer.homedepot.com
 customerinsight.co.kr
+customerinsights.ai
 customer.io
 customerlabs.co
 customerlabs.com
@@ -19495,6 +19498,7 @@ fasterthanfast.com
 fastlog.bitmango.com
 fastly-analytics.com
 fastly-insights.com
+faststats.co.uk
 fasttrack01.com
 fasttrack03.com
 fasttrack05.com
@@ -27104,6 +27108,7 @@ logging.je-apps.com
 logging-proxy-ca-production-170512-af60esna.uc.gateway.dev
 logging-service-prod.getepic.com
 logg.kiwi.com
+log-global.aliyuncs.com
 loggly.com
 loggly.net
 log.gobankingrates.com
@@ -33555,6 +33560,7 @@ mioip.it
 mi.partycity.com
 mir3.com
 mirabelanalytics.com
+miratsinsights.com
 mirror.uasc.com
 misc-pili-qos-report.qiniuapi.com
 miscreantmine.com
@@ -47847,6 +47853,7 @@ simplisticstem.com
 simplyanalytics.com
 simplyinsight.co
 simptrack.com
+simularweb.com
 simulateswing.com
 sinaapp.com
 sincerebuffalo.com
