@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 21 Mar 2024 04:57:49 +0000
+# Last converted - Thu, 21 Mar 2024 08:57:51 +0000
 #
 
 ajvkakodvgpe.com
@@ -57518,6 +57518,11 @@ jqbddp.xyz
 uxzvjoj.cn
 cfrtdmb.xyz
 vcnpnf.xyz
+ctyusif.top
+grtarpcf963.top
+dngbjyc.cn
+qhemphox.com
+f7fe0.cyou
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz
