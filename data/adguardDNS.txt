@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 21 Mar 2024 20:58:03 +0000
+# Last converted - Fri, 22 Mar 2024 01:37:35 +0000
 #
 
 rbqlbolklrvmk.top
@@ -51375,7 +51375,6 @@ trabro.com
 tracknet.twyn.com
 trafficfabrik.com
 traffictrack.de
-transmatico.com
 trmads.eu
 trmget.eu
 trmwidget.eu
@@ -57570,6 +57569,13 @@ grtarpcf963.top
 dngbjyc.cn
 qhemphox.com
 f7fe0.cyou
+vpzohx.xyz
+0k7wod.cn
+htyusiu.top
+golilog.com
+actitat.com
+dmpqjn.xyz
+qzozsa.xyz
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz
