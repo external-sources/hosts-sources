@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 22 Mar 2024 04:57:39 +0000
+# Last converted - Fri, 22 Mar 2024 08:58:07 +0000
 #
 
 rbqlbolklrvmk.top
@@ -13815,6 +13815,7 @@ gearedftnerr.com
 geasefloria.com
 geazjxqwbr.com
 gebadu.com
+geckad.com
 geckibou.com
 gecl.xyz
 geddshippy.com
@@ -37776,6 +37777,7 @@ hot-mob.com
 hotelscombined.com.au
 hprofits.com
 httpool.com
+hypelab.com
 hyros.com
 ibannerexchange.com
 ibillboard.com
@@ -38186,7 +38188,6 @@ starti.pl
 statsperformdev.com
 stocker.bonnint.net
 stratos.blue
-streamate.com
 streamdefence.com
 strikead.com
 strossle.com
