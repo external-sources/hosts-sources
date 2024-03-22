@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Thu, 21 Mar 2024 20:58:37 +0000
+# Last converted - Fri, 22 Mar 2024 01:38:21 +0000
 #
 
 01counter.com
@@ -13233,6 +13233,7 @@ avolin.com
 a.vonage.com
 avowtech.mobileadstrk.com
 avty.xboxlive.com
+a.wa.autodesk.com
 awakebird.com
 awap.equifax.com
 awaps.yandex.ru
@@ -17205,6 +17206,7 @@ dalv4le16pzj2.cloudfront.net
 damagedadvice.com
 damageddistance.com
 damagedroll.com
+damassets.autodesk.com
 damdoor.com
 dampdock.com
 damselfly.christopher.fm
@@ -20369,6 +20371,7 @@ geoip.olx.com.br
 geoip.p24.hu
 geoip.pango-paas.co
 geoip.passpod.com
+geoip.peakdigital.cloud
 geoip-product-blocker.zend-apps.com
 geoip.quicktext.im
 geoip.radio-canada.ca
@@ -35168,6 +35171,7 @@ openstat.com
 openstat.net
 openstat.org
 openstat.ru
+opentelemetry-collector.management-us-east-1.hiroad.systems
 opentracker.email
 opentracking.ru
 opentrack.org
@@ -36779,6 +36783,7 @@ personalization.centech.glulive.com
 personalization.dell.com
 personalization.vidio.com
 personalization-web-stable.mindbox.ru
+personalize.ml.dhx.autodesk.com
 personalizer.io
 personalsafety.soloprotect.com
 persona.ly
@@ -43340,6 +43345,7 @@ pixel.orcamais.com
 pixel.oreidotrafego.com
 pixel.oreinodomarketing.com
 pixel.organizenapratica.com.br
+pixel.orichi.info
 pixel.origem.io
 pixel.oscarlondonoec.com
 pixel.outletbaby.com.br
@@ -51905,6 +51911,8 @@ sonar.viously.com
 s-onetag.com
 songssmoke.com
 songsterritory.com
+sonicleads.com
+sonicleads.io
 son.ohsu.edu
 sonora.de
 sonraianalytics.com
