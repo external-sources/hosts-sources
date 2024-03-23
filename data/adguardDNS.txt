@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 22 Mar 2024 20:57:40 +0000
+# Last converted - Sat, 23 Mar 2024 01:35:37 +0000
 #
 
 rbqlbolklrvmk.top
@@ -10499,6 +10499,7 @@ dssdv.com
 dsstrk.com
 dsultra.com
 dswqtkpk.com
+dsxwcas.com
 dsygubntxgvxo.com
 dt4ever.com
 dt51.net
@@ -24149,6 +24150,7 @@ owqrtaodb.com
 owrddzml.com
 owrkwilxbw.com
 owtvhrydewc.com
+owwafgaqdapg.com
 owwczycust.com
 owwogmlidz.com
 owxanjxlxtfbjw.com
@@ -46880,6 +46882,7 @@ b.bedop.com
 b7tp47v2nb3x-a.akamaihd.net
 bacon.section.io
 barium.cheezdev.com
+baxter.olx.org
 beacon.adelphic.com
 beacon.affil.walmart.com
 beacon.aimtell.com
@@ -57602,6 +57605,14 @@ zhihucloud.xyz
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
+0lmv9e.cn
+ityusio.top
+xizanzhi.com
+hitchun.com
+lwrohd.xyz
+clmkwi.xyz
+fpvdrzx.xyz
+hbxzlf.xyz
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz
