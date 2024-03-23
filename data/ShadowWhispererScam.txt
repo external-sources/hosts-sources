@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Sat, 23 Mar 2024 12:59:53 +0000
+# Last converted - Sat, 23 Mar 2024 16:58:29 +0000
 #
 
 007-dvd.com
