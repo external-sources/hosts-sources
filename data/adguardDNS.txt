@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 23 Mar 2024 01:35:37 +0000
+# Last converted - Sat, 23 Mar 2024 04:57:36 +0000
 #
 
 rbqlbolklrvmk.top
