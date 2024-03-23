@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 23 Mar 2024 16:57:51 +0000
+# Last converted - Sat, 23 Mar 2024 20:58:20 +0000
 #
 
 rbqlbolklrvmk.top
@@ -48465,6 +48465,7 @@ collector-videoplayer.5centscdn.net
 contador.biobiochile.cl
 contadores.miarroba.com
 contadores.miarroba.es
+count.sibbo.net
 ctx.citiservi.es
 datanoticias.prisasd.com
 g-stats.openhost.es
@@ -57375,6 +57376,7 @@ zvietnakello.weebly.com
 0940088.com
 0j775d.cn
 0k7wod.cn
+0lmv9e.cn
 0op8kh.cn
 0oqt9i.cn
 0q5joc.cn
@@ -57390,10 +57392,12 @@ zvietnakello.weebly.com
 5z0d3.cyou
 666bbb333bbb.com
 6zfem.icu
+777bbb222bbb.com
 7vviw.cyou
 888bb555ww.com
 88lm05.com
 88lm06.com
+88lm07.com
 8t9he.cyou
 8xtm6i.cn
 999bb222ww.com
@@ -57447,6 +57451,7 @@ chayassa.com
 cherylssb.com
 cijianggun.com
 cliffnsc.xyz
+clmkwi.xyz
 clywws.xyz
 cnifdlaf.top
 cnvmhzt.cn
@@ -57494,6 +57499,7 @@ egywbps748.shop
 egywbpu286.shop
 eiqsky.xyz
 ejdhmed.xyz
+ellingsen.cn
 endolift.cn
 enifdlaw.top
 eqqwgw.xyz
@@ -57507,6 +57513,7 @@ fhtfnb.xyz
 fidelius.cn
 fmfnrf.xyz
 fpjjjh.xyz
+fpvdrzx.xyz
 frtnqps358.shop
 frtnqpw837.shop
 fvpboxu.xyz
@@ -57524,6 +57531,7 @@ gvbta.icu
 ha723.icu
 halct.cn
 hbjolp.xyz
+hbxzlf.xyz
 hciwyv.icu
 hdtedar126.shop
 hdvsrz.xyz
@@ -57533,6 +57541,7 @@ hexcvb.xyz
 hgthpj.xyz
 hhffks967.shop
 hhffnu135.shop
+hitchun.com
 hjshal.com
 hkbumv.icu
 hmrwkcx.cn
@@ -57546,6 +57555,7 @@ imevzbn.cn
 inifdlao.top
 inworket.com
 irayedo.cn
+ityusio.top
 ivbgpax.cn
 jbmfldt.cn
 jflwhf.xyz
@@ -57581,6 +57591,8 @@ lulgef.icu
 lulxzl.xyz
 luofk.xyz
 lvdedf.xyz
+lwrohd.xyz
+m6690.top
 mdhv3.icu
 misjgy.xyz
 mlhtr.cn
@@ -57622,6 +57634,7 @@ ovjlccs.xyz
 oxvlxwz.xyz
 p04qzl.cn
 p0v2ni.cn
+p0w2r.cyou
 p45m0.icu
 pa4ye.cyou
 pbbhhxm.xyz
@@ -57754,6 +57767,7 @@ xdybwjpa.xyz
 xedpzh.xyz
 xhbshv.xyz
 xhfxtqt.xyz
+xizanzhi.com
 xklofoz.cn
 xklrsj.icu
 xkrnud.icu
@@ -57789,20 +57803,7 @@ zhaweifeng.com
 zhihucloud.xyz
 zjrtxt.xyz
 znhlxvb.xyz
-88lm07.com
-p0w2r.cyou
-ellingsen.cn
-777bbb222bbb.com
-m6690.top
 zojyob.icu
-0lmv9e.cn
-ityusio.top
-xizanzhi.com
-hitchun.com
-lwrohd.xyz
-clmkwi.xyz
-fpvdrzx.xyz
-hbxzlf.xyz
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz
@@ -61730,10 +61731,6 @@ zzyy17.top
 zzyy18.top
 zzyy19.top
 zzyy20.top
-9831tb.com
-u33011.com
-u22099.com
-fijipic.xyz
 06789.xyz
 3p8801.co
 6651tp.com
@@ -61741,6 +61738,7 @@ fijipic.xyz
 7xi9g1.com1.z0.glb.clouddn.com
 8861202.com
 94lm.com
+9831tb.com
 a.youdao.com
 adrs.sdo.com
 ads-6686.top
@@ -61763,6 +61761,7 @@ eduad.baidu.com
 eiv.baidu.com
 facai383.oss-cn-guangzhou.aliyuncs.com
 farm-cn.plista.com
+fijipic.xyz
 first-hufu.oss-cn-shanghai.aliyuncs.com
 foreveryoung.gz01.bdysite.com
 g1.tagtic.cn
@@ -61826,8 +61825,10 @@ u1102.com
 u22011.com
 u22066.com
 u22088.com
+u22099.com
 u25011.com
 u25022.com
+u33011.com
 ubmcvideo.baidustatic.com
 union-wifi.com
 video231.oss-cn-beijing.aliyuncs.com
@@ -62272,6 +62273,7 @@ abds.pingpingw.com
 ac.86huoche.com
 ac.art456.com
 ac1.pingpingw.com
+acc.3gbizhi.com
 ad.szhsx.net
 ad123.ynet.com
 adbd.liuxue86.com
