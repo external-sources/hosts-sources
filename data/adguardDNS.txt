@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 23 Mar 2024 20:58:20 +0000
+# Last converted - Sun, 24 Mar 2024 01:43:19 +0000
 #
 
 rbqlbolklrvmk.top
@@ -57795,6 +57795,13 @@ yliffnsc.xyz
 yvbjctqs.xyz
 yvnxetmq.xyz
 yvudqzoa.xyz
+lgtpdt.xyz
+rhzvlcu.xyz
+yyttmyy.cn
+oxkyaq.xyz
+tnvnnn.xyz
+jtyusia.top
+pimg2023.com
 yyddkm526.shop
 zagyjnn.cn
 zailgrae.com
