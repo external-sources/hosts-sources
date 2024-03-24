@@ -1,7 +1,7 @@
 # Phishing.database
 #
 # Converted from - https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
-# Last converted - Sun, 24 Mar 2024 01:44:04 +0000
+# Last converted - Sun, 24 Mar 2024 04:58:42 +0000
 #
 
 0-i-fdik.000webhostapp.com
@@ -48271,7 +48271,6 @@ philsil.org
 philtopcompanies.com
 phimsexgaixinh.com
 phindik.com
-phishingquiz.withgoogle.com
 phizer.imedevent.com
 phlegmatic-totals.000webhostapp.com
 phlegmiest-launches.000webhostapp.com
