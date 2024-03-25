@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Mon, 25 Mar 2024 13:00:08 +0000
+# Last converted - Mon, 25 Mar 2024 16:58:23 +0000
 #
 
 007-dvd.com
@@ -2989,6 +2989,7 @@ csaurorat.com
 csgopoints.com
 csqia.com
 c-storefamily.com
+cstrikingide.com
 ctbusinessdaily.com
 cuckoldportugal.pt
 cuddlyteacuppomeranains.com
@@ -3298,6 +3299,7 @@ detailedvehiclehistory.com
 detctioamber.com
 determinationy.net
 determinatioy.net
+detilcosqe.com
 detroitcitywire.com
 deugro.com
 deusdiplomaticdelivery.com
@@ -4014,6 +4016,7 @@ especiallyyours.com
 espressafarmacia.com
 essenarctice.com
 establishm.com
+estraorchard.com
 ethershirt.org
 ethicalbreedersa.com
 etiklogistiks.com
@@ -4076,6 +4079,7 @@ exceltechguru.com
 exceptionalpp.com
 exceptionalt.com
 exceptionaly.com
+exceptionm.com
 excitedfollow.com
 excitedsphynxkittens.com
 exclaimsoftrib.com
@@ -4769,6 +4773,7 @@ fxbitcoininvestmentstrades.com
 fxcapitals.online
 fxcryptomine.com
 fxgain-rig.com
+fxpremax.info
 fyshare.com
 fyxfleet.com
 fyzzed.com
@@ -6467,6 +6472,7 @@ knighterrantemastiff.com
 knockarms.com
 knowcharm.online
 knowledee.com
+knowledgu.com
 knoxtimes.com
 kodakdriver.net
 kodi-tv.org
@@ -11008,6 +11014,7 @@ sunshinesentinel.com
 sunshineteacuppuppieshome.com
 sunsideglobalgroupllc.com
 suntalbnk.com
+suntona.net
 suntrustlogistics.com
 sunylake.com
 superblyart.com
