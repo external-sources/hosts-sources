@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 26 Mar 2024 08:57:49 +0000
+# Last converted - Tue, 26 Mar 2024 12:59:37 +0000
 #
 
 rbqlbolklrvmk.top
@@ -40492,6 +40492,7 @@ adballoon.afreecatv.com
 deapi.afreecatv.com
 startup.mobile.yandex.net
 startup-mobile.ap.yandex-net.ru
+kfvjdvjzhddhc.com
 zgzxs.weathercn.com
 kiesta.net
 cdn-ads.tmap.co.kr
@@ -44498,6 +44499,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+smetrics.jcb.co.jp
 metrics.freemake.com
 analytics.freemake.com
 matomo.similarweb.io
@@ -48887,6 +48889,7 @@ softclick.com.br
 solution911.com
 templates.buscape.com
 yestorrents.org
+gsimvqfghc.com
 cajbdciiefegiifciabc.world
 gainifyads.com
 qkyspzfxnc.ru
@@ -58143,6 +58146,10 @@ neess105.top
 amidicestrins.com
 hubgets.cn
 rarmkce.cn
+destinyssa.com
+skdncksklsv.com
+batijian.com
+computel.cn
 yyttmyy.cn
 zagyjnn.cn
 zailgrae.com
