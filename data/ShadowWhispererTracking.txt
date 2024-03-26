@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Tue, 26 Mar 2024 01:38:44 +0000
+# Last converted - Tue, 26 Mar 2024 04:58:28 +0000
 #
 
 01counter.com
@@ -36832,6 +36832,7 @@ perf.mouser.com
 perfops.net
 performanceanalyser.net
 performance-booster.com
+performance-check.b-cdn.net
 performance-click.com
 performancehorizon.com
 performance-logger.minted.com
@@ -54768,6 +54769,7 @@ stat.ravintolakallej.fi
 stat.ravintolamaneerat.fi
 stat.ray-jane.fr
 stat.razuvaev.net
+stat.re
 stat.really.fi
 stat.rebootcode.ro
 stat.receptariusz.amara.pl
@@ -64507,6 +64509,7 @@ trackers-1816877321.us-east-1.elb.amazonaws.com
 tracker.samplicio.us
 tracker.satu.kz
 trackerscript.sqreemtech.com
+tracker-server.high-cdn.com
 tracker.shakaw.com.br
 tracker.shopclues.com
 trackers.safelinkwireless.com
