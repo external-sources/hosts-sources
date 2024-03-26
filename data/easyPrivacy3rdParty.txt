@@ -1,7 +1,7 @@
 # easyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 25 Mar 2024 20:58:07 +0000
+# Last converted - Tue, 26 Mar 2024 01:38:35 +0000
 #
 
 100widgets.com
@@ -287,6 +287,7 @@ collect.rebelmouse.io
 collect.rewardstyle.com
 collect.usefathom.com
 collect.verify.lnearn.com
+collection.e-satisfaction.com
 collector-api.99designs.com
 collector-api.frspecifics.com
 collector-soompi.viki.io
@@ -432,7 +433,6 @@ eventgateway.soundcloud.com
 eventlog.chatlead.com
 eventlog.inspsearchapi.com
 events.air.tv
-events.apester.com
 events.attentivemobile.com
 events.audiate.me
 events.brightline.tv
