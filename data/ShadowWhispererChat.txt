@@ -1,7 +1,7 @@
 # ShadowWhispererChat
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
-# Last converted - Wed, 27 Mar 2024 01:39:24 +0000
+# Last converted - Wed, 27 Mar 2024 04:58:31 +0000
 #
 
 1talking.net
@@ -281,10 +281,12 @@ nice-incontact.com
 niceincontact.com
 nuance-va.com
 nuteqsolutions.com
+oc-cdn-ocprod.azureedge.net
 ocelotbot.com
 oggchat2.icoa.com
 olark.com
 ometrics.com
+omnichannelengagementhub.com
 omnichat.ai
 onwebchat.com
 openai.contrib.co
