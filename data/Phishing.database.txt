@@ -1,7 +1,7 @@
 # Phishing.database
 #
 # Converted from - https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
-# Last converted - Wed, 27 Mar 2024 08:58:48 +0000
+# Last converted - Wed, 27 Mar 2024 13:00:48 +0000
 #
 
 0-i-fdik.000webhostapp.com
@@ -3467,7 +3467,6 @@ alareentading-catalog.page.tl
 alaris.com.br
 alarissecurityinc.com
 alarnidns0212.000webhostapp.com
-alarrab-sa.com
 alas-dot.0fees.us
 alasifur.com
 alasimaag.com
@@ -25650,7 +25649,6 @@ gimnasiaritmica.cl
 gin-macen.firebaseapp.com
 gin-morun.firebaseapp.com
 gin-una.firebaseapp.com
-ginfoagrupamentos.rhme.gov.cv
 gingatecnologia.com
 gingercurve.co.za
 ginini.com
@@ -26477,7 +26475,6 @@ greenwaterconcepts.com
 greenwaycycles.co.uk
 greenwayenvirons.com
 greenworldistribution.com
-greenzgardens.com.au
 greetdol.nl
 gregay.com.au
 gregbeidleman.com
@@ -38413,7 +38410,6 @@ mandarin502dota2.000webhostapp.com
 mandateed.com
 mandbrestoration.com
 mandlincubator.uk
-mandrillapp.com
 mandrillstudent.co.kr
 mands.cloudns.asia
 manduvanbaire.com

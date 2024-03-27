@@ -1,7 +1,7 @@
 # adguardApps
 #
 # Converted from - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
-# Last converted - Wed, 27 Mar 2024 08:57:57 +0000
+# Last converted - Wed, 27 Mar 2024 12:59:55 +0000
 #
 
 adcenter-api.cashwalk.co
