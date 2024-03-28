@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Thu, 28 Mar 2024 12:59:47 +0000
+# Last converted - Thu, 28 Mar 2024 16:59:06 +0000
 #
 
 007-dvd.com
@@ -12194,6 +12194,7 @@ viegulatira.com
 vienay.com
 vietnampleasure.com
 vietnamreflections.com
+vigarages.com
 vigourgagem.com
 vikingtees.com
 villagelocalminers.com
