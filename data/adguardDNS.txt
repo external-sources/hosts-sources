@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 28 Mar 2024 16:58:19 +0000
+# Last converted - Thu, 28 Mar 2024 20:57:49 +0000
 #
 
 zovidree.com
@@ -705,6 +705,7 @@ hub.fghtem.com
 d71e6dd31a026d45.com
 adrunnr.com
 samsungtvads.com
+buzzer.xhofficial.com
 d2psma0az3acui.cloudfront.net
 rec.deezer.com
 ads.greengeeks.com
@@ -2132,6 +2133,7 @@ abusedbabysitters.com
 abusedthrown.com
 abusiveserving.com
 abvnypoqcgmh.com
+abvoltssilen.top
 abwattfrutex.com
 abwhyag.com
 abwlrooszor.com
@@ -6058,6 +6060,7 @@ bognunub.com
 bogrodius.com
 boguetrust.com
 boharaf.com
+boheasceile.top
 boheir.com
 bohowhepsked.com
 bohpvdmwjl.com
@@ -8995,6 +8998,7 @@ csoxbkscuflef.com
 cspchemung.guru
 cspdimfa.com
 csqgebok.com
+csqtsjm.com
 csrmohcym.com
 csrrxwd.com
 csscloudstorage.com
@@ -14045,6 +14049,7 @@ fyhgvfmryxprn.xyz
 fykjhzjyjvx.com
 fymgkjtee.com
 fyszjsybkgnwn.com
+fytaopeurb.com
 fyvdxqufaxkli.com
 fzdpvjatkwpg.com
 fzfcrqlwph.com
@@ -14108,6 +14113,7 @@ gaishaisteth.com
 gaisteem.net
 gaitheed.com
 gaitoath.com
+gaizoopi.net
 gakairohekoa.com
 galaare.com
 galachr.com
@@ -14764,6 +14770,7 @@ glowingnews.com
 gloxeept.com
 gloytrkb.com
 gloywin04.com
+glozesmimer.top
 glpeaoauwevlns.com
 glquynodiflhw.com
 glsfreeads.com
@@ -17629,6 +17636,7 @@ invordones.com
 invplpghc.com
 invraisemblable.com
 inwardinjustice.com
+inwrapsabina.top
 inwraptsekane.com
 ioaalobqpc.com
 ioach.com
@@ -17704,6 +17712,7 @@ iqtest365.online
 iqwfauzxumyk.com
 iqxsncsregcxu.xyz
 iqxuuski.com
+iranicoloner.top
 irbout.com
 irbtwjy.com
 ireced.com
@@ -18075,6 +18084,7 @@ jbrnmlmvnakej.top
 jbrnmlmvnazey.top
 jbtul.com
 jbtwyppdfppmgq.com
+jbvoejzamqokq.top
 jbvoejzamqzkb.top
 jbwiujl.com
 jbzmwqmqwojjl.top
@@ -18831,6 +18841,7 @@ karoon.xyz
 karoup.com
 karpasbeamer.com
 karstsburnut.com
+karwobeton.com
 kashacodeina.com
 kaslcuin.com
 kastafor.com
@@ -23979,6 +23990,7 @@ ojapanelm.xyz
 ojbrtkrvew.com
 ojfkftiv.xyz
 ojguesirvxwgiog.xyz
+ojgvteduhsko.com
 ojmvywz.com
 ojomrgmhbbpkpz.com
 ojoodoaptouz.com
@@ -27666,6 +27678,7 @@ qsoxiekkfjl.com
 qsthtbjljqfuo.com
 qsxptjxruxrttu.xyz
 qtbb6.com
+qtdopwuau.xyz
 qtejflbrrtesvk.com
 qtspkqzn.com
 qtuopsqmunzo.com
@@ -31081,6 +31094,7 @@ soughtflaredeeper.com
 souglaur.xyz
 soulsglovesacid.com
 soulslaidmale.com
+soulterberne.top
 soumehoo.net
 sounct.com
 soundelktemper.com
@@ -36743,6 +36757,7 @@ wpushorg.com
 wqjbldnnceroue.com
 wqjzajr.com
 wqlnfrxnp.xyz
+wqltsxjqfhlxty.com
 wqorxfp.com
 wqzjfsmudvpct.com
 wqzqoobqpubx.com
@@ -45059,6 +45074,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+collector.xhofficial.com
 logs-partners.coupang.com
 sioa.chewy.com
 smetrics.jcb.co.jp
