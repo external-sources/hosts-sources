@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 27 Mar 2024 20:58:04 +0000
+# Last converted - Thu, 28 Mar 2024 01:38:42 +0000
 #
 
 zovidree.com
@@ -41464,6 +41464,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+greenbids.ai
 track.migattenogokui.com
 jcpclick.com
 analytics-sm.com
@@ -58526,6 +58527,13 @@ yvudqzoa.xyz
 yyddkm526.shop
 yyttmyy.cn
 zagyjnn.cn
+sgcwoe.xyz
+khzyojb.cn
+jubnpx.xyz
+pkyjuc.cn
+wtyusie.top
+difhil.icu
+stlpnom.xyz
 zailgrae.com
 zeqvqb.icu
 zfzys.top
