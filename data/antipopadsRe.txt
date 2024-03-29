@@ -1,6 +1,6 @@
 # antipopadsRe
 #
 # Converted from - https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/hosts.txt
-# Last converted - Fri, 29 Mar 2024 04:57:47 +0000
+# Last converted - Fri, 29 Mar 2024 08:57:57 +0000
 #
 
