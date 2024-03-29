@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 29 Mar 2024 01:38:08 +0000
+# Last converted - Fri, 29 Mar 2024 04:57:46 +0000
 #
 
 zovidree.com
