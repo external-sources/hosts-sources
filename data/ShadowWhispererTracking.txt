@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Fri, 29 Mar 2024 16:58:38 +0000
+# Last converted - Fri, 29 Mar 2024 20:58:25 +0000
 #
 
 01counter.com
@@ -5512,6 +5512,7 @@ analytics.doern.eu
 analytics.dogsbody.com
 analytics.dolansoft.org
 analytics.dollargeneral.com
+analytics.dolphin-emu.org
 analytics.domainersuite.com
 analytics.domainmarket.gr
 analytics.domains-markt.ch
