@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 30 Mar 2024 08:58:08 +0000
+# Last converted - Sat, 30 Mar 2024 12:59:07 +0000
 #
 
 pregainpotgut.top
@@ -59049,6 +59049,7 @@ byuwkbv.top
 pseudonym.cn
 utxmb.cn
 lbyx.xyz
+dwbfqmz.cn
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz

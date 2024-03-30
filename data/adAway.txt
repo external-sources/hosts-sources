@@ -1,6 +1,6 @@
 # adAway
 #
 # Converted from - https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
-# Last converted - Sat, 30 Mar 2024 08:58:08 +0000
+# Last converted - Sat, 30 Mar 2024 12:59:05 +0000
 #
 
