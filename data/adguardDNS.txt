@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 30 Mar 2024 04:58:17 +0000
+# Last converted - Sat, 30 Mar 2024 08:58:08 +0000
 #
 
 pregainpotgut.top
@@ -49427,6 +49427,7 @@ log.hiiir.com
 log.tagtic.cn
 mcs.zijieapi.com
 p.tencentmind.com
+pr.nss.netease.com
 r.sax.sina.com.cn
 report.meituan.com
 ssac.suning.com
@@ -49603,6 +49604,7 @@ stat.ringier.sk
 1to1.bbva.com
 analitica.webrpp.com
 analytics.lasegunda.ecn.cl
+analytics.mercadolibre.com
 analytics.neoogilvy.uy
 bpt.webedia-group.com
 collector-videoplayer.5centscdn.net
@@ -59031,6 +59033,7 @@ qtyusiy.top
 kfpnqug.cn
 qrovwu.xyz
 rofmjd.xyz
+qdtzbbh.xyz
 zailgrae.com
 zeqvqb.icu
 zfzys.top
@@ -59040,6 +59043,12 @@ zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
 zopuqv.icu
+xylhwdu.com
+hfbfbvmjdmxc.com
+byuwkbv.top
+pseudonym.cn
+utxmb.cn
+lbyx.xyz
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
