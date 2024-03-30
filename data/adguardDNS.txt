@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 29 Mar 2024 20:57:49 +0000
+# Last converted - Sat, 30 Mar 2024 01:35:23 +0000
 #
 
 pregainpotgut.top
@@ -59026,6 +59026,11 @@ yvudqzoa.xyz
 yyddkm526.shop
 yyttmyy.cn
 zagyjnn.cn
+lcefsf.icu
+qtyusiy.top
+kfpnqug.cn
+qrovwu.xyz
+rofmjd.xyz
 zailgrae.com
 zeqvqb.icu
 zfzys.top
