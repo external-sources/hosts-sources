@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 30 Mar 2024 16:57:48 +0000
+# Last converted - Sat, 30 Mar 2024 20:58:19 +0000
 #
 
 pregainpotgut.top
@@ -58610,6 +58610,7 @@ buvdkt.icu
 bvtvlp.xyz
 bvxiht.xyz
 bwlcpr.xyz
+byuwkbv.top
 bzzxyyh.xyz
 c11011.com
 caomeixz7.xyz
@@ -58665,6 +58666,7 @@ dryden.cn
 dsbqvj.xyz
 dsjkbcjsjkbvs.com
 dvotlhs.cn
+dwbfqmz.cn
 dxrnksm.xyz
 dyegif.icu
 dytkgl.icu
@@ -58728,6 +58730,7 @@ hdvsrz.xyz
 heapz.cyou
 hendehy.com
 hexcvb.xyz
+hfbfbvmjdmxc.com
 hgthpj.xyz
 hhffks967.shop
 hhffnu135.shop
@@ -58771,6 +58774,7 @@ jzjpntr.xyz
 kbomku.xyz
 kdeh.cn
 kfdrc.cyou
+kfpnqug.cn
 khzyojb.cn
 kksjsa.top
 knifdlad.top
@@ -58781,6 +58785,8 @@ ktyusid.top
 l5kt1.icu
 lafirx.xyz
 lardmoni.com
+lbyx.xyz
+lcefsf.icu
 ldgjwdohqbi.xyz
 lenvvb.xyz
 lewiooz.cn
@@ -58856,10 +58862,12 @@ pkyjuc.cn
 pnxtnp.xyz
 prhfziq.xyz
 przbzr.xyz
+pseudonym.cn
 pwhtip.icu
 pxzrlf.xyz
 qbhzghb.xyz
 qcohkm.xyz
+qdtzbbh.xyz
 qetskupch581.shop
 qetskupyka61.shop
 qhemphox.com
@@ -58869,7 +58877,9 @@ qlbbowx.xyz
 qnifdlay.top
 qqkkpos.com
 qrkhwe.xyz
+qrovwu.xyz
 qrttfmo.cn
+qtyusiy.top
 qvnbjjd.xyz
 qw9cu.cyou
 qzalsk.xyz
@@ -58886,6 +58896,7 @@ rjhbjv.xyz
 rktddv.xyz
 rlw86.cyou
 rnkzhsi.cn
+rofmjd.xyz
 rouqiuqq.cn
 rpnufv.xyz
 ruqwgb.icu
@@ -58957,6 +58968,7 @@ uqrcuxp.cn
 uqwbcm.xyz
 urqwzbu.cn
 usltmus.cn
+utxmb.cn
 uu22662.com
 uuvzmba.cn
 uxlvk.cn
@@ -59012,6 +59024,7 @@ xvgrszkg.xyz
 xvudqzoa.xyz
 xwvnhe.cn
 xxle.cn
+xylhwdu.com
 ybrrvck.xyz
 ycqbgm.xyz
 yddjmpjo.xyz
@@ -59028,12 +59041,6 @@ yvudqzoa.xyz
 yyddkm526.shop
 yyttmyy.cn
 zagyjnn.cn
-lcefsf.icu
-qtyusiy.top
-kfpnqug.cn
-qrovwu.xyz
-rofmjd.xyz
-qdtzbbh.xyz
 zailgrae.com
 zeqvqb.icu
 zfzys.top
@@ -59043,13 +59050,6 @@ zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
 zopuqv.icu
-xylhwdu.com
-hfbfbvmjdmxc.com
-byuwkbv.top
-pseudonym.cn
-utxmb.cn
-lbyx.xyz
-dwbfqmz.cn
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
