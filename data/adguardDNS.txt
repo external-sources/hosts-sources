@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 31 Mar 2024 04:57:56 +0000
+# Last converted - Sun, 31 Mar 2024 08:57:59 +0000
 #
 
 pregainpotgut.top
@@ -39738,6 +39738,7 @@ ads2.hsoub.com
 adsales.snidigital.com
 adserver-2084671375.us-east-1.elb.amazonaws.com
 adserving.unibet.com
+adsinteractive-794b.kxcdn.com
 adtechvideo.s3.amazonaws.com
 advast.sibnet.ru
 adx-exchange.toast.com
@@ -59055,6 +59056,10 @@ zopuqv.icu
 cdmgac.xyz
 ryhkft.xyz
 hvxrvef.xyz
+hnalzlu.top
+pmtrkp.icu
+hptyp.icu
+pressit.cn
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
