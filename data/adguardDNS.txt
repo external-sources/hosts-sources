@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 31 Mar 2024 12:58:39 +0000
+# Last converted - Sun, 31 Mar 2024 16:57:40 +0000
 #
 
 pregainpotgut.top
