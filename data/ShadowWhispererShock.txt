@@ -1,6 +1,6 @@
 # ShadowWhispererShock
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Shock
-# Last converted - Sat, 30 Mar 2024 20:58:54 +0000
+# Last converted - Sun, 31 Mar 2024 01:45:06 +0000
 #
 
