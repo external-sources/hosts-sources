@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 31 Mar 2024 01:44:52 +0000
+# Last converted - Sun, 31 Mar 2024 04:58:23 +0000
 #
 
 a-reporting.nytimes.com
@@ -497,6 +497,7 @@ t.y8.com
 t.zulily.com
 t2.hulu.com
 tagger.ope.scmp.com
+tagging.steelseries.com
 tags.aljazeera.com
 tags.johnlewis.com
 tags.news.com.au
