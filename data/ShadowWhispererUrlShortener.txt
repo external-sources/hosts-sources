@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Mon, 01 Apr 2024 13:00:38 +0000
+# Last converted - Mon, 01 Apr 2024 16:58:31 +0000
 #
 
 010.at
@@ -580,6 +580,7 @@ earn4link.in
 earnshorter.com
 easyurl.net
 ebbco.ir
+ebooktruyen.info
 eclip.se
 ecrane.link
 editricity.xyz
@@ -987,6 +988,7 @@ linkbirdy.com
 link.bootocorona.com
 linkclickcounter.com
 linkcrypter.com
+linkcutt.com
 l-inked.com
 linked.mom
 linkerr.io
@@ -1033,6 +1035,7 @@ linksy.io
 linkthis.link
 linkunshorten.com
 linkvp.com
+linky31.com
 linky.cc
 link.zodia.studio
 linp.ir
@@ -1115,6 +1118,7 @@ mathmayr.com
 matwo.fr
 max4click.com
 maxiurl.com
+maxlink.ly
 maxurlz.com
 mayaediciones.com
 mbx.events
