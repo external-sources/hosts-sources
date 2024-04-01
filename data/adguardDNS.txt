@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 01 Apr 2024 16:57:51 +0000
+# Last converted - Mon, 01 Apr 2024 20:57:58 +0000
 #
 
 pregainpotgut.top
@@ -49731,6 +49731,7 @@ softclick.com.br
 solution911.com
 templates.buscape.com
 yestorrents.org
+luxcdn.com
 vqhrqt.com
 marketer.lv
 programmatica.com
@@ -58706,6 +58707,7 @@ ejdhmed.xyz
 elisium.cn
 ellingsen.cn
 elphhrj.xyz
+eluocs.xyz
 endolift.cn
 enifdlaw.top
 eqqwgw.xyz
@@ -58721,6 +58723,7 @@ ferriesendless.com
 fhtfnb.xyz
 fidelius.cn
 fmfnrf.xyz
+fmssoj.icu
 fpjjjh.xyz
 fpvdrzx.xyz
 frtnqps358.shop
@@ -58794,6 +58797,7 @@ jtyusia.top
 jubnpx.xyz
 justapp.top
 jvkqkzu.cn
+jyuwkba.top
 jzjpntr.xyz
 kbomku.xyz
 kdeh.cn
@@ -58836,6 +58840,7 @@ mlhtr.cn
 mnifdlax.top
 moberg.cn
 mondigo.cn
+mpn56e.cn
 mrtxtrq.xyz
 mtddqjk.cn
 mthhhuq.cn
@@ -58886,10 +58891,12 @@ pjzxdl.xyz
 pkyjuc.cn
 pmtrkp.icu
 pnxtnp.xyz
+polepole.cn
 pressit.cn
 prhfziq.xyz
 przbzr.xyz
 pseudonym.cn
+pwhkfd.xyz
 pwhtip.icu
 pxzrlf.xyz
 qbhzghb.xyz
@@ -59028,6 +59035,7 @@ wqcfg.cn
 wsdwbfs.cn
 wtyusie.top
 wwjtdjj.cn
+wxfdmri.xyz
 xcypgd.icu
 xdfhidrk.xyz
 xdmnlxtu.xyz
@@ -59079,13 +59087,6 @@ zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
 zopuqv.icu
-pwhkfd.xyz
-wxfdmri.xyz
-eluocs.xyz
-fmssoj.icu
-mpn56e.cn
-polepole.cn
-jyuwkba.top
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
