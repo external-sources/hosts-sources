@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Mon, 01 Apr 2024 13:00:37 +0000
+# Last converted - Mon, 01 Apr 2024 16:58:30 +0000
 #
 
 007-dvd.com
@@ -398,6 +398,7 @@ africangreyparrots4home.com
 africapuregoldmining.com
 africasolarsupply.shop
 africasollarelectro.com
+afrikaansflirt.com
 afrilanda.com
 afrilivestockfarming.com
 afsagroserviceskft.com
@@ -2995,6 +2996,7 @@ ctbusinessdaily.com
 cuckoldportugal.pt
 cuddlyteacuppomeranains.com
 cujeka.shop
+culturedcanuck.com
 cumberldint.com
 cumulativei.com
 cunninglittlemaltese.com
@@ -4476,6 +4478,9 @@ flightsupportdesks.com
 flingsnearyou.com
 flingtease.com
 flipbambino-sphynxkittens.com
+flirtingchicks.com
+flirtingisland.com
+flirtinglocal.com
 flirtingvibes.com
 flirtinlove.com
 flirtissimo.eu
@@ -4485,6 +4490,7 @@ flirtsaround.com
 flirtsaroundthecorner.com
 flirttactic.com
 flirt-web.com
+flirtyneighbors.com
 flirtyneighbour.com
 flirtyneighbours.co.uk
 flirtyseductions.com
@@ -8476,6 +8482,7 @@ ozaukeetimes.com
 oz-gifts.com
 oz-offers.com
 ozpomskypuppieshome.com
+ozzyfuckslut.com
 pacegloballogistics.com
 paceoptions.com
 pacificammunition.com
@@ -10280,8 +10287,10 @@ sexdatesonly.com
 sexdollplaza.com
 sexeintime.com
 sexe-y.com
+sexfinderonline.com
 sexfriend.fr
 sexhotel.fr
+sexinspektor.com
 sexkontakt-at.com
 sexkontakt.com
 sexkontaktetreffpunkt.com
