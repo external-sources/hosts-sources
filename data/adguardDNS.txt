@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 02 Apr 2024 16:58:14 +0000
+# Last converted - Tue, 02 Apr 2024 20:57:47 +0000
 #
 
+longestsundays.com
 cryptoatom.care
 rokymedia.com
 pregainpotgut.top
@@ -1305,6 +1306,7 @@ mine.torrent.pw
 24s1b0et1.de
 24x7adservice.com
 250f0ma86.de
+250f851761.com
 254a.com
 259luxu.xyz
 25obpfr.de
@@ -2912,6 +2914,7 @@ aeneasclosure.website
 aeqtjaonwrnyy.com
 aerariacongoni.uno
 aerialmistaken.com
+aeriedconcert.com
 aerjnuloxlth.com
 aerlwjxcrcolcpy.com
 aerobiabassing.com
@@ -4344,6 +4347,7 @@ assistedadultrib.com
 assisteggs.com
 assistspell.com
 assithdisseat.com
+assobredrouked.com
 associationstoopedacid.com
 associationwish.com
 assoilrehboc.top
@@ -5073,6 +5077,7 @@ barbeduseless.com
 barbelskerugma.com
 barbmerchant.com
 bardatm.ru
+bardicjazzed.com
 barecurldiscovering.com
 bareelaborate.com
 barefootedleisurelypizza.com
@@ -7207,6 +7212,7 @@ cattishinquiries.com
 cattleabruptlybeware.com
 cattledisplace.com
 catukhyistk.org
+catwalkoutled.com
 catwenbat.com
 catwrite.com
 caubichofus.com
@@ -7845,6 +7851,7 @@ circusmediocre.com
 cirmudcap.com
 cirsoiddanize.com
 ciscoesfirring.guru
+cisfazpisju.com
 cisheeng.com
 cisiwa.site
 ciststoquets.space
@@ -9134,6 +9141,7 @@ culass.com
 cullayscrocks.com
 cullemple-motline.com
 culmedpasses.cam
+culottetumtum.com
 culsaids.xyz
 cultergoy.com
 cultismcanty.space
@@ -10689,6 +10697,7 @@ doumuleet.net
 douoblelimpup.com
 doupseejog.com
 doupsout.xyz
+doupteethaiz.xyz
 douthosh.net
 doveexperttactical.com
 dovenedouthorn.com
@@ -10912,6 +10921,7 @@ dtcpdvnojquf.com
 dtedpypskgbdap.com
 dthablbrl.com
 dthechildren.org
+dtheharityhild.info
 dthepeoplewhoc.org
 dtkhbsictxpu.com
 dtmpub.com
@@ -15615,6 +15625,7 @@ hablvsmnr.com
 habovethecity.info
 habovethecityon.info
 habusima.uno
+habutaeunroost.com
 hadabqhbewcrt.com
 hadajvqpha.com
 hadesleta.com
@@ -16534,6 +16545,7 @@ hot4k.org
 hotclips.mom
 hotclips.online
 hotclips.space
+hotegotisticalturbulent.com
 hotelbowfeast.com
 hotelintimacybananas.com
 hotfootpriers.com
@@ -17837,6 +17849,7 @@ iqxuuski.com
 iranicoloner.top
 irbout.com
 irbtwjy.com
+ircwzvpei.com
 ireced.com
 iredirect.net
 irgvfdwicqerqfy.com
@@ -18770,6 +18783,7 @@ juiceadv.net
 juicyads.com
 juicyads.me
 juicycash.net
+juiseforced.com
 jujaufur.net
 jukseeng.net
 jukxmvmaiiy.com
@@ -19160,6 +19174,8 @@ khvphqpsl.com
 kiaughsviner.com
 kiblahsbuenas.com
 kicationandas.info
+kichelcozier.top
+kicka.xyz
 kickchecking.com
 kickoutpawky.com
 kiczrqo.com
@@ -19261,6 +19277,7 @@ kjjvpwvyon.com
 kjklisbcab.com
 kjlmoxpnst.com
 kjmfjwhlrhmmtq.com
+kjmrtfpiaq.com
 kjotkqyzxe.com
 kjqlmeaykennr.top
 kjqqtivd.com
@@ -19516,6 +19533,7 @@ krsvpobbneyj.com
 krtinonqtp.com
 ksandtheirclean.org
 kscmqmrlrepwim.com
+ksdlumuhym.com
 ksehinkitw.hair
 kshzlyvbaaa.com
 ksnbiepnvjdi.com
@@ -19929,6 +19947,7 @@ leadzutw.com
 leafletcensorrescue.com
 leafminefield.com
 leafpear.com
+leafy-feel.com
 leaguedispleasedjut.com
 leakcocoonfooting.com
 leakervassar.top
@@ -20390,6 +20409,7 @@ lkqd.net
 lkqpxhw.com
 lksbnrs.com
 lksoghgm.xyz
+lkxahvf.com
 lkyrxsfsust.com
 lkzlambkzljee.top
 lkzlambkzllaz.top
@@ -20850,6 +20870,7 @@ luuming.com
 luvaihoo.com
 luwiansurmit.space
 luwsebstwpc.com
+luwt.cloud
 luxadv.com
 luxbetaffiliates.com.au
 luxins.net
@@ -24153,6 +24174,7 @@ ojbrtkrvew.com
 ojfkftiv.xyz
 ojguesirvxwgiog.xyz
 ojgvteduhsko.com
+ojhjzzuekxq.com
 ojmvywz.com
 ojomrgmhbbpkpz.com
 ojoodoaptouz.com
@@ -24440,6 +24462,7 @@ ooglootch.com
 ooglouth.xyz
 oogneenu.net
 oogroopt.com
+oohaussa.com
 ooivkrkudanjrpk.com
 oojitsoo.net
 ookresit.net
@@ -24777,6 +24800,7 @@ ouhnvkjhpajeob.com
 oujouniw.com
 oukdpbystipe.com
 oukiacryst.com
+ouknowsaidthea.info
 oukoushu.xyz
 ouldhukelpm.org
 ouleegneeje.com
@@ -25468,6 +25492,7 @@ pdbqyzi.com
 pdcnxobcv.com
 pdfsearchhq.com
 pdfurqok.com
+pdgmhnlayjm.com
 pdiyluhfttb.xyz
 pdjmarxsne.com
 pdjurmfxvebbaoq.xyz
@@ -25564,6 +25589,7 @@ pelargiunmelt.top
 pelfsgarote.com
 peliomaafb.com
 pelisrev.live
+pelletslimosa.com
 pelliancalmato.com
 pelurepumple.space
 pemsecuy.net
@@ -28164,6 +28190,7 @@ rapidshookdecide.com
 rapolok.com
 raptapee.com
 raptingy.net
+raptorserrano.com
 raptorspheres.top
 raptorssplurge.com
 rapttransaction.com
@@ -29349,6 +29376,7 @@ rowlnk.com
 rowoardog.com
 rowplates.com
 rowthsti.com
+roxasnxjruxnd.com
 roxby.org
 roxot-panel.com
 roxyaffiliates.com
@@ -30034,6 +30062,7 @@ scythesandwiches.com
 sda.seesaa.jp
 sda.seksohub.com
 sdasasyydd.com
+sdbrrrr.lat
 sdbvveonb1.com
 sddan.com
 sdeiqmltglx.com
@@ -31231,6 +31260,7 @@ somevermedea.com
 somewhatwideslimy.com
 somvprqshxr.com
 son-in-lawmorbid.com
+sonalrecomefu.info
 sonalrecomefuk.info
 songtopbrand.com
 soninlawalmighty.com
@@ -32539,6 +32569,7 @@ taiuxljddwh.com
 taiwhups.net
 taizigly.net
 take-grandincome.life
+take-prize-now.com
 takeallsoft.ru
 takecareproduct.com
 takelnk.com
@@ -34350,6 +34381,7 @@ udetqwj.com
 udfwwbkxremv.xyz
 udgpjfdzxrvecn.com
 udinugoo.com
+udksgsuvcpm.com
 udlqdkqdfymq.com
 udmserve.net
 udookrou.com
@@ -34847,6 +34879,7 @@ uppereugene.com
 uppitypartie.website
 uppons.com
 uppsyduckan.com
+upqeudhzf.com
 upregisteelon.com
 upridables.website
 uprightmidsummer.com
@@ -36266,6 +36299,7 @@ webads.media
 webair.com
 webassembly.stream
 webatam.com
+webbymendole.com
 webcampromo.com
 webcampromotions.com
 webclickengine.com
@@ -36991,6 +37025,7 @@ wpcgyoyq.com
 wpcjyxwdsu.xyz
 wphmavwgay.xyz
 wpihekqpm.xyz
+wpinfnyp.com
 wpjhenqutmdzd.com
 wpncdn.com
 wpnetwork.eu
@@ -37036,6 +37071,7 @@ wristyagr.digital
 writeestatal.space
 writerredolasy.club
 writhehawm.com
+writhenwends.com
 writhing-library.pro
 writingwhine.com
 writshackman.com
@@ -37314,6 +37350,7 @@ xiloncopmat.com
 ximybkpxwu.com
 xineday.com
 xipaaqgnrehpdns.com
+xipehexose.com
 xipteq.com
 xiqougw.com
 xiryrnrz.com
@@ -37372,6 +37409,7 @@ xmaswrite.com
 xmediaserve.com
 xmegaxvideox.com
 xmegaxvideoxxx.com
+xmetfyanqcz.com
 xmfhcmyznalbfi.com
 xmhgwmdjhul.com
 xml-api.online
@@ -37875,6 +37913,7 @@ ysemblyjusting.info
 ysesials.net
 ysnxszyrxdzp.com
 yspecjbjmcub.com
+ysxuehcerecoge.com
 ytbzqtrog.com
 yterxv.com
 ytfotjfrttgyal.com
@@ -51297,13 +51336,11 @@ rsuuc.com
 rtb-media.ru
 rtbweb.com
 ruigra.com
-runetki.tv
 ruscams.com
 ruscontext.com
 rushkolnik.ru
 rustrackers.ru
 ruttwind.com
-rutube.com
 rutvind.com
 rwhxz.space
 ryushare.com
@@ -59732,7 +59769,6 @@ caonme.xyz
 caozhixiong.cn
 casisi118.vip
 catdomepimyth.com
-catwalkoutled.com
 cbttnmo.xyz
 cbyhoe.xyz
 ccnim.xyz
@@ -63375,6 +63411,7 @@ z.nowscore.com
 zt2088.com
 ztyumn.ifeng.com
 27gh.cc
+vjvj.vj24co.com
 003store.com
 0941.org
 1.07swz.com
