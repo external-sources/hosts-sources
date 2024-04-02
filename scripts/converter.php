@@ -44,7 +44,7 @@ $lists = array(
     'notrackMalware' => 'https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt',
     'PglYoYo' => 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=one-line&showintro=0&mimetype=plaintext',
     'phishingArmy' => 'https://phishing.army/download/phishing_army_blocklist_extended.txt',
-    'PhishingDatabase' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt',
+    'Phishing.Database' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt',
     'ShadowWhispererAds' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads',
     'ShadowWhispererApple' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple',
     'ShadowWhispererBloat' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat',
@@ -71,7 +71,6 @@ $lists = array(
     'UltimateHostsBlacklist0' => 'https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list',
     'UltimateHostsBlacklist1' => 'https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list',
     'UltimateHostsBlacklist2' => 'https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list',
-    'Phishing.database' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt',
     'urlHaus' => 'https://urlhaus.abuse.ch/downloads/rpz/',
     'winhelp2002' => 'https://winhelp2002.mvps.org/hosts.txt'
 );
