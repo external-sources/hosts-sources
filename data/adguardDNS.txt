@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 02 Apr 2024 04:58:07 +0000
+# Last converted - Tue, 02 Apr 2024 08:57:42 +0000
 #
 
 pregainpotgut.top
@@ -59093,6 +59093,8 @@ qkscga.xyz
 xgjidt.xyz
 jwhdgt.icu
 npjvgug.xyz
+szmyl.cn
+osusjsga.com
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
@@ -63586,7 +63588,7 @@ b1.engdvd.com
 b1.xiao84.com
 b17.8794.cn
 b7sw62.pingshu8.xyz
-bai.luyouwang.com
+192.luyouwang.com
 baidu1.cardbaobao.com
 baidu1.codejie.net
 baidujs.cnys.com
