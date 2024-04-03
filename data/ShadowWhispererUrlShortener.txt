@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Wed, 03 Apr 2024 01:40:10 +0000
+# Last converted - Wed, 03 Apr 2024 04:58:34 +0000
 #
 
 010.at
@@ -203,6 +203,7 @@ alias.live
 aliexpi.com
 ali.onl
 alishort.com
+allamericanpatriots.com
 alsa.me
 alternatif.co
 altstar.link
@@ -222,6 +223,7 @@ analytics.hitsmedia.org
 analyticslinker.ovh
 anda.li
 and.ee
+an.fo
 angl.at
 anizam.ru
 anmeld.biz
@@ -275,6 +277,7 @@ b33.fr
 b7.tel
 b8my.live
 babblecase.com
+babyurl.net
 bagneed.com
 baixeapk.com
 balls.no
