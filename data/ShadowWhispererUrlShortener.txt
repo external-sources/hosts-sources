@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Wed, 03 Apr 2024 13:03:19 +0000
+# Last converted - Wed, 03 Apr 2024 16:58:26 +0000
 #
 
 010.at
@@ -487,6 +487,7 @@ curl.pk
 curl.ro
 customurlshortener.com
 cut2.ir
+cut2link.com
 cut.by
 cutelnk.com
 cutit.bid
@@ -980,18 +981,22 @@ lincat.co
 linc.li
 lincyt.com
 lingkod.to
+link1s.com
 link1s.net
 link3s.net
 link4.net
 linkaff.com
 linkai.in
+linkaku.pro
 linka.li
 linkbear.me
 linkbirdy.com
+linkbitty.com
 link.bootocorona.com
 linkclickcounter.com
 linkcrypter.com
 linkcutt.com
+link.devit.group
 l-inked.com
 linked.mom
 linkerr.io
@@ -1000,12 +1005,14 @@ lin-k.eu
 linkexpander.com
 linkfat.com
 linkfly.app
+linkfly.me
 linkfr.ee
 linkf.su
 link.goglogo.com
 linkgrab.top
 link.gy
 linkia.co
+linkifly.net
 linkila.com
 linkillion.com
 linkin.icu
@@ -1021,12 +1028,16 @@ l-i-nk.me
 l-ink.me
 lin-k.me
 link-me.vip
+linkmonet.com
 link.mtvrs.it
 linkotw.live
 linkpays.in
 linkrefferal.vip
+links4money.com
 linksable.to
 link.sekuritance.com
+linksfire.net
+linkshorteners.com
 linkshort.eu
 linkshortify.com
 linkshortner.net
@@ -1222,6 +1233,7 @@ mytd.cc
 myurl.ly
 nah.uy
 nanourl.org
+narrowurl.com
 nathanaeldan.pro
 natura.com.vc
 ndlb.red
@@ -1568,6 +1580,7 @@ shorten.rest
 shorten.tv
 shortenurl.top
 shortenwe.com
+shorten.world
 shortenworld.com
 shorterall.com
 shorterurl.net
@@ -1609,6 +1622,7 @@ short.mypaste.fun
 shortner.cc
 shortonly.com
 short.php8developer.com
+shortq.link
 shortr.at
 sho-rt.ru
 shortsfly.me
@@ -1634,6 +1648,7 @@ short-url.link
 short-url.org
 shorturl.ru
 short-url.run
+shorturls.co.uk
 shorturls.me
 shorturlss.com
 short-url.upr.ac.id
@@ -1947,7 +1962,9 @@ upyun.online
 ur1.lt
 ur.fish
 url.1.hubs.vn
+url1.io
 url2.in
+url2s.com
 url4.org
 url4.uk
 url50.com
@@ -1992,9 +2009,13 @@ urlpoints.com
 url.prepo.io
 url-qr.tk
 urlro.com
+url.rw
 urls.by
 url.sg
 urlsh.net
+urlshort.click
+urlshort.dev
+urlshortenerapi.com
 urlshortener.at
 urlshortener.best
 urlshortener.biz
@@ -2014,6 +2035,7 @@ urls.ie
 urlsmall.com
 urlsmall.link
 urltamil.in
+urltin.com
 urlty.co
 urluno.com
 url.usacomment.com
