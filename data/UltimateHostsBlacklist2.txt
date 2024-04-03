@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Tue, 02 Apr 2024 23:48:43 +0000
+# Last converted - Wed, 03 Apr 2024 01:40:15 +0000
 #
 
 read-more-for-feed-burner-feed.aweber.com
