@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 03 Apr 2024 13:03:14 +0000
+# Last converted - Wed, 03 Apr 2024 16:58:24 +0000
 #
 
 00px.net
@@ -7390,6 +7390,7 @@ brownricemarketing.com
 browserpusher.com
 browserupdate.org
 browsiprod.com
+brsrv-id.com
 brtsumthree.com
 bruceads.com
 bs-advertising.com
