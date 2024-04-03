@@ -1,9 +1,10 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Wed, 03 Apr 2024 16:58:31 +0000
+# Last converted - Wed, 03 Apr 2024 20:58:52 +0000
 #
 
+readmo.yahoo.com
 read-more-for-feed-burner-feed.aweber.com
 readmyfaceebook.000webhostapp.com
 readnotify.com
@@ -146810,6 +146811,7 @@ www.javhdonline.net
 www.javhunt.com
 www.javiews.com
 www.javjuice.com
+www.javl10.com
 www.javlast.com
 www.javli6.com
 www.javlib3.com
