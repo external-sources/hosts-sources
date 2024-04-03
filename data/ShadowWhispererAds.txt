@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 03 Apr 2024 01:40:06 +0000
+# Last converted - Wed, 03 Apr 2024 04:58:31 +0000
 #
 
 00px.net
@@ -4362,6 +4362,7 @@ ads.nicovideo.jp
 ads.nicsys.de
 ads.nilemotors.net
 adsninja.ca
+adsninjacdn.b-cdn.net
 ad-sniper.com
 adsniper.ru
 ads.nitschkeverlag.de
