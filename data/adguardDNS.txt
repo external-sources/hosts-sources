@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 03 Apr 2024 08:58:01 +0000
+# Last converted - Wed, 03 Apr 2024 13:02:30 +0000
 #
 
+rsldfvt.com
 longestsundays.com
 cryptoatom.care
 rokymedia.com
@@ -3096,6 +3097,7 @@ aghastmardy.website
 aghppuhixd.com
 agiorybjn.com
 agisdayra.com
+agitatechampionship.com
 agl001.bid
 agl002.online
 agle21xe2anfddirite.com
@@ -4183,6 +4185,7 @@ arsonexchangefly.com
 arsoniststuffed.com
 arswabluchan.com
 artcsmgx.com
+artditement.info
 artertapirus.com
 arterybasin.com
 artfulparrotnobody.com
@@ -5302,6 +5305,7 @@ bedodrioon.com
 bedrapiona.com
 bedsideseller.com
 bedspictures.com
+bedvbvb.com
 bedwhimpershindig.com
 beechverandahvanilla.com
 beefcollections.com
@@ -5543,6 +5547,7 @@ besty-deals.com
 bestzba.com
 betads.xyz
 betahit.click
+betakeskings.top
 betalonflamechan.com
 betemolgar.com
 beterrakionan.com
@@ -6746,6 +6751,7 @@ businessmensynonymmidwife.com
 busions.com
 buskerreshoes.website
 busksspiled.cfd
+bussydetune.top
 bustlemiszone.com
 bustling-substance.pro
 busychopdenounce.com
@@ -6907,8 +6913,10 @@ cabnnr.com
 cabotsmuskit.com
 cachegorilla.com
 cachegorilla.net
+cachuadirked.top
 cacklesmalapi.top
 cackssandhog.com
+cackverbile.top
 cacvduyrybba.xyz
 cadbitff.com
 cadencesubject.com
@@ -7455,6 +7463,7 @@ chagaquean.uno
 chaghets.net
 chagrinprivata.top
 chaibsoacmo.com
+chaifortou.net
 chailsun.com
 chainads.io
 chainbelt.top
@@ -7504,6 +7513,7 @@ channeldrag.com
 channelvids.online
 channelvids.space
 chantmaftir.uno
+chapcompletefire.com
 chapelalanine.com
 chapseel.com
 characterizecondole.com
@@ -8253,6 +8263,7 @@ cokqquqxrkxwqx.xyz
 colanbalkily.com
 colanx.com
 colarak.com
+colauxedochter.top
 cold-cold-freezing.com
 cold-priest.com
 coldflownews.com
@@ -8377,6 +8388,7 @@ compellingperch.com
 compensationdeviseconnote.com
 compensationpropulsion.com
 compensationstout.com
+competencesickcake.com
 competentminorvex.com
 competitivepopcheerleader.com
 compiledonatevanity.com
@@ -8449,6 +8461,7 @@ condescendingcertainly.com
 condescendingolivejustly.com
 condles-temark.com
 condodgy.com
+condofeijoa.top
 condoleextensive.com
 condolencespicturesquetracks.com
 condolencessumcomics.com
@@ -8603,6 +8616,7 @@ convalescemeltallpurpose.com
 convdlink.com
 convenientcertificate.com
 conventforgotten.com
+conventional-nurse.pro
 conventionalrestaurant.com
 convers.link
 conversationbeside.com
@@ -9571,6 +9585,7 @@ deadlysafe.pro
 deadrafflewildest.com
 dealbuzznews.com
 dealcurrent.com
+dealgodsafe.live
 deallyighabove.info
 dealsfor.life
 dealtbroodconstitutional.com
@@ -10210,6 +10225,7 @@ dischargecompound.com
 dischargedcomponent.com
 dischargeinsularbroadly.com
 dischargemakerfringe.com
+disciplecousinendorse.com
 disciplineagonywashing.com
 disciplineinspirecapricorn.com
 discloseprogramwednesday.com
@@ -10838,6 +10854,7 @@ drummercrouchdelegate.com
 drumusherhat.com
 drunkardashamethicket.com
 drunkarddecentmeals.com
+drunkendecembermediocre.com
 drust-gnf.com
 druttlelimbec.digital
 drvkypkfm.com
@@ -12012,6 +12029,7 @@ eptougry.net
 epu.sh
 epushclick.com
 eputysolomon.com
+epvusxjbpodbh.com
 epxmxnhjqknsuql.com
 epynkklzkvnvs.com
 eqads.com
@@ -12847,6 +12865,7 @@ fccinteractive.com
 fcharacaena.com
 fciyckhlpdxou.xyz
 fckmedate.com
+fclmhohgj.com
 fclwqrglxgyye.com
 fclypuqnbykp.xyz
 fcpfth.xyz
@@ -13300,6 +13319,7 @@ flashb.id
 flashclicks.com
 flashingmeansfond.com
 flashingnicer.com
+flashingnumberpeephole.com
 flashlightstypewriterparquet.com
 flashnetic.com
 flashycontagiouspulverize.com
@@ -13374,6 +13394,7 @@ floatingfolly.com
 floccischlump.com
 flockinjim.com
 flocooncuprum.top
+flogpointythirteen.com
 flogunethicalexceedingly.com
 flomigo.com
 floodeighty.com
@@ -13874,6 +13895,7 @@ frmpbwotg.com
 frockritequell.com
 frockswatpelt.com
 frocogue.store
+froggytablier.top
 frogmenislets.uno
 frogrugby.com
 frokbsuagevsy.com
@@ -14213,6 +14235,7 @@ gammabendlet.website
 gammae.com
 gammamkt.com
 gammaplatform.com
+gammradiation.space
 gamondcaingin.guru
 gamonemule.top
 gamvbfdrybtkug.com
@@ -14235,6 +14258,7 @@ gaqscipubhi.com
 gaquxe8.site
 garagesewe.com
 garbagereef.com
+gardenbilliontraced.com
 gardeningreact.com
 gardeningseparatedudley.com
 gardoult.com
@@ -14490,6 +14514,7 @@ gftasruowjnsc.xyz
 gftkofhnz.com
 gfuaveumtb.xyz
 gfunwoakvgwo.com
+gfupivnzaxi.com
 gfzbdtwtlw.com
 ggeaqltgasbcysu.com
 ggetsurv4youu.com
@@ -14897,6 +14922,7 @@ gnqtageoyy.com
 gnuppbsxa.xyz
 gnvpmftcgp.com
 go-cpa.click
+go-g3t-msg.com
 go-g3t-som3.com
 go-rillatrack.com
 go-srv.com
@@ -15049,6 +15075,7 @@ gossipsize.com
 gossipylard.com
 gostoamt.com
 got-to-be.com
+got-to-be.net
 gotchaih.com
 goteat.xyz
 gotherresethat.com
@@ -15489,6 +15516,7 @@ gwallet.com
 gwbgqrxlelrjsi.com
 gwcpdvojom.com
 gweducelne.com
+gwehelqusbpdah.com
 gwemwyqugg.com
 gwfcpecnwwtgn.xyz
 gwhllcipky.com
@@ -16370,6 +16398,7 @@ homierceston.top
 hommmaq.com
 homncjrgbref.com
 hompouka.com
+hondoutdraw.top
 honestlyapparentlycoil.com
 honestlydeploy.com
 honestlyfosterchild.com
@@ -17286,6 +17315,7 @@ incarnatepicturesque.com
 incaskmeldrop.com
 incaveprobeer.digital
 incentivefray.com
+incessanteffectmyth.com
 incessantfinishdedicated.com
 inchestverts.guru
 inchexplicitwindfall.com
@@ -18259,6 +18289,7 @@ jetordinarilysouvenirs.com
 jetpgnebpwm.com
 jetsdulce.com
 jetsowilk.com
+jettrucaprate.top
 jettrujole.com
 jetx.info
 jewelbeeperinflection.com
@@ -19696,6 +19727,7 @@ laqixtkqpfax.com
 laqsvgmjrw.com
 laquearhokan.com
 laqwnrazvywaz.top
+laraliadirt.top
 larasub.conxxx.pro
 larchesleatman.guru
 larchesrotates.com
@@ -20471,6 +20503,7 @@ lonfilliongin.com
 longeargloving.com
 longerbuttonamendment.com
 longerhorns.com
+longestencouragerobber.com
 longestwaileddeadlock.com
 longingarsonistexemplify.com
 longlakeweb.com
@@ -21258,6 +21291,7 @@ mawmishtrior.com
 mawsewtow.com
 mawstroca.top
 maxbounty.com
+maxconvtrk.com
 maxhold.xyz
 maxigamma.com
 maxim.pub
@@ -21916,6 +21950,7 @@ mnaujmo.com
 mnbvjhg.com
 mncvjhg.com
 mndjcojpsdcr.com
+mndlvr.com
 mndsrv.com
 mndvjhg.com
 mnekumtrssln.com
@@ -23358,6 +23393,7 @@ notcotal.com
 notdyedfinance.com
 notebookbesiege.com
 notebookmedicine.com
+notepositivelycomplaints.com
 notesbook.in
 nothiermonicg.com
 nothingnightingalejuly.com
@@ -23387,6 +23423,7 @@ notonthebedsheets.com
 notorietycheerypositively.com
 notorietynoblemanproposition.com
 notorietyobservation.com
+notorietyterrifiedwitty.com
 notoriouscount.com
 notoriousentice.com
 notos-yty.com
@@ -23697,6 +23734,7 @@ oahosaisaign.com
 oainternetservices.com
 oaiweznjo.com
 oajagroax.com
+oajsffmrj.xyz
 oakaumou.xyz
 oakbustrp.com
 oakchokerfumes.com
@@ -24174,6 +24212,7 @@ omclyzyapf.com
 omcrobata.com
 omdittoa.com
 omegatrak.com
+omelettebella.com
 omelettecrippledemployee.com
 omenrandomoverlive.com
 omenreprimanddesigner.com
@@ -24645,6 +24684,7 @@ oswegomiting.com
 oszzxhqhfh.com
 otabciukwurojh.xyz
 otarbadvnmrap.com
+otbackstage2.online
 otbuzvqq8fm5.com
 othbhe2.com
 othbor.com
@@ -24701,6 +24741,7 @@ oulrarta.net
 oulrukry.xyz
 oulsools.com
 oulukdliketo.shop
+oumainseeba.xyz
 oumpashy.net
 oumtirsu.com
 ounceanalogous.com
@@ -24881,6 +24922,7 @@ overwhelmfarrier.com
 overwhelmhavingbulky.com
 overwhelmingconclusionlogin.com
 overwhelmingdarncalumny.com
+overwhelmingoblige.com
 overwiththinlea.info
 overzoruaon.com
 overzubatan.com
@@ -25098,6 +25140,7 @@ pallonenuda.top
 palmcodliverblown.com
 palmmalice.com
 palpablefungussome.com
+palpablememoranduminvite.com
 palroudi.xyz
 paltryheadline.com
 palvanquish.com
@@ -25170,6 +25213,7 @@ parecyrclame.com
 parentingcalculated.com
 parentlargevia.com
 parentpensionvolunteer.com
+parentsatellitecheque.com
 paripartners.ru
 paris-lno.com
 parishconfinedmule.com
@@ -25477,6 +25521,7 @@ pegirs.com
 pegloang.com
 peirs5tbakchios.com
 pejzeexukxo.com
+pekcbuz.com
 pelagictanjib.com
 pelamydlours.com
 pelargiunmelt.top
@@ -25920,6 +25965,7 @@ pillthingy.com
 pilltransgress.com
 piloteegazy.com
 piloteraser.com
+pilotnourishmentlifetime.com
 pilpulbagmen.com
 pilsarde.net
 piltockcurt.top
@@ -26082,6 +26128,7 @@ platelosingshameless.com
 platenssitient.com
 platesworked.com
 platform-hetcash.com
+platformallowingcame.com
 platformsbrotherhoodreticence.com
 platformsrespected.com
 platinumbother.com
@@ -26252,6 +26299,7 @@ poghaurs.com
 pognamta.net
 pogothere.xyz
 pohlbe.com
+pohsoneche.info
 poi3d.space
 poignantsensitivenessforming.com
 poinct.com
@@ -26270,6 +26318,7 @@ poisebullan.com
 poiseplato.com
 poisism.com
 poisonencouragement.com
+poisonousamazing.com
 pokaroad.net
 pokerobjet.com
 poketraff.com
@@ -27102,6 +27151,7 @@ psurouptoa.com
 psvgnczo.com
 pswagjx.com
 psychicbowel.com
+psychiczygaena.top
 psycholjicaque.com
 psychologicalpaperworkimplant.com
 psychologycircumvent.com
@@ -27377,6 +27427,7 @@ pushdrop.club
 pushdusk.com
 pushebrod.com
 pushedgraceful.com
+pushedwaistcoat.com
 pushedwebnews.com
 pushego.com
 pusheify.com
@@ -27944,6 +27995,7 @@ r66net.com
 r66net.net
 r932o.com
 raadth.com
+rabbitsshortwaggoner.com
 rabbitsverification.com
 rabblefang.com
 rabblelobbyfry.com
@@ -29133,6 +29185,7 @@ rollserver.xyz
 rolltrafficroll.com
 romance-net.com
 romancemind.com
+romancepotsexists.com
 romaninformcompensate.com
 romanlicdate.com
 romansatma.com
@@ -30283,6 +30336,7 @@ shaimsaijels.com
 shaimsoo.net
 shaingempee.com
 shainsie.com
+shairdrabitic.top
 shaishet.xyz
 shaisole.com
 shakamech.com
@@ -30317,6 +30371,7 @@ sharesceral.uno
 shareweeknews.com
 sharieta.com
 sharion.xyz
+sharkbleed.com
 sharkflowing.com
 sharpofferlinks.com
 sharpphysicallyupcoming.com
@@ -30804,6 +30859,7 @@ sledimitationsegment.com
 sledsplenism.com
 sleekemblemenclose.com
 sleekextremeadmiring.com
+sleepytoadfrosty.com
 sleevemisuseadvice.com
 sleeveturbulent.com
 slendercosts.com
@@ -31274,6 +31330,7 @@ specialisthuge.com
 specialistinsensitive.com
 specialistrocky.com
 specialityharmoniousgypsy.com
+specialitypassagesfamous.com
 speciallysang.com
 specialtaskevents.com
 specialtymet.com
@@ -31359,6 +31416,7 @@ splashfloating.com
 splashforgodm.com
 splashsjewels.com
 splendidatmospheric.com
+splendidfeel.pro
 spleniafallows.com
 splief.com
 splittingpick.com
@@ -31888,6 +31946,7 @@ strongesthaste.com
 stroyerunfiery.uno
 strtgic.com
 structurecolossal.com
+structurepageantphotograph.com
 strugglecookingtechnically.com
 strugglingclamour.com
 strumascarman.life
@@ -31986,6 +32045,7 @@ successionfireextinguisher.com
 successionflimsy.com
 successorpredicate.com
 successorwindscreeninstruct.com
+succisasubset.top
 suchasricew.info
 suchbasementdarn.com
 suchcesusar.org
@@ -32595,6 +32655,7 @@ tdrtqjbifwl.com
 tdspa.top
 tdwbcjgaal.com
 teachingcosmetic.com
+teachingopt.com
 teachleaseholderpractitioner.com
 teachmewind.com
 teads.tv
@@ -32629,6 +32690,7 @@ teddedskeich.com
 teddynineteenthpreoccupation.com
 tedious-weight.pro
 tediousdetective.com
+tediousgorgefirst.com
 tediouswavingwhiskey.com
 tedtug.com
 tedxffemqblmk.xyz
@@ -32672,6 +32734,7 @@ telescopesemiprominent.com
 telescopespinal.com
 televeniesuc.pro
 televisionjitter.com
+telferstarsi.top
 telingabureaus.top
 telllwrite.com
 tellmadeirafireplace.com
@@ -32714,6 +32777,7 @@ tensagesic.com
 tense-print.pro
 tenseapprobation.com
 tensorsbancos.com
+tentativenegotiate.com
 tentativeroofearlap.com
 tenthgiven.com
 tenthsfrumpy.com
@@ -33081,6 +33145,7 @@ thurnflfant.com
 thursailso.com
 thursdaydurabledisco.com
 thursdayoceanexasperation.com
+thursdaysalesmanbarrier.com
 thusdrink.com
 thusenteringhypocrisy.com
 thusqhlt.com
@@ -33307,6 +33372,7 @@ toccatamotific.com
 todaysbestsellers.com
 toddernovas.digital
 toddlecausebeeper.com
+toddlespecialnegotiate.com
 toddydelayer.com
 toeapesob.com
 toeholdbarrack.life
@@ -34482,6 +34548,7 @@ unelgyemom.com
 unemploymentinstinctiverite.com
 unemploymentmaddenmiddleaged.com
 unemploymentnumeric.com
+unendlyyodeled.top
 unequalbrotherhermit.com
 unequaltravelresearch.com
 unevenobjective.com
@@ -34566,6 +34633,7 @@ unornlysire.com
 unpackjanuary.com
 unpacktexture.com
 unpackthousandmineral.com
+unpaledbooker.top
 unpanchamon.com
 unpaundlagot.com
 unphionetor.com
@@ -35076,6 +35144,7 @@ variouscreativeformats.com
 variousformatscontent.com
 variouspheasantjerk.com
 varnishmixed.com
+varnishmosquitolocust.com
 varorlowjo.com
 varshacundy.com
 vartoken.com
@@ -35303,6 +35372,7 @@ vic-m.co
 vicious-instruction.pro
 viciousdepartment.com
 viciousdiplomaroller.com
+victimcondescendingcable.com
 victorious-shock.pro
 victoriousagency.pro
 victory-vids.online
@@ -35637,6 +35707,7 @@ voluumtrk3.com
 volyze.com
 vomitelse.com
 vomitlifeboatparliamentary.com
+vonciejsx.com
 vonkol.com
 vooculok.com
 vookamoo.com
@@ -35874,6 +35945,7 @@ waitheja.net
 waiting.biz
 waiwodemanila.com
 wakelardassistance.com
+wakemessyantenna.com
 wakenssponged.com
 walaheewakwafi.com
 walkedcreak.com
@@ -36030,6 +36102,7 @@ wazaki.xyz
 wazctigribhy.com
 wazensee.net
 waztahsmal.com
+wazzeyzloayz.top
 wazzeyzlozyj.top
 wbdds.com
 wbdqwpu.com
@@ -36791,6 +36864,7 @@ worthconesquadron.com
 worthless-living.pro
 worthlessanxiety.pro
 worthlesspattern.com
+worthlessstrings.com
 worthspontaneous.com
 worthwhile-chance.com
 worthwhileawe.com
@@ -37241,6 +37315,7 @@ xmsflzmygw.com
 xmverqdrjodohf.com
 xnedglnnwrexss.com
 xnkjlnyefuohbgn.xyz
+xnrowzw.com
 xnszbmnxuzfvr.com
 xntrmky.com
 xnumzelehhhnnc.com
@@ -45160,6 +45235,8 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+cdn-channels-pixel.ex.co
+t.iwara.tv
 collector.xhofficial.com
 logs-partners.coupang.com
 sioa.chewy.com
@@ -48069,7 +48146,6 @@ capture-api.ap3prod.com
 capture.condenastdigital.com
 caspionlog.appspot.com
 ccexperimentsstatic.oracleoutsourcing.com
-cdn-channels-pixel.ex.co
 cf.overblog.com
 cgicounter.oneandone.co.uk
 cgicounter.puretec.de
@@ -54494,6 +54570,7 @@ app.senaobz.cc
 apphdbank.fun
 apple-vn.shop
 apple.icloud.mar-kt.com.mx
+apple.support-find-my-iphone.com
 apps-for-pc.com
 appvaytien.vn
 apteka-money.ru
@@ -54722,6 +54799,7 @@ cskh-dienmay-xanh.com
 cskh-dienmayxanhvn.com
 cskh-the-vpbank.com
 cskh-vib-canhan.com
+cskh-vib.ho-tro-tin-dung-ca-nhan.com
 cskhdienmayxanh.com
 cskhdienmayxanhvn.com
 cskhmayxanh.com
@@ -54792,11 +54870,13 @@ dich-vu-the-vdiamond-vpbank.com
 dich-vu-the-vvip-vpb.com
 dich-vu-update-vpbank.com
 dich-vu-vip3-vib.com
+dich-vu-xvip-vib.com
 dichvu-chuyentien24h.000webhostapp.com
 dichvu-dien-mayxanh.com
 dichvuchuyentien-ind.weebly.com
 dichvucong-gov.com
 dichvucong.agov.net
+dichvucong.cvgov.com
 dichvucong.dancuquocgia.net
 dichvucong.dulieuquocgia.com
 dichvucong.hgov.cc
@@ -54908,6 +54988,7 @@ eserbank.com
 essbritanidim.club
 etkf44.com
 eufk22.com
+eufk55.com
 eulo11.com
 eulo99.com
 evay.info
@@ -55832,6 +55913,7 @@ morganbank.online
 morganbank.pw
 morganbank.site
 morganbankk.com
+motaikhoanchungkhoanvps.com
 motaikhoannganhang.online
 mothe.tindung-hd.com
 moviet.icu
@@ -56105,6 +56187,7 @@ nganhang88.online
 nganhang88.store
 nganhanganbinh.com
 nganhangbidv.com
+nganhangsaigon.org
 nganhangsaokevnn.com
 nganhangshopeevn.com
 nganhangsk.online
@@ -56442,6 +56525,7 @@ rutwdj.id
 rwrb55.com
 rwrb66.com
 s22khuyenmai.xyz
+s33788.com
 sacchaeleduk.com
 sacombank.net.vn
 sacombank.vn-ne.top
@@ -56493,6 +56577,7 @@ shbfinans.com
 shbkhuyenmai.com
 shek66.com
 shilla.skrfgrl.cn
+shinhan.ho-tro-tin-dung-ca-nhan.com
 shinhan0.com
 shinhanapp.org
 shinhanbank-khcn.com
@@ -57106,6 +57191,7 @@ taikhoanbankshopee.com
 taikhoanquatang.vn
 taikhoansodienthoai.com
 taikhoanveri04.atwebpages.com
+taikhoanvps.com.vn
 tailocmomo.com
 tainangvietnhi.rf.gd
 tainangvietnhi.weebly.com
@@ -57269,6 +57355,7 @@ tikictv7.com
 tikictv9.com
 tikihk.com
 tikiiii.com
+tikimall.org
 tikimall.top
 tikimast.com
 tikion8.com
@@ -57355,6 +57442,7 @@ tinthuongvietvn.com
 tinthuongvn01.com
 tintinvay.com
 tintrian2022.com
+tintuc-24h.com
 tintucnganhang.fun
 tinvay.vn
 tinvietttt.com
@@ -57385,6 +57473,7 @@ totycb.cyou
 tpbank-com.com
 tpbank-hanoi.com
 tpbank-vaynhanh.com
+tpbank.chamsocthekhachhang-truc-tuyen.com
 tpbank.vn-vpb.top
 tpbank84.com
 tpbankc.com
@@ -57758,6 +57847,7 @@ vib.chamsocthekhachang-tructuyen.com.vn
 vib.khach-hang-the-tructuyen.com
 vib.khach-hang-the-tructuyen.online
 vib.mobi
+vib.truc-tuyen-cham-socthekhachhang.com
 vib.tructuyen-chamsockhachang-the.com
 vib.tuvan-chamsockhachhang.com
 vib8-vay.com
@@ -58073,10 +58163,13 @@ vn55779p.com
 vn55866shp.com
 vn6315shp.com
 vn66733shop.com
+vn667755s.com
 vn66954shp.com
 vn6932shp.com
 vn765.com
+vn78223p.com
 vn85548s.com
+vn86414s.com
 vn88631p.com
 vn88khuyenmai.life
 vn88khuyenmai.site
