@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 02 Apr 2024 23:47:57 +0000
+# Last converted - Wed, 03 Apr 2024 01:39:30 +0000
 #
 
 longestsundays.com
@@ -2472,6 +2472,7 @@ adfpoint.com
 adframesrc.com
 adfrontiers.com
 adfusion.com
+adfyre.co
 adg99.com
 adgard.net
 adgardener.com
@@ -3188,6 +3189,7 @@ aiiirwciki.com
 aiixyxwx.com
 aikat-vim.com
 aikboypeoriqk.com
+aikeroxqbgj.com
 aikraboo.com
 aikraith.net
 aikravoapu.com
@@ -3265,6 +3267,7 @@ aj2526.bid
 aj2532.bid
 aj2550.bid
 aj2555.bid
+aj2627.bid
 ajaltoly.com
 ajar-substance.com
 ajarodds.com
@@ -20622,6 +20625,7 @@ lorgnonanvils.top
 lormeryacarari.website
 lorrylips.com
 lorsreatas.guru
+lorswhowishe.com
 lorumotwnkkkk.com
 lorybnfh.com
 losercurt.com
@@ -24357,6 +24361,7 @@ ondatrakrafts.com
 ondeerlingan.com
 ondewottom.com
 ondpjzusmncg.com
+ondshub.com
 ondybazars.guru
 oneadvupfordesign.com
 oneclck.net
@@ -31005,6 +31010,7 @@ smallanybody.pro
 smallerconceivesixty.com
 smallerfords.com
 smallestbiological.com
+smallestgirlfriend.com
 smallestunrealilliterate.com
 smallfunnybears.com
 smallstrengthen.com
@@ -39743,6 +39749,7 @@ utiq.wa.de
 1437953666.rsc.cdn77.org
 1482376030.rsc.cdn77.org
 1489104297.rsc.cdn77.org
+1529462937.rsc.cdn77.org
 1612118426.rsc.cdn77.org
 1675450967.rsc.cdn77.org
 1687654299.rsc.cdn77.org
@@ -58736,6 +58743,7 @@ dzfzak.cn
 dzuht.cn
 eaqlos.xyz
 ebgwdon.cn
+ebwonro.cn
 edjjpgf.xyz
 edler.cn
 efmtsw.xyz
@@ -58814,6 +58822,7 @@ hvxrvef.xyz
 hyusnisu.top
 ijvla.cn
 imevzbn.cn
+inalzlo.top
 inifdlao.top
 inworket.com
 irayedo.cn
@@ -58836,6 +58845,7 @@ jtyusia.top
 jubnpx.xyz
 justapp.top
 jvkqkzu.cn
+jwhdgt.icu
 jyuwkba.top
 jzjpntr.xyz
 kbomku.xyz
@@ -58896,6 +58906,7 @@ nkbkor.icu
 nlhpxj.xyz
 nljrvdh.xyz
 nowhern.com
+npjvgug.xyz
 nplahh.xyz
 nsjnmx.icu
 nvdtdsd.xyz
@@ -58914,6 +58925,7 @@ oojjsa.com
 oppnfev.xyz
 osisk.com
 ostjpig.cn
+osusjsga.com
 ovjlccs.xyz
 oxkyaq.xyz
 oxvlxwz.xyz
@@ -58946,6 +58958,7 @@ qetskupyka61.shop
 qhemphox.com
 qhocciks.com
 qhodog.xyz
+qkscga.xyz
 qlbbowx.xyz
 qnifdlay.top
 qqkkpos.com
@@ -59007,6 +59020,7 @@ szmnk.cn
 szmnl.cn
 szmnm.cn
 szmpy.cn
+szmyl.cn
 szpnz.cn
 szptp.cn
 szpwh.cn
@@ -59081,6 +59095,7 @@ xdmnlxtu.xyz
 xdrvkdni.xyz
 xdybwjpa.xyz
 xedpzh.xyz
+xgjidt.xyz
 xhbshv.xyz
 xhfxtqt.xyz
 xizanzhi.com
@@ -59126,14 +59141,12 @@ zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
 zopuqv.icu
-ebwonro.cn
-inalzlo.top
-qkscga.xyz
-xgjidt.xyz
-jwhdgt.icu
-npjvgug.xyz
-szmyl.cn
-osusjsga.com
+jnalzla.top
+kwqnki.xyz
+rawmtft.cn
+nawpyd.icu
+fqbjzj.xyz
+zhnnaxe.xyz
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
@@ -63411,7 +63424,6 @@ z.nowscore.com
 zt2088.com
 ztyumn.ifeng.com
 27gh.cc
-vjvj.vj24co.com
 003store.com
 0941.org
 1.07swz.com
@@ -63476,6 +63488,7 @@ vjvj.vj24co.com
 123456.asia
 17.huanqiu.com
 177o.com
+192.luyouwang.com
 1999019.com
 1buu1.penyouw.com
 2.haoxue360.com
@@ -63627,7 +63640,6 @@ b1.engdvd.com
 b1.xiao84.com
 b17.8794.cn
 b7sw62.pingshu8.xyz
-192.luyouwang.com
 baidu1.cardbaobao.com
 baidu1.codejie.net
 baidujs.cnys.com
@@ -64079,6 +64091,7 @@ v1.phb123.com
 v1.taksh.cn
 v1.wphonelife.com
 vip.panggugu.com
+vjvj.vj24co.com
 vv1.pyhfxdm.cn
 vvv.ieduw.com
 w.anmeihe.cn
