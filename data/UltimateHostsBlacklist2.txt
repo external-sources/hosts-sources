@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Thu, 04 Apr 2024 04:59:01 +0000
+# Last converted - Thu, 04 Apr 2024 08:58:57 +0000
 #
 
 readmo.yahoo.com

@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 04 Apr 2024 04:58:05 +0000
+# Last converted - Thu, 04 Apr 2024 08:58:12 +0000
 #
 
 rsldfvt.com
@@ -59033,6 +59033,11 @@ fadhvz.xyz
 wioboy.xyz
 rkgbqn.icu
 pp1hl.xyz
+88lm09.com
+tnmpd.xyz
+cbthkumwa96.shop
+rdiono.cn
+nmntgd.cn
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
