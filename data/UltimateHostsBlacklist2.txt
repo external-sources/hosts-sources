@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Fri, 05 Apr 2024 16:58:46 +0000
+# Last converted - Fri, 05 Apr 2024 20:58:44 +0000
 #
 
 readnotify.com
@@ -140551,6 +140551,7 @@ www.colombiaonline.com
 www.colon.co.il
 www.coloradomesa.org
 www.coloradospringsroofing.info
+www.colorcardpro.com
 www.colorguild.org
 www.coloritpak.by
 www.colorkids.net
