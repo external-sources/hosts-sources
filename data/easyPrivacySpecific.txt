@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 05 Apr 2024 13:00:36 +0000
+# Last converted - Fri, 05 Apr 2024 16:58:26 +0000
 #
 
 a-reporting.nytimes.com
@@ -471,7 +471,6 @@ stats.wwitv.com
 stats2.mytuner.mobi
 statsegg.cdngeek.com
 streamstats.prd.dlive.tv
-svc.eu01.miro.com
 szrpr.raen.com
 t.9gag.com
 t.airasia.com

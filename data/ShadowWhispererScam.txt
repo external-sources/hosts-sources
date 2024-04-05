@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Fri, 05 Apr 2024 13:00:48 +0000
+# Last converted - Fri, 05 Apr 2024 16:58:39 +0000
 #
 
 007-dvd.com
@@ -3981,6 +3981,7 @@ epsonsupportnumbers.com
 epsonsupports.net
 epsonyetkiliservis.com
 equalitystatenews.com
+equidogkine.com
 equinecetpharma.com
 equityadvocatesllp.com
 equivalentk.com
@@ -7069,6 +7070,7 @@ mansrioned.com
 manuelricardosanchez.com
 manzinifarms.co.za
 manzinifarmss.co.za
+maplefling.com
 maplemistress.com
 marcjabags.us
 marcjacobsofficial.com
@@ -7954,6 +7956,7 @@ nhadatcantho.top
 nhbusinessdaily.com
 nibaragdollhome.com
 nicefeaturing.com
+nicegiftstore.net
 nicelyforme.com
 niceteacuppuppies.com
 niceteeshops.com
