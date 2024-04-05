@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 04 Apr 2024 20:57:48 +0000
+# Last converted - Fri, 05 Apr 2024 01:39:24 +0000
 #
 
 rsldfvt.com
@@ -1283,6 +1283,7 @@ mine.torrent.pw
 218emo1t.de
 21hn4b64m.de
 21sexturycash.com
+21wiz.com
 22081b1c58.com
 22256da88b.com
 2295b1e0bd.com
@@ -9621,8 +9622,8 @@ deceivedmisunderstand.com
 decemberaccordingly.com
 decencyjessiebloom.com
 decencysoothe.com
-decentpatent.com
 decenthat.com
+decentpatent.com
 decentpension.com
 deceptionhastyejection.com
 decibaraglare.com
@@ -17176,6 +17177,7 @@ imglnkd.com
 imglnke.com
 imgot.info
 imgot.site
+imgqmng.com
 imgsdn.com
 imgsniper.com
 imgspics.com
@@ -32179,6 +32181,7 @@ supervisionlanguidpersonnel.com
 supervisionprohibit.com
 supervisorabyss.com
 superxxxfree.com
+supgedcowxkmzr.com
 suphelper.com
 supied.com
 suppermalignant.com
@@ -34230,6 +34233,7 @@ tzaho.com
 tzaqkp.com
 tzaristdiploma.com
 tzegilo.com
+tzgcwfvrf.com
 tzgygfy.com
 tzngtmzpvysh.com
 tzrlfzwyicvj.com
@@ -39633,7 +39637,9 @@ utiq.wa.de
 10945-2.s.cdn15.com
 10945-5.s.cdn15.com
 1187531871.rsc.cdn77.org
+1274355588.rsc.cdn77.org
 1437953666.rsc.cdn77.org
+1472566097.rsc.cdn77.org
 1529462937.rsc.cdn77.org
 1675450967.rsc.cdn77.org
 1736253261.rsc.cdn77.org
@@ -59059,6 +59065,12 @@ zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
 zopuqv.icu
+yqlxkzs.cn
+xrrxodz.xyz
+iummqg.xyz
+snalzlb.top
+nkfith.xyz
+vuvnix.icu
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
