@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 05 Apr 2024 20:57:54 +0000
+# Last converted - Sat, 06 Apr 2024 01:37:01 +0000
 #
 
 mpsauudmnwarh.com
@@ -4624,6 +4624,7 @@ autographnutmegassail.com
 automatedtraffic.com
 automateyourlist.com
 automaticallyindecisionalarm.com
+automenunct.com
 autoperplexturban.com
 autopsycarrel.com
 autopsyfowl.com
@@ -5816,7 +5817,6 @@ biteburied.com
 bitemisuse.com
 biteneverthelessnan.com
 bitesized-commission.pro
-bits.avcdn.net
 bitsspiral.com
 bittenlacygreater.com
 bitterborder.pro
@@ -19962,6 +19962,7 @@ lecticashaptan.com
 lecythleche.website
 ledaoutrush.com
 ledgesprimely.com
+ledgingalcaid.com
 ledhatbet.com
 ledrapti.net
 ledslevier.com
@@ -20522,6 +20523,7 @@ logicconfinement.com
 logicdate.com
 logicdripping.com
 logicorganized.com
+logicschort.com
 loglabitrufly.top
 loglaupt.com
 logsgroupknew.com
@@ -25732,6 +25734,7 @@ pesteroverwork.com
 pesterunusual.com
 pestilenttidefilth.org
 petalycnida.com
+petasmaeryops.com
 petasmaupbore.website
 petasusawber.com
 petchesa.net
@@ -26349,6 +26352,7 @@ pohlbe.com
 pohsoneche.info
 poi3d.space
 poignantsensitivenessforming.com
+poilloiter.top
 poinct.com
 poined.com
 pointed-deal.pro
@@ -39647,6 +39651,7 @@ googleadsserving.cn
 googlevads-cn.com
 2aeabdd4-3280-4f03-bc92-1890494f28be.xyz
 e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
+fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz
 ad.lgappstv.com
 ad.nettvservices.com
 ads.samsung.com
@@ -59118,6 +59123,11 @@ zhnnaxe.xyz
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
+q02orc.cn
+enalzlw.top
+nuhgpx.xyz
+ojvpigx.xyz
+utkauo.xyz
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz
