@@ -1,6 +1,6 @@
 # BaddBoyzHosts
 #
 # Converted from - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# Last converted - Sat, 06 Apr 2024 04:57:44 +0000
+# Last converted - Sat, 06 Apr 2024 08:57:42 +0000
 #
 
