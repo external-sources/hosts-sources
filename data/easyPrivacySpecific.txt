@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 06 Apr 2024 01:37:27 +0000
+# Last converted - Sat, 06 Apr 2024 04:58:09 +0000
 #
 
 a-reporting.nytimes.com
@@ -428,6 +428,7 @@ sapphire-api.target.com
 search.anonymous.ads.brave.com
 shopmetric.rediff.com
 sid.nordstrom.com
+sjc.cloud.optable.co
 slipstream.skyscanner.net
 smetrics.couponcabin.com
 smetrics.ralphlauren.com
