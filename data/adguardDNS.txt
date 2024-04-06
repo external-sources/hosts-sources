@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 06 Apr 2024 04:57:43 +0000
+# Last converted - Sat, 06 Apr 2024 08:57:41 +0000
 #
 
 mpsauudmnwarh.com
@@ -19320,6 +19320,7 @@ kmyaklgcik.com
 kmyunderthf.info
 knackseafood.com
 knaplpdmbrbi.com
+knappedmurshid.com
 knaveavo.guru
 knawelgrx.com
 kncecafvdeu.info
@@ -39260,6 +39261,7 @@ nexage.com
 nexeps.com
 nextclick.pl
 nextmillennium.io
+nextmillmedia.com
 nextoptim.com
 nitmus.com
 nitropay.com
@@ -39807,6 +39809,7 @@ pics.firstload.de
 plchldr.co
 popmog.com
 promos.fling.com
+proto2ad.durasite.net
 pubfeed.linkby.com
 public.porn.fr
 qsearch-a.akamaihd.net
@@ -59128,6 +59131,13 @@ enalzlw.top
 nuhgpx.xyz
 ojvpigx.xyz
 utkauo.xyz
+zekzoh.icu
+naihyvz.cn
+555bbb333bbb.com
+adzdgr-wadd2-f1d.com
+img8e51zy4bg.com
+img8e94zy4bg.com
+m1170.top
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz

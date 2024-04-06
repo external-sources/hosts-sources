@@ -1,7 +1,7 @@
 # Phishing.Database
 #
 # Converted from - https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
-# Last converted - Sat, 06 Apr 2024 04:58:15 +0000
+# Last converted - Sat, 06 Apr 2024 08:58:14 +0000
 #
 
 0-i-fdik.000webhostapp.com
@@ -24247,7 +24247,6 @@ frank.alineonline.com
 frankballsrepair.com
 frankbernhard.com
 frankelectric.com
-frankerfacez.com
 frankiegrullon.com
 frankieoverrule.co.kr
 franklincovey.co.ke
