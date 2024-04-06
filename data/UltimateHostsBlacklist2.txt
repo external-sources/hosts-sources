@@ -1,10 +1,9 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sat, 06 Apr 2024 16:58:36 +0000
+# Last converted - Sat, 06 Apr 2024 20:58:57 +0000
 #
 
-readnotify.com
 readprojectorphan.com
 readreviewsonline.com
 readscoops.onesignal.com
@@ -134267,7 +134266,6 @@ www.6iranfilm.org
 www.6kup12tgxx.com
 www.6lk4y.voluumtrk.com
 www.6m.pl
-www.6ox.de
 www.6sense.com
 www.6server.com
 www.6stuff.com
@@ -134789,7 +134787,6 @@ www.5835131.fls.doubleclick.net
 www.5879019.fls.doubleclick.net
 www.5942083.fls.doubleclick.net
 www.5998624.fls.doubleclick.net
-www.6000518.com
 www.6020701.fls.doubleclick.net
 www.6100198.fls.doubleclick.net
 www.6108318.fls.doubleclick.net
@@ -140551,7 +140548,6 @@ www.colombiaonline.com
 www.colon.co.il
 www.coloradomesa.org
 www.coloradospringsroofing.info
-www.colorcardpro.com
 www.colorguild.org
 www.coloritpak.by
 www.colorkids.net
