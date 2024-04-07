@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 07 Apr 2024 04:57:52 +0000
+# Last converted - Sun, 07 Apr 2024 08:57:55 +0000
 #
 
 mpsauudmnwarh.com
@@ -59153,6 +59153,7 @@ wnalzle.top
 vejhln.xyz
 obgekjz.icu
 atzhcjv.xyz
+m6j37.xyz
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz

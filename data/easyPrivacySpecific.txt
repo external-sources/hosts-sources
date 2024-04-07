@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 07 Apr 2024 04:58:24 +0000
+# Last converted - Sun, 07 Apr 2024 08:58:23 +0000
 #
 
 a-reporting.nytimes.com
@@ -153,6 +153,7 @@ cstats.sankakucomplex.com
 cwt.citywire.info
 d.skk.moe
 d401.dollartree.com
+d712.theinformation.com
 dabu.askmediagroup.com
 data.allstate.com
 data.guide.photobucket.com
