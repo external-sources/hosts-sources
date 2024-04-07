@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 07 Apr 2024 16:58:39 +0000
+# Last converted - Sun, 07 Apr 2024 20:57:45 +0000
 #
 
 mpsauudmnwarh.com
@@ -1677,6 +1677,7 @@ mine.torrent.pw
 61739011039d41a.com
 6179b859b8.com
 61ba68472f.com
+61zdn1c9.skin
 6207684432.com
 62b70ac32d4614b.com
 62f9bb0bbc.com
@@ -14626,6 +14627,7 @@ gilcxqgcbebbo.xyz
 giliakmisdaub.com
 gilinstruggle.org
 gilledwebeye.life
+gillpwiul.com
 gillsapp.com
 gillsisabellaunarmed.com
 gillstaught.com
@@ -19822,6 +19824,7 @@ laudulut.com
 laughbuckle.com
 laughedaffront.com
 laughedrevealedpears.com
+laughingrecordinggossipy.com
 laughteroccasionallywarp.com
 lauglaph.net
 laugoust.com
@@ -34015,6 +34018,7 @@ trytipemo.com
 ts134lnki1zd5.pro
 tsandycateup.com
 tsapphires.buzz
+tsapphiresand.info
 tsaristcanapes.com
 tsarkinds.com
 tsbntfjyijlx.com
@@ -38235,6 +38239,7 @@ zonealta.com
 zonupiza.com
 zonureflakier.uno
 zoocheeh.net
+zoogripi.com
 zoojepsainy.com
 zoologicalviolatechoke.com
 zoologyhuntingblanket.com
@@ -45322,6 +45327,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+collector.xhaccess.com
 amplitude.chess.com
 matomo.cloudfront.similarweb.io
 r451.jamanetwork.com
@@ -58565,6 +58571,7 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+0322cfmtl.cc
 0940088.com
 0j775d.cn
 0k7wod.cn
@@ -58614,11 +58621,13 @@ aourgk.xyz
 ariqye.xyz
 arnhhwo.xyz
 arqvm.cn
+atzhcjv.xyz
 awuvcq.xyz
 azyuuk.xyz
 b37r5.cyou
 batijian.com
 bba9603w.com
+bdjfea.cn
 bdtdat652.shop
 bdxpdz.xyz
 benpsbp.com
@@ -58754,6 +58763,7 @@ fztyrv.xyz
 gblxtlo.xyz
 gcumgu.xyz
 gfjn5.xyz
+gfylyw.xyz
 ghgasdb365.shop
 ghgasdt963.shop
 gicjtss.cn
@@ -58866,6 +58876,7 @@ ly55442.com
 lznfuab.xyz
 m1170.top
 m6690.top
+m6j37.xyz
 mdhv3.icu
 mdzwjra.cn
 misjgy.xyz
@@ -58902,6 +58913,7 @@ nvdtdsd.xyz
 nvjqtz.xyz
 nyt5j.cyou
 o1b04.cyou
+obgekjz.icu
 obturex.com
 ocggec.xyz
 ofkcww.xyz
@@ -59068,9 +59080,11 @@ vaekkfv.cn
 vcnpnf.xyz
 vdvcjlp.cn
 veaiyl.icu
+vejhln.xyz
 vfchm.cyou
 vflorp.xyz
 vhvwlb.xyz
+vioyugo.cn
 vmnlkr.icu
 vpzohx.xyz
 vszzzj.xyz
@@ -59084,6 +59098,7 @@ wioboy.xyz
 wisealty.com
 wjwod.cyou
 wkywrc.cn
+wnalzle.top
 wnifdlae.top
 wnmaoc.xyz
 wopvmmy.cn
@@ -59147,14 +59162,6 @@ zhnnaxe.xyz
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
-gfylyw.xyz
-bdjfea.cn
-wnalzle.top
-vejhln.xyz
-obgekjz.icu
-atzhcjv.xyz
-m6j37.xyz
-vioyugo.cn
 zopuqv.icu
 zsjpi.cn
 zttuvj.xyz

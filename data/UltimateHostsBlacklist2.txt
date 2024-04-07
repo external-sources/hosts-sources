@@ -1,9 +1,13 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sun, 07 Apr 2024 16:59:32 +0000
+# Last converted - Sun, 07 Apr 2024 20:58:40 +0000
 #
 
+readmo.yahoo.com
+read-more-for-feed-burner-feed.aweber.com
+readmyfaceebook.000webhostapp.com
+readnotify.com
 readprojectorphan.com
 readreviewsonline.com
 readscoops.onesignal.com
@@ -149215,7 +149219,6 @@ www.mondoperaio.net
 www.mondovan.leadpages.co
 www.monerise.com
 www.monero.crypto-webminer.com
-www.monero-miner.com
 www.monerominer.rocks
 www.moneroocean.stream
 www.monetate.net
