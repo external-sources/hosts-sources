@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Mon, 08 Apr 2024 13:00:37 +0000
+# Last converted - Mon, 08 Apr 2024 16:59:19 +0000
 #
 
 01counter.com
@@ -20025,7 +20025,6 @@ fp.jetztlive.com
 fpjs.io
 fp.msedge.net
 fpnpmcdn.net
-fp.nyc.dailymotion.com
 fps-prod-na-frontdoor.z01.azurefd.net
 fpt2.microsoft.com
 fpt.dfp.microsoft.com
@@ -44862,6 +44861,7 @@ predictive-analytics.ca
 predictiveanalytics.co.ke
 predictiveanalyticsframework.com
 predictiveanalyticsworld.com
+predictivelayer.com
 predictivepotential.com
 predictivesolutions.com
 predictplate.com
@@ -55313,6 +55313,7 @@ stats.2lm.sk
 stats2.marketingcafe.de
 stats2.migosens.de
 stats.2ms-creation.com
+stats2.mytuner.mobi
 stats.2nis.net
 stats2.non.lt
 stats2.paradise-electric.eu
