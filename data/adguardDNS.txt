@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 08 Apr 2024 16:58:37 +0000
+# Last converted - Mon, 08 Apr 2024 20:57:50 +0000
 #
 
 hoomigri.com
@@ -1237,6 +1237,7 @@ mine.torrent.pw
 1f1c1d50fe.com
 1f6f6bfb05.com
 1f7eece503.com
+1f84e33459.com
 1f87527dc9.com
 1f98dc1262.com
 1fd92n6t8.de
@@ -3527,6 +3528,7 @@ alreadyballetrenting.com
 alreadywailed.com
 alreau.com
 alrightlemonredress.com
+alrotdrfhsc.com
 alsatiapolynia.com
 alsfor.com
 alsindustrate.info
@@ -13205,6 +13207,7 @@ findingattending.com
 findingexchange.com
 findnewline.com
 findromanticdates.com
+findslofty.com
 findswiftresults.com
 fine-wealth.pro
 finedintersection.com
@@ -16457,6 +16460,7 @@ honestpeaceable.com
 honeycombastrayabound.com
 honeycombprefecture.com
 honeymoonregular.com
+honitonchyazic.com
 honorablehalt.com
 honorarybreakclank.com
 honorbustlepersist.com
@@ -16695,6 +16699,7 @@ htufhvsglyoy.com
 hturnshal.com
 htwrildnk.xyz
 htyrmacanbty.com
+htysiboswaj.com
 huafivdvnyycfxv.com
 huanez.xyz
 hubbabu2bb8anys09.com
@@ -17452,6 +17457,7 @@ infectedrepentearl.com
 infeofhobbit.com
 inferiorfreedom.com
 inferiorkate.com
+inferiorlove.com
 infesthazardous.com
 infestpaddle.com
 infindiasernment.com
@@ -21387,6 +21393,7 @@ mb38.com
 mb57.com
 mbdfidszzlo.com
 mbdippex.com
+mbewimcotjri.com
 mbgbomrshrecpwj.xyz
 mbgufryceqkoap.com
 mbidadm.com
@@ -23380,6 +23387,7 @@ nondescriptlet.com
 nondescriptmaterial.com
 nondescripttuxedo.com
 nonecoffeehousesuspicious.com
+nonehalides.com
 nonerr.com
 nonesgue.space
 nonesleepbridle.com
@@ -25230,6 +25238,7 @@ pangwealjama.com
 panicmiserableeligible.com
 panisicelectre.top
 pannamdashee.com
+pannamsaluter.com
 pannumregnal.com
 panoz.xyz
 panpant.xyz
@@ -25845,6 +25854,7 @@ phauftee.xyz
 phauraur.com
 phaurtuh.net
 phause.com
+phautchiwaiw.net
 pheasantarmpitswallow.com
 pheasantdestinydisrespect.com
 phee1oci.com
@@ -26575,6 +26585,7 @@ post-redirecting.com
 postalfranticallyfriendship.com
 postalusersneatly.com
 postback.info
+postback1win.com
 postbacks.net
 postcardhazard.com
 postlnk.com
@@ -29347,6 +29358,7 @@ roumakie.com
 rounca.com
 rouncepreyful.com
 round-highlight.pro
+rounddescribe.com
 roundflow.net
 roundlytrabal.cfd
 roundspaniardindefinitely.com
@@ -29752,6 +29764,7 @@ saiwhute.com
 sajewhee.xyz
 sakeoxidelunch.com
 saktismberakes.space
+sakuftaurgo.com
 sakura-traffic.com
 salablyjagless.uno
 salamus1.lol
@@ -29941,6 +29954,7 @@ scamblefeedman.com
 scammereating.com
 scammersupreme.com
 scancemontes.com
+scandiaogamic.com
 scannersouth.com
 scantlyvedette.com
 scantsditt.top
@@ -31326,6 +31340,7 @@ sotbttcqqztxq.com
 sotchart.net
 sotchoum.com
 sotetahe.pro
+sothiacalain.com
 soughtflaredeeper.com
 souglaur.xyz
 soulsglovesacid.com
@@ -32368,6 +32383,7 @@ sweepadstoday.click
 sweepawejasper.com
 sweepfrequencydissolved.com
 sweepia.com
+sweet-discount.pro
 sweet-marriage.pro
 sweetmoonmonth.com
 sweetromance.life
@@ -35355,6 +35371,7 @@ venturepeasant.com
 venturyremove.info
 venueitemmagic.com
 venuewasadi.org
+venulaeriggite.com
 veoxphl.com
 vephowcpyvncm.com
 veralmefarketi.info
@@ -36736,6 +36753,7 @@ withersserdabs.guru
 withholdrise.com
 withholdstandstill.com
 withinresentful.com
+withinsdraco.com
 withoutcontrol.com
 witlayvet.com
 witnessedcompany.com
@@ -45664,7 +45682,6 @@ las.danawa.com
 wlog.ifdo.co.kr
 analytics.adultempire.com
 collector.cakeresume.com
-astral.nicovideo.jp
 eq-player-log.cdnext.stream.ne.jp
 eq-beacon.stream.co.jp
 s.deepl.com
@@ -58710,6 +58727,7 @@ d3g4a.cyou
 damiul.icu
 dataryon.com
 dawdlealmonry.com
+dblijd.xyz
 ddielv.cn
 delhirs.com
 destinyssa.com
@@ -58793,6 +58811,7 @@ gridline.cn
 grtarpcf963.top
 gsuxyg.xyz
 gueikw.xyz
+guwohvw.icu
 gvbta.icu
 ha723.icu
 halct.cn
@@ -58900,7 +58919,9 @@ m6j37.xyz
 mdhv3.icu
 mdzwjra.cn
 misjgy.xyz
+mldzwmt.xyz
 mlhtr.cn
+mmo2350.top
 mnifdlax.top
 moberg.cn
 mondigo.cn
@@ -58962,6 +58983,7 @@ pidzlp.xyz
 pimg2023.com
 pjzxdl.xyz
 pkyjuc.cn
+pmiskc.cn
 pmtrkp.icu
 pnxtnp.xyz
 polepole.cn
@@ -58984,6 +59006,7 @@ qhocciks.com
 qhodog.xyz
 qkscga.xyz
 qlbbowx.xyz
+qnalzly.top
 qnifdlay.top
 qqkkpos.com
 qrkhwe.xyz
@@ -59036,6 +59059,7 @@ snifdlab.top
 soffersk.com
 sosakk.xyz
 spsfupq.cn
+srwwce.xyz
 srzpsbf.xyz
 stlpnom.xyz
 styusib.top
@@ -59109,6 +59133,7 @@ vmnlkr.icu
 vpzohx.xyz
 vszzzj.xyz
 vuvnix.icu
+vwyycnq.cn
 vxfdepn.cn
 wbubgob.cn
 wbvfj.xyz
@@ -59183,15 +59208,6 @@ zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
 zopuqv.icu
-dblijd.xyz
-pmiskc.cn
-srwwce.xyz
-qnalzly.top
-mldzwmt.xyz
-guwohvw.icu
-1f84e33459.com
-vwyycnq.cn
-mmo2350.top
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
@@ -63621,6 +63637,7 @@ a.yuzhainan.com
 a.zuowenku.net
 a.zuowenxuan.cn
 a1.289.com
+a1.51shiti.cn
 a1.99933.cn
 a1.99966.cn
 a1.aichagu.com
