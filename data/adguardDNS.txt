@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 08 Apr 2024 04:57:50 +0000
+# Last converted - Mon, 08 Apr 2024 08:57:54 +0000
 #
 
 mpsauudmnwarh.com
@@ -54921,6 +54921,7 @@ dadw22.com
 dadw55.com
 daef33.com
 daikinvietnam.vn
+dailyssshopee.com
 daisyshopp.com
 dangky.electricz.xyz
 dangkyappbank.online
@@ -54978,6 +54979,7 @@ dichvucong.agov.net
 dichvucong.cvgov.com
 dichvucong.dancuquocgia.net
 dichvucong.dulieuquocgia.com
+dichvucong.govnx.com
 dichvucong.hgov.cc
 dichvucong.hgov.net
 dichvucong.kgov.net
@@ -54985,6 +54987,7 @@ dichvucong.lgov.net
 dichvucong.tgovn.cc
 dichvucong.tkgov.com
 dichvucong.vgovn.net
+dichvucong.vsgov.com
 dichvucong.xgovn.net
 dichvucong.zlgov.com
 dichvucong.zvgov.com
@@ -55584,6 +55587,7 @@ ketban.online
 keygenwin.com
 kfdg22.com
 kfdg55.com
+khach-hang-ca-nhan-vip5.com
 khangdz215.tk
 khcn-han-muc-tin-dung-ca-nhan.com
 khcn-tindung-vp.com
@@ -56086,6 +56090,7 @@ nang-cap-online-vpbank.com
 nang-cap-vip-vpbank.com
 nang-han-muc-ido-vpbank.com
 nang-han-muc-vip-vpbank.com
+nang-hang-ca-nhan-vib-mrk1.com
 nang-hang-tin-dung-ca-nhan.com
 nanghanmuc-thetindung.com
 nanghanmuc-tindungvn.com
@@ -58261,6 +58266,7 @@ vn335shop.com
 vn55779p.com
 vn55866shp.com
 vn6315shp.com
+vn63251s.com
 vn66733shop.com
 vn667755s.com
 vn66954shp.com
@@ -59167,6 +59173,8 @@ dblijd.xyz
 pmiskc.cn
 srwwce.xyz
 qnalzly.top
+mldzwmt.xyz
+guwohvw.icu
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
