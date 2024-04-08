@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Mon, 08 Apr 2024 13:00:38 +0000
+# Last converted - Mon, 08 Apr 2024 16:59:20 +0000
 #
 
 010.at
@@ -551,8 +551,10 @@ domi.link
 dotalink.com
 doturl.io
 dourl.pl
+douyin.team
 download.fxsound.com
 dpb.fm
+dpb.link
 dpessm.com
 dracoo.la
 drafthound.link
@@ -610,6 +612,7 @@ entry.bhscovid.org
 epsi.link
 eranmoney.site
 erath.email
+eru789.com
 et2.top
 euapoio.live
 eubok.com
@@ -2081,6 +2084,7 @@ view.helpline-app.com
 vipgacor77.net
 viprupiah138.net
 vip.superpopdrop.com
+viptango77.net
 vla.lu
 vlink.cz
 vnlink.top
@@ -2118,6 +2122,7 @@ wejdz.do
 weworkers.io
 wfly.co
 wfryer.me
+wheel.to
 whts.cc
 wig.ht
 wilksom.live
