@@ -1,9 +1,11 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 08 Apr 2024 08:57:54 +0000
+# Last converted - Mon, 08 Apr 2024 12:59:59 +0000
 #
 
+hoomigri.com
+bittrafficads.com
 mpsauudmnwarh.com
 ishaweewouta.com
 unclogslenis.top
@@ -8558,6 +8560,7 @@ conquestafloat.com
 conquestdrawers.com
 consciousslice.com
 consensusarticles.com
+consensushistorianarchery.com
 consequentlydistraughtpasta.com
 conservationdisposable.com
 conservationlumber.com
@@ -9508,6 +9511,7 @@ datemeup.top
 datesviewsticker.com
 dateszone.net
 datetrackservice.com
+datewhisper.life
 datherap.xyz
 dating-banners.com
 dating-roo3.site
@@ -13324,6 +13328,7 @@ fksnk.com
 fktbwntpfoh.com
 fkugzbngtla.com
 fkwkzlb.com
+fkxsklor.com
 fkyhqtfiopfit.com
 fkyujept.com
 fkzgfsddr.com
@@ -14499,6 +14504,7 @@ getconatyclub.com
 getgx.net
 getinstant.website
 getjad.io
+getmatchedlocally.com
 getmygateway.com
 getnee.com
 getnewsfirst.com
@@ -18303,6 +18309,7 @@ jennyunfit.com
 jennyvisits.com
 jenonaw.com
 jenwyrjbvvlrl.top
+jeoawamjbblkq.top
 jeoawamjbrvkb.top
 jeopardizeflirting.com
 jeopardizegovernor.com
@@ -22463,7 +22470,6 @@ mumintend.com
 mumiti.xyz
 mummydiverseprovided.com
 mumpingwomerah.top
-mungfali.com
 munilf.com
 munsterduke.com
 muntiglesia.com
@@ -23118,6 +23124,7 @@ ngeoziadiyc4hi2e.com
 ngforanoppor.info
 ngfruitiesmatc.info
 ngineet.cfd
+ngjgnidajyls.xyz
 nglestpeoplesho.com
 nglmedia.com
 ngokohorsing.top
@@ -26967,6 +26974,7 @@ profitabledisplaynetwork.com
 profitablegate.com
 profitablegatecpm.com
 profitablegatetocontent.com
+profitableheavilylord.com
 profitabletrustednetwork.com
 profitcustomersnuff.com
 profitpeelers.com
@@ -28799,6 +28807,7 @@ resnubdreich.com
 resoilaldea.digital
 resolutionmilestone.com
 resolvedalarmmelodramatic.com
+resolvedswordlinked.com
 reson8.com
 resonance.pk
 resourcebumper.com
@@ -36828,6 +36837,7 @@ wodycaha.com
 woefifty.com
 woejh.com
 woespoke.com
+woetcwdynnltfnh.com
 wogglehydrae.com
 wohpaqjb.com
 wokaptoa.com
@@ -41928,6 +41938,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+analytics-ingestion.pbpms.de
 fpad.jp
 palibzh.tech
 mediaownerscloud.com
@@ -45327,6 +45338,8 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+metrics.thefeed.com
+gtm.thefeed.com
 collector.xhaccess.com
 amplitude.chess.com
 matomo.cloudfront.similarweb.io
@@ -49728,6 +49741,7 @@ softclick.com.br
 solution911.com
 templates.buscape.com
 yestorrents.org
+cdn.alfasense.net
 luxcdn.com
 vqhrqt.com
 marketer.lv
@@ -59175,6 +59189,9 @@ srwwce.xyz
 qnalzly.top
 mldzwmt.xyz
 guwohvw.icu
+1f84e33459.com
+vwyycnq.cn
+mmo2350.top
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
