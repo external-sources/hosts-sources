@@ -1,7 +1,7 @@
 # adguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Tue, 09 Apr 2024 04:57:47 +0000
+# Last converted - Tue, 09 Apr 2024 08:58:04 +0000
 #
 
 adx-open-service.youku.com
