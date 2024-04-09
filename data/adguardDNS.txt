@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 09 Apr 2024 01:40:01 +0000
+# Last converted - Tue, 09 Apr 2024 04:57:47 +0000
 #
 
 bjwgifte.com
