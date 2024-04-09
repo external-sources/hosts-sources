@@ -1,9 +1,25 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 08 Apr 2024 20:57:50 +0000
+# Last converted - Tue, 09 Apr 2024 01:40:01 +0000
 #
 
+bjwgifte.com
+xhfitpvxqog.com
+sakuftaurgo.com
+vicanerly.top
+kkqcnrk.com
+mhbyzzp.com
+orebuthehadsta.info
+oubeliketh.info
+sifnyiolzcs.com
+fnxtoiwlrgevjm.com
+cpzafxhkt.com
+tcwhycdinjtgar.xyz
+psichoafouts.xyz
+mugexfxue.com
+boilingviewed.com
+migrantfarewellmoan.com
 hoomigri.com
 bittrafficads.com
 mpsauudmnwarh.com
@@ -22905,6 +22921,7 @@ ndthensome.com
 ndtsusmqnuslkqx.com
 ndwouldmeu.info
 ndxdcbgwxwqhre.com
+ndzoaaa.com
 neads.delivery
 neahbutwehavein.info
 neapsberne.digital
@@ -25083,6 +25100,7 @@ oyopersed.info
 oyoperseduca.com
 oypucuqsuwabnxy.com
 oysterexhalereview.com
+oywzrri.com
 oyxctgotabvk.com
 oyyihttyklfwcgy.xyz
 ozationsuchasric.org
@@ -29764,7 +29782,6 @@ saiwhute.com
 sajewhee.xyz
 sakeoxidelunch.com
 saktismberakes.space
-sakuftaurgo.com
 sakura-traffic.com
 salablyjagless.uno
 salamus1.lol
@@ -34178,6 +34195,7 @@ turpentinecomics.com
 turvykingly.com
 tuscanyaskant.com
 tuskercampe.life
+tuskhautein.com
 tusno.com
 tutphiarcox.com
 tutsterblanche.com
@@ -59208,6 +59226,12 @@ zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
 zopuqv.icu
+dlngft.xyz
+ozhmig.cn
+equkgm.xyz
+tnalzli.top
+kpmose.xyz
+ievvo.xyz
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz

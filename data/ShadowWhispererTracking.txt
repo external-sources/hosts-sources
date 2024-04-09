@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Mon, 08 Apr 2024 20:58:37 +0000
+# Last converted - Tue, 09 Apr 2024 01:40:38 +0000
 #
 
 01counter.com
@@ -11408,6 +11408,7 @@ analytics.toyonut.co.jp
 analytics.tqsg.de
 analytics.trachtenkapelle-oberwolfach.de
 analytics.trackerstatus.info
+analytics-tracker.thescore.com
 analytics-tracking.meetup.com
 analytics.trackit.richnerstutz.digital
 analytics.tracklinx.com
@@ -13335,6 +13336,7 @@ b607.dailylocal.com
 b629.electronicdesign.com
 b668.record-bee.com
 b.6sc.co
+b7tp47v2nb3x-a.akamaihd.net
 b82mtrk.com
 b892.cleveland.com
 b915.carbuyer.co.uk
@@ -15684,6 +15686,7 @@ commonalmanac.com
 common-info.wondershare.com
 commons.dw.com
 commonswing.com
+common.yourpractice.online
 comm.sababasecurity.com
 comms.ceilingfanswarehouse.com.au
 comms.cloudblue.com
@@ -17049,6 +17052,7 @@ d1ffafozi03i4l.cloudfront.net
 d1fpdhao7f8ux5.cloudfront.net
 d1hc14f07g70ck.cloudfront.net
 d1hcrjcdtouu7e.cloudfront.net
+d1icb03h9nte03.cloudfront.net
 d1igp3oop3iho5.cloudfront.net
 d1khm0eduvht21.cloudfront.net
 d1kocom260xmzt.cloudfront.net
@@ -18514,6 +18518,7 @@ e-ese.uandes.cl
 e.experian-ems.com
 ef820.efaber.net
 efeedbacktrk.com
+ef.fanatical.com
 effectivemeasure.com
 effectivemeasure.net
 efficaciouscactus.com
@@ -18978,6 +18983,7 @@ epsilon.com
 eq.6seconds.org
 equablekettle.com
 equityresearch.sbisec.co.jp
+e.quizlet.com
 e.qvcemail.com
 eqworks.com
 eqy.link
@@ -20676,6 +20682,7 @@ gibbon.711.st
 gic.sekai-ichiba.co.jp
 giddycoat.com
 giddyuptrk.com
+gif.barclaycardus.com
 giftedglue.com
 giftedthumb.com
 gigaonclick.com
@@ -34579,6 +34586,7 @@ mw.mynavi-job20s.jp
 mx3.prmg.net
 mx3.urait.ru
 mxcdn.net
+mx.eneba.com
 mxj5trk.com
 mxpl.9gag.com
 mxpnl.com
@@ -35251,6 +35259,7 @@ nsstatistics.calphalon.com
 nsswmetrics.omanair.com
 nstat.magazines.com
 nstldtrk.com
+nsureapi.com
 nsw.burgessrawson.com.au
 nsx.de
 ntalker.com
@@ -45103,6 +45112,7 @@ proxem.com
 proximic.com
 proxsee.io
 proxy.angelstudios.com
+proxycheck.io
 pr.retire.americanfunds.com
 prsnbaa.dealeron.com
 pr.sunpowermarketing.co.uk
@@ -67368,6 +67378,7 @@ webtoleads.smurfitkappa.com
 webtool.comparadise.com
 webtool.kaputt-gmbh.de
 webtracker.jp
+webtracker.newzenler.com
 webtracker.wheels.com
 web.tracking.360game.vn
 webtracking.fe.union-investment.de
