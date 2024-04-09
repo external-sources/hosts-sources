@@ -1,12 +1,9 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Tue, 09 Apr 2024 16:58:35 +0000
+# Last converted - Tue, 09 Apr 2024 20:58:36 +0000
 #
 
-readlifeletter.ck.page
-readmo.yahoo.com
-read-more-for-feed-burner-feed.aweber.com
 readmyfaceebook.000webhostapp.com
 readnotify.com
 readprojectorphan.com
@@ -145976,6 +145973,7 @@ www.hypnoseterapi.com
 www.hypnotone.com
 www.hypo2.info
 www.hystersister.com
+www.hy-tec.com
 www.hyu7jjuij.dnset.com
 www.hyundaicard.112.2o7.net
 www.hyundaigenisis.com
@@ -146772,7 +146770,6 @@ www.jav11b.com
 www.jav77.com
 www.jav.re
 www.jav-abc.com
-www.javady.com
 www.javanenvansuriname.info
 www.javarchive.biz
 www.javarchive.net
@@ -146826,7 +146823,6 @@ www.javmax.com
 www.javmoo.info
 www.javort.com
 www.javparty.com
-www.javperfect.com
 www.javplanet.net
 www.javpop.org
 www.javporn.club
@@ -146838,7 +146834,6 @@ www.javsuki2.blogspot.com
 www.javtag.com
 www.javtown.com
 www.jav-video.org
-www.jav-xyz.com
 www.jaxx.com
 www.jayapoker.totoarena.info
 www.jaybee.org
