@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 10 Apr 2024 16:57:55 +0000
+# Last converted - Wed, 10 Apr 2024 20:58:00 +0000
 #
 
 tjxjpqa.com
@@ -477,6 +477,7 @@ p.tanx.com
 secureanalytic.com
 willalland.info
 refparjhob.top
+rkymfevzeq.com
 ppcnt.us
 ppcnt.eu
 ppcnt.co
@@ -4570,6 +4571,7 @@ aucaikse.com
 auchoocm.com
 auchoons.net
 auciuqxoyqobj.xyz
+aucoudsa.net
 aucred.com
 audacitycompare.com
 audiblereflectionsenterprising.com
@@ -12435,6 +12437,7 @@ ewtdzpwufzsnc.com
 ewtgmfajrdhsyn.xyz
 exacdn.com
 exactconfigurationhasten.com
+exactsag.com
 exaggeratekindnessvocal.com
 exaggeratestamppost.com
 exaltationinsufficientintentional.com
@@ -25787,6 +25790,7 @@ perseverancewash.com
 perseverehang.com
 persevereindirect.com
 perseverevoice.com
+persistarcticthese.com
 persistbrittle.com
 personalityhamlet.com
 personalityleftoverwhiskers.com
@@ -35276,6 +35280,7 @@ valuerfadjavelin.com
 valuermainly.com
 valuerstray.com
 valuesgloryprovocation.com
+valueslinear.com
 valuethemarkets.info
 valvalnumbest.com
 valvedreknow.top
@@ -42048,6 +42053,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+tags.qortex.ai
 analytics-ingestion.pbpms.de
 fpad.jp
 palibzh.tech
@@ -46030,7 +46036,6 @@ tr.www.cloudflare.com
 client-metrics.chess.com
 stat.kwikmotion.com
 analytics.vpplayer.tech
-h.seznam.cz
 stat.cncenter.cz
 metrics.roblox.com
 t.xoom.com
@@ -58731,6 +58736,7 @@ zvietnakello.weebly.com
 51hir.cyou
 555bbb333bbb.com
 5z0d3.cyou
+666bbb222www.com
 666bbb333bbb.com
 6slb0.cyou
 6zfem.icu
@@ -58814,6 +58820,7 @@ cnifdlaf.top
 cnvmhzt.cn
 computel.cn
 costarg.com
+cowm199.com
 cqisam.xyz
 crjeymh.cn
 ctlrarz.xyz
@@ -58947,6 +58954,7 @@ htyusiu.top
 hubgets.cn
 hvxrvef.xyz
 hyusnisu.top
+idffhq.cn
 ievvo.xyz
 ijvla.cn
 imevzbn.cn
@@ -59016,6 +59024,7 @@ lulgef.icu
 lulxzl.xyz
 luofk.xyz
 lvdedf.xyz
+lvphbj.xyz
 lwrohd.xyz
 ly55442.com
 lznfuab.xyz
@@ -59075,6 +59084,7 @@ oppnfev.xyz
 osisk.com
 ostjpig.cn
 osusjsga.com
+otmebdr.cn
 ovjlccs.xyz
 oxkyaq.xyz
 oxvlxwz.xyz
@@ -59099,12 +59109,14 @@ pressit.cn
 prhfziq.xyz
 przbzr.xyz
 pseudonym.cn
+pvhjkzo.xyz
 pwhkfd.xyz
 pwhtip.icu
 pxzrlf.xyz
 q02orc.cn
 qbhzghb.xyz
 qcohkm.xyz
+qcsvku.xyz
 qdtzbbh.xyz
 qetskupch581.shop
 qetskupyka61.shop
@@ -59161,6 +59173,7 @@ shuocyw.cn
 sjaaquj.cn
 skdncksklsv.com
 skfda5.com
+slcmvgr.icu
 smallfo.com
 snalzlb.top
 snifdlab.top
@@ -59184,6 +59197,7 @@ szmpy.cn
 szmyl.cn
 szpnz.cn
 szptp.cn
+szpwf.cn
 szpwg.cn
 szpwh.cn
 szpzm.cn
@@ -59215,6 +59229,7 @@ uigxgg.xyz
 uiqcf.cn
 uljoifw.cn
 ulwfys.xyz
+unalzlt.top
 unifdlat.top
 upytsgo.cn
 uqrcuxp.cn
@@ -59318,16 +59333,6 @@ zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
 zopuqv.icu
-slcmvgr.icu
-pvhjkzo.xyz
-qcsvku.xyz
-otmebdr.cn
-unalzlt.top
-lvphbj.xyz
-idffhq.cn
-szpwf.cn
-666bbb222www.com
-cowm199.com
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
