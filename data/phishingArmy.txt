@@ -1,7 +1,7 @@
 # phishingArmy
 #
 # Converted from - https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last converted - Wed, 10 Apr 2024 13:00:39 +0000
+# Last converted - Wed, 10 Apr 2024 16:58:26 +0000
 #
 
 0-01x-merchandise.554217.xyz
