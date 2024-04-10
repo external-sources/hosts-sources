@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 10 Apr 2024 01:40:03 +0000
+# Last converted - Wed, 10 Apr 2024 04:58:45 +0000
 #
 
 00px.net
