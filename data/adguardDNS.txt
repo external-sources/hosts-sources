@@ -1,9 +1,24 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 09 Apr 2024 20:57:50 +0000
+# Last converted - Wed, 10 Apr 2024 01:39:13 +0000
 #
 
+kxbmnofffsuivv.com
+ptudoalistoy.net
+flatbedbowings.top
+savvcsj.com
+wmadmht.com
+arsfoundhert.info
+withyouryretye.info
+nzlebmxoebtff.com
+vzksnszthuq.com
+reecegrita.com
+uujtmrxf.xyz
+chauksoam.xyz
+iluabuiukgpjb.com
+zpdnisvzedgbw.com
+abslroan.com
 subag.freexxxbase.com
 lawduwdtozw.com
 chicoamseque.net
@@ -745,6 +760,7 @@ hub.fghtem.com
 d71e6dd31a026d45.com
 adrunnr.com
 samsungtvads.com
+d263ut03kf37wj.cloudfront.net
 d29lduyskr59p4.cloudfront.net
 d2dzy45qo641nc.cloudfront.net
 buzzer.xhofficial.com
@@ -45431,6 +45447,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+log.dpa.com
 metrics.thefeed.com
 gtm.thefeed.com
 collector.xhaccess.com
@@ -48349,6 +48366,7 @@ camel.headfarming.com
 capture-api.ap3prod.com
 capture.condenastdigital.com
 caspionlog.appspot.com
+castify-trk.playitviral.com
 ccexperimentsstatic.oracleoutsourcing.com
 cf.overblog.com
 cgicounter.oneandone.co.uk
@@ -48584,7 +48602,6 @@ loader-cdn.azureedge.net
 loader.zeroform.com
 log.aimtell.com
 log.cookieyes.com
-log.dpa.com
 log.nordot.jp
 log.seekda.com
 logging.je-apps.com
@@ -48929,6 +48946,7 @@ traxex.gannettdigital.com
 trends.newsmaxwidget.com
 triggers.wfxtriggers.com
 trk.clinch.co
+trk.playitviral.com
 trx-cdn.zip.co
 trx.zip.co
 uid.mediacorp.sg
@@ -52373,6 +52391,7 @@ ad.abema.io
 ad-hatena.com
 advert.punyu.com
 gum.dlbooks.to
+mitself.net
 comparison.financeads.net
 lehrer-finden.de
 lokalwerben.t-online.de
@@ -59298,6 +59317,12 @@ zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
 zopuqv.icu
+slcmvgr.icu
+pvhjkzo.xyz
+qcsvku.xyz
+otmebdr.cn
+unalzlt.top
+lvphbj.xyz
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz

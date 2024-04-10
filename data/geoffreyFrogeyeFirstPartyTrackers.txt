@@ -1,7 +1,7 @@
 # geoffreyFrogeyeFirstPartyTrackers
 #
 # Converted from - https://hostfiles.frogeye.fr/firstparty-trackers.txt
-# Last converted - Tue, 09 Apr 2024 20:58:20 +0000
+# Last converted - Wed, 10 Apr 2024 01:39:52 +0000
 #
 
 101230059950694.wt-eu02.net
@@ -944,6 +944,7 @@ cas.nl3.vip.prod.criteo.com
 cas.par.vip.prod.criteo.com
 cas.sg1.vip.prod.criteo.com
 castorama.eulerian.net
+cas.us5.vip.prod.criteo.com
 cas.us.criteo.com
 cas.va1.vip.prod.criteo.com
 cat.am5.vip.prod.criteo.com
@@ -3969,6 +3970,7 @@ gum.jp2.vip.prod.criteo.com
 gum.nl3.vip.prod.criteo.com
 gum.par.vip.prod.criteo.com
 gum.sg1.vip.prod.criteo.com
+gum.us5.vip.prod.criteo.com
 gum.va1.vip.prod.criteo.com
 gundersenhealth.hrm.healthgrades.com
 guq9.vente-unique.it
