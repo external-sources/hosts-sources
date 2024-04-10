@@ -1,3 +1,9 @@
+32.96.229.11.45.rpz-ip	CNAME	.
+32.96.229.11.45.rpz-client-ip	CNAME	rpz-drop.
+32.163.102.207.91.rpz-ip	CNAME	.
+32.163.102.207.91.rpz-client-ip	CNAME	rpz-drop.
+32.174.171.79.51.rpz-ip	CNAME	.
+32.174.171.79.51.rpz-client-ip	CNAME	rpz-drop.
 32.121.50.125.185.rpz-ip	CNAME	.
 32.121.50.125.185.rpz-client-ip	CNAME	rpz-drop.
 32.169.241.92.91.rpz-ip	CNAME	.
