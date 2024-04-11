@@ -1,7 +1,7 @@
 # geoffreyFrogeyeMultiPartyTrackers
 #
 # Converted from - https://hostfiles.frogeye.fr/multiparty-trackers.txt
-# Last converted - Wed, 10 Apr 2024 20:58:38 +0000
+# Last converted - Thu, 11 Apr 2024 01:41:24 +0000
 #
 
 00f6375dd2e616d73649085c58dfed384fabe07a.cws.conviva.com
@@ -528,6 +528,7 @@ ads.par.vip.prod.criteo.com
 ads.sg1.vip.prod.criteo.com
 ads.simpli.fi
 ads.spacenine.biz
+ads.us5.vip.prod.criteo.com
 ads.us.criteo.com
 ads.va1.vip.prod.criteo.com
 adt.com.102.112.2o7.net
@@ -1518,6 +1519,7 @@ cbsd.fr3.vip.prod.criteo.com
 cbsdigitalmedia.hb.omtrdc.net
 cbsd.nl3.vip.prod.criteo.com
 cbsd.par.vip.prod.criteo.com
+cbsd.us5.vip.prod.criteo.com
 cbsd.va1.vip.prod.criteo.com
 cbs.hb-api.omtrdc.net
 cbsi.demdex.net
@@ -4055,6 +4057,7 @@ gbc5.jp2.as.criteo.com
 gbc5.nl3.eu.criteo.com
 gbc5.nl.eu.criteo.com
 gbc5.sg1.as.criteo.com
+gbc5.us5.us.criteo.com
 gbc5.va.us.criteo.com
 gbc6.da.us.criteo.com
 gbc6.fr3.eu.criteo.com
@@ -15292,6 +15295,7 @@ widget.jp2.vip.prod.criteo.com
 widget.nl3.vip.prod.criteo.com
 widget.par.vip.prod.criteo.com
 widget.sg1.vip.prod.criteo.com
+widget.us5.vip.prod.criteo.com
 widget.us.criteo.com
 widget.va1.vip.prod.criteo.com
 wirtschaftskammer01.webtrekk.net
