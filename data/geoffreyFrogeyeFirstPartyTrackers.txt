@@ -1,7 +1,7 @@
 # geoffreyFrogeyeFirstPartyTrackers
 #
 # Converted from - https://hostfiles.frogeye.fr/firstparty-trackers.txt
-# Last converted - Thu, 11 Apr 2024 20:58:23 +0000
+# Last converted - Fri, 12 Apr 2024 01:40:23 +0000
 #
 
 101230059950694.wt-eu02.net
@@ -892,6 +892,7 @@ bulkbookstore.actonservice.com
 bulkmail.acadian-asset.com
 bum7.bymycar.fr
 burytimes-gb.burytimes.co.uk
+b.us5.vip.prod.criteo.com
 businessengage.comcast.com
 business.guinnessworldrecords.com
 businessmaking.progress.com
@@ -2391,6 +2392,7 @@ extranets.jp2.vip.prod.criteo.com
 extranets.nl3.vip.prod.criteo.com
 extranets.par.vip.prod.criteo.com
 extranets.sg1.vip.prod.criteo.com
+extranets.us5.vip.prod.criteo.com
 extranets.va1.vip.prod.criteo.com
 eyefinity.actonsoftware.com
 f1.mailperf.com
@@ -2770,6 +2772,7 @@ gbc7.jp2.as.criteo.com
 gbc7.nl3.eu.criteo.com
 gbc7.nl.eu.criteo.com
 gbc7.sg1.as.criteo.com
+gbc7.us5.us.criteo.com
 gbc7.va.us.criteo.com
 gbc8.da.us.criteo.com
 gbc8.fr3.eu.criteo.com

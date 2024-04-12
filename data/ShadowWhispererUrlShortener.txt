@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Thu, 11 Apr 2024 20:58:33 +0000
+# Last converted - Fri, 12 Apr 2024 01:40:33 +0000
 #
 
 010.at
@@ -357,6 +357,7 @@ bittyurl.co
 biturl.site
 biturl.top
 bityj.us
+biv.to
 biz15.co
 bjli.in
 blipnut.com
@@ -1548,6 +1549,7 @@ sharem.tech
 sharepointshorturl.com
 shareus.io
 shar.i.ng
+shelbyknox.com
 sheve.me
 shikshansagar.org
 shink.me

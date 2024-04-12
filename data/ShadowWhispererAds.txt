@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Thu, 11 Apr 2024 20:58:30 +0000
+# Last converted - Fri, 12 Apr 2024 01:40:30 +0000
 #
 
 00px.net
@@ -1741,6 +1741,7 @@ admidainsight.com
 admile.ru
 adminder.com
 admin.giaminhmedia.vn
+ad.minigameltd.com
 adminima.com
 admin.kabbmedia.com
 admission.net
@@ -10520,6 +10521,7 @@ inline.cnet.com
 inlocomedia.com
 inmarcadvertising.com
 inmarket.com
+inmobicdn.net
 inmobi.cn
 inmobi.com
 inmotiongroup.com
