@@ -1,7 +1,7 @@
 # easyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 11 Apr 2024 20:58:21 +0000
+# Last converted - Fri, 12 Apr 2024 01:40:22 +0000
 #
 
 100widgets.com
@@ -345,6 +345,7 @@ crta.dailymail.co.uk
 csi.gstatic.com
 csp-collector.appspot.com
 csp-reporting.cloudflare.com
+csp.secureserver.net
 csr.onet.pl
 ct.capterra.com
 ct.corpusapp.com
@@ -433,6 +434,7 @@ eventgateway.soundcloud.com
 eventlog.chatlead.com
 eventlog.inspsearchapi.com
 events.air.tv
+events.api.secureserver.net
 events.attentivemobile.com
 events.audiate.me
 events.brightline.tv

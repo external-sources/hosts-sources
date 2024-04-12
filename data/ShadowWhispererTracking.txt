@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Thu, 11 Apr 2024 20:58:32 +0000
+# Last converted - Fri, 12 Apr 2024 01:40:32 +0000
 #
 
 01counter.com
@@ -19862,6 +19862,7 @@ flyingfish.yieldscan.app
 fly.nata.aero
 fly.nicholasair.com
 fly.ospreyfunds.io
+fly-report.lefou666.com
 flyspy.co
 flytxt.com
 fma.fellow-s.co.jp
@@ -26826,6 +26827,7 @@ lifescience.getinge.com
 lifesight.io
 liftedknowledge.com
 liftingknowhow.certex.se
+liftoff-creatives.io
 liftoff.io
 lightboxapi2.azurewebsites.net
 lightboxapi.azurewebsites.net
@@ -45869,6 +45871,7 @@ remarketstats.com
 remarkety.com
 re.masoinmobiliaria.com
 rememberdiscussion.com
+remerge.events
 remerge.io
 remesh.ai
 remesh.com
@@ -45956,6 +45959,7 @@ reporting-us.cloudcare.avg.com
 reporting.wd40company.eu
 report-machine.com
 report.mitsubishicars.com
+reportms.singaporepaya.com
 report-oversea2.agora.io
 report-oversea.agora.io
 reportsapi.zoho.com
@@ -63940,6 +63944,7 @@ tarantula.hashicorp.com
 tarantula.searchbox.tech
 tarantula.tuxedo.media
 t.arcade.show
+ta-report.minigameltd.com
 target2sell.com
 target.bankofamerica.com
 target.chase.com
@@ -64762,6 +64767,7 @@ track.buyercenter.help
 track.buzzard.org
 track.buzzerilla.com
 track.cam4tracking.com
+track.camplace-mail.com
 track.canva.com
 track.capacitate.cc
 track.capitaloneshopping.com
@@ -65840,6 +65846,7 @@ trk.simbo.de
 trksontrks.com
 trk.storyly.io
 trks.us
+trk.svr-algorix.com
 trk.tableware24.com
 trk.teamblue.services
 trktsm.com
