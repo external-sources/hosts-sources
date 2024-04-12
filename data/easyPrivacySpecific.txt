@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 12 Apr 2024 01:40:22 +0000
+# Last converted - Fri, 12 Apr 2024 04:58:24 +0000
 #
 
 a-reporting.nytimes.com
@@ -332,9 +332,11 @@ mi.grubhub.com
 miao.baidu.com
 midas.chase.com
 mixpanel-proxy.ted.com
+mixproxy.epoch.cloud
 mktcs.cloudapps.cisco.com
 mon.us.tiktokv.com
 monitor.channel4.com
+mp.theepochtimes.com
 mr.homedepot.ca
 msg-intl.qy.net
 mstm.motorsport.com
