@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 12 Apr 2024 12:59:16 +0000
+# Last converted - Fri, 12 Apr 2024 16:58:09 +0000
 #
 
 i98jio988ui.world
