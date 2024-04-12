@@ -1,7 +1,7 @@
 # adguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Fri, 12 Apr 2024 08:58:11 +0000
+# Last converted - Fri, 12 Apr 2024 12:59:17 +0000
 #
 
 adx-open-service.youku.com
@@ -86,6 +86,7 @@ deapi.afreecatv.com
 startup.mobile.yandex.net
 startup.mobile.webvisor.com
 startup-mobile.ap.yandex-net.ru
+psvpromo.psvgamestudio.com
 static.timetreeads.com
 kfvjdvjzhddhc.com
 zgzxs.weathercn.com
