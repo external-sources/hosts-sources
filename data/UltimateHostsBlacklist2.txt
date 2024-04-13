@@ -1,14 +1,9 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sat, 13 Apr 2024 16:58:43 +0000
+# Last converted - Sat, 13 Apr 2024 20:58:31 +0000
 #
 
-readspeaker.matomo.cloud
-readtheory-d.openx.net
-readthery.org
-readthory.org
-readtimee.onesignal.com
 readvasturked.pro
 readworkd.org
 ready2study.com
@@ -29358,7 +29353,6 @@ shakti-shiva-academy.ck.page
 shakti-shop.ru
 shakunhotels.com
 shakur8062378.000webhostapp.com
-shakyseat.com
 shakytaste.com
 shalasoccer.com
 shalava644.000webhostapp.com
@@ -36264,7 +36258,6 @@ smaki-polski.pl
 sma-lac1.remote.extremereach.com
 small-aso-5276.chu.jp
 smallbatchstandard.clickfunnels.com
-smallbeginner.com
 smallbizlady.leadpages.co
 smallbiznku.com
 smallbizrevproject.leadpages.co
@@ -139212,7 +139205,6 @@ www.camgeil.com
 www.camgirlvidoes.org
 www.camgirvideos.org
 www.camiliana.pl
-www.caminodelsur.cl
 www.camisetasmetal.totalh.net
 www.campbellteam.org
 www.campdelariviere.info
