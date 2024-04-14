@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Sun, 14 Apr 2024 15:00:54 +0000
+# Last converted - Sun, 14 Apr 2024 22:26:48 +0000
 #
 
 01counter.com
@@ -14428,6 +14428,7 @@ calltracks.com
 calltrk.com
 calmcactus.com
 calmcough.com
+calvera-telemetry.polaris.me
 calypsocapsule.com
 camel.chrischiles.com
 camel.gastro-plan.app
@@ -27054,6 +27055,7 @@ location-api.hdhomerun.com
 location.api.yuppcdn.net
 location.bloomberg.com
 location.imds-api.com
+locationiq.com
 location.l.force.com
 location.live.net
 location.p7cloud.net
