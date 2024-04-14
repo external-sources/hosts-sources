@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 13 Apr 2024 20:58:15 +0000
+# Last converted - Sun, 14 Apr 2024 02:29:01 +0000
 #
 
 a-reporting.nytimes.com
@@ -267,6 +267,7 @@ iam-rum-intake.datadoghq.com
 iedc.fitbit.com
 iguazu.doordash.com
 ih.newegg.com
+improve.tempest.com
 indmetric.rediff.com
 ingest.make.rvohealth.com
 ingress.linktr.ee
@@ -544,6 +545,7 @@ tr.clickstay.com
 tr.www.cloudflare.com
 track-visit.monday.com
 track.americansongwriter.com
+track.bestpornsites.tv
 track.dictionary.com
 track.eurogirlsescort.com
 track.kueez.com
