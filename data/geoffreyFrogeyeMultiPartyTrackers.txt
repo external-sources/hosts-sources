@@ -1,7 +1,7 @@
 # geoffreyFrogeyeMultiPartyTrackers
 #
 # Converted from - https://hostfiles.frogeye.fr/multiparty-trackers.txt
-# Last converted - Sat, 13 Apr 2024 20:58:17 +0000
+# Last converted - Sun, 14 Apr 2024 02:29:04 +0000
 #
 
 00f6375dd2e616d73649085c58dfed384fabe07a.cws.conviva.com
@@ -4052,6 +4052,7 @@ gbc4.jp2.as.criteo.com
 gbc4.nl3.eu.criteo.com
 gbc4.nl.eu.criteo.com
 gbc4.sg1.as.criteo.com
+gbc4.us5.us.criteo.com
 gbc4.va.us.criteo.com
 gbc5.da.us.criteo.com
 gbc5.fr3.eu.criteo.com
@@ -4069,6 +4070,7 @@ gbc6.jp2.as.criteo.com
 gbc6.nl3.eu.criteo.com
 gbc6.nl.eu.criteo.com
 gbc6.sg1.as.criteo.com
+gbc6.us5.us.criteo.com
 gbc6.va.us.criteo.com
 gbc7.da.us.criteo.com
 gbc7.fr3.eu.criteo.com
