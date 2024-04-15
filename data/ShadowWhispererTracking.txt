@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Mon, 15 Apr 2024 12:58:37 +0000
+# Last converted - Mon, 15 Apr 2024 16:58:47 +0000
 #
 
 01counter.com
@@ -15138,6 +15138,7 @@ clearwater-analytics.com
 clearwateranalytics.com
 cleeng.com
 clerk.io
+clerk.qiwi.gg
 cleveranalytics.com
 cleverjump.org
 clevermaps.io
