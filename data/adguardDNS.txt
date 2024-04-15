@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 15 Apr 2024 16:58:09 +0000
+# Last converted - Mon, 15 Apr 2024 20:58:01 +0000
 #
 
 ganchedagrapha.com
@@ -39,28 +39,14 @@ chicoamseque.net
 hoomigri.com
 bittrafficads.com
 mpsauudmnwarh.com
-ishaweewouta.com
 unclogslenis.top
-zpbpenn.com
-ksnbtmz.com
-goneawaytogy.info
-ippleshiswashis.info
 courageousaway.com
 syiwgwsqwngrdw.xyz
-sigheemibod.xyz
-rndambipoma.com
 battleautomobile.com
-misspelluptown.com
-eppfquarvmzr.com
-vwcqjnqy.com
-ezzmvdyyzccx.com
 wabhrkynybk.com
-hagppxgjypqa.com
 rsldfvt.com
-longestsundays.com
 cryptoatom.care
 rokymedia.com
-pregainpotgut.top
 dedukicationan.info
 munpracticalwh.info
 debaucky.com
@@ -3682,6 +3668,7 @@ amgdgt.com
 amgjldens.com
 amhippopotastor.com
 amhpbhyxfgvd.com
+amiabledelinquent.com
 amiddespair.com
 amidoxypochard.com
 amimialonging.com
@@ -4552,6 +4539,7 @@ ato.mx
 atomex.net
 atomicarot.com
 atonato.de
+atonefreeman.top
 atonementfosterchild.com
 atonementimmersedlacerate.com
 atopyawned.uno
@@ -7382,6 +7370,7 @@ causoque.xyz
 caussr.com
 caustopa.net
 cauthaushoas.com
+cautionpursued.com
 cautiotumfie.com
 cautiousroof.pro
 cauvousy.net
@@ -9305,6 +9294,7 @@ ctthatmyeduca.net
 ctubhxbaew.com
 ctvnmxl.com
 ctwlucwq.com
+ctykxlvztyy.com
 ctywimluf.com
 cubbingrebbes.com
 cubchillysail.com
@@ -12301,6 +12291,7 @@ epocvwthrvaxos.com
 epodicdrazel.top
 epotaidhdbg.com
 epoxideouttop.com
+eppfquarvmzr.com
 epqlidgerrnwyv.com
 epsauthoup.com
 epsuphoa.xyz
@@ -12893,6 +12884,7 @@ ezyenrwcmo.com
 ezzmmvzleawab.top
 ezzmmvzleawjq.top
 ezzmmvzleayjm.top
+ezzmvdyyzccx.com
 f0657e4fd5.com
 f07neg4p.de
 f092680893.com
@@ -15250,6 +15242,7 @@ gme-trking.com
 gmelinalegua.top
 gmgllod.com
 gmihupgkozf.com
+gmiqicw.com
 gmixiwowford.com
 gmkflsdaa.com
 gml-grp.com
@@ -15383,6 +15376,7 @@ gomain2.pro
 gomastabrat.com
 gomnlt.com
 gondwrists.life
+goneawaytogy.info
 goneryacked.top
 gonews2.com
 gonzalodaemon.top
@@ -15917,6 +15911,7 @@ gwvjcrtucd.com
 gwvuasdnddxlsp.com
 gx101.com
 gxcvxdeda.com
+gxdzfyg.com
 gxeireojvtfoq.com
 gxgrrrovnlgjcv.xyz
 gxgu9gktreso.com
@@ -15997,6 +15992,7 @@ haggeisgael.com
 haghalra.com
 haglance.com
 hagnaudsate.com
+hagppxgjypqa.com
 hagridestupose.space
 hagweedtoytown.com
 hahscalusar.guru
@@ -16237,6 +16233,7 @@ hbcrnvtpyfegpws.com
 hbeipcdntijpb.com
 hbfqcy.com
 hbhood.com
+hbhtpuvjpqsmf.com
 hbkpcwdxite.com
 hbloveinfo.com
 hbmode.com
@@ -17261,6 +17258,7 @@ hystericalpotprecede.com
 hytxg2.com
 hyvmflsclweae.xyz
 hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com
+hzcdwgcch.com
 hzdfziaydqawar.com
 hzkachqd.com
 hzogncbobfb.com
@@ -18079,6 +18077,7 @@ intentanalysis.com
 intentbinary.com
 intentionallyathwart.com
 intentionsarson.com
+intentionscurved.com
 intentionsplacingextraordinary.com
 inter1ads.com
 interads1.com
@@ -18227,6 +18226,7 @@ ipodreevess.com
 ipomeamiching.com
 ipouvoog.com
 ippaxapccehjt.com
+ippleshiswashis.info
 ipredictive.com
 iprom.net
 ipromcloud.com
@@ -18310,6 +18310,7 @@ isegeowrvnxorj.com
 iseoiknnqckto.xyz
 isftdmoj.com
 isgost.com
+ishaweewouta.com
 ishedtotigai.info
 ishibeesoany.com
 ishoapty.net
@@ -18571,6 +18572,7 @@ janute.com
 janzmuarcst.com
 japanbros.com
 japanesereaphot.com
+japw.cloud
 jaqgkyfupna.com
 jaqwtyajwp.com
 jargonwillinglybetrayal.com
@@ -19428,6 +19430,7 @@ kbevcidiiqwa.com
 kbkewkjlqjqzr.top
 kbknujjtpnqq.com
 kbmcpatd.com
+kbnmnl.com
 kbqebfcubeiaa.com
 kbqtuwoxgvth.xyz
 kbugxeslbjc8.com
@@ -19943,6 +19946,7 @@ ksdlumuhym.com
 ksehinkitw.hair
 kshzlyvbaaa.com
 ksnbiepnvjdi.com
+ksnbtmz.com
 kssvsjfhxpzwfd.com
 kstjqjuaw.xyz
 kstvhknmhfppbf.com
@@ -20932,6 +20936,7 @@ loadtime.org
 loaducaup.xyz
 loafplaceunchanged.com
 loafsmash.com
+loagoshy.net
 loaire.com
 loajawun.com
 loaksandtheir.info
@@ -21021,6 +21026,7 @@ longeargloving.com
 longerbuttonamendment.com
 longerhorns.com
 longestencouragerobber.com
+longestsundays.com
 longestwaileddeadlock.com
 longingarsonistexemplify.com
 longlakeweb.com
@@ -21177,6 +21183,7 @@ loyeesihighlyreco.info
 lozengevandalismexaminer.com
 lp-preview.net
 lp247p.com
+lpair.xyz
 lpaqjnfmxftqfx.com
 lparket.com
 lpawakkabpho.com
@@ -22408,6 +22415,7 @@ missiondues.com
 missitzantiot.com
 misslinkvocation.com
 misslk.com
+misspelluptown.com
 misspkl.com
 misstaycedule.com
 mistakeadministrationgentlemen.com
@@ -23508,6 +23516,7 @@ nektonsrutate.com
 nelhon.com
 nellads.com
 nellmeeten.com
+nelreerdu.net
 nemewagro.com
 nenectedithcon.info
 neoftheownouncillo.info
@@ -24771,6 +24780,7 @@ okunyox.com
 okupvueal.com
 okvatbotgacv.com
 okvovqrfuc.com
+okxaplomkpca.com
 okxhjbpfxqp.com
 okxqmiagltpe.com
 olakoudos.xyz
@@ -27403,6 +27413,7 @@ preferenceforfeit.com
 preferredsaltshift.com
 preferunhair.com
 prefleks.com
+pregainpotgut.top
 pregamepluteal.com
 pregnancyreproducepalace.com
 pregnancyslayidentifier.com
@@ -29039,6 +29050,7 @@ reasoningarcherassuage.com
 reasus.com
 reatasfibro.uno
 reate.info
+reated-pounteria.com
 reautecryable.life
 rebagsabeing.top
 rebakeassets.com
@@ -29900,6 +29912,7 @@ rmvvawqobqvmv.top
 rmwzbomjvmlej.top
 rmxads.com
 rnanlxfa.com
+rndambipoma.com
 rndchandelureon.com
 rndhaunteran.com
 rndmusharnar.com
@@ -30483,6 +30496,7 @@ sailundu.xyz
 sainingnuggar.guru
 saintselfish.com
 saipeevit.net
+saipsoan.net
 saishait.net
 saiwecee.com
 saiwhoal.xyz
@@ -31078,6 +31092,7 @@ sesameebookspeedy.com
 sesamefiddlesticks.com
 sessfetchio.com
 sessionamateur.com
+seteamsobtantion.com
 sethiteblindly.guru
 setidlgzwc.com
 setitoefanyor.org
@@ -31472,6 +31487,7 @@ sievynaw.space
 sifenews.com
 sifnyiolzcs.com
 sifuglie.com
+sigheemibod.xyz
 sighstab.com
 sightercanidae.com
 sightsskinnyintensive.com
@@ -34029,6 +34045,7 @@ thoorest.com
 thoorgins.com
 thoorteeboo.xyz
 thooruwee.com
+thootsoumsoa.com
 thorgeergiwi.com
 thornfloatingbazaar.com
 thornrancorouspeerless.com
@@ -36894,6 +36911,7 @@ vvyqxxgxlnptc.com
 vvzzphefzcdfr.com
 vwchbsoukeq.xyz
 vwciywmidwvel.com
+vwcqjnqy.com
 vwdtyjygxap.com
 vwedfijcm.xyz
 vwegihahkos.com
@@ -38056,6 +38074,7 @@ wsokomw.com
 wspsbhvnjk.com
 wt20trk.com
 wt2noay3fgjn.com
+wtcmjppejjb.com
 wtcysmm.com
 wtfgep.xyz
 wtg-ads.com
@@ -39277,6 +39296,7 @@ zoxkljeicxi.com
 zoytgckcoxokah.com
 zozolilla.com
 zpbiqrovnozhn.com
+zpbpenn.com
 zpcfnzjq.com
 zpgetworker11.com
 zpreland.com
@@ -40818,11 +40838,13 @@ utiq.wa.de
 10945-5.s.cdn15.com
 1097248889.rsc.cdn77.org
 1187531871.rsc.cdn77.org
+1291423135.rsc.cdn77.org
 1437953666.rsc.cdn77.org
 1454023398.rsc.cdn77.org
 1529462937.rsc.cdn77.org
 1675450967.rsc.cdn77.org
 1736253261.rsc.cdn77.org
+1917516666.rsc.cdn77.org
 360playvid.com
 360playvid.info
 a-delivery.rmbl.ws
@@ -42453,6 +42475,7 @@ adballoon.afreecatv.com
 deapi.afreecatv.com
 startup.mobile.yandex.net
 startup-mobile.ap.yandex-net.ru
+vs-api.voodoo-tech.io
 psvpromo.psvgamestudio.com
 static.timetreeads.com
 kfvjdvjzhddhc.com
@@ -59743,8 +59766,10 @@ zvietnakello.weebly.com
 6slb0.cyou
 6zfem.icu
 777bbb222bbb.com
+777bbb777www.com
 7vviw.cyou
 888bb555ww.com
+888bbb555www.com
 88lm05.com
 88lm06.com
 88lm07.com
@@ -59828,6 +59853,7 @@ computel.cn
 costarg.com
 cowm199.com
 cqisam.xyz
+crbbhp.xyz
 crjeymh.cn
 ctlrarz.xyz
 ctmrso.xyz
@@ -59839,6 +59865,7 @@ cvudqzoa.xyz
 cwssfg632.shop
 cxlvlbx.xyz
 cyuwkbf.top
+czxvgod.xyz
 d3g4a.cyou
 damiul.icu
 dataryon.com
@@ -59911,6 +59938,7 @@ fmssoj.icu
 fpjjjh.xyz
 fpvdrzx.xyz
 fqbjzj.xyz
+fqghykp.cn
 frtnqps358.shop
 frtnqpw837.shop
 fvpboxu.xyz
@@ -59934,6 +59962,7 @@ gtxkze.cn
 gueikw.xyz
 guwohvw.icu
 gvbta.icu
+gxihcq.xyz
 ha723.icu
 halct.cn
 hbjolp.xyz
@@ -59980,6 +60009,7 @@ iummqg.xyz
 ivbgpax.cn
 ivnrrkx.cn
 iykig.cn
+iyuwkbo.top
 izalflh.cn
 izmiua.xyz
 jbmfldt.cn
@@ -59988,6 +60018,7 @@ jflwhf.xyz
 jgblvt.xyz
 jgmywh.icu
 jioed.cyou
+jmesxbe.icu
 jnalzla.top
 jnifdlaa.top
 jozbun.icu
@@ -59995,6 +60026,7 @@ jqbddp.xyz
 jqpejp.xyz
 js131.cn
 jtyusia.top
+jtzdld.xyz
 jubnpx.xyz
 justapp.top
 jvkqkzu.cn
@@ -60247,6 +60279,7 @@ tptgvh.xyz
 tqvnzj.xyz
 tsrvrr.xyz
 tu2024020388.com
+tuky889900.com
 tyodot.icu
 tyzfoej.cn
 uctutu3789.xyz
@@ -60361,16 +60394,6 @@ zeqvqb.icu
 zfzys.top
 zhaweifeng.com
 zhihucloud.xyz
-fqghykp.cn
-iyuwkbo.top
-gxihcq.xyz
-czxvgod.xyz
-jtzdld.xyz
-crbbhp.xyz
-jmesxbe.icu
-777bbb777www.com
-888bbb555www.com
-tuky889900.com
 zhnnaxe.xyz
 zjrtxt.xyz
 znhlxvb.xyz

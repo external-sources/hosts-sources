@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Mon, 15 Apr 2024 16:58:53 +0000
+# Last converted - Mon, 15 Apr 2024 20:58:44 +0000
 #
 
 readvasturked.pro
@@ -135044,6 +135044,7 @@ www.aalures.com
 www.aameetings.org
 www.aamiami.org
 www.aampr.org
+www.aanqylta.com
 www.aa-oc.org
 www.aapz.com
 www.aar.gr.com
@@ -158392,6 +158393,7 @@ www.wwesport.com
 www.wweyoutube.com
 www.wwfsable.com
 www.wwin.ba
+www.wwjav.com
 www.wwnc.xyz
 www.wwpc.info
 www.wwppc.com
