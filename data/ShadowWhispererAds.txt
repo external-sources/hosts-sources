@@ -1,11 +1,11 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 15 Apr 2024 12:58:34 +0000
+# Last converted - Mon, 15 Apr 2024 16:58:45 +0000
 #
 
 00px.net
-03ab2qdorz.com
+03ab2paradisecdn.com
 079301eaff0975107716716fd1cb0dcd.com
 0ath.net
 0df921ae7136d731950edfdd4876e3ee9759a5c2e63fafe0d43f45cf.com
@@ -1648,6 +1648,7 @@ ad.malltail.com
 admamax.com
 admanage.com
 admanagency.com
+admanager.hu
 admanager.hulu.com
 admanager.org.uk
 admanagerplus.yahoo-inc.com
@@ -13902,6 +13903,7 @@ qc.designervn.net
 qckclk.com
 qcroag.com
 qdb6gd3nth.ru
+qdorz.com
 qeclsl.com
 qelllwrite.com
 qel-qel-fie.com
