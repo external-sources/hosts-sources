@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Tue, 16 Apr 2024 16:58:37 +0000
+# Last converted - Tue, 16 Apr 2024 20:58:08 +0000
 #
 
 00px.net
@@ -13008,6 +13008,7 @@ pantherainteractive.com
 pantheranetwork.com
 papayads.net
 paperg.com
+paradisecdn.com
 paradoxgroup.co
 paragone.ai
 params.prod.mwx.ext.mobilityware.com
