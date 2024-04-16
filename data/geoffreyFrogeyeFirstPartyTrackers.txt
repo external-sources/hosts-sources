@@ -1,7 +1,7 @@
 # geoffreyFrogeyeFirstPartyTrackers
 #
 # Converted from - https://hostfiles.frogeye.fr/firstparty-trackers.txt
-# Last converted - Tue, 16 Apr 2024 13:00:23 +0000
+# Last converted - Tue, 16 Apr 2024 16:58:31 +0000
 #
 
 101230059950694.wt-eu02.net
@@ -790,6 +790,7 @@ bidder.jp2.vip.prod.criteo.com
 bidder.nl3.vip.prod.criteo.com
 bidder.par.vip.prod.criteo.com
 bidder.sg1.vip.prod.criteo.com
+bidder.us5.vip.prod.criteo.com
 bidder.va1.vip.prod.criteo.com
 bigfishgamesinc.tt.omtrdc.net
 big.srax.com
@@ -964,6 +965,7 @@ cat.nl.eu.criteo.com
 cat.par.vip.prod.criteo.com
 catracking.finning.com
 cat.sg1.vip.prod.criteo.com
+cat.us5.vip.prod.criteo.com
 cat.va1.vip.prod.criteo.com
 cat.va.us.criteo.com
 cbcca.hb.omtrdc.net
@@ -1732,6 +1734,7 @@ dynamic.jp2.vip.prod.criteo.com
 dynamic.nl3.vip.prod.criteo.com
 dynamic.par.vip.prod.criteo.com
 dynamic.sg1.vip.prod.criteo.com
+dynamic.us5.vip.prod.criteo.com
 dynamic.va1.vip.prod.criteo.com
 e2.hazeldenbettyford.org
 e3rd01.eulerian.net
@@ -13518,6 +13521,7 @@ static.jp2.vip.prod.criteo.net
 static.nl3.vip.prod.criteo.net
 static.par.vip.prod.criteo.net
 static.sg1.vip.prod.criteo.net
+static.us5.vip.prod.criteo.net
 static.va1.vip.prod.criteo.net
 stats.radio-canada.ca
 stefanpiaskowski01.webtrekk.net
