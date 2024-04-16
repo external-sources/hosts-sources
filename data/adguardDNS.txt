@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 16 Apr 2024 08:57:53 +0000
+# Last converted - Tue, 16 Apr 2024 12:59:54 +0000
 #
 
+yhjhjwy.com
 ganchedagrapha.com
 huigt6y.xyz
 kjffqbnug.com
@@ -40908,6 +40909,7 @@ googleadservices-cn.com
 googleadsserving.cn
 googlevads-cn.com
 2aeabdd4-3280-4f03-bc92-1890494f28be.xyz
+4a0e.xyz
 4e55.xyz
 4e68.xyz
 657475b7-0095-478d-90d4-96ce440604f9.online
@@ -43199,6 +43201,8 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+fp-cdn.azureedge.net
+cdn.mircheigeshoa.com
 analytics.oceanengine.com
 tags.qortex.ai
 analytics-ingestion.pbpms.de
@@ -48816,6 +48820,7 @@ int.vaicore.xyz
 int.vlancaa.site
 int.vlancaa.fun
 tok.vaicore.xyz
+app-analytics-services.com
 sg.log.ulivetv.net
 kr-col-ext.nelo.navercorp.com
 events.funnelish.com
@@ -49661,7 +49666,6 @@ flashstats.libsyn.com
 flixgvid.flix360.io
 fog.pixual.co
 fourmtagservices.appspot.com
-fp-cdn.azureedge.net
 fresh.inlinkz.com
 fs-client-logger.herokuapp.com
 ftm.fluencyinc.co
@@ -60515,6 +60519,7 @@ jdbeht.xyz
 orbnarb.xyz
 baucraell.com
 xzrhvv.xyz
+szpbh.cn
 zhnnaxe.xyz
 zjrtxt.xyz
 znhlxvb.xyz
