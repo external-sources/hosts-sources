@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Tue, 16 Apr 2024 16:58:45 +0000
+# Last converted - Tue, 16 Apr 2024 20:58:16 +0000
 #
 
 readvasturked.pro
@@ -142616,6 +142616,7 @@ www.eddprepaidverification.dnset.com
 www.edealinvestissements.adx1.com
 www.edeits.com
 www.eden21.net
+www.edepolama.com
 www.e-devenirtrader.leadpages.co
 www.edge.quantserve.com
 www.edgedinawesome.com
@@ -146747,6 +146748,7 @@ www.jav4you.org
 www.jav007.com
 www.jav11b.com
 www.jav77.com
+www.jav.center
 www.jav.re
 www.jav-abc.com
 www.javanenvansuriname.info
