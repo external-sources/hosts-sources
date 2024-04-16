@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Mon, 15 Apr 2024 20:58:38 +0000
+# Last converted - Tue, 16 Apr 2024 01:40:36 +0000
 #
 
 01counter.com
@@ -66239,6 +66239,7 @@ ultraoranges.com
 umami.01o.de
 umami.achimkraemer.com
 umami.agilitynerd.com
+umami.aigenerations.net
 umami.alexej-conception.de
 umami-analytics.kualwe.easypanel.host
 umami-analytics.ruan.dev
