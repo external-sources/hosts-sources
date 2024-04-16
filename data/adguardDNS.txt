@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 16 Apr 2024 12:59:54 +0000
+# Last converted - Tue, 16 Apr 2024 16:58:03 +0000
 #
 
 yhjhjwy.com
