@@ -1,7 +1,7 @@
 # geoffreyFrogeyeMultiPartyTrackers
 #
 # Converted from - https://hostfiles.frogeye.fr/multiparty-trackers.txt
-# Last converted - Tue, 16 Apr 2024 20:58:03 +0000
+# Last converted - Wed, 17 Apr 2024 01:40:50 +0000
 #
 
 00f6375dd2e616d73649085c58dfed384fabe07a.cws.conviva.com
@@ -8642,6 +8642,7 @@ mug.jp2.vip.prod.criteo.com
 mug.nl3.vip.prod.criteo.com
 mug.par.vip.prod.criteo.com
 mug.sg1.vip.prod.criteo.com
+mug.us5.vip.prod.criteo.com
 mug.va1.vip.prod.criteo.com
 mutualofomahaemail.com
 mva1.maeva.com

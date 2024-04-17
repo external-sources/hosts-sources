@@ -1,9 +1,12 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 16 Apr 2024 20:57:36 +0000
+# Last converted - Wed, 17 Apr 2024 01:40:14 +0000
 #
 
+ciqahsejb.com
+qomffnmxgwcon.com
+jxhbpcdzcg.com
 yhjhjwy.com
 ganchedagrapha.com
 huigt6y.xyz
@@ -1277,6 +1280,7 @@ mine.torrent.pw
 1j771bhgi.de
 1jpbh5iht.de
 1jsskipuf8sd.com
+1jutu5nnx.com
 1kanz.cn
 1knhg4mmq.de
 1lbk62l5c.de
@@ -10263,6 +10267,7 @@ dgafgadsgkjg.top
 dggwqknub.com
 dgjyqdkxmxq.com
 dgkajwnbrazepe.com
+dgkmdia.com
 dglerduxehr.com
 dgmaustralia.com
 dgmmosrcgoh.com
@@ -12363,6 +12368,7 @@ erafterabigyellow.info
 eramass.com
 erankjkytrgh.com
 eraseficins.website
+eraudseen.xyz
 eravprvvqqc.xyz
 erbiscusys.info
 erbiscusysexbu.info
@@ -20359,6 +20365,7 @@ lbabpxobwjkobef.com
 lbbvyupbdq.com
 lbbzxarfoukaf.com
 lbexhowxemwo.com
+lbfgwkxq.com
 lbjxsort.xyz
 lbkezllkewevy.top
 lbswotkkpry.com
@@ -22535,6 +22542,7 @@ mlnsetyxcut.com
 mlnybwnbwzhiy.com
 mloxcnrt.com
 mlpeqwkruffs.com
+mlqyyucumcoxum.com
 mlrrvusoiebaox.com
 mlsys.xyz
 mltunxdmrv.com
@@ -24154,6 +24162,7 @@ npdocxjt.com
 npehvrjmf.com
 nphtakjpw.com
 npjhdunxxfhwgtv.com
+npkkpknlwaslhtp.xyz
 npkzqlhtecxx.com
 npnbwfpftjpqwc.com
 npoqyrxjmphdo.com
@@ -29493,6 +29502,7 @@ repairedentrailstangle.com
 repaycucumbersbutler.com
 repayrotten.com
 repeatedlyitsbrash.com
+repeatedlyshepherd.com
 repeatloin.com
 repeatresolve.com
 repellentamorousrefutation.com
@@ -37465,6 +37475,7 @@ wfnpay.com
 wfodwkk.com
 wfredir.net
 wfthumty.pm
+wfubtuatsa.com
 wfuossjholw.com
 wfutphkrendhr.com
 wfuwlkgm.com
@@ -37702,6 +37713,7 @@ wigfulchiack.com
 wigglestoriesapt.com
 wigglychick.top
 wiglessernes.com
+wignuxidry.net
 wigsynthesis.com
 wikeqa.uno
 wilcooxcheek.com
@@ -43202,6 +43214,8 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+ebxcdn.com
+prod.uidapi.com
 fp-cdn.azureedge.net
 cdn.mircheigeshoa.com
 analytics.oceanengine.com
@@ -43253,7 +43267,6 @@ citrusad.net
 pubperf.com
 stats.getaim.org
 analytics-cf.bigcrunch.com
-trackerapi.ebxcdn.com
 tongjiniao.com
 first-id.fr
 pixad.com.tr
@@ -49454,7 +49467,6 @@ api.country.is
 api.wipmania.com
 app.adjust.com
 apple.www.letv.com
-applets.ebxcdn.com
 argos.citruserve.com
 attributiontrackingga.googlecode.com
 audience.newscgp.com
@@ -50994,6 +51006,7 @@ softclick.com.br
 solution911.com
 templates.buscape.com
 yestorrents.org
+ads.people-group.net
 cdn.sov.stream
 adiam.tech
 bidster.net
@@ -60521,6 +60534,14 @@ zeqvqb.icu
 zfzys.top
 zhaweifeng.com
 zhihucloud.xyz
+rndcdb.xyz
+pwddhc.xyz
+jhfcll.cn
+kyuwkbd.top
+eiegkg.xyz
+vdoqomz.icu
+jypvzd.xyz
+ajffubz.xyz
 zhnnaxe.xyz
 zjrtxt.xyz
 znhlxvb.xyz
