@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 17 Apr 2024 08:58:08 +0000
+# Last converted - Wed, 17 Apr 2024 13:00:08 +0000
 #
 
+globalwoldsinc.com
 ciqahsejb.com
 qomffnmxgwcon.com
 jxhbpcdzcg.com
@@ -6036,6 +6037,7 @@ blatewave.top
 blatwalm.com
 blaze-media.com
 blazesomeplacespecification.com
+blazonstowel.com
 blbazybajjevv.top
 blbazybajvzvw.top
 blbesnuff.digital
@@ -31100,6 +31102,7 @@ sentientfog.com
 sentimentalclient.pro
 sentimenthypocrisy.com
 sentimentsvarious.com
+sentinelp.com
 seo-overview.com
 separashparyro.info
 separatecolonist.com
@@ -41059,6 +41062,7 @@ googleads.github.io
 hb.yahoo.net
 hbid.ams3.cdn.digitaloceanspaces.com
 hotwire-widget.dailywire.com
+iili.io
 inrdeals.com
 join.megaphonetv.com
 js.manga1001.win
@@ -54346,6 +54350,7 @@ nitroscripts.com
 norranstats.azurewebsites.net
 norstatsurveys.com
 ntrfr.expekt.se
+ntrfr.pixel.bet
 nucleusanalytics.io
 omni-ad-blocket.herokuapp.com
 openx.financialpublishers.nl
