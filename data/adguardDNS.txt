@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 17 Apr 2024 04:58:02 +0000
+# Last converted - Wed, 17 Apr 2024 08:58:08 +0000
 #
 
 ciqahsejb.com
@@ -2446,6 +2446,7 @@ adbureau.net
 adbutler-fermion.com
 adbutler.com
 adbuyer.com
+adc-teasers.com
 adcannyxml.com
 adcash.com
 adcastplus.net
@@ -23928,6 +23929,7 @@ nnkqkvqk.com
 nnmtjmkae.xyz
 nnncrox.com
 nnnfqegwes.xyz
+nnowa.com
 nnoyigqsvjud.com
 nnsnniklov.xyz
 nnthewdnez.com
@@ -56189,6 +56191,7 @@ cskh-dienmayxanhvn.com
 cskh-the-vpbank.com
 cskh-vib-canhan.com
 cskh-vib.ho-tro-tin-dung-ca-nhan.com
+cskh-vib.nang-han-muc-the-visa.com
 cskhdienmayxanh.com
 cskhdienmayxanhvn.com
 cskhmayxanh.com
@@ -56300,6 +56303,7 @@ dienmayxanh.fun
 dienmayxanh247.com
 dienmayxanh24h.com
 dienmayxanh24h.net
+dienmayxanh263.com
 dienmayxanh268.com
 dienmayxanh269.com
 dienmayxanhantam.com
@@ -56420,6 +56424,7 @@ fbviet88.com
 fcccredit.com
 fccomvn.com
 fd2.hmexchangecentre.com
+fdsd22.com
 fe-shop.cc
 fe.lwcvn.com
 feacbookk.com
@@ -56689,9 +56694,11 @@ hdbankfinance.xyz
 hdbanks.com
 hdcreditvnn.com
 hdfn.online
+hdsaison-app.cc
 hdsaison-app.vip
 hdsaison-com.cc
 hdsaison-hi.cc
+hdsaison-vip.cc
 hdsaison-vn.cc
 hdsaison-vn.com
 hdsaisonvn.com
@@ -56878,10 +56885,12 @@ ketban.online
 keygenwin.com
 kfdg22.com
 kfdg55.com
+kh-cn-uutien-3fv-vib.com
 khach-hang-ca-nhan-vip5.com
 khangdz215.tk
 khcn-han-muc-tin-dung-ca-nhan.com
 khcn-tindung-vp.com
+khcn-uu-tien-3fv-vib.com
 khoanhkhacgiadinhdoantucuoinam.weebly.com
 khoataikhoan-grn-vinhvien.xyz
 khoataikhoangarena.xyz
@@ -57149,6 +57158,7 @@ mbbankl.com
 mbbankmn.com
 mbbankn.com
 mbbffn.online
+mbfic-plus.com
 mbtk-bank.com
 mcfa11.com
 mcredit.vaynhanh-bankcredits.com
@@ -57835,6 +57845,7 @@ quaviet456.com
 quaviet999.com
 quaymayman.com
 quayngoc.com
+quaysomediamart2024.vip
 quaythuonggamefreefire.com
 quaythuonggarena.com
 quaythuongmembership.com
@@ -58431,6 +58442,7 @@ sieuthivemaybaygiare.com
 simpliftsbefore.info
 sindtex.shop
 sinhvienvietnam2022.weebly.com
+skhf11.com
 smilitygorb.club
 smrtbbdv.com
 smrtbbidv.com
@@ -58466,6 +58478,7 @@ ssvnshop.com
 standardresourcebank.com
 starbucksthai.shop
 stbuyshopoui.com
+stcard-vib.com
 steamunlocked.one
 storebinzdapoet.shop
 storehaiyen.com
@@ -60542,6 +60555,7 @@ eiegkg.xyz
 vdoqomz.icu
 jypvzd.xyz
 ajffubz.xyz
+grulphaens.com
 zhnnaxe.xyz
 zjrtxt.xyz
 znhlxvb.xyz
