@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 17 Apr 2024 16:58:41 +0000
+# Last converted - Wed, 17 Apr 2024 20:58:17 +0000
 #
 
 01counter.com
@@ -180,6 +180,7 @@
 40nuggets.com
 420a.xn--euts3n8lg6bk91h.jp.net
 42.219.186.35.bc.googleusercontent.com
+427mt.com
 42matters.com
 42trck.com
 4404trck.com
@@ -2599,6 +2600,7 @@ aimatch.com
 a.imgvc.com
 a.imkern.jetzt
 aimms.com
+aimondo.com
 aim-tag.hcn.health
 aimultiple.com
 a.independent.co.uk
@@ -14051,6 +14053,7 @@ bobcat.wdng-fotograf.de
 bob.dmpxs.com
 bobolink.patentfamily.de
 boecker-ziemen.de
+bogard.se
 boilingbeetle.com
 boilingcredit.com
 boilingumbrella.com
@@ -14196,6 +14199,7 @@ bsbi.gus.global
 bs.hydro.com
 b.simonandschuster.com
 b.sli-spark.com
+bsm.cloud
 bsmmail.co.uk
 bsna.galeria-kaufhof.de
 bsna.inno.be
@@ -14340,6 +14344,9 @@ buzzard.nimble.team
 buzzback.com
 buzzdeck.com
 bv-certification.bureauveritas.com
+bvdep-nl.net
+bvdinfo.com
+bvdny.com
 bw91ltrk.com
 b.wal.co
 b.webmd.com
@@ -14653,6 +14660,7 @@ cattle.spiral11.com
 cattle.weiss-bregenz.at
 cattle.yourdallashandyman.com
 cat.weddingsabroad.com
+catyli.st
 c.auntieannes.com
 causalfunnel.com
 causecherry.com
@@ -14778,6 +14786,7 @@ cdn.watchingthat.net
 cdnweb.aoscdn.com
 cdn.ywxi.net
 cdn-zeptoapps.com
+cdocalc.com
 cdp.asia
 cdp.cbc.ca
 cdp.cloud.unity3d.com
@@ -14798,6 +14807,7 @@ cds.nationaldecisionsupport.com
 cdw-email.com
 cdwg-email.com
 cd.zerostats.com
+cecap.ca
 ceciliavenus.com
 cedexis-radar.net
 ce.gmocloud.com
@@ -16632,6 +16642,7 @@ crashreport.netmarble.com
 crash-report-service.svc.ui.com
 crash-reports.mozilla.com
 crashreport.wolcengame.com
+crashsight.wetest.net
 crashstats-collector.opera.com
 crash-stats.mozilla.com
 crash.steampowered.com
@@ -16667,6 +16678,7 @@ creaturecabbage.com
 crecon.com
 creditcreature.com
 credite.vitasromania.ro
+creditexchange.com
 creditmarkets.macquarie.com
 creditrisk.creditbenchmark.com
 creto.club
@@ -17898,6 +17910,7 @@ discovery.micstatic.com
 discovery.olv.nintendo.net
 discreetfield.com
 discreetquarter.com
+dismal.net
 disneycasting.net
 disneyinteractive-games.com
 dispatchtrack.com
@@ -18427,11 +18440,13 @@ econda.de
 econda-monitor.de
 econ.dealerinspire.com
 economicpizzas.com
+economy.com
 e.consumerreports.org
 econ.trib.al
 eco.ricoas.co.jp
 eco.shouene.com
 eco.solarapart.jp
+ecredit.com
 e.crf.org
 e.crisisresponse.org
 e.crownpublishing.com
@@ -18454,6 +18469,7 @@ ed.emp.at
 ed.emp-online.com
 e.deventing.com
 ed.filene.org
+edfx.com
 edge.adobedc.net
 edgeanalytics.ca
 edge-cg-cg-edge-55555-mid-ewr01.cbs-measurements.us-east.dns.qwilted-cds.cqloud.com
@@ -19106,6 +19122,7 @@ eu-marine.mtu-solutions.com
 eu.mtuonsiteenergy.com
 eu-power.mtu-solutions.com
 eurelian.com
+euronextvigeo.com
 europcarnews.co.uk
 europe-west1-mov-prod10.cloudfunctions.net
 europe-west1-realtime-logging-228816.cloudfunctions.net
@@ -19501,6 +19518,7 @@ faceunity.com
 facilistats.com
 facilitategrandfather.com
 fact.ai
+factai.com
 factors.ai
 factset.com
 fact.tkmes.jp
@@ -19640,6 +19658,10 @@ fem.femara.com
 feng-gui.com
 fengkongcloud.com
 fe.research-plus.net
+fermat.ae
+fermat.com.sg
+fermat.fr
+fermat.us
 ferret.3tech.no
 ferret.ecvan.io
 ferret.emilkowal.ski
@@ -19694,6 +19716,7 @@ finance-insights.kantox.com
 finance.upequity.com
 financialforce.com
 financial-pd.raccoon.ne.jp
+financialprojections.com
 financial.salientsys.com
 financialwellness.ameriprise.com
 financing.applepiecapital.com
@@ -20673,6 +20696,8 @@ g.fragrancenet.com
 g.fuelbymckinsey.com
 gfx.filmweb.pl
 gg44clk.com
+ggyaxis.com
+ggy.com
 ghastrk.com
 gho.hamaya-corp.co.jp
 ghostboard.io
@@ -20726,6 +20751,7 @@ glimr.io
 glisteningguide.com
 glisteningsign.com
 glitteringbrook.com
+globalabsportal.com
 global.apexanalytix.com
 globaldata.com
 global.delltechnologies.com
@@ -25620,6 +25646,7 @@ instana.io
 instance01-analytics-eu-metrics.avoco.hr
 instant.page
 instartlogic.com
+instituteofcanadianbankers.com
 instrumentinsect.com
 instrumentsponge.com
 insurance.exploredata.com
@@ -26378,6 +26405,7 @@ km10tk-2.com
 kms-world.com
 kmtrak.com
 kmtx.com
+kmv.com
 knd32k.com
 knitstamp.com
 knocommerce.com
@@ -27749,6 +27777,7 @@ manatee.biodom.bio
 manatee.creativepassport.net
 manatee.wemaketechsimple.com
 ma.navchain.com
+mandaportal.com
 mandrill.castingcollective.net
 mandrill.hamptonbeach.live
 mandrill.phiilu.com
@@ -28531,6 +28560,7 @@ marmot.hippiemodernism.com
 marmot.ivymayhem.io
 marmot.jfontana.fr
 marmot.theshootingcentre.com
+marqportal.com
 marriedbelief.com
 marriedmailbox.com
 marriedvalue.com
@@ -34392,7 +34422,17 @@ mon-va.byteoversea.com
 moodleanalytics.com
 moodle-analytics.navitas.com
 moodysanalytics.com
+moodysanalytics.net
+moodysbiz.com
+moodys.com.br
+moodys.com.cn
+moodyscre.com
+moodyskmv.com
+moodyslocal.com
+moodysresearchlabs.com
 moodysrms.com
+moodyssso.com
+moodystotalrewards.com
 mookie1.com
 moon.kagari.moe
 moornetworks.trade
@@ -45551,6 +45591,7 @@ r.c.thycollection.com
 rd10trk.com
 r.data.gandgpro.com
 rd.business.mobile.rakuten.net
+rdc.com
 rdcdn.com
 rd.comm.rakuten.net
 rddiagnostics-g-us-r1.wvd.microsoft.com
@@ -45983,6 +46024,7 @@ report-uri.cloudflare.com
 report-uri.com
 report-uri.io
 reportus.parallels.com
+reportwest-midas.codmwest.com
 reppublika.com
 representativebat.com
 representativeray.com
@@ -46280,6 +46322,7 @@ risinc.com
 risingmedia.eu
 riskanalytics.com
 riskfactionsemail.com
+riskfirst.com
 riskpulse.com
 ri.smith-nephew.com
 ritorno.ru
@@ -47514,6 +47557,7 @@ scrapesleep.com
 scratchsofa.com
 sc.rbs.com
 sc.rbs.co.uk
+screamingmedia.com
 s.createprintables.com
 screeb.app
 screechingfurniture.com
@@ -48148,6 +48192,7 @@ sfpd.nrsgroup.co.jp
 sfpd.nrsgroup.com.tw
 sfpd.woonnu.nl
 sf.pentaxmedical.net
+sfportal.com
 s.friday10.net
 sf.rtg-agent.co.jp
 sf.stanzaacademy.org
@@ -66725,6 +66770,8 @@ viewpoint.com
 views.bzi.ro
 view.scoutrfp.com
 views.hulu.com
+vigeo.com
+vigeo-eiris.com
 vigilus.net
 villas.isleblue.co
 vilynx.com
@@ -66972,6 +67019,7 @@ wallaby.legendkeeper.com
 wallaby.short1.link
 walletinsights.com
 walletrt.com
+wallstreetuk.com
 wallsystems.basf.us
 walmp.com
 walnutstlabs.com
@@ -67739,6 +67787,7 @@ wrongpotato.com
 wrongwound.com
 wryfinger.com
 ws.aimbase.com
+wsainc.com
 wsassets.sincrod.com
 ws.audioeye.com
 ws.edb.gov.hk
@@ -72295,6 +72344,7 @@ zebra.helpspot.com
 zebra.rightly.co.uk
 zeemapsmetrics.s3.amazonaws.com
 zegnaemail.com
+zembles.com
 zenanalytics.net
 zen-desktop-morda.mediascope.mc.yandex.ru
 zendroptrk.com
@@ -72307,7 +72357,9 @@ zenus.ai
 zenweshare.com
 zeotap.com
 zephr-v4.nypost.com
+zephus.com
 zephyrcatalyst.com
+zephyrdealdata.com
 zephyrlabyrinth.com
 zergnet.com
 zeroclickfraud.com
