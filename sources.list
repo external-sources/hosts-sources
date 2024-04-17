@@ -1,10 +1,10 @@
-.workspace/-/raw/master/data/hphosts/hjk/domain.list
+.workspace/-/raw/master/data/openfish/domain.list
 .workspace/-/raw/master/data/hphosts/psh/domain.list
-.workspace/-/raw/master/data/hphosts/pup/domain.list
-.workspace/-/raw/master/data/hphosts/grm/domain.list
-.workspace/-/raw/master/data/hphosts/mmt/domain.list
 .workspace/-/raw/master/data/hphosts/fsa/domain.list
-.workspace/-/raw/master/data/hphosts/exp/domain.list
 .workspace/-/raw/master/data/hphosts/emd/domain.list
 .workspace/-/raw/master/data/hphosts/ad_servers/domain.list
-.workspace/-/raw/master/data/openfish/domain.list
+.workspace/-/raw/master/data/hphosts/exp/domain.list
+.workspace/-/raw/master/data/hphosts/grm/domain.list
+.workspace/-/raw/master/data/hphosts/pup/domain.list
+.workspace/-/raw/master/data/hphosts/mmt/domain.list
+.workspace/-/raw/master/data/hphosts/hjk/domain.list
