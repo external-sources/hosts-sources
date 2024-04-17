@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 17 Apr 2024 16:58:39 +0000
+# Last converted - Wed, 17 Apr 2024 20:58:15 +0000
 #
 
 00px.net
@@ -1370,6 +1370,7 @@ adhost.com
 adhost.se
 ad.hotgear.pl
 ad.hotpot.si
+adhouse.ca
 adhouse.pro
 ad.howcard.com.tw
 ad.hqchip.com
@@ -1801,6 +1802,7 @@ admoxi.com
 admozart.com
 admozartppc.com
 admozartxml.com
+admpire.com
 admp-tc.delfi.ee
 ad.mrtnsvr.com
 adm.shinobi.jp
@@ -5200,6 +5202,7 @@ adtech.info
 adtechium.com
 adtechjp.com
 adtechlogix.com
+ad-tech.ru
 adtechserv.com
 adtech.us
 adtechus.com
@@ -6264,6 +6267,7 @@ antiadblock.info
 antiadxxxspy.com
 antiqueswebads.com
 antiweb.cz
+anunaad.com
 anuncios.edicaoms.com.br
 anura.io
 anxin59.com
@@ -6275,6 +6279,7 @@ anytimead.com
 anzu.io
 aolplatforms.com
 aomngb.com
+aonebox.com
 a.optmnstr.com
 aori.com
 aotter.net
@@ -6945,9 +6950,13 @@ be.forklift.de
 begun.ru
 behaveapi.wpengine.com
 behave.com
+behavioral-banner.com
+behavioralbanner.com
+behavioral-banner.co.uk
 behavioral-banner.fr
 behavior.com
 behaviouralbanner.com
+behaviouralbanner.co.uk
 behavioural-banner.fr
 behaviouralbanner.fr
 behoppipan.com
@@ -7418,6 +7427,7 @@ btrll.com
 btserve.com
 bttrack.com
 bubbleads.com.au
+bubblegummarketing.com
 bucanerosanantonio.com
 buchhandelswelt.de
 bucket1.mm-syringe.com
@@ -7729,6 +7739,7 @@ chatlead.com
 chattercreative.com
 chattertulsa.com
 checkm8.com
+cheerscreatives.com
 chemekbrothers.com
 cheproximity.com.au
 chernovik.net
@@ -8598,6 +8609,7 @@ deltraff.com
 demandlocal.com
 demandsmedia.com
 demand.supply
+demannenvandelft.nl
 demetramedia.com
 demos.codetipi.com
 dengage.com
@@ -8612,6 +8624,7 @@ designaccent.in
 designcomm.in
 designfoundry.co.in
 designmechanics.in
+designxbh.com
 desipearl.com
 desire.ae
 desktop-adv-banners.freemake.com
@@ -8857,6 +8870,7 @@ dplivin.mobi
 dpmetro.mobi
 dpns-notifications.com
 dppad.com
+dprandco.com
 dpsq2uzakdgqz.cloudfront.net
 dqzuy.com
 dr2.yandex.net
@@ -9552,6 +9566,7 @@ frequencyads.com
 fresh8.co
 fresh8gaming.com
 frestacero.com
+friendlybunny.com
 friendlyduck.com
 friends2follow.com
 friends2follow-us.s3.amazonaws.com
@@ -9963,6 +9978,7 @@ grandmobi.com
 grandmobi.net
 grandslammedia.com
 granns.co.zw
+granth.info
 grapeads.com
 grape.ba
 grapefruit6705068.brizy.site
@@ -11429,6 +11445,8 @@ mads-eu.amazon.com
 madsone.com
 madvertise.com
 madvertise.de
+madworks.in
+maf.ad
 magellan.wayfair.com
 magmalatam.com
 magnetadservices.com
@@ -11601,6 +11619,7 @@ mbbagency.com
 mb-cdn.stocard.de
 mbke.com.vn
 mblapi.ssl2.duapps.com
+mboadvertising.com
 mbpiland.com
 mbrworldwide.com
 mbww.com
@@ -11646,6 +11665,7 @@ mediaathay.org.uk
 mediabigsail.com
 mediablueads.trafficman.io
 media.bmpas.cz
+mediaboxoffice.in
 media.bytesignal.com
 mediacategory.com
 media-cdn.costco.com
@@ -12619,6 +12639,7 @@ ocaeliek.com
 ocardoniel.com
 ocast.com
 occash.com
+oceanagency.dk
 ocean.gigatron.rs
 oceanmobi.com
 oceanwebcraft.com
@@ -12997,6 +13018,7 @@ pakley.com
 palmads.mobi
 palmeradagency.com
 palmer-advertising.com
+pamspringadvertising.com
 panadvert.com
 panamads.net
 pandavaz.com
@@ -13513,6 +13535,7 @@ privatecash.com
 prizm.digital
 prizmgroup.com
 prizmm.com
+prizmweb.com
 pr.messe-essen.de
 prng.co
 proadscdn.com
@@ -13786,6 +13809,7 @@ pushkit.com
 pushland.ru
 push.laverdad.es
 pushlist-yjapp.yahoo.co.jp
+pushloop.io
 push.ly
 pushly.com
 pushmaster.bundesliga-appr.com
@@ -13834,6 +13858,7 @@ pushpros.tech
 pushpushgo.com
 pushpush.io
 pushresponse.net
+pushrocket.one
 push.rollout.io
 push.rtfd.org
 pushsafer.com
@@ -13876,6 +13901,7 @@ putrid-experience.pro
 puuzan.com
 pvnsolutions.com
 pvuuvp.online
+pwa-media.org
 pwapi.washingtonpost.com
 p.weebly.com
 pwfb7w87ov.ru
@@ -14237,6 +14263,7 @@ resonatesolutions.com.au
 respondmedia.co.uk
 responsemine.com
 responsiveads.com
+restafari.org
 resurrect.club
 retail9.com
 retail9ventures.com
@@ -14584,6 +14611,7 @@ samsungrs.com
 samsungtvads.com
 samvaulter.com
 saooti.com
+sapienceglobal.com
 sapphirum.com
 sapphirum.network
 sarojads.com
@@ -15402,6 +15430,7 @@ standardpublicity.in
 standartnews.eu
 stankeviciusmgm.com
 stanoadleads.com
+starbucks.family
 starcdnvideo.com
 stargamesaffiliate.com
 starlingmedia.com
@@ -16115,6 +16144,7 @@ trafmag.com
 traforet.com
 traktrk.com
 tramadol2006.3xforum.ro
+tranding.bid
 transmit.live
 travelaudience.com
 traveler.contentondemand.es
@@ -16125,6 +16155,7 @@ trboadvance.com
 trc.lhmos.com
 trecurlik.com
 treehouse.wwoz.org
+treeindia.net
 treepodia.com
 trekkww.fun
 trellian.com
@@ -16171,6 +16202,7 @@ tritondigitalmedia.com
 triumphads.com
 triverseadvertising.com
 trivver.com
+trizoneindia.com
 trmads.eu
 trmit.com
 trndsttrs.media
@@ -16506,8 +16538,11 @@ valuad.mx
 valuead.com
 valueadvert.com
 valueclick.com
+valueclick.de
+valueclick.fr
 valueclickmedia.com
 valueclick.net
+valueclicks.com
 valuecommerce.co.jp
 valuecommerce.com
 valuecommerce.ne.jp
@@ -16811,6 +16846,7 @@ wave2media.com
 wawallama.com
 waxcom.com
 way2traffic.com
+waymore.io
 waytogrow.com
 waytogrow.eu
 waytogrow.pl
@@ -17072,6 +17108,7 @@ wiltedtheory.com
 wimg.ca
 winads.eraofecom.org
 winadx.com
+winbox-adsmkt.com
 windfallstudio.com
 windsplay.com
 wingardcreative.com
@@ -17552,6 +17589,7 @@ zerads.com
 zergnet.net
 zeropark.com
 zestcreative.in
+zesty.market
 zestymarketing.com
 zetadeo.com
 zetads.com
