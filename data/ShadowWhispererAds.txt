@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Thu, 18 Apr 2024 16:58:44 +0000
+# Last converted - Thu, 18 Apr 2024 20:58:29 +0000
 #
 
 00px.net
@@ -2109,6 +2109,7 @@ adrevenuerescue.com
 ad.revistamelhor.com.br
 adrevolver.com
 adrevservice.com
+adriads.com
 adrichweb.com
 adridgemedia.com
 adridgemedia.in
@@ -11829,6 +11830,7 @@ milotree.com
 mimedialabs.com
 mimedialabs.in
 mimilcnf.pro
+mindblue.in
 mindfleck.com
 mindframeindia.com
 mindlessagency.pro

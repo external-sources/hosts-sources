@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Thu, 18 Apr 2024 16:58:46 +0000
+# Last converted - Thu, 18 Apr 2024 20:58:31 +0000
 #
 
 007-dvd.com
@@ -325,6 +325,7 @@ adorablerottweilers.com
 adorable-rottweiller-puppies-for-sale.business.site
 adorableschnauzerpuppies.live
 adorableshihtzupuppiesforsale.business.site
+adorablesmartpuppies4home.com
 adorablesphynxkitten.com
 adorableteacupchihuahuas.online
 adorablewelshcorgipuppieshome.com
@@ -597,6 +598,7 @@ alternativemediasyndicate.net
 alternativenumber.com
 althea-group.com
 altitudek.com
+alvateacupyorkiepuppies.com
 alwayhappy.com
 alwayswet.club
 alyssafrenchie.com
@@ -731,6 +733,7 @@ andesalpacashop.com
 andreaspet-home.com
 android-anti-virus.com
 androidusbdrivers.com
+andylabradorretrieverhome.com
 aneedtools.com
 aneomart.com
 aneosityrug.com
@@ -1124,6 +1127,7 @@ balekingdom.com
 balinesehouse.com
 balkanbusinesswire.com
 balkanpharmacystore.com
+ballapa.com
 ballizshop.com
 ballparkbulldogs.com
 ballpythonspet.store
@@ -1159,6 +1163,7 @@ baryman.com
 basiccharm.online
 basicion.com
 bassethoundfamily.org
+basurtoranchoftexas.com
 batefood.com
 batesmaltesehome.com
 batonrougereporter.com
@@ -1251,6 +1256,7 @@ benhellguns.net
 benjamincollins.top
 benos.shop
 benseletti.com
+bensongreens.com
 bensonpomeranianshome.com
 benstreecare.com
 bentontimes.com
@@ -1262,6 +1268,7 @@ beriuty.com
 berkeleyleader.com
 berlusconifirearms.com
 bernedoodlehome.com
+bernedoodlerescueandrehomingshelter.com
 bernedoodlesoftherockies.com
 bernercompanionkennel.com
 bernesemountainbreeds.com
@@ -1281,6 +1288,7 @@ besexy-de.com
 besexy-nl.com
 besexy-uk.com
 besexy-us.com
+besfrenchbulldogpups.com
 bestabortionpill.com
 bestammoacademy.com
 bestammosupplier.com
@@ -1374,6 +1382,7 @@ bettypoopuppies.com
 beuavailable.com
 beurette.land
 bevanleecavaliers.com
+bevanleespaniels.com
 bewarthat.com
 bewitchingpeace.com
 bflairs.com
@@ -1433,8 +1442,10 @@ binorder.com
 biochempharmonline.com
 biographyk.com
 biolyfebrands.com
+bionixcorpp.com
 bipubunny.com
 birdbreederstore.com
+birdmanspetsources.com
 birdsandparroteggsforsale.com
 birdscolar.com
 birmancatforsale.com
@@ -1517,6 +1528,7 @@ bluemountainbmd.com
 bluenosepitbullpups.com
 bluepearlorgans.com
 blueprintbulldogsbreeders.adtob.com
+blueprintkennel.com
 bluerockdogtraining.com
 blueskyfair.space
 blueskyfrenchiebeautyhome.com
@@ -2233,6 +2245,7 @@ chadchowpuppies.com
 chainreactions.live
 chambanasun.com
 chameleonsupportservices.com
+championbloodlinecooncattery.com
 championfrenchbuldogs.com
 championfrenchbulldogpuppies.com
 championfrenchbulldogs.com
@@ -2302,6 +2315,7 @@ charmguys.online
 charmingbmdpups.com
 charmingbordercollies.com
 charmingbullmastiffs.com
+charmingchihuahuapuppies.com
 charmingdachshundpups.com
 charmingdollsminis.com
 charminggermanshepherds.com
@@ -2426,6 +2440,7 @@ cherryyorkies.com
 cherylpups.com
 chessy.net
 chexor.com
+chezlynne.co.za
 chiappaarms.com
 chiapparhinofirearm.com
 chicagocitywire.com
@@ -2463,6 +2478,7 @@ chomiepomeranianpalace.com
 chopeunecougar.com
 choppersden.com
 chowchowfarms.com
+chowchowforsale.com
 chowchowheavens.com
 chowchowpetland.com
 chowchowpuppieshome.xyz
@@ -2852,6 +2868,7 @@ corgidogslovers.com
 corgiland4.wixsite.com
 corgipuppies.homesteadcloud.com
 corgipuppiesvilla.com
+corgipuppybreederfarm.com
 corgispets.com
 corlorsky.com
 cornertradegmbh.com
@@ -2949,6 +2966,7 @@ creekrussell.com
 creeksidedoxies.com
 crejuiendig.com
 crescentsphynxkittens.com
+crescentstarptyltd.co.za
 crestiekids.com
 crhelpdesk.com
 crimerecordusa.com
@@ -2966,6 +2984,7 @@ crouchshippingagency.com
 crowdmining.biz
 crowdstreet-firearms.com
 crowndobermans.com
+crownedretrieverpuppies.com
 crownexpresscourier.com
 crownstaronline.com
 crownstartrust.com
@@ -3134,6 +3153,7 @@ darknetdrug.com
 darknetguns.com
 dark-net-market.com
 darknetweed.com
+darkwebmarketbuyer.com
 darkworldenterprise.com
 darleneshihtzu.com
 darliasmaltesepuppies.com
@@ -3242,6 +3262,7 @@ dell-prosupport.com
 dellservicecenternoida.in
 dellsupportme.com
 delltechnicalsupport.us
+delmarvapferdestall.org
 deltaequitiesllc.net
 deluxeaussiedoodlehome.com
 deluxedachshundpuppies.com
@@ -3641,6 +3662,7 @@ eastarapahoenews.com
 eastarizonanews.com
 eastcentralreporter.com
 eastclevelandnews.com
+eastcoastagrosupplierltd.com
 eastdfwnews.com
 easternshoretimes.com
 easternwaynetoday.com
@@ -3932,6 +3954,7 @@ englishbulldogpuppiesforgoodhome.com
 englishbulldogsclub.com
 englishbulldogspuppies.company.site
 englishbullybreeders.com
+englishcertificatesonline.com
 englishcockerspanielpuppiesforsale.com
 enjoycomfy.com
 enjoythehug.com
@@ -4035,6 +4058,7 @@ eu-fuhrerscheinzone.com
 euglobalservices.com
 eu-med-mart.com
 eur-cargo.com
+eurleeches.com
 euroasiaie.com
 eurobikezone.com
 euroemarket.com
@@ -4058,6 +4082,7 @@ euthanasiameds.com
 evacam.fr
 evagreenpuppystore.com
 evatee.com
+evelyndachshsundforlife.com
 everglowpuppies.com
 evergreenmarinecorpration.com
 evergreenmedicalmarijuana.com
@@ -4584,6 +4609,7 @@ fourwant.com
 fourwayspoultry.co.za
 foxapparels.com
 foxcitiesnews.com
+foxhilldogkennels.com
 foxstee.com
 foxyoldercanucks.com
 fps-unlocker.net
@@ -4905,6 +4931,7 @@ genuinechem.com
 genuinedocservice.com
 genuinedocumentation.com
 genuinefair.space
+genuineglobaldocs.com
 genuineregistereddocuments.com
 genuinevenompharmacy.com
 genuiney.com
@@ -5118,6 +5145,7 @@ gloextracts.org
 gloogalmarket.com
 gloried.shop
 gloriouscavapoo.com
+gloriouspaws.co.za
 gloriouspuppieshome.com
 gloriousz.com
 glowflip.com
@@ -5224,6 +5252,7 @@ gorgeouskingscharleshome.com
 gorgeousmaltesehome.com
 gorgeousmaltesehomes.com
 gorgeousnuts.com
+gorgeouspomeranianhome.com
 gorgeouspoodlemaltipoohome.com
 gorgeousq.com
 gorgeoussnowwhitesamoyedpuppies.com
@@ -5412,6 +5441,7 @@ hakimysamoyedpuppies.com
 halalchicken.co.uk
 halcominingncontainers.com
 halfhormones.com
+halfpricedealer.com
 hallucinshop.com
 hambricktrustsplc.com
 hamiltonreporter.com
@@ -5437,6 +5467,7 @@ happilyending.com
 happimissy.com
 happinessyell.com
 happy420shop.com
+happybeastmainecoons.com
 happybirthdaybostonterriers.us
 happybuddies.site
 happybullterriers.com
@@ -6064,6 +6095,7 @@ interioralaskanews.com
 interlogsol.com
 intermediatem.com
 internationaldocumentation.com
+internationalfinancesource.com
 internationalforwarding.co.uk
 internationalglobalgolfcarts.com
 internationalshippingexpress.com
@@ -6159,6 +6191,7 @@ jamesautosupply.co.za
 jamesboxerpuppies.com
 jamescavapoopups.com
 jamesdocumentation.com
+jamesfamilymastiffpuppiesforadoptionandrehoming.com
 jameskimbibernesemountain.com
 jamierugersonline.com
 jampastey.com
@@ -6343,6 +6376,7 @@ kanustu.com
 kapulet.com
 karasdoodles.com
 karenscorgis.com
+karinaretrieverkennel.com
 kashflippers.com
 kaspersky-activation.com
 kasperskyantivirus.ir
@@ -6362,6 +6396,7 @@ kaufenregistrierterfuhrerschein.com
 kaxtransportation.com
 kaybeeglobalproducts.com
 kayemcavaliers.com
+kaylachihuahuamonkeys.com
 kaymankatz.com
 kazbingo.kz
 kcharlescavalierpups.com
@@ -6877,6 +6912,7 @@ lovelysew.co
 lovelysew.com
 lovelysew.net
 lovelywhale.com
+lovelyyorkiepuppies.com
 lovemyfamilyforever.com
 loveonhers.com
 loversofall.com
@@ -6940,6 +6976,7 @@ lufkinmaltesefarm.com
 lukalula.com
 lukasminiteacups.com
 lukegear.com
+luksfamily.com
 lulicom.com
 luminousey.com
 luminousey.net
@@ -7000,6 +7037,7 @@ magicvalleytimes.com
 magnafair.space
 magnasat.com
 magneticfair.space
+magneticmissus.com
 magnetismi.com
 magnetonify.com
 magnetrc.org
@@ -7026,6 +7064,7 @@ mainecoonkittensforsalenearme.com
 mainecoonkittenshome.com
 mainecoonkittens.store
 mainetassettrustltd.com
+mainexotics.com
 mainlineyorkies.com
 maisheeggsandchickenfarm.co.za
 maitresse-sm.com
@@ -7093,6 +7132,7 @@ marileto.com
 marinedefencecamp.com
 marinleader.com
 marionmorrowtimes.com
+markbeagleshome.com
 marketingdirect.lu
 markforlove.com
 marklegoldenretrievers.com
@@ -7306,6 +7346,7 @@ mertradingbv.com
 merung-stern.de
 mesotherapyonlineshop.com
 metablox.me
+metabolicriodstore.com
 metallicnte.com
 metallict.com
 metalscrapsolution.com
@@ -7438,9 +7479,11 @@ minidoodleheaven.com
 minigolddoodle.com
 minigolden.com
 minihiglandcattlesfarm.com
+minimaltipoopuppiesforadoptionnearme.online
 minimepillow.com
 mininghardwarehub.com
 minipigs-forsale.com
+minipomskypuppiehome.com
 minipoodlepupsforsale.com
 minipuppy.us
 minischnauzershome.company.site
@@ -7576,6 +7619,7 @@ motocross4life.com
 motor4love.com
 motorcitygunshop.com
 motorolausbdriver.com
+mountaincanecorsoden.com
 mountainstatetimes.com
 mountmuse.com
 moutivelon.com
@@ -7648,6 +7692,7 @@ mybathsheba.com
 mybootstory.com
 mybosidu.com
 mybrickcities.com
+mycanadianflirt.com
 mycannabisonlineshop.com
 mycasualcontacts.com
 my-cheekyflirt.com
@@ -7823,6 +7868,7 @@ ncunionnews.com
 ncwisconsinnews.com
 ncwvnews.com
 ndbusinessdaily.com
+ndlsdocuments.info
 ndnorthnews.com
 nds-comptes.fr
 ndsemulator.com
@@ -8325,6 +8371,7 @@ onlinediscount2021.ru
 onlinediscreetsales.com
 onlinediscretesales.net
 onlinedoctornearme.com
+onlinedocumentspass.com
 onlinefakebillsdoc.com
 onlinefastdocs.com
 onlinefitt.net
@@ -8471,6 +8518,7 @@ outlooksupporto.com
 outlooktechsupport.org
 outwardap.com
 outwardlys.com
+outwestschnauzers.com
 ovaltee.com
 overandagain.com
 overmont.eu
@@ -8613,6 +8661,7 @@ pawshavenbreeders.com
 pawsitivekennel.co.za
 pawskennelau.com
 pawslover.co.za
+pawsomedanes.com
 pawsonalization.com
 pawsteacuppom.com
 paxexcourierservices.com
@@ -8755,6 +8804,7 @@ philosophym.com
 phisuperior.com
 phoenixcorp.fr
 phoenixdstore.com
+phoenixmaincoons.com
 phone-supportnumbers.com
 phonesupportnumbers.com
 phonesupportnumbers.net
@@ -8854,6 +8904,7 @@ pleseant.com
 plexauto.info
 pliedogen.com
 plivvy.com
+ploogn.com
 plutostars.com
 plymouthcontainers.co.uk
 pmtradingvof.com
@@ -8894,6 +8945,7 @@ pompuppies4homes.com
 pomsfarm.company.com
 pomsky1234.com
 pomskybabieshome.weebly.com
+pomskykennels.com
 pomskypuppiesbreeders.com
 pomskyspot.com
 pomwershop.com
@@ -9220,6 +9272,7 @@ propvmoney.com
 proreplicawatches.com
 prosafetypharma.com
 prosellerlegit.com
+prospectvaleteacuphome.com
 prospendrr.com
 prosperousm.com
 prossiming.com
@@ -9294,6 +9347,7 @@ pubertyidea.com
 publiccharm.online
 publiclucky.com
 puddingtee.com
+pugpethouse.shop
 pugpupparadise.com
 pug-puppies-for-sale-pet-adoption-service.business.site
 pugpupspot.com
@@ -9854,6 +9908,7 @@ robloxshop.online
 robloxsource.com
 roblx-app.com
 robmaltesepuppieshome.com
+robmondcavalierhome.com
 robuxar.com
 robuxat.com
 robuxcodestips.com
@@ -10601,6 +10656,7 @@ smilenicey.com
 smilesmagic.com
 smilingmaltesehome.com
 smith-beabulls.com
+smithbernesemountaindogs.com
 smithgreenhouse.com
 smithgunstore.com
 smlcryptoinvestment.com
@@ -10786,10 +10842,12 @@ sphinks.org
 sphynxkittenparadise.com
 sphynxkittenstoday.com
 sphynxkittiesworld.net
+sphynxmomplace.com
 spiralhappy.com
 spirithalloweenwh.com
 spiritofnatives.com
 splashfair.space
+splendidgoldenretrieverpups.com
 splendourteacuppuppies.co.za
 spokanecotimes.com
 spokanestandard.com
@@ -10968,6 +11026,7 @@ stuartfellstaffordshirebullterriers.com
 studio2020.co.za
 stuffiestoy.com
 stunningfemale.net
+stunningpoodlepuppies.com
 stunningstuffs.com
 stuodionven.com
 sturdyteady.com
@@ -11305,6 +11364,7 @@ tandsnow.com
 tanirthk.com
 tanningbed.com
 tapentadolmed.com
+taphousebourbon.com
 tapp-harma.com
 targetammostore.com
 targetcharm.online
@@ -11533,6 +11593,7 @@ thejoytee.com
 thekisscharm.com
 thekiton.com
 thekittenbreeders.com
+thekittendistro.com
 thelordstore.net
 thelordtee.com
 thelotusdispensary.com
@@ -11621,6 +11682,7 @@ tikkafirearmstore.com
 tilaz.shop
 timber-masterllc.com
 timefliess.com
+timelessgoldenretrievers.com
 timetransitlog.com
 tinabrightshetlandsheltie.com
 tinbang.com
@@ -11980,6 +12042,7 @@ uniformlyl.com
 unifully.com
 unionbasset.com
 unioneo.be
+unionsheltie.com
 uniplust.com
 unipuzzles.com
 uniqueabund.com
@@ -12479,6 +12542,7 @@ westward-freight.com
 wesvaltobaccogroup.co.za
 wewellson.com
 wezpod.com
+wfrhouse.shop
 whaau.net
 whalebaby.net
 whatdoesitmean.com

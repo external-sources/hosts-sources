@@ -1,9 +1,15 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 18 Apr 2024 16:58:08 +0000
+# Last converted - Thu, 18 Apr 2024 20:57:52 +0000
 #
 
+haoelo.com
+get.stoplocker.com
+antoiew.com
+acedirect.net
+r-q-e.com
+adx1js.s3.amazonaws.com
 lkhfkjp.com
 aickeebsi.com
 hstbbmtyptovqmw.com
@@ -10728,6 +10734,7 @@ djfwtdwiybiq.com
 djldrhxb.com
 djmaza.in
 djmwwdrznntss.com
+djmwxpsijxxo.xyz
 djphnuhkbjf.com
 djqacscl.com
 djqitgfjfu.com
@@ -13945,6 +13952,7 @@ foodieblogroll.com
 foodme.info
 foodowingweapon.com
 foogpdywvrswrxl.com
+foojeshoops.xyz
 foojimie.net
 foolerybonded.com
 foolish-devil.pro
@@ -16912,6 +16920,7 @@ hoodoesvector.top
 hoodoosdonsky.com
 hoodypledget.top
 hoofexcessively.com
+hoofsduke.com
 hoogajee.net
 hooglidi.net
 hoojique.xyz
@@ -24250,6 +24259,7 @@ nsjyfpo.com
 nskwqto.com
 nslokxweviwqbg.com
 nsmartad.com
+nsmpydfe.net
 nsoimtgmnnbvi.com
 nspmotion.com
 nspot.co
@@ -46687,6 +46697,9 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+hoxha.nieuwspaal.network
+tracker.gamemonkey.org
+tracker-v4.gamedock.io
 aclog.itmedia.co.jp
 fc.itmedia.co.jp
 log.jd.com
@@ -50108,7 +50121,6 @@ track.yfret.com
 tracker.beezup.com
 tracker.financialcontent.com
 tracker.gamedock.io
-tracker.gamemonkey.org
 tracker.icerocket.com
 tracker.jkstremum.xyz
 tracker.keywordintent.com
@@ -54534,7 +54546,6 @@ tr.apsisforms.com
 track.postkodlotteriet.se
 track.yetric.app
 tracker.zummycloud.com
-tracker-v4.gamedock.io
 tracker.kollega.open-analytics.se
 tracker.kulturradet.open-analytics.se
 tracker.lakemedelsverket.open-analytics.se
@@ -56479,6 +56490,7 @@ facabook.id.vn
 face-book.co
 faceb00k.com.vn
 facebook.c0m.ltd
+facebook4288062.blogspot.com
 facebook92288.blogspot.com
 facebookk.life
 facebookvni.com
@@ -56776,6 +56788,7 @@ hdsaison-vip.cc
 hdsaison-vn.cc
 hdsaison-vn.com
 hdsaisonvn.com
+hdzonline.pro
 heirreplacem.cfd
 helandsca.cfd
 herihed.cfd
@@ -60639,6 +60652,8 @@ vkdgdt.xyz
 rbfxoex.xyz
 gcomwx.icu
 szftg.cn
+bdpretc.cn
+vipgogo123.site
 zhnnaxe.xyz
 zjrtxt.xyz
 znhlxvb.xyz
