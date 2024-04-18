@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Thu, 18 Apr 2024 01:40:14 +0000
+# Last converted - Thu, 18 Apr 2024 04:58:46 +0000
 #
 
 00px.net
@@ -4942,6 +4942,7 @@ ads.tvb.com
 ads.tvmnews.mt
 ads.tvp.pl
 adstv.ru
+ads.twitch.tv
 ads-twitter.com
 ads.twitter.com
 ads.twojatv.info
