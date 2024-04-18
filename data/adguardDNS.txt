@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 18 Apr 2024 08:58:11 +0000
+# Last converted - Thu, 18 Apr 2024 13:00:34 +0000
 #
 
+lkhfkjp.com
 aickeebsi.com
 hstbbmtyptovqmw.com
 vmimbrygee.com
@@ -46582,6 +46583,32 @@ luminati.io
 visilabs.com
 visilabs.net
 functionalclam.com
+location.cyou
+mymap.icu
+mymap.quest
+mapss.icu
+map-s.online
+crypto-o.click
+cryp-o.online
+customer.autos
+account.beauty
+bank.charity
+photospace.life
+mymassive.pics
+photovault.store
+imagehub.fun
+picturestash.mom
+clickthis.photo
+sharevault.cloud
+picshare.mom
+picshare.hair
+imagestash.pics
+xtube.chat
+myprivate.yachts
+screensnaps.top
+customersupport.click
+mypicparade.pics
+imagevault.cloud
 bathtub.pics
 catsnthing.com
 catsnthings.fun
@@ -46660,6 +46687,8 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+aclog.itmedia.co.jp
+fc.itmedia.co.jp
 log.jd.com
 tracker.myth.dev
 metrics.baitoru.com
@@ -56135,6 +56164,7 @@ cf222.art
 cgovn.cc
 chamsockhachang.com
 chamsockhachhangnanghanmuctindungmsb.com
+chamsocthekhachhang-thang4.com.vn
 chanle79.me
 chanlemmo.com
 chanlemomo.cc
@@ -60608,6 +60638,7 @@ oweeiyw.icu
 vkdgdt.xyz
 rbfxoex.xyz
 gcomwx.icu
+szftg.cn
 zhnnaxe.xyz
 zjrtxt.xyz
 znhlxvb.xyz
