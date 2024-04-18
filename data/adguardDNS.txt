@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 18 Apr 2024 04:58:09 +0000
+# Last converted - Thu, 18 Apr 2024 08:58:11 +0000
 #
 
 aickeebsi.com
@@ -23439,6 +23439,7 @@ natsdk.com
 natseegirde.net
 nattepush.com
 nattierariosi.space
+natuarycomping.com
 naturalhealthsource.club
 naturalistsbumpmystic.com
 naturallyedaciousedacious.com
@@ -60606,6 +60607,7 @@ tudxhzj.cn
 oweeiyw.icu
 vkdgdt.xyz
 rbfxoex.xyz
+gcomwx.icu
 zhnnaxe.xyz
 zjrtxt.xyz
 znhlxvb.xyz
@@ -64890,6 +64892,7 @@ z.nowscore.com
 zt2088.com
 ztyumn.ifeng.com
 27gh.cc
+bm.h576.com
 003store.com
 0941.org
 1.07swz.com
