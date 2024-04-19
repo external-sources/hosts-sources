@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 19 Apr 2024 04:58:04 +0000
+# Last converted - Fri, 19 Apr 2024 08:57:55 +0000
 #
 
 nocyjsmirnfwcb.com
@@ -50779,6 +50779,7 @@ tag.leadplace.fr
 track.byzon.swelen.net
 track.kyoads.com
 track.myli.io
+tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
 tracking.ecookie.fr
 tracking.voxeus.com
 visitping.rossel.be
@@ -60676,6 +60677,7 @@ kgdyoh.icu
 dtjpihv.xyz
 kgqcse.xyz
 huuocxu.icu
+pwbuhb.xyz
 zhnnaxe.xyz
 zjrtxt.xyz
 znhlxvb.xyz
