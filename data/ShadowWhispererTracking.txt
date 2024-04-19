@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Fri, 19 Apr 2024 13:00:11 +0000
+# Last converted - Fri, 19 Apr 2024 16:58:52 +0000
 #
 
 01counter.com
@@ -2641,7 +2641,6 @@ a.kamatera.com
 akanoo.com
 akberlin-coronahilfe.testing.eigens-intern.de
 akisinn.info
-a.klaviyo.com
 aklojs.com
 a.knowledgeadventure.com
 akro.io
@@ -3250,7 +3249,6 @@ analytics.5apps.com
 analytics.5jahreswertung.de
 analytics.5kingsmarketing.com
 analytics.5lime.com
-analytics.5m5.io
 analytics.5to9.ch
 analytics.60millions-mag.com
 analytics.612square.com
@@ -3361,7 +3359,6 @@ analytics.adeptcore.com
 analytics.adeweb.dev
 analytics-ad-eyu9u2md.kgslb.com
 analytics.adfreetime.com
-analytics.adgeek.net
 analytics.adidas.com.cn
 analytics.adi-na.fr
 analytics.adk.de
@@ -3680,7 +3677,6 @@ analyticsapi.happypancake.net
 analytics-api.home-assistant.io
 analytics-api.junilearning.com
 analytics.api.justeattakeaway.com
-analytics-api.klickly.com
 analytics-api.lahaus.com
 analytics-api.liveapp.com
 analytics-api.musicmagpie.co.uk
@@ -7657,7 +7653,6 @@ analytics.klavier-spielen-lernen.com
 analytics.klecks.de
 analytics.kleinhempel.de
 analytics.klepp.digital
-analytics.klickly.com
 analytics.kliggs.de
 analytics.klimacamp.at
 analytics.klimacamp-leipzigerland.de
@@ -12412,7 +12407,6 @@ analytiikka.tyomarkkinatori.fi
 analyti.uber.space
 analyttica.com
 analyze-82dfgsi2.m-w.com
-analyzely.gropulse.com
 analyzer.bookmark.com
 analyzive.com
 analyzz.com
@@ -12617,7 +12611,6 @@ api-frontend-events.prodigygame.com
 apig.carvana.io
 api-gdpr.voodoo-tech.io
 api-gmg-ksat-prod.cdn.arcpublishing.com
-api.goaffpro.com
 api-gps-em.hismarttv.com
 api-gps.hismarttv.com
 api-headless.solostove.workers.dev
@@ -12660,7 +12653,6 @@ api.rollbar.com
 apisa.web3.foundation
 api.scuffeduno.online
 api-sensors.shein.com
-api-server-1.goaffpro.com
 apis.kompas.com
 apis.murdoog.com
 api.snapkit.com
@@ -13256,7 +13248,6 @@ awarealley.com
 awareness.tolsura.com
 awareservices.com.au
 awesomeagreement.com
-a.wishabi.com
 awistats.com
 awscconsumerinfo.autotrader.com
 aws.continuousvalidation.com
@@ -15587,7 +15578,6 @@ collect.oportun.com
 collector1.afreecatv.com
 collector-analytics.efigence.com
 collectorapi.com
-collector.appconsent.io
 collector.applemediaservices.com
 collector.auxmoney.com
 collector.azarus.io
@@ -16685,7 +16675,6 @@ creto.club
 crew.crystalclearnews.com
 crgglobalinc.com
 c.rhapsody.com
-crisis.piwik.prisma-it.com
 c.riskified.com
 crispadvertising.com
 criteo.net
@@ -17009,7 +16998,6 @@ cv.xn--zbs202g.com
 cv.zephylrin-x.net
 cw360.co.uk
 c.wa.autodesk.com
-cw.addthis.com
 c.wired.com
 cwm-01.umassmed.edu
 cwm.umassmed.edu
@@ -18455,7 +18443,6 @@ e.crystalholidays.ie
 ecsv2.roblox.com
 ecs.walgreens.com
 ec.thredup.com
-e.curalate.com
 ecustomeropinions.com
 ec.weebly.com
 e.cybertrader.com
@@ -18470,7 +18457,6 @@ ed.emp-online.com
 e.deventing.com
 ed.filene.org
 edfx.com
-edge.adobedc.net
 edgeanalytics.ca
 edge-cg-cg-edge-55555-mid-ewr01.cbs-measurements.us-east.dns.qwilted-cds.cqloud.com
 edge.csiltd.co.uk
@@ -19210,7 +19196,6 @@ event.sc.iqoption.com
 events.claspws.tv
 events-collector-api.viacom.tech
 events.constellation.com
-events.contlo.com
 events.curriculumassociates.com
 events.data.microsoft.com
 events.data.msn.com
@@ -19281,7 +19266,6 @@ events.smartgroupltd.co.uk
 events.smartlive.co.uk
 events.smct.co
 events.smurfitkappa.com
-events.split.io
 events.squarespace.com
 events.syngeneintl.com
 events.teammed.com.au
@@ -19325,11 +19309,9 @@ evgnet.com
 e.victoriassecret.com
 evidon.com
 ev.indianexpress.com
-e.viously.com
 evisitanalyst.com
 evivebenefits.com
 ev.kck.st
-ev.moneymade.io
 evnt.byspotify.com
 evnt.nmgplatform.com
 evoke.fr
@@ -20168,7 +20150,6 @@ fs-curtis.fs-elliott.com
 fstats.xyz
 fstracker.io
 fstrk.net
-ftp.cpxdeliv.com
 ftstats.com
 ft.trib.al
 ftw.vole.wtf
@@ -21463,7 +21444,6 @@ heart.syncardia.com
 heat-map.co
 heatmap.com
 heatmap.emma.tools
-heatmap-events-collector.instapage.com
 heatmap.it
 heatmap.me
 heatmap.pconline.com.cn
@@ -22321,7 +22301,6 @@ info5.searscard.com
 info6.accountonline.com
 info.6gorillas.nl
 info6.searscard.com
-info.8451.com
 info.8wellesley.com
 info.908devices.com
 info.a2bapps.com
@@ -23668,7 +23647,6 @@ info.ipcmobile.com
 info.iperia.eu
 infoip.io
 info.iproov.com
-info.iprospect.com
 info.iqmetrix.com
 info.iraclub.org
 info.irep.co.jp
@@ -25685,7 +25663,6 @@ intentiq.com
 intentpath.com
 intentsify.io
 interaction.eigenherd.com
-interactions.one.store
 interact.medicareadvisorsofalabama.org
 interact.mendoza.nd.edu
 interclick.com
@@ -26199,7 +26176,6 @@ jp15trk.com
 jp.bostonscientific.com
 jp.globalsign.marketing
 jpgtrk.imghst-de.com
-jp.livelog.nexon.com
 jpn.globalsign.com
 jp.pitneybowes.com
 jrtfx.scottspence.me
@@ -27088,7 +27064,6 @@ locationiq.com
 location.l.force.com
 location.live.net
 location.p7cloud.net
-location.postscript.io
 locations.api.yle.fi
 locations.becn.com
 locationsciences.ai
@@ -29094,7 +29069,6 @@ matomo.cloud
 matomo.cloudface.icu
 matomo.cloudfirst.io
 matomo.cloud.javan.co.id
-matomo.cloud.lazyshop.com
 matomo.cloud-rte-france.com
 matomo.clubdesloisirslaigne.fr
 matomo.clweb.nl
@@ -36960,7 +36934,6 @@ pardot.traveltek.net
 pardot.trechters.nl
 pardot.trurnit.de
 pardot.tuck.dartmouth.edu
-pardot.uberall.com
 pardot.ucx.ucr.edu
 pardot.ultimia.com
 pardot.unifiedpost.com
@@ -45689,7 +45662,6 @@ reconditerake.com
 reconditerespect.com
 recordbutter.com
 recorded-email.com
-recorder.marketingcloudfx.com
 recosenselabs.com
 recovermycart.com
 rec.quartic.pl
@@ -45984,7 +45956,6 @@ report.cardflight.com
 report-edge.agora.io
 report.edgecast.com
 reporter.browserapps.amazon.com
-report.iheartmedia.gbqofs.io
 reporting-api.gannettinnovation.com
 reporting-api.gubagoo.io
 reporting-api.newworldinteractive.com
@@ -46884,7 +46855,6 @@ s1182545284.t.eloqua.com
 s1325.t.eloqua.com
 s1734025471.t.eloqua.com
 s1777052651.t.eloqua.com
-s1.menatwork-statistik.de
 s1.soundvenue.com
 s1.subaru.com
 s20.tiktokcdn.com
@@ -47612,7 +47582,6 @@ sdklog.tvstore.opera.com
 sdk.loyaltylion.net
 sdk-monitoring.ogury.co
 sdk.qikify.com
-sdk.split.io
 sdome.underarmour.co.jp
 sdr.totango.com
 sdtagging.azureedge.net
@@ -52465,8 +52434,6 @@ somtrdc.jobstreet.com.ph
 somtrdc.jobstreet.com.sg
 somtrdc.jobstreet.vn
 somtr.financialengines.com
-sonar.semantiqo.com
-sonar.viously.com
 s-onetag.com
 songssmoke.com
 songsterritory.com
@@ -54126,7 +54093,6 @@ stat.ict-as.dk
 static.thedodo.com
 static.thrillist.com
 statictrack.educatrack.com
-static-tracking.klaviyo.com
 static.websimages.com
 staticxx.s3.amazonaws.com
 static.zohocdn.com
@@ -64199,7 +64165,6 @@ telemetry.svc.halowaypoint.com
 telemetry.svc.transifex.net
 telemetry.swe.quicinc.com
 telemetry.tradingview.com
-telemetry.transcend.io
 telemetryverification.net
 telemetry.vg.ac.pvp.net
 telemetry_watson.live.com
@@ -64543,7 +64508,6 @@ t.lucentisdirect.com
 tm1-001.com
 tm11.twinmed.com
 t.mail.disneydestinations.com
-t.marketingcloudfx.com
 t.mashable.com
 tmb5trk.com
 tm.beachbody.com
@@ -64779,7 +64743,6 @@ track.americansongwriter.com
 track.angelscare.org.ua
 track.angelstudios.com
 track.annspeech.com
-track-api.klickly.com
 track.apotheosistech.com
 track.aqua.services
 track.armado.fr
@@ -65086,7 +65049,6 @@ tracking.30doradus.com
 tracking.30doradus.de
 tracking.3ds.com
 tracking.6thstreet.com
-tracking.aatkit.com
 tracking.activationproducts.com
 tracking.actualidad.es
 tracking.ad-modum-prelive.com
@@ -65426,7 +65388,6 @@ track.juno.com
 track.kaducei.com
 track.katrank.com
 track.kiafudousan.com
-track.klickly.com
 track.konkurs-gromyko.org
 track.ksta.de
 track.laduchi.com
