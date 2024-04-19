@@ -1,7 +1,7 @@
 # blocklistProjectAds
 #
 # Converted from - https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/ads-nl.txt
-# Last converted - Thu, 18 Apr 2024 20:58:02 +0000
+# Last converted - Fri, 19 Apr 2024 01:41:02 +0000
 #
 
 0.fls.doubleclick.net
