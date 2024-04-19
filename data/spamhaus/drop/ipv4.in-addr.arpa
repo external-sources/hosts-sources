@@ -2174,6 +2174,8 @@
 18.0.128.226.200.rpz-client-ip	CNAME	rpz-drop.
 18.0.192.226.200.rpz-ip	CNAME	.
 18.0.192.226.200.rpz-client-ip	CNAME	rpz-drop.
+18.0.128.234.200.rpz-ip	CNAME	.
+18.0.128.234.200.rpz-client-ip	CNAME	rpz-drop.
 22.0.168.148.201.rpz-ip	CNAME	.
 22.0.168.148.201.rpz-client-ip	CNAME	rpz-drop.
 16.0.0.169.201.rpz-ip	CNAME	.

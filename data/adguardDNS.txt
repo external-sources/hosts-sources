@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 19 Apr 2024 08:57:55 +0000
+# Last converted - Fri, 19 Apr 2024 12:59:31 +0000
 #
 
 nocyjsmirnfwcb.com
@@ -42673,6 +42673,8 @@ adballoon.afreecatv.com
 deapi.afreecatv.com
 startup.mobile.yandex.net
 startup-mobile.ap.yandex-net.ru
+splash-ad.classting.com
+ad-files.classting.com
 v16-ad.byteoversea.com
 vs-api.voodoo-tech.io
 psvpromo.psvgamestudio.com
@@ -46715,6 +46717,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+log.classting.com
 hoxha.nieuwspaal.network
 tracker.gamemonkey.org
 tracker-v4.gamedock.io
@@ -54551,6 +54554,7 @@ synchrobox.adswizz.com
 s-eu-1.pushpushgo.com
 t.atmng.io
 t.fml.rip
+t.gatorleads.co.uk
 tag.heylink.com
 tagging-service.fotbollskanalen.se
 tagging-service.tv4play.se
