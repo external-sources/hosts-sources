@@ -1,9 +1,12 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sat, 20 Apr 2024 16:58:58 +0000
+# Last converted - Sat, 20 Apr 2024 20:58:51 +0000
 #
 
+ready2study.com
+ready4baby.ch
+readyboa.webcindario.com
 readyflowers-com-hk.b.appier.net
 readyflowers-com-sg.b.appier.net
 readyforsareator.000webhostapp.com
@@ -19409,7 +19412,6 @@ screaming-frog-seo-spider.apponic.com
 screamsploitt.000webhostapp.com
 screechingfurniture.com
 screeching-schoolho.000webhostapp.com
-screechingslip.com
 screechingstocking.com
 screechingstove.com
 screen2swf.apponic.com
@@ -42716,7 +42718,6 @@ sortwl.com
 sorvetedelivery.com
 sos.azadicdn.com
 sos.mirtesen.ru
-sosa.semanticrep.com
 sosamba95.000webhostapp.com
 sosa-oc.uk
 sosb.clickfunnels.com
@@ -140270,6 +140271,7 @@ www.cloud9tv.info
 www.cloud.piwik.pro
 www.cloudacess.net
 www.cloud-api.totalh.net
+www.cloudcoins.co
 www.cloudcrown.com
 www.clouddb.info
 www.clouderrorreporting.googleapis.com
@@ -146776,6 +146778,7 @@ www.javfilm.tv
 www.jav-films.com
 www.javfinder.net
 www.javforever.com
+www.jav-free.net
 www.javgo.info
 www.jav-group.com
 www.javhappy.com
