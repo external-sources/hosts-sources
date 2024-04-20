@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 19 Apr 2024 20:58:00 +0000
+# Last converted - Sat, 20 Apr 2024 01:39:40 +0000
 #
 
 nocyjsmirnfwcb.com
@@ -7889,6 +7889,7 @@ chevyrailly.top
 chewersobolary.com
 chewremittanceprovidence.com
 chewsrompedhemp.com
+chezenteric.top
 chezoams.com
 chfpgcbe.com
 chhfcpgj.com
@@ -19130,6 +19131,7 @@ jonaswhiskeyheartbeat.com
 joodoush.com
 joodugropup.com
 joogivestou.com
+joograika.xyz
 jookaureate.com
 jookouky.net
 joomgartiumnyih.com
@@ -26488,6 +26490,7 @@ persevereindirect.com
 perseverevoice.com
 persistarcticthese.com
 persistbrittle.com
+persona3.tech
 personalityhamlet.com
 personalityleftoverwhiskers.com
 personalityvillainlots.com
@@ -29076,6 +29079,7 @@ ratury.com
 rauceesh.com
 raudoabe.com
 raudoufoay.com
+raugovicoma.com
 raujurum.net
 raukaury.com
 raunowhy.xyz
@@ -41039,6 +41043,7 @@ googlevads-cn.com
 4e55.xyz
 4e68.xyz
 657475b7-0095-478d-90d4-96ce440604f9.online
+7e809ed7-e553-4e29-acb1-4e3c0e986562.site
 8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online
 b211.xyz
 b59c.xyz
@@ -50356,6 +50361,7 @@ di2xwvxz1jrvu.cloudfront.net
 dkupaw9ae63a8.cloudfront.net
 dl1d2m8ri9v3j.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
+dniyppubkuut7.cloudfront.net
 dnxlgencstz4.cloudfront.net
 drlimmode9ddd.cloudfront.net
 dsbahmgppc0j4.cloudfront.net
@@ -60735,6 +60741,13 @@ zfzys.top
 zhaweifeng.com
 zhihucloud.xyz
 zhnnaxe.xyz
+wvwqywz.cn
+wsoqwm.xyz
+oqnkur.icu
+ankczwr.icu
+wyuwkbe.top
+hrjctx.xyz
+pdnhcks.xyz
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu

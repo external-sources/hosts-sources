@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 19 Apr 2024 20:58:30 +0000
+# Last converted - Sat, 20 Apr 2024 01:40:07 +0000
 #
 
 a-reporting.nytimes.com
@@ -162,6 +162,7 @@ data.allstate.com
 data.guide.photobucket.com
 data.torry.io
 data.younow.com
+datadome.maisonsdumonde.com
 datadome.patreon.com
 dbhsejcg-meetup-com.cdnjs.network
 dc.banggood.com
@@ -319,6 +320,7 @@ mcc-tags.cisco.com
 mcs-ie.tiktokw.eu
 mcs-va.tiktokv.com
 mcs.tiktokv.us
+mcs.tiktokw.us
 mcs.us.tiktokv.com
 medal.tv
 megatron.igraal.com
@@ -471,6 +473,7 @@ stats.gateio.ch
 stats.ibtimes.co.in
 stats.ibtimes.sg
 stats.justpaste.it
+stats.mempool.space
 stats.newsweek.com
 stats.pstream.net
 stats.qwant.com
