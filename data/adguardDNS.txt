@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 20 Apr 2024 12:59:02 +0000
+# Last converted - Sat, 20 Apr 2024 16:58:08 +0000
 #
 
 nocyjsmirnfwcb.com
