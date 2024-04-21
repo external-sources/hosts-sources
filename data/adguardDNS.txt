@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 20 Apr 2024 20:58:11 +0000
+# Last converted - Sun, 21 Apr 2024 01:44:56 +0000
 #
 
 nocyjsmirnfwcb.com
@@ -49546,6 +49546,7 @@ ad.aloodo.com
 ade.googlesyndication.com
 adfox.yandex.ru
 adlog.com.com
+affiliate-api.raptive.com
 affiliates.minglematch.com
 alexandria.marfeelcdn.com
 amplify.outbrain.com
@@ -60767,6 +60768,14 @@ zfzys.top
 zhaweifeng.com
 zhihucloud.xyz
 zhnnaxe.xyz
+tgamtip.icu
+kvyyyde.cn
+bvrzwnq.xyz
+irmbyu.xyz
+hblarn.xyz
+sacvmb.icu
+qyuwkby.top
+wubizigeng.com
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
