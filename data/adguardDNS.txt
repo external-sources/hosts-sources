@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 21 Apr 2024 04:57:54 +0000
+# Last converted - Sun, 21 Apr 2024 08:58:01 +0000
 #
 
 nocyjsmirnfwcb.com
@@ -41231,6 +41231,7 @@ promos.fling.com
 proto2ad.durasite.net
 pubfeed.linkby.com
 public.porn.fr
+pushtoast-a.akamaihd.net
 qsearch-a.akamaihd.net
 random-affiliate.atimaze.com
 rotabanner.kulichki.net
