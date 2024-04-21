@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 21 Apr 2024 08:58:01 +0000
+# Last converted - Sun, 21 Apr 2024 13:00:05 +0000
 #
 
 nocyjsmirnfwcb.com
@@ -2060,6 +2060,7 @@ a6dc99d1a8.com
 a718917a44.com
 a899228ebf.com
 a8rm1m4msbbh.com
+a9ae7df45f.com
 a9fc00b442.com
 aa53df329975c325.com
 aaa.vidox.net
@@ -14206,6 +14207,7 @@ fqygyfvmz.com
 fqyxbvuefdlt.com
 fqzibqtjwfzp.com
 fractureboyishherring.com
+fraer.cloud
 fragmenteasygoingmass.com
 fragmentexpertisegoods.com
 fragrancepneumoniatinker.com
@@ -14819,6 +14821,7 @@ gearedftnerr.com
 geasefloria.com
 geazjxqwbr.com
 gebadu.com
+gebiqxmcc.com
 geckad.com
 geckibou.com
 geckoesdeport.top
@@ -21146,6 +21149,7 @@ logicschort.com
 loglabitrufly.top
 loglaupt.com
 logsgroupknew.com
+logshort.xyz
 logystowtencon.info
 loinpriestinfected.com
 loiteringcoaltuesday.com
@@ -29770,6 +29774,7 @@ retarearabica.life
 retarget2core.com
 retargetcore.com
 retargeter.com
+retaxenteron.top
 retenuepelopid.com
 reth45dq.de
 rethinkwrinkle.com
@@ -30318,6 +30323,7 @@ royvdkxga.com
 rozamimo9za10.com
 rpawarcnm.com
 rpeoehkaferf.com
+rpfytkt.com
 rpllrsbmhahj.com
 rpmwhoop.com
 rprapjc.com
@@ -34435,6 +34441,7 @@ tintedparticular.com
 tintersloggish.com
 tiny-atmosphere.com
 tionakasulbac.net
+tionforeathyoug.info
 tionininanceena.info
 tiotyuknsyen.org
 tipcartoleron.com
@@ -36283,6 +36290,7 @@ vadokfkulzr.com
 vaebard.com
 vaehxkhbhguaq.xyz
 vaemfecqllefj.xyz
+vafumjvrvjcup.com
 vagancytwerp.top
 vagilunger.com
 vagkcwvqpty.com
@@ -36464,6 +36472,7 @@ vdmiruryll.xyz
 vdopia.com
 vdoubt.com
 vebadu.com
+vecohgmpl.info
 vectisamerica.com
 vectisruntier.top
 vectorsfangs.com
