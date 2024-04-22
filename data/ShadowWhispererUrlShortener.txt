@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Mon, 22 Apr 2024 13:01:23 +0000
+# Last converted - Mon, 22 Apr 2024 16:58:34 +0000
 #
 
 010.at
@@ -262,6 +262,7 @@ avenir.to
 avhop.net
 avjosa.com
 avl.mx
+avtk.io
 avtub.pw
 avtub.red
 awwurl.com
@@ -547,6 +548,7 @@ dkly.me
 dktlg.com
 dld.bz
 d.looks.wang
+dly.es
 dna360.tw
 dogelexus.win
 domainul.com
@@ -1137,6 +1139,7 @@ mangotwo.com
 mariesharps.info
 marveliness.com
 mas.si
+mas.so
 masy.uk
 matchurl.com
 mathmayr.com
@@ -1149,6 +1152,7 @@ mayaediciones.com
 mbx.events
 mby.me
 mcafee.ly
+mchek.cc
 mcmullard.com
 mcni.it
 mdl.town
@@ -1312,6 +1316,7 @@ otp.li
 ottv.co
 ouoi.in
 ourmagazines.co.uk
+oursl.io
 over.st
 ovh.to
 owlti.ng
@@ -1689,6 +1694,7 @@ shrinkme.in
 shrinkme.io
 shrink.pe
 shrink-your-link.org
+shrt.co
 shrtfly.com
 shrt.lat
 shrt-l.ink
@@ -1707,6 +1713,7 @@ shycmedi.com
 s.id
 sifu.im
 sigboms.com
+sikk.de
 siklik.id
 simgr.id
 sindo.me
@@ -2070,6 +2077,7 @@ url.usacomment.com
 urlverkorten.com
 urlxray.com
 urly.co
+urlz.at
 urlz.fr
 urlz.my
 urlzs.in
