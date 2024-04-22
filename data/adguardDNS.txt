@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 22 Apr 2024 16:57:54 +0000
+# Last converted - Mon, 22 Apr 2024 20:57:48 +0000
 #
 
 rbweljjemzkza.top
@@ -2337,6 +2337,7 @@ acfyamxwluprpx.com
 achaipheegly.com
 achcdn.com
 achecaskmeditate.com
+achelessarkaskew.com
 achelesscorporaltreaty.com
 achelessintegralsigh.com
 acheworry.com
@@ -6120,6 +6121,7 @@ blizzardcinnamonappointed.com
 bljyynzmlmnrl.top
 blkwrjerbklya.top
 bllom.cloud
+blmibao.com
 blnojxqob.top
 bloatrome.com
 blobjournalistunwind.com
@@ -7362,6 +7364,7 @@ casalemedia.com
 casaqueapogamy.com
 cascadewatchful.com
 casecomedytaint.com
+casefyparamos.com
 cash-ads.com
 cash-duck.com
 cash-program.com
@@ -7424,6 +7427,7 @@ catukhyistke.info
 catwalkoutled.com
 catwenbat.com
 catwrite.com
+catxkeopwc.com
 caubichofus.com
 caubouru.xyz
 caufirig.com
@@ -8627,6 +8631,7 @@ commitmentmeet.com
 committeedischarged.com
 committeeoutcome.com
 committeereconcilelibrarian.com
+commodityallengage.com
 commongratificationtimer.com
 commongrewadmonishment.com
 commonvivacious.com
@@ -9209,6 +9214,7 @@ creativefix.pro
 creativeformatsnetwork.com
 creativesumo.com
 creativetourlips.com
+creatorpassenger.com
 creaturescoinsbang.com
 creaturespendsfreak.com
 crectipumlu.com
@@ -10351,6 +10357,7 @@ dhobisbeiges.top
 dhobybailli.com
 dhodskwqmwafkn.com
 dhoma.xyz
+dhoteechaute.top
 dhrbgwqljdgw.com
 dhuimjkivb.com
 dhundora.com
@@ -13239,6 +13246,7 @@ fc861ba414.com
 fc9115d2c7.com
 fcaijpwzvj.com
 fccinteractive.com
+fcdqlnmsoi.com
 fcharacaena.com
 fciyckhlpdxou.xyz
 fckmedate.com
@@ -15993,6 +16001,7 @@ gwjfwrzoevwt.com
 gwogbic.com
 gwpcomqsyflewv.com
 gwrgoaunieybo.com
+gwtixda.com
 gwtylvvexe.xyz
 gwurinylw.com
 gwvjcrtucd.com
@@ -16641,6 +16650,7 @@ hifakritsimt.com
 higgiens23c5l8asfrk.com
 highconvertingformats.com
 highcpmcreativeformat.com
+highcpmgate.com
 highcpmrevenuegate.com
 highcpmrevenuenetwork.com
 highdirtysubsided.com
@@ -19182,6 +19192,7 @@ jqueryoi.com
 jqueryserve.org
 jqueryserver.com
 jqwsldso.com
+jrbbavbmwmleb.top
 jrbbavbmwqwjl.top
 jrbhnmqwemw.xyz
 jrdupvtgubvja.xyz
@@ -20431,6 +20442,7 @@ lcloperoxeo.xyz
 lcmbppikwtxujc.xyz
 lcmevashrxfh.com
 lcncbusdg.com
+lcolumnstoodth.info
 lcrhtauvic.com
 lcswbwinvhzm.com
 lcvdvyqpewwhllt.com
@@ -28635,6 +28647,7 @@ qowncyf.com
 qowqnnhf.com
 qoytmrsfvu.com
 qozveo.com
+qpemoqauwc.com
 qpixxezhwwoc.com
 qpkdnupzke.com
 qppq166n.de
@@ -32603,6 +32616,7 @@ srzirmlql.com
 srzzohlms.com
 ss0uu1lpirig.com
 ssdipdkjqblgog.com
+ssedonthep.info
 ssery.com
 ssindserving.com
 sskzlabs.com
@@ -33007,6 +33021,7 @@ stripedonerous.com
 striperaised.com
 striperewind.com
 striperoused.com
+stripesrussula.top
 stripherselfscuba.com
 strivefoetus.com
 strjuylfrjyk.site
@@ -37276,6 +37291,7 @@ wasverymuc.com
 watch-now.club
 watchcpm.com
 watchedthorter.guru
+watcheraddictedpatronize.com
 watchercupboard.com
 watcherworkingbrand.com
 watchespounceinvolving.com
@@ -37763,6 +37779,7 @@ wichauru.xyz
 wichtstoppit.space
 wickedhumankindbarrel.com
 wickedoutrage.com
+wickedunpen.top
 wicketfumage.com
 widaimty.com
 wideeyed-painting.com
@@ -38942,6 +38959,7 @@ ylx-4.com
 ylzkfpzqffqon.com
 ym-a.cc
 ym8p.net
+ymansxfmdjhvqly.xyz
 ymchcohvncak.xyz
 ymeqladpycz.com
 ymhpcaxfnvl.com
@@ -46732,6 +46750,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+analytics.languagetoolplus.com
 log.classting.com
 hoxha.nieuwspaal.network
 tracker.gamemonkey.org
@@ -51133,6 +51152,9 @@ softclick.com.br
 solution911.com
 templates.buscape.com
 yestorrents.org
+tracker.pushmeback.com
+isrv07.com
+cdn-t.vb24131crasosnemesis.com
 kyccmn.com
 ads.people-group.net
 adiam.tech
@@ -60048,6 +60070,7 @@ zvietnakello.weebly.com
 2qy9zm.cn
 3bxe2.cyou
 3q1lsj.cn
+4p68.com
 4wu3gf.cn
 51hir.cyou
 555bbb333bbb.com
@@ -60227,6 +60250,7 @@ equkgm.xyz
 ersjnpwf837.shop
 esqhsm.xyz
 etyusiw.top
+ewxufqs.cn
 execuri.com
 f7fe0.cyou
 fadhvz.xyz
@@ -60324,6 +60348,7 @@ iykig.cn
 iyuwkbo.top
 izalflh.cn
 izmiua.xyz
+izqogb.cn
 jaychu.top
 jbmfldt.cn
 jdbeht.xyz
@@ -60401,6 +60426,7 @@ m6690.top
 m6j37.xyz
 mdhv3.icu
 mdzwjra.cn
+meqanhm.icu
 misjgy.xyz
 mldzwmt.xyz
 mlhtr.cn
@@ -60476,6 +60502,7 @@ pidzlp.xyz
 pimg2023.com
 pjzxdl.xyz
 pkyjuc.cn
+plnbnd.xyz
 pmiskc.cn
 pmtrkp.icu
 pnxtnp.xyz
@@ -60517,6 +60544,7 @@ qvnbjjd.xyz
 qw9cu.cyou
 qyuwkby.top
 qzalsk.xyz
+qziuwzn.cn
 qzozsa.xyz
 rarcff.xyz
 rarmkce.cn
@@ -60536,6 +60564,7 @@ rlw86.cyou
 rlxhbff.cn
 rndcdb.xyz
 rnkzhsi.cn
+rnpkxgfp.xyz
 rofmjd.xyz
 rouqiuqq.cn
 rpnufv.xyz
@@ -60576,6 +60605,7 @@ syuwkbb.top
 szbhb.cn
 szfmr.cn
 szftg.cn
+szmgr.cn
 szmhk.cn
 szmnd.cn
 szmnf.cn
@@ -60612,6 +60642,7 @@ tnalzli.top
 tnifdlai.top
 tnmpd.xyz
 tnvnnn.xyz
+toutanymm.asia
 tptgvh.xyz
 tqvnzj.xyz
 tsrvrr.xyz
@@ -60619,8 +60650,10 @@ tu2024020388.com
 tudxhzj.cn
 tuky889900.com
 tyodot.icu
+tyuwkbi.top
 tyzfoej.cn
 uctutu3789.xyz
+udkpcc.xyz
 udykkl.cn
 uigxgg.xyz
 uiqcf.cn
@@ -60670,6 +60703,7 @@ wingsurf.cn
 wioboy.xyz
 wisealty.com
 wjwod.cyou
+wkrhel.icu
 wkywrc.cn
 wnalzle.top
 wnifdlae.top
@@ -60741,18 +60775,6 @@ zfzys.top
 zhaweifeng.com
 zhihucloud.xyz
 zhnnaxe.xyz
-udkpcc.xyz
-ewxufqs.cn
-qziuwzn.cn
-wkrhel.icu
-plnbnd.xyz
-meqanhm.icu
-rnpkxgfp.xyz
-tyuwkbi.top
-toutanymm.asia
-izqogb.cn
-4p68.com
-szmgr.cn
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
