@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 22 Apr 2024 04:57:42 +0000
+# Last converted - Mon, 22 Apr 2024 08:57:59 +0000
 #
 
 nocyjsmirnfwcb.com
@@ -56456,6 +56456,7 @@ cf222.art
 cgovn.cc
 chamsockhachang.com
 chamsockhachhangnanghanmuctindungmsb.com
+chamsocthekhachang-truc-tuyen.com
 chamsocthekhachhang-thang4.com.vn
 chanle79.me
 chanlemmo.com
@@ -56791,6 +56792,7 @@ fbviet88.com
 fcccredit.com
 fccomvn.com
 fd2.hmexchangecentre.com
+fdsd11.com
 fdsd22.com
 fe-shop.cc
 fe.lwcvn.com
@@ -57255,6 +57257,7 @@ kfdg22.com
 kfdg55.com
 kh-cn-uutien-3fv-vib.com
 khach-hang-ca-nhan-vip5.com
+khachhangvib-canhan.com
 khangdz215.tk
 khcn-han-muc-tin-dung-ca-nhan.com
 khcn-tindung-vp.com
@@ -57515,6 +57518,7 @@ mastercard-quetthetindung247.com
 mavietnam.xyz
 mayanpuzzle.com
 mayxanhsg.com
+mayxanhsupport.com
 mayyadc.cfd
 mbankingvn.com
 mbbank-vn.com
@@ -57962,6 +57966,7 @@ nganhang88.store
 nganhanganbinh.com
 nganhangbidv.com
 nganhangsaigon.org
+nganhangsaison.org
 nganhangsaokevnn.com
 nganhangshopeevn.com
 nganhangsk.online
@@ -58027,6 +58032,7 @@ nhantienquocte275.weebly.com
 nhantiensieutoc.com
 nhantienvipay.com
 nhantienvivnpay.com
+nhanvientiki.info
 nhanvimomo2021.weebly.com
 nhapcode-lienquan-garena.net
 nhapvang.pro
@@ -58811,6 +58817,7 @@ simpliftsbefore.info
 sindtex.shop
 sinhvienvietnam2022.weebly.com
 skhf11.com
+skhf66.com
 smilitygorb.club
 smrtbbdv.com
 smrtbbidv.com
@@ -58831,6 +58838,7 @@ soppe68.com
 sopper68.com
 sos-icloud.com
 sp315693vn.com
+sp77888.com
 sp8668vn.com
 spark123.shop
 spmail86.com
@@ -58998,6 +59006,7 @@ tb55788.com
 tb55988.com
 tc-clicks.com
 tc-viet.click
+tdkd00.com
 tdkd01.com
 tdkd02.com
 tdkd03.com
@@ -59370,6 +59379,7 @@ tuyendunglazada.net
 tuyendungnhanhonline.xyz
 tuyendungshopee.com
 tuyendungstmlazada.com
+tuyendungtiki2024.vn
 tuyensinhgionghatvietnhi01.weebly.com
 tw-shopee.store
 tw-shopee.xyz
@@ -59630,6 +59640,7 @@ vib.tructuyen-chamsockhachang-the.com
 vib.tuvan-chamsockhachhang.com
 vib8-vay.com
 vib84.com
+vibbca-nhan.com
 vibcskh.com
 vibvay.com
 vibvayvn.com
@@ -59945,6 +59956,7 @@ vn63251s.com
 vn66733shop.com
 vn667755s.com
 vn66954shp.com
+vn68822s.com
 vn6932shp.com
 vn765.com
 vn78223p.com
@@ -59956,6 +59968,7 @@ vn88khuyenmai.site
 vn88khuyenmai.space
 vn88khuyenmai.store
 vnah567.com
+vnambzuon36sc.vip
 vnbitcoin.cc
 vnduthianhgroup.com
 vnebank.xyz
@@ -60963,6 +60976,15 @@ zfzys.top
 zhaweifeng.com
 zhihucloud.xyz
 zhnnaxe.xyz
+udkpcc.xyz
+ewxufqs.cn
+qziuwzn.cn
+wkrhel.icu
+plnbnd.xyz
+meqanhm.icu
+rnpkxgfp.xyz
+tyuwkbi.top
+toutanymm.asia
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
