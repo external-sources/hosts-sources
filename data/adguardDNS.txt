@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 23 Apr 2024 08:57:53 +0000
+# Last converted - Tue, 23 Apr 2024 13:00:46 +0000
 #
 
 rbweljjemzkza.top
@@ -41130,6 +41130,7 @@ b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online
 d84bc26d.site
 e076.xyz
 e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
+f6176563.site
 fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz
 ad.lgappstv.com
 ad.nettvservices.com
@@ -51258,6 +51259,7 @@ softclick.com.br
 solution911.com
 templates.buscape.com
 yestorrents.org
+zszhfffyd.ru
 tracker.pushmeback.com
 isrv07.com
 cdn-t.vb24131crasosnemesis.com
@@ -54444,6 +54446,7 @@ cdn.convertbox.com
 cdn.foxpush.net
 cdn.gravitec.net
 cdn.jst.ai
+cdn.logsnag.com
 cdn.matomo.cloud
 cdn.myadmessenger.com
 cdn.pushalert.co
@@ -56265,6 +56268,7 @@ banvoucher-vn.weeblysite.com
 baohanhdienmayxanhvn.com
 baohiemvietinbank.com
 baosaoviet24h.net
+baothanhnien.top
 baotienphong.net
 baotrixanhvn.com
 baoviet-vn.cc
@@ -56666,6 +56670,7 @@ face-book.co
 faceb00k.com.vn
 facebook.c0m.ltd
 facebook4288062.blogspot.com
+facebook62747.blogspot.com
 facebook92288.blogspot.com
 facebookk.life
 facebookvni.com
@@ -60888,6 +60893,7 @@ fxgkktj.icu
 xvpcjl.xyz
 uyuwkbt.top
 lftpvh.xyz
+superjj.online
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
