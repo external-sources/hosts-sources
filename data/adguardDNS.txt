@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 23 Apr 2024 16:58:54 +0000
+# Last converted - Tue, 23 Apr 2024 20:57:52 +0000
 #
 
 rbweljjemzkza.top
@@ -3057,6 +3057,7 @@ aff-online.com
 aff-track.net
 aff.biz
 aff1xstavka.com
+affabilitydisciple.com
 affableindigestionstruggling.com
 affablewalked.com
 affairsmithbloke.com
@@ -3490,6 +3491,7 @@ alfredvariablecavalry.com
 alfurtembe.com
 algalileac.com
 algg.site
+algiczonated.top
 algjqsuzialktg.com
 algolduckan.com
 algothitaon.com
@@ -4938,6 +4940,7 @@ axledjuking.com
 axlohcsruwak.com
 axpjzhbh.com
 axscvdcans.xyz
+axsnuwqg.com
 axtlqoo.com
 axungetosher.top
 axvkdpcnadgdt.com
@@ -5408,6 +5411,7 @@ bczzwakqyae.com
 bdbffuwrxmsekjp.com
 bdbovbmfu.xyz
 bddc935c97.com
+bdenwsfmnmhkk.com
 bdf7a07377.com
 bdfagcumunjzx.com
 bdfe35942f.com
@@ -9051,6 +9055,7 @@ cotwcpcjcrjfj.xyz
 coubte.com
 coudswamper.com
 couhiboa.com
+coulaupsoa.net
 couldburgeon.com
 couldmisspell.com
 couldobliterate.com
@@ -10386,6 +10391,7 @@ dhodskwqmwafkn.com
 dhoma.xyz
 dhoteechaute.top
 dhrbgwqljdgw.com
+dhroerbsjaymyck.com
 dhuimjkivb.com
 dhundora.com
 dhyanaquintes.digital
@@ -11316,6 +11322,7 @@ dtx.click
 dtybyfo.com
 dualityflaming.space
 dualmarket.info
+dualp.xyz
 duamilsyr.com
 dubbylxutstyn.com
 dubdetectioniceberg.com
@@ -11628,6 +11635,7 @@ easypics.space
 easysemblyjusti.info
 easyvids.online
 easyvids.space
+eatasesetitoefa.info
 eatasesetitoefanyo.info
 eatencurvature.com
 eatengossipyautomobile.com
@@ -15322,6 +15330,7 @@ gloufteglouw.com
 gloumsee.net
 gloumsie.net
 glouseer.net
+gloussowu.xyz
 gloustoa.net
 gloutanacard.com
 gloutchi.com
@@ -16549,6 +16558,7 @@ herbalbreedphase.com
 herbamplesolve.com
 herbiernohow.top
 herbwheelsobscure.com
+hercockremarke.info
 herdintwillelitt.com
 herdmenrations.com
 herdruler.com
@@ -16927,6 +16937,7 @@ holdsoutset.com
 holduporatory.com
 holemanwasco.com
 holenhw.com
+holgateperfect.com
 holict.com
 holidaycoconutconsciousness.com
 holistnunatak.com
@@ -17238,6 +17249,7 @@ hugoinexperiencedsat.com
 hugregregy.pro
 hugsgnome.com
 hugysoral.digital
+huhaxvawgwa.com
 hulabipptemux.com
 hulledaries.top
 hulsairtid.com
@@ -18769,6 +18781,7 @@ java8.xyz
 javascriptcdnlive.com
 javgg.eu
 javmilk.org
+jawinfallible.com
 jawlookingchapter.com
 jawsspecific.com
 jaxxenpro.com
@@ -19588,6 +19601,7 @@ kavanga.ru
 kaxnoyxs.com
 kayoesfervor.com
 kazanbossterrifying.com
+kazqkjyztvv.com
 kbadguhvqig.xyz
 kbao7755.de
 kbevcidiiqwa.com
@@ -19768,6 +19782,7 @@ kihonrhvkkgdiav.com
 kihudevo.pro
 kihwmtvzvi.com
 kiisvpby.xyz
+kiiysgjmuy.com
 kikbqkhghh.xyz
 kikibobo.top
 kikoosso.net
@@ -20906,6 +20921,7 @@ linkonclick.com
 linkredirect.biz
 linkreferral.com
 linksecurecd.com
+linksprf.com
 lintensciurid.top
 lintfeintshindig.com
 lintgallondissipate.com
@@ -22335,6 +22351,7 @@ mestupidity.com
 metaeatage.life
 metahv.xyz
 metalbow.com
+metallcorrupt.com
 metasterisk.com
 metatestruck.com
 metatrckpixel.com
@@ -22610,6 +22627,7 @@ misyuni.com
 mitosisaralia.top
 mitowdcagos.com
 mittenheatdied.com
+miuo.cloud
 miveci.uno
 miwhethi.xyz
 miwllmo.com
@@ -24642,6 +24660,7 @@ obnarium.com
 obnoxiouspatrolassault.com
 obnoxiousstackderide.com
 oboistbasify.com
+oboitlwjjvkkd.com
 obolaryramees.space
 oboletcart.com
 oboletcystin.website
@@ -24727,6 +24746,7 @@ ocrppeqevqihdi.com
 octanmystes.com
 octavdtabacco.top
 octavianimmaculate.com
+octinerep.com
 octoatesamhain.com
 octobergypsydeny.com
 octobermindless.com
@@ -27159,6 +27179,7 @@ pmxyzqm.com
 pmzbrfpijoa.com
 pmzer.com
 pncloudfl.com
+pncvaoh.com
 pnd.gs
 pndbseeqrbrfdss.xyz
 pneumoniaelderlysceptical.com
@@ -31820,6 +31841,7 @@ sinnerobtrusive.com
 sinnerscramp.top
 sinproductors.org
 sinsigabetaken.top
+sinsoftoaco.net
 sinwebads.com
 sipibowartern.com
 sippansy.com
@@ -34704,6 +34726,7 @@ toolsyjejune.com
 toolughitilagu.com
 toomeepi.xyz
 toonoost.net
+toopsoug.net
 toorphanage.com
 tooshecu.com
 toothacheformer.com
@@ -35357,6 +35380,7 @@ turnminimizeinterference.com
 turnreview.com
 turnstileunavailablesite.com
 turpentinecomics.com
+tururu.info
 turvykingly.com
 tuscanyaskant.com
 tuskercampe.life
@@ -36025,6 +36049,7 @@ unzipauscult.com
 uod2quk646.com
 uoeeiqgiib.xyz
 uoflkjdc.com
+uohdvgscgckkpt.xyz
 uohxijnkd.com
 uoktyggqexq.com
 uommwhqyefutlp.com
@@ -36609,6 +36634,7 @@ vereforhedidno.info
 veresultedinncre.org
 vergi-gwc.com
 vergu.xyz
+verifiablevolume.com
 veritaswhang.com
 veritiesgarlejobade.com
 vernementsec.info
@@ -38906,6 +38932,7 @@ yausbprxfft.xyz
 yavli.com
 yawcoynag.com
 yawledabobra.com
+yawsbvoby.com
 yaxgszv.com
 yaysalvor.com
 yazftdbwgmwj.com
@@ -38986,6 +39013,7 @@ yfrrsktkzfp.com
 yftpnol.com
 yfykzbhaiuzbht.com
 ygeqiky.com
+ygkwjd.xyz
 ygzkedoxwhqlzp.com
 yhazrfacxd.com
 yhbcii.com
@@ -39041,6 +39069,7 @@ yjrlciff.com
 yjuxkncvy.com
 yjvuthpuwrdmdt.xyz
 yjxhxctqq.com
+ykakassg.com
 ykdwyf.com
 ykgkxcount.com
 ykmvnhue.com
@@ -39398,6 +39427,7 @@ zemteksu.xyz
 zemydreamsa.info
 zemywwm.com
 zenam.xyz
+zenaot.xyz
 zendiclayaway.website
 zendonetwise.com
 zendplace.pro
@@ -43466,7 +43496,6 @@ get4click.ru
 botfaqtor.ru
 leady.com
 hscollectedforms.net
-m.stripe.com
 log.dance
 adx.promo
 trk.decido.io
@@ -60219,6 +60248,7 @@ amidicestrins.com
 anjdwmq.xyz
 ankczwr.icu
 aoakss.com
+aobtwv.icu
 aourgk.xyz
 ariqye.xyz
 arnhhwo.xyz
@@ -60381,6 +60411,7 @@ frtnqps358.shop
 frtnqpw837.shop
 fvpboxu.xyz
 fwcnex.icu
+fxgkktj.icu
 fxjnfn.xyz
 fztyrv.xyz
 gblxtlo.xyz
@@ -60394,6 +60425,7 @@ ghgasdt963.shop
 gicjtss.cn
 gkutca.xyz
 golilog.com
+gpiagk.xyz
 gridline.cn
 grtarpcf963.top
 grulphaens.com
@@ -60516,7 +60548,9 @@ lewiooz.cn
 lfffzv.xyz
 lfhdryz.xyz
 lfrfzr.xyz
+lftpvh.xyz
 lgtpdt.xyz
+lhmebwq.cn
 liebaovip.com
 lkpxzt.xyz
 llksja.com
@@ -60710,6 +60744,7 @@ srwwce.xyz
 srzpsbf.xyz
 stlpnom.xyz
 styusib.top
+superjj.online
 svncowt.cn
 swsegi.xyz
 syuwkbb.top
@@ -60787,6 +60822,7 @@ uuvzmba.cn
 uxlvk.cn
 uxrdg.cn
 uxzvjoj.cn
+uyuwkbt.top
 vabzndw.cn
 vaekkfv.cn
 vcnpnf.xyz
@@ -60854,6 +60890,7 @@ xszw0.icu
 xudarl.xyz
 xvbjctqs.xyz
 xvgrszkg.xyz
+xvpcjl.xyz
 xvudqzoa.xyz
 xvyugqj.icu
 xwvnhe.cn
@@ -60886,14 +60923,6 @@ zfzys.top
 zhaweifeng.com
 zhihucloud.xyz
 zhnnaxe.xyz
-lhmebwq.cn
-gpiagk.xyz
-aobtwv.icu
-fxgkktj.icu
-xvpcjl.xyz
-uyuwkbt.top
-lftpvh.xyz
-superjj.online
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
