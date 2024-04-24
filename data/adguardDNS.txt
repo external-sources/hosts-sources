@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 23 Apr 2024 20:57:52 +0000
+# Last converted - Wed, 24 Apr 2024 01:43:10 +0000
 #
 
 rbweljjemzkza.top
@@ -60923,6 +60923,11 @@ zfzys.top
 zhaweifeng.com
 zhihucloud.xyz
 zhnnaxe.xyz
+xfrahb.xyz
+sogoks.xyz
+qvonje.cn
+yvwuesh.icu
+oyuwkbk.top
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
