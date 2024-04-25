@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 25 Apr 2024 04:57:53 +0000
+# Last converted - Thu, 25 Apr 2024 08:57:54 +0000
 #
 
 pqhoscjupq.com
@@ -50462,6 +50462,7 @@ d1r55yzuc1b1bw.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
 d1vg5xiq7qffdj.cloudfront.net
 d1wix2gc2cgqis.cloudfront.net
+d1z3r0i09bwium.cloudfront.net
 d1z9vm58yath60.cloudfront.net
 d20kffh39acpue.cloudfront.net
 d21y75miwcfqoq.cloudfront.net
@@ -54726,6 +54727,7 @@ secure.statcounter.com
 seenthis.se
 selectofmychoices.com
 sentry.outbid.io
+seo.compado.com
 seonify.com
 servedby.flashtalking.com
 servedby.lintigroup.se
@@ -60969,6 +60971,8 @@ uunfybw.cn
 eaezoi.xyz
 lyuwkbl.top
 romiyee.icu
+uywoynr.cn
+vyrpoe.cn
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
