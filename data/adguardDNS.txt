@@ -1,9 +1,19 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 24 Apr 2024 20:57:54 +0000
+# Last converted - Thu, 25 Apr 2024 01:43:20 +0000
 #
 
+pqhoscjupq.com
+jeethaju.net
+ujtgtmj.com
+nyorgagetnizati.info
+markedoneofthe.info
+linderbourgs.top
+ilvnkzt.com
+hiflkhvgvwsff.com
+jrzeiotwaq.com
+syltfvcaa.com
 rbweljjemzkza.top
 nocyjsmirnfwcb.com
 oothupeelobs.com
@@ -815,6 +825,7 @@ hub.fghtem.com
 d71e6dd31a026d45.com
 adrunnr.com
 samsungtvads.com
+d2ier523in7agz.cloudfront.net
 d2bs5vtcw2lxsv.cloudfront.net
 d2jsvulelid3e4.cloudfront.net
 d3k2wzdv9kuerp.cloudfront.net
@@ -46901,6 +46912,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+c615.denverpost.com
 newsstat.dallasnews.com
 e.channelexco.com
 analytics.languagetoolplus.com
@@ -51306,7 +51318,6 @@ solution911.com
 templates.buscape.com
 yestorrents.org
 oecistbenton.com
-ilvnkzt.com
 zszhfffyd.ru
 tracker.pushmeback.com
 isrv07.com
@@ -60953,6 +60964,11 @@ zfzys.top
 zhaweifeng.com
 zhihucloud.xyz
 zhnnaxe.xyz
+fptbdr.xyz
+uunfybw.cn
+eaezoi.xyz
+lyuwkbl.top
+romiyee.icu
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
