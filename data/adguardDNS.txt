@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 25 Apr 2024 08:57:54 +0000
+# Last converted - Thu, 25 Apr 2024 12:58:55 +0000
 #
 
 pqhoscjupq.com
@@ -41181,6 +41181,7 @@ googlevads-cn.com
 b211.xyz
 b59c.xyz
 b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online
+bcbe.site
 d84bc26d.site
 e076.xyz
 e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
@@ -42867,6 +42868,7 @@ adballoon.afreecatv.com
 deapi.afreecatv.com
 startup.mobile.yandex.net
 startup-mobile.ap.yandex-net.ru
+ad.line-scdn.net
 splash-ad.classting.com
 ad-files.classting.com
 v16-ad.byteoversea.com
@@ -43484,6 +43486,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+pbjs-stream.bydata.com
 programmatica.com
 stats.rip
 ebxcdn.com
@@ -46912,6 +46915,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+aa-metrics.hotpepper.jp
 c615.denverpost.com
 newsstat.dallasnews.com
 e.channelexco.com
@@ -50118,7 +50122,6 @@ page-events-ustats.udemy.com
 pagesense-collect.zoho.com
 pagesocket.glam.com
 pap.qualityunit.com
-pbjs-stream.bydata.com
 pegasus.unifygroup.com
 perso.aws.arc.pub
 pets.channeladvisor.com
@@ -60973,6 +60976,7 @@ lyuwkbl.top
 romiyee.icu
 uywoynr.cn
 vyrpoe.cn
+caomaotongji.com
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
@@ -64929,6 +64933,7 @@ z.nowscore.com
 zt2088.com
 ztyumn.ifeng.com
 27gh.cc
+js.shunqi.com
 003store.com
 0941.org
 1.07swz.com
