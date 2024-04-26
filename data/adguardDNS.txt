@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 25 Apr 2024 20:57:58 +0000
+# Last converted - Fri, 26 Apr 2024 01:41:28 +0000
 #
 
 vmkdfdjsnujy.xyz
@@ -6989,6 +6989,7 @@ burdyoni.com
 bureauelderlydivine.com
 bureauxcope.casa
 burgea.com
+burghkharwa.com
 burglaryeffectuallyderange.com
 burglaryrunner.com
 burgomeg.com
@@ -27840,6 +27841,7 @@ probangavatara.top
 probationpresented.com
 probationtoll.com
 probersnobles.com
+probessanggau.com
 probestrike.com
 probitystuck.com
 probtn.com
@@ -61010,6 +61012,14 @@ zfzys.top
 zhaweifeng.com
 zhihucloud.xyz
 zhnnaxe.xyz
+fmvzzh.xyz
+cweriof.top
+ymcnsq.xyz
+retinaesprent.com
+samoryinaner.com
+kaosts.com
+khcsvdc.icu
+knpkxgfp.xyz
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu

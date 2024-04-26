@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Thu, 25 Apr 2024 20:58:40 +0000
+# Last converted - Fri, 26 Apr 2024 01:42:05 +0000
 #
 
 00px.net
@@ -219,6 +219,7 @@
 480app.com
 480bbdf9664629877bc67d2094ca011cc759f779887c3337e8ae8bfd.com
 4b1b5677193b53828020053ae4a0c9d2dec12ef98fe68dc0f880d08c.com
+4b614f51ad499fe05baf3c22f48a64e1.com
 4chan-ads.org
 4dex.io
 4ds.be-bop-alula.com
