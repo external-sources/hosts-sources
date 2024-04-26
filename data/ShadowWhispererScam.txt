@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Thu, 25 Apr 2024 20:58:43 +0000
+# Last converted - Fri, 26 Apr 2024 01:42:07 +0000
 #
 
 007-dvd.com
@@ -7191,10 +7191,13 @@ mature-flirt.com
 mature-hits.net
 matureidea.com
 maturelibrary.com
+maturemapleflings.com
+maturemeetings.com
 maturenearby.co.uk
 matureneighbourhood.com
 maturenextdoor.com
 maturesexdates.com
+maturesfling.com
 mauireporter.com
 mauserfirearms.com
 mauxiepupsforsale.com
@@ -7779,6 +7782,7 @@ mysamoyedpuppy.com
 myscore.com
 mysecrethookups.com
 mysecretneighbors.com
+mysecretsforyou.com
 mysecrettop.com
 myseductress.com
 mysexcommunity.com
@@ -7788,6 +7792,7 @@ myspotifygifts.com
 mysteamgames.co
 mysterious-art.com
 mysteriouse.com
+mysteriousflings.com
 mysteriousi.com
 mysteriousk.com
 mysteriouslover.com
@@ -9709,6 +9714,7 @@ refurbishelectronics.com
 regalos-cuba.com
 regardingt.com
 regionalni-zmenki.si
+regionflirts.com
 registeredboxerpups.org
 regularsorphan.com
 regulationi.com
@@ -12486,6 +12492,7 @@ wemedicals.com
 wenatcheetimes.com
 wendycavapoopuppies.com
 wentbright.com
+wenyright.com
 weomegagreen.com
 weservice247.com
 westafricatrading.co.uk

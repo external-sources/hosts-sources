@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Thu, 25 Apr 2024 20:58:46 +0000
+# Last converted - Fri, 26 Apr 2024 01:42:09 +0000
 #
 
 010.at
@@ -483,6 +483,7 @@ crnw.uk
 croc.global
 cropped.xyz
 crvw.ru
+crypsante.com
 csx3.cloud
 csx4.cloud
 cte.li
@@ -1734,6 +1735,7 @@ sm4ll.in
 smallit.cc
 smallurl.co
 smghf.ca
+smlr.site
 smo.do
 smr.sh
 sm-s.in
@@ -1795,6 +1797,7 @@ sura.pw
 surl.be
 surl.li
 surl.pro
+surl.tn
 sur.lv
 susurl.com
 swiftation.com
