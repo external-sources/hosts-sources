@@ -1,9 +1,11 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 26 Apr 2024 08:57:56 +0000
+# Last converted - Fri, 26 Apr 2024 12:59:36 +0000
 #
 
+idyllicjazz.com
+orclrul.com
 vmkdfdjsnujy.xyz
 sirdushi.xyz
 ofleafeona.com
@@ -41199,6 +41201,7 @@ googleads-cn.com
 googleadservices-cn.com
 googleadsserving.cn
 googlevads-cn.com
+295c.site
 2aeabdd4-3280-4f03-bc92-1890494f28be.xyz
 48a16802.site
 4a0e.xyz
@@ -43596,7 +43599,6 @@ extrawatch.com
 ga.getresponse.com
 t.fastcmp.com
 prod-mhaa.mhtr.be
-dmp.eland-tech.com
 ohmy.bid
 nakanohito.jp
 analytics.fcgtalent.fi
@@ -50692,6 +50694,7 @@ baifendian.com
 cctvgb.com.cn
 cdnmaster.cn
 cr-nielsen.com
+eland-tech.com
 emarbox.com
 ggxt.net
 gostats.cn

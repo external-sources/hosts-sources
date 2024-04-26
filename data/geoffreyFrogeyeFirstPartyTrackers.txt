@@ -1,7 +1,7 @@
 # geoffreyFrogeyeFirstPartyTrackers
 #
 # Converted from - https://hostfiles.frogeye.fr/firstparty-trackers.txt
-# Last converted - Fri, 26 Apr 2024 08:58:31 +0000
+# Last converted - Fri, 26 Apr 2024 13:00:04 +0000
 #
 
 101230059950694.wt-eu02.net
@@ -2744,6 +2744,7 @@ gbc3.jp2.as.criteo.com
 gbc3.nl3.eu.criteo.com
 gbc3.nl.eu.criteo.com
 gbc3.sg1.as.criteo.com
+gbc3.us5.us.criteo.com
 gbc3.va.us.criteo.com
 gbc4.da.us.criteo.com
 gbc4.fr3.eu.criteo.com
