@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Fri, 26 Apr 2024 16:59:12 +0000
+# Last converted - Fri, 26 Apr 2024 20:58:32 +0000
 #
 
 01counter.com
@@ -12431,6 +12431,7 @@ androidtvchannels-pa.googleapis.com
 android-us-crashsight.iegcom.com
 andtheat.buzz
 andyhoppe.com
+andylitics.bswapi.com
 an.ehealth.gv.at
 a.nel.cloudflare.com
 anemo-analytics.com
@@ -17645,6 +17646,7 @@ detwzgl8cvciv.cloudfront.net
 dev1.gearjunkie.com
 dev2.jbg-ongakuin.com
 dev.alreporter.com
+dev-analytics-cf.bigcrunch.com
 devatics.com
 developmentanalytics.org
 development.leadershipwa.org.au
@@ -21193,6 +21195,7 @@ gtktomlw.com
 gtm.aeg.co.uk
 gtm.ahlens.se
 gtm.alliedtransportgroup.com
+gtm.bswhealth.com
 gtm.careercontessa.com
 gtm.challengermode.com
 gtm.clutter.com

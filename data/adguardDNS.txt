@@ -1,9 +1,13 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 26 Apr 2024 16:58:04 +0000
+# Last converted - Fri, 26 Apr 2024 20:57:52 +0000
 #
 
+ewpubiimput.com
+nuptoomaugou.net
+bsbrcdna.com
+crazy-baboon.com
 idyllicjazz.com
 orclrul.com
 vmkdfdjsnujy.xyz
@@ -8610,6 +8614,7 @@ colonwaltz.com
 colorfulspecialinsurance.com
 colorinmeasure.com
 colorschemeas.com
+colossalanswer.com
 colourevening.com
 colourinitiative.com
 coloursstandard.com
@@ -17456,6 +17461,7 @@ hzkachqd.com
 hzogncbobfb.com
 hzoywchsp.com
 hzr0dm28m17c.com
+hzzgnwdsha.com
 i-afk.com
 i010b048d3e4a1e4b70aba72b169e70c90971f9.xyz
 i0xz2.top
@@ -34617,6 +34623,7 @@ tizadumbed.com
 tjaard11.xyz
 tjavravj.com
 tjclskcamptg.com
+tjegljkugvrr.com
 tjgpeswdkrym.com
 tjibxzqxtl.com
 tjnkrrygmgp.com
@@ -35326,6 +35333,7 @@ ttgmjfgldgv9ed10.com
 tthathehadstop.info
 ttidstfuqhj.xyz
 ttkhtwqi.com
+ttlmqhbbkd.com
 ttney.com
 ttnrd.com
 ttoc8ok.com
@@ -37662,6 +37670,7 @@ weepingpretext.com
 weeprobbery.com
 weestuch.com
 weethery.com
+weewhunoamo.xyz
 weewowshrinky.com
 wefoonsaidoo.com
 weftsgeogeny.com
@@ -38445,6 +38454,7 @@ wsjpcev.com
 wsmobltyhs.com
 wsokomw.com
 wspsbhvnjk.com
+wstyruafypihv.xyz
 wt20trk.com
 wt2noay3fgjn.com
 wtcmjppejjb.com
@@ -38478,6 +38488,7 @@ wunteetoco.com
 wuqconn.com
 wurqaz.com
 wussucko.com
+wutcifjtapa.com
 wutseelo.xyz
 wutsumazxq.com
 wuujae.com
@@ -39665,6 +39676,7 @@ zoologicalviolatechoke.com
 zoologyhuntingblanket.com
 zoopaweb.com
 zoopsame.com
+zoozishooh.com
 zorango.com
 zouard.com
 zouemtjzuae.com
@@ -43519,6 +43531,8 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+antillephone.com
+prodalet.ru
 zdw.w8.com.cn
 pbjs-stream.bydata.com
 programmatica.com
@@ -46948,6 +46962,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+flask.us.nextdoor.com
 ev.indianexpress.com
 aa-metrics.beauty.hotpepper.jp
 aa-metrics.hotpepper.jp
@@ -50569,7 +50584,6 @@ pxlgnpgecom-a.akamaihd.net
 clarium.global.ssl.fastly.net
 dfapvmql-q.global.ssl.fastly.net
 vwonwkaqvq-a.global.ssl.fastly.net
-antillephone.com
 beyondsecurity.com
 guarantee-cdn.com
 nsg.symantec.com
@@ -51359,6 +51373,7 @@ solution911.com
 templates.buscape.com
 yestorrents.org
 oecistbenton.com
+ssrv7.com
 zszhfffyd.ru
 tracker.pushmeback.com
 isrv07.com
@@ -61026,6 +61041,7 @@ knpkxgfp.xyz
 rnzmynh.cn
 ixstng.cn
 ewjhic.cn
+polyfill.io
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu

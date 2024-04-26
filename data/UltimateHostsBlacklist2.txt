@@ -1,9 +1,10 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Fri, 26 Apr 2024 16:59:23 +0000
+# Last converted - Fri, 26 Apr 2024 20:58:38 +0000
 #
 
+readtimee.onesignal.com
 readvasturked.pro
 readworkd.org
 ready2study.com
@@ -20381,7 +20382,6 @@ sea.advertising.yahoo.com
 sea.aimon.gsm.applicationinsights.io
 sea.cryptaloot.pro
 sea.cryptoloot.pro
-sea.directprimal.com
 sea.effectivemeasure.net
 sea.net.edu.cn
 sea.openxmarket.asia
@@ -36403,7 +36403,6 @@ smartb.tubeadvertising.eu
 smartbagmart.com
 smartbank.aweber.com
 smartbar.linkury.com
-smartbase.cdnservices.com
 smartbizsearch.com
 smartblogger.pushengage.com
 smartboard.smartstream.tv
@@ -134204,6 +134203,7 @@ www.5avlib.com
 www.5dimes.com
 www.5f651e70.akstat.io
 www.5finder.com
+www.5forex.ru
 www.5g.adx1.com
 www.5gb-internetu-pakiety.blogspot.com
 www.5i2.net
@@ -134369,6 +134369,7 @@ www.24xforex.com
 www.24-xxx.biz
 www.27v9q.ads.tremorhub.com
 www.29xyt.adx1.com
+www.30sec.info
 www.31d.net
 www.32red.it
 www.32redsport.com
@@ -135104,6 +135105,7 @@ www.aboriginalpassportceremony.org
 www.abourselfi.com
 www.aboutdrugtesting.org
 www.abouthomesdecorating.com
+www.aboutproperty.co.uk
 www.aboutsecurityconcepts.com
 www.above.com
 www.abrahamschildren.com
@@ -140457,6 +140459,8 @@ www.coinpot.co
 www.coinprobase.info
 www.coinprofunding.com
 www.coinrail.io
+www.coin-service.com
+www.coin-services.info
 www.cointracker.info
 www.cointraffic.io
 www.coinurl.com
@@ -141619,6 +141623,7 @@ www.dendrito.name
 www.de-ner-mi-nis4.info
 www.denis928.000webhostapp.com
 www.denisa.info
+www.de-nis-ner-mi-5.info
 www.denney.totalh.net
 www.dennisbecker.leadpages.co
 www.dentairemalin.com
@@ -143074,6 +143079,7 @@ www.etahub.com
 www.etain.info
 www.etarget.sk
 www.etarin.info
+www.et-code.ru
 www.etemis.com
 www.ethaiinfo.com
 www.ethairdrops.com
@@ -149171,6 +149177,7 @@ www.mondoperaio.net
 www.mondovan.leadpages.co
 www.monerise.com
 www.monero.crypto-webminer.com
+www.monero-miner.net
 www.monerominer.rocks
 www.moneroocean.stream
 www.monetate.net
@@ -149184,6 +149191,7 @@ www.money4exit.de
 www.money.gr.com
 www.moneybot.net
 www.moneymakercdn.com
+www.money-maker-script.info
 www.moneyplayscasino.com
 www.moneyraid.com
 www.mongoosemetrics.com
@@ -156261,8 +156269,10 @@ www.trafficfile.com
 www.trafficflame.com
 www.trafficforce.com
 www.trafficg.com
+www.traffic-gate-service.info
 www.traffichaus.com
 www.traffichunt.com
+www.traffic-info-service.info
 www.trafficjunky.com
 www.trafficjunky.net
 www.trafficmagnet.net
@@ -156270,13 +156280,16 @@ www.trafficmarine.com
 www.trafficnetworkads24.com
 www.trafficoftrust.leadpages.co
 www.trafficopen.com
+www.traffic-optical-service.info
 www.trafficpace.com
 www.trafficrank.de
 www.trafficresults.com
 www.trafficrevenue.net
 www.trafficsan.com
+www.traffic-service.info
 www.trafficshop.com
 www.trafficstars.com
+www.traffic-tech-service.info
 www.traffictrader.net
 www.traffictraders.com
 www.traffic-trades.com
@@ -157673,6 +157686,7 @@ www.webhealth.info
 www.webhits.de
 www.webhostingcounter.com
 www.webin-redirectpost.dnset.com
+www.webkamery-krkonose.cz
 www.webleads-tracker.com
 www.webleads-tracker.com.ssl.re.getclicky.com
 www.weblogtracker.net
