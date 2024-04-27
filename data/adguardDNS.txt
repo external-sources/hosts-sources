@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 27 Apr 2024 04:57:40 +0000
+# Last converted - Sat, 27 Apr 2024 08:57:43 +0000
 #
 
 lwhyihajamafu.com
@@ -2866,6 +2866,7 @@ adsvolum.com
 adsvolume.com
 adswam.com
 adsxyz.com
+adsymptotic.com
 adt328.com
 adt545.net
 adt567.net
@@ -61051,6 +61052,7 @@ vbutycp.cn
 nwxaxx.xyz
 hweriou.top
 dfsgppz.icu
+qcepqj.icu
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
