@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 26 Apr 2024 20:58:21 +0000
+# Last converted - Sat, 27 Apr 2024 01:40:43 +0000
 #
 
 a-reporting.nytimes.com
@@ -362,6 +362,7 @@ p.hentaiforce.net
 pac.thescottishsun.co.uk
 pac.thesun.co.uk
 pappagallu.onefootball.com
+pcp.coupert.com
 perf.mouser.com
 performance-logger.minted.com
 perr.hola.org

@@ -1,9 +1,11 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 26 Apr 2024 20:57:52 +0000
+# Last converted - Sat, 27 Apr 2024 01:40:15 +0000
 #
 
+lwhyihajamafu.com
+utygdjcs.xyz
 ewpubiimput.com
 nuptoomaugou.net
 bsbrcdna.com
@@ -39045,6 +39047,7 @@ yearnstocking.com
 yearnwillowconsumption.com
 yedbehindforh.info
 yefzjingxudwib.com
+yeggscuvette.com
 yeioreo.net
 yellow-resultsbidder.com
 yellow-resultsbidder.org
@@ -39658,6 +39661,7 @@ zoawufoy.net
 zobsaims.com
 zodiacranbehalf.com
 zoeaegyral.com
+zoeaethenar.com
 zofitsou.com
 zog.link
 zogoluggers.com
@@ -60417,6 +60421,7 @@ cvbjctqs.xyz
 cvgrszkg.xyz
 cvnxetmq.xyz
 cvudqzoa.xyz
+cweriof.top
 cwssfg632.shop
 cxlvlbx.xyz
 cyuwkbf.top
@@ -60482,6 +60487,7 @@ equkgm.xyz
 ersjnpwf837.shop
 esqhsm.xyz
 etyusiw.top
+ewjhic.cn
 ewxufqs.cn
 execuri.com
 f7fe0.cyou
@@ -60495,6 +60501,7 @@ fhtfnb.xyz
 fidelius.cn
 fmfnrf.xyz
 fmssoj.icu
+fmvzzh.xyz
 fpjjjh.xyz
 fptbdr.xyz
 fpvdrzx.xyz
@@ -60580,6 +60587,7 @@ ityusio.top
 iummqg.xyz
 ivbgpax.cn
 ivnrrkx.cn
+ixstng.cn
 iykig.cn
 iyuwkbo.top
 izalflh.cn
@@ -60610,16 +60618,19 @@ jwhdgt.icu
 jypvzd.xyz
 jyuwkba.top
 jzjpntr.xyz
+kaosts.com
 kbomku.xyz
 kdeh.cn
 kfdrc.cyou
 kfpnqug.cn
 kgdyoh.icu
 kgqcse.xyz
+khcsvdc.icu
 khzyojb.cn
 kksjsa.top
 knalzld.top
 knifdlad.top
+knpkxgfp.xyz
 koqjok.xyz
 kpmose.xyz
 kssolo.com
@@ -60748,6 +60759,7 @@ pmiskc.cn
 pmtrkp.icu
 pnxtnp.xyz
 polepole.cn
+polyfill.io
 pp1hl.xyz
 pressit.cn
 prhfziq.xyz
@@ -60795,6 +60807,7 @@ rbfxoex.xyz
 rbhunp.xyz
 rcyzsh.icu
 rdiono.cn
+retinaesprent.com
 rfnvqpo.xyz
 rghqrj.xyz
 rhzvlcu.xyz
@@ -60807,6 +60820,7 @@ rlxhbff.cn
 rndcdb.xyz
 rnkzhsi.cn
 rnpkxgfp.xyz
+rnzmynh.cn
 rofmjd.xyz
 romiyee.icu
 rouqiuqq.cn
@@ -60818,6 +60832,7 @@ ryrmvd.xyz
 rzfdbsn.cn
 rzpvbl.xyz
 sacvmb.icu
+samoryinaner.com
 savionl.com
 sdfsad562.xyz
 sdjkbcjksbdsvv.com
@@ -61014,6 +61029,7 @@ yhderd69.shop
 yhqukg.xyz
 ykkhihg.cn
 yliffnsc.xyz
+ymcnsq.xyz
 yqlxkzs.cn
 yvbjctqs.xyz
 yvnxetmq.xyz
@@ -61030,18 +61046,11 @@ zfzys.top
 zhaweifeng.com
 zhihucloud.xyz
 zhnnaxe.xyz
-fmvzzh.xyz
-cweriof.top
-ymcnsq.xyz
-retinaesprent.com
-samoryinaner.com
-kaosts.com
-khcsvdc.icu
-knpkxgfp.xyz
-rnzmynh.cn
-ixstng.cn
-ewjhic.cn
-polyfill.io
+kyaywy.xyz
+vbutycp.cn
+nwxaxx.xyz
+hweriou.top
+dfsgppz.icu
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
