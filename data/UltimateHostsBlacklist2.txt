@@ -1,13 +1,9 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sat, 27 Apr 2024 16:58:27 +0000
+# Last converted - Sat, 27 Apr 2024 20:58:21 +0000
 #
 
-readtimee.onesignal.com
-readvasturked.pro
-readworkd.org
-ready2study.com
 ready4baby.ch
 readyboa.webcindario.com
 readyflowers-com-hk.b.appier.net
@@ -70125,7 +70121,6 @@ ticmate.co.il
 ticonmamad.libraries.co.il
 ticonsalope.000webhostapp.com
 tic-parchi.com
-tics.techdirt.com
 ticstars.com
 tictacti.adk2x.com
 tic-tic-bam.com
@@ -75270,7 +75265,6 @@ tracking.taboola.com
 tracking.tappx.com
 tracking.taptica.com
 tracking.tekoapis.com
-tracking.theoceanac.online
 tracking.thinkabt.com
 tracking.thunderhead.com
 tracking.tidalhifi.com
@@ -140460,7 +140454,6 @@ www.coinprobase.info
 www.coinprofunding.com
 www.coinrail.io
 www.coin-service.com
-www.coin-services.info
 www.cointracker.info
 www.cointraffic.io
 www.coinurl.com
@@ -145066,7 +145059,6 @@ www.gratis-sexkontakte.com
 www.gratis-toplist.de
 www.grattec-tools.com
 www.gratyfikantgt.info
-www.gravureidol4u.com
 www.gravureidolvideo.com
 www.gravyanalytics.com
 www.gravygirls.com
@@ -147622,7 +147614,6 @@ www.lecelo.totalh.net
 www.lech.info
 www.lecinquieme.info
 www.lecoindesmangas.info
-www.ledhenone.com
 www.leekaz2.000webhostapp.com
 www.leeshadle.leadpages.co
 www.leettips.org
@@ -149191,7 +149182,6 @@ www.money4exit.de
 www.money.gr.com
 www.moneybot.net
 www.moneymakercdn.com
-www.money-maker-script.info
 www.moneyplayscasino.com
 www.moneyraid.com
 www.mongoosemetrics.com
@@ -156269,10 +156259,8 @@ www.trafficfile.com
 www.trafficflame.com
 www.trafficforce.com
 www.trafficg.com
-www.traffic-gate-service.info
 www.traffichaus.com
 www.traffichunt.com
-www.traffic-info-service.info
 www.trafficjunky.com
 www.trafficjunky.net
 www.trafficmagnet.net
@@ -156280,16 +156268,13 @@ www.trafficmarine.com
 www.trafficnetworkads24.com
 www.trafficoftrust.leadpages.co
 www.trafficopen.com
-www.traffic-optical-service.info
 www.trafficpace.com
 www.trafficrank.de
 www.trafficresults.com
 www.trafficrevenue.net
 www.trafficsan.com
-www.traffic-service.info
 www.trafficshop.com
 www.trafficstars.com
-www.traffic-tech-service.info
 www.traffictrader.net
 www.traffictraders.com
 www.traffic-trades.com
