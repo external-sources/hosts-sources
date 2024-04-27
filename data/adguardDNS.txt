@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 27 Apr 2024 08:57:43 +0000
+# Last converted - Sat, 27 Apr 2024 12:59:52 +0000
 #
 
+go.syndcloud.com
 lwhyihajamafu.com
 utygdjcs.xyz
 ewpubiimput.com
@@ -5993,6 +5994,7 @@ biosda.com
 biphic.com
 bipidoan.com
 biplihopsdim.com
+bipmwuhisvp.com
 biptolyla.com
 bipwmskhqe.com
 birchdynamicunicorn.com
@@ -7672,6 +7674,7 @@ cementadodunk.com
 cementobject.com
 cemeterybattleresigned.com
 cemeterysimilar.com
+cemiocw.com
 cenaclesuccoth.com
 cenceevent.club
 cendantofth.org
@@ -7731,6 +7734,7 @@ cfehkwjupbrh.com
 cffujnudcdy.com
 cfgr1.com
 cfgr5.com
+cfgrcr1.com
 cfikgqraxgznj.com
 cfivfadtlr.com
 cflmdoigokoeld.com
@@ -41220,6 +41224,7 @@ googleadsserving.cn
 googlevads-cn.com
 295c.site
 2aeabdd4-3280-4f03-bc92-1890494f28be.xyz
+3a2e.site
 48a16802.site
 4a0e.xyz
 4e55.xyz
@@ -53633,6 +53638,7 @@ proxy.ads.canalplus-bo.net
 7b9de.v.fwmrm.net
 ads.dugwood.com
 adserver.icimedias.ca
+ad.unique1static.jp
 bance.jp
 appdraft.link
 ad.adpon-affi.net
