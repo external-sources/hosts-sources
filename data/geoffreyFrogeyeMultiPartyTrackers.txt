@@ -1,7 +1,7 @@
 # geoffreyFrogeyeMultiPartyTrackers
 #
 # Converted from - https://hostfiles.frogeye.fr/multiparty-trackers.txt
-# Last converted - Sat, 27 Apr 2024 20:58:08 +0000
+# Last converted - Sun, 28 Apr 2024 01:46:36 +0000
 #
 
 00f6375dd2e616d73649085c58dfed384fabe07a.cws.conviva.com
@@ -15005,6 +15005,7 @@ sz.eulerian.com
 sz.eulerian.eu
 sz.eulerian.fr
 sz.eulerian.net
+tag.bounceexchange.com
 takkoprod01.wt-eu02.net
 tatyei.adika.com
 taxi.com.102.122.2o7.net
