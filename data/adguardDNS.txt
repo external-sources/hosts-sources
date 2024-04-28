@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 28 Apr 2024 08:57:47 +0000
+# Last converted - Sun, 28 Apr 2024 12:59:28 +0000
 #
 
 thecoreadv.com
@@ -41137,6 +41137,7 @@ googlevads-cn.com
 4a0e.xyz
 4e55.xyz
 4e68.xyz
+58e0.site
 657475b7-0095-478d-90d4-96ce440604f9.online
 7e809ed7-e553-4e29-acb1-4e3c0e986562.site
 7fc8.site
