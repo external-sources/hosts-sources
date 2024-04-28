@@ -1,7 +1,7 @@
 # ShadowWhispererMarketingEmail 
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Marketing-Email
-# Last converted - Sun, 28 Apr 2024 16:58:41 +0000
+# Last converted - Sun, 28 Apr 2024 20:58:27 +0000
 #
 
 24sender.com

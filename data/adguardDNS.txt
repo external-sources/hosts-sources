@@ -1,9 +1,29 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 28 Apr 2024 16:57:55 +0000
+# Last converted - Sun, 28 Apr 2024 20:57:50 +0000
 #
 
+makeupenumerate.com
+hagnutrient.com
+naiantcapling.com
+nadjyiyolmxfea.com
+builtinintriguingchained.com
+nrecitnr.com
+jerimpob.net
+fohikrs.com
+xktxemf.com
+ejuiashsateam.info
+elewasgiwiththi.info
+deeppinche.top
+prqbdfmzjs.com
+aqaggxmhabf.com
+dmabpmokxcgm.com
+khrrnhjuhdjvx.com
+gfwvrltf.xyz
+kovhhlbbgs.com
+sodytykcbgpkw.com
+agehaeamilhfv.com
 thecoreadv.com
 ibetadvdqrn.com
 meseyktphwwxq.com
@@ -840,6 +860,7 @@ hub.fghtem.com
 d71e6dd31a026d45.com
 adrunnr.com
 samsungtvads.com
+d2g6dhcga4weul.cloudfront.net
 d2ier523in7agz.cloudfront.net
 d2bs5vtcw2lxsv.cloudfront.net
 d2jsvulelid3e4.cloudfront.net
@@ -60515,6 +60536,7 @@ ityusio.top
 iummqg.xyz
 ivbgpax.cn
 ivnrrkx.cn
+iwerioo.top
 ixstng.cn
 iykig.cn
 iyuwkbo.top
@@ -60546,6 +60568,7 @@ jwhdgt.icu
 jypvzd.xyz
 jyuwkba.top
 jzjpntr.xyz
+kalmukrattail.com
 kaosts.com
 kbomku.xyz
 kdeh.cn
@@ -60738,6 +60761,7 @@ rbfxoex.xyz
 rbhunp.xyz
 rcyzsh.icu
 rdiono.cn
+regwiuv.cn
 retinaesprent.com
 rfnvqpo.xyz
 rghqrj.xyz
@@ -60847,6 +60871,7 @@ tyzfoej.cn
 uctutu3789.xyz
 udkpcc.xyz
 udykkl.cn
+ugtbit.icu
 uigxgg.xyz
 uiqcf.cn
 ujovcb.cn
@@ -60875,12 +60900,14 @@ vabzndw.cn
 vaekkfv.cn
 vbutycp.cn
 vcnpnf.xyz
+vcugbgu.cn
 vdoqomz.icu
 vdvcjlp.cn
 veaiyl.icu
 vejhln.xyz
 vfchm.cyou
 vflorp.xyz
+vgzytn.xyz
 vhvwlb.xyz
 vioyugo.cn
 vipgogo123.site
@@ -60914,6 +60941,8 @@ wubizigeng.com
 wvwqywz.cn
 wwjtdjj.cn
 wxfdmri.xyz
+wxymag.xyz
+wymqjow.icu
 wyuwkbe.top
 xamssp.icu
 xcypgd.icu
@@ -60978,14 +61007,6 @@ zfzys.top
 zhaweifeng.com
 zhihucloud.xyz
 zhnnaxe.xyz
-vcugbgu.cn
-ugtbit.icu
-vgzytn.xyz
-kalmukrattail.com
-wxymag.xyz
-iwerioo.top
-wymqjow.icu
-regwiuv.cn
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
