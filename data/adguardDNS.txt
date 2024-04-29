@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 29 Apr 2024 08:57:49 +0000
+# Last converted - Mon, 29 Apr 2024 13:00:43 +0000
 #
 
+ssm.codes
 makeupenumerate.com
 hagnutrient.com
 naiantcapling.com
@@ -8293,7 +8294,6 @@ clickgate.biz
 clickgate08.biz
 clickintext.com
 clickiocdn.com
-clickmagick.com
 clickmi.net
 clickmobad.net
 clicknano.com
@@ -40464,6 +40464,7 @@ clickfilter.co
 clickfuse.com
 clickinc.com
 clickintext.net
+clickmagick.com
 clickmon.co.kr
 clickoutcare.io
 clickpoint.com
@@ -41214,6 +41215,7 @@ b211.xyz
 b59c.xyz
 b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online
 bcbe.site
+ca3d.site
 d84bc26d.site
 e076.xyz
 e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
