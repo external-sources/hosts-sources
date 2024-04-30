@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Mon, 29 Apr 2024 20:58:37 +0000
+# Last converted - Tue, 30 Apr 2024 01:42:34 +0000
 #
 
 01counter.com
@@ -18103,6 +18103,7 @@ downtowndirection.com
 dp3.qq.com
 dp.alma.iltalehti.fi
 dp.espritcam.com
+dplp1.ibmnorthamerica.adobesandbox.com
 dpmsrv.com
 dps.bing.com
 dpservice.fidelity.com
@@ -18921,6 +18922,7 @@ enquiry.360rto.com.au
 enquiry.lkproperty.com.au
 ensighten.bhphoto.com
 ensighten.com
+ensightendemo.com
 ensighten.huntingtonbank.com
 ensighten.maurices.com
 ensighten.norton.com
@@ -20099,6 +20101,7 @@ freegeoip.live
 freegeoip.net
 freeguide.bathremodelguide.com
 freehitwebcounters.com
+freeipapi.com
 free-knitpatterns-news.com
 freelogs.com
 freeonlineusers.com
@@ -22179,6 +22182,7 @@ impaqt.com
 imperfectinstrument.com
 impersuasion.com
 imp.i115008.net
+implan.com
 importantmeat.com
 importedincrease.com
 importedinsect.com
@@ -25986,6 +25990,9 @@ ipyxel.com
 ip.zhizhuip.net
 iq.afterpay.com
 iqm.com
+iqmetrics.faz.net
+iqmetrics.manager-magazin.de
+iqmetrics.spiegel.de
 ir.active2035.com
 ir.aicventures.com
 i.relax-job.com
@@ -26988,6 +26995,7 @@ liveapi.huya.com
 live.casafrescahomes.com
 live.centtrip.com
 livechat-metrics.messagebird.com
+live.comunicaciones.jetstereo.com
 livecounter.theyosh.nl
 live-detector.svc.transifex.net
 live.digitalchalk.com
@@ -46935,6 +46943,7 @@ saa.paramountplus.com
 saa.popculture.com
 saa.qualcomm.cn
 saa.rachaelrayshow.com
+saas-analytics.odoo.com
 saa.scout.com
 saas-eue-1.com
 saas-euw-1.com
@@ -54209,6 +54218,7 @@ statistics.cmre.knowledgearc.app
 statistics.cms.garden
 statistics.companyhost.de
 statistics.cpcon.us
+statistics.cplace.com
 statistics.craftatlas.co
 statistics.curdt.de
 statistics.danghr.com
@@ -65196,8 +65206,10 @@ tracking.hostgator.com
 tracking.huntington.com
 tracking.icf-centrum.de
 tracking.icubeswire.co
+tracking.impero.com
 tracking.imspublishergroup.com
 tracking.india.miui.com
+tracking.inquired.com
 tracking.inquirer.com
 tracking.intl.miui.com
 tracking.intramar.be
@@ -66478,6 +66490,8 @@ us01-analysis.ymcart.com
 usabilitysciences.com
 usage.altrulabs.com
 usageanalytics.coveo.com
+usage.atpchronicx.com
+usage.atpspotlight.com
 usage.influxdata.com
 usage-reporter.duplicati.com
 usa.goepson.com
@@ -66508,6 +66522,7 @@ use-kompyte.com
 uselesslumber.com
 usenetjunction.com
 useproof.com
+useranalytics.kcftech.com
 user.argusleader.com
 user.azcentral.com
 user.battlecreekenquirer.com

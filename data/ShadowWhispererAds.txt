@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 29 Apr 2024 20:58:36 +0000
+# Last converted - Tue, 30 Apr 2024 01:42:30 +0000
 #
 
 00px.net
@@ -4395,7 +4395,6 @@ ads.off.net.mk
 ads.off-road.gr
 ad.softcatala.cat
 ad.softcatala.org
-adsoftheworld.com
 adsoft.name
 ad.soicos.com
 adsoid.com
