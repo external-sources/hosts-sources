@@ -1,9 +1,24 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 29 Apr 2024 20:58:03 +0000
+# Last converted - Tue, 30 Apr 2024 01:41:45 +0000
 #
 
+doostozoa.net
+psomtenga.net
+juhlkuu.com
+fzamtef.com
+greenrecru.info
+hadtwobr.info
+dewerpicry.top
+oivteiwwave.com
+ptoogroo.net
+rategruntcomely.com
+enraptureshut.com
+yzyvfrfran.com
+yexyejgdcbax.com
+bipgialxcfvad.xyz
+svptpcjefg.com
 ssm.codes
 makeupenumerate.com
 hagnutrient.com
@@ -861,6 +876,7 @@ hub.fghtem.com
 d71e6dd31a026d45.com
 adrunnr.com
 samsungtvads.com
+d1nug4fmv8zva9.cloudfront.net
 d2g6dhcga4weul.cloudfront.net
 d2ier523in7agz.cloudfront.net
 d2bs5vtcw2lxsv.cloudfront.net
@@ -1830,6 +1846,7 @@ mine.torrent.pw
 6863fd0afc.com
 688de7b3822de.com
 68amt53h.de
+68aq8q352.com
 69852b1734.com
 69b61ba7d6.com
 69i.club
@@ -4863,6 +4880,7 @@ aviewrodlet.com
 avinekernish.digital
 avjbjbeeraebj.top
 avjbjbeeramzv.top
+avjockjpiduc.com
 avkktuywj.xyz
 avkyu1tesnwy.com
 avnmjtqu.com
@@ -9748,6 +9766,7 @@ dalymix.com
 dalysb.com
 dalysh.com
 dalysv.com
+damagecontributionexcessive.com
 damaged-fix.pro
 damagedmissionaryadmonish.com
 dameadept.com
@@ -10288,6 +10307,7 @@ designatejay.com
 designerdeclinedfrail.com
 designeropened.com
 designingbadlyhinder.com
+designsrivetfoolish.com
 desireddelayaspirin.com
 desiregig.com
 desiremolecule.com
@@ -11021,7 +11041,6 @@ doormantdoormantbumpyinvincible.com
 doormantdoormantunfaithful.com
 doorstepexcepting.com
 doostauge.com
-doostozoa.net
 doozersunkept.com
 dopansearor.com
 dope.autos
@@ -15800,7 +15819,6 @@ greenfox.ink
 greenlinknow.com
 greenpaperlist.com
 greenplasticdua.com
-greenrecru.info
 greensfallingperceive.com
 greeter.me
 greetpanda.org
@@ -16150,7 +16168,6 @@ hadsecz.com
 hadsimz.com
 hadskiz.com
 hadsokz.com
-hadtwobr.info
 haffnetworkmm.com
 hafisfunnier.guru
 haflinforms.top
@@ -18083,6 +18100,7 @@ ingforthemoonheap.com
 ingigalitha.com
 ingjymcmsqloxw.com
 inglunewly.com
+ingotedbooze.com
 ingramony.com
 ingratitudemisty.com
 ingredientwritten.com
@@ -25513,6 +25531,7 @@ origunix.com
 orisow.com
 orjfun.com
 orjohmpkq.com
+orlandowaggons.com
 orldwhoisquite.com
 orldwhoisquite.org
 orldwhoisquiteh.info
@@ -30562,6 +30581,7 @@ rubfastened.com
 rubyblu.com
 rubyforcedprovidence.com
 rubymillsnpro.com
+ruckingefs.com
 ruddledcrucian.uno
 ruddy-option.pro
 ruddyred.pro
@@ -30998,6 +31018,7 @@ scaleshustleprice.com
 scalesmothforget.com
 scalesreductionkilometre.com
 scalfebecky.digital
+scalfkermes.com
 scalledzamia.com
 scallionfib.com
 scallionterrace.com
@@ -34943,6 +34964,7 @@ tpciqzm.com
 tpcrfdnq.com
 tpcserve.com
 tpdads.com
+tpdethnol.com
 tpeoplesho.info
 tpjageoaehyir.com
 tpmedia-reactads.com
@@ -36992,6 +37014,7 @@ vip-datings.life
 vip-vip-vup.com
 vipcaptcha.live
 vipcpms.com
+viperiduropygi.top
 viperishly.com
 vipicmou.net
 viqxdidnwcaa.com
@@ -39386,7 +39409,6 @@ yynwgrdr.com
 yypcalcnqk.com
 yyselrqpyu.com
 yzlfobyscos.com
-yzyvfrfran.com
 z0il3m3u2o.pro
 z5x.net
 z7yru.com
@@ -61081,6 +61103,11 @@ zfzys.top
 zhaweifeng.com
 zhihucloud.xyz
 zhnnaxe.xyz
+eabvmue.cn
+ipsoazr.icu
+xxsmad1.com
+dadxnl.xyz
+uvklgw.xyz
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
