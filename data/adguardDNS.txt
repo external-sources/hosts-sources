@@ -1,9 +1,11 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 30 Apr 2024 16:57:47 +0000
+# Last converted - Tue, 30 Apr 2024 20:57:55 +0000
 #
 
+leveryone.info
+ightsapph.info
 dwvxmfscptajtll.com
 shoopsee.net
 pxyympkyvqc.com
@@ -1585,6 +1587,7 @@ mine.torrent.pw
 3034f47ff3.com
 303ag0nc7.de
 303marketplace.com
+305421ba72.com
 3071caa5ff.com
 307i6i7do.de
 308d13be14.com
@@ -6533,6 +6536,7 @@ bothererune.com
 botherherself.website
 botherlightensideway.com
 bothsemicolon.com
+bothwest.pro
 botongfuff.uno
 botsaunirt.com
 bottelowse.guru
@@ -8287,6 +8291,7 @@ cleaverinfatuated.com
 cleaversince.com
 cleddeexcl.com
 clefsgast.top
+cleftmeter.com
 clemencyexceptionpolar.com
 clementmeddling.com
 clementsing.com
@@ -9914,6 +9919,7 @@ daytimeentreatyalternate.com
 dayznews.biz
 daz3rw5a5k4h.com
 dazeactionabet.com
+dazedarticulate.com
 dazedengage.com
 dazeoffhandskip.com
 dazhantai.com
@@ -10870,6 +10876,7 @@ dkrqyly.com
 dkrxtdnlg.com
 dkztrcfxisw.com
 dl-rms.com
+dlazblsihdoi.com
 dle-news.xyz
 dledthebarrowb.com
 dlfvgndsdfsn.com
@@ -12078,6 +12085,7 @@ eldestcasualelements.com
 eldestcontribution.com
 elearl.com
 eleavers.com
+electionmmdevote.com
 electnext.com
 electosake.com
 electranowel.com
@@ -14872,6 +14880,7 @@ gb1aff.com
 gbbdkrkvn.xyz
 gbddeyjekkixrn.com
 gbfgvzfcjfs.com
+gbiyigdsgu.com
 gblcdn.com
 gbpkmltxpcsj.xyz
 gbstobpvhhosqsr.com
@@ -15930,6 +15939,7 @@ groutsfaham.top
 grova.buzz
 grova.xyz
 growebads.com
+growingcastselling.com
 growledavenuejill.com
 growlingopportunity.com
 grown-inpp-code.com
@@ -15969,6 +15979,7 @@ gsecumwgxthon.com
 gseyldgnl.com
 gsfoipmh.xyz
 gsjln04hd.com
+gsnb048lj.com
 gsnqhdo.com
 gsurihy.com
 gswinnodf.com
@@ -19498,6 +19509,7 @@ juzzclftcseca.com
 jvaemllmeezyw.top
 jvbzzmnjezeba.top
 jvbzzmnjeznrw.top
+jvcjnmd.com
 jvgsjchrxrf.xyz
 jvjxkcsiktxgigo.com
 jvnvrqzvyvbmv.top
@@ -19526,6 +19538,7 @@ jwrrwzrrwqwr.top
 jwt8e5vzc1.com
 jwuhtogg.com
 jwxfjlsodffj.com
+jwympcc.com
 jxaiyxvjtczykq.com
 jxhgcitcqmvv.com
 jxkayopaij.com
@@ -22045,6 +22058,7 @@ mastercodepink.com
 masterfrowne.org
 masterpieceplainlythird.com
 mastexpelledsink.com
+mastinstungmoreal.com
 masturbaseinvegas.com
 matchaix.net
 matchingundertake.com
@@ -23760,6 +23774,7 @@ neglectdrivingalertness.com
 negligible-pension.pro
 negolist.com
 negotiationmajestic.com
+negxkj5ca.com
 negyuk.com
 nehree.com
 neigh11.xyz
@@ -23861,6 +23876,7 @@ news-fadubi.com
 news-getogo.com
 news-headlines.co
 news-host.net
+news-jelafa.com
 news-jivera.com
 news-losaji.com
 news-mefuba.cc
@@ -25492,6 +25508,7 @@ orderfritter.com
 orderlydividepawn.com
 orderlymall.pro
 orderlyregister.pro
+ordgcoazsswo.com
 ordinalexclusively.com
 ordinardeuton.com
 ordinarilyinstead.com
@@ -28248,6 +28265,7 @@ ptewarin.net
 ptewauta.net
 ptexognouh.xyz
 ptffvpjhhb.com
+pthdepsftn.com
 pthzqqvrjyou.com
 pticmootoat.com
 ptidfrvqxpucy.com
@@ -29018,6 +29036,7 @@ qwyoxrmhep.com
 qwyvmjvqlrbov.top
 qwzfsjdyecefdn.com
 qxdownload.com
+qxeidsj.com
 qxgbgixnzcoen.com
 qxhspimg.com
 qxiabfmmtjhyv.com
@@ -35575,6 +35594,7 @@ txtsetzdcxnrc.com
 txumirk.com
 txwhfmxlmu.com
 txzaazmdhtw.com
+txzdbxtyhebo.com
 tyblecnuft.com
 tychismfeasts.com
 tychon.bid
@@ -41304,13 +41324,18 @@ utiq.op-online.de
 utiq.soester-anzeiger.de
 utiq.tz.de
 utiq.wa.de
+1059265748.rsc.cdn77.org
 1080872514.rsc.cdn77.org
+1085549509.rsc.cdn77.org
 10945-2.s.cdn15.com
 10945-5.s.cdn15.com
 1187531871.rsc.cdn77.org
 1201741305.rsc.cdn77.org
 1278977604.rsc.cdn77.org
+1288151678.rsc.cdn77.org
 1437953666.rsc.cdn77.org
+1441085683.rsc.cdn77.org
+1492697327.rsc.cdn77.org
 1529462937.rsc.cdn77.org
 1564285319.rsc.cdn77.org
 1675450967.rsc.cdn77.org
@@ -43573,6 +43598,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+mainting-minues.xyz
 europe-west1-sonorous-dragon-276210.cloudfunctions.net
 antillephone.com
 prodalet.ru
@@ -51420,6 +51446,7 @@ solution911.com
 templates.buscape.com
 yestorrents.org
 oecistbenton.com
+ippunet.site
 ssrv7.com
 zszhfffyd.ru
 tracker.pushmeback.com
@@ -56312,6 +56339,7 @@ adm789.com
 admin-vayvonvietthanh.com
 ads-tm-glb.click
 adsharedwi897th.cfd
+advanced-ip-sccanner.com
 ae888vip.com
 aeeonmaill.com
 aeeonmart.com
@@ -56386,6 +56414,7 @@ apphdbank.fun
 apple-vn.shop
 apple.icloud.mar-kt.com.mx
 apple.support-find-my-iphone.com
+applecare-icloud.com
 apps-for-pc.com
 appvaytien.vn
 apteka-money.ru
@@ -56498,6 +56527,7 @@ bvietcombank.com
 bxrtxfr.xyz
 byasdebrisfie.cfd
 campxanh.info
+canhanshinhan.com
 canvayvon.net
 caonhanh.xyz
 caoviet.net
@@ -56573,6 +56603,7 @@ cltx888.me
 cltxmm.us
 clubfiletyc.com
 clubleadershipsolutions.com
+clzl.pro
 cmvietcombank.com
 cnaptheaz.com
 cnvietcombank.com
@@ -56699,10 +56730,12 @@ dichvucong-gov.com
 dichvucong.agov.net
 dichvucong.cvgov.com
 dichvucong.dancuquocgia.net
+dichvucong.dancuso.com
 dichvucong.dulieuquocgia.com
 dichvucong.govnx.com
 dichvucong.hgov.cc
 dichvucong.hgov.net
+dichvucong.hhlpa.com
 dichvucong.kgov.net
 dichvucong.lgov.net
 dichvucong.tgovn.cc
@@ -57133,6 +57166,7 @@ hdsaison-vip.cc
 hdsaison-vn.cc
 hdsaison-vn.com
 hdsaisonvn.com
+hdtinchap.com
 hdzonline.pro
 heirreplacem.cfd
 helandsca.cfd
@@ -57278,6 +57312,8 @@ internetbank.site
 ionthatco.cfd
 ionvictoriesin.cfd
 iplaytogethershop.com
+ipscanneronline.com
+ipscannershop.com
 irduwhojas.ga
 iruiotish.cfd
 isacambank.com
@@ -57546,6 +57582,7 @@ lottevn888.com
 lottevn896.com
 lottevn999.com
 lottevn9999.com
+lotttemart.store
 low-lyingwh.cfd
 lsacomban.com
 lstmoney.xyz
@@ -57635,6 +57672,8 @@ meokiemtien.online
 mershadclo.cfd
 metcoin-exchange.com
 metvay.com
+mfacebok.com
+mfacebook.vn
 mhshopee.com
 micronsofte-online.com
 miner-linkperfectmoney.com
@@ -57815,8 +57854,12 @@ myeca.ieasyclick.net
 myeca.ieasytest.net
 myecat1.ieasyclick.net
 myecat1.ieasytest.net
+myipscanner.com
 mylotte.me
 mylotte.shop
+myscannappo.com
+myscannappo.info
+myscannappo.online
 myshopee13.com
 myshopee7.vip
 mysp.ac
@@ -57825,6 +57868,7 @@ nang-cap-hang-vvip-vib.com
 nang-cap-online-vpbank.com
 nang-cap-vip-vpbank.com
 nang-han-muc-ido-vpbank.com
+nang-han-muc-vcs1-khcn-vib.com
 nang-han-muc-vip-vpbank.com
 nang-hang-ca-nhan-vib-mrk1.com
 nang-hang-tin-dung-ca-nhan.com
@@ -58327,6 +58371,7 @@ regis2tarsgroup.click
 regis2tarsinc.click
 reglienquan.online
 resonherse.cfd
+restless.su
 restlesz.su
 reviewphim.pro
 rhighest.cfd
@@ -58420,6 +58465,7 @@ shbfinans.com
 shbkhuyenmai.com
 shek66.com
 shilla.skrfgrl.cn
+shinhan.chamsoccanhankhachhangthe-tructuyen.online
 shinhan.ho-tro-tin-dung-ca-nhan.com
 shinhan0.com
 shinhanapp.org
@@ -58899,7 +58945,9 @@ sonarsurveyof.cfd
 soppe68.com
 sopper68.com
 sos-icloud.com
+sotuyenvcb.vietcombanker.com
 sp315693vn.com
+sp6788.com
 sp77888.com
 sp8668vn.com
 spark123.shop
@@ -59072,6 +59120,7 @@ tdkd00.com
 tdkd01.com
 tdkd02.com
 tdkd03.com
+tdkd07.com
 tdtc.shop
 techcombank.ngan-hang.net
 techcombank.site
@@ -59098,6 +59147,7 @@ thegiodidong.com.vn
 thegioididong.me
 thegioididong.store
 thegioidienmayxanh.com
+theipscanner.com
 thenapx10ff.com
 theopenpathology.click
 theritishind.cfd
@@ -59278,6 +59328,7 @@ tindungvietcombank.net
 tingiaitrian.com
 tingiovang777.com
 tingiovangvn.com
+tinhay24h.pro
 tinhotnew.com
 tinlequa365.com
 tinlocvang123.com
@@ -59672,6 +59723,7 @@ vcbdigliebrnk.com
 vcbdigtylbrnk.com
 vcbdlgrcbonk.com
 vcbigdank.com
+vdbank.com.vn
 vebo123.vip
 vebo1s.co
 vebo8386.me
@@ -59786,6 +59838,7 @@ vietel.online
 vietelshop.online
 vietflix.vn
 vietgav.cc
+vietgcv.cc
 vietgov.cc
 vietgov0.cc
 vietgov22.cc
@@ -59909,6 +59962,7 @@ vinpearl1.vingroupsny.com
 vip-dien-mayxanh.com
 vip-dienmayxanh.com
 vip8591.net
+vipcard-vib.com
 vipgooshop.com
 viplovang.com
 vipmmomo2456.fun
@@ -60003,9 +60057,11 @@ vn-vietnam.com
 vn-vongquaylol.cf
 vn-vp.xyz
 vn.btaynguyenfood.com
+vn.vnhao123.xyz
 vn11268shp.com
 vn11568p.com
 vn119shop.com
+vn147258p.com
 vn168d.com
 vn22647shp.com
 vn268.com
@@ -60472,6 +60528,7 @@ cxlvlbx.xyz
 cyuwkbf.top
 czxvgod.xyz
 d3g4a.cyou
+dadxnl.xyz
 damiul.icu
 dataryon.com
 dawdlealmonry.com
@@ -60506,6 +60563,7 @@ dytkgl.icu
 dzdnffs.xyz
 dzfzak.cn
 dzuht.cn
+eabvmue.cn
 eaezoi.xyz
 eaqlos.xyz
 ebgwdon.cn
@@ -60629,6 +60687,7 @@ img8e94zy4bg.com
 inalzlo.top
 inifdlao.top
 inworket.com
+ipsoazr.icu
 irayedo.cn
 irmbyu.xyz
 ityusio.top
@@ -60689,6 +60748,7 @@ ktoioo.xyz
 ktvjpmi.xyz
 ktyusid.top
 kvyyyde.cn
+kweriod.top
 kwqnki.xyz
 kyaywy.xyz
 kyuwkbd.top
@@ -60898,6 +60958,7 @@ shanvezhu.com
 shnpetdb638.shop
 shnpetdn185.shop
 shuocyw.cn
+sifuwei.com
 sjaaquj.cn
 sjgsgy.xyz
 skdncksklsv.com
@@ -60977,12 +61038,14 @@ ugtbit.icu
 uigxgg.xyz
 uiqcf.cn
 ujovcb.cn
+ukgfniu.cn
 uljoifw.cn
 ulktyi.xyz
 ulwfys.xyz
 unalzlt.top
 unifdlat.top
 uohvxrvd.xyz
+uosxdmk.cn
 upytsgo.cn
 uqrcuxp.cn
 uqwbcm.xyz
@@ -60993,6 +61056,7 @@ utxmb.cn
 uu22662.com
 uunfybw.cn
 uuvzmba.cn
+uvklgw.xyz
 uxlvk.cn
 uxrdg.cn
 uxzvjoj.cn
@@ -61078,6 +61142,7 @@ xvudqzoa.xyz
 xvyugqj.icu
 xwvnhe.cn
 xxle.cn
+xxsmad1.com
 xylhwdu.com
 xzrhvv.xyz
 ybrrvck.xyz
@@ -61111,14 +61176,6 @@ zfzys.top
 zhaweifeng.com
 zhihucloud.xyz
 zhnnaxe.xyz
-eabvmue.cn
-ipsoazr.icu
-xxsmad1.com
-dadxnl.xyz
-uvklgw.xyz
-kweriod.top
-ukgfniu.cn
-sifuwei.com
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
