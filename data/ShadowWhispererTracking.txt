@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Tue, 30 Apr 2024 13:00:37 +0000
+# Last converted - Tue, 30 Apr 2024 16:58:37 +0000
 #
 
 01counter.com
@@ -3818,6 +3818,7 @@ analytics.aseriesoftubez.com
 analytics.asfinag.at
 analytics.ashleytudor.uk
 analytics.ashoka.org
+analytics.asiaone.com
 analytics.askinsoftech.com
 analytics.asks.se
 analytics.as-lan.eu
@@ -4807,6 +4808,7 @@ analytics.cloint.com
 analytics.close.marketing
 analytics.closure.nl
 analytics.cloud88.org
+analytics.cloud-care.it
 analyticscloud.cc
 analytics.cloudclusters.io
 analytics.cloudc.one
@@ -5713,6 +5715,7 @@ analytics.einfachgutegeschichten.de
 analytics.einhorn-factory.de
 analytics.einsa.net
 analytics.eipeldauer-consulting.com
+analytics.eirib.ir
 analytics.e-it-c.ch
 analytics.eixarcolant.cat
 analytics.ejo.de
@@ -5785,6 +5788,7 @@ analytics.energy-citoyennes.org
 analytics.energygroup.ie
 analytics.enertrag.com
 analytics.enfoquelibre.com
+analytics.eng.c-alm.ch
 analytics.engelhardt.de
 analytics-engine.com
 analyticsengine.s3.amazonaws.com
@@ -6278,6 +6282,7 @@ analytics.freenews.fr
 analytics.freeola.com
 analytics.freeradionetwork.de
 analytics.freesound.org
+analytics.freetaxusa.com
 analytics.freetubeapp.io
 analytics.freewayprojects.com
 analytics.freiburg-tour-guides.de
@@ -9039,6 +9044,7 @@ analytics.noterik.com
 analytics.notrace.nl
 analytics.notube.io
 analytics.notube.net
+analytics.notube.site
 analytics.nous2.org
 analytics.nouvelle-aquitaine-mobilites.fr
 analytics.nouvelle-aquitaine.pro
@@ -10332,6 +10338,7 @@ analytics.sede.gal
 analytics.sedhono.com
 analytics.sedris.org
 analytics.seed2smoke.net
+analytics.seehoo.co.uk
 analytics.seenema-bw.de
 analytics.seeyouthen.com
 analytics.sefrengo.org
@@ -27328,6 +27335,7 @@ logs-fips.us-east-2.amazonaws.com
 logs-fips.us-west-1.amazonaws.com
 logs-fips.us-west-2.amazonaws.com
 log.shangyexinzhi.com
+logs.heretic-sas.com
 log.showmax.com
 log.shuidichou.com
 logs.hunliji.com
@@ -29976,6 +29984,7 @@ matomo.kumbe.it
 matomo.kunsolan.fi
 matomo.kuvings.com
 matomo.kvcoe.de
+matomo.kwenta.io
 matomo.kwik.cx
 matomo.lab2000.de
 matomo.laba.de
@@ -30217,6 +30226,7 @@ matomo.monpetitpixel.fr
 matomo.monsitecommunal.fr
 matomo.monsyndicat.org
 matomo.montagmorgens.com
+matomo.montex.org
 matomo.montpellier.fr
 matomo.montviso-kunden.de
 matomo.monuments-nationaux.fr
@@ -30520,6 +30530,7 @@ matomo.portededromardeche.fr
 matomo.portedegesvres.fr
 matomo.portvier.de
 matomo.possiblelossofprecision.net
+matomo.post.at
 matomo.postul.art
 matomo.poweredbyefi.org
 matomo.powerflash-drive.com
@@ -30823,6 +30834,7 @@ matomo.sits-group.ch
 matomo.siweb.fr
 matomo.sjmf.in
 matomo.skaletzphotography.de
+matomo.skatedeluxe.com
 matomo.sketch.media
 matomo.skirde.me
 matomo.skolon.com
@@ -31486,6 +31498,7 @@ mautic.ides.org.ar
 mautic.idg.zone
 mautic.ijr.al
 mautic.inabvirtual.com
+mautic.inagro.be
 mautic.infonet.si
 mautic.institutodeteologialogos.net.br
 mautic.internetrnd.com
@@ -40354,6 +40367,7 @@ piwik.luger.de
 piwik.lujoclean.com
 piwik.luka.de
 piwik.lukasverlag.com
+piwik.lumberg.com
 piwik.lungsask.ca
 piwik.luricos.de
 piwik.lurse.de
@@ -56032,6 +56046,7 @@ stats.bathory-tales.com
 stats.batjorge.com
 stats.bauen-oekologisch.de
 stats.bauertec.eu
+stats.baumann-it-dienstleistungen.de
 stats.baumann-network.com
 stats.baumitklub.pl
 stats.bauonline.de
@@ -57842,6 +57857,7 @@ stats.freiewaehler-verden.de
 stats.freinbichler.net
 stats.freiwilligendienste-kultur-bildung.de
 stats.fremdefeder.ch
+stats.frequenze.it
 stats.freshleafmedia.co.uk
 stats.freshlime.de
 stats.freshtaste.app
@@ -60988,6 +61004,7 @@ stats.robinverstrepen.be
 stats.robole.de
 stats.robotunicornattack.com
 stats.robur-industry-service.com
+stats.rocketbeans.tv
 stats.rockstats.de
 stats.rockypointservices.com
 stats.roddewig-online.de
