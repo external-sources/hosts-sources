@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 30 Apr 2024 04:57:57 +0000
+# Last converted - Tue, 30 Apr 2024 08:57:52 +0000
 #
 
 doostozoa.net
@@ -61108,6 +61108,9 @@ ipsoazr.icu
 xxsmad1.com
 dadxnl.xyz
 uvklgw.xyz
+kweriod.top
+ukgfniu.cn
+sifuwei.com
 zjrtxt.xyz
 znhlxvb.xyz
 zojyob.icu
