@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 01 May 2024 08:58:23 +0000
+# Last converted - Wed, 01 May 2024 13:01:13 +0000
 #
 
 leveryone.info
@@ -41298,6 +41298,7 @@ ca3d.site
 d84bc26d.site
 e076.xyz
 e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
+ec44.site
 f6176563.site
 fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz
 ad.lgappstv.com
@@ -61185,6 +61186,9 @@ zpplsii.xyz
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
+kovvild.com
+fkhxlz.xyz
+ghabnq.xyz
 zuvbzl.xyz
 zwxxcb.icu
 zxfdbr.xyz

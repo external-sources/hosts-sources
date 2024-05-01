@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Wed, 01 May 2024 08:59:29 +0000
+# Last converted - Wed, 01 May 2024 13:01:54 +0000
 #
 
 realcartest.onesignal.com
