@@ -1,9 +1,11 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Wed, 01 May 2024 16:59:11 +0000
+# Last converted - Wed, 01 May 2024 20:59:05 +0000
 #
 
+real-buy.rentshop.org
+realcanadiansuperstore.ca.ssl.sc.omtrdc.net
 realcartest.onesignal.com
 realcastmedia.com
 realcelebrityphonenumber.com
