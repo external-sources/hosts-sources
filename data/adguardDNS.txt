@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 02 May 2024 16:58:05 +0000
+# Last converted - Thu, 02 May 2024 20:57:47 +0000
 #
 
+me7x.site
 wrqtcoxjw.com
 atlxpstsf.com
 lxnkuie.com
@@ -47065,6 +47066,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+sgmcdn.racingpost.com
 logs.8thwall.com
 ingest.make.rvohealth.com
 segment-api.goodrx.com
@@ -51397,6 +51399,7 @@ za.zalo.me
 xad.dnoticias.pt
 adclient-uol.lp.uol.com.br
 adv.r7.com
+lyappreciat.info
 adzonestatic.com
 adzep.com.br
 nobeta.com.br
@@ -61238,6 +61241,7 @@ uoosqk.xyz
 jsxwfb.xyz
 eweriow.top
 udxhzqg.cn
+pqzjki.cn
 zuvbzl.xyz
 zwxxcb.icu
 zxfdbr.xyz
