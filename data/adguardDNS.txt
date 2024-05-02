@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 02 May 2024 04:58:00 +0000
+# Last converted - Thu, 02 May 2024 08:58:06 +0000
 #
 
 ad.yieldmanager.com
@@ -61215,6 +61215,12 @@ zpplsii.xyz
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
+upailek.cn
+vuyibsm.icu
+uoosqk.xyz
+jsxwfb.xyz
+eweriow.top
+udxhzqg.cn
 zuvbzl.xyz
 zwxxcb.icu
 zxfdbr.xyz
