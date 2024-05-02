@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 01 May 2024 20:58:58 +0000
+# Last converted - Thu, 02 May 2024 01:42:39 +0000
 #
 
 01counter.com
@@ -14492,6 +14492,7 @@ campaigns.reuter-training.de
 campaigns.ssi-schaefer.com
 campaign.stala.com
 campaigns.yotta.com
+cam-pixel-tracker-prod.azure-api.net
 campus.english-innovations.com
 canada.schoolspecialtynews.com
 canddi.com
@@ -17436,6 +17437,7 @@ dccss.banggood.com
 dcdd29eaa743c493e732-7dc0216bc6cc2f4ed239035dfc17235b.ssl.cf3.rackcdn.com
 dc.definedcrowd.com
 d.cdngeek.com
+dcheqjwqu4.mlb.com
 dcmn.com
 dcmn.io
 dcp-analytics.com
