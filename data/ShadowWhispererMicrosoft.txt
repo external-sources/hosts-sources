@@ -1,7 +1,7 @@
 # ShadowWhispererMicrosoft
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
-# Last converted - Thu, 02 May 2024 16:58:40 +0000
+# Last converted - Thu, 02 May 2024 20:58:22 +0000
 #
 
 a-0003.a-msedge.net
@@ -251,7 +251,6 @@ snoop.minecraft.net
 southafricanorth.api.cognitive.microsoft.com
 southcentralus.api.cognitive.microsoft.com
 southeastasia.api.cognitive.microsoft.com
-spoppe-b.azureedge.net
 spo-ring.msedge.net
 spynet2.microsoft.com
 spynetalt.microsoft.com
