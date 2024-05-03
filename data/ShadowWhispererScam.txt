@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Thu, 02 May 2024 20:58:22 +0000
+# Last converted - Fri, 03 May 2024 01:45:25 +0000
 #
 
 007-dvd.com
@@ -6031,6 +6031,7 @@ info-drivers.ru
 info-fetish-singles.com
 info-maturespace.com
 info-milfme.com
+info-milfplace.com
 info-moredates.com
 info-mydates.com
 info-only-men.com
