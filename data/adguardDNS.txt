@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 03 May 2024 04:57:50 +0000
+# Last converted - Fri, 03 May 2024 08:58:05 +0000
 #
 
 me7x.site
@@ -5999,6 +5999,7 @@ bigvids.online
 bigvids.space
 bihake.com
 bihunekus.com
+bihussufoob.net
 bijouremudas.space
 bijwehk.com
 bijxpjgtdrgk.com
@@ -27632,6 +27633,7 @@ powrpvuruejv.com
 poxaharap.com
 poxcgxylozny.com
 poxykhakis.com
+poxypicine.com
 poyqmngbxwsvnav.xyz
 poyusww.com
 pp2ppsch1hount1hf.com
@@ -30190,6 +30192,7 @@ rinceaskedase.com
 rincipledecli.info
 rinddelusional.com
 ringashewasfl.info
+ringermuggish.com
 ringexpressbeach.com
 ringsempty.com
 ringtonepartner.com
@@ -41331,7 +41334,6 @@ googlevads-cn.com
 b211.xyz
 b59c.xyz
 b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online
-bamgosu.site
 bcbe.site
 ca3d.site
 d84bc26d.site
@@ -41341,7 +41343,6 @@ ec44.site
 f090.site
 f6176563.site
 fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz
-ygosu.com
 ad.lgappstv.com
 ad.nettvservices.com
 ads.samsung.com
@@ -61256,6 +61257,12 @@ jsxwfb.xyz
 eweriow.top
 udxhzqg.cn
 pqzjki.cn
+fluxy.cn
+onosyej.icu
+gamdus.xyz
+rczudr.xyz
+tquspo.com
+wwerioe.top
 zuvbzl.xyz
 zwxxcb.icu
 zxfdbr.xyz
