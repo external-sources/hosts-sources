@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Fri, 03 May 2024 13:00:46 +0000
+# Last converted - Fri, 03 May 2024 16:58:39 +0000
 #
 
 010.at
@@ -478,6 +478,7 @@ cplay.top
 cpl.so
 cptl.me
 cp.tx.group
+creativ.li
 cr.ma
 crnw.uk
 croc.global
@@ -1542,6 +1543,7 @@ sbsb.kr
 s.bts-ev.de
 sbwiki.site
 sc1o.com
+s.cdw.ro
 sci-tv.xyz
 sclix.com
 s.coccoc.com

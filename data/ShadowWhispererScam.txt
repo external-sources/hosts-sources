@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Fri, 03 May 2024 13:00:44 +0000
+# Last converted - Fri, 03 May 2024 16:58:37 +0000
 #
 
 007-dvd.com
@@ -1185,6 +1185,7 @@ bcasse-tg.com
 bcvc.com
 bdpfinance.com
 bdsmattitude.com
+bdsmbliss.com
 bdsmkontakt.sk
 bdsmrencontres.com
 bdsmsexdates.com
@@ -3225,6 +3226,7 @@ dealpathtrk.com
 dealsaverpro.com
 deanbritishshorthairkittens.com
 dearuog.us
+debadibux.info
 debbieandrexpattersonteacupyorkiepuppiesforrehoming.com
 debraboxerpuppieshome.com
 debtpaygateway.com
@@ -12782,6 +12784,7 @@ xtremeprosupply.com
 xxx666.de
 xxx900.de
 xxxcore.de
+xxxdirect.com
 xxx-hog.com
 xxxhog.com
 xxxmax.de
