@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Thu, 02 May 2024 20:58:23 +0000
+# Last converted - Fri, 03 May 2024 01:45:26 +0000
 #
 
 01counter.com
@@ -18184,6 +18184,7 @@ dsmstats.com
 d.sourcepoint.smoothradio.com
 dsp.io
 dsppixel.pinbn.net
+dss0.baidu.com
 dss.platform.californiatimes.com
 dstillery.com
 dsw0trk.com
@@ -21804,6 +21805,8 @@ hoverowl.com
 howmachineswork.com
 howuku.com
 hpanalytics.net
+hpdaas.com
+hpd.baidu.com
 hpiresearch.com
 hqcdn.hqsmartcloud.com
 hql.technologyadvice.com
@@ -47525,6 +47528,7 @@ scirus.com
 scissorsstatement.com
 scite.site
 sc.kidschoiceawards.com
+sclick.baidu.com
 sc.metrics-shell.com
 scmetrics.vodafone.it
 scm-solutions.siemens-digital-logistics.com
@@ -48034,6 +48038,7 @@ seniorliving.lcsnet.com
 senpulse.com
 sense360.com
 sense360eng.com
+sensearch.baidu.com
 sensic.net
 sensor.grubhub.com
 sensors.binance.cloud
@@ -52523,6 +52528,8 @@ southernlinc.silentpassenger.com
 southwatts.com
 sowa.carhartt.com
 sowlettuce.com
+sp1.baidu.com
+sp2.baidu.com
 spacesolution.wakasugi-bldg.jp
 spadelocket.com
 spamanalyst.com
@@ -64237,6 +64244,7 @@ tel.telegraaf.nl
 t.emails.midwayusa.com
 temelio.com
 tempertrick.com
+tempo-client-metric-prod.s3.amazonaws.com
 temptrack.highwaytransport.com
 tempttalk.com
 temptteam.com

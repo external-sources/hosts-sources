@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Thu, 02 May 2024 20:58:21 +0000
+# Last converted - Fri, 03 May 2024 01:45:22 +0000
 #
 
 00px.net
@@ -6212,6 +6212,7 @@ amxrtb.com
 amyfc.link
 a.myhistory-mylive-mylove.site
 analik.icu
+analiticsworld.com
 analitycs.net
 anandadvertising.com
 anastasiasaffiliate.com
@@ -6697,6 +6698,7 @@ ba-content.de
 badcdnusa.com
 bader-rutter.com
 baderrutter.com
+badge.facebook.com
 badges.beyondsecurity.com
 badges.fuelly.com
 badges.softwareadvice.com
