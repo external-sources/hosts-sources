@@ -1,9 +1,15 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Fri, 03 May 2024 16:58:44 +0000
+# Last converted - Fri, 03 May 2024 20:58:45 +0000
 #
 
+real.sp.analytics.yahoo.com
+real.tanninglotions.org
+realactionphotos.ca
+realads.com
+realalt.com
+realaudio.cimedia.net
 realave.com
 realbannerads.com
 realbid.brealtime.com
@@ -8529,7 +8535,6 @@ rock2.directprimal.com
 rock.adpiano.com
 rock.cryptaloot.pro
 rock.cryptoloot.pro
-rock.directprimal.com
 rock.reauthenticator.com
 rock.webmine.pro
 rockabox.co
@@ -110208,6 +110213,7 @@ ws003.hemnes.win
 ws03.home.sapo.pt
 ws3.hotjar.com
 ws3.minr.pw
+ws3.statistic.date
 ws3.tapjoyads.com
 ws3.trafficstars.com
 ws003.www.datasecu.download
@@ -110372,6 +110378,7 @@ ws023.www.datasecu.download
 ws023.www.jqwww.download
 ws23-live.live.eks.hotjar.com
 ws023-proxy-ajcryptominer.ajplugins.com
+ws24.crypto.csgocpu.com
 ws24.crypto-loot.com
 ws024.hemnes.win
 ws24.hotjar.com
@@ -110466,6 +110473,7 @@ ws46.crypto-loot.com
 ws47.crypto-loot.com
 ws48.crypto.csgocpu.com
 ws48.crypto-loot.com
+ws49.crypto.csgocpu.com
 ws49.crypto-loot.com
 ws50.crypto.csgocpu.com
 ws50.crypto-loot.com
@@ -140071,6 +140079,7 @@ www.cleanuninstall.com
 www.clearadnetwork.com
 www.clearbit.com
 www.clearbot.com
+www.clearcomb.com
 www.clearlakecinema.com
 www.clearonclick.com
 www.clear-request.com
@@ -146685,6 +146694,7 @@ www.jav-library.com
 www.javlibrary.online
 www.javlibrary.org
 www.javlibrary.xyz
+www.jav-link.com
 www.javlink.net
 www.jav-load.com
 www.jav-lover.com
@@ -157052,6 +157062,7 @@ www.versee.dnset.com
 www.versew.dnset.com
 www.versizon.com
 www.versonwireless.com
+www.vertadnet.com
 www.vertamedia.com
 www.vertelevisiongratis.info
 www.verthewalkingdeadonline.info
@@ -157598,6 +157609,7 @@ www.webpinp.com
 www.webpostzz.000webhostapp.com
 www.webpushr.com
 www.web-ranking.info
+www.web-redirecting.com
 www.webredirect-secure001.dnset.com
 www.webredirect-secure01.dnset.com
 www.webredirect-secure.dnset.com
