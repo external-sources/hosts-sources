@@ -1,10 +1,9 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sat, 04 May 2024 16:58:41 +0000
+# Last converted - Sat, 04 May 2024 20:58:24 +0000
 #
 
-real.sp.analytics.yahoo.com
 real.tanninglotions.org
 realactionphotos.ca
 realads.com
@@ -8535,6 +8534,7 @@ rock2.directprimal.com
 rock.adpiano.com
 rock.cryptaloot.pro
 rock.cryptoloot.pro
+rock.directprimal.com
 rock.reauthenticator.com
 rock.webmine.pro
 rockabox.co
@@ -10047,7 +10047,6 @@ royale.rudrawebtech.com
 royale-bintang-hotel.com
 royaleducations.com.auapp.adjust.com
 royalegenerator.net
-royale-ssl.spongecell.com
 royalestate.com.pl
 royalet.drupalet.com
 royalfarm.customlinks.appsflyer.com
@@ -20314,6 +20313,7 @@ sea.advertising.yahoo.com
 sea.aimon.gsm.applicationinsights.io
 sea.cryptaloot.pro
 sea.cryptoloot.pro
+sea.directprimal.com
 sea.effectivemeasure.net
 sea.net.edu.cn
 sea.openxmarket.asia
@@ -75763,7 +75763,6 @@ trail.smart-traffik.io
 trail.viewdeos.com
 trailblazers.122.2o7.net
 trailculture.com.au
-traildelsfars.com
 traileraddict.us.intellitxt.com
 trailerbright.com
 traileroutlet.reachlocal.com
@@ -105587,7 +105586,6 @@ welton.dnset.com
 weltonline01.webtrekk.net
 weltsparen.pxf.io
 weltsparenat.pxf.io
-welved.com
 wel-wel-fie.com
 welzfargos.webcindario.com
 wem4.000webhostapp.com
@@ -134961,6 +134959,7 @@ www.aamiami.org
 www.aampr.org
 www.aanqylta.com
 www.aa-oc.org
+www.aapz.com
 www.aar.gr.com
 www.aarbur.com
 www.aaronabel.com
@@ -140079,7 +140078,6 @@ www.cleanuninstall.com
 www.clearadnetwork.com
 www.clearbit.com
 www.clearbot.com
-www.clearcomb.com
 www.clearlakecinema.com
 www.clearonclick.com
 www.clear-request.com
@@ -145944,6 +145942,7 @@ www.idiotenapostroph.org
 www.idirect.com
 www.idkom.com
 www.idm.ad.gt
+www.ido3.com
 www.idolax.com
 www.idolhairsalon.com
 www.idolhot.org
@@ -146228,6 +146227,7 @@ www.innersecrets.leadpages.co
 www.innity.com
 www.innity.net
 www.innocent.gr.com
+www.innocnt.com
 www.innocraft.com
 www.innographx.com
 www.innovateads.com
@@ -146650,6 +146650,7 @@ www.javarchive.biz
 www.javarchive.net
 www.javascriptobfuscator.com
 www.jav-av.com
+www.javawake.com
 www.javbaike.com
 www.javbee.org
 www.javbit.com
@@ -157062,7 +157063,6 @@ www.versee.dnset.com
 www.versew.dnset.com
 www.versizon.com
 www.versonwireless.com
-www.vertadnet.com
 www.vertamedia.com
 www.vertelevisiongratis.info
 www.verthewalkingdeadonline.info
@@ -157296,7 +157296,6 @@ www.voicefive.com
 www.voicemail.co.il
 www.voip.recs.shareaholic.com
 www.vokr-gtavc.ic.cz
-www.volantix.com
 www.volgatermolazer.ru
 www.volleyball-doppeldorf.de
 www.voltairnet.org
@@ -157609,7 +157608,6 @@ www.webpinp.com
 www.webpostzz.000webhostapp.com
 www.webpushr.com
 www.web-ranking.info
-www.web-redirecting.com
 www.webredirect-secure001.dnset.com
 www.webredirect-secure01.dnset.com
 www.webredirect-secure.dnset.com
@@ -162746,7 +162744,6 @@ xmr.co
 xmr.cool
 xmr.cpufan.club
 xmr.cryptonoter.com
-xmr.crypto-pool.fr
 xmr.ctkj.org
 xmr.omine.org
 xmradioca.7eer.net
