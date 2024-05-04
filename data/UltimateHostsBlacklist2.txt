@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sat, 04 May 2024 01:41:00 +0000
+# Last converted - Sat, 04 May 2024 04:58:17 +0000
 #
 
 real.sp.analytics.yahoo.com
