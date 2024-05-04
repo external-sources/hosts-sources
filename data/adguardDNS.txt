@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 04 May 2024 04:57:37 +0000
+# Last converted - Sat, 04 May 2024 08:57:43 +0000
 #
 
 iedprivatedqu.com
@@ -26093,6 +26093,7 @@ paibopse.com
 paicepte.xyz
 paichaus.com
 paid.outbrain.com
+paigarohauja.com
 paigna.com
 paikoasa.tv
 paikoaza.net
@@ -40476,6 +40477,7 @@ bestcontentsoftware.top
 bestdeals.ws
 bestforexpartners.com
 besthitsnow.com
+bestodds.com
 bestofferdirect.com
 bestonlinecoupons.com
 bet3000partners.com
@@ -41168,7 +41170,6 @@ spyoff.com
 starlayer.com
 starti.pl
 statsperformdev.com
-stay22.com
 stocker.bonnint.net
 stratos.blue
 streamdefence.com
@@ -61278,6 +61279,8 @@ hlegsdh.icu
 azkrya.xyz
 rmbvzh.xyz
 eyuwkbw.top
+qwerioy.top
+mercor.cn
 zuvbzl.xyz
 zwxxcb.icu
 zxfdbr.xyz
