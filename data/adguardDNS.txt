@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 03 May 2024 20:58:02 +0000
+# Last converted - Sat, 04 May 2024 01:40:20 +0000
 #
 
 iedprivatedqu.com
@@ -61273,6 +61273,11 @@ zpplsii.xyz
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
+rupmlh.cn
+hlegsdh.icu
+azkrya.xyz
+rmbvzh.xyz
+eyuwkbw.top
 zuvbzl.xyz
 zwxxcb.icu
 zxfdbr.xyz
