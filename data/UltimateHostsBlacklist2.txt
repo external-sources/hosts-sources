@@ -1,9 +1,12 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sun, 05 May 2024 16:58:49 +0000
+# Last converted - Sun, 05 May 2024 20:58:38 +0000
 #
 
+real.recommendation.api.gemini.yahoo.com
+real.sandbox-api.gemini.yahoo.com
+real.sp.analytics.yahoo.com
 real.tanninglotions.org
 realactionphotos.ca
 realads.com
@@ -8534,7 +8537,6 @@ rock2.directprimal.com
 rock.adpiano.com
 rock.cryptaloot.pro
 rock.cryptoloot.pro
-rock.directprimal.com
 rock.reauthenticator.com
 rock.webmine.pro
 rockabox.co
@@ -20313,7 +20315,6 @@ sea.advertising.yahoo.com
 sea.aimon.gsm.applicationinsights.io
 sea.cryptaloot.pro
 sea.cryptoloot.pro
-sea.directprimal.com
 sea.effectivemeasure.net
 sea.net.edu.cn
 sea.openxmarket.asia
@@ -69366,6 +69367,7 @@ thor.awtank.com
 thor.bankofamfrica.com
 thor.beck-technologies.com
 thor.bellsourth.com
+thor.blindferret.media
 thor.blueshielsca.com
 thor.bodenmarkt.info
 thor.bravenet.com
@@ -70048,6 +70050,7 @@ ticmate.co.il
 ticonmamad.libraries.co.il
 ticonsalope.000webhostapp.com
 tic-parchi.com
+tics.techdirt.com
 ticstars.com
 tictacti.adk2x.com
 tic-tic-bam.com
@@ -104961,6 +104964,7 @@ webtoolsrooingdengincco.000webhostapp.com
 webtoolsx.brandreachsys.com
 webtop.acxiom.com
 webtracker.apicasystem.com
+webtracker.jp
 webtrackerplus.com
 webtracktechnologies.com
 webtracky.com
@@ -133903,7 +133907,6 @@ www.1dab4jpeoqnyfybwt5wn2b5j9c.hop.clickbank.net
 www.1dpl7qeutjlfemt.brucele.adx1.com
 www.1ejaculationinterne.com
 www.1finalmovie.info
-www.1forced.com
 www.1freecounter.com
 www.1-free-share-buttons.com
 www.1girl1pitcher.com
@@ -133989,7 +133992,6 @@ www.2kmovie.org
 www.2kporn.com
 www.2leep.com
 www.2manshow.com
-www.2mouses.com
 www.2mycomputer.com
 www.2n2qlh5hqcwrvo.net
 www.2no.co
@@ -134959,7 +134961,6 @@ www.aamiami.org
 www.aampr.org
 www.aanqylta.com
 www.aa-oc.org
-www.aapz.com
 www.aar.gr.com
 www.aarbur.com
 www.aaronabel.com
@@ -134997,7 +134998,6 @@ www.abcsex.dk
 www.abctoppictures.net
 www.abcya2.org
 www.abcyoutube.com
-www.abdlphone.com
 www.abdumusic.com
 www.abeautifulpool.com
 www.abedwest.com
@@ -136236,7 +136236,6 @@ www.airindiasats.com
 www.airiscdp.appier.com
 www.airjordanfusions.com
 www.airmore.pl
-www.airpb.com
 www.airportsys.com
 www.airpr.com
 www.airpush.com
@@ -136302,7 +136301,6 @@ www.akwadrago.pl
 www.al.resulticks.com.re.getclicky.com
 www.alabangautoexchange.com
 www.alabaster-steel-hawthorn.glitch.me
-www.alamosupply.com
 www.alamuk.com
 www.alan.totalh.net
 www.alanjula.pl
@@ -136673,14 +136671,12 @@ www.analytics-iq.com
 www.analyticson.com
 www.analytics-prod-m6tmapkf3q-uc.a.run.app
 www.analytics-testing-api-osybghtozq-ew.a.run.app
-www.ananashotel.com
 www.anarsi.info
 www.anash.info
 www.anastasiasaffiliate.com
 www.anate.money-for-you-2021.ru
 www.anatol.com
 www.anatomytrains.co.uk
-www.anbstudios.com
 www.ancestrymsn.112.2o7.net
 www.and-4ever.blogspot.com
 www.and.co.uk
@@ -137463,7 +137459,6 @@ www.avoidaroid.com
 www.avotaku.com
 www.avpanel.com
 www.avpapa.com
-www.avpayments.com
 www.avpt.info
 www.avpv-test.dnset.com
 www.avrakougioumtzi.gr
@@ -140353,7 +140348,6 @@ www.coincasso.io
 www.coincassogroup.com
 www.coindeskoption.com
 www.coinerra.com
-www.coingive.com
 www.coin-have.com
 www.coinhits.com
 www.coin-hive.com
@@ -140361,7 +140355,6 @@ www.coinhive.com
 www.coinhive.net
 www.coinhive.org
 www.coinhiver.com
-www.coinhives.com
 www.coinhub.win
 www.coinimp.com
 www.coinimp.net
@@ -140514,7 +140507,6 @@ www.comscoreresearch.com
 www.comsprague.com
 www.comsss-56.com
 www.com-support.id
-www.comsysnet.com
 www.comune.localfarmersdelivery.com
 www.comwgi.com
 www.comxcast.net
@@ -142993,7 +142985,6 @@ www.etain.info
 www.etarget.sk
 www.etarin.info
 www.et-code.ru
-www.etemis.com
 www.ethaiinfo.com
 www.ethairdrops.com
 www.ethan.wang
@@ -144709,7 +144700,6 @@ www.godsadvice.com
 www.godspeakstoday.info
 www.gofatty.net
 www.gofreeradio.com
-www.gofun.info
 www.goggl.com
 www.goggle.com
 www.gogglegame.com
@@ -145786,7 +145776,6 @@ www.hughesbet.com
 www.hugoboss.dev.metalyzer.com
 www.hugogirard.leadpages.co
 www.huisvrouwen.be
-www.hukbo.com
 www.hull.io
 www.hulu.hb.omtrdc.net
 www.humanainc.com
@@ -157296,6 +157285,7 @@ www.voicefive.com
 www.voicemail.co.il
 www.voip.recs.shareaholic.com
 www.vokr-gtavc.ic.cz
+www.volantix.com
 www.volgatermolazer.ru
 www.volleyball-doppeldorf.de
 www.voltairnet.org
