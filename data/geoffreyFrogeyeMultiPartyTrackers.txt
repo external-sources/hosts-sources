@@ -1,7 +1,7 @@
 # geoffreyFrogeyeMultiPartyTrackers
 #
 # Converted from - https://hostfiles.frogeye.fr/multiparty-trackers.txt
-# Last converted - Sun, 05 May 2024 08:58:32 +0000
+# Last converted - Sun, 05 May 2024 12:59:42 +0000
 #
 
 00f6375dd2e616d73649085c58dfed384fabe07a.cws.conviva.com
