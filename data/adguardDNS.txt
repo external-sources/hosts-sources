@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 06 May 2024 08:58:24 +0000
+# Last converted - Mon, 06 May 2024 13:01:50 +0000
 #
 
+advertsource.co.uk
 iedprivatedqu.com
 stownrusis.com
 ebaticalfel.com
@@ -41480,6 +41481,7 @@ googlevads-cn.com
 b211.xyz
 b59c.xyz
 b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online
+b9f25b.site
 bcbe.site
 ca3d.site
 d84bc26d.site
@@ -47229,6 +47231,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+collect.alphastream.io
 sid.nordstrom.com
 amethyst.zappos.com
 sgmcdn.racingpost.com
@@ -50184,7 +50187,6 @@ cnt.mastorage.net
 cod.bitrec.com
 collect-ap2.attraqt.io
 collect-eu.attraqt.io
-collect.alphastream.io
 collect.analyse.lnearn.com
 collect.bannercrowd.net
 collect.cloudsponge.com
@@ -60628,6 +60630,7 @@ hgfutf.xyz
 yxgqgq.xyz
 sxoejoc.icu
 verstug.cn
+muntfd62.shop
 uweriot.top
 0322cfmtl.cc
 0940088.com
