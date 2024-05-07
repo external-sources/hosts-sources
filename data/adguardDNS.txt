@@ -1,9 +1,14 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 07 May 2024 08:57:58 +0000
+# Last converted - Tue, 07 May 2024 12:58:30 +0000
 #
 
+pjagilteei.com
+tjtmjjigtdoah.com
+odssyvfqrlwwj.com
+houboajaithu.net
+nderpurganismpr.info
 hborq.com
 oszlnxwqlc.com
 fkodq.com
@@ -32906,7 +32911,6 @@ sportzflix.xyz
 spotbeepgreenhouse.com
 spotdimesulky.com
 spotlessabridge.com
-spotlightstores.com
 spotofspawn.com
 spotrails.com
 spotscenered.info
@@ -40555,6 +40559,7 @@ afyads.com
 ahvclick.com
 aim4media.com
 ainsyndication.com
+airfind.com
 akavita.com
 aklamator.com
 alienhub.xyz
@@ -41497,6 +41502,7 @@ googlevads-cn.com
 3a2e.site
 48a16802.site
 4a0e.xyz
+4aae8f.site
 4e55.xyz
 4e68.xyz
 58e0.site
@@ -51695,6 +51701,9 @@ solution911.com
 templates.buscape.com
 yestorrents.org
 oecistbenton.com
+tzbirdcod.com
+audiotouch.info
+videotouch88.info
 ippunet.site
 ssrv7.com
 zszhfffyd.ru
@@ -53735,6 +53744,7 @@ vw.onlinia.net
 exchange.informer.ua
 hdvmyo.com
 adsy.mail.bg
+yonderdim.com
 gr.hdream.cfd
 kriptoparahaber.care
 alty.fun
