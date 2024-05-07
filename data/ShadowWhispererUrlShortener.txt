@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Tue, 07 May 2024 01:45:05 +0000
+# Last converted - Tue, 07 May 2024 04:58:37 +0000
 #
 
 010.at
@@ -857,6 +857,7 @@ indtr.ee
 inf.money
 inf.so
 infs.site
+in.gl
 in.mt
 inmusic.to
 insdr.life
@@ -1766,6 +1767,7 @@ splitterhq.com
 spx.re
 spyw.com
 squadgen.com
+squeez.org
 sr23.ru
 sresc.io
 srturl.cc

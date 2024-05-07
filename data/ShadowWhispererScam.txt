@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Tue, 07 May 2024 01:45:04 +0000
+# Last converted - Tue, 07 May 2024 04:58:35 +0000
 #
 
 007-dvd.com
@@ -1165,6 +1165,7 @@ basiccharm.online
 basicion.com
 bassethoundfamily.org
 basurtoranchoftexas.com
+batdongsannew.info
 batefood.com
 batesmaltesehome.com
 batonrougereporter.com
@@ -3742,6 +3743,7 @@ easyrobux.site
 easysexcontacts.com
 easywayexpressservice.com
 easyzmenki.com
+eatdom.top
 eat-rainbow.com
 eazenote.com
 eazydriverprinter.com
@@ -10169,6 +10171,7 @@ santacruzstandard.com
 santafestandard.com
 santandetrustplc.com
 santastee.com
+santedeplus.info
 santolicat.com
 saparrotsbreeders.com
 sapopod.com
@@ -10267,6 +10270,7 @@ seawidecloud.com
 sea-wider.net
 sebenzacontainersolutions.co.za
 sebluegrassnews.com
+sebypodcast.info
 seciong.com
 secoloradonews.com
 seconthuht.com
@@ -11797,6 +11801,7 @@ topweeddelivery.com
 topweedsuppliers.com
 toramonlinegame.com
 torinland.com
+tornth.top
 torontobusinessdaily.com
 tortoisecityinc.com
 tortoiseforsaleonline.com
