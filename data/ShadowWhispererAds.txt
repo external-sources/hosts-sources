@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Tue, 07 May 2024 12:59:02 +0000
+# Last converted - Tue, 07 May 2024 16:58:30 +0000
 #
 
 00px.net
@@ -9688,8 +9688,10 @@ gamebassadors.net
 gamepills.com
 gamersad.com
 gamescdnfor.com
+gamescdnshop.com
 gameserverads.com
 gamesfromheaven.com
+gameslivefor.com
 gamespipe.com
 gamesrevenue.com
 gamethrive.com
@@ -12476,6 +12478,7 @@ nextthursday.com.au
 nexus24.co.uk
 nexusmediamarketing.com
 nexus-soft.org
+nexxen.tech
 neyron.com
 nffkfg.com
 nfsuj.com
@@ -13433,6 +13436,7 @@ popt.in
 poptin.com
 poptival.com
 poptri.com
+popularairsoft.net
 popunder.bid
 popunder.net
 popunderonly.com

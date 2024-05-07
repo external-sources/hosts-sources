@@ -1,7 +1,7 @@
 # adguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Tue, 07 May 2024 12:58:30 +0000
+# Last converted - Tue, 07 May 2024 16:57:50 +0000
 #
 
 adx-open-service.youku.com
@@ -86,6 +86,7 @@ deapi.afreecatv.com
 startup.mobile.yandex.net
 startup.mobile.webvisor.com
 startup-mobile.ap.yandex-net.ru
+mediation.unity3d.com
 cdn-ad.wtzw.com
 appsrv.display.io
 ad.line-scdn.net
@@ -102,7 +103,6 @@ downloadshi.b-cdn.net
 ads.rmbl.ws
 adsassets-ipv6.waze.com
 iads.unity3d.com
-o-iab.mediation.unity3d.com
 togothermany.com
 gdl.zmqdez.ru
 rtblab.net

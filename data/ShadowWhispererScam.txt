@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Tue, 07 May 2024 12:59:04 +0000
+# Last converted - Tue, 07 May 2024 16:58:33 +0000
 #
 
 007-dvd.com
@@ -2407,6 +2407,7 @@ cheatinghousewife.com
 cheatinghousewives-nextdoor.com
 cheatingwives.com
 cheat.ru.com
+check-my-order.com
 checknock.com
 checkoutshirts.com
 cheebapot.com
@@ -9573,6 +9574,7 @@ quincyreporter.com
 quintrendy.com
 quisitio.com
 qvc-handbags.com
+qwdjxo.top
 qyffe.com
 rabattstoreus.com
 raccoonheaven.com

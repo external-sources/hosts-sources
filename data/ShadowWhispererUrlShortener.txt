@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Tue, 07 May 2024 12:59:06 +0000
+# Last converted - Tue, 07 May 2024 16:58:36 +0000
 #
 
 010.at
@@ -917,6 +917,7 @@ jppt.cc
 jsl1.in
 js.sa
 justreleased.site
+k2.ma
 k9.ms
 kaas.gg
 kabuzzle.com
@@ -1436,6 +1437,7 @@ quamiller.com
 quick.lt
 qutt.me
 qut.to
+qutt.us
 qvc-review.com
 qwhuihiah.com
 qzr1.com
