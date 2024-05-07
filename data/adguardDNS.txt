@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 06 May 2024 20:57:53 +0000
+# Last converted - Tue, 07 May 2024 01:44:26 +0000
 #
 
 hborq.com
@@ -61508,6 +61508,11 @@ zpplsii.xyz
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
+hpy9w.cn
+kjubky.xyz
+hqhspv.xyz
+lveodaz.icu
+oweriok.top
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
