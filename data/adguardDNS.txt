@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 07 May 2024 04:57:52 +0000
+# Last converted - Tue, 07 May 2024 08:57:58 +0000
 #
 
 hborq.com
@@ -50088,6 +50088,7 @@ analytics.fabricators.ltd
 analytics.facebook.com
 analytics.favcy.com
 analytics.firespring.com
+analytics.genial.ly
 analytics.groupe-seb.com
 analytics.gvim.mobi
 analytics.jazel.net
@@ -59238,6 +59239,7 @@ storehaiyen.com
 suachuadienmayxanh.com.vn
 suativinguyenkim.com
 subducgiare.shop
+suitablepartner.life
 sukiem-muahe-pubgmobilevn.com
 sukien-2021lmht.ga
 sukien-ff-garena.com
@@ -61513,6 +61515,7 @@ kjubky.xyz
 hqhspv.xyz
 lveodaz.icu
 oweriok.top
+pzfqzv.xyz
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
