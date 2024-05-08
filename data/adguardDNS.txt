@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 08 May 2024 16:58:04 +0000
+# Last converted - Wed, 08 May 2024 20:57:46 +0000
 #
 
 fnlojkpbe.com
@@ -61575,6 +61575,7 @@ lweriol.top
 nrbqgf.cn
 qmgria.cn
 robudpw.cn
+qmbdta.cn
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu

@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 08 May 2024 16:58:50 +0000
+# Last converted - Wed, 08 May 2024 20:58:21 +0000
 #
 
 01counter.com
@@ -1846,6 +1846,7 @@ aamt.nbcnews.com
 aamt.newsapp.telemundo.com
 aamt.today.com
 aanalytics.adelaide.edu.au
+aan.bellemaison.jp
 aandacht.uno-advies.nl
 a.anime1.me
 a.answers.com
@@ -2021,6 +2022,7 @@ acidicstraw.com
 acidpigs.com
 aciesanalyticsconsulting.com
 acint.net
+ackee.cap.cmd.pp.ua
 acksrc.chip.de
 a.clecenter.com
 a.clipdealer.com
@@ -17346,6 +17348,7 @@ data.flurry.com
 datafront.co
 datafuelx.com
 datafyhq.com
+data.gastfreund.net
 datagather.xsolla.com
 datagen.info
 data.getgist.com
@@ -20531,6 +20534,7 @@ geo.settings.data.microsoft.com.akadns.net
 geo.seznam.cz
 geo.shareably.net
 geostats.ovh
+geo.svc.ui.com
 geotargetly-1a441.appspot.com
 geotargetly-api-1.com
 geotargetly.co
@@ -27500,6 +27504,7 @@ lp.cellactpro.net
 lp.chemicaldaily.co.jp
 lp.chemicaldaily.com
 lp.clientcommand.com
+lp.club.costacoffee.in
 lp.crowd-realty.com
 lp.cscloud.co.jp
 lp.danpal.com
@@ -31714,6 +31719,7 @@ mdotlabs.com
 mdr.esentire.com
 mdsle.com
 mdstats.fr
+mdstats.info
 mdtp-a.akamaihd.net
 mdw.ac.at
 mdws.1stchoicesavings.ca
@@ -44415,6 +44421,7 @@ plausible.brainhurts.me
 plausible.buerobattenberg.de
 plausiblecable.com
 plausible.calin.cloud
+plausible.cap.cmd.pp.ua
 plausible.caprover.asciiarena.se
 plausible.captain.mc-duck.s-services.studid.io
 plausible.casualgaming.no
@@ -44442,6 +44449,7 @@ plausible.corp.black
 plausible.corp.zoo.dev
 plausible.corrgs.ca
 plausible.corsac.design
+plausible.corsme.com
 plausible.countina.io
 plausible.crstian.me
 plausible.cubecoders.com
@@ -45261,6 +45269,7 @@ publicsite-api.catholicunitedfinancial.org
 publisher-news.com
 publishers-on.com
 publytics.net
+pubmetrics.online
 pubocean.com
 pubperf.com
 pub.sensysnetworks.com
@@ -64055,9 +64064,11 @@ target.microsoft.com
 target.mixi.media
 target.nationwide.com
 target.newark.com
+target.onemarketinguxp.com
 targetoptions.com
 target.ramtrucks.com
 target.smi2.ru
+target.totalwine.com
 target.ukr.net
 target-us.samsung.com
 targit.com
@@ -64584,6 +64595,7 @@ tl.foxnews.com
 tlnk.io
 tlog.ir
 t.loopgift.com
+tl.outkick.com
 tlp.thelondonpaper.com
 t.lucentis.com
 t.lucentisdirect.com
@@ -65727,6 +65739,7 @@ trafficfacts.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
 trafficgateway.research-int.se
 trafficholder.com
+traffichounds.com
 trafficmanager.com
 trafficmob.net
 trafficmp.com
@@ -67453,6 +67466,7 @@ webstat.no
 webstat.pl
 webstat.rhrz.uni-bonn.de
 webstats.100procent.com
+webstats1.de
 webstats2.hkheadline.com
 webstats4u.com
 webstats.4youcard.at
@@ -67500,6 +67514,7 @@ webstats.volvopenta.com
 webstats.volvotrucks.com
 webstats.zbi.de
 webstat.uni-bielefeld.de
+web-status-count.com
 webstat.vodafone.com
 web.stridelearning.com
 web-suivis.ternum-bfc.fr
