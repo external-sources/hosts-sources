@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 08 May 2024 04:58:16 +0000
+# Last converted - Wed, 08 May 2024 08:57:42 +0000
 #
 
 fnlojkpbe.com
@@ -9189,6 +9189,7 @@ corsakpeize.com
 corvetwoorari.com
 corvinapaella.life
 corymbszinzar.com
+cosiequiapo.com
 cosmatitacker.top
 cosmeticlevy.com
 cosmeticsgenerosity.com
@@ -15504,6 +15505,7 @@ glouftarussa.xyz
 gloufteglouw.com
 gloumsee.net
 gloumsie.net
+glounugeepse.xyz
 glouseer.net
 gloussowu.xyz
 gloustoa.net
@@ -28523,6 +28525,7 @@ pueber.com
 puerq.com
 puerty.com
 puffexies.com
+puffingtiffs.com
 pugdisguise.com
 pugehjjxdr.xyz
 pughoomo.xyz
@@ -51641,6 +51644,7 @@ za.zalo.me
 xad.dnoticias.pt
 adclient-uol.lp.uol.com.br
 adv.r7.com
+assets.etus.digital
 lyappreciat.info
 adzonestatic.com
 adzep.com.br
@@ -56293,8 +56297,10 @@ log.baocaobang.vn
 log.baodatviet.vn
 log.baodauthau.vn
 log.baogialai.com.vn
+log.baolaocai.vn
 log.baonghean.vn
 log.baophapluat.vn
+log.baovanhoa.vn
 log.beecost.com
 log.beecost.vn
 log.bizlive.vn
@@ -61566,6 +61572,7 @@ wismog.xyz
 bydebd.xyz
 lweriol.top
 nrbqgf.cn
+qmgria.cn
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
