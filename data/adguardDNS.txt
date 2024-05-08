@@ -1,9 +1,23 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 07 May 2024 20:57:42 +0000
+# Last converted - Wed, 08 May 2024 01:27:23 +0000
 #
 
+fnlojkpbe.com
+rxvej.com
+gdecording.info
+rswhowishedto.info
+moetconfisk.top
+swapsprediet.top
+vocablyheir.top
+mfbarfvjk.com
+hcbjuiira.com
+nosuhplhkvvza.com
+ffqvjpkwe.com
+huapydce.xyz
+aseluosldtabi.com
+poshyouthfulton.com
 getadjacent.com
 pjagilteei.com
 tjtmjjigtdoah.com
@@ -905,6 +919,7 @@ hub.fghtem.com
 d71e6dd31a026d45.com
 adrunnr.com
 samsungtvads.com
+dre81lzpy0s7q.cloudfront.net
 d1nug4fmv8zva9.cloudfront.net
 d2g6dhcga4weul.cloudfront.net
 d2ier523in7agz.cloudfront.net
@@ -7866,6 +7881,7 @@ chainwalladsy.com
 chaiphuy.com
 chaiptefee.com
 chaiptut.xyz
+chaipungie.xyz
 chairgaubsy.com
 chairmansmile.com
 chairwaydenew.site
@@ -22282,6 +22298,7 @@ mbundabarony.top
 mbvfawgcsnukb.com
 mbvlmx.com
 mbvlmz.com
+mbvndisplay.site
 mbvsm.com
 mbxudcghfy.com
 mc7clurd09pla4nrtat7ion.com
@@ -25959,6 +25976,7 @@ overcrummythrift.com
 overdates.com
 overdonealthough.com
 overduerebukeloyal.com
+overduerole.com
 overestimateoption.com
 overestimateyearly.com
 overgalladean.com
@@ -31758,6 +31776,7 @@ sharegods.com
 shareitpp.com
 shareresults.com
 sharesceral.uno
+shareusads.com
 shareweeknews.com
 sharieta.com
 sharion.xyz
@@ -61540,6 +61559,13 @@ zpplsii.xyz
 zsjpi.cn
 zttuvj.xyz
 ztxjutz.xyz
+eoucxzw.icu
+fzasx.cn
+pajtll.xyz
+wismog.xyz
+bydebd.xyz
+lweriol.top
+nrbqgf.cn
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
