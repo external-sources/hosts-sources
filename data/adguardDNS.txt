@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 09 May 2024 04:57:54 +0000
+# Last converted - Thu, 09 May 2024 08:58:12 +0000
 #
 
 fnlojkpbe.com
@@ -55652,6 +55652,7 @@ b9645fef65.com
 bcajjtbzmdrl.com
 bubblekraken.com
 cea9d3d4f74fb831.com
+chitchooms.net
 chqspuonctkgz.com
 craydark.pw
 d0p21g2fep.com
@@ -61580,6 +61581,8 @@ pklujb.xyz
 nkbpft.xyz
 xmkmryu.icu
 iuqasw.xyz
+cgidskif.top
+54gtlb.cn
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
