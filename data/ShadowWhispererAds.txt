@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Thu, 09 May 2024 16:58:23 +0000
+# Last converted - Thu, 09 May 2024 20:58:34 +0000
 #
 
 00px.net
@@ -11015,6 +11015,7 @@ kingfish.fishing.net.nz
 kingyonlendir.link
 kinkadservercdn.com
 kinkledunendly.com
+kinktsy.com
 kiosked.com
 kip5j.com
 kipyn.com

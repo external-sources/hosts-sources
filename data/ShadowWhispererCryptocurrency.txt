@@ -1,7 +1,7 @@
 # ShadowWhispererCryptocurrency
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency
-# Last converted - Thu, 09 May 2024 16:58:23 +0000
+# Last converted - Thu, 09 May 2024 20:58:35 +0000
 #
 
 10xbitcoin.com
@@ -119,6 +119,7 @@ bitcoindiamond.org
 bitcoinflex.org
 bitcoin-india.org
 bitcoin.it
+bitcoinity.org
 bitcoinmono.io
 bitcoinofamerica.org
 bitcoin.org
