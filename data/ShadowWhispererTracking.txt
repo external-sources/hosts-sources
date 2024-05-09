@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 08 May 2024 20:58:21 +0000
+# Last converted - Thu, 09 May 2024 01:45:37 +0000
 #
 
 01counter.com
@@ -55817,6 +55817,7 @@ stats.apigrowth.net
 stats.api.kaminoguide.com
 stats.apis17.net
 statsapi.screen9.com
+stats-api.slashed.cloud
 stats.aplaceformom.com
 stats.apolearn.com
 stats.apollo-gaia.net
@@ -61416,6 +61417,7 @@ stats.skmg.fr
 stats.skybly.de
 stats.skyline-va.de
 stat-ssl.akiba-souken.com
+stats.slashed.cloud
 stats.slaughter.io
 stat-ssl.autoway.jp
 stats.slavoj.cz
