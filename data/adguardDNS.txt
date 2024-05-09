@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 09 May 2024 08:58:12 +0000
+# Last converted - Thu, 09 May 2024 13:01:10 +0000
 #
 
 fnlojkpbe.com
@@ -6635,6 +6635,7 @@ bouphaig.net
 bouptosaive.com
 bouqaiewfksqz.com
 bourbonlunches.com
+bourrepardale.com
 boustahe.com
 bouwehee.xyz
 bovategunrack.cfd
@@ -30335,6 +30336,7 @@ rinddelusional.com
 ringashewasfl.info
 ringermuggish.com
 ringexpressbeach.com
+ringingneo.com
 ringsempty.com
 ringtonepartner.com
 rinserbefore.com
@@ -41554,6 +41556,7 @@ e076.xyz
 e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
 ec44.site
 f090.site
+f2f8.xyz
 f6176563.site
 fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz
 ad.lgappstv.com
@@ -47303,6 +47306,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+stlog.dmarket.docomo.ne.jp
 stats.myserverhome.de
 amethyst.6pm.com
 lma.npaw.com
@@ -61232,7 +61236,6 @@ pmiskc.cn
 pmtrkp.icu
 pnxtnp.xyz
 polepole.cn
-polyfill.io
 pp1hl.xyz
 pqzjki.cn
 pressit.cn
@@ -61292,7 +61295,6 @@ retinaesprent.com
 rfnvqpo.xyz
 rghqrj.xyz
 rhzvlcu.xyz
-ringingneo.com
 riscil.com
 rjhbjv.xyz
 rkgbqn.icu
