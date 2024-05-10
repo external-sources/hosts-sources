@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Thu, 09 May 2024 20:58:37 +0000
+# Last converted - Fri, 10 May 2024 01:46:49 +0000
 #
 
 010.at
@@ -1139,6 +1139,7 @@ m5.lt
 maejo.link
 magnet-mind.com
 magybu.net
+maicowa.xyz
 makyo.io
 mamm.ie
 ma.my
@@ -1935,6 +1936,7 @@ track.joesdollars.com
 trackurl.link
 traffbe.com
 trafget.com
+trendingvideo.live
 trezurl.ir
 trimlink.co.uk
 trimlink.net

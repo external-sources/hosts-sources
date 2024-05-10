@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Thu, 09 May 2024 20:58:34 +0000
+# Last converted - Fri, 10 May 2024 01:46:45 +0000
 #
 
 00px.net
@@ -16694,6 +16694,7 @@ videobloom.com
 videobridge.tv
 videobyte.com
 videocdnfor.com
+videocdnmetrika.com
 videocdn.name
 videocdnshop.com
 videocx.com
