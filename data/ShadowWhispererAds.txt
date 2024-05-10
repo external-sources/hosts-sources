@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Fri, 10 May 2024 16:58:15 +0000
+# Last converted - Fri, 10 May 2024 20:58:26 +0000
 #
 
 00px.net
@@ -4322,6 +4322,7 @@ ads.motosiklet.net
 adsmovil.com
 ads.mp.pl
 ads.mrh.be
+ads.msn.com
 ads.mtfarm.co.id
 ads.mtgroup.kr
 ads.mtncompany.it
@@ -8490,6 +8491,7 @@ d3l320urli0p1u.cloudfront.net
 d3l739e8r8y9v7.cloudfront.net
 d3lcz8vpax4lo2.cloudfront.net
 d3m6sept6cnil5.cloudfront.net
+d3mr7y154d2qg5.cloudfront.net
 d3mzokty951c5w.cloudfront.net
 d3nvrqlo8rj1kw.cloudfront.net
 d3plfjw9uod7ab.cloudfront.net
@@ -10470,6 +10472,7 @@ imgbum.net
 imgbum.ru
 imgclasificados.emol.com
 img.go2s.co
+img.gokucdn.com
 imglnke.com
 img.realpython.net
 img-taboola.com
@@ -10633,6 +10636,7 @@ instinctiveads.com
 instinctive.io
 instreamatic.ai
 instreamatic.com
+instream.com
 instructiveengine.pro
 insurads.com
 int-agencies.com
@@ -11766,6 +11770,7 @@ mediavine.com
 mediavisionadvertising.com
 mediawayss.com
 mediaworksagency.com
+mediaxchange.co
 mediaxpedia.com
 mediaz.vn
 medicalads.cz
@@ -12251,6 +12256,7 @@ mystiqueja.com
 mystrongad.com
 mythings.com
 mywebwala.com
+mzulenef.com
 n0544.com
 n0566.com
 n0600.com
@@ -12785,6 +12791,7 @@ onads.dk
 onaugan.com
 onboard24.ru
 onclarck.com
+onclckbn.com
 onclickads.net
 onclickalgo.com
 onclickgenius.com
@@ -14490,6 +14497,7 @@ rogerssportsandmedia.com
 roigcommunications.com
 roinduk.com
 roivenue.com
+rollads.live
 rollerads.com
 rollmeout.xyz
 rollserver.xyz
@@ -16165,6 +16173,7 @@ traffic-masters.online
 traffic-media.co.uk
 traffic-monetizer.com
 trafficmoose.com
+trafficmotor.com
 trafficnomads.com
 trafficox.com
 trafficpimps.com
