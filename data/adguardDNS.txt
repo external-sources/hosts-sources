@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 11 May 2024 08:57:54 +0000
+# Last converted - Sat, 11 May 2024 12:59:42 +0000
 #
 
 buyvisblog.com
@@ -30986,6 +30986,7 @@ sabotedrecedes.com
 sabredbegulf.top
 sabrinacaulked.com
 sackbarngroups.com
+sackerskips.com
 sacquebenzine.com
 sacredperpetratorbasketball.com
 sacrificeaffliction.com
@@ -37121,6 +37122,7 @@ video-serve.com
 videoaccess.xyz
 videobaba.xyz
 videocampaign.co
+videocdnshop.com
 videosprofitnetwork.com
 videosworks.com
 videovard.sx
@@ -38427,6 +38429,7 @@ withholdrise.com
 withholdstandstill.com
 withinresentful.com
 withinsdraco.com
+withnimskither.com
 withoutcontrol.com
 witlayvet.com
 witnessedcompany.com
@@ -41576,6 +41579,7 @@ b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online
 b9f25b.site
 bcbe.site
 ca3d.site
+ca9246.xyz
 d84bc26d.site
 e076.xyz
 e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
@@ -61633,6 +61637,7 @@ feptbh.xyz
 igidskio.top
 adlhxwb.xyz
 6b856ee58e.com
+zrdga.cn
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
