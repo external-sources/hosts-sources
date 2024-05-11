@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Sat, 11 May 2024 13:00:26 +0000
+# Last converted - Sat, 11 May 2024 16:58:18 +0000
 #
 
 01counter.com
@@ -19082,6 +19082,7 @@ esprima.org
 esprssmrtn.com
 esriaustralia.com.au
 essentia-analytics.com
+essential-apps-analytics.herokuapp.com
 es.strategiced.com
 es.strayer.edu
 e.starbucks.com
@@ -19226,6 +19227,7 @@ events.benchevents.com
 events.betterhelp.com
 events.betterwild.com
 events.bettsrecruiting.com
+events.caffeine.tv
 events.cefpro.com
 events.centerfield.com
 events.cinemark.com
@@ -33154,6 +33156,7 @@ metrics.lifetime.life
 metrics.ligna.io
 metrics.lindt.one
 metrics.lisaangel.co.uk
+metrics.live.public.prod.ubiconnect.fleet.ubi.com
 metrics.lmtonline.com
 metrics.loblaws.ca
 metrics.lofbergslila.se
