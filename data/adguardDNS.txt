@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 10 May 2024 20:57:55 +0000
+# Last converted - Sat, 11 May 2024 01:42:11 +0000
 #
 
 buyvisblog.com
@@ -61625,6 +61625,11 @@ yssryr.cn
 88lm15.com
 iaosua.com
 djxzk.top
+osmzym.xyz
+jyqkijp.icu
+qweqd.cn
+lixonj.xyz
+feptbh.xyz
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
