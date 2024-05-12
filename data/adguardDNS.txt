@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 12 May 2024 16:58:10 +0000
+# Last converted - Sun, 12 May 2024 20:57:56 +0000
 #
 
 buyvisblog.com
@@ -56136,8 +56136,10 @@ ads.baohaiduong.vn
 ads.baotainguyenmoitruong.vn
 ads.bkitsoftware.com
 ads.businessstyle.vn
+ads.cadovn.biz
 ads.careerbuilder.vn
 ads.carmudi.vn
+ads.cdvn.vip
 ads.chanhtuoi.com
 ads.cungcau.vn
 ads.fpt.vn
@@ -56895,6 +56897,7 @@ chamsockhachang.com
 chamsockhachhangnanghanmuctindungmsb.com
 chamsocthekhachang-truc-tuyen.com
 chamsocthekhachhang-thang4.com.vn
+chamsocthekhachhang-thang4.online
 chanle79.me
 chanlemmo.com
 chanlemomo.cc
@@ -57060,6 +57063,7 @@ dhl-vietnam.vn
 dhlexpress-vietnam.com.vn
 dhlvietnam-express.vn
 dich-vu-dien-mayxanh.com
+dich-vu-kh-vip-vpbank.com
 dich-vu-kvip-vpbank.com
 dich-vu-online-vpbank.com
 dich-vu-the-ai-vpbank.com
@@ -57485,9 +57489,11 @@ hacktaikhoanfacebook.com
 haitacshopgame.com
 halovay.com
 hamoney.xyz
+han-muc-khcn-uu-tien-vna1.com
 handico.vaytienmat-nhanh24h.com
 hangairsoft.com
 hanghaiqt.com
+hanmucvn.com
 hbpnnz.cyou
 hdbankcareer.com
 hdbankfinancc.digital
@@ -57715,6 +57721,7 @@ khach-hang-ca-nhan-vip5.com
 khachhangvib-canhan.com
 khangdz215.tk
 khcn-han-muc-tin-dung-ca-nhan.com
+khcn-my-diamon-han-muc-uu-tien.com
 khcn-tindung-vp.com
 khcn-uu-tien-3fv-vib.com
 khoanhkhacgiadinhdoantucuoinam.weebly.com
@@ -57770,6 +57777,7 @@ ksdp997.com
 kstorybank.top
 ktien.vn
 kuyhaa-me.pw
+l-fb.co
 la533.com
 la7168.com
 la9435.com
@@ -58244,6 +58252,7 @@ nanghanmuc-vpb.online
 nanghanmucthe-thetindung.com
 nanghanmucthetindung247.com
 nanghanmucthevib.com
+nanghanmucvisa-vn.com
 nap-the.vn
 napallgame.com
 napasvidientu247.com
@@ -58831,7 +58840,6 @@ shbkhuyenmai.com
 shek66.com
 shilla.skrfgrl.cn
 shinhan.chamsoccanhankhachhangthe-tructuyen.online
-shinhan.chamsocthekhachhang-thang4.online
 shinhan.ho-tro-tin-dung-ca-nhan.com
 shinhan0.com
 shinhanapp.org
@@ -59465,8 +59473,10 @@ taixiumomo.me
 taixiumomo.net
 takk6.com
 tammenaa.com
+tang-han-muc-the-visa-vn.com
 tangcuongbanlinh.com
 tangcuongsinhluc.site
+tanghanmuc-vn.com
 tanglike.biz
 tanglikefree.online
 tangnickmienphi.com
@@ -59698,6 +59708,7 @@ tingiaitrian.com
 tingiovang777.com
 tingiovangvn.com
 tinhay24h.pro
+tinhothomnay.com
 tinhotnew.com
 tinlequa365.com
 tinlocvang123.com
@@ -60108,6 +60119,7 @@ vi.liveen.vn
 viashopee.com
 viaviet03.mobie.in
 vib-bank.com
+vib-mydiamon-khcn-uutien-vnc1.com
 vib-tindung-khcn.com
 vib-tindung.click
 vib-tindung.online
@@ -60116,11 +60128,9 @@ vib.chamsockhachang-tructuyen-the.online
 vib.chamsockhachang-tructuyen.online
 vib.chamsockhachhang-tructuyen-the-visa.com
 vib.chamsocthekhachang-tructuyen.com.vn
-vib.hanmucvn.com
 vib.khach-hang-the-tructuyen.com
 vib.khach-hang-the-tructuyen.online
 vib.mobi
-vib.tanghanmuc-vn.com
 vib.truc-tuyen-cham-socthekhachhang.com
 vib.tructuyen-chamsockhachang-the.com
 vib.tuvan-chamsockhachhang.com
@@ -60157,6 +60167,7 @@ vieclamonlineluongcao.com
 vieclamonlinetainha.com.vn
 vieclamshopee.com
 vieetcombank.com
+vieetcombiank.com
 vieitcombank.com
 vieittcombank.com
 viet-credit.com
@@ -60347,6 +60358,7 @@ vipshopee.cc
 vipshopee.com
 viptikivn.club
 virtuallaughing.com
+visa-mb.com
 visa-vpbank-uu-tien.com
 vitienonline88.com
 vitindungpgbank.com
@@ -60587,7 +60599,6 @@ vpb-hanmuc.com
 vpb-hanmuc.online
 vpb-nanghanmuc.com
 vpb-nanghanmuc.online
-vpb.tang-han-muc-the-visa-vn.com
 vpb.tanghanmucvisa-vn.com
 vpbank-vaytien.com
 vpbank.appvest.vn
@@ -60694,6 +60705,7 @@ wutienitme247.info
 wvietcombank.com
 wviietcombank.com
 wvvietcombank.com
+wvwfacebook.com
 wvwiietcoombank.com
 wwgfyvvdtmeq.pw
 www-fb.com
@@ -61659,6 +61671,7 @@ jgidskia.top
 fhvzrr.xyz
 mnpzrgz.xyz
 pwuxnr.cn
+lizijing12.top
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
