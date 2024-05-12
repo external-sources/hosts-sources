@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 12 May 2024 12:59:54 +0000
+# Last converted - Sun, 12 May 2024 16:58:10 +0000
 #
 
 buyvisblog.com
