@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 12 May 2024 08:57:58 +0000
+# Last converted - Sun, 12 May 2024 12:59:54 +0000
 #
 
 buyvisblog.com
@@ -43918,6 +43918,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+logger.torimochi-ad.net
 mainting-minues.xyz
 europe-west1-sonorous-dragon-276210.cloudfunctions.net
 antillephone.com
@@ -54206,7 +54207,6 @@ ads-lite.net
 blogparts.gcolle.net
 eisys-bcs.jp
 congrab.com
-torimochi-ad.net
 affiliates.expaus.in
 dep.tc
 r-ad.linkshare.jp
