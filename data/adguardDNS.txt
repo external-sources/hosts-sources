@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 12 May 2024 04:57:41 +0000
+# Last converted - Sun, 12 May 2024 08:57:58 +0000
 #
 
 buyvisblog.com
@@ -61658,6 +61658,7 @@ arkkcu.xyz
 jgidskia.top
 fhvzrr.xyz
 mnpzrgz.xyz
+pwuxnr.cn
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
