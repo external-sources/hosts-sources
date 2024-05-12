@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 11 May 2024 20:57:39 +0000
+# Last converted - Sun, 12 May 2024 01:49:16 +0000
 #
 
 buyvisblog.com
@@ -50283,6 +50283,7 @@ c3metrics.medifast1.com
 cache2.delvenetworks.com
 cahf4eed.mooo.com
 calltrack.co
+calvera-telemetry.polaris.me
 camel.headfarming.com
 capture-api.ap3prod.com
 capture.condenastdigital.com
@@ -61650,6 +61651,13 @@ feptbh.xyz
 igidskio.top
 adlhxwb.xyz
 zrdga.cn
+lmvotk.cn
+cwgucvm.icu
+forrzp.xyz
+arkkcu.xyz
+jgidskia.top
+fhvzrr.xyz
+mnpzrgz.xyz
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
