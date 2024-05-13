@@ -1,9 +1,14 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Mon, 13 May 2024 16:58:43 +0000
+# Last converted - Mon, 13 May 2024 20:58:46 +0000
 #
 
+real.tanninglotions.org
+realactionphotos.ca
+realads.com
+realalt.com
+realaudio.cimedia.net
 realave.com
 realbannerads.com
 realbid.brealtime.com
@@ -8529,7 +8534,6 @@ rock2.directprimal.com
 rock.adpiano.com
 rock.cryptaloot.pro
 rock.cryptoloot.pro
-rock.directprimal.com
 rock.reauthenticator.com
 rock.webmine.pro
 rockabox.co
@@ -10042,6 +10046,7 @@ royale.rudrawebtech.com
 royale-bintang-hotel.com
 royaleducations.com.auapp.adjust.com
 royalegenerator.net
+royale-ssl.spongecell.com
 royalestate.com.pl
 royalet.drupalet.com
 royalfarm.customlinks.appsflyer.com
@@ -17441,6 +17446,7 @@ sasrlink-px.rtrk.com
 sass2.directprimal.com
 sass.cryptaloot.pro
 sass.cryptoloot.pro
+sass.directprimal.com
 sass.webmine.pro
 sassarirc.top
 sassat3000.clickfunnels.com
@@ -59854,7 +59860,6 @@ t.richaudience.com
 t.riverhit.com
 t.rlcdn.com
 t.saas.appdynamics.com
-t.salesmatemail.com
 t.scorecardresearch.com
 t.seedtag.com
 t.sellpoints.com
@@ -69359,7 +69364,6 @@ thor.awtank.com
 thor.bankofamfrica.com
 thor.beck-technologies.com
 thor.bellsourth.com
-thor.blindferret.media
 thor.blueshielsca.com
 thor.bodenmarkt.info
 thor.bravenet.com
@@ -104956,6 +104960,7 @@ webtoolsrooingdengincco.000webhostapp.com
 webtoolsx.brandreachsys.com
 webtop.acxiom.com
 webtracker.apicasystem.com
+webtracker.jp
 webtrackerplus.com
 webtracktechnologies.com
 webtracky.com
@@ -110147,7 +110152,6 @@ ws1.15x.net
 ws1.2020search.com
 ws1.bmcm.pw
 ws1.bmnr.pw
-ws1.bmst.pw
 ws001.coinerra.com
 ws01.crypto-loot.com
 ws01.do.nu
@@ -110165,7 +110169,6 @@ ws1-staging.hotjar.com
 ws2.15x.net
 ws2.bmcm.pw
 ws2.bmnr.pw
-ws2.bmst.pw
 ws2.cdnsoar.com
 ws02.crypto-loot.com
 ws02.do.nu
@@ -140348,7 +140351,6 @@ www.coin-have.com
 www.coinhits.com
 www.coin-hive.com
 www.coinhive.com
-www.coinhive.net
 www.coinhive.org
 www.coinhiver.com
 www.coinhives.com
@@ -146571,6 +146573,7 @@ www.izarc.fr
 www.izayoinet.info
 www.izvestia.info
 www.j3safetyismyname.com
+www.j9lib.com
 www.j12lib.com
 www.j22now.leadpages.co
 www.j.ubeat.info
@@ -149863,7 +149866,6 @@ www.newyorkblog.aweber.com
 www.newyorktimescrosswordpuzzle.com
 www.newyoutube.com
 www.nexage.com
-www.nexioniect.com
 www.nextadvisor.com
 www.nextbux.info
 www.nextel-ringtone.spb.su
@@ -157282,6 +157284,7 @@ www.voicefive.com
 www.voicemail.co.il
 www.voip.recs.shareaholic.com
 www.vokr-gtavc.ic.cz
+www.volantix.com
 www.volgatermolazer.ru
 www.volleyball-doppeldorf.de
 www.voltairnet.org
@@ -158050,6 +158053,7 @@ www.ws007.www.jqwww.download
 www.ws08.crypto.csgocpu.com
 www.ws008.www.datasecu.download
 www.ws008.www.jqwww.download
+www.ws09.crypto.csgocpu.com
 www.ws009.www.datasecu.download
 www.ws009.www.jqwww.download
 www.ws010.www.datasecu.download
@@ -158078,10 +158082,13 @@ www.ws021.www.datasecu.download
 www.ws021.www.jqwww.download
 www.ws022.www.datasecu.download
 www.ws022.www.jqwww.download
+www.ws23.crypto.csgocpu.com
 www.ws023.www.datasecu.download
 www.ws023.www.jqwww.download
+www.ws24.crypto.csgocpu.com
 www.ws024.www.datasecu.download
 www.ws024.www.jqwww.download
+www.ws25.crypto.csgocpu.com
 www.ws025.www.datasecu.download
 www.ws025.www.jqwww.download
 www.ws026.www.datasecu.download
@@ -158091,6 +158098,8 @@ www.ws027.www.jqwww.download
 www.ws028.www.datasecu.download
 www.ws028.www.jqwww.download
 www.ws39.adx1.com
+www.ws42.crypto.csgocpu.com
+www.ws48.crypto.csgocpu.com
 www.ws49.crypto.csgocpu.com
 www.ws50.crypto.csgocpu.com
 www.wsel.net
