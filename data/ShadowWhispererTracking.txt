@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Mon, 13 May 2024 04:58:14 +0000
+# Last converted - Mon, 13 May 2024 08:58:29 +0000
 #
 
 01counter.com
@@ -109,6 +109,7 @@
 2cnt.net
 2cv.com
 2cv.co.uk
+2dqq5a94p.de
 2.eqho.com
 2.homesnorthofboston.com
 2-instant.okcupid.com
@@ -241,6 +242,7 @@
 8dwd87c7a091b12x.com
 9090tr.com
 97660ccadcc445599a18731f44643af0.apm.us-east-1.aws.cloud.es.io
+9.dr-n.pl
 9gag.helpshift.com
 9gauge.com
 9kvnwwkj.pandasuite.io
@@ -399,6 +401,7 @@ a8clk.booking.jetfi.jp
 a8clk.bresmile.jp
 a8clk.bstyle.store
 a8clk.bungeisha.co.jp
+a8clk.buyking.club
 a8clk.buy-master.com
 a8clk.camerakaitori.jp
 a8clk.campaigns.kaitori-premium.jp
@@ -918,6 +921,7 @@ a8cv.ec.oliveunion.com
 a8cv.eco-ring.com
 a8cv.e-d-v-j.co.jp
 a8cv.e-earphone.jp
+a8cv.eeo.today
 a8cv.egmkt.co.jp
 a8cv.eikajapan.com
 a8cv.elabo-shop.jp
@@ -1050,6 +1054,7 @@ a8cv.kaimonocart.com
 a8cv.kaimonoform.com
 a8cv.kaiteki.gr.jp
 a8cv.kaitori-okoku.jp
+a8cv.kaitorisatei.info
 a8cv.kajier.jp
 a8cv.kamurogi.net
 a8cv.karitoke.jp
@@ -1429,6 +1434,7 @@ a8enquete.eventos.tokyo
 a8.eonet.jp
 a8.eonet.ne.jp
 a8.epauler.co.jp
+a8.epo.info
 a8.erasutamo.onlinestaff.jp
 a8.everest.ac
 a8.evertrust-inc.com
@@ -1565,6 +1571,7 @@ a8.mm-digitalsales.academy
 a8.mochu.jp
 a8.mochu.nengajyo.co.jp
 a8.mogurun.com
+a8.moku.info
 a8.mosh.jp
 a8.musbell.co.jp
 a8.nachurabo.com
@@ -1892,6 +1899,7 @@ a.bancaroma.it
 a.bancodisicilia.it
 abandonedaction.com
 a.barracuda.com
+abcas1.accessabc.com
 abc.esprit.at
 abc.esprit.be
 abc.esprit.co.uk
@@ -2197,6 +2205,7 @@ adb-secured.kijk.nl
 adcell.com
 adcell.de
 adchb.accenture.com
+adclarity.com
 adclear.de
 adclear.net
 adclixx.net
@@ -2263,6 +2272,7 @@ admathhd.com
 adm.centralchristian.edu
 admetrica.ru
 admetric.io
+admetricks.com
 admetrics.events
 admetrics.io
 admetrics.media
@@ -2505,6 +2515,7 @@ affinitymatrix.com
 affplanet.com
 affstreck.com
 afftrack.com
+af.gmobile.biz
 afi.biyou.web-marketing.ai
 aficv.finebase.jp
 aficv.odecomart.com
@@ -13037,10 +13048,12 @@ assets.em3.capitalise.com
 assets.geo.de
 assets.giocdn.com
 assets.ikhnaie.link
+assets.investmentweek.co.uk
 assets.klick.com
 assets.nationalgeographic.com
 assets.nubika.es
 assets.opencare.com
+assets.professionalpensions.com
 assets.ryanair.com
 assets.sherpareport.com
 assets.sp.chip.de
@@ -14048,6 +14061,7 @@ bm.paypal.com
 bn10strk.com
 bnc.lt
 bngtrk.com
+bntr.me
 bo1trk.com
 boa.auaesthetics.com
 boa.nolongerset.com
@@ -14086,6 +14100,7 @@ boom.laravel.io
 boost-analytics.com
 boostbox.com.br
 boostlabs.com
+boozallen.ch
 boozallen.com
 boredborder.com
 boredcrown.com
@@ -14118,6 +14133,7 @@ boxever.com
 boxrawus.tracking-us1.advancedcommerce.services
 box.rciadventure.com
 bpa.exelatech.com
+bpaww.com
 bpi.rtactivate.com
 bpminaction.com
 bpo.fgl.co.jp
@@ -14567,6 +14583,7 @@ carecart.io
 carecreationsinfo.basf.us
 career-analytics.mercer.com
 career-solutions.siemens-digital-logistics.com
+careers.pennstatehershey.org
 careers.skywest.com
 carefuldolls.com
 care.grainger.com
@@ -16839,6 +16856,7 @@ c.th.msn.com
 c.thredup.com
 ctnsnet.com
 ct.pinterest.com
+ctracking.io
 ctrack.venatusmedia.com
 c.trello.com
 ctrlshift.com
@@ -17005,6 +17023,7 @@ cv.subscription-store.com
 cv.sumaho-hoken.jp
 cv.taskar.online
 cv.tenjin.cc
+cv.theatreacademy.info
 cv.ticketpay.jp
 cvtk01.gmo-agree.com
 cv.tokyowork.jp
@@ -19198,6 +19217,7 @@ event.koerber-pharma.com
 event.leprazending.nl
 event.lifecare.com.my
 event-listener.air.tv
+event-logger-bff.svc.reg.ru
 eventlogger.soundcloud.com
 eventlogs.octillionmedia.com
 event.mrtnsvr.com
@@ -21670,6 +21690,7 @@ hits-secure.theguardian.com
 hits.seeyoufarm.com
 hitsteps.com
 hitsteps.net
+hit.tonzz3.ru
 hit.ua
 hit.uptrendsdata.com
 hitwebcounter.com
@@ -22105,6 +22126,7 @@ id.spectator.co.uk
 idsync.rlcdn.com
 id.tinypass.com
 id-visitors.com
+idyllicjazz.com
 id.zalo.me
 iedc.fitbit.com
 ie.fastbridge.org
@@ -26215,6 +26237,7 @@ join.thewritingrevolution.org
 join.thisisbeyond.com
 join.tides.org
 join.uml.edu
+jollylens.com
 jo.my
 jornaya.com
 jortilles.com
@@ -27182,7 +27205,10 @@ log.baophapluat.vn
 logbase.io
 log.betdaq.com
 log.bizlive.vn
+log.booster.gearupportal.com
+log.booster.gearupportal.com.cdn.jcloudcdn.com
 logbor.com
+log-brofront.kraftonde.com
 log.buenovela.com
 log.bunaism.com
 log.byteoversea.com
@@ -32029,6 +32055,7 @@ melidata.metroscubicos.com
 mellowbike.com
 mellowmailbox.com
 melodicminute.com
+melodiouscomposition.com
 meltmilk.com
 meltspot.se
 meltwater.com
@@ -35813,6 +35840,7 @@ optistats.ovh
 optmstr.com
 optnmstr.com
 optomaton.com
+opulentsylvan.com
 oq44lmtrk.com
 oqc.ohara-quartz.co.jp
 or23trk.com
@@ -37284,6 +37312,7 @@ pd.upr-net.co.jp
 pd.vi-gene.co.jp
 pdxelk.dealerspike.com
 pd.yourinventit.com
+pdz-2020.pairidaiza.eu
 pd.zip.co
 peacefullimit.com
 peach-static.ebu.io
@@ -63813,7 +63842,6 @@ symend.net
 symon.ai
 symphonyam.com
 symphonyretailai.com
-symphonytalent.com
 synapticdigital.com
 sync-a8.cocolocala.jp
 syncd.ai
