@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 13 May 2024 04:58:12 +0000
+# Last converted - Mon, 13 May 2024 08:58:27 +0000
 #
 
 00px.net
@@ -17,6 +17,7 @@
 0wnpr0m0.com
 0y2im3ma.ru
 1000mercis.com
+1000mercis.co.uk
 100widgets.com
 10clicks.com
 10days.london
@@ -474,6 +475,7 @@ abc10advertising.com
 abc-ads.com
 abc.comick.top
 abcconsultingweb.com
+abccreativegroup.com
 abcideabased.com
 abc.learnit.ir
 abclefabletor.com
@@ -483,7 +485,6 @@ abdurantom.com
 abeagle-public.buzzfeed.com
 abee.yeeowl.xyz
 abelsontaylor.com
-a.benonblkd.xyz
 a.bestcontenttool.top
 a.bettercontentservice.top
 abfpictures.co.uk
@@ -1104,6 +1105,7 @@ ad.daum.net
 ad.daves.business
 addbanner.net
 addb.interpark.com
+addclic.com
 ad.debtbulldog.com
 addefend.com
 ad.defotostudiouden.nl
@@ -1576,6 +1578,7 @@ ad.krm.at
 ad.ksol.io
 ad.kurocore.com
 adlab.co.uk
+adlab.co.za
 ad.labecca.tokyo
 adlabmedia.com
 adlaboratory.com
@@ -1711,6 +1714,7 @@ ad.mdmd.info
 ad.mds.lv
 admedia360.marketing
 admedia.agency
+admedia.co.il
 admedia.com
 admedia.com.pk
 admedia.co.uk
@@ -1750,6 +1754,7 @@ admidadsp.com
 admidainsight.com
 admile.ru
 adminder.com
+admine.co.kr
 admin.giaminhmedia.vn
 ad.minigameltd.com
 adminima.com
@@ -1804,6 +1809,7 @@ admonkeys.com
 admonk.in
 ad-monks.com
 ad.moo-mam-tai.com
+admospheres.com
 admost.com
 ad-move.jp
 admoxi.com
@@ -1818,6 +1824,7 @@ adm.shinobi.jp
 admulti.com
 admulti.ru
 admup.com.hk
+admush.com
 admusic.eu
 admuxer.com
 ad-mv.de
@@ -1931,6 +1938,8 @@ adoperator.com
 adoperatorcore.com
 adopexchange.com
 adop.kr
+adopslatam.cl
+adopslatam.com
 adops.ro
 ad-optima.com
 adoptim.com
@@ -2067,6 +2076,7 @@ adprotect.net
 adproval.com
 adprudence.com
 ad.prw.pl
+adpub.co
 adpublisher.com
 ad.publitec.tv
 adpump.com
@@ -2118,6 +2128,7 @@ ad.resetoff.pl
 ad.responservbzh.icu
 adresult.jp
 adretarget.net
+adretriever.com
 adrevenuerescue.com
 ad.revistamelhor.com.br
 adrevolver.com
@@ -3241,7 +3252,6 @@ adserver.netcollins.com
 adserver.new-a.com
 adserver.newmarketwebdevelopers.com
 adserver.newshunt.co
-adserver.newsochub.com
 adserver-new.syzzlingmedia.com
 adserver.nicheparade.com
 adserver.nmedlek.com
@@ -3978,6 +3988,7 @@ adsiduous.com
 adsiege.com
 ads.iegrupo.com
 ads.ifolharegional.com.br
+adsight.nl
 ads.igihe.com
 ads.iglesiapiantini.org
 ads.ign.com
@@ -6314,6 +6325,7 @@ aomngb.com
 aonebox.com
 a.optmnstr.com
 aori.com
+aotgm.com
 aotter.net
 ap01.pub.funshion.com
 apac-hk-ads.aralego.net
@@ -6630,6 +6642,7 @@ a-us-west.rfihub.com.akadns.net
 auth.dn.se
 authenticaudience.co
 authoradnetwork.com
+authorizeddear.pro
 autoads.asia
 autoaffiliateprogram.com
 auto-dash.com
@@ -6719,6 +6732,7 @@ b21ywa9a.ru
 b2bleadagency.com
 b2bleadhunter.com
 b2bleadresearch.com
+b2bmarketingagency.biz
 b2bmg.com
 b2bmg.net
 b2cadvertisers.com
@@ -6754,6 +6768,7 @@ bam-bam-slam.com
 bambao.lol
 bamifyads.com
 bam-interactive.de
+bam-online.de
 banbuyserve.com
 bandelcot.com
 bandujo.com
@@ -7195,6 +7210,7 @@ blacurlik.com
 blanco-adv.co.il
 blanddish.pro
 bland-factor.pro
+blank-tune.pro
 blastbeatnetwork.com
 blastmobi.com
 blatungo.com
@@ -7340,6 +7356,7 @@ bossmanmedia.com.au
 bossyinternal.pro
 bostonglobemedia.com
 bostopago.com
+bothwest.pro
 botree.in
 bounce-ads.de
 bounceads.net
@@ -8022,6 +8039,7 @@ code4us.com
 code.adsales.snidigital.com
 code.bergsteigen.com
 codefuel.com
+code-fuel.co.uk
 code.gunnymienphi.net
 codevelop.io
 cognisensemedia.com
@@ -8072,6 +8090,7 @@ complyauto.com
 conative.de
 concertads-configs.vox-cdn.com
 concert.io
+concrete-cabinet.pro
 conde.digital
 conduit-banners.com
 confiant-integrations.freetls.fastly.net
@@ -8157,6 +8176,7 @@ contributor.google.com
 controlgroup.com
 cont.website
 conumal.com
+conventional-nurse.pro
 converge-digital.com
 conversantmedia.com
 conversantmedia.de
@@ -8284,6 +8304,7 @@ creativecurve.co.za
 creative.dailymail.co.uk
 creativedimensions.com
 creative.elliemae.com
+creativefix.pro
 creativehighs.com
 creativehouse.marketing
 creativeinferno.com
@@ -8316,16 +8337,33 @@ crimsonmeadow.com
 crimtan.com
 crispads.com
 crisppremium.com
+criteo.ae
+criteo.asia
+criteo.at
+criteo.co.in
 criteo.com
+criteo.com.co
 criteo.com.lv
+criteo.co.uk
+criteo.cz
 criteo-direct.com
 criteodirect.com
+criteo-direct.fr
 criteo.fr
 criteo.in
 criteo.it
+criteo.jp
 criteolabs.fr
+criteolabs.it
+criteo.lv
+criteo.me
+criteo.mobi
+criteo.sg
 criteo.tv
+criteo.tw
+critoe.com
 critoo.com
+critteo.com
 crjpingate.com
 crjugate.com
 crm4d.com
@@ -8597,6 +8635,7 @@ de17a.com
 de17aserver.com
 de88deggtp.com
 de-advertising.weather.com
+deafening-benefit.pro
 dealeronlinemarketing.com
 dealersunited.com
 dealswidget.bestreviews.com
@@ -8768,6 +8807,7 @@ directadvert.codenet.one
 directadvert.ru
 directcpv.com
 direct.money.pl
+directoutside.pro
 directresponsegroup.com
 directrev.com
 directsalesaid.com
@@ -8782,6 +8822,7 @@ discover.timeout.com
 discoveryad.hk
 disfiguredrough.pro
 dishacom.com
+dishoneststuff.pro
 dislanelibrar.top
 disneyadsales.com
 disneyadvertising.com
@@ -8999,6 +9040,7 @@ eacdn.com
 eadgxy.com
 eadultcash.com
 eadv.it
+earlyfortune.pro
 earnify.com
 earzow.com
 eas.etherscan.com
@@ -9429,6 +9471,7 @@ feelforowl.info
 feelreals.info
 feetct.com
 fejla.com
+feline-angle.pro
 felmat.net
 femanmediaagency.com
 fendixmedia.co.uk
@@ -9470,6 +9513,7 @@ findnewline.com
 findology.com
 findyourquirk.com
 finead.o00.kr
+fine-wealth.pro
 fingereach.com
 fingertip.click
 fireads.network
@@ -9543,6 +9587,7 @@ focallabs.com
 followistic.com
 fomofly.com
 fonaso.eu
+foolishcounty.pro
 footprintlive.com
 foottraffik.co
 forads.pro
@@ -9554,6 +9599,7 @@ forkmediagroup.com
 forlumineontor.com
 forshrd.com
 fortaillowon.com
+forthright-car.pro
 fortudios-wriefs.com
 forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com
 forwrdnow.com
@@ -9887,6 +9933,7 @@ gmx.net
 gnezdo.ru
 gng.net
 go24advertising.com
+go2frr.com
 go2-me.com
 go2yd.com
 go.ad1data.com
@@ -10029,6 +10076,7 @@ graphicd-signs.com
 graphite.tsmedia.si
 graphitydigital.com
 graphlo.com
+grave-orange.pro
 gravitec.media
 gravitec.net
 graydown.com
@@ -10075,6 +10123,7 @@ growmobile.com
 growthspin.co.uk
 growup-inpp-code.com
 growup-t-code.com
+grtb-sc.dsplsm.com
 gruebleen.com
 grumft.com
 gruuvinteractive.com
@@ -10329,6 +10378,7 @@ humdrumtouch.com
 hunter-hub.com
 hurricanedigitalmarketing.com
 hushmoney.com
+husky-tomorrow.pro
 hustlecreative.com
 hvcbkr.com
 hvjudtzf.ru
@@ -10515,6 +10565,7 @@ imwinnerkur.com
 inabsolor.com
 in-appadvertising.com
 inawemedia.com
+inbornbird.pro
 incentivated.com
 inclgroup.com
 inclickadserver.com
@@ -11695,6 +11746,7 @@ meaglemedia.com
 meagplin.com
 meaningfulcontent.org
 meas.ad.pr.ameba.jp
+measlyglove.pro
 mecash.ru
 med4ad.com
 medallia.com
@@ -11806,6 +11858,7 @@ memeglobal.com
 memevideoad.com
 memtkh.com
 memy.tapeciarnia.pl
+menacing-awareness.pro
 mendocash.com
 merchandise.opera-api.com
 merch-img.scdn.co
@@ -11813,6 +11866,7 @@ mercury.dl.playstation.net
 mergetraffic.com
 meridiameridia.3xforum.ro
 merkelsdienstwagen.de
+merry-hearing.pro
 mertzrentacar.com
 messagepk.com
 messageverify.click
@@ -12468,6 +12522,7 @@ newsletterhut.com
 newsletter.linuxbabe.com
 newsletters.vocento.com
 newsmaxfeednetwork.com
+newsochub.com
 newspassid.com
 newsroom.bi
 news.sportevents.news
@@ -12551,6 +12606,7 @@ northlittlerockap.org
 nortonadvertising.com
 norwegianadvertising.com
 nostruminc.com
+notablechemistry.pro
 notads.111javguru.xyz
 notads.111supjavcom.xyz
 notads.11javguru.xyz
@@ -12767,6 +12823,7 @@ okrp.com
 ok.starwank.com
 olatumal.com
 oldercdncom.com
+oldfashionedcity.pro
 old.trck.one
 oletraffic.com
 olimptds.com
@@ -13529,6 +13586,7 @@ ppr.media
 p.qlogo.cn
 pqrtd9hhtu9x.info
 pr3sence.xyz
+practicalbar.pro
 pragatimediasolutions.com
 prajapatiadvertising.com
 pre.03porno.com
@@ -13579,6 +13637,7 @@ prisasd.com
 prismads.com
 prismcash.com
 prism.pandora.tv
+pristine-dark.pro
 privacy.aol.com
 privacy-center.org
 privacy.gomovix.com
@@ -14048,6 +14107,7 @@ questpass.pl
 quickadsmedia.com
 quicklaunch.com
 quicksilver.scdn.co
+quickwest.pro
 quilldraws.com
 quintag.com
 quintesse.io
@@ -14512,6 +14572,7 @@ roseavemedia.com
 rose.ixbt.com
 rosseladvertising.be
 rosszlanyok.hu
+rosyfeeling.pro
 rotaslietutv.lv
 rotate4all.com
 rotor.overclockers.ru
@@ -14595,6 +14656,7 @@ rvfrm2008.com
 rvfrm2009.com
 r.vistats.eu
 rv.mediaindonesia.com
+rvmnews.com
 rvv3.pdnegocios.cl
 rvv.emol.com
 rvv.pdnegocios.cl
@@ -14693,6 +14755,7 @@ scaleout.jp
 scandicpartners.se
 scapesolutions.in
 scarceshock.com
+scaredpreparation.pro
 scarefowl.com
 scarletmedia.net
 scarlettsweb.co.za
@@ -15019,6 +15082,8 @@ sgirqr.com
 shafttraffic.com
 shakamech.com
 shakyadigitech.com
+shallowtwist.pro
+shameless-sentence.pro
 sharadadvertising.com
 shara.li
 shardait.com
@@ -15033,6 +15098,7 @@ shemeejo.com
 sherwoodsutton.pro
 shestrozo.com
 shestugele.pro
+shimmering-strike.pro
 shineadagency.com
 shineraj.com
 shinistat.com
@@ -15088,6 +15154,7 @@ signature24.in
 signbucks.com
 signetter.com
 siloh-ns1.plutotv.net
+silveraddition.pro
 silveradv.com
 silveragency.com
 silverback-advertising.com
@@ -15482,6 +15549,7 @@ stag-core.tfla.xyz
 stageflag.com
 staging10adsupply.com
 staging6adsupply.com
+stained-a.pro
 standardpublicity.in
 standartnews.eu
 stankeviciusmgm.com
@@ -15571,6 +15639,7 @@ storycat.net
 storygize.com
 storygize.net
 stpd.cloud
+straight-storage.pro
 straightup.com
 strangevictory.co.uk
 strategus.com
@@ -15617,6 +15686,7 @@ subxpk.com
 sub.xxx-porn-tube.com
 successtoyou.biz
 sudiyo.com
+sugaryambition.pro
 suggestv.io
 suite66.com
 suke10.com
@@ -15666,6 +15736,7 @@ sweaty-garage.pro
 sweatytraining.pro
 swelen.com
 swellrewards.com
+swelteringcrazy.pro
 swickads.com
 swicki.com
 swingwiremedia.com
@@ -16744,6 +16815,7 @@ vimmy.com
 vimoshare.com
 vincodo.com
 vinge.de
+violet-strip.pro
 vionito.com
 viously.com
 vipads.cc
@@ -17339,10 +17411,12 @@ xml-eu.qksrv.cc
 xml-eu-v4.craftviking-2.co
 xml-eu-v4.craftviking.co
 xml-eu-v4.explorefast-1.com
+xml-eu-v4.explorefast-2.com
 xml-eu-v4.frdjs-1.co
 xml-eu-v4.frdjs-2.co
 xml-eu-v4.gipostart-1.co
 xml-eu-v4.gipostart-2.co
+xml-eu-v4.minsonbar2.online
 xml-eu-v4.netload2.com
 xml-eu-v4.qksrv.cc
 xml-eu-v4.xonedart-2.live
@@ -17356,6 +17430,7 @@ xml.fstsrv3.com
 xml.gipostart-2.co
 xmlking.com
 xmllover.com
+xml.minsonbar2.online
 xmlmonetize.com
 xml.netload1.com
 xml.netload2.com
@@ -17369,12 +17444,14 @@ xml.sedodna.com
 xml-v4.craftviking-2.co
 xml-v4.craftviking.co
 xml-v4.explorefast-1.com
+xml-v4.explorefast-2.com
 xml-v4.frdjs-1.co
 xml-v4.frdjs-2.co
 xml-v4.fstsrv1.com
 xml-v4.fstsrv3.com
 xml-v4.gipostart-1.co
 xml-v4.gipostart-2.co
+xml-v4.minsonbar2.online
 xml-v4.netload2.com
 xml-v4.pxfindone.com
 xml-v4.qksrv1.com
