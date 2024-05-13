@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 13 May 2024 16:58:35 +0000
+# Last converted - Mon, 13 May 2024 20:58:35 +0000
 #
 
 00px.net
@@ -8894,6 +8894,7 @@ doersadv.com
 doflygonan.com
 dogolurkr.com
 dogwrite.com
+dogystylefor.com
 dogystyleshop.com
 doi3unldljdx6.cloudfront.net
 dolanadserver.com
@@ -16560,6 +16561,7 @@ unrulymedia.fr
 unrulymorning.pro
 unruly.systems
 unumbonum.com
+unuu.online
 unzpc.com
 uobsoe.com
 up0.qingdaonews.com

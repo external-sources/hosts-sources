@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 13 May 2024 16:58:00 +0000
+# Last converted - Mon, 13 May 2024 20:57:56 +0000
 #
 
+cfusionsys.com
 zmonei.com
 fnaycb.com
 yoibbka.com
@@ -61690,6 +61691,7 @@ mohvxrvd.xyz
 kgidskid.top
 upyzqf.cn
 mdiygc.xyz
+dyccdk.xyz
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
