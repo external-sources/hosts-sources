@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 14 May 2024 16:57:47 +0000
+# Last converted - Tue, 14 May 2024 20:58:22 +0000
 #
 
 gussiessmutchy.com
@@ -23025,6 +23025,9 @@ mobifobi.com
 mobifoth.com
 mobile5shop.com
 mobiledevel.com
+mobileoffers-7-j-download.com
+mobileoffers-dld-download.com
+mobileoffers-downloadapp-a.com
 mobileoffers-ep-download.com
 mobilepreviouswicked.com
 mobiletracking.ru
@@ -23169,6 +23172,7 @@ mooncklick.com
 moonheappyr.com
 moonicorn.network
 moonjahaphodal.com
+moonjscdn.info
 moonoafy.net
 moonovernegril.com
 moonrocketaffiliates.com

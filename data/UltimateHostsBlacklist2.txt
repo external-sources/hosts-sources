@@ -1,13 +1,9 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Tue, 14 May 2024 16:58:26 +0000
+# Last converted - Tue, 14 May 2024 20:59:11 +0000
 #
 
-real.tanninglotions.org
-realactionphotos.ca
-realads.com
-realalt.com
 realaudio.cimedia.net
 realave.com
 realbannerads.com
@@ -17446,7 +17442,6 @@ sasrlink-px.rtrk.com
 sass2.directprimal.com
 sass.cryptaloot.pro
 sass.cryptoloot.pro
-sass.directprimal.com
 sass.webmine.pro
 sassarirc.top
 sassat3000.clickfunnels.com
@@ -69364,6 +69359,7 @@ thor.awtank.com
 thor.bankofamfrica.com
 thor.beck-technologies.com
 thor.bellsourth.com
+thor.blindferret.media
 thor.blueshielsca.com
 thor.bodenmarkt.info
 thor.bravenet.com
@@ -110739,7 +110735,6 @@ wss.musicalove.info
 wss.nablabee.com
 wss.omarketer.viettelpost.vn
 wss.pollfish.com
-wss.rand.com.ru
 wss.stati.bid
 wssccrally.co.uk
 ws-sgp-origin-pull.snackvideo.in.domain.name
@@ -137919,7 +137914,6 @@ www.beproactive.com.pl
 www.bepsuglyba.pro
 www.bera.adx1.com
 www.beragam.info
-www.berateveng.ru
 www.berbagivideo.dnset.com
 www.beretta-e.org
 www.beritaislam24h.info
@@ -139558,9 +139552,7 @@ www.cf69.net
 www.cf.cdn.adx1.com
 www.cf.wtftds.info
 www.cfarchibaldpavingi.b2badvantage.net
-www.cfcd.duckdns.org
 www.cfceu.duckdns.org
-www.cfcs1.duckdns.org
 www.cfinc.org
 www.cfrfa.112.2o7.net
 www.cftr.info
@@ -146573,7 +146565,6 @@ www.izarc.fr
 www.izayoinet.info
 www.izvestia.info
 www.j3safetyismyname.com
-www.j9lib.com
 www.j12lib.com
 www.j22now.leadpages.co
 www.j.ubeat.info
@@ -157284,7 +157275,6 @@ www.voicefive.com
 www.voicemail.co.il
 www.voip.recs.shareaholic.com
 www.vokr-gtavc.ic.cz
-www.volantix.com
 www.volgatermolazer.ru
 www.volleyball-doppeldorf.de
 www.voltairnet.org
