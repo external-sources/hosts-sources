@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 14 May 2024 08:58:27 +0000
+# Last converted - Tue, 14 May 2024 13:02:17 +0000
 #
 
+gussiessmutchy.com
 cfusionsys.com
 zmonei.com
 fnaycb.com
@@ -41623,6 +41624,7 @@ b9f25b.site
 bcbe.site
 ca3d.site
 ca9246.xyz
+caa2c4.xyz
 d84bc26d.site
 e076.xyz
 e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
@@ -47381,6 +47383,9 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+tracking.carsales.com.au
+beacon.nc-net.or.jp
+lhe-beacon.team-rec.jp
 analytics.andisearch.com
 stlog.dmarket.docomo.ne.jp
 stats.myserverhome.de
@@ -49356,7 +49361,6 @@ tracking.battleon.com
 tracking.bdi-services.de
 tracking.bloomberg.com
 tracking.bonnier.news
-tracking.carsales.com.au
 tracking.chacha.com
 tracking.channelsight.com
 tracking.conduit.com
@@ -61720,6 +61724,7 @@ dfryzh.xyz
 sgidskib.top
 pxtjfmv.xyz
 mqsjzm.cn
+qwsanan.top
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
