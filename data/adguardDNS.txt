@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 14 May 2024 04:57:54 +0000
+# Last converted - Tue, 14 May 2024 08:58:27 +0000
 #
 
 cfusionsys.com
@@ -61719,6 +61719,7 @@ nvvqrv.xyz
 dfryzh.xyz
 sgidskib.top
 pxtjfmv.xyz
+mqsjzm.cn
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
