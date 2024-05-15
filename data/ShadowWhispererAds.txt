@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Tue, 14 May 2024 20:59:01 +0000
+# Last converted - Wed, 15 May 2024 01:48:23 +0000
 #
 
 00px.net
@@ -11114,6 +11114,7 @@ korruptionundpartner.de
 kosherads.net
 kost.tv
 kotucuzu.xyz
+kpkk.online
 k.pluto.tv
 kpnqp847j4.ru
 kps3.com
@@ -16700,6 +16701,7 @@ vda.wp.pl
 vdbaa.com
 vdo.ai
 vdopia.com
+vdvv.online
 ve.com
 vedhindia.com
 veeplay.com
