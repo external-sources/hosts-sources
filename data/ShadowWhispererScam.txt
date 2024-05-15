@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Tue, 14 May 2024 20:59:04 +0000
+# Last converted - Wed, 15 May 2024 01:48:25 +0000
 #
 
 007-dvd.com
@@ -3794,6 +3794,7 @@ ednohdachshunds.com
 edreams.com
 edutrav.org
 edycanecorsopuppies.com
+eehocr.top
 eeza.in
 efcloth.us
 effexcourierservice.com
@@ -6035,7 +6036,9 @@ infinlietan.net
 inflatablenshow.com
 inflent.com
 inflow-ns.com
+info-dirtyzone2.com
 info-drivers.ru
+info-extremesite.com
 info-fetish-singles.com
 info-maturespace.com
 info-milfme.com
@@ -8284,6 +8287,7 @@ ofautofollower.com
 offersandgift.com
 offersuperhub.com
 offerx.co.uk
+offess.top
 officecommsetup.com
 office-product-key-setup.com
 officesetup247.support
@@ -8923,6 +8927,7 @@ pleasantestyou.com
 pleasantyorkies.com
 pleseant.com
 plexauto.info
+plicly.top
 pliedogen.com
 plivvy.com
 ploogn.com
@@ -11763,6 +11768,7 @@ toonporno.de
 toon-xxx.de
 toonxxx.de
 topadultwebcams.com
+topain.top
 toparmsshop.com
 topbrandcopypaper.com
 topbullies.us

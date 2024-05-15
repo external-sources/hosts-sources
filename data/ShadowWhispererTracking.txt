@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Tue, 14 May 2024 20:59:04 +0000
+# Last converted - Wed, 15 May 2024 01:48:25 +0000
 #
 
 01counter.com
@@ -1954,6 +1954,8 @@ ab.platforms.team
 ab.qq.com
 abrankings.com
 a.brisp.nl
+abrtp2-cdn.marketo.com
+abrtp2.marketo.com
 abruptroad.com
 absentairport.com
 absentstream.com
@@ -16612,6 +16614,7 @@ coyote.txet.ch
 cozycountryredirectii.addons.business
 cozycountryredirectiii.addons.business
 cozyhillside.com
+cozytryst.com
 c.p2r14.com
 cp2trk.com
 c-pace.greenworkslending.com
@@ -18577,6 +18580,7 @@ efeedbacktrk.com
 ef.fanatical.com
 effectivemeasure.com
 effectivemeasure.net
+effervescentvista.com
 efficaciouscactus.com
 efliferenew-thirdelement.com
 efloristmktcom.com
@@ -18839,6 +18843,7 @@ enchantedtop.com
 enchantingbear.com
 enchantingdiscovery.com
 enchantingenchantment.com
+enchantingmystique.com
 enchantingvalley.com
 encompass-cx.com
 encourageidea.com
@@ -21391,6 +21396,7 @@ hadronid.net
 haensel-ams.com
 haf.hiyokopc.jp
 halcyoncanyon.com
+halcyonsculpture.com
 halibut.codehooks.io
 halibut.jimruegolfinstruction.com
 halibut.phytype.com
@@ -26289,6 +26295,7 @@ jubi.ai
 jubilantaura.com
 jubilantcanyon.com
 jubilantglimmer.com
+jubilanttempest.com
 juiceanalytics.com
 juicer.cc
 juke.mmi.bemobile.ua
@@ -44800,6 +44807,7 @@ plsb.valletech.eu
 pls.prd.mz.internal.unity3d.com
 pluck.com
 pluckypocket.com
+pluckyzone.com
 pluginto.paysafe.com
 plugs.jameco.com
 plumbing.hunterplastics.co.uk
@@ -64473,6 +64481,7 @@ the-modeling-agency.com
 themodellers.com
 theoceannetwork.inttra.com
 theonlymarket.net
+thepertgroup.com
 thepointyspritesclub.com
 therapeuticcars.com
 t.herceptin.com
@@ -67826,6 +67835,7 @@ wistfulflight.com
 wistfulwaste.com
 witstroom.com
 wittypopcorn.com
+wittyshack.com
 wiwo.in-citu.fr
 wix-engage-visitors-prod-5.firebaseio.com
 wixlabs-hcounter.appspot.com
