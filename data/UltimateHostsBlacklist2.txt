@@ -1,13 +1,9 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Wed, 15 May 2024 16:58:27 +0000
+# Last converted - Wed, 15 May 2024 20:58:47 +0000
 #
 
-realaudio.cimedia.net
-realave.com
-realbannerads.com
-realbid.brealtime.com
 realbird.ipromote.com
 real-buy.rentshop.org
 realcanadiansuperstore.ca.ssl.sc.omtrdc.net
@@ -53579,7 +53575,6 @@ stompebi.link
 stone2.directprimal.com
 stone.cryptaloot.pro
 stone.cryptoloot.pro
-stone.directprimal.com
 stone.webmine.pro
 stoneandcloth.7eer.net
 stonearchlaw.clickfunnels.com
@@ -59855,6 +59850,7 @@ t.richaudience.com
 t.riverhit.com
 t.rlcdn.com
 t.saas.appdynamics.com
+t.salesmatemail.com
 t.scorecardresearch.com
 t.seedtag.com
 t.sellpoints.com
@@ -70042,7 +70038,6 @@ ticmate.co.il
 ticonmamad.libraries.co.il
 ticonsalope.000webhostapp.com
 tic-parchi.com
-tics.techdirt.com
 ticstars.com
 tictacti.adk2x.com
 tic-tic-bam.com
@@ -105023,7 +105018,6 @@ webwebmailpanelrondcub.000webhostapp.com
 webwendy.com
 webwereld.nl.intellitxt.com
 web-wetransfer-com.000webhostapp.com
-webwidgetz.duckdns.org
 webwise.bt.com
 webwise.com
 webwise.net
@@ -110735,6 +110729,7 @@ wss.musicalove.info
 wss.nablabee.com
 wss.omarketer.viettelpost.vn
 wss.pollfish.com
+wss.rand.com.ru
 wss.stati.bid
 wssccrally.co.uk
 ws-sgp-origin-pull.snackvideo.in.domain.name
@@ -139552,7 +139547,9 @@ www.cf69.net
 www.cf.cdn.adx1.com
 www.cf.wtftds.info
 www.cfarchibaldpavingi.b2badvantage.net
+www.cfcd.duckdns.org
 www.cfceu.duckdns.org
+www.cfcs1.duckdns.org
 www.cfinc.org
 www.cfrfa.112.2o7.net
 www.cftr.info
@@ -142988,6 +142985,7 @@ www.ethicalads.io
 www.ethiominds.bravenet.com
 www.ethn.io
 www.eth-pocket.com
+www.eth-pocket.de
 www.ethtrader.de
 www.etilang.pl
 www.etisalatebill.net
@@ -146565,6 +146563,7 @@ www.izarc.fr
 www.izayoinet.info
 www.izvestia.info
 www.j3safetyismyname.com
+www.j9lib.com
 www.j12lib.com
 www.j22now.leadpages.co
 www.j.ubeat.info
@@ -158061,26 +158060,17 @@ www.ws015.www.jqwww.download
 www.ws016.www.datasecu.download
 www.ws016.www.jqwww.download
 www.ws017.www.datasecu.download
-www.ws017.www.jqwww.download
 www.ws018.www.datasecu.download
-www.ws018.www.jqwww.download
 www.ws019.www.datasecu.download
-www.ws019.www.jqwww.download
 www.ws020.www.datasecu.download
-www.ws020.www.jqwww.download
 www.ws021.www.datasecu.download
-www.ws021.www.jqwww.download
 www.ws022.www.datasecu.download
-www.ws022.www.jqwww.download
 www.ws23.crypto.csgocpu.com
 www.ws023.www.datasecu.download
-www.ws023.www.jqwww.download
 www.ws24.crypto.csgocpu.com
 www.ws024.www.datasecu.download
-www.ws024.www.jqwww.download
 www.ws25.crypto.csgocpu.com
 www.ws025.www.datasecu.download
-www.ws025.www.jqwww.download
 www.ws026.www.datasecu.download
 www.ws026.www.jqwww.download
 www.ws027.www.datasecu.download

@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 15 May 2024 16:57:45 +0000
+# Last converted - Wed, 15 May 2024 20:58:02 +0000
 #
 
+pushatomic.com
 gussiessmutchy.com
 cfusionsys.com
 zmonei.com
@@ -1871,6 +1872,7 @@ mine.torrent.pw
 5vpbnbkiey24.com
 5wuefo9haif3.com
 5xd3jfwl9e8v.com
+6-partner.com
 6001628d3d.com
 600z.com
 6061de8597.com
@@ -10467,6 +10469,7 @@ dessertgermdimness.com
 dessly.ru
 destinationoralairliner.com
 destinedsponsornominate.com
+destinysfavored.xyz
 destroyedspear.com
 destructionhybrids.com
 desugeng.xyz
@@ -15064,6 +15067,7 @@ geckoesdeport.top
 gecl.xyz
 geechaid.xyz
 geedoovu.net
+geegleshoaph.com
 geeksundigne.com
 geerairu.net
 geethaihoa.com
@@ -16924,6 +16928,7 @@ highestgaugers.com
 higheurest.com
 highjackclients.com
 highjournalistbargain.com
+highlevelbite.com
 highlypersevereenrapture.com
 highlyrecomemu.info
 highmaidfhr.com
@@ -24823,6 +24828,7 @@ oacaighy.com
 oacfxrqghamyaq.com
 oachailo.net
 oackoubs.com
+oackoulimtoo.com
 oadrojoa.net
 oadsaurs.net
 oadsouzi.net
@@ -26180,6 +26186,7 @@ oypjpbthhxhyuvq.com
 oypucuqsuwabnxy.com
 oysterexhalereview.com
 oysterfoxfoe.com
+oyuvcqmqjyrqd.com
 oywzrri.com
 oyxctgotabvk.com
 oyyihttyklfwcgy.xyz
@@ -28156,6 +28163,7 @@ professionallywealthy.com
 professionalsly.com
 professionalswebcheck.com
 professmeeting.com
+professorrevealingoctopus.com
 professtrespass.com
 proffering.xyz
 profi-para.com
@@ -47400,6 +47408,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+temp.twicomi.com
 tracking.carsales.com.au
 beacon.nc-net.or.jp
 lhe-beacon.team-rec.jp
@@ -53885,6 +53894,7 @@ vw.onlinia.net
 exchange.informer.ua
 hdvmyo.com
 adsy.mail.bg
+ad-service.shop
 yonderdim.com
 gr.hdream.cfd
 kriptoparahaber.care
@@ -54655,6 +54665,7 @@ aluhutmafia.de
 bd742.com
 cdu-offline.de
 dierussensindschuld.de
+fantecio.com
 gayads.biz
 gema-online.de
 holyjesus.de
@@ -54662,6 +54673,7 @@ spd-spenden.de
 swissadserver.ch
 wirverkaufennichts.de
 wixnm.com
+zazufi.com
 4rm.de
 a.partner-versicherung.de
 a3h.de
@@ -54902,7 +54914,6 @@ yoomedia.de
 youspacko.com
 z0a.de
 za-ads.de
-zazufi.com
 zieltracker.de
 zuppelzockt.com
 zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de
@@ -61760,6 +61771,8 @@ hgcgnfe.icu
 07dy.cc
 nuxwlc.cn
 ta20k.xyz
+awunkse72.shop
+cergbtb36.shop
 bpxbzps.xyz
 zuvbzl.xyz
 zwdtvx.xyz
