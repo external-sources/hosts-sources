@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 15 May 2024 01:48:25 +0000
+# Last converted - Wed, 15 May 2024 04:58:15 +0000
 #
 
 01counter.com
@@ -2693,6 +2693,7 @@ algolytics.com
 algolytics.pl
 algonomy.com
 algospark.com
+algt.us
 aliasanvil.com
 alida.com
 alientech.com
@@ -13203,6 +13204,7 @@ auspiciousyard.com
 auswertung.verbraucherzentrale.de
 auth.omoplanet.com
 autoaudience.com
+autoaudiencenetwork.com
 autobloglicensing.com
 autocounter.idealmedia.io
 auto.econmailer.com
@@ -13666,6 +13668,7 @@ beneficialbeef.com
 benefiio.com
 benefiio.org
 benefitkitchen.com
+benefitkitchen.org
 benefitscheck.app
 benefits-check.com
 benefits.corpsyn.com
@@ -14941,6 +14944,7 @@ chartbeat.net
 charterhouse-research.co.uk
 chartisinsuranceemail.com
 chatanalytics.app
+chatfunnels.com
 chattermill.com
 chattermill.io
 ch.badenochandclark.com
@@ -21428,6 +21432,7 @@ happyfication.com
 happy.klever.jp
 happy-or-not.com
 happy.projecthappiness.org
+happy.teddybearmetal.com
 har-beacon.har.com
 harborcaption.com
 harborcub.com
@@ -26255,6 +26260,7 @@ journey.scouts.nz
 journeys.systemsgo.asia
 journy.io
 joyoussurprise.com
+joy.teddybearmetal.com
 jp15trk.com
 jp.bostonscientific.com
 jp.globalsign.marketing
@@ -27741,6 +27747,8 @@ madkudu.com
 ma.dlpo.jp
 madmetrics.com
 madmimi.com
+madmimi.net
+madmimi.org
 madobjective.com
 ma.dot-st.com
 mads.co.in
