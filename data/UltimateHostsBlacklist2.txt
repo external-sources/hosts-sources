@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Thu, 16 May 2024 01:46:17 +0000
+# Last converted - Thu, 16 May 2024 04:58:33 +0000
 #
 
 realbird.ipromote.com
