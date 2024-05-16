@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Thu, 16 May 2024 16:58:08 +0000
+# Last converted - Thu, 16 May 2024 20:58:26 +0000
 #
 
 00px.net
@@ -11368,6 +11368,7 @@ linkad.com
 linkbucks.com
 linkbuddies.com
 linkbux.com
+linketal.co.za
 linkexchange.com
 linkexchange.net
 linkexchange.nl
@@ -12852,6 +12853,7 @@ ogskle.com
 ogtz5yn2u1.ru
 ogury.co
 ogury.com
+ogury.tech
 ohgskf.com
 ohmcasting.com
 ohmwrite.com
@@ -14520,6 +14522,7 @@ rezonence.com
 rfihub.com
 rfity.com
 r.flanco.ro
+rfmavendormarketplace.com
 rfpozf.com
 rg35.net
 rgrd.xyz
@@ -15021,6 +15024,7 @@ rvfrm2009.com
 r.vistats.eu
 rv.mediaindonesia.com
 rvmnews.com
+rvmtv.com
 rvv3.pdnegocios.cl
 rvv.emol.com
 rvv.pdnegocios.cl
@@ -15540,7 +15544,6 @@ singlesadnetwork.com
 sinpartyapi.com
 sinwebads.com
 sitebarad.com
-sitecare.com
 sitemaji.com
 siteoid.com
 siteowners.com
@@ -15769,6 +15772,7 @@ solutions.playernetca.top
 soma.3xforum.ro
 sombes.com
 somethingmassive.com
+somethingmassivela.com
 somoaudience.com
 somplo.com
 so-netmedia.jp
@@ -16484,6 +16488,7 @@ toaioi.lol
 toatech.com
 toboads.com
 todayoman.com
+todoenusa.com
 tofumarketing.com
 togenron.com
 tojadeso.xyz
@@ -16902,6 +16907,7 @@ unibots.in
 unicads.net
 uni.cc
 unicomadvertising.com
+unicommmedia.com
 uniconsent.com
 unileadnetwork.com
 unimportant-vehicle.pro

@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 16 May 2024 16:57:36 +0000
+# Last converted - Thu, 16 May 2024 20:57:54 +0000
 #
 
 pushatomic.com
@@ -47410,6 +47410,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+ny77jj.washingtonpost.com
 spoor-api.ft.com
 temp.twicomi.com
 tracking.carsales.com.au
@@ -50552,6 +50553,7 @@ i.posthog.com
 icu.getstorybox.com
 iddu1vvb7sk8-a.akamaihd.net
 identification.hotmart.com
+ihi.flowplayer.com
 imp.constantcontact.com
 impress.vcita.com
 inbound-analytics.pixlee.co
@@ -50862,6 +50864,7 @@ track.strife.com
 track.td3x.com
 track.untd.com
 track.uppromote.com
+track.us.org
 track.venatusmedia.com
 track.vscash.com
 track.yfret.com
@@ -51594,6 +51597,7 @@ statistics.rbi-nl.com
 trkr.shoppingminds.net
 dnt-userreport.com
 tags.op-palvelut.fi
+analytics.palitra.ge
 links.boom.ge
 stats-real-clients.zentech.gr
 heartbeat.pmd.444.hu
@@ -61786,6 +61790,12 @@ bqnxff.xyz
 wacisi.xyz
 dpzplb.xyz
 fredum.cn
+hoxdotye.icu
+cergbwa97.shop
+mgidskix.top
+sfkldbkldgdgh.com
+ssestherssa.com
+hphvd.cn
 bpxbzps.xyz
 zuvbzl.xyz
 zwdtvx.xyz
