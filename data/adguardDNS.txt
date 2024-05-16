@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 16 May 2024 04:57:48 +0000
+# Last converted - Thu, 16 May 2024 08:57:51 +0000
 #
 
 pushatomic.com
@@ -61781,6 +61781,8 @@ azsqkrc.icu
 wgidskie.top
 bqnxff.xyz
 wacisi.xyz
+dpzplb.xyz
+fredum.cn
 bpxbzps.xyz
 zuvbzl.xyz
 zwdtvx.xyz
