@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 15 May 2024 20:58:40 +0000
+# Last converted - Thu, 16 May 2024 01:46:09 +0000
 #
 
 01counter.com
@@ -43974,6 +43974,7 @@ pixel.onlinevivabem.com
 pixel.opcaovida.com
 pixel.opencursosdigitais.com
 pixel.opoderdamulher.com.br
+pixel.opoderdapnl.com.br
 pixel.oraculodepandora.com
 pixel.orango.dev
 pixel.oratoriaextreme.com
