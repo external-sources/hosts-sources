@@ -1,9 +1,16 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Thu, 16 May 2024 16:58:16 +0000
+# Last converted - Thu, 16 May 2024 20:58:35 +0000
 #
 
+realactionphotos.ca
+realads.com
+realalt.com
+realaudio.cimedia.net
+realave.com
+realbannerads.com
+realbid.brealtime.com
 realbird.ipromote.com
 real-buy.rentshop.org
 realcanadiansuperstore.ca.ssl.sc.omtrdc.net
@@ -8526,6 +8533,7 @@ rock2.directprimal.com
 rock.adpiano.com
 rock.cryptaloot.pro
 rock.cryptoloot.pro
+rock.directprimal.com
 rock.reauthenticator.com
 rock.webmine.pro
 rockabox.co
@@ -10038,7 +10046,6 @@ royale.rudrawebtech.com
 royale-bintang-hotel.com
 royaleducations.com.auapp.adjust.com
 royalegenerator.net
-royale-ssl.spongecell.com
 royalestate.com.pl
 royalet.drupalet.com
 royalfarm.customlinks.appsflyer.com
@@ -20303,6 +20310,7 @@ sea.advertising.yahoo.com
 sea.aimon.gsm.applicationinsights.io
 sea.cryptaloot.pro
 sea.cryptoloot.pro
+sea.directprimal.com
 sea.effectivemeasure.net
 sea.net.edu.cn
 sea.openxmarket.asia
@@ -70038,6 +70046,7 @@ ticmate.co.il
 ticonmamad.libraries.co.il
 ticonsalope.000webhostapp.com
 tic-parchi.com
+tics.techdirt.com
 ticstars.com
 tictacti.adk2x.com
 tic-tic-bam.com
@@ -104951,7 +104960,6 @@ webtoolsrooingdengincco.000webhostapp.com
 webtoolsx.brandreachsys.com
 webtop.acxiom.com
 webtracker.apicasystem.com
-webtracker.jp
 webtrackerplus.com
 webtracktechnologies.com
 webtracky.com
@@ -105018,6 +105026,7 @@ webwebmailpanelrondcub.000webhostapp.com
 webwendy.com
 webwereld.nl.intellitxt.com
 web-wetransfer-com.000webhostapp.com
+webwidgetz.duckdns.org
 webwise.bt.com
 webwise.com
 webwise.net
@@ -144193,7 +144202,6 @@ www.fusestats.com
 www.fussballlivestream.net
 www.futanarigalleries.com
 www.futbollive.net
-www.futeboltv.com
 www.futureboy.leadpages.co
 www.futureiet.com
 www.futurelean.com
@@ -157274,6 +157282,7 @@ www.voicefive.com
 www.voicemail.co.il
 www.voip.recs.shareaholic.com
 www.vokr-gtavc.ic.cz
+www.volantix.com
 www.volgatermolazer.ru
 www.volleyball-doppeldorf.de
 www.voltairnet.org
