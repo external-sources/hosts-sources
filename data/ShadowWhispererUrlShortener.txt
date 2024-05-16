@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Thu, 16 May 2024 13:02:31 +0000
+# Last converted - Thu, 16 May 2024 16:58:11 +0000
 #
 
 010.at
@@ -690,8 +690,10 @@ fw.ax
 fwdme.info
 fwme.eu
 gaa.st
+gacor22.me
 gacora.biz
 gacorbos.me
+gacor.tokyo
 gacorwak.xyz
 ganalytics.net
 garuk.in
@@ -1106,6 +1108,7 @@ lnk.vn
 lnkw.co
 lo.ge
 loki.at
+lompat.xyz
 longurl.in
 looktiny.com
 loom.ly
@@ -1359,6 +1362,7 @@ peercertification.wildalwhite.com
 pekcamke.link
 pendek.art
 peppy.link
+petir.vip
 ph88.link
 phst.in
 pia.sh
@@ -1848,6 +1852,7 @@ teleko.me
 tel-u.ac.id
 terabox.in
 terakki.link
+teratai888.ink
 terp.icu
 testing.bhscovid.org
 texn.cc
