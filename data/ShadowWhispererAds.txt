@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Thu, 16 May 2024 13:02:28 +0000
+# Last converted - Thu, 16 May 2024 16:58:08 +0000
 #
 
 00px.net
@@ -8034,6 +8034,7 @@ cloudedads.com
 cloudmark.mx
 cloud.mm.massmutual.com
 cloudmobi.net
+cloudpushnotification.com
 cloudsonline.net
 cloudtask.com
 cloudtraff.com
@@ -8650,6 +8651,7 @@ dc5di0w7yyxz9.cloudfront.net
 dc.banggood.com
 dcbhub.com
 dc.chillyroom.com
+dcdd.online
 dclick.io
 dcmagency.com
 dc-storm.com
@@ -8864,6 +8866,7 @@ disneyadsales.com
 disneyadvertising.com
 displayadimg.zumst.com
 displayadsdeepdive.com
+displayadserver.com
 displayad.zum.com
 display.edarling.de
 display.io
@@ -9014,6 +9017,7 @@ drsmediaexchange.com
 drtuproft.com
 druckundwerte-creatives.de
 drummondcentral.co.uk
+druzya.biz
 druzya.ru
 dr.yandex.net
 ds.11st.co.kr
@@ -9338,6 +9342,7 @@ evenads.com
 e-v-e-n.me
 event.hankyung.com
 eventige.com
+everestads.io
 everestads.net
 everestcash.com
 everestengagement.com
@@ -12450,6 +12455,7 @@ nbcdebris2021.com
 nbcsearch.com
 nblczw.com
 ncaudienceexchange.com
+ncnn.online
 nc.pubpowerplatform.io
 ncw6.net
 ndroip.com
