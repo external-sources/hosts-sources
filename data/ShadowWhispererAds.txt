@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Thu, 16 May 2024 20:58:26 +0000
+# Last converted - Fri, 17 May 2024 01:45:04 +0000
 #
 
 00px.net
@@ -14075,6 +14075,7 @@ pxc.otto.de
 pxlad.io
 pxlsrv.net
 pxlssl.ibpxl.com
+pxpp.online
 pykoo.com
 pymx5.com
 pzm.me
@@ -17741,6 +17742,7 @@ xcsghana.com
 xdbwoc.com
 xdisplay.site
 xdserv.com
+xdxx.online
 xebecindia.com
 xedo.me
 xekychacu.com

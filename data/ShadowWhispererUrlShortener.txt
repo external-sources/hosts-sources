@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Thu, 16 May 2024 20:58:30 +0000
+# Last converted - Fri, 17 May 2024 01:45:08 +0000
 #
 
 010.at
@@ -386,6 +386,7 @@ brg.mobi
 bridgeurl.com
 brisktopia.com
 brst.link
+bs303.com
 bslm.me
 bst.gg
 bstnd.in

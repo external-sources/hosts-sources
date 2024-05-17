@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Thu, 16 May 2024 20:58:29 +0000
+# Last converted - Fri, 17 May 2024 01:45:06 +0000
 #
 
 01counter.com
@@ -196,6 +196,7 @@
 4ahjdj2.com
 4cite.com
 4crisk.ai
+4d93007.com
 4jaehnfqizyx.controlconceptsusa.com
 4jnzhl0d0.com
 4jpfltrak.com
@@ -1928,6 +1929,7 @@ abercrombie92-email.com
 abercrombie-email.com
 abercrombiekids-email.com
 abercrombie-mail.com
+abfb63b.com
 ab.freerateupdate.com
 a.bgicash.com
 a.bigtennetwork.com
@@ -12931,6 +12933,7 @@ ariyh.com
 arizonapuzzle.com
 arkbluecross.info
 arkdcz.com
+arkm.network
 armadillo.axeneo7.qc.ca
 armadillo.caj.ms
 armadillo.gothiacup.se
@@ -12950,6 +12953,7 @@ arpeely.com
 arrivalist.com
 arsanalytics.com
 artefact.com
+artemisholidays.gr
 arttrk.com
 aruljohn.com
 arundo.com
@@ -13470,6 +13474,7 @@ basilisk.community-arts.net
 basilisk.kite.pub
 basilisk.laosima.com
 basilisk.mindful.dev
+basisstats.de
 basketballbelieve.com
 baskethotel.com
 baskettexture.com
@@ -14862,6 +14867,7 @@ celebrium-labs.com
 celebros-analytics.com
 celebrus.com
 celestialeuphony.com
+celestialquasar.com
 celestialspectra.com
 celligroup.acquaalmagreen.com
 cellrebel.com
@@ -15878,6 +15884,7 @@ conceptualizereading.com
 concernedchange.com
 concernedchickens.com
 concernedcondition.com
+concordeanalytics.com
 concrete.jondon.com
 condemnedcomb.com
 condenastdigital.com
@@ -16817,6 +16824,7 @@ c.se.msn.com
 cse.pasonatquila.com
 c.seznam.cz
 c.sg.msn.com
+csgowest.com
 cshhtrk.com
 cshield.io
 c.shopdisney.com
@@ -17934,6 +17942,7 @@ discover.dalton.com
 discover.datainterchange.com
 discover.daycareworks.com
 discover.desales.edu
+discoverdog.top
 discover.extrudehone.com
 discover.extrudehone.com.cn
 discover.flowserve.com
@@ -19967,6 +19976,7 @@ foamyfood.com
 foamypain.com
 focusmatic.com
 focusvision.com
+fogoj33.com
 followanalytics.com
 followborder.com
 follow.nuvisan.com
@@ -20388,6 +20398,7 @@ gc.newsweek.com
 gcprivacy.com
 g.dallasobserver.com
 gdd.li
+gdf63.fr
 gdilab.com
 gdlnks.com
 gdl-specs.tnt-digital.com
@@ -21473,6 +21484,7 @@ harvest-hosts.com
 harvesttrk.com
 hashmetric.com
 hasoffers.com
+hastek-statistikk.no
 hatchbuck.com
 hatefulrequest.com
 haul.philsystems.com
@@ -21967,6 +21979,7 @@ hyros.com
 hystericalcloth.com
 hystericalfinger.com
 hystericalhelp.com
+hytrack.top
 hzstats.com
 hz-telemetry.adobe.io
 i0.cz
@@ -26282,6 +26295,7 @@ jp15trk.com
 jp.bostonscientific.com
 jp.globalsign.marketing
 jpgtrk.imghst-de.com
+jplayer.online
 jpn.globalsign.com
 jp.pitneybowes.com
 jrtfx.scottspence.me
@@ -31155,6 +31169,7 @@ matomo.ting.click
 matomo.tink.de
 matomo.titan-networks.de
 matomo.titus.de
+matomotj.cc
 matomo.tkgbg.se
 matomo.tk.iteg.at
 matomo.tkpharos.com
@@ -32056,6 +32071,7 @@ meerkat.bigcrazylife.com
 meerkat.inprivy.io
 meerkat.missinglettr.com
 meerkat.nilsmielke.me
+meestats.de
 meet.deft.com
 meet.harriscompany.com
 meetings.awprx.com
@@ -35280,6 +35296,7 @@ nitto.tape-omakase-navi.com
 nitwhsj2.com
 njc.n-create.co.jp
 njn32n.com
+nkhealthtechinternational.com
 nkydma.newbuild.studio
 nl00.net
 nl02.net
@@ -35308,6 +35325,7 @@ nn.champsoftware.com
 n.news.com
 nnn.knippgroup.com
 no2ip.net
+nobleitaly.com
 nocodelytics-api.herokuapp.com
 nocodelytics-hasura.herokuapp.com
 nocodelytics.s3.eu-west-2.amazonaws.com
@@ -37443,6 +37461,7 @@ perspective.mobilelive.ca
 perspicacious.preciousexcess.com
 persuadesock.com
 persuadesupport.com
+perto.page
 pervasive.com
 perzonalization.com
 petametrics.com
@@ -45056,6 +45075,7 @@ prefs.enablehr.com.au
 prefs.enablehr.co.nz
 prefs.hrassured.com.au
 prefs.hrassured.co.nz
+preis-der-ikeastiftung.de
 premise.com
 premium.landix-club.net
 premiumyva.appspot.com
@@ -45854,6 +45874,7 @@ redsheriff.com
 redstatcounter.com
 redtrack.io
 redvertisment.com
+redvitomo.com
 redzone.rzsoftware.com
 reebokusnews.com
 reelanalytics.net
@@ -46458,6 +46479,7 @@ r.i.ua
 rivaliq.com
 riveraa.io
 river.data.ea.com
+rivergarden.com.ua
 river-mobile.data.ea.com
 rjmetrics.com
 rjoai.vitruvianform.com
@@ -47777,6 +47799,7 @@ seatsmoke.com
 sec-analytics.panasonic.co.uk
 sec-analytics.panasonic.de
 seccosquared.com
+secinsol.com
 secmetrics.bankcoop.ch
 secmetrics.bkb.ch
 secmetrics.friendscout24.be
@@ -53916,6 +53939,7 @@ stat.daylitis.com
 stat.daylitis.fr
 stat.dcm.sackee.com
 stat.d-copernicus.de
+stat-ddesign.fr
 stat.dd-media.de
 stat.ddne.at
 stat.dekov.dk
@@ -64364,6 +64388,7 @@ tellius.com
 tellnsearch.com
 tellofy.com
 tellus.hr
+tellyou.info
 telmetrics.com
 telogical.com
 telogicalsystems.com
@@ -64374,6 +64399,7 @@ t.email.usopen.org
 t.email.weekday.com
 temelio.com
 tempertrick.com
+templetoninsights.com
 tempo-client-metric-prod.s3.amazonaws.com
 temptrack.highwaytransport.com
 tempttalk.com
@@ -65845,6 +65871,7 @@ traffic.ollo.it
 traffic.robey.one
 traffic.shiplift.dev
 trafficstars.com
+trafficstats.online
 traffic.vioffice.de
 trailers.transwest.com
 training.autoentry.com
@@ -66267,6 +66294,7 @@ ttb.haketa-seikotsu.jp
 ttcontacts.com
 t.thefundedtraderprogram.com
 t.timetorisesummit.com
+ttjj001.xyz
 ttmetrics.faz.net
 ttmetrics.jcpenney.com
 tt.natwest.com
@@ -66552,6 +66580,7 @@ umami.seeyue.top
 umami.selectcode.dev
 umami.sofitek.it
 umami.steinke.dev
+umamis.top
 umami.sznm.dev
 umami.takuma.de
 umami.thepiu.de
@@ -66979,6 +67008,7 @@ violetreading.com
 viper.kyrelldixon.com
 viper.sitesauce.app
 viper.tomkiss.net
+vipjishu.top
 vip.swiftcapital.com
 virgoplato.com
 virsae.com
@@ -67236,6 +67266,7 @@ wampa.jmsinf.com
 wa.mybookie.ag
 wantingwindow.com
 wa.nycgovparks.org
+waos-soft.ru
 wapi.ndtv.com
 wap.myhosting.com
 w.appfiscal.info
@@ -67546,6 +67577,7 @@ webshop.loading-systems.com
 websidestory.com
 websitealive.com
 website-analytics.net
+websitenstatistiken.de
 websitetest.com
 websitetrafficreport.com
 web.smithsinterconnect.com
@@ -67665,6 +67697,7 @@ webvisor.com
 web.webcas.jp
 web.weinig.com
 web.wiru.co.za
+webworxshop.com
 webxtsvc.microsoft.com
 wecantrack.com
 wecareforcold.viessmann.com
@@ -72473,6 +72506,7 @@ youbora.com
 youboranqs01.com
 yougetsignal.com
 youip.net
+youji1.buzz
 youlead.pl
 youmeokay.io
 you.myubiquity.com
