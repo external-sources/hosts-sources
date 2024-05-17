@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Fri, 17 May 2024 13:01:45 +0000
+# Last converted - Fri, 17 May 2024 16:58:34 +0000
 #
 
 007-dvd.com
@@ -1109,6 +1109,7 @@ baconplay.com
 badults.se
 baeelly.com
 bafizart.com
+bagasi.info
 baglucky.shop
 bahamasparadisecruise.com
 bailiffsystems.com
@@ -6607,6 +6608,7 @@ lakecountytimes.com
 laketahoesun.com
 lakeviewbostons.com
 lambstee.com
+lampoon.top
 lancasterpoodlehome.com
 lancometee.com
 land-ice.com
@@ -10363,6 +10365,7 @@ sentryhp.com
 seoaklandnews.com
 seohiotimes.com
 seoklahomanews.com
+seprey.info
 sequserial.com
 seramif.com
 serendie.com

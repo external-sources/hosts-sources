@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Fri, 17 May 2024 13:01:47 +0000
+# Last converted - Fri, 17 May 2024 16:58:36 +0000
 #
 
 010.at
@@ -1810,6 +1810,7 @@ strikersoftsolutions.com
 ststus.store
 sub2unlock.net
 s.ub.ac.id
+sukakata.site
 suoc.me
 suo.su
 superbidmagnet.com
