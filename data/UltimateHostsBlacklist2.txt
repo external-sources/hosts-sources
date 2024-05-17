@@ -1,10 +1,9 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Fri, 17 May 2024 16:58:42 +0000
+# Last converted - Fri, 17 May 2024 20:58:42 +0000
 #
 
-realactionphotos.ca
 realads.com
 realalt.com
 realaudio.cimedia.net
@@ -8533,7 +8532,6 @@ rock2.directprimal.com
 rock.adpiano.com
 rock.cryptaloot.pro
 rock.cryptoloot.pro
-rock.directprimal.com
 rock.reauthenticator.com
 rock.webmine.pro
 rockabox.co
@@ -52781,7 +52779,6 @@ stepnation.com
 steponez.com
 steponshitplease.000webhostapp.com
 stepphoto.ru
-stepplane.com
 steppyweb.adx1.com
 stepshome.in
 stepstone.112.2o7.net
@@ -69363,7 +69360,6 @@ thor.awtank.com
 thor.bankofamfrica.com
 thor.beck-technologies.com
 thor.bellsourth.com
-thor.blindferret.media
 thor.blueshielsca.com
 thor.bodenmarkt.info
 thor.bravenet.com
@@ -110150,7 +110146,6 @@ wrzosek.go.pl
 ws1.15x.net
 ws1.2020search.com
 ws1.bmcm.pw
-ws1.bmnr.pw
 ws001.coinerra.com
 ws01.crypto-loot.com
 ws01.do.nu
@@ -110167,7 +110162,6 @@ ws1-live.live.eks.hotjar.com
 ws1-staging.hotjar.com
 ws2.15x.net
 ws2.bmcm.pw
-ws2.bmnr.pw
 ws2.cdnsoar.com
 ws02.crypto-loot.com
 ws02.do.nu
@@ -136379,7 +136373,6 @@ www.alheweny.org
 www.alhpa.gr.com
 www.aliasusa.com
 www.alibabadlove.org
-www.alibestsale.com
 www.alibexpress.com
 www.alicantocapital.com
 www.alice-aol.com
@@ -146654,7 +146647,6 @@ www.jav-cafe.com
 www.javcens.com
 www.javdb.club
 www.javdb.online
-www.javdb.site
 www.javdirect.com
 www.javeal.com
 www.javeat.com
@@ -158069,17 +158061,26 @@ www.ws015.www.jqwww.download
 www.ws016.www.datasecu.download
 www.ws016.www.jqwww.download
 www.ws017.www.datasecu.download
+www.ws017.www.jqwww.download
 www.ws018.www.datasecu.download
+www.ws018.www.jqwww.download
 www.ws019.www.datasecu.download
+www.ws019.www.jqwww.download
 www.ws020.www.datasecu.download
+www.ws020.www.jqwww.download
 www.ws021.www.datasecu.download
+www.ws021.www.jqwww.download
 www.ws022.www.datasecu.download
+www.ws022.www.jqwww.download
 www.ws23.crypto.csgocpu.com
 www.ws023.www.datasecu.download
+www.ws023.www.jqwww.download
 www.ws24.crypto.csgocpu.com
 www.ws024.www.datasecu.download
+www.ws024.www.jqwww.download
 www.ws25.crypto.csgocpu.com
 www.ws025.www.datasecu.download
+www.ws025.www.jqwww.download
 www.ws026.www.datasecu.download
 www.ws026.www.jqwww.download
 www.ws027.www.datasecu.download
