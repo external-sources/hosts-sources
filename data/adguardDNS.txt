@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 17 May 2024 08:58:01 +0000
+# Last converted - Fri, 17 May 2024 13:01:12 +0000
 #
 
 mhcfsjbqw.com
@@ -1182,6 +1182,7 @@ redakcija.alo.rs
 traffic.styria.hr
 widget.admiral.hr
 widgets.jutarnji.hr
+widget.marktjagd.de
 eph-adsjutarnji.cdn.sysbee.net
 subs.vingd.com
 banner.mob.hr
@@ -6104,6 +6105,7 @@ bilingualfestive.com
 bilingualwalking.com
 bilkedsquit.com
 bilkersdtente.uno
+bilkersteds.com
 billiardsnotealertness.com
 billiardssequelsticky.com
 billionpops.com
@@ -7527,6 +7529,7 @@ careuropecreatures.com
 carfulsranquel.com
 cargodescent.com
 cargotropical.com
+caribedkurukh.com
 caricaturechampionshipeye.com
 caringdeath.pro
 caringdefi.com
@@ -7553,6 +7556,7 @@ carrysincubi.com
 carsickpractice.com
 cartedneogene.com
 cartining-specute.com
+cartmansneest.com
 cartrigechances.com
 caruagedlr.com
 carvedcoming.top
@@ -12623,6 +12627,7 @@ epagogerepines.com
 epailseptox.com
 epcpbbqi.xyz
 epctwfwy.com
+eperlanhelluo.com
 epewvpvddaxtv.com
 ephebedori.life
 ephedrasebait.digital
@@ -20702,6 +20707,7 @@ laukaivi.net
 laulme.info
 launchbit.com
 laundrydesert.com
+laupelezoow.xyz
 laureevie.com
 lauriestatuestroll.com
 laushoar.xyz
@@ -35507,6 +35513,7 @@ treasureantennadonkey.com
 treasured-dad.pro
 treasureralludednook.com
 treasureravenvulgar.com
+treathuffily.com
 treatmentaeroplane.com
 treatrechurn.uno
 treatyaccuserevil.com
@@ -47444,6 +47451,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+analytics.denimdream.com
 ny77jj.washingtonpost.com
 spoor-api.ft.com
 temp.twicomi.com
@@ -54459,7 +54467,6 @@ lokalwerben.t-online.de
 quartermedia-ad-service.net
 ad.dl.mainpost.de
 plx.eispop.com
-widget.marktjagd.de
 cwi.re
 a.zdg.de
 afl-static-cdn.newbiz-prod.stroeerws.de
@@ -61836,6 +61843,7 @@ txmeeqz.icu
 ilvqyya.cn
 88tm6.cc
 jgntjtyf.icu
+qpzegye.cn
 cqpph.cn
 hphvd.cn
 bpxbzps.xyz
