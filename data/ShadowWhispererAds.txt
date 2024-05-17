@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Fri, 17 May 2024 13:01:44 +0000
+# Last converted - Fri, 17 May 2024 16:58:31 +0000
 #
 
 00px.net
@@ -16306,6 +16306,7 @@ textads.sexmoney.com
 text-link-ads.com
 tfcash.com
 t.frtyk.com
+tfxnl.pro
 tg1.modoro360.com
 tg1.playstream.media
 tgaqxo.com
