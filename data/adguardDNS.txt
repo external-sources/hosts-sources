@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 17 May 2024 20:57:59 +0000
+# Last converted - Sat, 18 May 2024 01:43:09 +0000
 #
 
+lwjje.com
 mhcfsjbqw.com
 gwggiroo.com
 nstoodthestatu.info
@@ -8043,6 +8044,7 @@ checkyofeed.com
 cheddaramusias.life
 cheebetoops.com
 cheecmou.com
+cheeghek.xyz
 cheekobsu.com
 cheekysleepyreproof.com
 cheelroo.net
@@ -32604,6 +32606,7 @@ snidethereto.com
 sniejankmqq.com
 sniffleawag.top
 snipersex.com
+snipishdements.com
 snippystowstool.com
 snippyteevee.com
 snitchgutsdainty.com
@@ -38069,6 +38072,7 @@ webtradehub.com
 wecjdqpinrpaugf.com
 wecouldle.com
 wedflossbecause.com
+wedgedgeoduck.com
 wedgierbirsit.com
 wednesdaygranddadlecture.com
 wednesdaynaked.com
@@ -50694,6 +50698,7 @@ page-events-ustats.udemy.com
 pagesense-collect.zoho.com
 pagesocket.glam.com
 pap.qualityunit.com
+parallax.askmediagroup.com
 pegasus.unifygroup.com
 perso.aws.arc.pub
 pets.channeladvisor.com
@@ -50742,6 +50747,7 @@ px.marchex.io
 px.spiceworks.com
 pylon.micstatic.com
 qubitanalytics.appspot.com
+rampjs-cdn.system1.com
 reach-id.orbit.tm-awx.com
 realm.hearst3pcc.com
 recs.shareaholic.com
@@ -50882,6 +50888,7 @@ telemetry.tableausoftware.com
 telemetry.vtex.com
 test.takedwn.ws
 timejs.game.163.com
+tk.pathmonk.com
 tm.vendemore.com
 tms.fmm.io
 tr-op.datatrics.com
@@ -61848,6 +61855,14 @@ ilvqyya.cn
 88tm6.cc
 jgntjtyf.icu
 qpzegye.cn
+uyohyy.xyz
+999db.cn
+tgidskii.top
+mqcoycx.icu
+ljdofz.xyz
+zozwnv.xyz
+txhfgwgkwt7.asia
+xytcboyz.icu
 cqpph.cn
 hphvd.cn
 bpxbzps.xyz
