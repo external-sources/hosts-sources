@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 18 May 2024 04:57:40 +0000
+# Last converted - Sat, 18 May 2024 08:57:43 +0000
 #
 
 lwjje.com
@@ -41669,6 +41669,7 @@ googlevads-cn.com
 02777e.site
 05751c.site
 07e197.site
+1350c3.xyz
 295c.site
 2aeabdd4-3280-4f03-bc92-1890494f28be.xyz
 3a2e.site
@@ -47461,6 +47462,8 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+matomo.motorpresse.de
+matomo.menshealth.de
 analytics.denimdream.com
 ny77jj.washingtonpost.com
 spoor-api.ft.com
@@ -61862,10 +61865,13 @@ mqcoycx.icu
 ljdofz.xyz
 zozwnv.xyz
 txhfgwgkwt7.asia
+txhfgwgkwt8.asia
 xytcboyz.icu
 cqpph.cn
 hphvd.cn
 bpxbzps.xyz
+dsa22.com
+mianyaojsj.com
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
