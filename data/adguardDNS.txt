@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 18 May 2024 20:58:05 +0000
+# Last converted - Sun, 19 May 2024 01:49:40 +0000
 #
 
 lwjje.com
@@ -61885,6 +61885,12 @@ hphvd.cn
 bpxbzps.xyz
 dsa22.com
 mianyaojsj.com
+lnxkrd.xyz
+oxmvcg.xyz
+ugidskit.top
+999fb.cn
+ltfpbp.xyz
+foscvbu.icu
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
