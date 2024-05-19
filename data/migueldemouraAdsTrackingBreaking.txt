@@ -1,7 +1,7 @@
 # migueldemouraAdsTrackingBreaking
 #
 # Converted from - https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking-breaking
-# Last converted - Sun, 19 May 2024 01:50:09 +0000
+# Last converted - Sun, 19 May 2024 04:58:28 +0000
 #
 
 adespresso.com
