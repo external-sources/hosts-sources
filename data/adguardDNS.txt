@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 19 May 2024 04:58:00 +0000
+# Last converted - Sun, 19 May 2024 08:57:43 +0000
 #
 
 lwjje.com
@@ -55044,6 +55044,7 @@ ambassador.referralhero.com
 amd.sellingsimplified.net
 analytics.allas.se
 analytics.apotekhjartat.se
+analytics.arvika.se
 analytics.ciseway.se
 analytics.elle.se
 analytics.femina.se
