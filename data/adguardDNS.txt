@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 19 May 2024 16:57:37 +0000
+# Last converted - Sun, 19 May 2024 20:58:02 +0000
 #
 
 lwjje.com
@@ -56314,6 +56314,7 @@ ads.phunuonline.com.vn
 ads.phunusuckhoe.vn
 ads.phunuvagiadinh.vn
 ads.salemall.vn
+ads.seovietnam.pro
 ads.sexyland.vn
 ads.songmoi.vn
 ads.suckhoegiadinh.com.vn
