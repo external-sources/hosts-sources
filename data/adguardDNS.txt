@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 20 May 2024 01:45:25 +0000
+# Last converted - Mon, 20 May 2024 04:57:38 +0000
 #
 
 lwjje.com
