@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 20 May 2024 16:58:11 +0000
+# Last converted - Mon, 20 May 2024 20:57:53 +0000
 #
 
+moawgsfidoqm.com
 mkenativji.com
 lwjje.com
 mhcfsjbqw.com
@@ -2165,6 +2166,7 @@ a-waiting.com
 a00s.net
 a06bbd98194c252.com
 a11k.com
+a14net.com
 a14refresh.com
 a14tdsa.com
 a15c5009bcbe272.com
