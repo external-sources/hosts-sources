@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sun, 19 May 2024 20:58:44 +0000
+# Last converted - Mon, 20 May 2024 01:46:09 +0000
 #
 
 realads.com
