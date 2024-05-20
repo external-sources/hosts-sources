@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 20 May 2024 04:57:38 +0000
+# Last converted - Mon, 20 May 2024 08:57:46 +0000
 #
 
 lwjje.com
@@ -38197,7 +38197,6 @@ wgbwlgzthobp.com
 wgchrrammzv.com
 wghzbgmjpyig.com
 wgkggub.com
-wgplayer.com
 wgpsjcpdulptl.com
 wgsxteihr.com
 wgxpirautgxpap.com
@@ -41937,6 +41936,7 @@ toplist.raidrush.ws
 track.10bet.com
 trendads.reactivebetting.com
 typicalstudent.org
+universal.wgplayer.com
 vice-publishers-cdn.vice.com
 video-ads.a2z.com
 videosvc.ezoic.com
@@ -41956,6 +41956,7 @@ widgets.progrids.com
 widgets.tree.com
 winonexd.b-cdn.net
 wixlabs-adsense-v3.uc.r.appspot.com
+wpb.wgplayer.com
 yield-op-idsync.live.streamtheworld.com
 zv.7vid.net
 ad.intl.xiaomi.com
@@ -61899,6 +61900,7 @@ ajkggo.xyz
 kzpizjp.cn
 ogidskik.top
 yhimpnr.icu
+tdhnxf.xyz
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
