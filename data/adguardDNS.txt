@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 21 May 2024 16:58:11 +0000
+# Last converted - Tue, 21 May 2024 20:57:38 +0000
 #
 
 synchroscript.deliveryengine.adswizz.com
@@ -44063,6 +44063,8 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+sync.outbrain.com
+elb.the-ozone-project.com
 pbcs.nypost.com
 pbcs.decider.com
 pbcs.pagesix.com
@@ -47502,6 +47504,9 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+analytics.lasegunda.ecn.cl
+analytics.emol.com
+webc2s.pubgw.yahoo.com
 tracking.cosme.net
 matomo.motorpresse.de
 matomo.menshealth.de
@@ -50889,7 +50894,6 @@ streams.cablecar.sph.com.sg
 sunlightmetrics.b-cdn.net
 survey.interquest.com
 surveywall-api.survata.com
-sync.outbrain.com
 t.a3cloud.net
 t.auditedmedia.org.au
 t.bimvid.com
@@ -51831,7 +51835,6 @@ moa.mediaoutcast.com
 stat.ringier.sk
 1to1.bbva.com
 analitica.webrpp.com
-analytics.lasegunda.ecn.cl
 analytics.mercadolibre.com
 analytics.neoogilvy.uy
 bpt.webedia-group.com
