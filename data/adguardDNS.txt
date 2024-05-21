@@ -1,9 +1,11 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 21 May 2024 04:58:38 +0000
+# Last converted - Tue, 21 May 2024 08:57:54 +0000
 #
 
+pubtrky.com
+mpqgoircwb.com
 moawgsfidoqm.com
 mkenativji.com
 lwjje.com
@@ -28639,7 +28641,6 @@ pubnation.com
 pubovore.com
 pubpowerplatform.io
 pubtm.com
-pubtrky.com
 puczuxqijadg.com
 puddingdefeated.com
 puddleincidentally.com
@@ -41712,6 +41713,7 @@ googlevads-cn.com
 4e55.xyz
 4e68.xyz
 58e0.site
+5fd6bc.xyz
 634369.xyz
 657475b7-0095-478d-90d4-96ce440604f9.online
 68646f.xyz
@@ -47500,6 +47502,7 @@ dataunlocker.com
 wizaly.com
 affex.org
 tagman.britishairways.com
+tracking.cosme.net
 matomo.motorpresse.de
 matomo.menshealth.de
 analytics.denimdream.com
@@ -62287,6 +62290,8 @@ vfgajrk.cn
 mvirkw.xyz
 jy147a.com
 rayajmp.icu
+ca2686564a.com
+dpedrt.xyz
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
