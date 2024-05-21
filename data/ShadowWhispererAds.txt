@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 20 May 2024 20:58:33 +0000
+# Last converted - Tue, 21 May 2024 01:45:18 +0000
 #
 
 00px.net
@@ -9374,6 +9374,7 @@ exchange-it.com
 exchange-traffic.com
 exdynsrv.com
 exe.bid
+exee.online
 exelbid.com
 exhaustedtype.pro
 exhibitsneeze.com
@@ -12216,6 +12217,7 @@ mpsuadv.ru
 mpush.cloud
 mqmm.online
 mqwcuesny6.ru
+mrmserve.com
 mrndigital.in
 mross011.com
 mross022.com
