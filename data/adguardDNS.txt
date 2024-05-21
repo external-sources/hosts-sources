@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 21 May 2024 08:57:54 +0000
+# Last converted - Tue, 21 May 2024 13:03:26 +0000
 #
 
+synchroscript.deliveryengine.adswizz.com
 pubtrky.com
 mpqgoircwb.com
 moawgsfidoqm.com
@@ -10961,7 +10962,6 @@ distantbelly.com
 distantsoil.com
 distilinborn.com
 distiljunctioninstallation.com
-distilled.ie
 distinct-bicycle.com
 distinguishedshrug.com
 distinguishtendhypothesis.com
@@ -54005,6 +54005,7 @@ vw.onlinia.net
 exchange.informer.ua
 hdvmyo.com
 adsy.mail.bg
+kingads2.org
 ad-service.shop
 yonderdim.com
 gr.hdream.cfd
@@ -62297,6 +62298,18 @@ zwdtvx.xyz
 zwxxcb.icu
 zxfdbr.xyz
 zxqiwe.cn
+555bbb777www.com
+66308888.com
+666bbb888www.com
+777aa888bb.com
+888aa111bb.com
+888aa222bb.com
+mito03.top
+mttpsy6666.cc
+w7044.com
+yuanpinghengkangfuyouxiangongsi.top
+efs604.top
+692881.com
 01v62.xyz
 052db.website
 053h94.com
