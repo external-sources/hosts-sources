@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Tue, 21 May 2024 20:58:14 +0000
+# Last converted - Wed, 22 May 2024 01:46:24 +0000
 #
 
 010.at
@@ -1755,6 +1755,7 @@ slecastle.com
 slims.us
 slnk.se
 slpre.com
+s.lu
 slurl.keatsmedia.ca
 slutbook.co
 sm4ll.in
