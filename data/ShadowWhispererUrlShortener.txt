@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Wed, 22 May 2024 13:03:19 +0000
+# Last converted - Wed, 22 May 2024 16:58:36 +0000
 #
 
 010.at
@@ -236,6 +236,7 @@ anv-apparel.life
 aorracer.com
 apertibumn.org
 ap.lc
+apll.es
 aporasal.net
 app.helpline-app.com
 appna.me
@@ -1730,6 +1731,7 @@ shrturll.com
 shrturl.site
 sh.sg
 sh.st
+shtlink.eu
 sht.moe
 shtnar.com
 shtn.me
@@ -1970,6 +1972,7 @@ trl.ca
 troasters.com
 troya.tk
 trpd.xyz
+trsm.es
 trucri.me
 trunkateurl.com
 try2link.com
