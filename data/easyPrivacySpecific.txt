@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 22 May 2024 01:46:09 +0000
+# Last converted - Wed, 22 May 2024 04:58:19 +0000
 #
 
 a-reporting.nytimes.com
@@ -599,6 +599,7 @@ user-metrics.onthemarket.com
 usmetric.rediff.com
 v.adblockultimate.net
 v.ctrl.blog
+vf.startpage.com
 views.arabnews.com
 views.asurascans.com
 vortex.hulu.com
