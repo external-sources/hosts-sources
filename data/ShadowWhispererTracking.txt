@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 22 May 2024 01:46:22 +0000
+# Last converted - Wed, 22 May 2024 04:58:32 +0000
 #
 
 01counter.com
@@ -17442,6 +17442,7 @@ data.gotinder.com
 datag.polo.com
 data.granite.ie
 data.holtwick.de
+data-insight365.com
 datainsights.domainhotelli.fi
 datainsights.loopia.se
 dataintheraw.com
@@ -19924,6 +19925,7 @@ fjikgr.dennmart.com
 fksnk.com
 flacktek.speedmixer.com
 flagcounter.com
+flagship.io
 flakyfeast.com
 flameuncle.com
 flamingo.abihome.de
@@ -27847,6 +27849,7 @@ lumtest.com
 lunchroomlock.com
 lungfish.datadividendproject.com
 lurker.olx.com.br
+l.usaa.com
 lushpalmlink.com
 lustroushaven.com
 luxury-intl.rssc.com
@@ -34951,6 +34954,7 @@ mvib.es
 m.vloggiapp.com
 mvpindex.com
 mvtracker.com
+mvt.usaa.com
 mwa.financial.com
 mw.mynavi-job20s.jp
 mx1.e4.netspend.com
