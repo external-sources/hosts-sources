@@ -1,12 +1,9 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Thu, 23 May 2024 16:58:35 +0000
+# Last converted - Thu, 23 May 2024 20:58:49 +0000
 #
 
-realads.com
-realalt.com
-realaudio.cimedia.net
 realave.com
 realbannerads.com
 realbid.brealtime.com
@@ -33425,7 +33422,6 @@ sitebeat.pxf.io
 sitebildz.000webhostapp.com
 sitebilling.adriver.ru
 sitebotnet.000webhostapp.com
-sitebrand.geeks.com
 sitebuddy.baremetrics.com
 sitebuilder.exactag.com
 sitebuilder.pxf.io
@@ -55728,6 +55724,7 @@ summrtime1.000webhostapp.com
 summum.postaffiliatepro.com
 summumaining.com
 sumo.com
+sumo.cpufan.club
 sumo.cryptonoter.com
 sumo.hashvault.pro
 sumo.push.sumo.com
@@ -69359,7 +69356,6 @@ thor.awtank.com
 thor.bankofamfrica.com
 thor.beck-technologies.com
 thor.bellsourth.com
-thor.blindferret.media
 thor.blueshielsca.com
 thor.bodenmarkt.info
 thor.bravenet.com
@@ -70042,6 +70038,7 @@ ticmate.co.il
 ticonmamad.libraries.co.il
 ticonsalope.000webhostapp.com
 tic-parchi.com
+tics.techdirt.com
 ticstars.com
 tictacti.adk2x.com
 tic-tic-bam.com
@@ -134940,7 +134937,6 @@ www.aamiami.org
 www.aampr.org
 www.aanqylta.com
 www.aa-oc.org
-www.aapz.com
 www.aar.gr.com
 www.aarbur.com
 www.aaronabel.com
@@ -140781,7 +140777,6 @@ www.cpmprofit.com
 www.cpmstar.com
 www.cpmterra.com
 www.cpsf.info
-www.cpufan.club
 www.cpursera.org
 www.cpx24.com
 www.cpxdeliv.com
@@ -143281,7 +143276,6 @@ www.f2.99hy.info
 www.f2ncracker.112.2o7.net
 www.f3emyg4vtl0qsgf.smetrics.traderonline.com
 www.f4ds4g6253dh737d648h7j6489.000webhostapp.com
-www.f4g6pa.blogspot.jp
 www.f4u.pl
 www.f5.adx1.com
 www.f5.resade.fra-01.braze.eu
@@ -146558,7 +146552,6 @@ www.izarc.fr
 www.izayoinet.info
 www.izvestia.info
 www.j3safetyismyname.com
-www.j9lib.com
 www.j12lib.com
 www.j22now.leadpages.co
 www.j.ubeat.info
