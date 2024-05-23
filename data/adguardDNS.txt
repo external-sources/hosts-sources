@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 23 May 2024 08:57:48 +0000
+# Last converted - Thu, 23 May 2024 13:01:17 +0000
 #
 
 2475april2024.com
@@ -7642,6 +7642,7 @@ campjupiterjul.com
 camplacecash.com
 camprime.com
 camptrck.com
+cams.gratis
 camschat.net
 camshq.info
 camsitecash.com
@@ -10989,6 +10990,7 @@ directuklyecon.pics
 dirhamsleered.com
 dirtinessboiled.com
 dirtrecurrentinapptitudeinapptitude.com
+dirty.games
 dirtyasmr.com
 dirtysuspension.com
 disable-adverts.com
@@ -13522,6 +13524,7 @@ fadegranted.com
 fademployedtransactions.com
 fadf617f13.com
 fadfussequipment.com
+fadingsulphur.com
 fadraiph.xyz
 fadrovoo.xyz
 fadsims.com
@@ -32496,6 +32499,7 @@ sjkekxjkca.com
 sjkzeivw.com
 sjmbwxnqz.com
 sjolcdkqwiybh.xyz
+sjsabb.com
 sjtactic.com
 sjtbhdeakgsgr.com
 sjteyeztnf.com
@@ -33457,6 +33461,7 @@ statistic-data.com
 statisticresearch.com
 statisticscensordilate.com
 statisticseither.com
+statorkumyk.com
 statossy.com
 stats-best.site
 statsforads.com
@@ -47669,8 +47674,10 @@ webtrekk-us.net
 webtrekk.de
 webtrekk.net
 wizaly.com
-|mailgun.org
+d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+c950.chronicle.com
+forecast.nouvelobs.com
 analytics.vg
 vf.startpage.com
 analytics-prd.aws.wehaa.net
@@ -62479,6 +62486,7 @@ dreuaxk.icu
 isylieo.top
 mweriox.top
 iwanshang8.asia
+udheansv.com
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu
