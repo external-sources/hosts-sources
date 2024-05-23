@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 22 May 2024 20:58:44 +0000
+# Last converted - Thu, 23 May 2024 01:45:27 +0000
 #
 
 00px.net
@@ -11498,6 +11498,7 @@ lovercash.com
 lovvisad.com
 lowgraveleron.com
 lowtid.xyz
+loyaltyboost.co
 lpnjump.com
 lporirxe.com
 lp.stargames.com
@@ -12686,6 +12687,7 @@ notifpush.com
 notify.adobe.io
 notifyai.io
 notify.bubble.is
+notify.dev
 notify.hindustantimes.com
 notifyon.com
 notifysrv.com
@@ -13300,6 +13302,7 @@ pegocash.com
 peiceline.com
 pelcro.com
 pelisloadtop.com
+pemsrv.com
 pencilhousegroup.com
 pencilvent.com
 pengenanu.files.im
