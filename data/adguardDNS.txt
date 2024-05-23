@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 23 May 2024 04:57:41 +0000
+# Last converted - Thu, 23 May 2024 08:57:48 +0000
 #
 
 2475april2024.com
@@ -41866,6 +41866,7 @@ googlevads-cn.com
 634369.xyz
 657475b7-0095-478d-90d4-96ce440604f9.online
 68646f.xyz
+7608d5.xyz
 7e809ed7-e553-4e29-acb1-4e3c0e986562.site
 7fc8.site
 8acc5c.site
@@ -47670,6 +47671,7 @@ webtrekk.net
 wizaly.com
 |mailgun.org
 tagman.britishairways.com
+analytics.vg
 vf.startpage.com
 analytics-prd.aws.wehaa.net
 tracking-api.passeidireto.com
@@ -62476,6 +62478,7 @@ kmwclt.xyz
 dreuaxk.icu
 isylieo.top
 mweriox.top
+iwanshang8.asia
 zuvbzl.xyz
 zwdtvx.xyz
 zwxxcb.icu

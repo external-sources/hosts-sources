@@ -1,7 +1,7 @@
 # easyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 23 May 2024 04:58:09 +0000
+# Last converted - Thu, 23 May 2024 08:58:14 +0000
 #
 
 100widgets.com
@@ -780,7 +780,6 @@ qubitanalytics.appspot.com
 query.petametrics.com
 r.mail.ru
 r.skimresources.com
-r.stripe.com
 ramp.purch.com
 rampjs-cdn.system1.com
 reach-id.orbit.tm-awx.com
