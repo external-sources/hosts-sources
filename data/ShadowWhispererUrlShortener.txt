@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Fri, 24 May 2024 13:02:17 +0000
+# Last converted - Fri, 24 May 2024 16:58:16 +0000
 #
 
 010.at
@@ -1533,6 +1533,7 @@ ruhgsliughs.com
 rumahide.my.id
 rusd.in
 rwx.es
+rwz.fr
 rxe.lol
 rx.link
 ryps.tk
