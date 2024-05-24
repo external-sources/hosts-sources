@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Fri, 24 May 2024 13:02:16 +0000
+# Last converted - Fri, 24 May 2024 16:58:15 +0000
 #
 
 01counter.com
@@ -9622,6 +9622,9 @@ analytics.pointclick.digital
 analytics.pointdrive.linkedin.com
 analytics.pokerpro.cc
 analytics.polar1.de
+analyticspolarapp.co
+analyticspolarapp.io
+analyticspolarapp.us
 analytics.polar-motion.com
 analytics.policendirekt.com
 analytics.policendirekt.de
@@ -22404,6 +22407,7 @@ impulsehands.com
 impulsejewel.com
 impulselumber.com
 imrworldwide.com
+ims-analytics.cz
 im.techrepublic.com
 imtwjwoasak.com
 imyellowpages.com
@@ -34838,6 +34842,7 @@ mpminfosoft.com
 mp-newmedia.com
 mpnrs.com
 mpocurull.crm.es
+mp.paleovalley.com
 mp.plant-ing.de
 mp.relias.co.uk
 mps.nbcuni.com
@@ -64810,6 +64815,7 @@ theoceannetwork.inttra.com
 theonlymarket.net
 thepertgroup.com
 thepointyspritesclub.com
+thepolaranalyticsapp.io
 therapeuticcars.com
 t.herceptin.com
 thesemetrics.org
@@ -67027,6 +67033,10 @@ use-kompyte.com
 use.leoforce.com
 uselesslumber.com
 usenetjunction.com
+usepolaranalytic.co
+usepolarapp.co
+usepolarapp.eu
+usepolarapp.io
 useproof.com
 useranalytics.kcftech.com
 user.argusleader.com
