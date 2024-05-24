@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Fri, 24 May 2024 16:58:21 +0000
+# Last converted - Fri, 24 May 2024 20:58:22 +0000
 #
 
 realave.com
@@ -8529,6 +8529,7 @@ rock2.directprimal.com
 rock.adpiano.com
 rock.cryptaloot.pro
 rock.cryptoloot.pro
+rock.directprimal.com
 rock.reauthenticator.com
 rock.webmine.pro
 rockabox.co
@@ -20306,6 +20307,7 @@ sea.advertising.yahoo.com
 sea.aimon.gsm.applicationinsights.io
 sea.cryptaloot.pro
 sea.cryptoloot.pro
+sea.directprimal.com
 sea.effectivemeasure.net
 sea.net.edu.cn
 sea.openxmarket.asia
@@ -50684,6 +50686,7 @@ static.admanmedia.com
 static.admarketplace.com
 static.admaximize.com
 static.admitad.com
+static.admysports.com
 static.adplxmd.com
 static.adrd.co
 static.adreactor.com
@@ -110297,7 +110300,6 @@ ws014.www.jqwww.download
 ws14-live.live.eks.hotjar.com
 ws014-proxy-ajcryptominer.ajplugins.com
 ws15.crypto-loot.com
-ws015.hemnes.win
 ws15.hotjar.com
 ws015.www.datasecu.download
 ws015.www.jqwww.download
@@ -134335,6 +134337,7 @@ www.88f83b394974.adx1.com
 www.88sports.com
 www.89tube.com
 www.90dakika.com
+www.90i.info
 www.91girl5.info
 www.91r.info
 www.94f36-09b0-78d2-f056-f787ea64ea78.cdn.adx1.com
@@ -146552,6 +146555,7 @@ www.izarc.fr
 www.izayoinet.info
 www.izvestia.info
 www.j3safetyismyname.com
+www.j9lib.com
 www.j12lib.com
 www.j22now.leadpages.co
 www.j.ubeat.info
@@ -146673,7 +146677,6 @@ www.javmoo.info
 www.javort.com
 www.javparty.com
 www.javplanet.net
-www.javpop.org
 www.javporn.club
 www.javpron.com
 www.jav-share.com
@@ -151273,6 +151276,7 @@ www.pnstat.com
 www.po.st
 www.pobierz.go.pl
 www.pobierz-ebook.pl
+www.pocketgolf.host
 www.pocketpcheaven.com
 www.poconorecordcom.112.2o7.net
 www.poczta54343434.000webhostapp.com
