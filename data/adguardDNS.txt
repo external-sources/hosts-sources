@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 24 May 2024 08:58:12 +0000
+# Last converted - Fri, 24 May 2024 13:01:42 +0000
 #
 
+startfinishthis.com
 outheelrelict.com
 2475april2024.com
 synchroscript.deliveryengine.adswizz.com
@@ -41886,6 +41887,7 @@ b211.xyz
 b59c.xyz
 b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online
 b9f25b.site
+bc98ad.xyz
 bcbe.site
 ca3d.site
 ca9246.xyz
@@ -42053,6 +42055,7 @@ googleads.github.io
 hb.yahoo.net
 hbid.ams3.cdn.digitaloceanspaces.com
 hotwire-widget.dailywire.com
+inbound-step.heavenmedia.com
 inrdeals.com
 join.megaphonetv.com
 js.manga1001.win
@@ -47547,7 +47550,6 @@ brdtnet.com
 luminati.io
 visilabs.com
 visilabs.net
-functionalclam.com
 location.cyou
 mymap.icu
 mymap.quest
@@ -47680,6 +47682,8 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+pr-bh.ybp.yahoo.com
+log.tossinvest.com
 c950.chronicle.com
 forecast.nouvelobs.com
 analytics.vg
@@ -52144,6 +52148,7 @@ solution911.com
 templates.buscape.com
 yestorrents.org
 oecistbenton.com
+lzbgeg.com
 bestssrv.com
 v.strosin.biz
 tzbirdcod.com
@@ -61490,6 +61495,7 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+wqzmed.cn
 0322cfmtl.cc
 07dy.cc
 0940088.com
@@ -62499,6 +62505,7 @@ wscewc.xyz
 jsyliea.top
 usmgoxe.cn
 369bgrec.top
+l7u3kf.cn
 zhengzhou12.top
 fklgndklbngg.com
 zhihucloud.xyz
