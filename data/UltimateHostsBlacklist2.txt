@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Fri, 24 May 2024 04:59:19 +0000
+# Last converted - Fri, 24 May 2024 08:59:02 +0000
 #
 
 realave.com

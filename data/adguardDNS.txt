@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 24 May 2024 04:58:35 +0000
+# Last converted - Fri, 24 May 2024 08:58:12 +0000
 #
 
 outheelrelict.com
@@ -50924,6 +50924,7 @@ p.typekit.net
 page-events-ustats.udemy.com
 pagesense-collect.zoho.com
 pagesocket.glam.com
+panorama.wixapps.net
 pap.qualityunit.com
 parallax.askmediagroup.com
 pegasus.unifygroup.com
@@ -62496,7 +62497,10 @@ wpuiuwh.icu
 ygh5.cn
 wscewc.xyz
 jsyliea.top
+usmgoxe.cn
+369bgrec.top
 zhengzhou12.top
+fklgndklbngg.com
 zhihucloud.xyz
 zhnnaxe.xyz
 zjrtxt.xyz
