@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 23 May 2024 20:58:02 +0000
+# Last converted - Fri, 24 May 2024 01:45:44 +0000
 #
 
+outheelrelict.com
 2475april2024.com
 synchroscript.deliveryengine.adswizz.com
 pubtrky.com
@@ -41878,6 +41879,7 @@ googlevads-cn.com
 7fc8.site
 8acc5c.site
 8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online
+977878.xyz
 a49ebd.xyz
 a67d12.xyz
 b211.xyz
@@ -51173,6 +51175,7 @@ tracking.ads.global-fashion-group.com
 tracking.aegpresents.com
 tracking.americaneagle.com
 tracking.audio.thisisdax.com
+tracking.b-cdn.net
 tracking.bababam.com
 tracking.brandmentions.com
 tracking.buygoods.com
@@ -51195,6 +51198,7 @@ tracking.pacharge.com
 tracking.plattformad.com
 tracking.plinga.de
 tracking.practicefusion.com
+tracking.prepr.io
 tracking.rapidape.com
 tracking.searchmarketing.com
 tracking.sembox.it
@@ -62487,6 +62491,11 @@ zeqvqb.icu
 zeuqmpe.icu
 zfzys.top
 zhaweifeng.com
+jrpolj.xyz
+wpuiuwh.icu
+ygh5.cn
+wscewc.xyz
+jsyliea.top
 zhengzhou12.top
 zhihucloud.xyz
 zhnnaxe.xyz
