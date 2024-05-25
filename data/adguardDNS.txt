@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 25 May 2024 08:58:06 +0000
+# Last converted - Sat, 25 May 2024 13:00:11 +0000
 #
 
 opeanresultancete.info
@@ -2393,6 +2393,7 @@ a-mo.net
 a-waiting.com
 a00s.net
 a06bbd98194c252.com
+a11d3c1b4d.com
 a11k.com
 a14net.com
 a14refresh.com
@@ -2583,6 +2584,7 @@ abparasr.com
 abpicsrc.com
 abpjs23.com
 abqmfewisf.com
+abqnupogcwhi.com
 abrasivematch.com
 abrhydona.com
 abridebouch.com
@@ -4745,6 +4747,7 @@ articulatefootwearmumble.com
 artisticcount.pro
 artistictastesnly.info
 artistperhapscomfort.com
+artistspipe.top
 artlessdeprivationunfriendly.com
 artlessdevote.com
 artonsbewasand.com
@@ -5384,6 +5387,7 @@ azj57rjy.com
 azjmp.com
 azkcqs.com
 azkwwrerlejqv.top
+azlmizbvgjfe.com
 azmjosvecyye.com
 azmsmufimw.com
 aznapoz.info
@@ -7704,6 +7708,7 @@ capaciousdrewreligion.com
 caperedlevi.com
 capetumbledcrag.com
 caphaiks.com
+caphrizing.com
 capitalistblotbits.com
 capitalistlukewarmdot.com
 capletstyldia.com
@@ -9136,6 +9141,7 @@ compositeprotector.com
 compositereconnectadmiral.com
 composureenfold.com
 comprehendpaying.com
+comprehensive3x.fun
 comprehensiveunconsciousblast.com
 compresshumpenvious.com
 compresssavvydetected.com
@@ -10796,6 +10802,7 @@ dftjcofe.com
 dfuaqw.com
 dfvlaoi.com
 dgafgadsgkjg.top
+dgamapxs.com
 dggwqknub.com
 dgjyqdkxmxq.com
 dgkajwnbrazepe.com
@@ -11256,6 +11263,7 @@ dkrbus.com
 dkrely.com
 dkrqyly.com
 dkrxtdnlg.com
+dkuekrwiwr.com
 dl-rms.com
 dlazblsihdoi.com
 dle-news.xyz
@@ -12233,6 +12241,7 @@ edvxygh.com
 edwate.com
 edwfdhkgnx.com
 edxfquupejhbrey.com
+edzuahkymbureo.com
 edzwmobmj.com
 ee625e4b1d.com
 ee6a35c1eeee.com
@@ -18370,6 +18379,7 @@ inaltariaon.com
 inaneamenvote.com
 inanityacromia.life
 inanitystorken.com
+inappropriate2.fun
 inappropriateoutdoorsconfiguration.com
 inareputaonforha.com
 inasmedia.com
@@ -20708,6 +20718,7 @@ kxfwgqkuojcq.com
 kxhbyjljkmyp.xyz
 kxhmyeedwkbgrh.xyz
 kxkqqycs.xyz
+kxkqxdgp.com
 kxnaaxml.com
 kxnggkh2nj.com
 kxowmbwprnck.com
@@ -24763,6 +24774,7 @@ notifzone.com
 notionfoggy.com
 notionsshrivelcustomer.com
 notionstayed.com
+notjdyincro.com
 notonthebedsheets.com
 notorietycheerypositively.com
 notorietynoblemanproposition.com
@@ -29694,6 +29706,7 @@ rapidlypierredictum.com
 rapidshookdecide.com
 rapingdistil.com
 rapolok.com
+rappjsps.com
 raptapee.com
 raptingy.net
 raptorserrano.com
@@ -31007,6 +31020,7 @@ rrhscsdlwufu.xyz
 rriodxsmyjk.com
 rrjnjnioxfbqaj.com
 rrmlejvyqebk.top
+rrnhilainbjii.com
 rrobbybvvbybj.top
 rrolqae.com
 rronsep.com
@@ -33893,6 +33907,7 @@ suchasricew.info
 suchbasementdarn.com
 suchcesusar.org
 suchroused.com
+suckae.xyz
 suckfaintlybooking.com
 sucocesisfulylyde.info
 sucter.com
@@ -38203,6 +38218,7 @@ wchctzzkzkhx.com
 wcjiaclw.com
 wcltbpbnlf.com
 wcmcs.net
+wcnhhqqueu.com
 wcnndaazbwmane.com
 wcqtgwsxur.xyz
 wct.link
@@ -40260,6 +40276,7 @@ ziziatramel.uno
 zizoxozoox.com
 zizulw.org
 zjbzzmnnkbjzy.top
+zjhebfwr.com
 zjlbugpawe.com
 zjmmkjayjjazy.top
 zjo0tjqpm1.com
@@ -54427,6 +54444,7 @@ proxy.ads.canalplus-bo.net
 7b9de.v.fwmrm.net
 ads.dugwood.com
 adserver.icimedias.ca
+adleap.jp
 ad.unique1static.jp
 bance.jp
 appdraft.link
@@ -61516,6 +61534,10 @@ jxqdl.cn
 ieapak.xyz
 piksrie.icu
 rbrmhz.xyz
+aogk88.asia
+ksylied.top
+cai75tp.com
+enviousinevitable.com
 0322cfmtl.cc
 07dy.cc
 0940088.com
@@ -66133,6 +66155,7 @@ zzyy17.top
 zzyy18.top
 zzyy19.top
 zzyy20.top
+d3d7a0q05k6bvz.cloudfront.net
 06789.xyz
 3p8801.co
 6651tp.com
