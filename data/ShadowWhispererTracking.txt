@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Sun, 26 May 2024 04:58:34 +0000
+# Last converted - Sun, 26 May 2024 08:58:24 +0000
 #
 
 01counter.com
@@ -19396,6 +19396,7 @@ events.mics-notrack.com
 events.mkpartners.com
 events.motrac.be
 events.mz.unity3d.com
+events.newtail-media.newtail.com.br
 events.nextviewconsulting.com
 events.nzprivatecapital.co.nz
 events.ocdn.eu

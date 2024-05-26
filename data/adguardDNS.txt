@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 26 May 2024 04:57:51 +0000
+# Last converted - Sun, 26 May 2024 08:57:46 +0000
 #
 
 opeanresultancete.info
@@ -41912,6 +41912,7 @@ googlevads-cn.com
 4e55.xyz
 4e68.xyz
 58e0.site
+5ceea3.xyz
 5fd6bc.xyz
 634369.xyz
 657475b7-0095-478d-90d4-96ce440604f9.online
@@ -61556,6 +61557,8 @@ uqydcs.xyz
 zltndp.xyz
 ibaglhc.icu
 ssylieb.top
+gw2cddpt2hao.asia
+onxeacj.cn
 0322cfmtl.cc
 07dy.cc
 0940088.com
