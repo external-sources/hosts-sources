@@ -1,7 +1,7 @@
 # blocklistProjectCrypto
 #
 # Converted from - https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/crypto-nl.txt
-# Last converted - Sat, 25 May 2024 20:58:05 +0000
+# Last converted - Sun, 26 May 2024 01:53:27 +0000
 #
 
 0.r.msn.com

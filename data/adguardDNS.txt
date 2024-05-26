@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 25 May 2024 20:57:54 +0000
+# Last converted - Sun, 26 May 2024 01:53:15 +0000
 #
 
 opeanresultancete.info
@@ -61551,6 +61551,11 @@ aogk88.asia
 ksylied.top
 cai75tp.com
 enviousinevitable.com
+jxwqu.cn
+uqydcs.xyz
+zltndp.xyz
+ibaglhc.icu
+ssylieb.top
 0322cfmtl.cc
 07dy.cc
 0940088.com
