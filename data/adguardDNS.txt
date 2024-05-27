@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 26 May 2024 20:57:58 +0000
+# Last converted - Mon, 27 May 2024 01:47:10 +0000
 #
 
+amon1.net
 gaptooju.net
 ptoakooph.net
 yhmhbnzz.com
@@ -61585,6 +61586,12 @@ ssylieb.top
 gw2cddpt2hao.asia
 onxeacj.cn
 3601880.xyz
+ehhjfgs.xyz
+zvvlbf.xyz
+opwoga.xyz
+420909.cn
+bzqqftz.icu
+esyliew.top
 0322cfmtl.cc
 07dy.cc
 0940088.com
