@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 27 May 2024 08:58:06 +0000
+# Last converted - Mon, 27 May 2024 13:02:26 +0000
 #
 
 amon1.net
@@ -2303,6 +2303,7 @@ mine.torrent.pw
 86cb1dcb13ba5a1a.com
 87bcb027cf.com
 87c5ce40f8.com
+884de19f2b.com
 888promos.com
 889433.com
 88d7b6aa44fb8eb.com
@@ -61592,6 +61593,10 @@ opwoga.xyz
 420909.cn
 bzqqftz.icu
 esyliew.top
+fpelfyeesuoivy.com
+nlvwdlnhfnnw.com
+auisaoa.top
+bing001.shop
 0322cfmtl.cc
 07dy.cc
 0940088.com
