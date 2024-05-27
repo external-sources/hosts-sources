@@ -1,11 +1,9 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Mon, 27 May 2024 16:58:50 +0000
+# Last converted - Mon, 27 May 2024 20:58:45 +0000
 #
 
-realdailyliving.com
-realdatting.com
 realdealcustomtackle.com
 realdealpp.000webhostapp.com
 realdeals.pushengage.com
@@ -10023,6 +10021,7 @@ royale.rudrawebtech.com
 royale-bintang-hotel.com
 royaleducations.com.auapp.adjust.com
 royalegenerator.net
+royale-ssl.spongecell.com
 royalestate.com.pl
 royalet.drupalet.com
 royalfarm.customlinks.appsflyer.com
@@ -17418,7 +17417,6 @@ sasrlink-px.rtrk.com
 sass2.directprimal.com
 sass.cryptaloot.pro
 sass.cryptoloot.pro
-sass.directprimal.com
 sass.webmine.pro
 sassarirc.top
 sassat3000.clickfunnels.com
@@ -20284,6 +20282,7 @@ sea.advertising.yahoo.com
 sea.aimon.gsm.applicationinsights.io
 sea.cryptaloot.pro
 sea.cryptoloot.pro
+sea.directprimal.com
 sea.effectivemeasure.net
 sea.net.edu.cn
 sea.openxmarket.asia
@@ -41657,7 +41656,6 @@ so-hoje-tem-tudo-pra-sua-casa-com-frete-gratis.com
 sohoo.be
 sohopictureframing.reachlocal.com
 sohozogi.com
-sohu.om
 sohu-dtv.m.cn.miaozhen.com
 sohutv.ads.cn.miaozhen.com
 sohutv.cm.admaster.com.cn
@@ -52305,7 +52303,6 @@ statutcouponstranscah.000webhostapp.com
 statutcoupontranscash.000webhostapp.com
 statute-result.000webhostapp.com
 statut-tabac-authentification.000webhostapp.com
-statvalidation.website
 statwig.com
 statxpress.com
 staty.portalradiowy.pl
@@ -53513,7 +53510,6 @@ stompebi.link
 stone2.directprimal.com
 stone.cryptaloot.pro
 stone.cryptoloot.pro
-stone.directprimal.com
 stone.webmine.pro
 stoneandcloth.7eer.net
 stonearchlaw.clickfunnels.com
@@ -59883,6 +59879,7 @@ t.wowanalytics.co.uk
 t.wowtrk.com
 t.www.auctiondrop.com
 t.wwwtanwirstorescom.000webhostapp.com
+t.x.co
 t.xapads.com
 t.xlgmedia.com
 t.yesware.com
@@ -69294,6 +69291,7 @@ thor.awtank.com
 thor.bankofamfrica.com
 thor.beck-technologies.com
 thor.bellsourth.com
+thor.blindferret.media
 thor.blueshielsca.com
 thor.bodenmarkt.info
 thor.bravenet.com
@@ -73336,7 +73334,6 @@ toursportsimage.com
 tourstat.adnxs.com
 tourswall.com
 tourtec.go.pl
-tourtodaylaboratory.com
 tourtrungquoc.info
 tourups.com
 tourville-construction.fr
@@ -79787,7 +79784,6 @@ twitter.joelgaujard.info
 twitter.perfectaudience.com
 twittercounter.com
 twittercustomerservice.com
-twitterdrop.net
 twitterinc.tt.omtrdc.net
 twitterjs.aweber.com
 twitterlike.com.br
@@ -93393,7 +93389,6 @@ verbattle.com
 verbiage.starbolt.io
 verbinter.freaze.eu
 verblife-3.co
-verblife-5.co
 verboten-leapers.000webhostapp.com
 verboten-superstruc.000webhostapp.com
 verbproducts.co.il
@@ -110300,7 +110295,6 @@ ws24.hotjar.com
 ws024.www.datasecu.download
 ws024.www.jqwww.download
 ws24-live.live.eks.hotjar.com
-ws024-proxy-ajcryptominer.ajplugins.com
 ws25.crypto.csgocpu.com
 ws25.crypto-loot.com
 ws025.hemnes.win
@@ -110308,7 +110302,6 @@ ws25.hotjar.com
 ws025.www.datasecu.download
 ws025.www.jqwww.download
 ws25-live.live.eks.hotjar.com
-ws025-proxy-ajcryptominer.ajplugins.com
 ws26.crypto-loot.com
 ws026.hemnes.win
 ws26.hotjar.com
@@ -137081,7 +137074,6 @@ www.ashely.xfriendzxz.com
 www.ashleyannspeaks.leadpages.co
 www.ashleydaniels.net
 www.ashleyfurnaturestore.com
-www.ashlynnbrookevideos.com
 www.ashlynwrites.leadpages.co
 www.ashtonmari.blogspot.com
 www.ashu20506.000webhostapp.com
@@ -140409,7 +140401,6 @@ www.completesportsbetting.com.au
 www.compositefarming.com
 www.comprafacil.com.br
 www.comptrffc.com
-www.compucelunlock.net
 www.compuclever.leadpages.co
 www.compufixshop.com
 www.compulink-support.com
@@ -157387,7 +157378,6 @@ www.washingtonollithron.fra-01.braze.eu
 www.wasm.stream
 www.watch24.com
 www.watchanimeonline.org
-www.watch-av.com
 www.watchboxinglive.com
 www.watchcri.com
 www.watchdegrassi.com
@@ -163035,7 +163025,6 @@ xn--fwy-hwa.adj.st
 xng8t.mjt.lu
 xng84.mjt.lu
 xngiw.mjt.lu
-xn--gmail-bgd.com
 xn--gmail-rta.com
 xn--gmq98dk5aq9c.seednet.info
 xn--gogleapis-wmc.com
@@ -165984,7 +165973,6 @@ yahooapis.com.domain.name
 yahoo-bidout-apac-d.openx.net
 yahoo-bidout-d.openx.net
 yahoo-bidout-uk-d.openx.net
-yahooc.om
 yahoocom.ph
 yahoodisplay873773666324.s.moatpixel.com
 yahooemailcustomercarenumber.over-blog.com

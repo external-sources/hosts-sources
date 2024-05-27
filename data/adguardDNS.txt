@@ -1,9 +1,13 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 27 May 2024 16:58:04 +0000
+# Last converted - Mon, 27 May 2024 20:57:53 +0000
 #
 
+rndskittytor.com
+waisheph.com
+batch.com
+flx2.pnl.agency
 amon1.net
 gaptooju.net
 ptoakooph.net
@@ -9584,6 +9588,7 @@ coxziptwo.com
 coysjayesh.com
 coysotown.com
 coyward.com
+cozeswracks.com
 cpa-optimizer.online
 cpa3iqcp.de
 cpabeyond.com
@@ -11072,6 +11077,7 @@ disciplineagonywashing.com
 disciplineinspirecapricorn.com
 discloseprogramwednesday.com
 discodjxkqya.com
+discomantles.com
 discomforttruant.com
 disconnectedponder.com
 disconnectthirstyron.com
@@ -15591,6 +15597,7 @@ gimwcpketr.com
 ginchoirblessed.com
 ginfohpg.com
 gingercompute.com
+ginglmiresaw.com
 ginkscarnal.top
 ginningsteri.com
 ginnyclairvoyantapp.com
@@ -15935,7 +15942,6 @@ go6shde9nj2itle.com
 goaboomy.com
 goaciptu.net
 goads.pro
-goadserver.com
 goadx.com
 goaffmy.com
 goagloow.xyz
@@ -18610,6 +18616,7 @@ inkestyle.net
 inkfeedmausoleum.com
 inkingleran.com
 inklestutted.com
+inklikesearce.com
 inklinkor.com
 inkornesto.com
 inkstorylikeness.com
@@ -21209,6 +21216,7 @@ lepiotaplacus.top
 lepiotaspectry.com
 leptidunhaunt.com
 leqjnmmyqtb.com
+leroonge.xyz
 lerrdoriak.com
 leskdywzbfk.com
 lesoocma.net
@@ -25319,6 +25327,7 @@ octinerep.com
 octoatesamhain.com
 octobergypsydeny.com
 octobermindless.com
+octopidroners.com
 octopod.cc
 octopusiron.com
 octopuspop.com
@@ -30798,7 +30807,6 @@ rndchandelureon.com
 rndhaunteran.com
 rndmusharnar.com
 rndnoibattor.com
-rndskittytor.com
 rnfwyvgoxu.com
 rnldustal.com
 rnmd.net
@@ -34234,6 +34242,7 @@ swimtwittercloakroom.com
 swindlehumorfossil.com
 swindlelaceratetorch.com
 swinegraveyardlegendary.com
+swinehalurgy.com
 swinesuburbanclue.com
 swingebudded.com
 swingelinseys.com
@@ -38037,7 +38046,6 @@ waigriwa.xyz
 waihoz.xyz
 wailedfrosty.com
 waioowcadhw.xyz
-waisheph.com
 waistcoataskeddone.com
 waistdeafgeorgiana.com
 waisttrustworthy.com
@@ -41337,6 +41345,7 @@ gayadnetwork.com
 geozo.com
 germaniavid.com
 girls.xyz
+goadserver.com
 gourmetads.com
 gplinks.in
 graciamediaweb.com
@@ -41939,6 +41948,7 @@ googlevads-cn.com
 58e0.site
 5ceea3.xyz
 5fd6bc.xyz
+605efe.xyz
 634369.xyz
 657475b7-0095-478d-90d4-96ce440604f9.online
 68646f.xyz
@@ -44293,6 +44303,8 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+plausible.scimago.es
+analytics.qushad.com
 orangeclickmedia.com
 pageviews.tray.com.br
 convertbox.com
@@ -50139,7 +50151,6 @@ adashx4ae.ut.taobao.com
 audid-api.taobao.com
 analytics.ff.avast.com
 node.aibeacon.jp
-wsmetrics.batch.com
 log.isnssdk.com
 log-tb.isnssdk.com
 mon.isnssdk.com
@@ -51693,7 +51704,6 @@ sare25.com
 ad5track.com
 bob-recs.com
 btg360.com.br
-clearsale.com.br
 enviou.com.br
 fulllab.com.br
 hariken.co
