@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 28 May 2024 04:57:51 +0000
+# Last converted - Tue, 28 May 2024 08:58:00 +0000
 #
 
 rndskittytor.com
@@ -61614,6 +61614,7 @@ uskecsx.icu
 zhangqifeng12.top
 wsyliee.top
 abucki.xyz
+jinzige.cn
 0322cfmtl.cc
 07dy.cc
 0940088.com
