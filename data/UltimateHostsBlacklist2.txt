@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Tue, 28 May 2024 16:58:31 +0000
+# Last converted - Tue, 28 May 2024 20:59:41 +0000
 #
 
 realdealcustomtackle.com
@@ -69291,7 +69291,6 @@ thor.awtank.com
 thor.bankofamfrica.com
 thor.beck-technologies.com
 thor.bellsourth.com
-thor.blindferret.media
 thor.blueshielsca.com
 thor.bodenmarkt.info
 thor.bravenet.com
@@ -110071,7 +110070,6 @@ wrymreszua.com
 wrzosek.go.pl
 ws1.15x.net
 ws1.2020search.com
-ws1.bmcm.pw
 ws001.coinerra.com
 ws01.crypto-loot.com
 ws01.do.nu
@@ -110086,7 +110084,6 @@ ws01cn.streamplay.to
 ws1-live.live.eks.hotjar.com
 ws1-staging.hotjar.com
 ws2.15x.net
-ws2.bmcm.pw
 ws2.cdnsoar.com
 ws02.crypto-loot.com
 ws02.do.nu
@@ -110295,6 +110292,7 @@ ws24.hotjar.com
 ws024.www.datasecu.download
 ws024.www.jqwww.download
 ws24-live.live.eks.hotjar.com
+ws024-proxy-ajcryptominer.ajplugins.com
 ws25.crypto.csgocpu.com
 ws25.crypto-loot.com
 ws025.hemnes.win
@@ -110302,6 +110300,7 @@ ws25.hotjar.com
 ws025.www.datasecu.download
 ws025.www.jqwww.download
 ws25-live.live.eks.hotjar.com
+ws025-proxy-ajcryptominer.ajplugins.com
 ws26.crypto-loot.com
 ws026.hemnes.win
 ws26.hotjar.com

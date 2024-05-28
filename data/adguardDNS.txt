@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 28 May 2024 16:57:50 +0000
+# Last converted - Tue, 28 May 2024 20:58:49 +0000
 #
 
 rndskittytor.com
@@ -1443,14 +1443,14 @@ ap.delfi.ee
 ado.delfi.ee
 es.ylilauta.org
 sab.fast.ge
+ban.bhol.co.il
+ext.bhol.co.il
+st1.bhol.co.il
 head-clickfusion.com
 headerbidding.services
 3myad.com
 cdn.234doo.com
 a.b.napiszar.com
-ban.bhol.co.il
-ext.bhol.co.il
-st1.bhol.co.il
 planner.tiscali.it
 reklammen.spellchecker.lu
 bn.gogo.mn
@@ -41972,6 +41972,7 @@ bcbe.site
 ca3d.site
 ca9246.xyz
 caa2c4.xyz
+ce357c.xyz
 d84bc26d.site
 d8b0a5.xyz
 d980ed.xyz
@@ -47770,6 +47771,9 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+doppler-beacon.cbsivideo.com
+lake.studydrive.net
+ce.x-opt.io
 analytics.global.sky.com
 analytics.cosmonova.net
 pr-bh.ybp.yahoo.com
@@ -50828,7 +50832,6 @@ dfanalytics.dealerfire.com
 diagnose.igstatic.com
 dig.ultimedia.com
 dl.episerver.net
-doppler-beacon.cbsivideo.com
 doppler-client-events.cbsivideo.com
 doppler-config.cbsivideo.com
 doppler-reporting.cbsivideo.com
@@ -61619,6 +61622,7 @@ abucki.xyz
 jinzige.cn
 15huhu.cn
 nkdgnsfsk.com
+sdjbvskjvds.com
 0322cfmtl.cc
 07dy.cc
 0940088.com
