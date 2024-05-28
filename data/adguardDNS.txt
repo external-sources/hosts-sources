@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 27 May 2024 20:57:53 +0000
+# Last converted - Tue, 28 May 2024 01:46:48 +0000
 #
 
 rndskittytor.com
@@ -40296,6 +40296,7 @@ zimpolo.com
 zincdatawipe.com
 zincypalmy.top
 zinipx.xyz
+zinovu.com
 zinrora.pw
 zipakrar.com
 zipheeda.xyz
@@ -41981,6 +41982,7 @@ f090.site
 f2f8.xyz
 f6176563.site
 fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz
+fbfec2.xyz
 ad.lgappstv.com
 ad.nettvservices.com
 ads.samsung.com
@@ -51968,6 +51970,7 @@ rmgdapfnccsharpprd.azurewebsites.net
 stat.24liveplus.com
 statistics.rbi-nl.com
 tags.hilabel.nl
+tr.mediafin.be
 trkr.shoppingminds.net
 dnt-userreport.com
 tags.op-palvelut.fi
@@ -61607,6 +61610,10 @@ fpelfyeesuoivy.com
 nlvwdlnhfnnw.com
 auisaoa.top
 bing001.shop
+uskecsx.icu
+zhangqifeng12.top
+wsyliee.top
+abucki.xyz
 0322cfmtl.cc
 07dy.cc
 0940088.com
