@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Tue, 28 May 2024 13:03:04 +0000
+# Last converted - Tue, 28 May 2024 16:58:23 +0000
 #
 
 00px.net
@@ -9785,6 +9785,7 @@ gadzoog.com
 galaksion.com
 galaxiemedia.fr
 galaxyadsmedia.com
+galaxypush.com
 galerijanakita.com
 galerijanakita.hr
 galerijanakita.si
@@ -13815,6 +13816,7 @@ prostoimya.kino-o-voine.ru
 protagcdn.com
 protectsubrev.com
 provely.io
+provenpixel.com
 provenpixel.net
 proventusquantum.com
 provers.pro
