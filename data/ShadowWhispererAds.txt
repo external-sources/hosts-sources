@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 29 May 2024 13:02:56 +0000
+# Last converted - Wed, 29 May 2024 16:58:11 +0000
 #
 
 00px.net
@@ -636,6 +636,7 @@ ad1.one
 ad1.oviedu.com
 ad1.ru
 ad1.si
+ad1-updates.com
 ad1.ximiyouyue.com
 ad1.yangjinyou.com
 ad20.de
@@ -10080,6 +10081,7 @@ goroost.com
 go.rtb1bid.com
 go.setopsdata.com
 gosokal.com
+go-srv.com
 go.ss-n-30.com
 go.tadadamads.com
 go.tadamads.com
@@ -14410,6 +14412,7 @@ relario.com
 relateddigital.com
 related.hu
 relationrest.com
+relaunchapp.com
 relaymedia.com
 releaseadvt.com
 relestar.com
