@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 29 May 2024 08:58:18 +0000
+# Last converted - Wed, 29 May 2024 13:02:49 +0000
 #
 
 a-reporting.nytimes.com
@@ -581,6 +581,7 @@ tracking.digitalocean.com
 tracking.engineering.cloud.seek.com.au
 tracking.game8.co
 tracking.hsn.com
+tracking.rocketleague.com
 tracking.shopstyle.co.uk
 tracking.shopstyle.com
 tracking.unrealengine.com
@@ -606,6 +607,7 @@ views.arabnews.com
 views.asurascans.com
 vortex.hulu.com
 w3-reporting.reddit.com
+w6.chabad.org
 wa.childrensplace.com
 wa.gmx.co.uk
 wa.gymboree.com
