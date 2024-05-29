@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 29 May 2024 04:57:48 +0000
+# Last converted - Wed, 29 May 2024 08:57:52 +0000
 #
 
 rndskittytor.com
@@ -67774,7 +67774,6 @@ displayad.zum.com
 networkad.nate.com
 cyad1.nate.com
 adimg.nate.com
-api-ao-list.adison.co
 ad-api.enuri.info
 ad.newspim.com
 ad.imp.joins.com
