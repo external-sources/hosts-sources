@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 29 May 2024 01:50:47 +0000
+# Last converted - Wed, 29 May 2024 04:57:48 +0000
 #
 
 rndskittytor.com
