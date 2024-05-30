@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Thu, 30 May 2024 13:02:29 +0000
+# Last converted - Thu, 30 May 2024 16:58:22 +0000
 #
 
 00px.net
@@ -13847,6 +13847,7 @@ psydyrony.com
 pt0zhwhc26.ru
 ptadsrv.de
 ptapjmp.com
+ptatexiwhe.com
 ptewarin.net
 ptistyvymi.com
 ptlwmstc.com
@@ -15508,7 +15509,9 @@ shoplove.com
 shopmsg.me
 shop-pop.com
 shop-pop.com.herokudns.com
+shoptwitchcdn.com
 shopvideocdn.com
+shopvkcdn.com
 shopzillasolutions.com
 shorecreative.com
 shorewaymedia.com
