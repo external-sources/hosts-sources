@@ -1,6 +1,6 @@
 # fadeMindAddSpam
 #
 # Converted from - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
-# Last converted - Thu, 30 May 2024 01:48:21 +0000
+# Last converted - Thu, 30 May 2024 04:58:19 +0000
 #
 
