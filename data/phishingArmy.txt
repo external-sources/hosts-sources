@@ -1,6 +1,6 @@
 # phishingArmy
 #
 # Converted from - https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last converted - Thu, 30 May 2024 08:58:36 +0000
+# Last converted - Thu, 30 May 2024 13:02:29 +0000
 #
 
