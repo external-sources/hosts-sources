@@ -1,9 +1,11 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 30 May 2024 16:57:49 +0000
+# Last converted - Thu, 30 May 2024 20:58:04 +0000
 #
 
+grushoungy.com
+tubqwqvsfusjqq.com
 rndskittytor.com
 waisheph.com
 batch.com
@@ -1900,6 +1902,7 @@ mine.torrent.pw
 2track.info
 2trafficcmpny.com
 2ts55ek00.de
+2ucz3ymr1.com
 3-mobiappu.com
 300daytravel.com
 302kslgdl.de
@@ -12179,6 +12182,7 @@ ec2867edc4.com
 ecaursedeegh.com
 ecchhelios.top
 ecffmhajfgxw.com
+echaruropygi.com
 echehalids.guru
 echevintrunnel.top
 echiovlhu.com
@@ -15379,6 +15383,7 @@ geerairu.net
 geethaihoa.com
 geethaiw.xyz
 geethoap.com
+geewooheene.net
 gegbeiaojmfgnkw.com
 geiouifksh.xyz
 geiozdtpssgt.com
@@ -24717,6 +24722,7 @@ noisyoursarrears.com
 noisytariff.com
 noisyunidentifiedinherited.com
 nojhhsg.com
+noktaglaik.com
 nollolofgulmof.com
 nolrougn.com
 noltaudi.com
@@ -26010,6 +26016,7 @@ oqddkgixmqhovv.xyz
 oqeazohx.com
 oqelpqoyyz.com
 oqfgpdnwdbirpc.com
+oqfrudzatovc.com
 oqfvsgfj.com
 oqhbykhlt.com
 oqkedrojyy.xyz
@@ -26770,6 +26777,7 @@ parlorsuperhero.com
 parlouractivityattacked.com
 parlourinvulnerablerighteous.com
 paronymtethery.com
+parrallforums.top
 parrecleftne.xyz
 parrotlamista.top
 parrotstrim.com
@@ -30341,6 +30349,7 @@ rentherifiskin.com
 rentingimmoderatereflecting.com
 reoiebco.com
 reoilspinors.top
+reopensnews.com
 reople.co.kr
 reoreexpresi.com
 reorganizeglaze.com
@@ -32786,6 +32795,7 @@ slumberloandefine.com
 slumdombigot.top
 slumid.com
 slumpyclueing.com
+slurpsbeets.com
 slushdevastating.com
 sluxaaiabw.com
 slvlrcalpodewn.com
@@ -52327,6 +52337,7 @@ solution911.com
 templates.buscape.com
 yestorrents.org
 oecistbenton.com
+adplay.ru
 isatonabench.com
 lzbgeg.com
 bestssrv.com
@@ -61701,6 +61712,7 @@ qsyliey.top
 pmblrt.xyz
 retintsmillion.com
 zfcoin.cn
+pw2ct1.asia
 0322cfmtl.cc
 07dy.cc
 0940088.com
