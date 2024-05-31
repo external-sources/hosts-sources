@@ -1,6 +1,6 @@
 # blocklistsFacebook
 #
 # Converted from - https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all
-# Last converted - Fri, 31 May 2024 04:58:23 +0000
+# Last converted - Fri, 31 May 2024 09:01:55 +0000
 #
 
