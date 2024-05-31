@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Fri, 31 May 2024 01:48:13 +0000
+# Last converted - Fri, 31 May 2024 04:58:42 +0000
 #
 
 reale.demdex.net
