@@ -1,6 +1,6 @@
 # ShadowWhispererJunk
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
-# Last converted - Thu, 30 May 2024 20:58:42 +0000
+# Last converted - Fri, 31 May 2024 01:48:05 +0000
 #
 
