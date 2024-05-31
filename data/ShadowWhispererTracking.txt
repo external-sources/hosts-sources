@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Fri, 31 May 2024 16:58:37 +0000
+# Last converted - Fri, 31 May 2024 20:58:48 +0000
 #
 
 01counter.com
@@ -19113,6 +19113,7 @@ ephemeralcounters.api.roblox.com
 epianalytics.com
 epica.ai
 epic-insights.com
+epiconnect.com
 epiphany.cpap.com
 episerver.com
 episource.com

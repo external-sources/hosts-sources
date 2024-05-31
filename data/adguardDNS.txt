@@ -1,9 +1,12 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 31 May 2024 16:57:59 +0000
+# Last converted - Fri, 31 May 2024 20:58:05 +0000
 #
 
+vexolinu.com
+kqduogttdmryguw.com
+doobuphoo.com
 cdn.mcnn.pl
 grushoungy.com
 tubqwqvsfusjqq.com
@@ -1682,6 +1685,7 @@ mine.torrent.pw
 1aqi93ml4.de
 1b14e0ee42d5e195c9aa1a2f5b42c710.com
 1b264a0ca0.com
+1b32caa655.com
 1b3tmfcbq.de
 1b8873d66e.com
 1b9cvfi0nwxqelxu.pro
@@ -6328,6 +6332,7 @@ bidtheatre.com
 bidvance.com
 bidverdrd.com
 biemedia.com
+bifnosblfdpslg.xyz
 biforinslogs.life
 biftoast.com
 bigappboi.com
@@ -8560,6 +8565,7 @@ cisfazpisju.com
 cisheeng.com
 cisiwa.site
 ciststoquets.space
+citadelpathstatue.com
 citatumpity.com
 citizenshadowrequires.com
 cittem.com
@@ -10366,6 +10372,7 @@ dbgsfyxtfyh.xyz
 dbhhvmoq.com
 dbizrrslifc.com
 dblbkinsuswpr.com
+dbnxlpbtoqec.com
 dbplygoi.com
 dbqlghadltookjo.xyz
 dbtbfsf.com
@@ -13102,6 +13109,7 @@ esumedadele.info
 esumeformo.info
 eswsentatives.info
 esxjpnkgyaeiu.xyz
+et5k413t.rest
 etapescaisse.com
 etbelpoyes.xyz
 etbnbvlnhvr.com
@@ -17309,6 +17317,7 @@ himrebelliontemperature.com
 himselfthoughtless.com
 himselves.com
 himselvesobr.club
+himunpracticalwh.info
 hinaprecent.info
 hinavvogha.com
 hindervoting.com
@@ -17466,6 +17475,7 @@ hoiiodacdsmro.com
 hoisquit.buzz
 hokarsoud.com
 hokierloopy.digital
+holahupa.com
 holdenthusiastichalt.com
 holdhostel.space
 holdingholly.space
@@ -26440,6 +26450,7 @@ overwiththinlea.info
 overzoruaon.com
 overzubatan.com
 ovfjiktdr.com
+ovgjveaokedo.xyz
 ovhacmobpval.com
 ovhkfewhyqiz.com
 ovibospeseta.com
@@ -27057,6 +27068,7 @@ peeredwalkingcloud.com
 peeringgrandflashing.com
 peeringinvasion.com
 peesopit.net
+peesteso.xyz
 peethach.com
 peethobo.com
 peevishaboriginalzinc.com
@@ -29886,6 +29898,7 @@ rcvlinks.com
 rcvsmbawwqodqt.com
 rcwuzudjcsjmr.com
 rd-cdnp.name
+rdairclewestoratesa.info
 rddywd.com
 rderstartirrelea.info
 rdgdjmgll.com
@@ -31567,6 +31580,7 @@ satinelicheny.com
 satirevegetableshaw.com
 satisfactionretirechatterbox.com
 satisfactorilyfigured.com
+satisfied-tour.pro
 satoripedary.com
 sattiewitter.top
 saturatecats.com
@@ -33714,6 +33728,7 @@ stillfolder.com
 stimaariraco.info
 stimtavy.net
 stimulatemosque.com
+stimulatinggrocery.pro
 stingeantonia.com
 stinglackingrent.com
 stingystoopedsuccession.com
@@ -38903,6 +38918,7 @@ wkoeoaavamqek.top
 wkpewkejefefhm.com
 wkpfgjbmd.com
 wkqcnkstso.com
+wkqqdchbbz.com
 wkwqljwykojvm.top
 wkwqljwykollz.top
 wkwqljwykomlv.top
@@ -39257,6 +39273,7 @@ wumufama.com
 wunteetoco.com
 wuqconn.com
 wurqaz.com
+wurwhydimo.com
 wussucko.com
 wutcifjtapa.com
 wutseelo.xyz
@@ -39285,6 +39302,7 @@ wwbeqrhjwnijdk.com
 wwemleypftdook.com
 wwfx.xyz
 wwhnjrg.com
+wwicnmksxd.com
 wwija.com
 wwkedpbh4lwdmq16okwhiteiim9nwpds2.com
 wwlaoryovljbv.top
@@ -42107,7 +42125,9 @@ utiq.wa.de
 1437953666.rsc.cdn77.org
 1441085683.rsc.cdn77.org
 1473763790.rsc.cdn77.org
+1482434718.rsc.cdn77.org
 1492697327.rsc.cdn77.org
+1498195232.rsc.cdn77.org
 1529462937.rsc.cdn77.org
 1541233801.rsc.cdn77.org
 1543481067.rsc.cdn77.org
@@ -42445,6 +42465,7 @@ d1jcj9gy98l90g.cloudfront.net
 d1jnvfp2m6fzvq.cloudfront.net
 d1juimniehopp3.cloudfront.net
 d1jwpd11ofhd5g.cloudfront.net
+d1k8mqc61fowi.cloudfront.net
 d1ks8roequxbwa.cloudfront.net
 d1ktmtailsv07c.cloudfront.net
 d1kttpj1t6674w.cloudfront.net
@@ -44384,6 +44405,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+a11ybar.com
 trackszn.median.eu
 rum.corewebvitals.io
 pearldiver.io
@@ -52351,6 +52373,9 @@ solution911.com
 templates.buscape.com
 yestorrents.org
 oecistbenton.com
+23oct2023.site
+fcepahafyq.com
+6rn05mmbct.ru
 adplay.ru
 isatonabench.com
 lzbgeg.com
@@ -55672,6 +55697,8 @@ rkgnmwre.site
 rpe.co.il
 s-iwantyou.com
 saphiretelavivisrael.com
+sdarot-il.org
+sdarot.cc
 sdarotil.top
 sdc.mako.co.il
 seret.live

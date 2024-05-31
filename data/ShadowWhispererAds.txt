@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Fri, 31 May 2024 16:58:34 +0000
+# Last converted - Fri, 31 May 2024 20:58:45 +0000
 #
 
 00px.net
@@ -8433,6 +8433,7 @@ crypto-adz.com
 cryptocoinsad.com
 cryptoklix.com
 crystall.io
+cryteo.com
 cs30.net
 csjuq.com
 cstadvertising.com
@@ -11180,6 +11181,7 @@ krelaymail.com
 krioskcreata.com
 krishnaadvertiser.com
 kriteo.com
+kriteo.net
 krizim.com
 krkk.online
 krush.com
