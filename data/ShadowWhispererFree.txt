@@ -1,7 +1,7 @@
 # ShadowWhispererFree
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Free
-# Last converted - Fri, 31 May 2024 20:58:46 +0000
+# Last converted - Sat, 01 Jun 2024 01:54:43 +0000
 #
 
 000a.de

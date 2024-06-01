@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 31 May 2024 20:58:36 +0000
+# Last converted - Sat, 01 Jun 2024 01:54:34 +0000
 #
 
 a-reporting.nytimes.com
@@ -453,6 +453,7 @@ sjc.cloud.optable.co
 slipstream.skyscanner.net
 smetrics.couponcabin.com
 smetrics.ralphlauren.com
+sofire.terabox.app
 sp.cargurus.co.uk
 sp.ecosia.org
 sp.welcometothejungle.com
