@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 31 May 2024 20:58:05 +0000
+# Last converted - Sat, 01 Jun 2024 01:54:06 +0000
 #
 
 vexolinu.com
@@ -4087,6 +4087,7 @@ alwayspainfully.com
 alwhichhereal.com
 alwhichhereallyw.com
 alwingulla.com
+alwsbnvialll.com
 alwubrhkxgqdiw.com
 alxbgo.com
 alxhiccwizce.com
@@ -4384,6 +4385,7 @@ antipathymenudeduce.com
 antiquariancapricorn.com
 antiquitytissuepod.com
 antiredcessant.com
+antirgiocub.com
 antisicollyba.top
 antivirussprotection.com
 antlerlode.com
@@ -8567,6 +8569,7 @@ cisiwa.site
 ciststoquets.space
 citadelpathstatue.com
 citatumpity.com
+citizenhid.com
 citizenshadowrequires.com
 cittem.com
 cityadspix.com
@@ -8799,6 +8802,7 @@ clmbtech.com
 clmcom.com
 clnk.me
 cloba.xyz
+clobberprocurertightwad.com
 clockwisefamilyunofficial.com
 clockwiseleaderfilament.com
 clogcheapen.com
@@ -13429,6 +13433,7 @@ exploitdevoid.com
 exploitingenious.com
 exploitpeering.com
 exploittonlets.com
+explore-site.com
 exploreannihilationquicker.com
 explorecomparison.com
 exploredefinitely.com
@@ -16605,6 +16610,7 @@ gxcqhawgc.com
 gxcvxdeda.com
 gxdzfyg.com
 gxeireojvtfoq.com
+gxfuwkgsp.com
 gxgu9gktreso.com
 gxhbsapkkdni.xyz
 gxikmksjuz.com
@@ -17370,6 +17376,7 @@ hizanpwhexw.com
 hizlireklam.com
 hjalma.com
 hjfonyiuo.com
+hjgapllydic.com
 hjhwjphsryi.com
 hjiwoazeigefn.com
 hjklq.com
@@ -17934,6 +17941,7 @@ hyfvlxm.com
 hyibpgaa.com
 hylomysslipper.digital
 hymenicpirn.com
+hymenvapour.com
 hymnarypoking.com
 hynteroforion.com
 hyofteraq.com
@@ -18229,6 +18237,7 @@ ikonatozee.top
 ikouthaupi.com
 ikrail.com
 ikrauteri.life
+ikrvvsliwar.com
 ikunselt.com
 ikwiwnnofgpzq.com
 ikwzrix.com
@@ -19398,6 +19407,7 @@ jcigoiimudrzow.com
 jcovfmnlolsdsaa.com
 jcpcfopwcae.com
 jcqueawk.xyz
+jcqvfuztbvryk.com
 jcrnbnw.com
 jctxsjtgedii.com
 jcufklto.com
@@ -22220,6 +22230,7 @@ lyricsneighbour.com
 lyricspartnerindecent.com
 lyrtyvqnbkknt.xyz
 lysim-lre.com
+lysjpqhhzve.com
 lyssapebble.com
 lythonefa.com
 lythrumnoetics.website
@@ -23140,6 +23151,7 @@ minehighs.com
 minently.com
 mineralscreamrobes.com
 mineraltip.com
+minessetion.info
 mingleabstainsuccessor.com
 minglebookwormdecency.com
 mingledcommit.com
@@ -25406,6 +25418,7 @@ odonticmetae.top
 odorantpilkins.top
 odouanmhndwipg.com
 odoucessu.com
+odourcowspeculation.com
 odpfujlimjuk.com
 odpokjcucdax.com
 odqicviub.com
@@ -28699,6 +28712,7 @@ prunesderelicttug.com
 prunestownpostman.com
 prutosom.com
 pruwwox.com
+prvc.io
 prwave.info
 prxeceafdxdlc.xyz
 prxy.online
@@ -32807,6 +32821,7 @@ sloydpev.com
 slpmcfdljsntwp.com
 slqyrvijxviet.com
 sltracl.com
+sltraffic.com
 sltvhyjthx.com
 slubbermunch.com
 sluccju.com
@@ -39488,6 +39503,7 @@ xhzz3moj1dsd.com
 xiaomengxiong.com
 xibilitukydteam.info
 xidx.org
+xigfqlwsbbtx.com
 xigrtoai.com
 xiifrwasfouifb.com
 xijgedjgg5f55.com
@@ -39514,6 +39530,7 @@ xjrwxfdphc.com
 xjsx.lol
 xjupijxdt.xyz
 xjwcnvnqdm.com
+xkaovzjasjw.com
 xkbgqducppuan.xyz
 xkbydybnle.com
 xkcgjkwjbmki.xyz
@@ -42121,6 +42138,7 @@ utiq.wa.de
 1288151678.rsc.cdn77.org
 1299757727.rsc.cdn77.org
 1312907885.rsc.cdn77.org
+1324827002.rsc.cdn77.org
 1417571542.rsc.cdn77.org
 1437953666.rsc.cdn77.org
 1441085683.rsc.cdn77.org
@@ -42228,6 +42246,7 @@ etrader.kalahari.com
 etrader.kalahari.net
 findcouponspromos.com
 fp27ee.wac.systemcdn.net
+free.ovl.me
 get.cryptobrowser.site
 get.davincisgold.com
 get.paradise8.com
@@ -61761,6 +61780,11 @@ kyemwo.xyz
 dfgfdffg.cn
 xwdjnj.xyz
 bfjsliv.top
+sseudorassb.com
+fdswrgg.cn
+vutjnt.xyz
+mgmuye.xyz
+zqgixxp.icu
 0322cfmtl.cc
 07dy.cc
 0940088.com
