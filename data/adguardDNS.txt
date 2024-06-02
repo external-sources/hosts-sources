@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 02 Jun 2024 08:57:54 +0000
+# Last converted - Sun, 02 Jun 2024 12:59:58 +0000
 #
 
 vexolinu.com
@@ -12818,7 +12818,6 @@ etxahpe.com
 etyequiremu.org
 etymonsibycter.com
 etystoass.com
-eu-1-id5-sync.com
 euauosx.xyz
 euavokhqrxhteot.com
 eucing.com
@@ -41072,6 +41071,7 @@ googlevads-cn.com
 4e04f7.xyz
 4e55.xyz
 4e68.xyz
+4e990.xyz
 58e0.site
 5ceea3.xyz
 5fd6bc.xyz
