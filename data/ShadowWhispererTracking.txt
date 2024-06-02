@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Sun, 02 Jun 2024 04:58:13 +0000
+# Last converted - Sun, 02 Jun 2024 08:58:27 +0000
 #
 
 01counter.com
@@ -2464,6 +2464,7 @@ adx1.com
 adxadtracker.com
 ad.xn--o9jem5iv41o982db8k.jp
 adxpose.com
+adxtracking.com
 adxyield.com
 adzpier.com
 adz-trax.com
@@ -27375,6 +27376,7 @@ location-services-prd.tesla.com
 location.squarespace.com
 location.syn-api.com
 location.truevaultcdn.com
+location.wynk.in
 locator.atlasvpn.com
 locator.casio.com
 locator.casio.jp
@@ -37855,6 +37857,7 @@ ping.teamviewer.com
 ping.ublock.org
 ping.ui.com
 ping.vc.logitech.com
+ping.wynk.in
 ping.zohospotlight.com
 pinkaanalytics.eu-2.evennode.com
 pink-boat.fool.com
@@ -43378,6 +43381,7 @@ pixel.bienestarjcm.com
 pixel.bilinmedia.net
 pixel.bitacoradeamor.com
 pixel.bitcoinbull.io
+pixelbits.io
 pixel.bizudeconcursos.com
 pixel.bizudodireito.com
 pixel.bizudodireitooab.com
@@ -63037,6 +63041,8 @@ stats.www.adm.novelus.fr
 stats.wwworld.it
 stats.www.pagerduty.com
 stats.wykonawcasiniat.pl
+stats.wynk.in
+stats-wynkmusic-285784487.ap-south-1.elb.amazonaws.com
 stats.wynntech24.co.th
 stats.wyzwanie-iglotex.pl
 stats.x0.ca
