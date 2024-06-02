@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 01 Jun 2024 20:57:54 +0000
+# Last converted - Sun, 02 Jun 2024 01:54:18 +0000
 #
 
 vexolinu.com
@@ -61813,6 +61813,13 @@ cpgou.cn
 af9dc9.xyz
 goole20.shop
 fzpzrqou.icu
+yskicm.xyz
+osyliek.top
+sowsuwm.icu
+mnpkxgfp.xyz
+divxrj.xyz
+qywbslk.top
+vevhjj.xyz
 0322cfmtl.cc
 07dy.cc
 0940088.com
