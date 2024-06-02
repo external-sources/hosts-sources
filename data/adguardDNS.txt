@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 02 Jun 2024 12:59:58 +0000
+# Last converted - Sun, 02 Jun 2024 16:57:58 +0000
 #
 
 vexolinu.com
