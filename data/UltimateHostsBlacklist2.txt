@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Mon, 03 Jun 2024 16:58:32 +0000
+# Last converted - Mon, 03 Jun 2024 20:58:41 +0000
 #
 
 realdsp.realclick.co.kr
@@ -8504,6 +8504,7 @@ rock2.directprimal.com
 rock.adpiano.com
 rock.cryptaloot.pro
 rock.cryptoloot.pro
+rock.directprimal.com
 rock.reauthenticator.com
 rock.webmine.pro
 rockabox.co
@@ -10016,6 +10017,7 @@ royale.rudrawebtech.com
 royale-bintang-hotel.com
 royaleducations.com.auapp.adjust.com
 royalegenerator.net
+royale-ssl.spongecell.com
 royalestate.com.pl
 royalet.drupalet.com
 royalfarm.customlinks.appsflyer.com
@@ -17411,6 +17413,7 @@ sasrlink-px.rtrk.com
 sass2.directprimal.com
 sass.cryptaloot.pro
 sass.cryptoloot.pro
+sass.directprimal.com
 sass.webmine.pro
 sassarirc.top
 sassat3000.clickfunnels.com
@@ -53506,6 +53509,7 @@ stompebi.link
 stone2.directprimal.com
 stone.cryptaloot.pro
 stone.cryptoloot.pro
+stone.directprimal.com
 stone.webmine.pro
 stoneandcloth.7eer.net
 stonearchlaw.clickfunnels.com
@@ -69288,7 +69292,6 @@ thor.awtank.com
 thor.bankofamfrica.com
 thor.beck-technologies.com
 thor.bellsourth.com
-thor.blindferret.media
 thor.blueshielsca.com
 thor.bodenmarkt.info
 thor.bravenet.com
@@ -104880,6 +104883,7 @@ webtoolsrooingdengincco.000webhostapp.com
 webtoolsx.brandreachsys.com
 webtop.acxiom.com
 webtracker.apicasystem.com
+webtracker.jp
 webtrackerplus.com
 webtracktechnologies.com
 webtracky.com
@@ -137361,6 +137365,7 @@ www.avocarrot.com
 www.avocet.io
 www.avoidaroid.com
 www.avotaku.com
+www.avpanel.com
 www.avpapa.com
 www.avpayments.com
 www.avpt.info
@@ -140396,7 +140401,6 @@ www.completesportsbetting.com.au
 www.compositefarming.com
 www.comprafacil.com.br
 www.comptrffc.com
-www.compucelunlock.net
 www.compuclever.leadpages.co
 www.compufixshop.com
 www.compulink-support.com
@@ -145141,6 +145145,7 @@ www.hashforcash.us
 www.hashing.win
 www.hashmalim.com
 www.hashsrv.com
+www.hashto.cash
 www.hashvault.pro
 www.hastalavista.info
 www.hastasrts091212.000webhostapp.com
@@ -146477,7 +146482,6 @@ www.izarc.fr
 www.izayoinet.info
 www.izvestia.info
 www.j3safetyismyname.com
-www.j9lib.com
 www.j12lib.com
 www.j22now.leadpages.co
 www.j.ubeat.info
@@ -157185,7 +157189,6 @@ www.voicefive.com
 www.voicemail.co.il
 www.voip.recs.shareaholic.com
 www.vokr-gtavc.ic.cz
-www.volantix.com
 www.volgatermolazer.ru
 www.volleyball-doppeldorf.de
 www.voltairnet.org
