@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sun, 02 Jun 2024 20:58:28 +0000
+# Last converted - Mon, 03 Jun 2024 01:51:08 +0000
 #
 
 realdsp.realclick.co.kr

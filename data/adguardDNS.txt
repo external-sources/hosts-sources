@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 02 Jun 2024 20:57:44 +0000
+# Last converted - Mon, 03 Jun 2024 01:50:26 +0000
 #
 
 fualujqbhqyn.xyz
@@ -60757,6 +60757,12 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+jsqygwl.top
+lsyliel.top
+kritgu.xyz
+phtivr.xyz
+doxihz.xyz
+lhmgoik.icu
 0322cfmtl.cc
 07dy.cc
 0940088.com
