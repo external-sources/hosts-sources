@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 03 Jun 2024 13:05:51 +0000
+# Last converted - Mon, 03 Jun 2024 16:57:50 +0000
 #
 
 fualujqbhqyn.xyz
@@ -41052,6 +41052,7 @@ googlevads-cn.com
 1116c5.xyz
 11c7a3.xyz
 1350c3.xyz
+156fd4.xyz
 1a1fb6.xyz
 20519a.xyz
 22dd31.xyz
@@ -66786,7 +66787,6 @@ gpm.ltd
 dagcoin.org
 coinwallet.biz
 soodland.com
-minepi.com
 irancoinmine.com
 laqira.io
 waykingroup.com
