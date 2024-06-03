@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 03 Jun 2024 08:57:54 +0000
+# Last converted - Mon, 03 Jun 2024 13:05:51 +0000
 #
 
 fualujqbhqyn.xyz
@@ -41045,6 +41045,7 @@ googleadservices-cn.com
 googleadsserving.cn
 googlevads-cn.com
 02777e.site
+0395d1.xyz
 05751c.site
 072551.xyz
 07e197.site
@@ -43430,6 +43431,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+lr-in-prod.com
 track.mailerlite.com
 a11ybar.com
 trackszn.median.eu
