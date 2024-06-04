@@ -1,18 +1,9 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Tue, 04 Jun 2024 16:58:33 +0000
+# Last converted - Tue, 04 Jun 2024 20:59:06 +0000
 #
 
-realdsp.realclick.co.kr
-reale.demdex.net
-realemutuaitailian.000webhostapp.com
-realeseguros.facebook-ads.adtz.com
-realestate2.deshmedia.com
-realestate.adx1.com
-realestate.clickmeter.com
-realestate.com.au.sc.omtrdc.net
-realestate.com.au.ssl.sc.omtrdc.net
 realestate.coscousa.com
 realestate.gr.com
 realestate.ipopple.net
@@ -17413,7 +17404,6 @@ sasrlink-px.rtrk.com
 sass2.directprimal.com
 sass.cryptaloot.pro
 sass.cryptoloot.pro
-sass.directprimal.com
 sass.webmine.pro
 sassarirc.top
 sassat3000.clickfunnels.com
@@ -20279,7 +20269,6 @@ sea.advertising.yahoo.com
 sea.aimon.gsm.applicationinsights.io
 sea.cryptaloot.pro
 sea.cryptoloot.pro
-sea.directprimal.com
 sea.effectivemeasure.net
 sea.net.edu.cn
 sea.openxmarket.asia
@@ -53509,7 +53498,6 @@ stompebi.link
 stone2.directprimal.com
 stone.cryptaloot.pro
 stone.cryptoloot.pro
-stone.directprimal.com
 stone.webmine.pro
 stoneandcloth.7eer.net
 stonearchlaw.clickfunnels.com
@@ -69974,7 +69962,6 @@ ticmate.co.il
 ticonmamad.libraries.co.il
 ticonsalope.000webhostapp.com
 tic-parchi.com
-tics.techdirt.com
 ticstars.com
 tictacti.adk2x.com
 tic-tic-bam.com
@@ -87408,6 +87395,7 @@ update.amazon.de.antfutureinsane.com
 update.a-mo.net
 update.aniview.com
 update.ap.lijit.com
+update.aut5.com
 update.browser.qq.com
 update.ccount.shreeshishumandir.com
 update.center.krrick.com
@@ -110088,6 +110076,7 @@ ws1-live.live.eks.hotjar.com
 ws1-staging.hotjar.com
 ws2.15x.net
 ws2.cdnsoar.com
+ws02.coinnebula.com
 ws02.crypto-loot.com
 ws02.do.nu
 ws2.ecorebates.com
@@ -110117,6 +110106,7 @@ ws2t.responsys.net
 ws2-teva.responsys.net
 ws2-uggs.responsys.net
 ws3.15x.net
+ws03.coinnebula.com
 ws03.crypto-loot.com
 ws03.do.nu
 ws3.g-content.bid
@@ -134170,6 +134160,7 @@ www.17d98a5d.akstat.io
 www.18.0.20cdn.adx1.com
 www.18access.com
 www.18bet.com
+www.18freeporn.com
 www.18hdxxx.com
 www.18pluspics.com
 www.18plusstore.com
@@ -140270,6 +140261,7 @@ www.coinimp.net
 www.coinive.com
 www.coinjive.com
 www.coinmaximalist.com
+www.coinnebula.com
 www.coinpayhub.ltd
 www.coinpot.co
 www.coinprobase.info
@@ -140401,6 +140393,7 @@ www.completesportsbetting.com.au
 www.compositefarming.com
 www.comprafacil.com.br
 www.comptrffc.com
+www.compucelunlock.net
 www.compuclever.leadpages.co
 www.compufixshop.com
 www.compulink-support.com
@@ -144539,7 +144532,6 @@ www.globalwagering.ws
 www.globalwebads.com
 www.globalwebindex.net
 www.globe7.com
-www.globetrotting-culture.ru
 www.globlb.com
 www.globtrix.com
 www.glockpost.com
@@ -148564,6 +148556,7 @@ www.megacounter.de
 www.megafast.info
 www.megafilmeshd.masterfilmesonlinegratis.info
 www.megafilmesserieshd.masterfilmesonlinegratis.info
+www.megago.com
 www.megajackpot.totalh.net
 www.megapopads.com
 www.megapornbucks.com
