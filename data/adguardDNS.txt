@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 04 Jun 2024 08:57:53 +0000
+# Last converted - Tue, 04 Jun 2024 13:03:21 +0000
 #
 
 fualujqbhqyn.xyz
@@ -46921,6 +46921,7 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+analytics.poferries.com
 v225.ksbw.com
 k030.koco.com
 u082.wapt.com
