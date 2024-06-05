@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 05 Jun 2024 16:58:47 +0000
+# Last converted - Wed, 05 Jun 2024 20:58:32 +0000
 #
 
 00px.net
@@ -16231,6 +16231,7 @@ sw-assets.ekomiapps.de
 swaven.com
 sweaty-garage.pro
 sweatytraining.pro
+sweetadforu.cc
 swelen.com
 swellrewards.com
 swelteringcrazy.pro
