@@ -1,7 +1,7 @@
 # someoneWhoCares
 #
 # Converted from - https://someonewhocares.org/hosts/hosts
-# Last converted - Tue, 04 Jun 2024 20:59:00 +0000
+# Last converted - Wed, 05 Jun 2024 01:48:01 +0000
 #
 
 127.0.0.1	localhost

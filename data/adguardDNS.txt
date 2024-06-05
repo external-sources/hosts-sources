@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 04 Jun 2024 20:58:10 +0000
+# Last converted - Wed, 05 Jun 2024 01:47:23 +0000
 #
 
 nyihcpzdloe.com
@@ -60801,6 +60801,13 @@ dyzgdp.xyz
 bing005.shop
 xbbhwggj.icu
 bing003.shop
+qpesok.xyz
+biancitiao.com
+wkjyxcheng.top
+xysefte.icu
+uuysiaq.com
+hfjsliu.top
+libhzf.xyz
 0322cfmtl.cc
 07dy.cc
 0940088.com
