@@ -1,7 +1,7 @@
 # ShadowWhispererTunnels
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
-# Last converted - Tue, 04 Jun 2024 20:58:57 +0000
+# Last converted - Wed, 05 Jun 2024 01:47:59 +0000
 #
 
 0000a-fast-proxy.de
@@ -507,6 +507,9 @@ proxywebsite.co.uk
 proxy-youtube.com
 ptoserver.com
 purevpn.com
+purevpn.com.tw
+purevpn.de
+purevpn.fr
 purevpn-tools.com
 pushvpn.com
 pyproxy.com
