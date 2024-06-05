@@ -1,9 +1,11 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 05 Jun 2024 16:58:06 +0000
+# Last converted - Wed, 05 Jun 2024 20:57:56 +0000
 #
 
+journeymv.com
+deliman.net
 nyihcpzdloe.com
 fualujqbhqyn.xyz
 pafiptuy.net
@@ -60821,6 +60823,7 @@ libhzf.xyz
 zthxobgk.icu
 vfphbh.xyz
 dljzcl.cn
+binga01.shop
 0322cfmtl.cc
 07dy.cc
 0940088.com
