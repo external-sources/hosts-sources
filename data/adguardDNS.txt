@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 05 Jun 2024 04:57:47 +0000
+# Last converted - Wed, 05 Jun 2024 08:57:59 +0000
 #
 
 nyihcpzdloe.com
@@ -841,7 +841,6 @@ hadarone.com
 muzotur.info
 360adshost.com
 clickonometrics.pl
-converti.se
 widget.convertiser.com
 adsenseguard.com
 cashpartners.eu
@@ -7167,6 +7166,7 @@ bugeyedfloral.com
 buggerygruffed.com
 bugits.com
 bugleczmoidgxo.com
+buglesembarge.top
 bugraubs.com
 bugs2022.com
 bugsattended.com
@@ -8195,6 +8195,7 @@ chimeddawt.top
 chimneylouderflank.com
 china-netwave.com
 chinagranddad.com
+chinaslauras.com
 chineegibbet.com
 chinemcg.website
 chinoismoras.com
@@ -9519,6 +9520,7 @@ credibilitystakehemisphere.com
 credibilityyowl.com
 creditbitesize.com
 creditorapido.xyz
+credotrigona.com
 credulityicicle.com
 creedoverwork.com
 creeguilds.com
@@ -13778,6 +13780,7 @@ findromanticdates.com
 findslofty.com
 findswiftresults.com
 fine-wealth.pro
+finedbawrel.com
 finedintersection.com
 finednothue.com
 fineporno.com
@@ -23475,6 +23478,7 @@ nandweandthe.org
 naneducate.com
 nanesbewail.com
 nanfleshturtle.com
+nangalupeose.com
 nangelsaidthe.info
 nangkasec.com
 nanhermione.com
@@ -24563,6 +24567,7 @@ oartoogree.com
 oasazedy.com
 oasishonestydemented.com
 oasqrthubiub.com
+oastoamox.com
 oataltaul.com
 oatbcxnhacfjnc.com
 oatchelt.com
@@ -27897,6 +27902,7 @@ prosecutorcassettedying.com
 prosecutorcommaeligible.com
 prosecutorkettle.com
 prosedisavow.com
+proselyaltars.com
 proseoverlook.com
 prositzapas.com
 prosocrawm.com
@@ -31232,6 +31238,7 @@ separationalphabet.com
 separationharmgreatest.com
 separationheadlight.com
 separationreverttap.com
+sepianshap.com
 sepstough.com
 septemberautomobile.com
 septfd2em64eber.com
@@ -35446,6 +35453,7 @@ typicallyapplause.com
 typicalsecuritydevice.com
 typiccor.com
 typiconrices.com
+typojesuit.com
 typsxumcsjw.com
 tyqptghilt.com
 tyract.com
@@ -60808,6 +60816,9 @@ xysefte.icu
 uuysiaq.com
 hfjsliu.top
 libhzf.xyz
+zthxobgk.icu
+vfphbh.xyz
+dljzcl.cn
 0322cfmtl.cc
 07dy.cc
 0940088.com
@@ -60973,7 +60984,6 @@ cfugrnc.icu
 cgidskif.top
 chayassa.com
 cherylssb.com
-chinaslauras.com
 cijianggun.com
 cliffnsc.xyz
 clmkwi.xyz
