@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Thu, 06 Jun 2024 13:03:43 +0000
+# Last converted - Thu, 06 Jun 2024 16:58:39 +0000
 #
 
 01counter.com
@@ -17406,7 +17406,6 @@ data.anisearch.com
 data.avid.com
 databerries.com
 databoom.online
-databricks.com
 data-c53e1346fa.mein-mmo.de
 data-c5925d7d99.pcgames.de
 datacaciques.com
@@ -66999,7 +66998,6 @@ ucmetrics.unicreditbanca.it
 ucmetrics.unicreditgroup.eu
 ucmetrics.unicredit.it
 ucounter.ucoz.net
-ucsuri.tcs
 ucw.gus.global
 udbdf.huya.com
 udc.yahoo.com
