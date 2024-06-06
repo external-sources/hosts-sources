@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 06 Jun 2024 08:58:03 +0000
+# Last converted - Thu, 06 Jun 2024 13:03:07 +0000
 #
 
 journeymv.com
@@ -41140,6 +41140,7 @@ d84bc26d.site
 d8b0a5.xyz
 d980ed.xyz
 dd2270.xyz
+de214f.xyz
 e076.xyz
 e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
 ec44.site
@@ -46945,6 +46946,8 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+ad.dl.mz.de
+topspin.npo.nl
 collect.stepstone.co.uk
 analytics.poferries.com
 v225.ksbw.com
@@ -60831,6 +60834,10 @@ ifjslio.top
 qrmozsc.icu
 jtezxmpb.xyz
 nlxgjwye.icu
+dasljfoq.top
+dajkqqpz.top
+qwoofao.top
+hrnvfp.xyz
 0322cfmtl.cc
 07dy.cc
 0940088.com
