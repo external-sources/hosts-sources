@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 06 Jun 2024 04:57:48 +0000
+# Last converted - Thu, 06 Jun 2024 08:58:03 +0000
 #
 
 journeymv.com
