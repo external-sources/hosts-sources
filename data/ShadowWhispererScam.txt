@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Wed, 05 Jun 2024 20:58:34 +0000
+# Last converted - Thu, 06 Jun 2024 01:48:26 +0000
 #
 
 007-dvd.com
@@ -4684,6 +4684,7 @@ freepsn.info
 freerepublic.com
 free-roblox.ru
 freerobux.club
+freerobux.fun
 freerobuxgenerators.org
 freerobux.live
 freerobuxnoverification.co
