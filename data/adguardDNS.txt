@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 06 Jun 2024 16:58:00 +0000
+# Last converted - Thu, 06 Jun 2024 20:57:58 +0000
 #
 
+wxemjmxevy.com
 journeymv.com
 deliman.net
 nyihcpzdloe.com
@@ -8335,6 +8336,7 @@ cifflattie.com
 cifqfyafsolzb.com
 cigaretteintervals.com
 cigarettenotablymaker.com
+ciizxsdr.com
 ciksolre.net
 ciliarycetus.com
 cilvhypjiv.xyz
@@ -11856,6 +11858,7 @@ eawp2ra7.top
 eaxhsjrlq.com
 eayeewlvmeqel.top
 eazyleads.com
+eb36c9bf12.com
 eb5232b35d.com
 ebannertraffic.com
 ebb174824f.com
@@ -16617,6 +16620,7 @@ heftedbeatify.cfd
 heftygift.pro
 hegazedatthe.info
 hehighursoo.com
+hehnpryefuq.com
 heiressplane.com
 heiressscore.com
 heiresstolerance.com
@@ -39576,6 +39580,7 @@ zozolilla.com
 zpbpenn.com
 zpcfnzjq.com
 zpgetworker11.com
+zphgadwnjro.com
 zpreland.com
 zprelandappslab.com
 zprelanding.com
@@ -43474,6 +43479,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+metrics.streaks.jp
 lr-in-prod.com
 track.mailerlite.com
 a11ybar.com
@@ -43532,7 +43538,6 @@ e.zg-api.com
 fp.techinasia.com
 create.lidstatic.com
 cadmus.script.ac
-feliz.data.tm-awx.com
 adoric-om.com
 lz-pub-ads.com
 w4h5ae.ru
@@ -46946,6 +46951,7 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+analytics.junia.ai
 ad.dl.mz.de
 topspin.npo.nl
 collect.stepstone.co.uk
@@ -50083,6 +50089,7 @@ f-log-at.grammarly.io
 f-log-test.grammarly.io
 fcmatch.google.com
 fcmatch.youtube.com
+feliz.data.tm-awx.com
 filament-stats.herokuapp.com
 fingerprinter-production.herokuapp.com
 fkrkkmxsqeb5bj9r.s3.amazonaws.com
@@ -60800,44 +60807,6 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
-jsqygwl.top
-lsyliel.top
-kritgu.xyz
-phtivr.xyz
-doxihz.xyz
-lhmgoik.icu
-hxwscp.cn
-cxeftgyuer.top
-btrwxz.xyz
-eacqihh.icu
-cfjslif.top
-edghkc.xyz
-dyzgdp.xyz
-bing005.shop
-xbbhwggj.icu
-bing003.shop
-qpesok.xyz
-biancitiao.com
-wkjyxcheng.top
-xysefte.icu
-uuysiaq.com
-hfjsliu.top
-libhzf.xyz
-zthxobgk.icu
-vfphbh.xyz
-dljzcl.cn
-binga01.shop
-cbcgqs.xyz
-tsdfxv.xyz
-ancxeftgyu.top
-ifjslio.top
-qrmozsc.icu
-jtezxmpb.xyz
-nlxgjwye.icu
-dasljfoq.top
-dajkqqpz.top
-qwoofao.top
-hrnvfp.xyz
 0322cfmtl.cc
 07dy.cc
 0940088.com
@@ -60916,6 +60885,7 @@ ajijcy.xyz
 ajkggo.xyz
 aly.la
 amidicestrins.com
+ancxeftgyu.top
 anjdwmq.xyz
 ankczwr.icu
 aoakss.com
@@ -60947,8 +60917,12 @@ benpsbp.com
 beyers.cn
 bfjsliv.top
 bgidskiv.top
+biancitiao.com
 bijiangqing.com
 bing001.shop
+bing003.shop
+bing005.shop
+binga01.shop
 bjswhpy.cn
 bjxfnn.xyz
 bkzmtp.xyz
@@ -60964,6 +60938,7 @@ bpxbzps.xyz
 bqnxff.xyz
 brixel.cn
 btfzbak.xyz
+btrwxz.xyz
 btsgroup.cn
 btyhnbmn289.shop
 btyhnraw653.shop
@@ -60987,6 +60962,7 @@ cai75tp.com
 caomaotongji.com
 caomeixz7.xyz
 captickc.com
+cbcgqs.xyz
 cbcvou.xyz
 cbthkumwa96.shop
 ccsshn137.shop
@@ -60998,6 +60974,7 @@ cdrvkdni.xyz
 cdybwjpa.xyz
 cergbtb36.shop
 cergbwa97.shop
+cfjslif.top
 cfrtdmb.xyz
 cfugrnc.icu
 cgidskif.top
@@ -61030,6 +61007,7 @@ cweriof.top
 cwgucvm.icu
 cwiuhtp.icu
 cwssfg632.shop
+cxeftgyuer.top
 cxlvlbx.xyz
 cyuwkbf.top
 czxvgod.xyz
@@ -61037,7 +61015,9 @@ d3g4a.cyou
 dadxnl.xyz
 dajiahao10.top
 dajiahao9.top
+dajkqqpz.top
 damiul.icu
+dasljfoq.top
 dataryon.com
 dawdlealmonry.com
 dblijd.xyz
@@ -61058,11 +61038,13 @@ divxrj.xyz
 djxpnuo.xyz
 djxzk.top
 dkjwbv.xyz
+dljzcl.cn
 dlngft.xyz
 dmpqjn.xyz
 dndmygr.cn
 dngbjyc.cn
 dorper.cn
+doxihz.xyz
 dpedrt.xyz
 dpzplb.xyz
 dqhxmbx.cn
@@ -61081,15 +61063,18 @@ dxrnksm.xyz
 dyccdk.xyz
 dyegif.icu
 dytkgl.icu
+dyzgdp.xyz
 dzdnffs.xyz
 dzfzak.cn
 dzuht.cn
 eabvmue.cn
+eacqihh.icu
 eaezoi.xyz
 eaqlos.xyz
 ebgwdon.cn
 ebwonro.cn
 ecikmrm.icu
+edghkc.xyz
 edjjpgf.xyz
 edler.cn
 efmtsw.xyz
@@ -61200,6 +61185,7 @@ heapz.cyou
 hendehy.com
 hexcvb.xyz
 hfbfbvmjdmxc.com
+hfjsliu.top
 hgcgnfe.icu
 hgfutf.xyz
 hgidskiu.top
@@ -61224,6 +61210,7 @@ hpzktd.xyz
 hqhspv.xyz
 hrjctx.xyz
 hrnkdr.xyz
+hrnvfp.xyz
 hspdiom.cn
 hsutav.icu
 hsvchnsvncvvd.com
@@ -61235,6 +61222,7 @@ huiyunbei.com
 huuocxu.icu
 hvxrvef.xyz
 hweriou.top
+hxwscp.cn
 hyusnisu.top
 hyuwkbu.top
 iaosua.com
@@ -61243,6 +61231,7 @@ icqeou.xyz
 idffhq.cn
 ieapak.xyz
 ievvo.xyz
+ifjslio.top
 igidskio.top
 ihwlek.com
 ijmxco.xyz
@@ -61294,8 +61283,10 @@ jqbddp.xyz
 jqpejp.xyz
 jrpolj.xyz
 js131.cn
+jsqygwl.top
 jsxwfb.xyz
 jsyliea.top
+jtezxmpb.xyz
 jtyusia.top
 jtzdld.xyz
 jubnpx.xyz
@@ -61333,6 +61324,7 @@ knpkxgfp.xyz
 koqjok.xyz
 kovvild.com
 kpmose.xyz
+kritgu.xyz
 kssolo.com
 ksylied.top
 ktoioo.xyz
@@ -61364,6 +61356,8 @@ lftpvh.xyz
 lgidskil.top
 lgtpdt.xyz
 lhmebwq.cn
+lhmgoik.icu
+libhzf.xyz
 liebaovip.com
 lixonj.xyz
 lizijing12.top
@@ -61377,6 +61371,7 @@ lnifdlal.top
 lnxkrd.xyz
 lozmtk.cn
 lsfevr.xyz
+lsyliel.top
 ltfpbp.xyz
 lulgef.icu
 lulxzl.xyz
@@ -61450,6 +61445,7 @@ nlhpxj.xyz
 nljrvdh.xyz
 nltsvf.xyz
 nlvwdlnhfnnw.com
+nlxgjwye.icu
 nmntgd.cn
 nowhern.com
 npjvgug.xyz
@@ -61509,6 +61505,7 @@ pajtll.xyz
 pbbhhxm.xyz
 pblymbu.cn
 pdnhcks.xyz
+phtivr.xyz
 phvfevk.xyz
 pidzlp.xyz
 piksrie.icu
@@ -61561,9 +61558,11 @@ qmbdta.cn
 qmgria.cn
 qnalzly.top
 qnifdlay.top
+qpesok.xyz
 qpzegye.cn
 qqkkpos.com
 qrkhwe.xyz
+qrmozsc.icu
 qrovwu.xyz
 qrttfmo.cn
 qsyliey.top
@@ -61575,6 +61574,7 @@ qvonje.cn
 qw9cu.cyou
 qweqd.cn
 qwerioy.top
+qwoofao.top
 qwsanan.top
 qyuwkby.top
 qywbslk.top
@@ -61715,6 +61715,7 @@ toutanymm.asia
 tptgvh.xyz
 tquspo.com
 tqvnzj.xyz
+tsdfxv.xyz
 tsrvrr.xyz
 tu2024020388.com
 tudxhzj.cn
@@ -61763,6 +61764,7 @@ utxmb.cn
 uu22662.com
 uunfybw.cn
 uuvzmba.cn
+uuysiaq.com
 uvklgw.xyz
 uweriot.top
 uxlvk.cn
@@ -61785,6 +61787,7 @@ vevhjj.xyz
 vfchm.cyou
 vfgajrk.cn
 vflorp.xyz
+vfphbh.xyz
 vfxrpl.xyz
 vgzytn.xyz
 vhvwlb.xyz
@@ -61815,6 +61818,7 @@ wioboy.xyz
 wisealty.com
 wismog.xyz
 wjwod.cyou
+wkjyxcheng.top
 wkrhel.icu
 wkywrc.cn
 wnalzle.top
@@ -61838,6 +61842,7 @@ wxymag.xyz
 wymqjow.icu
 wyuwkbe.top
 xamssp.icu
+xbbhwggj.icu
 xcypgd.icu
 xdfhidrk.xyz
 xdmnlxtu.xyz
@@ -61873,6 +61878,7 @@ xwvnhe.cn
 xxle.cn
 xxsmad1.com
 xylhwdu.com
+xysefte.icu
 xytcboyz.icu
 xzrhvv.xyz
 ybrrvck.xyz
@@ -61932,6 +61938,7 @@ zpplsii.xyz
 zqgixxp.icu
 zrdga.cn
 zsjpi.cn
+zthxobgk.icu
 zttuvj.xyz
 ztxjutz.xyz
 zuvbzl.xyz
