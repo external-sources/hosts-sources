@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Thu, 06 Jun 2024 01:48:28 +0000
+# Last converted - Thu, 06 Jun 2024 05:03:28 +0000
 #
 
 01counter.com
@@ -19292,6 +19292,7 @@ event.entreprises-collectivites.engie.fr
 event.ermeo.com
 eventexistence.com
 event.finemarkbank.com
+event.freeconferencecall.com
 event.globalchemicals.com.hk
 event.global-cosmetics.com
 event.globalcosmetics.hk
