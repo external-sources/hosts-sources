@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 05 Jun 2024 20:57:56 +0000
+# Last converted - Thu, 06 Jun 2024 01:47:20 +0000
 #
 
 journeymv.com
@@ -60824,6 +60824,13 @@ zthxobgk.icu
 vfphbh.xyz
 dljzcl.cn
 binga01.shop
+cbcgqs.xyz
+tsdfxv.xyz
+ancxeftgyu.top
+ifjslio.top
+qrmozsc.icu
+jtezxmpb.xyz
+nlxgjwye.icu
 0322cfmtl.cc
 07dy.cc
 0940088.com
