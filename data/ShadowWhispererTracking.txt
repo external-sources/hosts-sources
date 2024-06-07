@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Fri, 07 Jun 2024 01:52:01 +0000
+# Last converted - Fri, 07 Jun 2024 04:58:48 +0000
 #
 
 01counter.com
@@ -2594,6 +2594,7 @@ agrexai.com
 agrizone.anl-myd.fr
 agrodana.com
 agrometrics.com
+agrvt.com
 a.gymjob.com
 ah2trk.com
 ahachi.dietnavi.com
@@ -15161,6 +15162,7 @@ civicscienceinc.com
 civisanalytics.com
 c.jamba.com
 cjm.leadershiptraining.info
+ck-beacon.prd.b2cecom.eu.pvh.cloud
 ckclick.com
 ckm2trk.com
 ckm.iqiyi.com
@@ -15209,6 +15211,7 @@ cleantalk.org
 clearbit.co
 clearbit.com
 clearbitjs.com
+clearbitscripts.com
 clearcabbage.com
 clear-reports.com
 clear.sale
@@ -15642,6 +15645,7 @@ collect.chaordicsystems.com
 collect.data.diva-e.com
 collect.dolmi.com
 collect.elvia.ch
+collect.evivanlanschot.nl
 collect.f5.com
 collect.feefo.com
 collect.futunn.com
@@ -25734,6 +25738,7 @@ initjs.rfk.magidglove.com
 initjs.rfk.petco.com
 initjs.rfk.zennioptical.com
 inlayinsights.com
+inloggen.evivanlanschot.nl
 innae.traxens.com
 in.nearshore.or.jp
 innertrends.com
@@ -26946,6 +26951,7 @@ leadmine.net
 leadmonitor.ai
 leadoo.com
 leadpages.io
+leadplace.fr
 leadportal.com
 leads.alpha.ca
 leadscope.de
@@ -46395,6 +46401,7 @@ refer.chicosofftherack.com
 referdriving.com
 refer.fahw.com
 refer.garnethill.com
+refer.gnc.com
 refer.harryrosen.com
 refer.knixteen.ca
 refer.madison-reed.com
@@ -50313,6 +50320,7 @@ smetrics.eversource.us
 smetrics.evicore.com
 smetrics.evine.com
 smetrics.evita-global.net
+smetrics.evivanlanschot.nl
 smetrics.evolytics.com
 smetrics.evoshield.com
 smetrics.evrysdi.com
@@ -64529,13 +64537,10 @@ t.acwholesalers.com
 t.admissions.olemiss.edu
 t.admp.io
 tag4arm.com
-tag.agrvt.com
 tagalys.com
 tag-api-2-1.ccgateway.net
 tag.aticdn.net
-tag.atmserving.com
 tag.atom.gamedistribution.com
-tag.aumago.com
 tag.azame.net
 tag.baidu.com
 tag-based.s3.ap-south-1.amazonaws.com
@@ -64543,7 +64548,6 @@ tag.benchplatform.com
 tag.boulanger.fr
 tag.calia.com
 tag.cartrawler.com
-tag.clearbitscripts.com
 tagcommander.com
 tag.contactatonce.com
 tag.contactatonce.co.uk
@@ -64566,8 +64570,8 @@ taggrs.io
 taggy.cohesionapps.com
 tag.hariken.co
 tag.havasedge.com
+tag.infigosoftware.com
 taginstall.com
-tag.leadplace.fr
 tag.lenovo.com
 tag.lexer.io
 taglocker.target.com
@@ -64576,7 +64580,6 @@ tag.md-nx.com
 tag.measured.com
 tag.minimaid.co.jp
 tag.myaspectra.ch
-tag.netrk.net
 tag.nifty.com
 tag.nrwlokalradios.de
 tag.oko.net
@@ -64602,6 +64605,7 @@ tags.disneyinternational.com
 tags.dxmdp.com
 tags.esri.com
 tags-eu.tiqcdn.com
+tags.evivanlanschot.nl
 tags.f5.com
 tags.focus.de
 tags.fulllab.com.br
