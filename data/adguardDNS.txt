@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 07 Jun 2024 08:57:40 +0000
+# Last converted - Fri, 07 Jun 2024 13:03:53 +0000
 #
 
 wxemjmxevy.com
@@ -43485,6 +43485,8 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+pxl.knam.pro
+manalyticshub.com
 metrics.streaks.jp
 lr-in-prod.com
 track.mailerlite.com
@@ -46957,6 +46959,7 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+cdn.track.olx.com.br
 analytics.junia.ai
 ad.dl.mz.de
 topspin.npo.nl
@@ -60819,6 +60822,10 @@ tcfgtd.xyz
 jfjslia.top
 jpcctez.icu
 kdqlbm.cn
+pdnwbwyf.icu
+hntkgpd.cn
+itjgwn.xyz
+anbkzt.xyz
 0322cfmtl.cc
 07dy.cc
 0940088.com
