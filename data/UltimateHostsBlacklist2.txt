@@ -1,9 +1,13 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Fri, 07 Jun 2024 16:58:42 +0000
+# Last converted - Fri, 07 Jun 2024 20:58:24 +0000
 #
 
+realestate2.deshmedia.com
+realestate.adx1.com
+realestate.clickmeter.com
+realestate.com.au.sc.omtrdc.net
 realestate.com.au.ssl.sc.omtrdc.net
 realestate.coscousa.com
 realestate.gr.com
@@ -17405,6 +17409,7 @@ sasrlink-px.rtrk.com
 sass2.directprimal.com
 sass.cryptaloot.pro
 sass.cryptoloot.pro
+sass.directprimal.com
 sass.webmine.pro
 sassarirc.top
 sassat3000.clickfunnels.com
@@ -51701,6 +51706,7 @@ stats.ilsemedia.nl
 stats.immense.net
 stats.independent.co.uk
 stats.industryinc.com
+stats.infogenservice.com
 stats.infomedia.net
 stats.innovid.com
 stats.interactivesearchmarketing.com.re.getclicky.com
@@ -69281,6 +69287,7 @@ thor.awtank.com
 thor.bankofamfrica.com
 thor.beck-technologies.com
 thor.bellsourth.com
+thor.blindferret.media
 thor.blueshielsca.com
 thor.bodenmarkt.info
 thor.bravenet.com
@@ -69963,7 +69970,6 @@ ticmate.co.il
 ticonmamad.libraries.co.il
 ticonsalope.000webhostapp.com
 tic-parchi.com
-tics.techdirt.com
 ticstars.com
 tictacti.adk2x.com
 tic-tic-bam.com
@@ -104873,6 +104879,7 @@ webtoolsrooingdengincco.000webhostapp.com
 webtoolsx.brandreachsys.com
 webtop.acxiom.com
 webtracker.apicasystem.com
+webtracker.jp
 webtrackerplus.com
 webtracktechnologies.com
 webtracky.com
@@ -105498,6 +105505,7 @@ welton.dnset.com
 weltonline01.webtrekk.net
 weltsparen.pxf.io
 weltsparenat.pxf.io
+welved.com
 wel-wel-fie.com
 welzfargos.webcindario.com
 wem4.000webhostapp.com
@@ -134232,7 +134240,6 @@ www.53-verification04.dnset.com
 www.55hft.adx1.com
 www.55n3.org
 www.57so.org
-www.59cn7.com
 www.59fifty.com
 www.60dnipremium.cloud
 www.61.adx1.com
@@ -135059,6 +135066,7 @@ www.activeideas.net
 www.activeindexer.com
 www.activemeter.com
 www.activengage.com
+www.activepr.ru
 www.activesafetynz.leadpages.co
 www.activesports.com.pl
 www.activewatch.ro
@@ -143085,6 +143093,7 @@ www.exelio.be
 www.exeos.ws
 www.exexmetro16.dnset.com
 www.exhibenfrance.com
+www.exhibits4court.com
 www.exist33.9m5ui88vjtnrtv1f.innovation2.abtasty.com
 www.exist33.exist33.hlnysp3hg8ecrwvt.innovation2.abtasty.com
 www.exist33.exist33.ruttxfrptyiq1vvs.innovation2.abtasty.com
@@ -154730,6 +154739,7 @@ www.statuncore.com
 www.status.getsocial.io
 www.status.instabug.com
 www.statusbet.com
+www.stazumik.net
 www.stbernadettescatholicchurch.org
 www.stcroixorthopedics.com
 www.steamedcheeseburger.com
