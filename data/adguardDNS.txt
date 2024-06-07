@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 07 Jun 2024 16:57:58 +0000
+# Last converted - Fri, 07 Jun 2024 20:57:44 +0000
 #
 
 wxemjmxevy.com
@@ -8170,6 +8170,7 @@ chethgentman.live
 chettikmacrli.com
 chevetoelike.com
 chevyrailly.top
+cheweemtaig.com
 chewersobolary.com
 chewremittanceprovidence.com
 chewsrompedhemp.com
@@ -33460,6 +33461,7 @@ svntrk.com
 svnutntmq.com
 svrkdkopdsdj.com
 svtlgjmqyzmwz.com
+svwhhiiyihcwh.com
 svyksa.info
 sw2block.com
 swaggydestroy.com
@@ -37803,6 +37805,7 @@ whootapt.com
 whootascots.com
 whootkhankah.com
 whoppercreaky.com
+whopstriglot.com
 whoptoorsaub.com
 whorlysenior.top
 whotchie.net
@@ -39169,6 +39172,7 @@ yqpalfulpst.com
 yqragd.com
 yqxhslsqaqkbd.com
 yr9n47004g.com
+yrcedupgqe.com
 yrcpsfqoyi.com
 yrhdmalrfr.com
 yrinpvfw.com
@@ -41094,6 +41098,7 @@ googlevads-cn.com
 05751c.site
 072551.xyz
 07e197.site
+0ae00c7c.xyz
 1116c5.xyz
 11c7a3.xyz
 1350c3.xyz
@@ -60826,6 +60831,7 @@ pdnwbwyf.icu
 hntkgpd.cn
 itjgwn.xyz
 anbkzt.xyz
+uaiosio.top
 0322cfmtl.cc
 07dy.cc
 0940088.com
