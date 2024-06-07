@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Fri, 07 Jun 2024 01:51:59 +0000
+# Last converted - Fri, 07 Jun 2024 04:58:44 +0000
 #
 
 00px.net
@@ -6643,6 +6643,7 @@ atgenesecton.com
 atlantisagency.my
 atlaqs.com
 atmetagrossan.com
+atmserving.com
 atnd.it
 at.nu
 atomex.net
@@ -6676,6 +6677,7 @@ augen.in
 auglysingar.hestafrettir.is
 augustads.com
 auksizox.com
+aumago.com
 auraads.co.uk
 auraonline.com.au
 ausgezeichnet.org
@@ -16863,6 +16865,7 @@ trustmarkthai.com
 trustseal.enamad.ir
 trustx.org
 trustyfine.com
+truyo.com
 trvdp.com
 tryadhawk.com
 tryamped.com
