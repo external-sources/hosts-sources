@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Thu, 06 Jun 2024 20:58:52 +0000
+# Last converted - Fri, 07 Jun 2024 01:52:08 +0000
 #
 
 realestate.com.au.ssl.sc.omtrdc.net
