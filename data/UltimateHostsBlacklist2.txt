@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sat, 08 Jun 2024 13:01:05 +0000
+# Last converted - Sat, 08 Jun 2024 16:58:19 +0000
 #
 
 realestate2.deshmedia.com
