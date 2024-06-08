@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 08 Jun 2024 04:57:36 +0000
+# Last converted - Sat, 08 Jun 2024 08:57:39 +0000
 #
 
 wxemjmxevy.com
@@ -60822,6 +60822,8 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+fczunn.xyz
+bing007.shop
 oaqrui.xyz
 tcfgtd.xyz
 jfjslia.top
@@ -60837,6 +60839,8 @@ bmhept.xyz
 kfjslid.top
 cismqdx.icu
 kfqizu.cn
+rvtfwryz.icu
+xn--xhq326apqhcx0d.cn
 0322cfmtl.cc
 07dy.cc
 0940088.com
