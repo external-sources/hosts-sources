@@ -1,7 +1,7 @@
 # blocklistProjectScam
 #
 # Converted from - https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/scam-nl.txt
-# Last converted - Sat, 08 Jun 2024 08:58:03 +0000
+# Last converted - Sat, 08 Jun 2024 13:00:47 +0000
 #
 
 10tradeoption.com

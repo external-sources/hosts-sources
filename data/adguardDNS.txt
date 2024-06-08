@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 08 Jun 2024 08:57:39 +0000
+# Last converted - Sat, 08 Jun 2024 13:00:24 +0000
 #
 
+educationrailway.website
 wxemjmxevy.com
 journeymv.com
 deliman.net
@@ -60824,6 +60825,7 @@ zvietcombank.com
 zvietnakello.weebly.com
 fczunn.xyz
 bing007.shop
+thgthgfg.cn
 oaqrui.xyz
 tcfgtd.xyz
 jfjslia.top
