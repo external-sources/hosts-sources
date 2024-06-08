@@ -1,7 +1,7 @@
 # geoffreyFrogeyeFirstPartyTrackers
 #
 # Converted from - https://hostfiles.frogeye.fr/firstparty-trackers.txt
-# Last converted - Sat, 08 Jun 2024 04:58:02 +0000
+# Last converted - Sat, 08 Jun 2024 08:58:08 +0000
 #
 
 101230059950694.wt-eu02.net
