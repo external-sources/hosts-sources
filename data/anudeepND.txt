@@ -1,6 +1,6 @@
 # anudeepND
 #
 # Converted from - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-# Last converted - Sun, 09 Jun 2024 04:57:46 +0000
+# Last converted - Sun, 09 Jun 2024 08:57:54 +0000
 #
 
