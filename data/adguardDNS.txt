@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 09 Jun 2024 08:57:53 +0000
+# Last converted - Sun, 09 Jun 2024 13:00:47 +0000
 #
 
 eeptoabs.com
@@ -41204,6 +41204,7 @@ googlevads-cn.com
 1350c3.xyz
 156fd4.xyz
 1a1fb6.xyz
+1dd6e9ba.xyz
 20519a.xyz
 22dd31.xyz
 295c.site
