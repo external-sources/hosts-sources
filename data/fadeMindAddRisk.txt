@@ -1,6 +1,6 @@
 # fadeMindAddRisk
 #
 # Converted from - https://github.com/FadeMind/hosts.extras/raw/master/add.Risk/hosts
-# Last converted - Sat, 08 Jun 2024 20:58:22 +0000
+# Last converted - Sun, 09 Jun 2024 01:58:47 +0000
 #
 
