@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Mon, 10 Jun 2024 13:07:20 +0000
+# Last converted - Mon, 10 Jun 2024 16:58:49 +0000
 #
 
 010.at
@@ -136,6 +136,7 @@
 9fx.org
 9jagistme.com.ng
 9k.gg
+9o9.cc
 9oz.com
 9u9.de
 a11ypm.com
