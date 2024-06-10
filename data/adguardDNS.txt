@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 09 Jun 2024 20:57:39 +0000
+# Last converted - Mon, 10 Jun 2024 01:54:38 +0000
 #
 
 eeptoabs.com
@@ -60925,6 +60925,13 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+ligfdjnfd.cn
+ozykeor.icu
+yxkbgg.xyz
+davtvd.xyz
+efjsliw.top
+hkpeghqu.icu
+jglgjz.xyz
 fczunn.xyz
 mymqcy.xyz
 roxfrv.xyz

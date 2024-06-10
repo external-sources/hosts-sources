@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Sun, 09 Jun 2024 20:58:16 +0000
+# Last converted - Mon, 10 Jun 2024 01:55:13 +0000
 #
 
 01counter.com
@@ -15679,6 +15679,7 @@ collector.brandify.com
 collector.capturly.com
 collector-cdn.github.com
 collector.cdp.cnn.com
+collector.cdp.cnn.io
 collector.dmp.cnna.io
 collector.dolcevita.com
 collector.fiverr.com
@@ -15735,6 +15736,7 @@ collect.pushpay.com
 collect.recruitmentanalytics.com
 collect.reviews.org
 collect.rewardstyle.com
+collect.saas.castbox.fm
 collect.springernature.com
 collect.variametrix.com
 collect.verify.lnearn.com
@@ -19879,6 +19881,7 @@ finch.market.xyz
 find.goalsbasedadvisors.com
 find-ip.net
 findly.com
+findmydevice-pa.googleapis.com
 findmyip.org
 findologic.com
 find.studenthousing.org
