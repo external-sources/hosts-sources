@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sun, 09 Jun 2024 20:58:23 +0000
+# Last converted - Mon, 10 Jun 2024 01:55:19 +0000
 #
 
 real-estate-fb-page-id213.000webhostapp.com
