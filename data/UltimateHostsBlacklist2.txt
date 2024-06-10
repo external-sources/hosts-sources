@@ -1,11 +1,9 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Mon, 10 Jun 2024 16:58:54 +0000
+# Last converted - Mon, 10 Jun 2024 20:58:47 +0000
 #
 
-real-estate-fb-page-id213.000webhostapp.com
-realestatefinancehq.leadpages.co
 realestategradschool.leadpages.co
 real-estate-houselistings-sale.000webhostapp.com
 real-estate-houselisting-usa.000webhostapp.com
@@ -8485,7 +8483,6 @@ rock2.directprimal.com
 rock.adpiano.com
 rock.cryptaloot.pro
 rock.cryptoloot.pro
-rock.directprimal.com
 rock.reauthenticator.com
 rock.webmine.pro
 rockabox.co
@@ -9998,6 +9995,7 @@ royale.rudrawebtech.com
 royale-bintang-hotel.com
 royaleducations.com.auapp.adjust.com
 royalegenerator.net
+royale-ssl.spongecell.com
 royalestate.com.pl
 royalet.drupalet.com
 royalfarm.customlinks.appsflyer.com
@@ -20258,7 +20256,6 @@ sea.advertising.yahoo.com
 sea.aimon.gsm.applicationinsights.io
 sea.cryptaloot.pro
 sea.cryptoloot.pro
-sea.directprimal.com
 sea.effectivemeasure.net
 sea.net.edu.cn
 sea.openxmarket.asia
@@ -53485,7 +53482,6 @@ stompebi.link
 stone2.directprimal.com
 stone.cryptaloot.pro
 stone.cryptoloot.pro
-stone.directprimal.com
 stone.webmine.pro
 stoneandcloth.7eer.net
 stonearchlaw.clickfunnels.com
@@ -69268,7 +69264,6 @@ thor.awtank.com
 thor.bankofamfrica.com
 thor.beck-technologies.com
 thor.bellsourth.com
-thor.blindferret.media
 thor.blueshielsca.com
 thor.bodenmarkt.info
 thor.bravenet.com
@@ -69951,7 +69946,6 @@ ticmate.co.il
 ticonmamad.libraries.co.il
 ticonsalope.000webhostapp.com
 tic-parchi.com
-tics.techdirt.com
 ticstars.com
 tictacti.adk2x.com
 tic-tic-bam.com
@@ -134089,6 +134083,7 @@ www.8khmer.com
 www.8mouses.com
 www.8ocouui0a49a7a2.smetrics.traderonline.com
 www.8rf.com
+www.8si.ru
 www.08sprotlectsicteznzbnk.dnset.com
 www.8stars-sweets.k-plus.gr.com
 www.8streams.com
@@ -139445,8 +139440,6 @@ www.cf.cdn.adx1.com
 www.cf.wtftds.info
 www.cfarchibaldpavingi.b2badvantage.net
 www.cfcd.duckdns.org
-www.cfceu.duckdns.org
-www.cfcs1.duckdns.org
 www.cfinc.org
 www.cfrfa.112.2o7.net
 www.cftr.info
@@ -139713,7 +139706,6 @@ www.cinemano.info
 www.cinemaplanet.pl
 www.cinemateka.pl
 www.cinematicfanatic.com
-www.cinepro.com
 www.cineshoyts.com
 www.cinetr.net
 www.cineworld.evyy.net
@@ -146460,6 +146452,7 @@ www.izarc.fr
 www.izayoinet.info
 www.izvestia.info
 www.j3safetyismyname.com
+www.j9lib.com
 www.j12lib.com
 www.j22now.leadpages.co
 www.j.ubeat.info
@@ -146654,7 +146647,6 @@ www.jewelryandwatches.totalh.net
 www.jezdeckaskola.info
 www.jf71qh5v14.com
 www.jhiadsdf.000webhostapp.com
-www.jhondi33.duckdns.org
 www.jhs.adx1.com
 www.jhuyds.000webhostapp.com
 www.jiani.info
