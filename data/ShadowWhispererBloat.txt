@@ -1,6 +1,6 @@
 # ShadowWhispererBloat
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
-# Last converted - Tue, 11 Jun 2024 17:55:02 +0000
+# Last converted - Tue, 11 Jun 2024 20:58:30 +0000
 #
 

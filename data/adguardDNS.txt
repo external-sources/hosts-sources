@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 11 Jun 2024 17:54:24 +0000
+# Last converted - Tue, 11 Jun 2024 20:57:55 +0000
 #
 
 eeptoabs.com
@@ -47073,6 +47073,7 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+geo.wpforms.com
 cdn.track.olx.com.br
 analytics.junia.ai
 ad.dl.mz.de
@@ -53842,7 +53843,6 @@ caraneoutraze.uno
 adserver.icimedias.ca
 adleap.jp
 ad.unique1static.jp
-bance.jp
 appdraft.link
 ad.adpon-affi.net
 lmadps.jp
@@ -54121,6 +54121,7 @@ media5.fc2.com
 ov.yahoo.co.jp
 yads.yahoo.co.jp
 yads.yjtag.yahoo.co.jp
+bance.jp
 maillovelove.net
 adserv2.suumo.jp
 ad.woman.mynavi.jp
