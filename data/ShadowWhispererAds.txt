@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Tue, 11 Jun 2024 13:08:39 +0000
+# Last converted - Tue, 11 Jun 2024 16:58:16 +0000
 #
 
 00px.net
@@ -16119,6 +16119,7 @@ step121.it
 stepkeydo.com
 step-step-go.com
 stepupsolutionz.com
+stepwisevideo.com
 sternadvertising.com
 ster.nl
 sterta.pl
