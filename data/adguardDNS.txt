@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 11 Jun 2024 08:57:57 +0000
+# Last converted - Tue, 11 Jun 2024 13:08:06 +0000
 #
 
 eeptoabs.com
@@ -41229,11 +41229,13 @@ googlevads-cn.com
 634369.xyz
 657475b7-0095-478d-90d4-96ce440604f9.online
 68646f.xyz
+691f42ad.xyz
 6a6672.xyz
 7608d5.xyz
 7ca989e1.xyz
 7e809ed7-e553-4e29-acb1-4e3c0e986562.site
 7fc8.site
+814272c4.xyz
 8acc5c.site
 8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online
 977878.xyz
@@ -60965,6 +60967,9 @@ retrefsf.cn
 hsoubnp.icu
 binga03.shop
 jcfnbhqo.icu
+gfdfegg.cn
+bing009.shop
+rdnplpj.cn
 ligfdjnfd.cn
 ozykeor.icu
 yxkbgg.xyz
