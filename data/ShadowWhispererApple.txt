@@ -1,7 +1,7 @@
 # ShadowWhispererApple
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple
-# Last converted - Mon, 10 Jun 2024 20:58:37 +0000
+# Last converted - Tue, 11 Jun 2024 01:51:55 +0000
 #
 
 amp-account.apps.apple.com
