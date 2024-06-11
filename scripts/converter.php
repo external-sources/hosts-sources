@@ -45,6 +45,7 @@ $lists = array(
     'PglYoYo' => 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=one-line&showintro=0&mimetype=plaintext',
     'phishingArmy' => 'https://phishing.army/download/phishing_army_blocklist_extended.txt',
     'Phishing.Database' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt',
+    'QuidsupMixed' => 'https://quidsup.net/notrack/blocklist.php?download=trackersdomains'
     'ShadowWhispererAds' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads',
     'ShadowWhispererApple' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple',
     'ShadowWhispererBloat' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat',
