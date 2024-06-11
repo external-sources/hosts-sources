@@ -1,7 +1,7 @@
 # blocklistProjectFacebook
 #
 # Converted from - https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/facebook-nl.txt
-# Last converted - Tue, 11 Jun 2024 17:54:36 +0000
+# Last converted - Tue, 11 Jun 2024 20:58:06 +0000
 #
 
 0-1.fb.me
