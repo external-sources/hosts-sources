@@ -1,15 +1,9 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Wed, 12 Jun 2024 16:58:35 +0000
+# Last converted - Wed, 12 Jun 2024 20:58:24 +0000
 #
 
-realestatecoulisse.com
-realestatecurve.com
-realestateenhanced.clickfunnels.com
-real-estate-express.pxf.io
-real-estate-fb-page-id213.000webhostapp.com
-realestatefinancehq.leadpages.co
 realestategradschool.leadpages.co
 real-estate-houselistings-sale.000webhostapp.com
 real-estate-houselisting-usa.000webhostapp.com
@@ -10002,7 +9996,6 @@ royale.rudrawebtech.com
 royale-bintang-hotel.com
 royaleducations.com.auapp.adjust.com
 royalegenerator.net
-royale-ssl.spongecell.com
 royalestate.com.pl
 royalet.drupalet.com
 royalfarm.customlinks.appsflyer.com
@@ -33294,7 +33287,6 @@ site.ca-conv.jp
 site.careerbulider.com
 site.clickpoint.com
 site.clinch.co
-site.coinnebula.com
 site.collector-px12xk43jk.px-cloud.net
 site.corp.com
 site.db-ip.com
@@ -146467,6 +146459,7 @@ www.izarc.fr
 www.izayoinet.info
 www.izvestia.info
 www.j3safetyismyname.com
+www.j9lib.com
 www.j12lib.com
 www.j22now.leadpages.co
 www.j.ubeat.info
