@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 12 Jun 2024 16:58:26 +0000
+# Last converted - Wed, 12 Jun 2024 20:58:14 +0000
 #
 
 00px.net
@@ -6272,6 +6272,7 @@ amoddishor.com
 amoeba-plus.web.roku.com
 amoeba.web.roku.com
 amolio.fubo.tv
+amon1.net
 a.montafp.top
 ampclicks.com
 ampcr.io
@@ -7417,6 +7418,7 @@ boxcar.io
 bp5hq5jivj.ru
 bpadvertising.net
 bpath.com
+bpgqpdfhynlbe.com
 b.pinetq.com
 bpioqb.com
 b.pornomixfree.com
@@ -10767,6 +10769,7 @@ infrontmarketing.ca
 ingameads2.gameloft.com
 ingameads.gameloft.com
 ingamesads.gameloft.com
+ingentdurn.com
 ingretor.com
 inherente.com.mx
 inkornesto.com
@@ -17447,6 +17450,7 @@ vstserv.com
 vtaos.xyz
 v.trustutn.org
 vubihowhe.com
+vuekvgiam.com
 vuftouks.com
 vugnubier.com
 vuiads.net
