@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Tue, 11 Jun 2024 20:58:38 +0000
+# Last converted - Wed, 12 Jun 2024 01:51:35 +0000
 #
 
 realestatecoulisse.com
