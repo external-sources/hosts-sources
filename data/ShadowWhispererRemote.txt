@@ -1,7 +1,7 @@
 # ShadowWhispererRemote
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
-# Last converted - Wed, 12 Jun 2024 13:05:17 +0000
+# Last converted - Wed, 12 Jun 2024 16:58:28 +0000
 #
 
 01com.com
@@ -90,9 +90,11 @@ pax-manager.myparallels.com
 pkhelp.us
 proxynetworks.com
 psremote.com
+purple.expert
 radmin.com
 realvnc.com
 remmina.org
+remote.bz
 remote-control-desktop.com
 remote-desktop-control.com
 remotedesktop.google.com
@@ -109,6 +111,7 @@ screenconnect.com
 screenleap.com
 showmypc.com
 splashtop.com
+studiopalms.com
 support.com
 support.gbstech.com
 support.me
@@ -124,6 +127,7 @@ terminalserviceplus.com
 tigervnc.org
 tightvnc.com
 todesk.com
+uithelp.com
 ultraviewer.net
 ultravnc.en.softonic.com
 usefirefly.com
