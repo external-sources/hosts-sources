@@ -1,7 +1,7 @@
 # blocklistProjectRedirect
 #
 # Converted from - https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/redirect-nl.txt
-# Last converted - Tue, 11 Jun 2024 20:58:18 +0000
+# Last converted - Wed, 12 Jun 2024 01:51:09 +0000
 #
 
 0--0--0.info
