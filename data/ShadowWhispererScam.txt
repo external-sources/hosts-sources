@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Wed, 12 Jun 2024 13:05:17 +0000
+# Last converted - Wed, 12 Jun 2024 16:58:28 +0000
 #
 
 007-dvd.com
@@ -8502,6 +8502,7 @@ orbusinessdaily.com
 orchtraeter.com
 ordercocaineforsale.com
 orderdocsonline.com
+order-help.com
 ordermarijuanaonline.org
 orderquilt.com
 ordertopsmokesonline.com
@@ -10550,6 +10551,7 @@ shopquochoang.com
 shopredone.store
 shopsaleus.com
 shopsmart.deals
+shop-support-24x7.com
 shoptkocbd.com
 shoptopgunsnow.com
 shoptrends.co
