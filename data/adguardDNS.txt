@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 12 Jun 2024 08:57:45 +0000
+# Last converted - Wed, 12 Jun 2024 13:04:42 +0000
 #
 
 eeptoabs.com
@@ -60993,6 +60993,8 @@ rapfdf.xyz
 gfdfgfgr.cn
 gjhjjhgc.cn
 xuldtcip.icu
+jqfql.top
+blrpbt.xyz
 ligfdjnfd.cn
 ozykeor.icu
 yxkbgg.xyz
