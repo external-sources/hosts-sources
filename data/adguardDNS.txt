@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 12 Jun 2024 04:57:44 +0000
+# Last converted - Wed, 12 Jun 2024 08:57:45 +0000
 #
 
 eeptoabs.com
@@ -41252,6 +41252,7 @@ a49ebd.xyz
 a67d12.xyz
 b0eb63.xyz
 b211.xyz
+b51475b8.xyz
 b59c.xyz
 b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online
 b82978.xyz
@@ -47084,6 +47085,7 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+plausible.omgapi.org
 geo.wpforms.com
 cdn.track.olx.com.br
 analytics.junia.ai
