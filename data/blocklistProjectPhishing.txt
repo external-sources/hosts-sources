@@ -1,7 +1,7 @@
 # blocklistProjectPhishing
 #
 # Converted from - https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/phishing-nl.txt
-# Last converted - Thu, 13 Jun 2024 13:04:13 +0000
+# Last converted - Thu, 13 Jun 2024 20:58:17 +0000
 #
 
 0.01.2.13.3.sydneypropertyinvestors.com
