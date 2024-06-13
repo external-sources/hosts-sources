@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 12 Jun 2024 20:58:17 +0000
+# Last converted - Thu, 13 Jun 2024 01:49:06 +0000
 #
 
 01counter.com
@@ -18540,6 +18540,7 @@ databerries.com
 data.b.information.blau.de
 data.bioplanet.be
 databoom.online
+databricks.com
 data.business.nordea.dk
 data.business.nordea.fi
 data.business.nordea.no
@@ -64498,6 +64499,7 @@ stats.rilnews.org
 stats.rimshot.ch
 stats.rin.rs
 stats.rio.hn
+stats.rip
 stats.riseupstudio.com.br
 stats.risiinfo.com
 stats.riskintelligence.eu
