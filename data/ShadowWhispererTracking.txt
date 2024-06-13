@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Thu, 13 Jun 2024 13:04:49 +0000
+# Last converted - Thu, 13 Jun 2024 20:58:36 +0000
 #
 
 01counter.com
@@ -30064,6 +30064,7 @@ marketing.core.com.pl
 marketing.cortecvci.com
 marketing.cosec.pt
 marketing.cottonheritage.com
+marketing.coveo.com
 marketing.cpa.com
 marketingcrm.bluetek.fr
 marketing.cromwellpropertygroup.com
@@ -68366,6 +68367,7 @@ tiglon.beyondco.de
 tiglon.davidroessli.com
 tilanalytics.timesinternet.in
 tilastot.gaselli.software
+tile.com
 tile.commercialtrucktrader.com
 tile.cycletrader.com
 tile.equipmenttrader.com
@@ -70179,6 +70181,7 @@ u873.breederscup.com
 u927.sfgate.com
 u939.colgate.com
 u989.theweek.com
+ua2.coveo.com
 ua.cabclothing.com
 ua.cabclothing.jp
 ua.financialexpress.com

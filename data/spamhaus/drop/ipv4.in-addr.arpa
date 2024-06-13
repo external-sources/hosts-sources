@@ -1800,8 +1800,6 @@
 24.0.131.88.192.rpz-client-ip	CNAME	rpz-drop.
 24.0.133.88.192.rpz-ip	CNAME	.
 24.0.133.88.192.rpz-client-ip	CNAME	rpz-drop.
-24.0.112.92.192.rpz-ip	CNAME	.
-24.0.112.92.192.rpz-client-ip	CNAME	rpz-drop.
 24.0.87.96.192.rpz-ip	CNAME	.
 24.0.87.96.192.rpz-client-ip	CNAME	rpz-drop.
 24.0.146.96.192.rpz-ip	CNAME	.
