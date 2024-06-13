@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Thu, 13 Jun 2024 01:49:06 +0000
+# Last converted - Thu, 13 Jun 2024 04:58:33 +0000
 #
 
 01counter.com
@@ -16449,6 +16449,7 @@ conductrics.com
 conductrics.net
 conduit-beacon-anthos.use1.prod.aws.viacbs.cloud
 conduit-beacon.mtvnservices.com
+conduit-beacon-use1.mtvnservices.com
 conduit-beacon.use1.prod.aws.viacbs.cloud
 conduit.mailchimpapp.com
 conduze.com
@@ -21107,6 +21108,7 @@ events.onet.pl
 events.paradyme360.com
 events.photosat.ca
 event.spotxchange.com
+events.prd.api.discomax.com
 events.prd.api.max.com
 events.privy.com
 events.prod.brightback.com
@@ -39789,6 +39791,7 @@ pb.svb.com
 pbxai.com
 p.campaigncal.com
 pcapredict.com
+p-cg64-slinganalytics.movetv.com
 pcgfirm.com
 pci3oo5mg4mn-a.akamaihd.net
 p.circaworks.com
