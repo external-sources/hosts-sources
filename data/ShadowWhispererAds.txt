@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 12 Jun 2024 20:58:14 +0000
+# Last converted - Thu, 13 Jun 2024 01:49:04 +0000
 #
 
 00px.net
@@ -838,6 +838,7 @@ ad.apl78.me
 ad.apl84.me
 ad.apl89.me
 ad.apl93.me
+adappi.co
 ad-approvals.happycog.com
 ad.apps.fm
 ad.apq.org
@@ -6142,6 +6143,7 @@ aj1867.online
 aj1907.online
 aj2031.online
 aj2397.online
+aj2550.bid
 ajansreklam.net
 a.jhfhdkhkh.site
 ajitads.com
@@ -8585,6 +8587,7 @@ d20kffh39acpue.cloudfront.net
 d20u24a0cw7x43.cloudfront.net
 d22q3dafggn5rg.cloudfront.net
 d25dfknw9ghxs6.cloudfront.net
+d26xw8rp6mlgfg.cloudfront.net
 d275im4r3zngba.cloudfront.net
 d2ads.com
 d2-as-web-azn.glosel.pl
@@ -9403,6 +9406,7 @@ ethicalads.io
 ethniconlinenetwork.com
 ethos-marketing.com
 etoet.icu
+etqbnahyt.com
 eubanner.honeywellhome.com
 eumaxindia.com
 euphoric-bad.pro
@@ -9555,6 +9559,7 @@ fatwin.com
 faunaads.com
 fave.co
 favouritecash.com
+fbappi.co
 fbcctf.com
 fbofferads.com
 fcwuye.com
@@ -10703,6 +10708,7 @@ imsolutions.co.za
 imwinnerkur.com
 inabsolor.com
 in-appadvertising.com
+inappi.me
 inawemedia.com
 inbornbird.pro
 incentivated.com
@@ -14092,6 +14098,7 @@ push.hoy.es
 pushible.com
 pushify.com
 push.igg.com
+pushimg.com
 pushinstruments.com
 pushio.com
 puship.com
@@ -14392,6 +14399,7 @@ rdai.com
 rddywd.com
 r.denar.mk
 rdf.radial.com
+r.dizibox.cc
 rdr9.xyz
 rdrceting.com
 rdrctgoweb.com
@@ -15592,6 +15600,7 @@ share-a-link.com
 sharemyads.com
 sharethrough.com
 sharethru.com
+shareusads.com
 sharpgrowth.com.au
 sharpmedia.eu
 sheafmediagroup.com
@@ -17435,6 +17444,7 @@ v.postimees.ee
 vppgamingnetwork.com
 vptbn.com
 v.qisaoba.com
+vqlwzoaf.com
 vqmcyx.com
 vrbcash.com
 vrixon.com

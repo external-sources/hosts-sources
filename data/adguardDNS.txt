@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 12 Jun 2024 20:57:38 +0000
+# Last converted - Thu, 13 Jun 2024 01:48:27 +0000
 #
 
 eeptoabs.com
@@ -50485,6 +50485,7 @@ stats.curds.io
 stats.datahjaelp.net
 stats.edicy.com
 stats.esecured.net
+stats.flixhq.live
 stats.gifs.com
 stats.inergizedigitalmedia.com
 stats.itweb.co.za
@@ -60977,6 +60978,14 @@ zvietnakello.weebly.com
 0j775d.cn
 0k7wod.cn
 0lmv9e.cn
+lfjslil.top
+qheose.xyz
+vxpdfb.xyz
+gtrhnhg.cn
+myreadcloud.com
+tjuspyk.icu
+zkrdzn.xyz
+zmbmoxij.icu
 0op8kh.cn
 0oqt9i.cn
 0q5joc.cn
