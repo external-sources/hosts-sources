@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Thu, 13 Jun 2024 20:58:34 +0000
+# Last converted - Fri, 14 Jun 2024 01:50:16 +0000
 #
 
 0i0i0i0.com
