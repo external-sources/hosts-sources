@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 14 Jun 2024 16:57:41 +0000
+# Last converted - Fri, 14 Jun 2024 20:57:59 +0000
 #
 
 paiglumousty.net
@@ -43668,6 +43668,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+cdn.pubnub.com
 ziwelatum.com
 houston.advgo.net
 merchant-center-analytics.goog
@@ -61074,6 +61075,7 @@ binga07.shop
 goole24.shop
 liuhui111.top
 hwnojj.xyz
+daslkdlqk.top
 0op8kh.cn
 0oqt9i.cn
 0q5joc.cn
