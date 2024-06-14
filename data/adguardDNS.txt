@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 14 Jun 2024 04:57:46 +0000
+# Last converted - Fri, 14 Jun 2024 08:57:46 +0000
 #
 
 paiglumousty.net
@@ -9663,6 +9663,7 @@ cruisetitleclosed.com
 crumblerefunddiana.com
 crumbrationally.com
 crumbtypewriterhome.com
+crummerexisted.com
 crummygoddess.com
 crumplylenient.com
 crunchylashins.com
@@ -15296,6 +15297,7 @@ gillstaught.com
 gillynn.com
 gilrauci.net
 gimavpojtqa.com
+gimmalscutches.com
 gimme-promo.com
 gimohhfzvmpdt.com
 gimwcpketr.com
