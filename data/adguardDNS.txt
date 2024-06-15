@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 15 Jun 2024 16:57:42 +0000
+# Last converted - Sat, 15 Jun 2024 20:58:31 +0000
 #
 
 paiglumousty.net
@@ -3939,7 +3939,6 @@ allnesskepped.com
 allocatelacking.com
 allodiafeveret.life
 allodsubussu.com
-alloha.tv
 allotnegate.com
 allotupwardmalicious.com
 allow-to-continue.com
@@ -11944,6 +11943,7 @@ ecffmhajfgxw.com
 echaruropygi.com
 echehalids.guru
 echevintrunnel.top
+echinusandaste.com
 echiovlhu.com
 echoachy.xyz
 echocultdanger.com
@@ -12368,6 +12368,7 @@ embezzlementteddy.com
 embodimentpronounrunway.com
 embodygoes.com
 embogsoarers.com
+embolipokies.com
 embrailcamino.top
 embtrk.com
 embwmpt.com
@@ -13373,6 +13374,7 @@ faithaiy.com
 faithfullyprotectionundo.com
 faithfullywringfriendship.com
 faithiqs.com
+faituzou.net
 faiverty-station.com
 faiwastauk.com
 fajukc.com
@@ -15142,6 +15144,7 @@ germinateensue.com
 germmasonportfolio.com
 geruksom.net
 gerybeeper.guru
+gesanbarrat.com
 gessoesbeavers.uno
 get-browseprotection.com
 get-gx.net
@@ -15300,6 +15303,7 @@ gimavpojtqa.com
 gimmalscutches.com
 gimme-promo.com
 gimohhfzvmpdt.com
+gimpsgenips.com
 gimwcpketr.com
 ginchoirblessed.com
 ginfohpg.com
@@ -28017,6 +28021,7 @@ propulsionreproduceresult.com
 propulsionstatute.com
 propulsionswarm.com
 propvideo.net
+proreancostaea.com
 prorentisol.com
 proscholarshub.com
 proscontaining.com
@@ -34518,6 +34523,7 @@ thunderdepthsforger.top
 thunderhead.com
 thunderous-request.pro
 thuphedsaup.com
+thupsirsifte.xyz
 thurnflfant.com
 thursailso.com
 thursdaydurabledisco.com
@@ -40335,6 +40341,7 @@ aklamator.com
 alienhub.xyz
 alimama.com
 allmediadesk.com
+alloha.tv
 alpha-affiliates.com
 alright.network
 amateur.cash
@@ -41303,6 +41310,7 @@ googlevads-cn.com
 8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online
 977878.xyz
 97b448.xyz
+9814b49f.xyz
 a49ebd.xyz
 a67d12.xyz
 b0eb63.xyz
@@ -41328,6 +41336,7 @@ dd2270.xyz
 de214f.xyz
 e076.xyz
 e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
+e1ce13d5.xyz
 ec44.site
 f090.site
 f2f8.xyz
@@ -49993,6 +50002,7 @@ ad.aloodo.com
 ade.googlesyndication.com
 adfox.yandex.ru
 adlog.com.com
+adv-analytics-collector.videograph.ai
 affiliate-api.raptive.com
 affiliates.minglematch.com
 alexandria.marfeelcdn.com
@@ -56273,6 +56283,9 @@ v9banners-com.cdn.ampproject.org
 vads.net.vn
 vads.vn
 vcdn.subiz-cdn.com
+vda.viettel.vn
+vdacdn1.viettel.vn
+vdacdn2.viettel.vn
 viam.com.vn
 vietnamnetad.vn
 vipads.cc
@@ -56350,9 +56363,11 @@ ads.autonet.com.vn
 ads.baoangiang.com.vn
 ads.baobinhduong.vn
 ads.baobinhthuan.com.vn
+ads.baocamau.vn
 ads.baocantho.com.vn
 ads.baodatviet.vn
 ads.baohaiduong.vn
+ads.baolongan.vn
 ads.baotainguyenmoitruong.vn
 ads.bkitsoftware.com
 ads.businessstyle.vn
@@ -56376,6 +56391,7 @@ ads.laodongnghean.vn
 ads.markettimes.vn
 ads.marry.vn
 ads.nghenhinvietnam.vn
+ads.nguoiduatin.vn
 ads.nhadatmoi.net
 ads.phunuonline.com.vn
 ads.phunusuckhoe.vn
@@ -56750,6 +56766,7 @@ track.pnj.com.vn
 track.popsww.com
 track.sendo.vn
 track.vio.edu.vn
+track.winigroup.vn
 tracker.anime47.com
 tracker.edupia.vn
 tracker.fado.vn
@@ -59598,6 +59615,7 @@ storehaiyen.com
 suachuadienmayxanh.com.vn
 suativinguyenkim.com
 subducgiare.shop
+suckhoetainha.site
 suitablepartner.life
 sukiem-muahe-pubgmobilevn.com
 sukien-2021lmht.ga
@@ -61035,6 +61053,7 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+dvgjx.cn
 lnlkmr.xyz
 0322cfmtl.cc
 07dy.cc
