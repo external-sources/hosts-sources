@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Fri, 14 Jun 2024 20:58:43 +0000
+# Last converted - Sat, 15 Jun 2024 01:48:13 +0000
 #
 
 00px.net
@@ -13899,6 +13899,7 @@ promos.wealthymen.com
 promoted.ticketmaster.com
 promoteeasy.in
 promoteiq.com
+promote-subscribe.forbes.com
 promote.weebly.com
 promotion.bookmyshow.com
 promotionengine.com
