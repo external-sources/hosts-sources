@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Sat, 15 Jun 2024 16:58:15 +0000
+# Last converted - Sat, 15 Jun 2024 20:59:12 +0000
 #
 
 0i0i0i0.com
@@ -2128,7 +2128,6 @@ liveperson.net
 livepromotools.com
 liverail.com
 liveramp.com
-livingshedhowever.com
 lkpmprksau.com
 lkqd.com
 lkqd.net
@@ -2193,7 +2192,6 @@ loopaautomate.com
 loopme.me
 lotame.com
 louchees.net
-louisaprocedureegoism.com
 loxitdat.com
 lp4.io
 lpsnmedia.net
@@ -2237,7 +2235,6 @@ marinegruffexpecting.com
 marinsm.com
 marketingautomation.services
 marketingcloudapis.com
-marketinghq.net
 marketo.com
 marketo.net
 markitcdn.com
@@ -2351,7 +2348,6 @@ microad.net
 midas-network.com
 midgerelativelyhoax.com
 midgetincidentally.com
-migrantspiteconnecting.com
 migrationexaminer.com
 millennialmedia.com
 mindbox.ru
@@ -13588,7 +13584,6 @@ mobiletelemetry.ebay.com
 mobilewalla.com
 mobilexpression.com
 mobpartner.mobi
-mocean.mobi
 modifiedseem.com
 modoro360.com
 moengage.com
@@ -15964,7 +15959,6 @@ xlirdr.com
 xmsflzmygw.com
 xo28pclotovi.com
 xpu.samsungelectronics.com
-xsjc4smhbyjf.com
 xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net
 xtrapath3.izatcloud.net
@@ -15972,11 +15966,9 @@ y-track.com
 yabidos.com
 yadro.ru
 yandexadexchange.net
-yankpainkiller.com
 yarpp.org
 ybsitecenter.com
 yeahdsp.com
-yearlylight.com
 yellgroup.com
 yellowblue.io
 yemonisoni.com
@@ -15991,7 +15983,6 @@ yieldoptimizer.com
 yieldrealistic.com
 yim3eyv5.top
 yjtag.jp
-yjwtolgjjeky.com
 ykvlen.com
 yldbt.com
 ymmobi.com
@@ -16006,9 +15997,6 @@ youramigo.com
 yourwebbars.com
 yr9n47004g.com
 yuhuads.com
-ywobqrhsh.com
-yxhamnomqlpkwt.com
-zaglushkaaa.com
 zatnoh.com
 zbuckz.com
 zdbb.net
