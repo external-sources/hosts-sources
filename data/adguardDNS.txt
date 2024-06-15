@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 14 Jun 2024 20:57:59 +0000
+# Last converted - Sat, 15 Jun 2024 01:47:38 +0000
 #
 
 paiglumousty.net
@@ -61076,6 +61076,11 @@ goole24.shop
 liuhui111.top
 hwnojj.xyz
 daslkdlqk.top
+sowx.cn
+hevctt.xyz
+osanyc.xyz
+ofjslik.top
+faaqgje.icu
 0op8kh.cn
 0oqt9i.cn
 0q5joc.cn
