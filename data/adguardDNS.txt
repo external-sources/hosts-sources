@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 15 Jun 2024 08:58:09 +0000
+# Last converted - Sat, 15 Jun 2024 13:01:26 +0000
 #
 
 paiglumousty.net
@@ -61035,6 +61035,7 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+lnlkmr.xyz
 0322cfmtl.cc
 07dy.cc
 0940088.com
@@ -61049,7 +61050,6 @@ myreadcloud.com
 tjuspyk.icu
 zkrdzn.xyz
 zmbmoxij.icu
-d1zoi2q7y0e4d.cloudfront.net
 xx3691b.com
 1028images.com
 537images1.com
@@ -61085,6 +61085,8 @@ pwxlbsie.icu
 bbqoa.top
 fogolakda.top
 szdpk.cn
+9216tp1.com
+xianliao.voto
 0op8kh.cn
 0oqt9i.cn
 0q5joc.cn
@@ -65881,6 +65883,7 @@ adrs.sdo.com
 ads-6686.top
 aixuntupian.oss-cn-hongkong.aliyuncs.com
 alimama.alicdn.com
+d1zoi2q7y0e4d.cloudfront.net
 alime-pic.oss-cn-hangzhou.aliyuncs.com
 baiducom.bj.bcebos.com
 cb.baidu.com

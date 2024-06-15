@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Sat, 15 Jun 2024 08:58:52 +0000
+# Last converted - Sat, 15 Jun 2024 13:02:08 +0000
 #
 
 0i0i0i0.com
@@ -4459,6 +4459,7 @@ mkt11987.com
 mkt11988.com
 mkt1199.com
 mkt11990.com
+mkt11991.com
 mkt11992.com
 mkt11993.com
 mkt11994.com
@@ -4488,28 +4489,37 @@ mkt12033.com
 mkt12034.com
 mkt12035.com
 mkt1204.com
+mkt12044.com
 mkt12045.com
 mkt12046.com
 mkt12047.com
 mkt1205.com
 mkt12052.com
 mkt12053.com
+mkt12054.com
 mkt12056.com
+mkt12057.com
 mkt12058.com
 mkt12059.com
 mkt1206.com
 mkt12060.com
 mkt12061.com
 mkt12062.com
+mkt12063.com
 mkt12064.com
+mkt12065.com
 mkt12066.com
 mkt1207.com
 mkt12072.com
+mkt12074.com
 mkt12076.com
+mkt12077.com
 mkt1208.com
 mkt12082.com
 mkt12083.com
+mkt12087.com
 mkt12088.com
+mkt12089.com
 mkt1209.com
 mkt12094.com
 mkt1210.com
