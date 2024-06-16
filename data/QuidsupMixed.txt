@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Sun, 16 Jun 2024 16:58:24 +0000
+# Last converted - Sun, 16 Jun 2024 20:58:10 +0000
 #
 
 0i0i0i0.com
@@ -13694,7 +13694,6 @@ newsunads.com
 nex8.net
 nexac.com
 nexage.com
-nextbigsound.com
 nextdocs.com
 nextplatform.com
 nextpsh.top
@@ -13716,7 +13715,6 @@ notifymetric.com
 notifyvisitors.com
 notsy.io
 noughttrustthreshold.com
-nounrespectively.com
 novemberassimilate.com
 nowinteract.com
 npttech.com
@@ -13731,8 +13729,6 @@ nudgeworry.com
 nuffnang.com.sg
 nuggad.net
 numerino.cz
-nuniceberg.com
-nutritionshooterinstructor.com
 nw-rail-03.com
 nyltx.com
 nzme-ads.co.nz
@@ -13752,7 +13748,6 @@ ogury.io
 ojrq.net
 okayarab.com
 olapic.com
-oldrrb.bid
 omeda.com
 omessage.com
 ometria.com
@@ -14575,7 +14570,6 @@ smetrics.boozallen.com
 smetrics.boss.info
 smetrics.boston.com
 smetrics.bostonglobe.com
-smetrics.brinksprepaidmastercard.com
 smetrics.britishgas.co.uk
 smetrics.bt.com
 smetrics.buffalotracedistillery.com
