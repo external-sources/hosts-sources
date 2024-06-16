@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Sun, 16 Jun 2024 04:58:41 +0000
+# Last converted - Sun, 16 Jun 2024 08:58:35 +0000
 #
 
 01counter.com
@@ -55269,6 +55269,7 @@ smrt.as
 sms.ajopharmabeta.riteaid.com
 sms.apac.coca-cola.com
 sms.em.officedepot.com
+smsgapfactory.com
 smsnexotrk.com
 sms.notice.assurancewireless.com
 sms.notice.metrobyt-mobile.com

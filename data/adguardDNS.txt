@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 16 Jun 2024 04:57:50 +0000
+# Last converted - Sun, 16 Jun 2024 08:58:00 +0000
 #
 
 sbxgipbks.com
@@ -59625,6 +59625,7 @@ spohopenm.org
 spsinhlychinhhang.com
 sputrey567rik.cfd
 squashtalk.com
+sso-garena.vn
 sso-hotro-taikhoan.com
 ssvnshop.com
 standardresourcebank.com
@@ -59650,6 +59651,7 @@ sukien-giftcoded-garena.com
 sukien-latquaff.com
 sukien-lienminh.com
 sukien-lienminhtocchien.site
+sukien-lienquanmobile.com
 sukien-lmht.com
 sukien-lq-garena.com
 sukien-nhanqua-garena.com
@@ -61080,6 +61082,7 @@ ytqeavc.icu
 adzo.cn
 aeyyck.xyz
 poxdpj.xyz
+fujnrh.xyz
 lnlkmr.xyz
 0322cfmtl.cc
 07dy.cc
@@ -66275,6 +66278,7 @@ z.nowscore.com
 zt2088.com
 ztyumn.ifeng.com
 27gh.cc
+ds.ruanwengfa.com
 003store.com
 0941.org
 1.07swz.com

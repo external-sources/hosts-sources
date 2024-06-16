@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Sun, 16 Jun 2024 04:58:36 +0000
+# Last converted - Sun, 16 Jun 2024 08:58:33 +0000
 #
 
 00px.net
@@ -439,6 +439,7 @@ a7i02p23sj.xyz
 a8723.com
 a8.net
 a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
+a9.ca
 a9.com
 aa665599aa.com
 aa889955aa.com
@@ -1660,6 +1661,7 @@ ad-locus.com
 adlogists.com
 adlogix.com
 adlogix.eu
+adlook.cloud
 adlooker.com
 adlook.me
 adlook.net
@@ -1901,6 +1903,7 @@ adnet.vn
 adnetwork.digital
 adnetwork.fullservices.com.ar
 adnetwork.kataweb.it
+adnetwork.net
 adnetworkonline.com
 adnetworkperformance.com
 adnetwork.vn
@@ -6097,6 +6100,7 @@ a.hentaimotel.com
 ahernssa.com
 ahmedamin.uk
 ahrefurl.ink
+aiactiv.io
 a-i-ad.com
 aiadmobi.com
 aicaastechnology.com
@@ -9106,6 +9110,7 @@ dsnrtg.com
 dsp5stero.com
 dspunion.com
 dt71.net
+dtadnetwork.com
 dtashjvcjswq.info
 dtcbarre.com
 dth.org.ng
@@ -9755,6 +9760,7 @@ frap.frap.site
 frayed-common.pro
 freakads.com
 freeadnetwork.net
+freedomadnetwork.com
 freememes.desiceleb.top
 freepressmedia.com
 freeprivacypolicy.com
@@ -10552,6 +10558,7 @@ iadcontent.apple.com
 iadsdk.apple.com
 iads.unity3d.com
 iamaffiliate.com
+iambivert.com
 iamcommunication.co
 iamniyati.com
 iamyourpusherman.com
@@ -13012,6 +13019,7 @@ omasatra.com
 omchanseyr.com
 omchimcharchan.com
 omclacrv.com
+omega-adnetwork.com
 omelet.com
 omeletla.com
 om.forgeofempires.com
@@ -14277,6 +14285,7 @@ quaint-address.pro
 qualgrow.com
 qualiclicks.com
 quallsbenson.com
+quangcaodantri.vn
 quanta-wave.com
 quantumads.com
 quantum-advertising.com
