@@ -1,9 +1,30 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 15 Jun 2024 20:58:31 +0000
+# Last converted - Sun, 16 Jun 2024 01:58:14 +0000
 #
 
+sbxgipbks.com
+zoovagoo.com
+ivtqo.com
+mzwdiyfp.com
+happeningflutter.com
+tarvardsusyseinpou.info
+knowledconsideunden.info
+unwontcajun.top
+edibleinvite.com
+itchhandwritingimpetuous.com
+highrevenuenetwork.com
+hottielunn.com
+wworqxftyexcmb.xyz
+txxtgnpqi.com
+obdzhnzqeg.com
+floorednightclubquoted.com
+xzfsymopzyls.com
+wzhivixqjke.com
+qxmsmlkjwqz.com
+oralsproxied.com
+mormonindianajones.com
 paiglumousty.net
 xmjnohwneqe.com
 groapeeque.com
@@ -47157,6 +47178,7 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+px.adfulplatform.com
 d9jj3mjthpub.cloudfront.net
 logs.openbank.com
 plausible.omgapi.org
@@ -61054,6 +61076,10 @@ zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
 dvgjx.cn
+ytqeavc.icu
+adzo.cn
+aeyyck.xyz
+poxdpj.xyz
 lnlkmr.xyz
 0322cfmtl.cc
 07dy.cc

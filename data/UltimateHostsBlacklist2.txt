@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sat, 15 Jun 2024 20:59:22 +0000
+# Last converted - Sun, 16 Jun 2024 01:59:04 +0000
 #
 
 real-estate-houselistings-sale.000webhostapp.com
