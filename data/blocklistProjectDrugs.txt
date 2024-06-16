@@ -1,7 +1,7 @@
 # blocklistProjectDrugs
 #
 # Converted from - https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/drugs-nl.txt
-# Last converted - Sat, 15 Jun 2024 20:58:43 +0000
+# Last converted - Sun, 16 Jun 2024 01:58:26 +0000
 #
 
 000host.totaocimall.com
