@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 16 Jun 2024 01:58:14 +0000
+# Last converted - Sun, 16 Jun 2024 04:57:50 +0000
 #
 
 sbxgipbks.com
