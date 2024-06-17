@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 17 Jun 2024 04:57:55 +0000
+# Last converted - Mon, 17 Jun 2024 08:58:05 +0000
 #
 
 xsfcqjtkkjdp.com
@@ -41347,6 +41347,7 @@ a49ebd.xyz
 a67d12.xyz
 b0eb63.xyz
 b211.xyz
+b2bf222e.xyz
 b51475b8.xyz
 b59c.xyz
 b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online
@@ -41359,6 +41360,7 @@ bd5a57.xyz
 ca3d.site
 ca9246.xyz
 caa2c4.xyz
+cd57296e.xyz
 ce357c.xyz
 cfb98a.xyz
 d84bc26d.site
@@ -56835,6 +56837,7 @@ truoctran.com
 ttus.tructiepbongda.me
 tvc.biphim.club
 upfile16.mediaphim.com
+upl.net-solutions.vn
 user.headlines.pw
 userstats.shopee.vn
 v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
@@ -61099,6 +61102,9 @@ mqwmgs.xyz
 plzblz.xyz
 rrkouuz.icu
 cdoshbf.top
+60jxn4.xyz
+rghbvp.xyz
+szdgl.cn
 lnlkmr.xyz
 0322cfmtl.cc
 07dy.cc
