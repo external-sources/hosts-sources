@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 17 Jun 2024 16:57:58 +0000
+# Last converted - Mon, 17 Jun 2024 20:57:57 +0000
 #
 
+dcjeeqwrhg.com
 bb.churchkhela.site
 xsfcqjtkkjdp.com
 nxymehwu.com
@@ -2479,6 +2480,7 @@ a64x.com
 a69i.com
 a6dc99d1a8.com
 a700fb9c8d.com
+a717b6d31e.com
 a718917a44.com
 a899228ebf.com
 a8rm1m4msbbh.com
@@ -5046,6 +5048,7 @@ attendedconnectionunique.com
 attendingtarget.com
 attentioniau.com
 attentionsoursmerchant.com
+attenuatenovelty.com
 attepigom.com
 attestationaudience.com
 attestationoats.com
@@ -10936,6 +10939,7 @@ discussedirrelevant.com
 discussedpliant.com
 discussingmaze.com
 disdainkindle.com
+disdainsneeze.com
 disean.com
 diseaseexternal.com
 diseaseplaitrye.com
@@ -15408,6 +15412,7 @@ gkbvnyk.com
 gkcltxp.com
 gkdafpdmiwwd.xyz
 gkencyarcoc.com
+gkewzootqju.com
 gkfehrdhbm.com
 gkkchmjdndovu.xyz
 gkoutpips.com
@@ -21358,6 +21363,7 @@ logicdate.com
 logicdripping.com
 logicorganized.com
 logicschort.com
+loginlockssignal.com
 loglabitrufly.top
 loglaupt.com
 logsgroupknew.com
@@ -25067,6 +25073,7 @@ ojtatygrl.xyz
 ojuhfoa.com
 ojuhjcmhemvs.com
 ojwapnolwa.com
+ojwonhtrenwi.com
 ojzghaawlf.com
 okaks.com
 okapiropp.top
@@ -25338,6 +25345,7 @@ onzazqarhmpi.com
 onznwiocrrim.com
 oo00.biz
 oobitsou.net
+oobsaurt.net
 oobuwjnlljbah.com
 oocxefrgn.com
 oodrampi.com
@@ -28210,6 +28218,7 @@ psoorgou.com
 psoorsen.com
 psootchu.net
 psothoms.com
+psotudev.com
 psougnoa.net
 psougrie.com
 psoumoalt.com
@@ -37844,6 +37853,7 @@ whadupsi.net
 whagrogiva.com
 whagrolt.com
 whaidree.com
+whaijoorgoo.com
 whairtoa.com
 whaishub.net
 whaivoole.com
@@ -38005,6 +38015,7 @@ whorlysenior.top
 whotchie.net
 whotrundledthe.com
 whoulikaihe.net
+whoumtefie.com
 whoumtip.xyz
 whoungoz.net
 whounoag.xyz
@@ -41293,6 +41304,7 @@ googleads-cn.com
 googleadservices-cn.com
 googleadsserving.cn
 googlevads-cn.com
+00701059.xyz
 02777e.site
 0395d1.xyz
 05751c.site
@@ -41367,6 +41379,7 @@ cfb98a.xyz
 d84bc26d.site
 d8b0a5.xyz
 d980ed.xyz
+da28c69e.xyz
 dd2270.xyz
 de214f.xyz
 e076.xyz
@@ -43712,6 +43725,10 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+dmp.one
+dmp-ai.ru
+dmp-one.ru
+dmp-1.ru
 tjk-njk.com
 cdn.pubnub.com
 ziwelatum.com
@@ -51719,6 +51736,7 @@ solution911.com
 templates.buscape.com
 yestorrents.org
 oecistbenton.com
+vidscriptshark.com
 1qe.info
 23oct2023.site
 fcepahafyq.com

@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Mon, 17 Jun 2024 16:58:14 +0000
+# Last converted - Mon, 17 Jun 2024 20:58:12 +0000
 #
 
 0i0i0i0.com
@@ -13848,7 +13848,6 @@ pages09.net
 paidonresults.net
 parall.ax
 pardot.com
-parkcircularpearl.com
 parkingcrew.net
 parsely.com
 partnerlinks.io
