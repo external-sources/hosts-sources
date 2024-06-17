@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 17 Jun 2024 10:56:27 +0000
+# Last converted - Mon, 17 Jun 2024 13:05:49 +0000
 #
 
+bb.churchkhela.site
 xsfcqjtkkjdp.com
 nxymehwu.com
 mjxlfwvirjmt.com
@@ -43711,6 +43712,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+tjk-njk.com
 cdn.pubnub.com
 ziwelatum.com
 houston.advgo.net
@@ -47190,6 +47192,7 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+ephemeralcounters.api.roblox.com
 px.adfulplatform.com
 d9jj3mjthpub.cloudfront.net
 logs.openbank.com
