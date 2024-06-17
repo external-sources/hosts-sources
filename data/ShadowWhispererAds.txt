@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 17 Jun 2024 13:06:06 +0000
+# Last converted - Mon, 17 Jun 2024 16:58:14 +0000
 #
 
 00px.net
@@ -8107,6 +8107,7 @@ codefuel.com
 code-fuel.co.uk
 code.gunnymienphi.net
 codevelop.io
+codigofuente.info
 cognisensemedia.com
 cogocast.net
 coil.com
@@ -9727,6 +9728,7 @@ forshrd.com
 fortaillowon.com
 forthright-car.pro
 fortudios-wriefs.com
+fortunate-politics.pro
 forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com
 forwrdnow.com
 forza.ie
@@ -10364,6 +10366,7 @@ hellosuperheroes.com
 hellothere.filefox.io
 hellscdnusa.com
 helltraffic.com
+helpfuloil.pro
 henkinschultz.com
 heraldtribunemediasource.com
 herezera.com
@@ -11074,6 +11077,7 @@ journey.wired.com
 joveo.com
 joyads.net
 joyfulassistant.pro
+joyfulfloor.pro
 joyous-north.pro
 joyous-storage.pro
 jpjgod.com
@@ -11102,6 +11106,7 @@ js.mangapro.top
 jsretra.com
 js.xemkqxs.com
 jubace.com
+jubilantcascade.com
 jubileeplumbinginc.com
 jubnaadserve.com
 jubna.com
@@ -13178,6 +13183,7 @@ optimalq.com
 optimalsocial.com
 optimedias.com
 optimisemedia.com
+optimistic-pleasure.pro
 optimistixmedia.com
 optimix.asia
 optimizerads.com
@@ -16700,6 +16706,7 @@ topstat.com
 topvid.com
 topvidstore.com
 tornbed.pro
+tornemployer.pro
 toroadvertising.com
 tororango.com
 toro-tags.com

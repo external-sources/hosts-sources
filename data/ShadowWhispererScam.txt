@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Mon, 17 Jun 2024 13:06:08 +0000
+# Last converted - Mon, 17 Jun 2024 16:58:16 +0000
 #
 
 007-dvd.com
@@ -3745,6 +3745,7 @@ easymedbuy.com
 easynatures.com
 easyontmoetingen.com
 easyontmoetingen.nl
+easypayweb.com
 easyprintersupport.com
 easyrandka.pl
 easy-rencontre.com
@@ -5953,7 +5954,6 @@ ifwillgogo.com
 igeeksquadbay.com
 igiftcards.nl
 igorousinel.com
-iguana-paddlefish-fz6a.squarespace.com
 iguruservices.com
 igzon.com
 iisex5.com
@@ -6778,6 +6778,7 @@ lightsuptee.com
 ligueteo.com
 lihuntingdogs.com
 likedestiny.com
+likelymy.com
 likemeet.ru
 likeswansnow.com
 likewind.co.uk
@@ -7096,6 +7097,7 @@ mainecoonkittens.store
 mainetassettrustltd.com
 mainexotics.com
 mainlineyorkies.com
+mainpay.net
 maisheeggsandchickenfarm.co.za
 maitresse-sm.com
 majesticjackrussellterrier.com
@@ -7747,6 +7749,7 @@ mydoodlemaltipoos.com
 mydoodleshome.com
 mydreamlabs.com
 mydriveconnect.ch
+myellowpay.com
 myexoticpetstores.com
 myfaceboxer.com
 myfatbellytonic.com
@@ -8413,6 +8416,7 @@ online-casino-1win.gives
 online-casino-1win.pw
 onlinechemicalstore.com
 onlinechemshop.com
+onlineclubebr.com.br
 onlinecokeshop.com
 onlinedesktopgold.com
 onlinediscount2021.ru
@@ -9335,6 +9339,7 @@ prossiming.com
 prostomarka.ru
 prosvent.com
 pro-tacticalgunshop.com
+protozoans.info
 prowavefirearms.com
 prowebsitecreator.com
 prowesschows.com
@@ -11503,6 +11508,7 @@ technicalsupportquickbooks.com
 technopagan.org
 technoporn.de
 technoporno.de
+technpay.net
 techporn.de
 techporno.com
 techporno.de
