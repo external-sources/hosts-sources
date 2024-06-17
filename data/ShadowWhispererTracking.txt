@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Mon, 17 Jun 2024 13:06:08 +0000
+# Last converted - Mon, 17 Jun 2024 16:58:16 +0000
 #
 
 01counter.com
@@ -28277,6 +28277,7 @@ jubilantaura.com
 jubilantcanyon.com
 jubilantglimmer.com
 jubilanttempest.com
+jubilantwhisper.com
 juiceanalytics.com
 juicer.cc
 juke.mmi.bemobile.ua
@@ -71696,6 +71697,7 @@ whenu.com
 wheredoyoucomefrom.ovh
 whereismyip.org
 wheres-waldo-angel.herokuapp.com
+whimsicalcanyon.com
 whimsicalgrove.com
 whineattempt.com
 whippet.ianglover.com
