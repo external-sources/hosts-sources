@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 17 Jun 2024 20:58:12 +0000
+# Last converted - Tue, 18 Jun 2024 01:52:19 +0000
 #
 
 00px.net
@@ -7043,6 +7043,7 @@ bechatotan.com
 becuboneor.com
 beebyclarkmeyler.com
 beefound.in
+beehiiv.com
 beehomemade.com
 beeotto.info
 beesocialmarketing.co.uk
