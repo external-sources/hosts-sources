@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 18 Jun 2024 16:57:42 +0000
+# Last converted - Tue, 18 Jun 2024 20:57:41 +0000
 #
 
 dcjeeqwrhg.com
@@ -4774,6 +4774,7 @@ arvigorothan.com
 arwartortleer.com
 arwhismura.com
 aryabzerznlvn.top
+arylidealchemy.com
 arzanphearse.com
 as5000.com
 asacdn.com
@@ -6047,6 +6048,7 @@ ber2g8e3keley.com
 berchchisel.com
 berendphloeum.com
 berenicepunch.com
+bergertubbie.com
 bergsmouflon.com
 berideshaptin.com
 berinsestoray.com
@@ -7305,6 +7307,7 @@ bungaloweighteenbore.com
 bungalowlame.com
 bungalowsimply.com
 bungarovet.com
+bungeedubbah.com
 bunintruder.com
 bunnymediaserver.com
 bunquaver.com
@@ -11471,6 +11474,7 @@ draughtpoisonous.com
 drawbackcaptiverusty.com
 drawbacksubdue.com
 draweesjabbers.com
+draweesoutkiss.com
 drawerenter.com
 drawerfontactual.com
 drawergypsyavalanche.com
@@ -12246,6 +12250,7 @@ ehpnkugmfatoyhg.com
 ehpvvxyp.com
 ehpxmsqghx.xyz
 ehqdzqi.com
+ehrydnmdoe.com
 eicbgbnbvjf.com
 eiderswergelt.com
 eidosrebegin.com
@@ -18983,6 +18988,7 @@ jassidpanne.com
 jatdticl.com
 jatfugios.com
 jatomayfair.life
+jatosbathkol.com
 jatsekse.net
 jattepush.com
 jaubaibil.com
@@ -24580,6 +24586,7 @@ nuroflem.com
 nursecompellingsmother.com
 nurserysurvivortogether.com
 nuseek.com
+nutantvirific.com
 nutattorneyjack.com
 nutchaungong.com
 nutgxfwechkcuf.com
@@ -29855,6 +29862,7 @@ rerosefarts.com
 rerpartmentm.info
 reryn2ce.com
 reryn3ce.com
+rerynjie.com
 resailsgyse.com
 resalag.com
 resaypyche.top
@@ -35787,6 +35795,7 @@ ufqxgccf.com
 ufzanvc.com
 ufzqrmflbnlze.com
 ugahutoa.com
+ugailidsay.xyz
 ugalia.com
 ugawnotrjj.xyz
 ugdffrszmrapj.com
@@ -35911,6 +35920,7 @@ umhlnkbj.xyz
 umiackscursors.com
 umoughtcallm.com
 umoxomv.icu
+umpedshumal.com
 umplmoht.com
 umplohzn.com
 umqiapzsc.com
@@ -37804,6 +37814,7 @@ wesmallproclaim.com
 wesmuqjisx.com
 westernhungryadditions.com
 westernwhetherowen.com
+westeselva.com
 westreflection.com
 westslendersolitary.com
 westspulse.com
@@ -51737,6 +51748,7 @@ solution911.com
 templates.buscape.com
 yestorrents.org
 oecistbenton.com
+bidmatic.io
 vidscriptshark.com
 1qe.info
 23oct2023.site
@@ -54311,6 +54323,8 @@ sv.sheego.de
 azol.de
 twiago.com
 bauernative.com
+ttad125.com
+996js123.com
 ad.886112.xyz
 1x5jlh.xyz
 98765.pw
@@ -61180,6 +61194,8 @@ xvbcjh.xyz
 dfvmzx.xyz
 fgadsqdma.top
 daksflkalq.top
+cduno.cn
+infocab888.life
 lnlkmr.xyz
 0322cfmtl.cc
 07dy.cc

@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Tue, 18 Jun 2024 16:58:00 +0000
+# Last converted - Tue, 18 Jun 2024 20:57:58 +0000
 #
 
 007-dvd.com
@@ -2696,6 +2696,7 @@ cnnmortgage.com
 cnoticias.net
 cnvetional.com
 coachellatoday.com
+coachingredirect.com
 coarsedown.com
 coastal-cityfinance.com
 coastalganews.com
