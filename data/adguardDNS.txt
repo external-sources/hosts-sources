@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 18 Jun 2024 08:57:49 +0000
+# Last converted - Tue, 18 Jun 2024 13:05:10 +0000
 #
 
 dcjeeqwrhg.com
@@ -48474,6 +48474,7 @@ hit.demirorenteknoloji.com
 hit.mynet.com
 hits.dealer.com
 hits.theguardian.com
+hits.top.lv
 hitweb2.chosun.com
 hm.baidu.com
 hodor-collect.arabam.com
@@ -50525,6 +50526,7 @@ pixels.afcdn.com
 pl.connatix.com
 pla.fwdcdn.com
 platform.iteratehq.com
+plausible.server.hakai.app
 plausibleio.workers.dev
 play.adtonos.com
 player-metrics.instaread.co
@@ -51182,7 +51184,6 @@ smlog.co.kr
 tenping.kr
 mcloudglobal.com
 ppdb.pl
-top.lv
 wos.lv
 maxtraffic.com
 mxapis.com
