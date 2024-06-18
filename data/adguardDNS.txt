@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 18 Jun 2024 04:57:37 +0000
+# Last converted - Tue, 18 Jun 2024 08:57:49 +0000
 #
 
 dcjeeqwrhg.com
@@ -61175,6 +61175,10 @@ crfjxfoe.xyz
 hdoshbu.top
 ypkxka.xyz
 stnew.xyz
+xvbcjh.xyz
+dfvmzx.xyz
+fgadsqdma.top
+daksflkalq.top
 lnlkmr.xyz
 0322cfmtl.cc
 07dy.cc
