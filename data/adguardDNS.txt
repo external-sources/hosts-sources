@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 19 Jun 2024 01:52:05 +0000
+# Last converted - Wed, 19 Jun 2024 04:58:08 +0000
 #
 
 at.adtech.redventures.io

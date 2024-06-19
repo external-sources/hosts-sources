@@ -1,6 +1,6 @@
 # ShadowWhispererRisk
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
-# Last converted - Wed, 19 Jun 2024 01:52:29 +0000
+# Last converted - Wed, 19 Jun 2024 04:58:32 +0000
 #
 
