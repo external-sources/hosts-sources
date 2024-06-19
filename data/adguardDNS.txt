@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 19 Jun 2024 04:58:08 +0000
+# Last converted - Wed, 19 Jun 2024 08:57:50 +0000
 #
 
 at.adtech.redventures.io
@@ -41338,6 +41338,7 @@ googlevads-cn.com
 1dd6e9ba.xyz
 20519a.xyz
 22dd31.xyz
+285b0b37.xyz
 295c.site
 2aeabdd4-3280-4f03-bc92-1890494f28be.xyz
 3a2e.site
@@ -50205,6 +50206,7 @@ beam.mjhlifesciences.com
 beamanalytics.b-cdn.net
 bee.tc.easebar.com
 bento.agoda.com
+bi.heyloyalty.com
 bi.medscape.com
 bmrg.reflected.net
 botdetection.hbrsd.com
@@ -61208,6 +61210,7 @@ sbiloi.xyz
 xxsmad2.com
 ffdafx.xyz
 idoshbo.top
+szdxw.cn
 lnlkmr.xyz
 0322cfmtl.cc
 07dy.cc
