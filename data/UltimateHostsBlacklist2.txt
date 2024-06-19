@@ -1,14 +1,9 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Wed, 19 Jun 2024 16:58:13 +0000
+# Last converted - Wed, 19 Jun 2024 20:58:10 +0000
 #
 
-realestatecurve.com
-realestateenhanced.clickfunnels.com
-real-estate-express.pxf.io
-real-estate-fb-page-id213.000webhostapp.com
-realestatefinancehq.leadpages.co
 realestategradschool.leadpages.co
 real-estate-houselistings-sale.000webhostapp.com
 real-estate-houselisting-usa.000webhostapp.com
@@ -10001,6 +9996,7 @@ royale.rudrawebtech.com
 royale-bintang-hotel.com
 royaleducations.com.auapp.adjust.com
 royalegenerator.net
+royale-ssl.spongecell.com
 royalestate.com.pl
 royalet.drupalet.com
 royalfarm.customlinks.appsflyer.com
@@ -33292,7 +33288,6 @@ site.ca-conv.jp
 site.careerbulider.com
 site.clickpoint.com
 site.clinch.co
-site.coinnebula.com
 site.collector-px12xk43jk.px-cloud.net
 site.corp.com
 site.db-ip.com
@@ -57488,6 +57483,7 @@ sv.admailtiser.com
 sv.brand-display.com
 sv.dnset.com
 sv.domain.name
+sv.govkorea24.com
 sv.gumgum.com
 sv.lakhonmeinek.org
 sv.liveclicker.net
@@ -69271,7 +69267,6 @@ thor.awtank.com
 thor.bankofamfrica.com
 thor.beck-technologies.com
 thor.bellsourth.com
-thor.blindferret.media
 thor.blueshielsca.com
 thor.bodenmarkt.info
 thor.bravenet.com
@@ -69954,6 +69949,7 @@ ticmate.co.il
 ticonmamad.libraries.co.il
 ticonsalope.000webhostapp.com
 tic-parchi.com
+tics.techdirt.com
 ticstars.com
 tictacti.adk2x.com
 tic-tic-bam.com
@@ -104860,6 +104856,7 @@ webtoolsrooingdengincco.000webhostapp.com
 webtoolsx.brandreachsys.com
 webtop.acxiom.com
 webtracker.apicasystem.com
+webtracker.jp
 webtrackerplus.com
 webtracktechnologies.com
 webtracky.com
@@ -104926,6 +104923,7 @@ webwebmailpanelrondcub.000webhostapp.com
 webwendy.com
 webwereld.nl.intellitxt.com
 web-wetransfer-com.000webhostapp.com
+webwidgetz.duckdns.org
 webwise.bt.com
 webwise.com
 webwise.net
@@ -110050,7 +110048,6 @@ wrzosek.go.pl
 ws1.15x.net
 ws1.2020search.com
 ws001.coinerra.com
-ws01.coinnebula.com
 ws01.crypto-loot.com
 ws01.do.nu
 ws1.g-content.bid
@@ -110066,7 +110063,6 @@ ws1-live.live.eks.hotjar.com
 ws1-staging.hotjar.com
 ws2.15x.net
 ws2.cdnsoar.com
-ws02.coinnebula.com
 ws02.crypto-loot.com
 ws02.do.nu
 ws2.ecorebates.com
@@ -110097,7 +110093,6 @@ ws2t.responsys.net
 ws2-teva.responsys.net
 ws2-uggs.responsys.net
 ws3.15x.net
-ws03.coinnebula.com
 ws03.crypto-loot.com
 ws03.do.nu
 ws3.g-content.bid
@@ -110166,7 +110161,6 @@ ws7-live.live.eks.hotjar.com
 ws007-proxy-ajcryptominer.ajplugins.com
 ws08.crypto.csgocpu.com
 ws08.crypto-loot.com
-ws008.hemnes.win
 ws8.hotjar.com
 ws008.ws.tidafors.xyz
 ws008.www.datasecu.download
@@ -140415,7 +140409,6 @@ www.completesportsbetting.com.au
 www.compositefarming.com
 www.comprafacil.com.br
 www.comptrffc.com
-www.compucelunlock.net
 www.compuclever.leadpages.co
 www.compufixshop.com
 www.compulink-support.com
@@ -143760,7 +143753,6 @@ www.forumer.go.pl
 www.forumwarez.info
 www.forvideo.at
 www.forward.leadpages.co
-www.forwardrb.bid
 www.forwardthinking.leadpages.co
 www.forwrdnow.com
 www.fostos.com
@@ -145344,7 +145336,6 @@ www.hide-ip.com
 www.hienmau.info
 www.hifocus.org
 www.highaltitudetrainingmask.accountkit.com
-www.highav.com
 www.higherliving.leadpages.co
 www.highexistence.leadpages.co
 www.highlife.leadpages.co
@@ -146498,6 +146489,7 @@ www.izarc.fr
 www.izayoinet.info
 www.izvestia.info
 www.j3safetyismyname.com
+www.j9lib.com
 www.j12lib.com
 www.j22now.leadpages.co
 www.j.ubeat.info

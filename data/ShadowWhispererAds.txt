@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 19 Jun 2024 16:58:04 +0000
+# Last converted - Wed, 19 Jun 2024 20:58:01 +0000
 #
 
 00px.net
@@ -347,6 +347,7 @@
 8-digi.com
 8-digitalmarketing.com
 8le8le.com
+8upsell.s3.amazonaws.com
 8utb.net
 9010agency.co.uk
 902advertisinggroup.com
@@ -6477,6 +6478,7 @@ appsdt.com
 appservestar.com
 appsfire.com
 appsfire.net
+appsgrowthpromo-pa.clients6.google.com
 app-shake.com
 appsilon.kr
 appslambda.com
@@ -7876,6 +7878,8 @@ choozle.com
 choptacache.com
 christianadvertisingnetwork.co.za
 christiefountain.com
+chromecontentsuggestions-pa.googleapis.com
+chromefeedcontentsuggestions-pa.googleapis.com
 chsrkred.com
 chubbymess.pro
 churchads.net
@@ -10274,6 +10278,7 @@ gsfn.us
 gsh.io
 gsspcln.jp
 gssprt.jp
+gstaticadssl.l.google.com
 gswtol.com
 gtlpaj.com
 guacamoleadvertising.com
