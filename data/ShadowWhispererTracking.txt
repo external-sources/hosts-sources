@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Tue, 18 Jun 2024 20:57:58 +0000
+# Last converted - Wed, 19 Jun 2024 01:52:30 +0000
 #
 
 01counter.com
@@ -39233,6 +39233,7 @@ panhandle.americaswarriorpartnership.org
 panickycurtain.com
 panickypancake.com
 panjiva.com
+panorama.wixapps.net
 panoramicbutter.com
 panoramicplane.com
 panther.atgonlinecoaching.com
@@ -71748,6 +71749,7 @@ widerplanet.com
 widgeo.net
 widgets.outbrain.com
 widgetstore.edmunds.com
+widget-tracker.bespoke-creations.us
 wieistmeineip.de
 wigglygeese.com
 wigglyindustry.com

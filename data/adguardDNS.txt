@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 18 Jun 2024 20:57:41 +0000
+# Last converted - Wed, 19 Jun 2024 01:52:05 +0000
 #
 
+at.adtech.redventures.io
 dcjeeqwrhg.com
 bb.churchkhela.site
 xsfcqjtkkjdp.com
@@ -2275,6 +2276,7 @@ mine.torrent.pw
 76a7doiet256.com
 76f74721ab.com
 771703f2e9.com
+7757139f7b.com
 775cf6f1ae.com
 776173f9e6.com
 777seo.com
@@ -18564,6 +18566,7 @@ inventorypikepockets.com
 inventoryproducedjustice.com
 invertangareb.top
 investcoma.com
+investigationsuperbprone.com
 investmentstar.org
 investorequalityfrog.com
 invibravaa.com
@@ -23758,6 +23761,7 @@ ncpgxioelrp.com
 ncpnth.xyz
 ncpvxltfbsrcavo.com
 ncpxhrurirscgsd.com
+ncubadmavfp.com
 ncukgqjfaxjv.com
 ncwabgl.com
 nczxuga.com
@@ -24384,6 +24388,7 @@ noucoush.net
 nougacoush.com
 noughtefface.com
 noughttrustthreshold.com
+noukotumorn.com
 noumohur.com
 nounaswarm.com
 nounooch.com
@@ -25969,6 +25974,7 @@ owlinggnomist.com
 owlsalqrarab.com
 owlunimmvn.com
 owndata.network
+ownzzohggdfb.com
 owoxauky.com
 owqrtaodb.com
 owrddzml.com
@@ -61196,6 +61202,12 @@ fgadsqdma.top
 daksflkalq.top
 cduno.cn
 infocab888.life
+aqvi.cn
+ddqmlfu.icu
+sbiloi.xyz
+xxsmad2.com
+ffdafx.xyz
+idoshbo.top
 lnlkmr.xyz
 0322cfmtl.cc
 07dy.cc
