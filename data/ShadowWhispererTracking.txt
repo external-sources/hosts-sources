@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 19 Jun 2024 13:05:29 +0000
+# Last converted - Wed, 19 Jun 2024 16:58:06 +0000
 #
 
 01counter.com
@@ -2168,6 +2168,7 @@ activity.bigo.tv
 activity.newlook.com
 activity.sanmin.com.tw
 activitystream.com
+activity.windows.com
 activtrak.com
 act-on.ioactive.com
 actonsoftware.com
@@ -2951,6 +2952,8 @@ alpinebikesmail.com
 alpixtrack.com
 al-smetrics.vizio.com
 als-svc.nytimes.com
+alt1-safebrowsing.google.com
+alt2-safebrowsing.google.com
 altabold1.com
 a.ltdcommodities.com
 altebruecke.de
@@ -7975,6 +7978,7 @@ analytics.kolpingsfamilie-schweinfurt.de
 analytics.kolping-stiftung.de
 analytics.kolping-stiftung-schweinfurt.de
 analytics.kolpingwerk-augsburg.de
+analytics.kometa.wiki
 analytics.komornientropie.cz
 analytics.kompetenznetzwerk-antisemitismus.de
 analytics.kom-projekte.de
@@ -12822,6 +12826,7 @@ android-beacons.xumo.com
 android.bugly.qq.com
 android-context-data.googleapis.com
 androidlog.ws.pho.to
+android-safebrowsing.google.com
 android-tv-beacons.xumo.com
 androidtvchannels-pa.googleapis.com
 android-us-crashsight.iegcom.com
@@ -22908,6 +22913,7 @@ goodolddaysmagazine-news.com
 google-analytics.com
 googleanalytics.com
 googleanalytics.erocms.net
+google-ohttp-relay-safebrowsing.fastly-edge.com
 googleoptimize.com
 google.pluto7.com
 googletagmanager.com
@@ -28047,6 +28053,7 @@ i.ridge.com
 iridiuminteractive.com
 iris.diynot.com
 irisidea.com
+iris.microsoft.com
 iris.tv
 irl.campaigns.diageo-one.com
 irl.gyproc.ie
@@ -50002,6 +50009,13 @@ saec-metrics.base.be
 saec-metrics.telenet.be
 sa.eurosport.com
 sa.eurosport.co.uk
+safebrowsing.apple
+safebrowsing-cache.google.com
+safebrowsing.cache.l.google.com
+safebrowsing.googleapis.com
+safebrowsing.google.com
+safebrowsing.googleusercontent.com
+safebrowsingohttpgateway.googleapis.com
 safe-browsing-quorum.ghostery.com
 safecount.net
 safegraph.com
@@ -50437,6 +50451,7 @@ s.blinds.ca
 s.blinds.com
 sbnation.coral.coralproject.net
 s.bramptonguardian.com
+sb-ssl.google.com
 sc2.infor.com
 sc50trk.com
 sc65trk.com
