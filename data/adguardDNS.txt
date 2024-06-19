@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 19 Jun 2024 16:57:45 +0000
+# Last converted - Wed, 19 Jun 2024 20:57:45 +0000
 #
 
 at.adtech.redventures.io
@@ -6256,6 +6256,7 @@ bibbledendysis.top
 biblesausage.com
 bibletweak.com
 bibtu.com
+bichosdamiana.com
 bicyclelistoffhandpaying.com
 bicyclelistpermanentlyenslave.com
 bicyclelistworst.com
@@ -7855,6 +7856,7 @@ cc5dce551d.com
 cc72fceb4f.com
 cc954a8da8.com
 cca63f7d30.com
+ccaa0e51d8.com
 ccaahdancza.com
 ccdneniusruhebl.com
 ccdrofvofrfkqah.com
@@ -28817,6 +28819,7 @@ qkyliljavzci.com
 qlfqkjluvz.com
 qlmwgibhbhar.com
 qlnccjattetsoq.com
+qlnkt.com
 qlrpbdhwebzpf.com
 qlrxmuvghs.com
 qlspx.com
@@ -30667,6 +30670,7 @@ ruftodru.net
 rufwnrguipfep.com
 rugcrucial.com
 rugiomyh2vmr.com
+ruglhiahxam.com
 ruineddefectivecurb.com
 ruinedpenal.com
 ruinedpersonnel.com
@@ -34260,6 +34264,7 @@ textspannerreptile.com
 texturedetrimentit.com
 textureeffacepleat.com
 tfaln.com
+tfauwtzipxob.com
 tfb7jc.de
 tffkroute.com
 tfgdybgb.com
@@ -41339,6 +41344,7 @@ googlevads-cn.com
 20519a.xyz
 22dd31.xyz
 285b0b37.xyz
+28d591da.xyz
 295c.site
 2aeabdd4-3280-4f03-bc92-1890494f28be.xyz
 3a2e.site
@@ -66407,6 +66413,7 @@ yt-adp.ws.126.net
 z.nowscore.com
 zt2088.com
 ztyumn.ifeng.com
+ssp.moeli.net
 27gh.cc
 ds.ruanwengfa.com
 003store.com

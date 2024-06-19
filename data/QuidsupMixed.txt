@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Wed, 19 Jun 2024 16:58:03 +0000
+# Last converted - Wed, 19 Jun 2024 20:58:01 +0000
 #
 
 0i0i0i0.com
@@ -532,7 +532,6 @@ analytics.facebook.com
 analytics.faw.sky.com
 analytics.feeder.co
 analytics.ff.avast.com
-analytics.flatart.agency
 analytics.flipperdevices.com
 analytics.formstack.com
 analytics.freemake.com
@@ -746,7 +745,6 @@ atdmt.com
 atemda.com
 atgsvcs.com
 ati-host.net
-atomz.com
 atonementimmersedlacerate.com
 attentivemobile.com
 attn.tv
@@ -877,7 +875,6 @@ bilgin.pro
 bilsyndication.com
 bingads.com
 bingads.microsoft.com
-bisrv.com
 bitmedia.io
 bitmovin.com
 bizible.com
@@ -961,7 +958,6 @@ bullionyield.com
 bumlam.com
 bunintruder.com
 buoydeparturediscontent.com
-burt.io
 buysellads.com
 buysellads.net
 buysub.com
@@ -14045,7 +14041,6 @@ proxyclick.com
 prpops.com
 prscripts.com
 prx.wayfair.com
-pseepsie.com
 pshtrk.com
 psplugin.com
 pss.alicdn.com
@@ -14163,7 +14158,6 @@ realytics.io
 rebelmouse.io
 rebrandly.com
 rebuyengine.com
-recordingperky.com
 redevents-bigdata.redefine.pl
 redeye.international
 redir.metaservices.microsoft.com
@@ -14172,7 +14166,6 @@ redshell.io
 rees46.com
 reevoo.com
 refersion.com
-refinedads.com
 refinery89.com
 register.collector.scopely.io
 regulationprivilegescan.top
@@ -14813,7 +14806,6 @@ smetrics.jcrew.com
 smetrics.jewson.co.uk
 smetrics.jimmobile.be
 smetrics.jjill.com
-smetrics.joefresh.com
 smetrics.johnfrieda.com
 smetrics.jre-travel.com
 smetrics.kaercher.com
