@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Tue, 18 Jun 2024 20:57:56 +0000
+# Last converted - Wed, 19 Jun 2024 01:52:26 +0000
 #
 
 00px.net
@@ -17722,6 +17722,7 @@ widget.eviesays.com
 widget.flowxo.com
 widget.freshworks.com
 widget.gleamjs.io
+widget.harnessapp.com
 widget.hippochat.io
 widgetic.com
 widget.imber.live
