@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Thu, 20 Jun 2024 13:02:55 +0000
+# Last converted - Thu, 20 Jun 2024 16:58:30 +0000
 #
 
 01counter.com
@@ -49131,7 +49131,6 @@ r.ip-4.sib.doctolib.fr
 r.ip-5.sib.doctolib.fr
 r.ip-6.sib.doctolib.fr
 rippll.com
-ris.api.iris.microsoft.com
 rise.phxcapitalgroup.com
 riserange.com
 risinc.com
