@@ -1,12 +1,9 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 20 Jun 2024 16:58:10 +0000
+# Last converted - Thu, 20 Jun 2024 20:57:43 +0000
 #
 
-kms-full.com
-kmspico.ws
-kmspico.io
 at.adtech.redventures.io
 dcjeeqwrhg.com
 bb.churchkhela.site
@@ -1029,6 +1026,26 @@ dianomi.com
 leaderhistliness.info
 amazon-adsystem.com
 vipads.live
+kmspico.ws
+kms-full.com
+kmspico.io
+kms-tool.com
+kmsauto.info
+officialkmspico.com
+ultrasonica.info
+kmspicoofficial.com
+kmspi.co
+kms-pc.com
+thewindowsactivator.com
+get-kmspico.com
+getkmspico.com
+heukmsactivator.com
+furykms.com
+kmsofficial.org
+kmspico-official.org
+yasir252.com
+karanpc.com
+getintopc.today
 stripe.rs-1028-a.com
 hub.fghtem.com
 d71e6dd31a026d45.com
@@ -4538,6 +4555,7 @@ apprefaculty.pro
 appresthinters.top
 approachconducted.com
 approachproperachieve.com
+appropriate-bag.pro
 appropriateloathefewer.com
 appropriatepurse.com
 approximatelyseats.com
@@ -54040,7 +54058,6 @@ proxy.ads.canalplus-bo.net
 ads.dugwood.com
 caraneoutraze.uno
 adserver.icimedias.ca
-appropriate-bag.pro
 adleap.jp
 ad.unique1static.jp
 appdraft.link
@@ -61216,6 +61233,10 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+8878tp.com
+ccccc66kkkkk.com
+ccccc78kkkkk.com
+ccccc88kkkkk.com
 dvgjx.cn
 ytqeavc.icu
 adzo.cn
