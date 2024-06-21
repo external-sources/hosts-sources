@@ -1,9 +1,17 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 20 Jun 2024 20:57:43 +0000
+# Last converted - Fri, 21 Jun 2024 01:47:52 +0000
 #
 
+wrrlidnlerx.com
+rmtckjzct.com
+ilaterdeallyighab.info
+iththinleldedallov.info
+gugletkvarner.top
+emigreehurty.top
+cufultahaur.com
+rcdjkdesdn.com
 at.adtech.redventures.io
 dcjeeqwrhg.com
 bb.churchkhela.site
@@ -51650,6 +51658,7 @@ counter.insales.ru
 counter.megaindex.ru
 counter.photopulse.ru
 counter.reddigital.ru
+counter.smotrim.ru
 dbex-tracker-v2.driveback.ru
 error.videonow.ru
 events.auth.gid.ru
@@ -61237,6 +61246,11 @@ zvietnakello.weebly.com
 ccccc66kkkkk.com
 ccccc78kkkkk.com
 ccccc88kkkkk.com
+qzehwg.xyz
+nzhzzd.xyz
+sggu.cn
+puwkcqp.icu
+kdoshbd.top
 dvgjx.cn
 ytqeavc.icu
 adzo.cn
