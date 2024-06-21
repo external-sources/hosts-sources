@@ -1,9 +1,22 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 21 Jun 2024 08:58:00 +0000
+# Last converted - Fri, 21 Jun 2024 13:02:26 +0000
 #
 
+fjbubsdhpcticbu.com
+tucsulfjseyan.com
+rqmakkmq.com
+hwgxmvhphcbqcis.com
+shepsubsitha.com
+gprsiugqgwqt.com
+adfulplatform.com
+vsftsyriv.com
+nxhnaibu.com
+leenaitheez.com
+thoohizoogli.xyz
+pthrecjtu.com
+raglanyakking.com
 wrrlidnlerx.com
 rmtckjzct.com
 ilaterdeallyighab.info
@@ -31746,7 +31759,6 @@ shenouth.com
 shenzo.xyz
 shepeekr.net
 shepherdalmightyretaliate.com
-shepsubsitha.com
 sherryfaithfulhiring.com
 sheschemetraitor.com
 shesseet.com
@@ -47243,7 +47255,6 @@ jp-axia.m0mentum.net
 vgwort.de
 sharpmarketing.eu
 actonsoftware.com
-healthgrades.com
 actonservice.com
 2o7.net
 data.adobedc.net
@@ -47293,10 +47304,10 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+ctr.po-kaki-to.com
 analytics.sonjj.com
 status.techtarget.itmedia.co.jp
 ephemeralcounters.api.roblox.com
-px.adfulplatform.com
 d9jj3mjthpub.cloudfront.net
 logs.openbank.com
 plausible.omgapi.org
@@ -61262,6 +61273,7 @@ puwkcqp.icu
 kdoshbd.top
 wbaj.cn
 bfhueh.top
+szdzn.cn
 dvgjx.cn
 ytqeavc.icu
 adzo.cn
