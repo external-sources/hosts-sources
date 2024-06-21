@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 21 Jun 2024 01:47:52 +0000
+# Last converted - Fri, 21 Jun 2024 04:57:49 +0000
 #
 
 wrrlidnlerx.com
