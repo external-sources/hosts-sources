@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Fri, 21 Jun 2024 16:58:10 +0000
+# Last converted - Fri, 21 Jun 2024 20:58:04 +0000
 #
 
 01counter.com
@@ -13713,6 +13713,7 @@ awsstatreporter.com
 aw.stats.architecteweb.com
 awstats.cloud
 aws-useast-pixels.s3.amazonaws.com
+awsysanalyticsiothub1.azure-devices.net
 awy6vtrk.com
 awyyzx.com
 awzbijw.com
@@ -21295,6 +21296,7 @@ experimentation-apex.data.ea.com
 experimentation.ca.api.intuit.com
 experimentation.intuit.com
 experimentation.us.api.intuit.com
+experimentation.xogrp.com
 experiment.icloud.com
 experiment-icloud.v.aaplimg.com
 experiments.apple.com
@@ -22298,6 +22300,7 @@ geo3.ggpht.com
 geo.adobe.com
 geoapify.com
 geoapi.indiatimes.com
+geo-api.xogrp.com
 geoar.googleapis.com
 geo-assets.tedcdn.com
 geo.asus.com

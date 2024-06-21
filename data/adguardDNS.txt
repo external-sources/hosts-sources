@@ -1,9 +1,15 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 21 Jun 2024 16:57:52 +0000
+# Last converted - Fri, 21 Jun 2024 20:57:46 +0000
 #
 
+aigheebsu.net
+dnlgrxhfcsjhcto.com
+cegloockoar.com
+mutmfwgdoxvbbuo.com
+garlicice.store
+flirtfusiontoys.toys
 fjbubsdhpcticbu.com
 tucsulfjseyan.com
 rqmakkmq.com
@@ -3600,6 +3606,7 @@ afgwciwbjxcsfro.com
 afgwsgl.com
 afgzipohma.com
 afiliapub.click
+afkearupl.com
 afloatroyalty.com
 afm01.com
 afmhlhqwkn.com
@@ -6660,6 +6667,7 @@ bngprl.com
 bngprm.com
 bngpst.com
 bngpt.com
+bngrol.com
 bngtrak.com
 bngwlt.com
 bnhnkbknlfnniug.xyz
@@ -7574,6 +7582,7 @@ cafeteriasobwaiter.com
 cafqeelk.com
 caftaistes.com
 cafvyfdqedjc.xyz
+cagakzcwyr.com
 cageinattentiveconfederate.com
 cagerssoohong.com
 cagesscan.com
@@ -11491,6 +11500,7 @@ dqtzmkwzvoidi.com
 dqvnpbs.com
 dqxbqubsknfc.com
 dqxifbm.com
+dqypqewirrf.com
 dqzsejvbr.com
 dr0.biz
 dr22.biz
@@ -14769,6 +14779,7 @@ fucmoadsoako.com
 fucoustittup.uno
 fucsarhyhlci.com
 fudginghoners.com
+fudukrujoa.com
 fuelcathine.top
 fuelpearls.com
 fugcgfilma.com
@@ -26764,6 +26775,7 @@ persuadepointed.com
 persuasivepenitentiary.com
 pertawee.net
 pertersacstyli.com
+pertfinds.com
 pertlouv.com
 perttogahoot.com
 pertyvaluationia.monster
@@ -27729,6 +27741,7 @@ ppjdfki.com
 ppjqgbz.com
 pplferio.com
 pplgwic.com
+ppmzcafertd.com
 ppoommhizazn.com
 ppovysmcycmwvv.com
 pppbr.com
@@ -38785,6 +38798,7 @@ xaqavvmtkcgtg.xyz
 xargijqtgysdvgj.com
 xatesfrgkifde.com
 xawlop.com
+xaxciisqwvk.com
 xaxoro.com
 xaxrtiahkft.com
 xayiqcwbmmhwf.com
@@ -39329,6 +39343,7 @@ ykakassg.com
 ykdwyf.com
 ykgkxcount.com
 ykmvnhue.com
+ykopnlrbb.com
 ykqalsm.com
 ykraeij.com
 ykrwopdxkw.com
@@ -41524,6 +41539,7 @@ utiq.wa.de
 1156219164.rsc.cdn77.org
 1175980934.rsc.cdn77.org
 1187531871.rsc.cdn77.org
+1199403312.rsc.cdn77.org
 1201741305.rsc.cdn77.org
 1204491360.rsc.cdn77.org
 1278977604.rsc.cdn77.org
@@ -41531,6 +41547,7 @@ utiq.wa.de
 1299757727.rsc.cdn77.org
 1312907885.rsc.cdn77.org
 1324827002.rsc.cdn77.org
+1325492758.rsc.cdn77.org
 1365498388.rsc.cdn77.org
 1396762586.rsc.cdn77.org
 1417571542.rsc.cdn77.org
@@ -41556,6 +41573,7 @@ utiq.wa.de
 1770542895.rsc.cdn77.org
 1896709103.rsc.cdn77.org
 1933201447.rsc.cdn77.org
+1946365241.rsc.cdn77.org
 1954342903.rsc.cdn77.org
 1957648849.rsc.cdn77.org
 1969301294.rsc.cdn77.org
@@ -43205,6 +43223,7 @@ adballoon.afreecatv.com
 deapi.afreecatv.com
 startup.mobile.yandex.net
 startup-mobile.ap.yandex-net.ru
+s-odx.oleads.com
 mediation.unity3d.com
 cdn-ad.wtzw.com
 appsrv.display.io
@@ -47304,6 +47323,9 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+events.tryamped.com
+track.sendlane.com
+m1tm.motor1.com
 ctr.po-kaki-to.com
 analytics.sonjj.com
 status.techtarget.itmedia.co.jp
@@ -51068,6 +51090,7 @@ contiamo.com
 counter-zaehler.de
 dcmn.io
 dl8.me
+durchsichtig.xyz
 etrust.eu
 fast-counter.net
 giga-abs.de
@@ -54652,6 +54675,7 @@ gema-online.de
 holyjesus.de
 spd-spenden.de
 swissadserver.ch
+windows-pro.net
 wirverkaufennichts.de
 wixnm.com
 zazufi.com
@@ -55072,6 +55096,7 @@ indeterman.com
 ineed2fuck.com
 instahookups5.com
 iphone7pluswin.com
+isdarot.com
 israfun.net
 iystorage.com
 jacquarter.com
@@ -55168,6 +55193,7 @@ rpe.co.il
 s-iwantyou.com
 saphiretelavivisrael.com
 sdarot-il.org
+sdarot-tv.org
 sdarot.cc
 sdarotil.top
 sdc.mako.co.il
@@ -55208,6 +55234,7 @@ triviaworld.club
 truegifstandmore.com
 trustmedia.co.il
 tukid.info
+tvfeel.cc
 twobluedeer.com
 typication.com
 ugbuzz.net
@@ -61274,6 +61301,7 @@ kdoshbd.top
 wbaj.cn
 bfhueh.top
 szdzn.cn
+vppzjv.xyz
 dvgjx.cn
 ytqeavc.icu
 adzo.cn

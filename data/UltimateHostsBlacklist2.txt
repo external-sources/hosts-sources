@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Fri, 21 Jun 2024 16:58:16 +0000
+# Last converted - Fri, 21 Jun 2024 20:58:11 +0000
 #
 
 real-estate-fb-page-id213.000webhostapp.com
@@ -9998,7 +9998,6 @@ royale.rudrawebtech.com
 royale-bintang-hotel.com
 royaleducations.com.auapp.adjust.com
 royalegenerator.net
-royale-ssl.spongecell.com
 royalestate.com.pl
 royalet.drupalet.com
 royalfarm.customlinks.appsflyer.com
@@ -53486,6 +53485,7 @@ stompebi.link
 stone2.directprimal.com
 stone.cryptaloot.pro
 stone.cryptoloot.pro
+stone.directprimal.com
 stone.webmine.pro
 stoneandcloth.7eer.net
 stonearchlaw.clickfunnels.com
@@ -104856,7 +104856,6 @@ webtoolsrooingdengincco.000webhostapp.com
 webtoolsx.brandreachsys.com
 webtop.acxiom.com
 webtracker.apicasystem.com
-webtracker.jp
 webtrackerplus.com
 webtracktechnologies.com
 webtracky.com
@@ -145156,7 +145155,6 @@ www.hashforcash.us
 www.hashing.win
 www.hashmalim.com
 www.hashsrv.com
-www.hashto.cash
 www.hashvault.pro
 www.hastalavista.info
 www.hastasrts091212.000webhostapp.com
@@ -146568,7 +146566,6 @@ www.jav-blog.com
 www.javblog.me
 www.javblog.ws
 www.javbooks.com
-www.jav-box.com
 www.jav-bus.com
 www.javbus.com
 www.jav-cafe.com
@@ -146622,6 +146619,7 @@ www.javstar.net
 www.javsuki2.blogspot.com
 www.javtag.com
 www.javtown.com
+www.javtv.site
 www.jav-video.org
 www.jaxx.com
 www.jayapoker.totoarena.info

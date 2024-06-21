@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Fri, 21 Jun 2024 16:58:07 +0000
+# Last converted - Fri, 21 Jun 2024 20:58:02 +0000
 #
 
 0i0i0i0.com
@@ -1892,7 +1892,6 @@ impactradius-event.com
 impactradius.com
 impdesk.com
 impishelizabethjumper.com
-impressiondesk.com
 improvedigital.com
 improvely.com
 improving.duckduckgo.com
@@ -14359,9 +14358,7 @@ serving-sys.com
 sessionamateur.com
 sessioncam.com
 settings-sandbox.data.microsoft.com
-settlepineapple.com
 sevokop.com
-sexualpitfall.com
 shaggyselectmast.com
 shareaholic.com
 shareaholic.net
