@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 21 Jun 2024 20:57:46 +0000
+# Last converted - Sat, 22 Jun 2024 01:46:20 +0000
 #
 
 aigheebsu.net
@@ -11224,6 +11224,7 @@ dmowvblljmkqx.com
 dmrdnujvzo.com
 dmrtx.com
 dmsktmld.com
+dmuqumodgwm.com
 dmvbdfblevxvx.com
 dmvporebntt.com
 dmxswwrregww.com
@@ -14206,6 +14207,7 @@ flpfsqgjsarghs.com
 flqwvojijhqqlq.com
 flrdra.com
 fluemantappall.guru
+fluencydepressing.com
 fluencyinhabited.com
 fluencythingy.com
 fluentlydeadlineski.com
@@ -22979,6 +22981,7 @@ moanhaul.com
 moaningbeautifulnobles.com
 moaningtread.com
 moanomoa.xyz
+moapaglee.net
 moapevuwtv.com
 moapuwhe.com
 moartraffic.com
@@ -30623,6 +30626,7 @@ rqnomljdot.xyz
 rqnvci.com
 rqtrk.eu
 rqwel.com
+rqwyrdwlaygwxkw.com
 rreauksofthecom.xyz
 rrentlysearchi.info
 rrhscsdlwufu.xyz
@@ -61302,6 +61306,12 @@ wbaj.cn
 bfhueh.top
 szdzn.cn
 vppzjv.xyz
+scru.cn
+njjavt.xyz
+cycvyo.xyz
+sdoshbb.top
+ismuwcm.icu
+yzihdppw.xyz
 dvgjx.cn
 ytqeavc.icu
 adzo.cn
