@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 22 Jun 2024 04:57:36 +0000
+# Last converted - Sat, 22 Jun 2024 08:57:42 +0000
 #
 
 aigheebsu.net
@@ -54113,6 +54113,7 @@ proxy.ads.canalplus-bo.net
 ads.dugwood.com
 caraneoutraze.uno
 adserver.icimedias.ca
+ad.douga-kan.com
 adleap.jp
 ad.unique1static.jp
 appdraft.link
@@ -61312,6 +61313,8 @@ cycvyo.xyz
 sdoshbb.top
 ismuwcm.icu
 yzihdppw.xyz
+doujs02.xyz
+honknl.xyz
 dvgjx.cn
 ytqeavc.icu
 adzo.cn
