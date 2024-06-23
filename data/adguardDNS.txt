@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 22 Jun 2024 20:58:10 +0000
+# Last converted - Sun, 23 Jun 2024 01:56:18 +0000
 #
 
 aigheebsu.net
@@ -48682,7 +48682,6 @@ lb.secureweb24.net
 lcs.modoo.at
 lcs.naver.com
 lexip.4pcdn.de
-lexip.4players.de
 librato-collector.genius.com
 live.rezync.com
 livecounter.theyosh.nl
@@ -48885,7 +48884,6 @@ pix.nbcuni.com
 pix.telekom.de
 pixel.1und1.de
 pixel.4pcdn.de
-pixel.4players.de
 pixel.anyclip.com
 pixel.bridge.dooca.store
 pixel.bullion.media
@@ -49205,7 +49203,6 @@ stores-counters.wix.com
 sts.eccmp.com
 stt.nimbusweb.me
 style.onvz.nl
-subpixel.4players.de
 swa.metro.co.uk
 sync.adap.tv
 sysmon.kakaku.com
@@ -61315,6 +61312,12 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+talyrt.xyz
+okagcw.xyz
+vtlyrj.xyz
+saeo.cn
+edoshbw.top
+blciqbk.icu
 8878tp.com
 ccccc66kkkkk.com
 ccccc78kkkkk.com
