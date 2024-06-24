@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 24 Jun 2024 08:57:58 +0000
+# Last converted - Mon, 24 Jun 2024 13:04:44 +0000
 #
 
 aigheebsu.net
@@ -4512,6 +4512,7 @@ aphasicstoray.space
 aphemicstull.com
 aphidsapprend.top
 aphidsclee.com
+api168168.com
 apiculirackman.top
 apidata.info
 apiecelee.com
@@ -5857,6 +5858,7 @@ bctagb56.xyz
 bcuiaw.com
 bcxcxixcwprccn.com
 bczzwakqyae.com
+bd51static.com
 bdbffuwrxmsekjp.com
 bdbovbmfu.xyz
 bddc935c97.com
@@ -24476,6 +24478,7 @@ noupsube.xyz
 noureewo.com
 nourishinghorny.com
 nourishmentrespective.com
+nouveau-digital.com
 nouveaulain.com
 nouvhidtxryveg.com
 novadune.com
@@ -43865,6 +43868,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+api.sardine.ai
 dmp.one
 dmp-ai.ru
 dmp-one.ru
@@ -61357,6 +61361,11 @@ wdoshbe.top
 663008888.com
 uutytp.com
 w0057.com
+doujs03.xyz
+6pznpz.com
+baijs02.xyz
+baijs03.xyz
+google-js-01.xyz
 8878tp.com
 ccccc66kkkkk.com
 ccccc78kkkkk.com
