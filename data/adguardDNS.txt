@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 23 Jun 2024 20:57:53 +0000
+# Last converted - Mon, 24 Jun 2024 01:54:30 +0000
 #
 
 aigheebsu.net
@@ -61347,6 +61347,15 @@ saeo.cn
 edoshbw.top
 blciqbk.icu
 ycgfdf.cn
+birtw.cn
+fmjjvb.xyz
+awyuge.xyz
+ddnzpr.xyz
+uessnah.icu
+wdoshbe.top
+663008888.com
+uutytp.com
+w0057.com
 8878tp.com
 ccccc66kkkkk.com
 ccccc78kkkkk.com
@@ -67601,12 +67610,7 @@ mogo-crypto.net
 tinancefa.org
 laxsson.com
 tradergpt.ai
-wibodir.com
-eh-ra-z-se-na.org
-ebl-hot.com
-iranuschsahm.sbs
-seownae.space
-maeshhtr.com
+meashstis.ir
 middlepoint.co.kr
 authanalysis.com
 planmix.co.kr
