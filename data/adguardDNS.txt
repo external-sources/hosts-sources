@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 24 Jun 2024 16:57:44 +0000
+# Last converted - Mon, 24 Jun 2024 20:57:51 +0000
 #
 
 aigheebsu.net
@@ -1071,7 +1071,6 @@ furykms.com
 kmsofficial.org
 kmspico-official.org
 yasir252.com
-karanpc.com
 getintopc.today
 stripe.rs-1028-a.com
 hub.fghtem.com
