@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 24 Jun 2024 13:05:05 +0000
+# Last converted - Mon, 24 Jun 2024 16:46:33 +0000
 #
 
 00px.net
@@ -417,6 +417,7 @@ a235.thehour.com
 a235.thetelegraph.com
 a235.timesunion.com
 a2adv.com
+a2bbdc6eb859423877dcade96a7c1259.com
 a2m.agency
 a2.news.cn
 a2put.chinaz.com
@@ -7467,6 +7468,8 @@ brandnbusiness.co.in
 brandreach.com
 brandreachsys.com
 brandreward.com
+brandsdeservebettermedia.com
+brandsdeservebettermedia.org
 brandshape.in
 brandsnbehind.com
 brandtoniq.com
@@ -10232,6 +10235,7 @@ greenlight.ie
 green-red.com
 greensky.dotcmscloud.com
 greenstick.io
+greenstickmarketing.com
 greky.xyz
 grenads.com
 grey.com
@@ -10867,6 +10871,7 @@ intellectads.co.in
 intellibanners.com
 intellicontact.com
 intelligenceadx.com
+intent-based.com
 intentmedia.net
 interactiveads.ai
 interactive.in
@@ -11899,6 +11904,8 @@ mblapi.ssl2.duapps.com
 mboadvertising.com
 mbpiland.com
 mbrworldwide.com
+mbt3st3r1.com
+mbt3st3r2.com
 mbww.com
 mbxg.com
 mccann.al
@@ -17234,8 +17241,10 @@ valuead.com
 valueadvert.com
 valueclick.com
 valueclick.de
+valueclick-europe.com
 valueclick.fr
 valueclickmedia.com
+valueclickmedia.co.uk
 valueclick.net
 valueclicks.com
 valuecommerce.co.jp

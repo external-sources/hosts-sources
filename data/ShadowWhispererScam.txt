@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Mon, 24 Jun 2024 13:05:08 +0000
+# Last converted - Mon, 24 Jun 2024 16:46:36 +0000
 #
 
 007-dvd.com
@@ -7895,6 +7895,7 @@ naughty-hill.com
 naughtymatch.com
 navricpoultrysuppliersandxporters.com
 nawfrenchie.com
+nayamimuyou.info
 naylorpembrokecorgi.com
 nayochem.com
 nba2k20lockercodes.com
