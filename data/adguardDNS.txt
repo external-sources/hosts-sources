@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 25 Jun 2024 16:57:48 +0000
+# Last converted - Tue, 25 Jun 2024 20:57:53 +0000
 #
 
+maplecurriculum.com
 hdxpqgvqm.com
 grucmost.xyz
 awwprjafmfjbvt.xyz
@@ -1072,7 +1073,6 @@ heukmsactivator.com
 furykms.com
 kmsofficial.org
 kmspico-official.org
-yasir252.com
 getintopc.today
 stripe.rs-1028-a.com
 hub.fghtem.com
