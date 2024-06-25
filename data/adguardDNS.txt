@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 24 Jun 2024 20:57:51 +0000
+# Last converted - Tue, 25 Jun 2024 01:51:38 +0000
 #
 
 aigheebsu.net
@@ -40684,6 +40684,7 @@ campaignlook.com
 capacitygrid.com
 caroda.io
 casino-zilla.com
+cazamba.com
 cb-content.com
 cdnreference.com
 charltonmedia.com
@@ -45103,7 +45104,6 @@ i.compendium.com
 statsp.fpop.net
 conductrics.com
 zorosrv.com
-api.cazamba.com
 maliva-mcs.byteoversea.com
 sgali-mcs.byteoversea.com
 1dmp.io
@@ -61365,6 +61365,13 @@ doujs03.xyz
 baijs02.xyz
 baijs03.xyz
 google-js-01.xyz
+afopr.cn
+qdoshby.top
+eyislow.top
+miwfkm.xyz
+dnpalh.xyz
+cresqoirz.com
+mcighme.icu
 8878tp.com
 ccccc66kkkkk.com
 ccccc78kkkkk.com
