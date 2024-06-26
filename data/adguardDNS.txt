@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 26 Jun 2024 04:57:57 +0000
+# Last converted - Wed, 26 Jun 2024 08:57:43 +0000
 #
 
 shuanshu.com.com
@@ -41526,6 +41526,7 @@ googlevads-cn.com
 9814b49f.xyz
 a49ebd.xyz
 a67d12.xyz
+a8b68645.xyz
 b0eb63.xyz
 b211.xyz
 b2bf222e.xyz
@@ -61405,6 +61406,8 @@ aiknx.cn
 fvyqblc.icu
 tdoshbi.top
 lxryhx.xyz
+ioaiqp.top
+qyisloy.top
 afopr.cn
 qdoshby.top
 eyislow.top
@@ -67861,6 +67864,7 @@ tvetamovie.pstatic.net
 adv.imadrep.co.kr
 safeframe.googlesyndication.com
 adservice.google.com
+ttse.b-cdn.net
 i.keezip.com
 awd.spochak.com
 abcounter.de
