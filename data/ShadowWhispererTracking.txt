@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 26 Jun 2024 13:06:48 +0000
+# Last converted - Wed, 26 Jun 2024 16:58:06 +0000
 #
 
 01counter.com
@@ -3008,6 +3008,7 @@ ambitiousagreement.com
 ambrosialsummit.com
 amcdn.vn
 amclicks.com
+amc.yandex.ru
 amd83trk.com
 amd-athena-rs-install-logs.s3.amazonaws.com
 a.medtronic.com
@@ -14774,6 +14775,7 @@ browser-intake-datadoghq.com
 browser-intake-datadoghq.eu
 browser-intake-us3-datadoghq.com
 browser-intake-us5-datadoghq.com
+browser-updater.yandex.net
 brpdealermarketing.azureedge.net
 brpx.com
 brsrvr.com
@@ -16248,6 +16250,7 @@ collector.plarium.com
 collector.polestar.com
 collector.prod.expedia.com
 collector.pub-tmaws.io
+collector-pxdojv695v.protechts.net
 collector.quizzop.com
 collector.retailcrm.pro
 collector.reviews.co.uk
@@ -28211,6 +28214,7 @@ jay.brauerei-egg.at
 jay.breakup.management
 jay.howivscode.com
 jay.plantainguy.com
+jazkowt6.micpn.com
 jcb.jnto.go.jp
 jcmonitor.xcar.com.cn
 jcpjfyikk.dogbonemarket.com
@@ -29325,6 +29329,7 @@ logging.goodgamestudios.com
 logging.groupon.com
 logging.je-apps.com
 logging-proxy-ca-production-170512-af60esna.uc.gateway.dev
+logging.pw.adn.cloud
 logging-service-prod.getepic.com
 logg.kiwi.com
 log-global.aliyuncs.com
@@ -47422,6 +47427,7 @@ plausible.tobrien.me
 plausible.tools.brainboard.co
 plausible.tradingpaints.com
 plausible.treat-nmd.org
+plausible.trypico.workers.dev
 plausible.tsun.dev
 plausible.typetwo.space
 plausible.uni-koblenz.de
@@ -48064,6 +48070,7 @@ pushspring.com
 putags.com
 putler.com
 puzzlingproperty.com
+pvdpix.com
 pvd.to
 p.veliainn.com
 pview.gomtv.com
@@ -70828,6 +70835,7 @@ versium.com
 vertexone.net
 verticalscope.com
 vertoanalytics.com
+vespa.ai
 veterans.hillandponton.com
 vetinfo.rossu.edu
 vextras.com

@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Wed, 26 Jun 2024 13:06:46 +0000
+# Last converted - Wed, 26 Jun 2024 16:58:04 +0000
 #
 
 00px.net
@@ -595,6 +595,7 @@ acreecreative.com
 across.it
 acrosspf.com
 acrylicsign.com.my
+acscdn.com
 acshare.net
 acsmediakit.org
 act-advertising.com
@@ -17766,6 +17767,7 @@ widget.sezzle.com
 widgets.getpocket.com
 widgets.guppy.live
 widgets.itcentralstation.com
+widgets.kinopoisk.ru
 widgets.legalmonster.com
 widgets.membership.s-msft.com
 widget.smsinfo.io
