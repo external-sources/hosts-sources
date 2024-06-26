@@ -1,6 +1,6 @@
 # winhelp2002
 #
 # Converted from - https://winhelp2002.mvps.org/hosts.txt
-# Last converted - Wed, 26 Jun 2024 16:58:20 +0000
+# Last converted - Wed, 26 Jun 2024 20:59:00 +0000
 #
 
