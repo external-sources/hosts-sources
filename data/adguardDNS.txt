@@ -1,9 +1,13 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 25 Jun 2024 20:57:53 +0000
+# Last converted - Wed, 26 Jun 2024 01:49:38 +0000
 #
 
+shuanshu.com.com
+kuurza.com
+dxtv1.com
+googie-anaiytics.com
 maplecurriculum.com
 hdxpqgvqm.com
 grucmost.xyz
@@ -47379,6 +47383,7 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+matomo.promobil.de
 api.ad-platform.jmty.jp
 events.tryamped.com
 track.sendlane.com
@@ -61395,6 +61400,11 @@ baijs03.xyz
 google-js-01.xyz
 google-js-02.xyz
 ryhuzj.xyz
+yhutou.xyz
+aiknx.cn
+fvyqblc.icu
+tdoshbi.top
+lxryhx.xyz
 afopr.cn
 qdoshby.top
 eyislow.top

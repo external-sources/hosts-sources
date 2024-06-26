@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Tue, 25 Jun 2024 20:58:14 +0000
+# Last converted - Wed, 26 Jun 2024 01:49:56 +0000
 #
 
 01counter.com
@@ -13077,6 +13077,7 @@ api.sosiago.id
 api-stagingtwo.cgstatic.info
 api.subdl.com
 api.tech26.de
+api.techet.net
 api-track.hygraph.com
 api-triangle.canadiantire.ca
 api.us-east-1.aiv-delivery.net
@@ -47813,6 +47814,7 @@ product.dji.com
 producter.co
 producthandling.promachbuilt.com
 production-evvnt-plugin-herokuapp-com.global.ssl.fastly.net
+production-experimentation-api.us-east-1.elasticbeanstalk.com
 production.inyourarea.co.uk
 production-na02-puma.demandware.net
 production-useast-1-rapport-events.s3.amazonaws.com

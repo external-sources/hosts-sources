@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Tue, 25 Jun 2024 20:58:11 +0000
+# Last converted - Wed, 26 Jun 2024 01:49:54 +0000
 #
 
 00px.net
@@ -2236,6 +2236,7 @@ ads24h.net
 ads24.net
 ads.24rakomet.mk
 ads.24ur.si
+ads2550.bid
 ads2-adnow.com
 ads2.beforeyoubet.com.au
 ads2.bid
@@ -12815,12 +12816,9 @@ notads.11supjav.xyz
 notads.1gi3rir.xyz
 notcotal.com
 noticeboard.netmarble.com
-notif.9gag.com
 notifadz.com
-notif-api.under9.co
 notifee.app
 notifia.io
-notification.adblockplus.org
 notificationbutton.com
 notification-center.kdanmobile.com
 notification.jeeng.app
@@ -16081,6 +16079,7 @@ srv.realpython.net
 srxy.xyz
 ssacdn.com
 ssdbkv4qtq.xyz
+ssindserving.com
 s.skimresources.com
 ssl2anyone2.com
 ssliivuqpm.ru
