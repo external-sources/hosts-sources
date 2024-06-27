@@ -1,9 +1,13 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 27 Jun 2024 16:57:47 +0000
+# Last converted - Thu, 27 Jun 2024 20:57:46 +0000
 #
 
+outhauzours.com
+bbdiknmwgyesw.com
+olabdsjovla.com
+eas696r.xyz
 slk594.com
 crambidnonutilitybayadeer.com
 theepsie.com
@@ -2192,6 +2196,7 @@ mine.torrent.pw
 536fbeeea4.com
 539f346355.com
 53c2dtzsj7t1.top
+53e91a4877.com
 544c1a86a1.com
 550b3ikb9j.com
 561e861cb4.com
@@ -2633,6 +2638,7 @@ abeenrwvyrew.top
 abeenrwvyyre.top
 abelekidr.com
 abelestheca.com
+abencwrmt.com
 abethow.com
 abevc.club
 abgeobalancer.com
@@ -4018,6 +4024,7 @@ allemodels.com
 allenhoroscope.com
 allenmanoeuvre.com
 allenprepareattic.com
+allergicloaded.com
 alleviatediscoveryexpress.com
 alleviatepracticableaddicted.com
 allfb8dremsiw09oiabhboolsebt29jhe3setn.com
@@ -6281,8 +6288,10 @@ bfwnkcfsycbd.com
 bfxytxdpnk.com
 bg4nxu2u5t.com
 bgbkvawcctzqql.com
+bgbtqizsdziw.com
 bgcold.com
 bgcoll.com
+bgecvddelzg.com
 bgevhldiekl.xyz
 bginrbancsr.com
 bgjsjep.com
@@ -13940,6 +13949,7 @@ fiinnancesur.com
 fiisscqwokt.com
 fijekone.com
 fikedaquabib.com
+filasofighit.com
 filasseseeder.com
 filchmadeirahotel.com
 filesdots.com
@@ -15157,6 +15167,7 @@ gayalgenipa.digital
 gayuxhswva.com
 gazati.com
 gazeesoter.com
+gazumpers27.fun
 gb1aff.com
 gbbdkrkvn.xyz
 gbddeyjekkixrn.com
@@ -15215,6 +15226,7 @@ gekkocondo.top
 gekroome.com
 gelatineabstainads.com
 gelatinelighter.com
+gelescu.cloud
 gelhp.com
 gelidoctans.digital
 gelofrebromes.top
@@ -15273,6 +15285,7 @@ geotrkclknow.com
 geraflows.com
 geratedbawled.com
 gereacumina.com
+germanize24.fun
 germanyretorteddonate.com
 germinatecascade.com
 germinateensue.com
@@ -24807,6 +24820,7 @@ oagreess.net
 oahaurti.com
 oahosaisaign.com
 oainternetservices.com
+oainzuo.xyz
 oaiweznjo.com
 oajagroax.com
 oajsffmrj.xyz
@@ -25240,6 +25254,7 @@ oldership.com
 oldeststrickenambulance.com
 oldfashionedcity.pro
 oldfashionedmadewhiskers.com
+oldforeyesheh.info
 oldgyhogola.com
 oldied.com
 oldmilram.com
@@ -27066,6 +27081,7 @@ pickaflick.co
 pickedincome.com
 pickedlawhandshake.com
 picketsubmission.com
+picklecandourbug.com
 picklesdumb.com
 picklespealwanderer.com
 pickupnationalityinexhaustible.com
@@ -28319,6 +28335,7 @@ pseergoa.net
 pseidpmubwu.com
 psemotion.top
 psensuds.net
+psfdi.com
 psfgobbet.com
 pshb.me
 pshmetrk.com
@@ -31761,6 +31778,7 @@ shamelessgoodwill.com
 shamelessnullneutrality.com
 shamelesspersonality.pro
 shamepracticegloomily.com
+shammesbyssin.top
 shamosmatic.com
 shanaurg.net
 shankarsackage.top
@@ -36993,6 +37011,7 @@ vesuvinaqueity.top
 vetcheslegumen.com
 vethojoa.net
 vetoembrace.com
+vetrainingukm.info
 vetuststeek.com
 vevatom.com
 vevqlgmmkgu.com
@@ -41515,6 +41534,7 @@ googlevads-cn.com
 3a55f02d.xyz
 3ffa255f.xyz
 420db600.xyz
+466c4d0f.xyz
 485728.xyz
 48a16802.site
 48d8e4d6.xyz
@@ -47412,6 +47432,10 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+metrics.biddertmz.com
+moduleanalysis.aliexpress.com
+metrics.doppiostreams.com
+metrics.imdb.a2z.com
 metrics.api.drift.com
 targeting.api.drift.com
 event.api.drift.com
@@ -50668,7 +50692,6 @@ metering.pagesuite.com
 metrics.ctvdigital.net
 metrics.doppiocdn.com
 metrics.doppiocdn.org
-metrics.doppiostreams.com
 metrics.futureplc.engineering
 metrics.gs-chat.com
 metrics.onshape.com
@@ -51945,6 +51968,7 @@ solution911.com
 templates.buscape.com
 yestorrents.org
 oecistbenton.com
+cdn.tameti.com
 eehhabacgieacfjeaacg.world
 bidmatic.io
 vidscriptshark.com
@@ -54000,6 +54024,7 @@ vw.onlinia.net
 exchange.informer.ua
 hdvmyo.com
 adsy.mail.bg
+cdn.cdnhipter.xyz
 kingads2.org
 ad-service.shop
 yonderdim.com
@@ -61414,6 +61439,7 @@ ytoeyxz.icu
 szdtf.cn
 tyisloi.top
 pjdthz.xyz
+vqlwoy.xyz
 talyrt.xyz
 okagcw.xyz
 vtlyrj.xyz
