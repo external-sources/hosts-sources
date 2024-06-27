@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 27 Jun 2024 04:57:55 +0000
+# Last converted - Thu, 27 Jun 2024 08:58:01 +0000
 #
 
+precedelaxative.com
 pepiggies.xyz
 shuanshu.com.com
 kuurza.com
@@ -1538,6 +1539,7 @@ d32r49xyei4vz6.cloudfront.net
 d36sxvmjoflc2i.cloudfront.net
 d6swopgiplmy0.cloudfront.net
 gjc.gjirafa.com
+rolpenszimocca.com
 a.mabipa.com
 klik-slider.morgancode.com
 lupon.media
@@ -9168,6 +9170,7 @@ condensedconvenesaxophone.com
 condensedmassagefoul.com
 condensedspoon.com
 condescendingcertainly.com
+conditioneavesdroppingbarter.com
 condles-temark.com
 condodgy.com
 condofeijoa.top
@@ -40095,6 +40098,7 @@ zzhyebbt.com
 zzjwblqbwlrnj.top
 zzkwsosixkdu.com
 zzqolojyqkamj.top
+zztsxepxumxoyw.com
 zzzjvqzkmqjlo.top
 zzzjvqzkmqjyb.top
 729drainer.com
@@ -61389,6 +61393,14 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+efhis.cn
+udoshbt.top
+lhtzfn.xyz
+stsesc.xyz
+gjwxy.cn
+ytoeyxz.icu
+szdtf.cn
+tyisloi.top
 talyrt.xyz
 okagcw.xyz
 vtlyrj.xyz
