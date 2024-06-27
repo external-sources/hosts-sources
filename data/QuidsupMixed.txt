@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Thu, 27 Jun 2024 16:58:07 +0000
+# Last converted - Thu, 27 Jun 2024 20:58:01 +0000
 #
 
 0i0i0i0.com
@@ -1662,7 +1662,6 @@ gdrytrk.com
 gecko-sg.byteoversea.com
 generalizebusinessman.com
 genericlink.com
-genialsleptworldwide.com
 geniusonclick.com
 geo.query.yahoo.com
 geoadnxs.com
@@ -14567,7 +14566,6 @@ smetrics.careplushealthplans.com
 smetrics.carfax.com
 smetrics.carolinacompletehealth.com
 smetrics.carphonewarehouse.com
-smetrics.cars.com
 smetrics.carters.com
 smetrics.cartersoshkosh.ca
 smetrics.casio-intl.com
@@ -14649,13 +14647,11 @@ smetrics.directlineforbusiness.co.uk
 smetrics.directv.com
 smetrics.discover.com
 smetrics.dish.co
-smetrics.disneychannel.ca
 smetrics.dnb.com
 smetrics.doingbusiness.org
 smetrics.dominos.com
 smetrics.dreamlabdata.com
 smetrics.drschollsshoes.com
-smetrics.dryerventwizard.com
 smetrics.eastwestbank.com
 smetrics.edc.ca
 smetrics.eddiebauer.com
@@ -15412,8 +15408,6 @@ tczzzlwpss.com
 tdbtrk.com
 teads.tv
 tealiumiq.com
-teamsperilous.com
-teasimilarman.com
 techlab-cdn.com
 technorail.com
 technorati.com
@@ -15455,7 +15449,6 @@ tenjin.io
 terminus.services
 terminusbedsexchanged.com
 terraclicks.com
-terrificompany.com
 tesseradigital.com
 testamenttakeoutkill.com
 textad.net
