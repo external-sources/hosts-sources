@@ -1,10 +1,15 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 27 Jun 2024 08:58:01 +0000
+# Last converted - Thu, 27 Jun 2024 13:04:13 +0000
 #
 
+slk594.com
+crambidnonutilitybayadeer.com
+theepsie.com
+lvhcqaku.com
 precedelaxative.com
+167.71.252.38
 pepiggies.xyz
 shuanshu.com.com
 kuurza.com
@@ -15673,6 +15678,7 @@ gloustoa.net
 gloutanacard.com
 gloutchi.com
 glouxaih.net
+glouzokrache.com
 gloveroadmap.com
 glovesusage.com
 glovet.xyz
@@ -19337,6 +19343,7 @@ jissingirgoa.com
 jitanvlw.com
 jitigkvqf.com
 jiuswcpdwgpwetf.com
+jivinggrazers.com
 jivskpprocrkv.com
 jiwire.com
 jizzarchives.com
@@ -22692,6 +22699,7 @@ miamribud.com
 miaouedcrevass.com
 miayarus.com
 miboundwhiffet.com
+micastpyridic.com
 micastskangli.com
 micechillyorchard.com
 micghiga2n7ahjnnsar0fbor.com
@@ -28338,6 +28346,7 @@ psoasusteech.net
 psockapa.net
 psognaih.xyz
 psojeeng.com
+psoofaltoo.com
 psoogaix.net
 psoompou.xyz
 psoopirdifty.xyz
@@ -31033,6 +31042,7 @@ salepsthiever.digital
 sales1sales.com
 salesoonerfurnace.com
 salestingoner.org
+salicylurdee.com
 salivamenupremise.com
 salivanmobster.com
 salivasboucle.top
@@ -34482,7 +34492,6 @@ theeksen.com
 theelolcuffle.top
 theelrou.net
 theenfu.com
-theepsie.com
 theessoapt.com
 theextensionexpert.com
 thefacux.com
@@ -41574,6 +41583,7 @@ ec44.site
 f090.site
 f2f8.xyz
 f417a726.xyz
+f4c9a0fb.xyz
 f6176563.site
 f816e81d.xyz
 f8a070.xyz
@@ -43916,6 +43926,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+metrics-fe-na1.hubspot.com
 pixel.mintigo.com
 api.sardine.ai
 dmp.one
@@ -51934,6 +51945,7 @@ solution911.com
 templates.buscape.com
 yestorrents.org
 oecistbenton.com
+eehhabacgieacfjeaacg.world
 bidmatic.io
 vidscriptshark.com
 1qe.info
@@ -61401,6 +61413,7 @@ gjwxy.cn
 ytoeyxz.icu
 szdtf.cn
 tyisloi.top
+pjdthz.xyz
 talyrt.xyz
 okagcw.xyz
 vtlyrj.xyz
@@ -67465,6 +67478,7 @@ yunsennet.com
 hdapp1003-a.akamaihd.net
 hdapp1008-a.akamaihd.net
 hdsrc-a.akamaihd.net
+adtodate.ir
 adrooz.com
 affilio.ir
 analyt.ir
