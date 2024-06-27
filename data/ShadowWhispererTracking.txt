@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 26 Jun 2024 20:58:52 +0000
+# Last converted - Thu, 27 Jun 2024 01:51:23 +0000
 #
 
 01counter.com
@@ -16088,6 +16088,7 @@ cm.nordpass.com
 cmnr8trk.com
 c.moes.com
 cmon.loc.gov
+cmp-cdn.ghostery.com
 cmp.cdn.the-sun.com
 cmp.cdn.thesun.co.uk
 cmp.dreamlab.pl
@@ -20898,6 +20899,7 @@ error-collector.ted.com
 errorlog.sobot.com
 errorreports.couponcabin.com
 errors.hentaiboss.com
+error-tracking.reddit.com
 ersaltametrics.com
 eruditeanalytics.com
 erutinmo.snagajob.com
