@@ -1,11 +1,13 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 28 Jun 2024 08:57:40 +0000
+# Last converted - Fri, 28 Jun 2024 13:05:10 +0000
 #
 
-outhauzours.com
+ymdgjqtu.com
+psaimpagnuhu.net
 bbdiknmwgyesw.com
+outhauzours.com
 olabdsjovla.com
 eas696r.xyz
 slk594.com
@@ -7905,6 +7907,7 @@ cavalryoppression.com
 cavebummer.com
 cavecredentialdeer.com
 caveestate.com
+cavewrap.care
 caviarconcealed.com
 cavilerestops.com
 cawbarthe.com
@@ -9807,7 +9810,10 @@ cryingforanythi.com
 cryjun.com
 cryonickru.com
 cryorganichash.com
+cryptobeneluxbanner.care
+cryptomaster.care
 cryptomcw.com
+cryptonewsdom.care
 cryptraffic.de
 cschyogh.com
 csfabdtmrs.com
@@ -16164,6 +16170,7 @@ gribblefessing.com
 gribsastiw.com
 griddedwarling.top
 gridder.co
+gridrelay27.co
 griecemae.top
 grievedclaimed.com
 grievethereafter.com
@@ -18364,6 +18371,7 @@ influencesow.com
 influxtabloidkid.com
 influxtravellingpublicly.com
 infodonorbranch.com
+infonewsz.care
 infopicked.com
 informalequipment.pro
 informantbartonharass.com
@@ -22267,6 +22275,7 @@ masqueradeflashy.com
 massacreintentionalmemorize.com
 massacresurrogate.com
 massariuscdn.com
+massbrag.care
 massecephid.uno
 massesnieces.com
 massiveunnecessarygram.com
@@ -31710,6 +31719,7 @@ sexy-sluts.org
 sexyadsrun.com
 sexyepc.com
 seynatcreative.com
+sf-ads.io
 sfafabztidi.com
 sfcfssgbrhnsb.com
 sffsdvc.com
@@ -34132,6 +34142,7 @@ taovgsy.com
 taoyinbiacid.com
 taozgpkjzpdtgr.com
 tapallpurposepantomime.com
+tapchibitcoin.care
 tapdb.net
 tapeabruptlypajamas.com
 tapestrygenus.com
@@ -37870,6 +37881,7 @@ weaped.com
 weaponsnondescriptperceive.com
 weaponvelocitypredator.com
 weaptqsmbshwd.xyz
+wearbald.care
 wearevaporatewhip.com
 wearinggenear.com
 wearishalgins.com
@@ -43951,6 +43963,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+adtrack.adleadevent.com
 metrics-fe-na1.hubspot.com
 pixel.mintigo.com
 api.sardine.ai
@@ -47437,6 +47450,9 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+r.sib2.gardrops.com
+nst.trex.media
+pixel.kodixauto.ru
 metrics.biddertmz.com
 moduleanalysis.aliexpress.com
 metrics.doppiostreams.com
@@ -54749,7 +54765,6 @@ two.fsylr.com
 ad.juksy.com
 ads.tvb.com
 cryptosplash.care
-cryptobeneluxbanner.care
 pexi.nl
 adconfigproxy.azurewebsites.net
 content2.nrc.nl
@@ -61439,6 +61454,11 @@ mdoshbx.top
 gklox.cn
 rmioswx.icu
 trvxbd.xyz
+a1bw2cup.top
+uyislot.top
+555ppp777ppp.com
+666ppp222ppp.com
+sxlmggx12.com
 efhis.cn
 udoshbt.top
 lhtzfn.xyz
