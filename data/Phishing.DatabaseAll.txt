@@ -1,7 +1,7 @@
 # Phishing.DatabaseAll
 #
 # Converted from - https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.txt
-# Last converted - Fri, 28 Jun 2024 01:52:44 +0000
+# Last converted - Fri, 28 Jun 2024 04:58:02 +0000
 #
 
 0202.com.tw
