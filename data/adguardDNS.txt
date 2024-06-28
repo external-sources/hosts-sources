@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 28 Jun 2024 04:57:46 +0000
+# Last converted - Fri, 28 Jun 2024 08:57:40 +0000
 #
 
 outhauzours.com
@@ -7908,6 +7908,7 @@ caveestate.com
 caviarconcealed.com
 cavilerestops.com
 cawbarthe.com
+cawedburial.com
 cawlavzzap.com
 cawnielammy.com
 caxist.com
@@ -27474,6 +27475,7 @@ poclorcobxo.com
 pocrd.cc
 pocrowpush.com
 podefr.net
+podgilyfattens.com
 podlersabir.com
 podosupsurge.com
 podsolnu9hi10.com
@@ -31114,6 +31116,7 @@ sandsonair.com
 sandtheircle.com
 sandwichdeliveringswine.com
 sandysuspicions.com
+sanedfalsely.com
 sanfordcessor.space
 sangeiunzen.com
 sanggilregard.com
@@ -35121,6 +35124,7 @@ torajaimbrium.top
 torattatachan.com
 torcheszocalo.top
 torchtrifling.com
+toreddorize.com
 torioluor.com
 toromclick.com
 tororango.com
@@ -38179,6 +38183,7 @@ wholecommonposts.com
 wholecoolposts.com
 wholecoolstories.com
 wholedailyfeed.com
+wholeelision.com
 wholefreshposts.com
 wholehugestories.com
 wholehugewords.com

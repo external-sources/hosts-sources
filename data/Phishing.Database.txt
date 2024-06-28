@@ -1,6 +1,6 @@
 # Phishing.Database
 #
 # Converted from - https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
-# Last converted - Fri, 28 Jun 2024 04:58:02 +0000
+# Last converted - Fri, 28 Jun 2024 08:57:55 +0000
 #
 
