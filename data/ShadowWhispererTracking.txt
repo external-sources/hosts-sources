@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Thu, 27 Jun 2024 20:58:03 +0000
+# Last converted - Fri, 28 Jun 2024 01:52:47 +0000
 #
 
 01counter.com
@@ -47566,8 +47566,6 @@ polling.bbc.co.uk
 poll.push-na.fsapi.com
 pollster.pl
 polonord.adeste.com
-polyfill.io
-polyfills.io
 polygraph.net
 pomerolpartners.com
 ponf.linkedin.com
