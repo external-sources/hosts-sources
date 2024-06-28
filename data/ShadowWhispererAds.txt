@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Fri, 28 Jun 2024 01:52:45 +0000
+# Last converted - Fri, 28 Jun 2024 04:58:03 +0000
 #
 
 00px.net
@@ -14409,6 +14409,7 @@ raptive.com
 ra.ranker.com
 ras.bigumigu.com
 ratesadagency.com
+rating-widget.com
 ravalads.com
 ravalamin.com
 ravaquinal.com
