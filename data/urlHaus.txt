@@ -1,6 +1,6 @@
 # urlHaus
 #
 # Converted from - https://urlhaus.abuse.ch/downloads/rpz/
-# Last converted - Thu, 27 Jun 2024 20:58:11 +0000
+# Last converted - Fri, 28 Jun 2024 01:52:55 +0000
 #
 

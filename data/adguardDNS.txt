@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 27 Jun 2024 20:57:46 +0000
+# Last converted - Fri, 28 Jun 2024 01:52:29 +0000
 #
 
 outhauzours.com
@@ -61430,6 +61430,10 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+mdoshbx.top
+gklox.cn
+rmioswx.icu
+trvxbd.xyz
 efhis.cn
 udoshbt.top
 lhtzfn.xyz
