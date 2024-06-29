@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Sat, 29 Jun 2024 16:58:05 +0000
+# Last converted - Sat, 29 Jun 2024 20:57:54 +0000
 #
 
 0i0i0i0.com
@@ -1998,7 +1998,6 @@ jwpltx.com
 k-analytix.com
 kaggle.io
 kalganautographeater.com
-kaloo.ga
 kalooga.com
 kameleoon.com
 kameleoon.eu
@@ -15874,7 +15873,6 @@ webtrends.com
 webtrendslive.com
 webvisor.com
 webvisor.org
-wednesdaynaked.com
 weekli.systems
 wesmallproclaim.com
 wgplayer.com
