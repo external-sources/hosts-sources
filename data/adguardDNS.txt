@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 29 Jun 2024 08:57:47 +0000
+# Last converted - Sat, 29 Jun 2024 13:01:28 +0000
 #
 
 ymdgjqtu.com
@@ -9481,6 +9481,7 @@ crcgrilses.com
 crdefault.link
 crdefault1.com
 crdfifmrm.com
+creaghtain.com
 creamssicsite.com
 creaperu.com
 createsgummous.com
@@ -16185,6 +16186,7 @@ harmvaluesrestriction.com
 harnessabreastpilotage.com
 haronfitanheck.com
 harpinhaster.top
+harpinoperose.com
 harrenmedianetwork.com
 harretrips.digital
 harrydough.com
@@ -34628,6 +34630,7 @@ ttney.com
 ttnrd.com
 ttoc8ok.com
 ttsbtdgdo.com
+ttwmed.com
 ttzmedia.com
 tubbeckfresher.life
 tubberlo.com
@@ -40435,6 +40438,7 @@ googlevads-cn.com
 5fd6bc.xyz
 605efe.xyz
 634369.xyz
+6471e7f7.xyz
 657475b7-0095-478d-90d4-96ce440604f9.online
 68646f.xyz
 691f42ad.xyz
