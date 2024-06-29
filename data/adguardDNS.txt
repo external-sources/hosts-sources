@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 28 Jun 2024 20:57:50 +0000
+# Last converted - Sat, 29 Jun 2024 01:47:22 +0000
 #
 
 ymdgjqtu.com
@@ -8707,7 +8707,6 @@ clickexperts.net
 clickgate.biz
 clickgate08.biz
 clickintext.com
-clickiocdn.com
 clickmi.net
 clickmobad.net
 clicknano.com
@@ -19828,6 +19827,7 @@ jyozavoyyyjbj.top
 jyozavoyyykby.top
 jyqekzewvyojy.top
 jyrfbtmbuqeaeo.com
+jysocexrxbodh.com
 jytbxzil.com
 jyuirxswk.com
 jywczbx.com
@@ -26596,6 +26596,7 @@ pc5ads.com
 pccasia.xyz
 pcdgninekvch.com
 pcfchubby.top
+pcglvhrln.com
 pchcwqsfaqpw.com
 pcheahrdnfktvhs.xyz
 pcirurrkeazm.com
@@ -44602,6 +44603,7 @@ cdn.sophi.io
 analytics.churnzero.net
 trk.reclameaqui.com.br
 events-api.gazetadopovo.com.br
+s.clickiocdn.com
 i-cmg-amlg-prod.appspot.com
 a.myfidevs.io
 capture-api.autopilotapp.com
@@ -61461,6 +61463,13 @@ uyislot.top
 555ppp777ppp.com
 666ppp222ppp.com
 sxlmggx12.com
+adhvz.cn
+qeedaa.xyz
+ldoshbl.top
+kfycmiu.icu
+xrmfjzqo.xyz
+bbxyxt.xyz
+5gxs.org
 efhis.cn
 udoshbt.top
 lhtzfn.xyz
