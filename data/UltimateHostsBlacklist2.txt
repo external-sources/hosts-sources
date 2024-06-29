@@ -1,7 +1,7 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sat, 29 Jun 2024 04:58:14 +0000
+# Last converted - Sat, 29 Jun 2024 08:58:18 +0000
 #
 
 real-estate-express.pxf.io
