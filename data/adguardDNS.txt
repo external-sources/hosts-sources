@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 30 Jun 2024 08:57:54 +0000
+# Last converted - Sun, 30 Jun 2024 13:01:09 +0000
 #
 
+vsmokhklbw.com
 pliblcc.com
 biblecollation.com
 ymdgjqtu.com
@@ -49960,6 +49961,7 @@ wtr-digital-analytics.ew.r.appspot.com
 x.disq.us
 x.weather.com
 xp2023-pix.s3.amazonaws.com
+yoast-schema-graph.com
 adsdk.yandex.ru
 analytics.samsungknox.com
 app.chat.xiaomi.net
@@ -60390,6 +60392,7 @@ blzwvb.xyz
 ddomjhr.icu
 hgngrf.xyz
 666ppp888ppp.com
+crlsxny.xyz
 efhis.cn
 udoshbt.top
 lhtzfn.xyz
