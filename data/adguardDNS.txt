@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 30 Jun 2024 20:57:34 +0000
+# Last converted - Mon, 01 Jul 2024 02:02:17 +0000
 #
 
 vsmokhklbw.com
@@ -60395,6 +60395,11 @@ ddomjhr.icu
 hgngrf.xyz
 666ppp888ppp.com
 crlsxny.xyz
+xkesqbp.icu
+aclsx.cn
+htrurb.xyz
+qkikkg.xyz
+vatzxd.xyz
 efhis.cn
 udoshbt.top
 lhtzfn.xyz
