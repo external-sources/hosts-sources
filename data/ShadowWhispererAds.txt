@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 01 Jul 2024 13:10:16 +0000
+# Last converted - Mon, 01 Jul 2024 16:58:09 +0000
 #
 
 00px.net
@@ -9526,6 +9526,7 @@ ez-results.ca
 ez-tracks.com
 f11-ads.com
 f27tltnd.de
+f4820863aa87c160a3ba03a2a4c91c01.com
 f5advertising.com
 f9tmep.net
 fabcomlive.com
@@ -13571,6 +13572,7 @@ pivotrunner.com
 piwhecyfo.pro
 pixability.com
 pixalate.com
+pixel.ad
 pixeladss.com
 pixelbucks.com
 pixelpie.com

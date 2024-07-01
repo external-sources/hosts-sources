@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Mon, 01 Jul 2024 13:10:18 +0000
+# Last converted - Mon, 01 Jul 2024 16:58:11 +0000
 #
 
 01counter.com
@@ -45618,7 +45618,6 @@ pixel.academiamob.com
 pixel.academydeboramaximo.com
 pixel.aceleradesign.com
 pixel.activoendigital.com
-pixel.ad
 pixel.adensemble.com
 pixel.administradores.com
 pixel.adrianviveros.com
@@ -70261,6 +70260,7 @@ typicalairplane.com
 typicalteeth.com
 tysnttrk.com
 tz98trk.com
+tzegilo.com
 t.zelboraf.com
 t.zip.co
 tzwaw.pw
