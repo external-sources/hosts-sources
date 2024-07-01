@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Mon, 01 Jul 2024 16:58:09 +0000
+# Last converted - Mon, 01 Jul 2024 20:58:18 +0000
 #
 
 0i0i0i0.com
@@ -1217,9 +1217,7 @@ crispadvertising.com
 criteo.com
 criteo.net
 criticaltriggerweather.com
-crobo.com
 crosspromo.voodoo.io
-crowdignite.com
 crsspxl.com
 crumblerefunddiana.com
 crumbtypewriterhome.com
@@ -1301,7 +1299,6 @@ devaccess.easy4ipcloud.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 devicelog.samsungcloudsolution.net
-devnxs.net
 dewrain.life
 dewrain.site
 dewrain.world
