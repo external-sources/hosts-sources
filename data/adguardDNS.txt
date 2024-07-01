@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 01 Jul 2024 08:57:50 +0000
+# Last converted - Mon, 01 Jul 2024 13:09:57 +0000
 #
 
+dj2550.com
 vsmokhklbw.com
 pliblcc.com
 biblecollation.com
@@ -38739,7 +38740,6 @@ zewoagoo.com
 zeyappland.com
 zeydoo.com
 zeypreland.com
-zfctrack.net
 zfeaubp.com
 zferral.com
 zfgyvoarqreba.com
@@ -38758,7 +38758,6 @@ zgsqnyb.com
 zgtkxwqgebintr.com
 zgxxvdlxc.com
 zhaner.xyz
-zhctrack.net
 zhedvge.com
 zhej78i1an8w6ceu.com
 zhfvwkkftg.com
@@ -60401,6 +60400,8 @@ vatzxd.xyz
 cdipsumf.top
 twamjb.cn
 hdipsumu.top
+cdilm.cn
+uiakq.top
 efhis.cn
 udoshbt.top
 lhtzfn.xyz
