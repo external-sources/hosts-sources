@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Mon, 01 Jul 2024 13:10:19 +0000
+# Last converted - Mon, 01 Jul 2024 16:58:13 +0000
 #
 
 010.at
@@ -470,6 +470,7 @@ clkr.in
 clk.vc
 clmp.me
 cloudradar.net
+cloudshrinker.com
 cloudtechlinks.com
 clourls.com
 cml.lol
