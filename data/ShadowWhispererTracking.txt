@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Mon, 01 Jul 2024 04:58:07 +0000
+# Last converted - Mon, 01 Jul 2024 08:58:10 +0000
 #
 
 01counter.com
@@ -21175,6 +21175,7 @@ events.smartgroupltd.co.uk
 events.smartlive.co.uk
 events.smct.co
 events.smurfitkappa.com
+events.split.io
 events.squarespace.com
 events.syngeneintl.com
 events.teammed.com.au
@@ -22419,6 +22420,7 @@ geoip.tools
 geoip.totallifechanges.com
 geoip.transit.finance
 geoip.vcomm.io
+geoip.youversionapi.com
 geojs.io
 geoloc.3dvista.com
 geolocalization.interia.pl
@@ -68075,6 +68077,7 @@ team.americaneagle.com
 team.ditto.com
 team-rec.jp
 team.rmhc.org.nz
+teams.events.data.microsoft.com
 teams.yovu.ca
 teamwork.ai
 tearfulglass.com
