@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 01 Jul 2024 04:58:04 +0000
+# Last converted - Mon, 01 Jul 2024 08:58:08 +0000
 #
 
 00px.net
@@ -11854,6 +11854,7 @@ mastertms.com
 match2one.com
 matchboxindia.com
 matchcraft.com
+matchgroup-tinder.adsbynimbus.com
 mateadvertising.bg
 mathads.com
 mathnixadvertising.com

@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 01 Jul 2024 04:57:43 +0000
+# Last converted - Mon, 01 Jul 2024 08:57:50 +0000
 #
 
 vsmokhklbw.com
@@ -54527,7 +54527,6 @@ jssdkcdns.mparticle.com
 js.hs-banner.com
 keenstockholm.com.se
 ksdarprt.reseguiden.se
-kyrkoskatten.se
 lanapengar.expressen.se
 lararforbundet.analytics.ozzi.io
 lasso.link
@@ -54680,7 +54679,6 @@ tag.heylink.com
 tagging-service.fotbollskanalen.se
 tagging-service.tv4play.se
 tagging-service.tv4.se
-tapet.bonniernews.se
 telemetry.bambuser.io
 tools.ascontentcloud.com
 toppmarkensverige.com
@@ -56310,7 +56308,7 @@ binh-chonthang7.weebly.com
 binhchon-gionghatvietnhi-2022.weebly.com
 binhchon-gionghatvietnhi-vong1-nam2022.weebly.com
 binhchonanhduthicuabe2022.weebly.com
-binhchoncuocthivetranhsinhvien2024.wee
+binhchoncuocthivetranhsinhvien2024.weebly.com
 binhchonduthitainang2022mua3.weebly.com
 binhchongionghatviet2019.weebly.com
 binhchongionghatvietnhi2021vietnames.weebly.com
@@ -60400,6 +60398,9 @@ aclsx.cn
 htrurb.xyz
 qkikkg.xyz
 vatzxd.xyz
+cdipsumf.top
+twamjb.cn
+hdipsumu.top
 efhis.cn
 udoshbt.top
 lhtzfn.xyz
