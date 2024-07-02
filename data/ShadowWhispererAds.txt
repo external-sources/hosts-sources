@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 01 Jul 2024 20:58:19 +0000
+# Last converted - Tue, 02 Jul 2024 01:53:46 +0000
 #
 
 00px.net
@@ -17848,6 +17848,7 @@ wkads.com
 wmadv.com
 w.makemydeal.com
 wmptctl.com
+wmptengate.com
 wns.windows.com
 woco.app
 wofollow.com
