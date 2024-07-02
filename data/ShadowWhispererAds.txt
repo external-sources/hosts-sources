@@ -1,11 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-<<<<<<< HEAD
-# Last converted - Tue, 02 Jul 2024 16:11:18 +0000
-=======
-# Last converted - Tue, 02 Jul 2024 17:08:02 +0000
->>>>>>> refs/remotes/0xacab/master
+# Last converted - Tue, 02 Jul 2024 22:54:35 +0000
 #
 
 00px.net
@@ -8707,6 +8703,8 @@ daotag.com
 dapperdeal.pro
 darchermedia.com
 darling.nyc
+dartcdnfor.com
+dartcdnshop.com
 dartsearch.net
 darvorn.com
 das.epochtimes.com
@@ -17006,6 +17004,7 @@ twinrtb.com
 twinsrv.com
 twipel.com
 twitchadvertising.tv
+twitchcdnfor.com
 twitchcdnshop.com
 twitter-badges.s3.amazonaws.com
 tw-mms.theweek.co.uk

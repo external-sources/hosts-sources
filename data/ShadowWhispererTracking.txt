@@ -1,11 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-<<<<<<< HEAD
-# Last converted - Tue, 02 Jul 2024 16:11:20 +0000
-=======
-# Last converted - Tue, 02 Jul 2024 17:08:04 +0000
->>>>>>> refs/remotes/0xacab/master
+# Last converted - Tue, 02 Jul 2024 22:54:39 +0000
 #
 
 01counter.com
@@ -15757,6 +15753,8 @@ clearbit.com
 clearbitjs.com
 clearbitscripts.com
 clearcabbage.com
+clear.link
+clearlink.com
 clear-reports.com
 clear.sale
 clearsale.com.br
@@ -17473,6 +17471,7 @@ cs.soloel.com
 cssubmissions.apple.com
 cs.sunbit.co.jp
 cstat.apple.com
+cstat.cdn-apple.com
 cstat.wap.sasisa.ru
 cst.innogames.de
 c.strava.com
@@ -37647,6 +37646,7 @@ nuevocliente.iagcargo.com
 nulldiscussion.com
 nullnorth.com
 numberlessring.com
+numbers.tvmaze.com
 numerator.com
 numericalinsights.com
 numerino.cz
@@ -57287,6 +57287,7 @@ stat.buerobedarf-online.de
 stat.buschi76.de
 stat.buyersedge.com.au
 stat.bygghjalp.fi
+stat.bytebursttech1.link
 stat.caaraklinikka.com
 stat.caaraklinikka.net
 stat.cabinetparts.com

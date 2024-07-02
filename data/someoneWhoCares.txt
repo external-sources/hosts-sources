@@ -1,11 +1,7 @@
 # someoneWhoCares
 #
 # Converted from - https://someonewhocares.org/hosts/hosts
-<<<<<<< HEAD
-# Last converted - Tue, 02 Jul 2024 16:11:22 +0000
-=======
-# Last converted - Tue, 02 Jul 2024 17:08:12 +0000
->>>>>>> refs/remotes/0xacab/master
+# Last converted - Tue, 02 Jul 2024 22:54:42 +0000
 #
 
 127.0.0.1	localhost

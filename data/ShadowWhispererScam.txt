@@ -1,11 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-<<<<<<< HEAD
-# Last converted - Tue, 02 Jul 2024 16:11:19 +0000
-=======
-# Last converted - Tue, 02 Jul 2024 17:08:04 +0000
->>>>>>> refs/remotes/0xacab/master
+# Last converted - Tue, 02 Jul 2024 22:54:38 +0000
 #
 
 007-dvd.com
@@ -127,6 +123,7 @@
 2ndlicense.com
 2ndpassportonline.com
 2redbeans.com
+321webmarketing.com
 360cashout.com
 360commoditysolutions.com
 365adminsupport.com
@@ -311,6 +308,7 @@ adoptme.cool
 adoptpawsonline.com
 adorablebeaglepuppies.com
 adorablebeaglepuppiesforsalenear.com
+adorablebelgianmalinoispuppies.com
 adorablecorgihome.com
 adorabledoodlefarm.com
 adorablefrenchiehome.com
@@ -337,6 +335,7 @@ adorableteacupchihuahuas.online
 adorablewelshcorgipuppieshome.com
 adorableyorkieandpoodlepuppies.com
 adorableyorkiepups.xyz
+adorasheltiepups.com
 adorob.com
 adowniferta.co
 adoworshipre.com
@@ -478,6 +477,7 @@ akcpetshop.com
 akcpitbulls.com
 akcpomeranians.net
 akcqualitydachshunds.com
+akcqualitydobermanpuppies.com
 akcqualityjackrussells.com
 akcregisteredpomeranians.com
 akctcupyorkieshome.us
@@ -507,6 +507,7 @@ alexlivestockfarms.com
 alexorlandopomeranians.com
 alfaimportexportgroup.co.za
 alfamedchemical.org
+alfonsomainecoons.com
 aliceagency.com
 aliciagreyparrots.com
 alientee.com
@@ -616,6 +617,7 @@ amantisecreti.com
 amanug.com
 amarexlogisticscarrier.com
 amarillogazette.com
+amarionteacupyorkies.com
 amassstore.com
 amateur-gay.eu
 amatorhome.com
@@ -652,6 +654,7 @@ americaneskimohome.com
 americanflightsupport.com
 americanflings.com
 americanpharmacynews.com
+americanpitbullparadise.com
 american-primers.com
 americanquartarhorseforsale.com
 americansecuritynews.com
@@ -779,6 +782,7 @@ anserdaad.com
 answersby.com
 antcozy.com
 antelopevalleytoday.com
+anthonykittenshome.co.za
 anthonymangun.info
 anticipateh.com
 anticipatory.net
@@ -912,6 +916,7 @@ armsgunshop.com
 armsmories.com
 armsplug.com
 army-dates.com
+armydefencebase.com
 army-shop.onshopbase.com
 aromaticherbalincense.com
 aronsfirearms.com
@@ -933,6 +938,7 @@ artilleryshoponline.com
 artisangemantiques.com
 asakeoral.com
 ascuteas.com
+asenginespares.com
 asfoambypas.com
 asgcourierservices.com
 ashdavefrenchies.com
@@ -1014,6 +1020,7 @@ aultammodepot.net
 aunbox.com
 aungame.com
 au-psychedelics.com
+aurorabassethoundpuppies.com
 aurorashirt.com
 ausgewaehlter-gewinner.de
 ausgewaehltergewinner.de
@@ -1172,6 +1179,7 @@ baryman.com
 basiccharm.online
 basicion.com
 bassethoundfamily.org
+bassetparadise.com
 basurtoranchoftexas.com
 batdongsannew.info
 batefood.com
@@ -1427,6 +1435,7 @@ bigskytimes.com
 big-tits-dating.com
 bigvapestore.com
 bigweedmarket.com
+biilona.com
 bikeaccessoriesshop.com
 bikehighway.com
 bikemania.biz
@@ -1511,6 +1520,7 @@ blockexchange.live
 bloofy.co
 bloomingtonleader.com
 blossomflowerdelivery.com
+blossomscoonscattery.com
 blottera.com
 blouche.com
 blucorgihomes.com
@@ -1790,6 +1800,7 @@ buyaustralianpuppy.com
 buybestguns.com
 buybitcoinminingmachineonline.com
 buybolivianonline.com
+buybostonterrier.org
 buybostonterrierpuppies.company.com
 buybotoxonline.net
 buybourbonwhiskeyonline.com
@@ -1976,6 +1987,7 @@ caligreengates.com
 calimarijuanad.com
 calimedsstore.com
 calionlineshop.net
+calipacksstore.com
 caliparrotsforsale.com
 caliplugfarm.com
 caliplugshop.com
@@ -2029,6 +2041,7 @@ caneswitch.com
 canifatee.com
 canikgunsshop.com
 canikgunstore.com
+canineoasis.co.za
 caninepuppykennel.co.za
 cannabidiol4hemp.com
 cannabisavenue.net
@@ -2171,6 +2184,7 @@ categoryg.com
 cathedraly.com
 cathinonestore.com
 catholicpethome.com
+cathydachshund.com
 catshopheaven.com
 cattylovesline.com
 cattylovesline.net
@@ -3069,6 +3083,7 @@ cutecapuchinmonkeys.com
 cutedachshundpuppiesforsale.com
 cutedobermanndogs.com
 cuteemerge.com
+cutefarretshome.com
 cutegermanshepherdshome.com
 cutegoddesses.com
 cutegreatdanepuppies.com
@@ -3080,6 +3095,7 @@ cutemicropups.us
 cutepuppiesforsalenearme.com
 cuteragdolls4sale.com
 cute-shit-tzu-puppies.com
+cutesmallteacupyorkiepuppies.com
 cutestdream.com
 cutestmaltipoolittersforsale.com
 cutestpugpuppieshome.zohosites.com
@@ -3113,6 +3129,7 @@ dachshunddreamteam.com
 dachshundf4l.com
 dachshundfamily.com
 dachshundfamilypups.com
+dachshundhavenaus.com
 dachshundhome.net
 dachshundhomes.com
 dachshundinn.com
@@ -3242,6 +3259,7 @@ deanbritishshorthairkittens.com
 dearuog.us
 debadibux.info
 debbieandrexpattersonteacupyorkiepuppiesforrehoming.com
+debpupsplace.site
 debraboxerpuppieshome.com
 debtpaygateway.com
 debusinessdaily.com
@@ -3287,6 +3305,7 @@ deluxe-fxtrading.com
 deluxewestiepuppieshome.com
 delydecent.com
 demandfair.space
+deminexpress.com
 demirtcaretchemltd.com
 democraticn.com
 democraticunderground.com
@@ -3303,6 +3322,7 @@ denvermagicmushroomstore.net
 denvermagicmushroomstore.us
 denverpuppy.com
 departmentofdefencecamps.com
+departmentofdefenseboard.com
 departmentsofdefencebase.com
 dependabledocuments.com
 depictoanw.com
@@ -3870,6 +3890,7 @@ eliteshotgunshop.com
 elitesingles.ca
 elitesingles.com
 eliteteacupyorkies.com
+elitewelshcorgis.com
 elitiqos.com
 elixirmedic.com
 elizabethtowntimes.com
@@ -4104,6 +4125,7 @@ euthanasiagroup.com
 euthanasiameds.com
 evacam.fr
 evagreenpuppystore.com
+evangoldendoodles.com
 evatee.com
 evelyndachshsundforlife.com
 everglowpuppies.com
@@ -4165,6 +4187,7 @@ exoticparrotstore.com
 exoticpethome.com
 exoticragdollkittens.com
 exoticretrieverskennel.com
+exoticshihtzupupshome.com
 exoticshorthairscattery.com
 exoticsstrains.com
 exoticsvapeshop.com
@@ -4450,6 +4473,7 @@ findwarehouse.space
 findxxxmatches.com
 finedream.net
 finehairpin.com
+finepaperco.com
 finepearlw.com
 finestore.vip
 finestpitbullsmade.com
@@ -4607,6 +4631,7 @@ foreverpuppiesforadoption.com
 forever-pups.com
 forexhiexperts.com
 forexstocktrade247.com
+forgebiologics.com
 forkliftproo.com
 formr.io
 formulalm.com
@@ -5149,6 +5174,7 @@ globalshservices.com
 globalsisalltd.com
 globaltouchcargo.com
 global-tranzlogistics.com
+globaluklicence.com
 globalwidedata.com
 globe-green.com
 globewayexport.com
@@ -5768,6 +5794,7 @@ homesizy.com
 homesmakeovers.com
 hometooldian.com
 hometrainedbernedoodles.com
+homeyourmaltese.com
 homiemart.com
 homogenouse.com
 hondaoemparts1.com
@@ -5926,6 +5953,7 @@ icondachshunds.com
 iconmov.com
 icresolution.com
 ictable.com
+idandpassports.com
 idaoffice.org
 idates.com
 idbusinessdaily.com
@@ -6206,6 +6234,7 @@ jacandsharppapers.com
 jacbike.com
 jackethe.com
 jackpotwinner.net
+jackrussellpuppiesfarm.com
 jackrussellterrierbreeders.com
 jackrussellterrierkennel.com
 jackrussellterrier.store
@@ -6274,6 +6303,8 @@ jetzt-absahnen.de
 jewelleryshop-au.com
 jewelteacuppuppies.com
 jfpureminidachshundhome.com
+jgfood-drinkgmbh.com
+jgfoodgmbh.de
 jgg-trading.com
 jgtjnews.website
 jhgoldendoodlekennel.com
@@ -6329,6 +6360,7 @@ jovialpetsworld.co.za
 joydistance.com
 joyfuljodieshome.com
 joyfullittlebabies.com
+joygivergsdbreederhome.com
 joyjoywego.com
 joyloveapparel.com
 joymadpoultryfarmingtrading.co.za
@@ -6494,6 +6526,7 @@ kimonzie.com
 kindduckling.com
 kingarms-store.com
 kingbordercolliepuppies.com
+kingcanecorsoden.com
 kingcharlesfamilykennel.com
 kingdomhack.com
 kingelevenlogistics.com
@@ -6636,6 +6669,7 @@ laredotimes.com
 largeflour.com
 largelye.com
 larimernews.com
+larrysgoldiehome.com
 lasolstore.com
 lastamericangirl.com
 lastamperia.cl
@@ -6727,6 +6761,7 @@ lenovoservicemsk.ru
 lenovousbdriver.com
 lentrevue.com
 leonplum.com
+leopardconsignintll.com
 leostee.com
 leoteacuppuppies.com
 lepilotefarm.co.za
@@ -6909,6 +6944,7 @@ looseteeshirt.com
 lopqac.com
 loraintimes.com
 lordteeshirt.com
+loreleiboxerpuppies.com
 lorisaddles.com
 lorraineblueheelerhome.com
 lorrainecanecorsohome.com
@@ -7029,6 +7065,7 @@ luxurycasino.com
 luxuryfrenchbulldogsonline.com
 luxurykittens.online
 luxurypuppies2u.com
+lydiwaypuppieshome.co.za
 lyfeunit.com
 lyfoiegras.com
 lykahomeraisedpuppies.com
@@ -7274,7 +7311,9 @@ mcleancountytimes.com
 mclinlabradors.com
 mc-premium.org
 mcpremka.pl
+mcprograms.com
 mdbusinessdaily.com
+mdenginegearbox.com
 mdexpresso.com
 mdmexclusives.com
 mdstatewire.com
@@ -7491,6 +7530,7 @@ milftreffer.com
 milftreff.net
 milfzentrale.com
 militarydefencecamps.com
+militarydefencecommand.com
 militarywelfareboard-usa.com
 milkymint.com
 milleaveportal.org
@@ -7518,6 +7558,7 @@ miniatureschnauzerpuppyforsale.com
 miniaturesdaschundspuppies.com
 miniaturey.com
 minibrick.net
+minidachshundcanine.com
 minidachshundhome.com
 minidachshundhomes.com
 minidachshundpupsforrehoming.com
@@ -8869,6 +8910,7 @@ phisuperior.com
 phoenixcorp.fr
 phoenixdstore.com
 phoenixmaincoons.com
+phonepaseuthpapers.com
 phone-supportnumbers.com
 phonesupportnumbers.com
 phonesupportnumbers.net
@@ -9410,6 +9452,7 @@ psykedeliskmarknad.com
 ptgay.net
 ptionloppo.com
 ptlesbicas.com
+ptmcontainers.com
 pttoc.info
 pubchemicals.com
 pubertyidea.com
@@ -9667,6 +9710,7 @@ rapidfireshippings.com
 rapidgrow.io
 rapidityrap.com
 rapidloan.ca
+rapid-transport-essex.co.uk
 rappedmedstore.com
 rapportisegreti.it
 rapscallionpaws.com
@@ -9787,6 +9831,7 @@ rejoicingwell.com
 rejuvenatefillers.com
 related-dating.com
 relation-adultere.com
+relavomedical.com
 relazionibdsm.com
 relctantrly.com
 reliablebanknotes.com
@@ -10084,6 +10129,7 @@ royaldanesmd.com
 royaldecorhome.store
 royaldobermannkennelstn.com
 royalexoticfish.com
+royalexoticpetsshop.com
 royalfieldcouriers.com
 royalflushaht.com
 royalgermanshepherd.com
@@ -10603,6 +10649,7 @@ shyrainbow.net
 shytobluesky.com
 siam-moon.net
 siannakennel.com
+siberianhuskiespuppieshome.com
 siberianhuskymarvels.com
 siberianhuskypupforsale.com
 siberianhuskysnow.com
@@ -10662,6 +10709,7 @@ situationk.com
 sixthpandas.com
 siyoshop.com
 skafrica.com
+skiletex.com
 skincare99.com
 skinsize.com
 skinsociety.me
@@ -10714,6 +10762,7 @@ smartcorgihome.com
 smarterpetsupplies.com
 smartestbritishshorthairkittens.com
 smartfrenchbulldogpups.com
+smartgreatdanepuppies.com
 smarthavanesepuppiesshop.com
 smartk9germanshepherds.com
 smartlabretrieverpuppies.com
@@ -11307,6 +11356,7 @@ swipe-messenger.com
 swipetok.com
 swiss123.com
 swissonlinedating.ch
+switchbichonsmiles.site
 switchcharm.online
 switchcredits.com
 swkansasnews.com
@@ -11897,6 +11947,7 @@ tracyos.com
 tradecoin2cash.com
 tradefxconnect.com
 tradefxmine.com
+tradeit.gg
 tradenestle.com
 tradesmany.com
 tradexmetals.com
@@ -12213,6 +12264,7 @@ usagc.org
 usaglock.com
 usagunfactory.com
 usahornadyammostore.com
+usairforcemilitary.com
 usakeltecguns.com
 usalibertyarmshop.com
 usalws.com
@@ -12246,6 +12298,7 @@ ushipdispatch.online
 u-shippettransport.com
 ushippettransport.com
 us-lifestyle.com
+usmilitarycamp.com
 usnationalhealth.com
 uspassport-apply.com
 uspatrick.com
@@ -12547,6 +12600,7 @@ weedxpressuk.com
 weeklyworldnews.com
 wegmansd.com
 weheartitstore.com
+weilongspzoo.com
 weimob.shop
 wekickbrass.com
 wellbredlitters.com
@@ -12907,6 +12961,7 @@ yorkieandmalteseforsales.com
 yorkieandpomeranianpuppies.com
 yorkieparadies.com
 yorkieplusmaltese.store
+yorkiepuppiesavail.com
 yorkiepuppiesforsalenearme.com
 yorkiepuppiesforsalenearme.online
 yorkie-puppies-home.myfreesites.net
@@ -12951,6 +13006,7 @@ yubiemaltipoopupsfamily.com
 yucky-water.com
 yumtshirt.com
 yuukitee.com
+yvpoultrynlivestock.co.za
 za-gifts.com
 zanellepurebredpuppies.co.za
 zanteeshop.com

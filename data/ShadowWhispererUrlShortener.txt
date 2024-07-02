@@ -1,11 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-<<<<<<< HEAD
-# Last converted - Tue, 02 Jul 2024 16:11:21 +0000
-=======
-# Last converted - Tue, 02 Jul 2024 17:08:05 +0000
->>>>>>> refs/remotes/0xacab/master
+# Last converted - Tue, 02 Jul 2024 22:54:41 +0000
 #
 
 010.at
@@ -878,6 +874,7 @@ imo.cx
 imprinttoday.live
 incab.us
 indtr.ee
+indvix.com
 inf.money
 inf.so
 infs.site
@@ -1342,6 +1339,7 @@ one9.one
 oneany.shop
 onlypaste.it
 onon.in
+oo0oo.icu
 opent2.com
 ops.consulting
 oqp.ru

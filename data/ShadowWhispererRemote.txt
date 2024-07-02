@@ -1,11 +1,7 @@
 # ShadowWhispererRemote
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
-<<<<<<< HEAD
-# Last converted - Tue, 02 Jul 2024 16:11:19 +0000
-=======
-# Last converted - Tue, 02 Jul 2024 17:08:04 +0000
->>>>>>> refs/remotes/0xacab/master
+# Last converted - Tue, 02 Jul 2024 22:54:38 +0000
 #
 
 01com.com
@@ -33,6 +29,7 @@ dameware.com
 deskshare.net
 deskviewer.me
 devicevm.com
+dwservice.net
 dyngate.com
 dyngate.org
 famatech.com
