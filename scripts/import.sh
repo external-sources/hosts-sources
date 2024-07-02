@@ -188,13 +188,28 @@ echo "Imported openfish.com"
 echo ""
 echo "Importing Phishing Database"
 mkdir -p "${git_dir}/data/phishing_database/"
-c "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt" -o "${git_dir}/ALL-phishing-links.txt"
-perl -MDomain::PublicSuffix -lne '
-    BEGIN{$s = Domain::PublicSuffix->new}
-    print if $_ eq $s->get_root_domain($_)' </tmp/ALL-phishing-links.txt |
-    sed -r 's/^(https?|ftp)\:\/\///g;s/\/.*//g;s/.*@//g;s/\.$//g;/((1?[0-9][0-9]?|2[0-4][0-9]|25[0-5])\.){3}(1?[0-9][0-9]?|2[0-4][0-9]|25[0-5])$/d;/\^.$/d' | uniq | python3 "${git_dir}/scripts/domain-sort.py" >"data/phishing_database/ALL-phishing-links.txt"
+# wget "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt" -qO-
+# perl -MDomain::PublicSuffix -lne '
+#    BEGIN{$s = Domain::PublicSuffix->new}
+#    print if $_ eq $s->get_root_domain($_)' </tmp/ALL-phishing-links.txt |
+#    sed -r 's/^(https?|ftp)\:\/\///g;s/\/.*//g;s/.*@//g;s/\.$//g;/((1?[0-9][0-9]?|2[0-4][0-9]|25[0-5])\.){3}(1?[0-9][0-9]?|2[0-4][0-9]|25[0-5])$/d;/\^.$/d' | uniq | python3 "${git_dir}/scripts/domain-sort.py" >"data/phishing_database/ALL-phishing-links.txt"
 
-rm -f "${git_dir}/ALL-phishing-links.txt"
+# This line includes the sed regex from below
+# perl -mDomain::PublicSuffix -wlne 'BEGIN { $DPS = Domain::PublicSuffix->new({ allow_unlisted_tld => 1 }); } s!^(?:ftp|https?)://!!; s![/?#].*!!; s!^.*\@!!; s!:\d+\z!!a; s!\.\z!!; if (/[^._\-[:^punct:]]/) { warn "contains punctuation; skipping $_ ...\n"; next } my $root = $DPS->get_root_domain($_) // do { warn "no root domain; skipping $_ ...\n"; next }; print $root' ALL-phishing-links.txt | sort -u
+
+perl -lne 's!^(?:ftp|https?)://!!;
+  s![/?#].*!!;
+  s!^.*\@!!;
+  s!:\d+\z!!a;
+  s![.]$!!;
+  next if /^[\d.]+\z/a;
+  if (/[^._\-[:^punct:]]/) { warn "skipping $_ ...\n";
+  next } print lc $_' - \
+  | sort -u \
+  | uniq -i \
+  | python3 "${git_dir}/scripts/domain-sort.py" >"data/phishing_database/ALL-phishing-links.txt"
+
+# | sort -u | python3 "${git_dir}/scripts/domain-sort.py" >"data/phishing_database/ALL-phishing-links.txt"
 
 echo "Done importing Phishing Database"
 echo ""
