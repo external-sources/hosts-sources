@@ -185,16 +185,22 @@ echo "Imported openfish.com"
 # echo "START importing @mitchellkrogza's many lists"
 
 # Perlscript as by https://unix.stackexchange.com/a/745455
-
+echo ""
+echo "Importing Phishing Database"
+set -x
 mkdir -p "${git_dir}/data/phishing_database/"
-c "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt" >/tmp/ALL-phishing-links.txt
+wget "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt" -O "${git_dir}/ALL-phishing-links.txt"
 perl -MDomain::PublicSuffix -lne '
     BEGIN{$s = Domain::PublicSuffix->new}
     print if $_ eq $s->get_root_domain($_)' </tmp/ALL-phishing-links.txt |
     sed -r 's/^(https?|ftp)\:\/\///g;s/\/.*//g;s/.*@//g;s/\.$//g;/((1?[0-9][0-9]?|2[0-4][0-9]|25[0-5])\.){3}(1?[0-9][0-9]?|2[0-4][0-9]|25[0-5])$/d;/\^.$/d' | uniq | python3 "${git_dir}/scripts/domain-sort.py" >"data/phishing_database/ALL-phishing-links.txt"
 
+rm -f "${git_dir}/ALL-phishing-links.txt"
+
+echo "Done importing Phishing Database"
 # mkdir -p "${git_dir}/data/mitchellkrogza/badd_boyz_hosts/"
-# echo ""
+echo ""
+set +x
 # echo "Badd-Boyz-Hosts"
 # echo ""
 # ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/mitchellkrogza/badd_boyz_hosts/domain.list"
