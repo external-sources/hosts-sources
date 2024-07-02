@@ -1,5 +1,7 @@
 <?php
-//script source https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/converter.php
+// script source https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/converter.php
+// https://github.com/r-a-y/mobile-hosts/blob/master/
+// License: GPL-3.0 https://github.com/r-a-y/mobile-hosts/blob/master/LICENSE
 // Add our lists.
 $lists = array(
     'adAway' => 'https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt',
@@ -46,7 +48,7 @@ $lists = array(
     'phishingArmy' => 'https://phishing.army/download/phishing_army_blocklist_extended.txt',
     'Phishing.Database' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt',
     'Phishing.DatabaseAll' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.txt',
-    'Phishing.DatabaseAllLinks' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt',
+    // 'Phishing.DatabaseAllLinks' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt',
     'QuidsupMixed' => 'https://quidsup.net/notrack/blocklist.php?download=trackersdomains',
     'ShadowWhispererAds' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads',
     'ShadowWhispererApple' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple',

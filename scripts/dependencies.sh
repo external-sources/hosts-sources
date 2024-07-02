@@ -3,7 +3,7 @@
 # The perpose of this script is to import various eternal hosts files into lists
 # that contail only domain.tld for easier working with the lists to our RPZ files
 
-# Exit on any erros
+# Exit on any errors
 
 set -e
 
@@ -27,4 +27,5 @@ bash -c "$(curl -sL https://raw.githubusercontent.com/ilikenwf/apt-fast/master/q
 
 apt-fast update -yqq
 #apt-fastdist-upgrade -yqq
-apt-fast install -yqq openssh-client curl wget dos2unix ldnsutils
+apt-fast install -yqq openssh-client curl wget dos2unix ldnsutils \
+    libdomain-publicsuffix-perl

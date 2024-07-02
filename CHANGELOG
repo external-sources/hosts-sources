@@ -1,8 +1,11 @@
-21 June 2020
+02. July 2024
+    - Added Phishing.Database/ALL-phishing-links.txt
+    - Added and started using perl
+    
+21. June 2020
 	- Updated the HpHost location
 	- Adding .dtq zones
 	- Updated the code for blocklist.site to use array
 
 15. January 2020
     - Replaces MobileAdTracker with adaway.github.io
-
