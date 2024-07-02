@@ -1,0 +1,6 @@
+# Phishing.DatabaseAllLinks
+#
+# Converted from - https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt
+# Last converted - Tue, 02 Jul 2024 11:47:20 +0000
+#
+
