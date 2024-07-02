@@ -207,7 +207,7 @@ perl -lne 's!^(?:ftp|https?)://!!;
   next } print lc $_' - \
   | sort -u \
   | uniq -i \
-  | python3 "${git_dir}/scripts/domain-sort.py" >"data/phishing_database/ALL-phishing-links.txt"
+  | python3 "${git_dir}/scripts/domain-sort.py" #>"${git_dir}/data/phishing_database/ALL-phishing-links.txt"
 
 # | sort -u | python3 "${git_dir}/scripts/domain-sort.py" >"data/phishing_database/ALL-phishing-links.txt"
 
