@@ -46,6 +46,7 @@ $lists = array(
     'phishingArmy' => 'https://phishing.army/download/phishing_army_blocklist_extended.txt',
     'Phishing.Database' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt',
     'Phishing.DatabaseAll' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.txt',
+    'Phishing.DatabaseAllLinks' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt',
     'QuidsupMixed' => 'https://quidsup.net/notrack/blocklist.php?download=trackersdomains',
     'ShadowWhispererAds' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads',
     'ShadowWhispererApple' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple',
