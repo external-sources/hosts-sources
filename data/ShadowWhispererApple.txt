@@ -1,11 +1,7 @@
 # ShadowWhispererApple
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple
-<<<<<<< HEAD
-# Last converted - Tue, 02 Jul 2024 16:11:18 +0000
-=======
-# Last converted - Tue, 02 Jul 2024 17:08:02 +0000
->>>>>>> refs/remotes/0xacab/master
+# Last converted - Tue, 02 Jul 2024 22:54:35 +0000
 #
 
 amp-account.apps.apple.com
@@ -77,6 +73,7 @@ news-edge.news.apple-dns.net
 news-events.apple.com
 ns.itunes.apple.com
 ocsp2.g.aaplimg.com
+ontology.health.apple.com
 origin.guzzoni-apple.com.akadns.net
 p01-swscan.apple.com.akadns.net
 p26-btmmdns.icloud.com

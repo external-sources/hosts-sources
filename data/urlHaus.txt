@@ -1,10 +1,6 @@
 # urlHaus
 #
 # Converted from - https://urlhaus.abuse.ch/downloads/rpz/
-<<<<<<< HEAD
-# Last converted - Tue, 02 Jul 2024 16:11:27 +0000
-=======
-# Last converted - Tue, 02 Jul 2024 17:08:16 +0000
->>>>>>> refs/remotes/0xacab/master
+# Last converted - Tue, 02 Jul 2024 22:54:47 +0000
 #
 
