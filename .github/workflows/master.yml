@@ -47,7 +47,7 @@ jobs:
 
       - name: Install mypdns
         run: |
-          pip install --no-cache mypdns
+          pipx install --no-cache mypdns
 
       - name: Import IP based blacklists
         run: bash "${{ github.workspace }}/scripts/import.sh"
