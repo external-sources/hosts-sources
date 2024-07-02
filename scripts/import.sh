@@ -210,7 +210,7 @@ perl -lne 's!^(?:ftp|https?)://!!;
   | python3 "${git_dir}/scripts/domain-sort.py" #>"${git_dir}/data/phishing_database/ALL-phishing-links.txt"
 
 # | sort -u | python3 "${git_dir}/scripts/domain-sort.py" >"data/phishing_database/ALL-phishing-links.txt"
-
+#
 echo "Done importing Phishing Database"
 echo ""
 
