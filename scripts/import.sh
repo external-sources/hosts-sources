@@ -197,8 +197,10 @@ perl -MDomain::PublicSuffix -lne '
 rm -f "${git_dir}/ALL-phishing-links.txt"
 
 echo "Done importing Phishing Database"
-# mkdir -p "${git_dir}/data/mitchellkrogza/badd_boyz_hosts/"
 echo ""
+
+# mkdir -p "${git_dir}/data/mitchellkrogza/badd_boyz_hosts/"
+# echo ""
 # echo "Badd-Boyz-Hosts"
 # echo ""
 # ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/mitchellkrogza/badd_boyz_hosts/domain.list"
