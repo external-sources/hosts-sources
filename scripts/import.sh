@@ -184,6 +184,15 @@ echo "Imported openfish.com"
 # START @mitchellkrogza's many lists
 # echo "START importing @mitchellkrogza's many lists"
 
+# Perlscript as by https://unix.stackexchange.com/a/745455
+
+mkdir -p "${git_dir}/data/phishing_database/"
+c "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt" >/tmp/ALL-phishing-links.txt
+perl -MDomain::PublicSuffix -lne '
+    BEGIN{$s = Domain::PublicSuffix->new}
+    print if $_ eq $s->get_root_domain($_)' </tmp/ALL-phishing-links.txt |
+    sed -r 's/^(https?|ftp)\:\/\///g;s/\/.*//g;s/.*@//g;s/\.$//g;/((1?[0-9][0-9]?|2[0-4][0-9]|25[0-5])\.){3}(1?[0-9][0-9]?|2[0-4][0-9]|25[0-5])$/d;/\^.$/d' | uniq | python3.11 ~/Projects/github/mypdns/matrix/tools/domain-sort.py >"data/phishing_database/ALL-phishing-links.txt"
+
 # mkdir -p "${git_dir}/data/mitchellkrogza/badd_boyz_hosts/"
 # echo ""
 # echo "Badd-Boyz-Hosts"
@@ -270,6 +279,7 @@ echo "Imported openfish.com"
 echo ""
 echo ""
 echo "The script ${0}"
+# shellcheck disable=SC2320
 echo -e "Exited with error code ${?}\n\n"
 
 # git add .

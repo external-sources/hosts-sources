@@ -10,7 +10,8 @@ truncate -s 0 "${git_dir}/sources.list"
 
 # shellcheck disable=SC2044
 for lists in $(find data/ -type f -name domain.list); do
-    printf "$github.workspace/-/raw/master/$lists\n" | sort -u -f >>"${git_dir}/sources.list"
+    printf "$github.workspace/-/raw/master/$lists\n" |
+        sort -u -f >>"${git_dir}/sources.list"
 done
 
 echo -e "\n\nThe script ${0}\nExited with error code ${?}\n\n"

@@ -36,9 +36,10 @@ jobs:
           token: '${{ secrets.GITHUB_TOKEN }}'
 
       - name: Setup PHP
-        uses: shivammathur/setup-php@v2
+        uses: shivammathur/setup-php@main
         with:
-          php-version: '8.1'
+          php-version: '8.4'
+          extensions: mysql, imagick
 
       - name: Install requirements
         run: |
@@ -54,7 +55,7 @@ jobs:
       - name: Download and convert dumb hosts to plain data
         run: php -f  "${{ github.workspace }}/scripts/converter.php"
 
-      - name: Update active list
+      - name: Update active source list
         run: bash "${{ github.workspace }}/scripts/update_active_lists.sh"
 
       - name: Commit changes
