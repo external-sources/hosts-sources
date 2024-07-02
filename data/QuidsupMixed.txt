@@ -1,7 +1,11 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
+<<<<<<< HEAD
 # Last converted - Tue, 02 Jul 2024 16:11:17 +0000
+=======
+# Last converted - Tue, 02 Jul 2024 17:08:02 +0000
+>>>>>>> refs/remotes/0xacab/master
 #
 
 0i0i0i0.com

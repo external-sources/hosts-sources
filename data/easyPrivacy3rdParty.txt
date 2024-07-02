@@ -1,7 +1,11 @@
 # easyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
+<<<<<<< HEAD
 # Last converted - Tue, 02 Jul 2024 16:11:09 +0000
+=======
+# Last converted - Tue, 02 Jul 2024 17:07:53 +0000
+>>>>>>> refs/remotes/0xacab/master
 #
 
 100widgets.com
