@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 02 Jul 2024 04:57:55 +0000
+# Last converted - Tue, 02 Jul 2024 08:57:42 +0000
 #
 
 ochoawhou.com
@@ -54505,6 +54505,7 @@ fusion.bonniertidskrifter.se
 gamblingsyndication.com
 gameanalytics.com
 girohjalm.com.se
+gtm.ekonomifakta.se
 gtm.findroommate.dk
 gtm.stampenmedia.se
 gwen.insertcoin.se
@@ -60372,6 +60373,7 @@ zvietnakello.weebly.com
 ajoqu.cn
 hdtvnr.xyz
 cjgymo.xyz
+hzrnbl.xyz
 0322cfmtl.cc
 07dy.cc
 0940088.com
