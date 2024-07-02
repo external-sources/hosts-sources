@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 02 Jul 2024 11:46:58 +0000
+# Last converted - Tue, 02 Jul 2024 13:03:46 +0000
 #
 
 ochoawhou.com
@@ -42848,6 +42848,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+track.fluffyfalcon.com
 gojsmanager.com
 adtrack.adleadevent.com
 metrics-fe-na1.hubspot.com
@@ -47927,7 +47928,6 @@ production-mcs.lvp.llnw.net
 prudsys-rde.de
 prx.wayfair.com
 pv.hd.sohu.com
-pv.sohu.com
 pw.gigazine.net
 px.dynamicyield.com
 px.gfycat.com
