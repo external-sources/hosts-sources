@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 02 Jul 2024 16:11:01 +0000
+# Last converted - Tue, 02 Jul 2024 17:07:46 +0000
 #
 
 ochoawhou.com
