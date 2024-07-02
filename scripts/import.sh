@@ -191,7 +191,7 @@ c "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL
 perl -MDomain::PublicSuffix -lne '
     BEGIN{$s = Domain::PublicSuffix->new}
     print if $_ eq $s->get_root_domain($_)' </tmp/ALL-phishing-links.txt |
-    sed -r 's/^(https?|ftp)\:\/\///g;s/\/.*//g;s/.*@//g;s/\.$//g;/((1?[0-9][0-9]?|2[0-4][0-9]|25[0-5])\.){3}(1?[0-9][0-9]?|2[0-4][0-9]|25[0-5])$/d;/\^.$/d' | uniq | python ~/Projects/github/mypdns/matrix/tools/domain-sort.py >"data/phishing_database/ALL-phishing-links.txt"
+    sed -r 's/^(https?|ftp)\:\/\///g;s/\/.*//g;s/.*@//g;s/\.$//g;/((1?[0-9][0-9]?|2[0-4][0-9]|25[0-5])\.){3}(1?[0-9][0-9]?|2[0-4][0-9]|25[0-5])$/d;/\^.$/d' | uniq | python3 "${git_dir}/scripts/domain-sort.py" >"data/phishing_database/ALL-phishing-links.txt"
 
 # mkdir -p "${git_dir}/data/mitchellkrogza/badd_boyz_hosts/"
 # echo ""
