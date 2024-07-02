@@ -228,5 +228,5 @@ foreach ($lists as $name => $list) {
     // Output the file.
     file_put_contents("data/${name}.txt", $hosts);
 
-    echo "$name converted to HOSTS file - see data/${name}.txt\n";
+    echo "$name converted to domain records - see data/${name}.txt\n";
 }

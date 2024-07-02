@@ -188,7 +188,7 @@ echo "Imported openfish.com"
 echo ""
 echo "Importing Phishing Database"
 mkdir -p "${git_dir}/data/phishing_database/"
-# wget "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt" -qO-
+wget "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt" -qO-
 # perl -MDomain::PublicSuffix -lne '
 #    BEGIN{$s = Domain::PublicSuffix->new}
 #    print if $_ eq $s->get_root_domain($_)' </tmp/ALL-phishing-links.txt |
@@ -204,10 +204,10 @@ perl -lne 's!^(?:ftp|https?)://!!;
   s![.]$!!;
   next if /^[\d.]+\z/a;
   if (/[^._\-[:^punct:]]/) { warn "skipping $_ ...\n";
-  next } print lc $_' - \
+  next } print lc $_' < - \
   | sort -u \
   | uniq -i \
-  | python3 "${git_dir}/scripts/domain-sort.py" #>"${git_dir}/data/phishing_database/ALL-phishing-links.txt"
+  | python3 "${git_dir}/scripts/domain-sort.py" >"${git_dir}/data/phishing_database/ALL-phishing-links.txt"
 
 # | sort -u | python3 "${git_dir}/scripts/domain-sort.py" >"data/phishing_database/ALL-phishing-links.txt"
 
