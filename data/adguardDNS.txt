@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 03 Jul 2024 04:58:12 +0000
+# Last converted - Wed, 03 Jul 2024 08:57:50 +0000
 #
 
 ochoawhou.com
@@ -50185,7 +50185,6 @@ datado.me
 do09.net
 early-birds.io
 et-gv.fr
-ew3.io
 galaxiemedia.fr
 geovisite.ovh
 hunkal.com
@@ -54541,6 +54540,7 @@ interactions.sesamy.com
 investerarbrevet.se
 inviso.rampanel.com
 ion.btcswe.com
+js.adsaga.se
 js.evtr.nordiskemedier.dk
 js.glitnoraffiliates.com
 js.hsleadflows.net
@@ -54829,6 +54829,7 @@ tracking.ut.se
 tracking.vastgotabladet.se
 tracking.vaxjobladet.se
 tracking.vetlandaposten.se
+tracking.viivilla.se
 tracking.visitorsvoice.com
 tracking.vlt.se
 tracking.vn.se
@@ -60401,6 +60402,8 @@ idipsumo.top
 hyislou.top
 tlpyft.xyz
 jbkqemk.icu
+jdipsuma.top
+fzllis.cn
 0322cfmtl.cc
 07dy.cc
 0940088.com
