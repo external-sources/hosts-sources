@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 02 Jul 2024 23:27:45 +0000
+# Last converted - Wed, 03 Jul 2024 01:51:33 +0000
 #
 
 ochoawhou.com
@@ -60393,6 +60393,14 @@ cjgymo.xyz
 hzrnbl.xyz
 8208tp.com
 imgoss511.top
+ovejqw.xyz
+jiusudie.com
+cmqxy.cn
+pnvtlh.xyz
+idipsumo.top
+hyislou.top
+tlpyft.xyz
+jbkqemk.icu
 0322cfmtl.cc
 07dy.cc
 0940088.com
@@ -60986,7 +60994,6 @@ jhfcll.cn
 jhnnnb.xyz
 jinzige.cn
 jioed.cyou
-jiusudie.com
 jivvjl.xyz
 jmesxbe.icu
 jnalzla.top
