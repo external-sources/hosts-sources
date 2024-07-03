@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Wed, 03 Jul 2024 16:58:18 +0000
+# Last converted - Wed, 03 Jul 2024 20:58:21 +0000
 #
 
 010.at
@@ -99,6 +99,7 @@
 5ahgwd5.com
 5e.fit
 5k.lol
+5ot2.shop
 5qzr.com
 5rwv.info
 5w.fit

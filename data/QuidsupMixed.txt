@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Wed, 03 Jul 2024 16:58:14 +0000
+# Last converted - Wed, 03 Jul 2024 20:58:17 +0000
 #
 
 0i0i0i0.com
@@ -13826,7 +13826,6 @@ p.yotpo.com
 paas-vpc01-dms-edge-fk.easy4ipcloud.com
 padsims.com
 pagefair.com
-pagefair.net
 pages01.net
 pages02.net
 pages03.net
@@ -13864,8 +13863,6 @@ performancetrustednetwork.com
 performax.cz
 performfeeds.com
 performgroup.com
-performtechnique.com
-perfunctoryfrugal.com
 perkyexcitedlyscenario.com
 permutive.app
 permutive.com

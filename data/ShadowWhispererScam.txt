@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Wed, 03 Jul 2024 16:58:16 +0000
+# Last converted - Wed, 03 Jul 2024 20:58:20 +0000
 #
 
 007-dvd.com
@@ -496,6 +496,7 @@ alaskankleekaipuppy.com
 alaskanmalamutefamily.com
 albanystandard.com
 albertfirearms.com
+albidex.com
 albrightkennel.com
 albusinessdaily.com
 alcartoonly.com
@@ -7057,6 +7058,7 @@ lunidefencehospital.com
 lureion.com
 lusthookup.com
 lustretree.com
+luxerybit.com
 luxethreadsandbeyond.com
 luxsgear.com
 luxuriousfrenchbulldogsonline.com
