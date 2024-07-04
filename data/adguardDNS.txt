@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 04 Jul 2024 13:02:22 +0000
+# Last converted - Thu, 04 Jul 2024 16:58:33 +0000
 #
 
 xlvul.ajscdn.com

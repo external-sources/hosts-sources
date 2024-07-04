@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Thu, 04 Jul 2024 13:02:46 +0000
+# Last converted - Thu, 04 Jul 2024 16:58:58 +0000
 #
 
 01counter.com
@@ -17856,6 +17856,7 @@ d32hwlnfiv2gyn.cloudfront.net
 d330aiyvva2oww.cloudfront.net
 d335luupugsy2.cloudfront.net
 d34qb8suadcc4g.cloudfront.net
+d34r8q7sht0t9k.cloudfront.net
 d35vb5cccm4xzp.cloudfront.net
 d36mpcpuzc4ztk.cloudfront.net
 d37gvrvc0wt4s1.cloudfront.net
@@ -69815,6 +69816,7 @@ trck.eprimo.de
 trck.flexnet.co.jp
 trck.frutafrutashop.com
 trckingbyte.com
+trck.jantecneon.com
 trck.kenkiya.com
 trck.me
 trck.naco-do.com

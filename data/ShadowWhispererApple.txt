@@ -1,7 +1,7 @@
 # ShadowWhispererApple
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple
-# Last converted - Thu, 04 Jul 2024 13:02:42 +0000
+# Last converted - Thu, 04 Jul 2024 16:58:54 +0000
 #
 
 amp-account.apps.apple.com
@@ -83,8 +83,6 @@ pba.apple.com
 pcr.apple.com
 pd.itunes.apple.com
 pd-st.itunes.apple.com
-play.itunes.apple.com
-play.itunes.apple.com.edgesuite.net
 porco.apple.com
 prd-usw2-requestattribution-iad.apple.com
 proddav.apple.com
