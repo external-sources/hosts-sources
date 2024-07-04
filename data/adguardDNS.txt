@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 04 Jul 2024 04:58:26 +0000
+# Last converted - Thu, 04 Jul 2024 08:58:01 +0000
 #
 
 ahmar2four.xyz
@@ -2211,6 +2211,7 @@ mine.torrent.pw
 6207684432.com
 62b70ac32d4614b.com
 62ca04e27a.com
+63912b9175.com
 63r2vxacp0pr.com
 63voy9ciyi14.com
 641198810fae7.com
@@ -8401,6 +8402,7 @@ ckrrmwqh.com
 ckspodaotjotkn.com
 ckuwrlxngdrfk.com
 ckwvebqkbl.xyz
+ckynh.com
 ckywou.com
 cl0udh0st1ng.com
 cladlukewarmjanitor.com
@@ -13741,6 +13743,7 @@ fjdpdcdndc.com
 fjhfruuhmgnrt.com
 fjmgnfoedmsjj.xyz
 fjmksbwxb.com
+fjojdlcz.com
 fjwymafkgqfq.xyz
 fjxdafshdrnnvdw.com
 fjxowepqiwrdao.com
@@ -18829,6 +18832,7 @@ jhwo.info
 jhxqfgbj.com
 jibaeolia.com
 jickodsa.com
+jiclzori.com
 jieaxwgwnydl.com
 jigdigtry.com
 jigffltdbcdjq.com
@@ -26781,6 +26785,7 @@ pollutefurryapproximate.com
 polluxnetwork.com
 poloptrex.com
 poloud.com
+polpepsn.com
 polredsy.com
 poltarimus.com
 polyad.net
@@ -27591,6 +27596,7 @@ psouthee.xyz
 psouzoub.com
 psozoult.net
 pssy.xyz
+pstmqnplyzqahq.com
 pstnmhftix.xyz
 pstreetma.com
 psuaqpz.com
@@ -60456,6 +60462,8 @@ ihcxue.xyz
 iyisloo.top
 cuaeblh.icu
 xxxuhx.xyz
+fxnmjb.xyz
+kdipsumd.top
 0322cfmtl.cc
 07dy.cc
 0940088.com
