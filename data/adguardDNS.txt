@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 03 Jul 2024 20:58:02 +0000
+# Last converted - Thu, 04 Jul 2024 01:53:28 +0000
 #
 
+ahmar2four.xyz
 ser678uikl.xyz
 pki87n.pro
 vnie0kj3.cfd
@@ -60450,6 +60451,11 @@ feofamdak.top
 askdlajfbv.top
 dajiahao17.top
 afqodjc.top
+hy90.cn
+ihcxue.xyz
+iyisloo.top
+cuaeblh.icu
+xxxuhx.xyz
 0322cfmtl.cc
 07dy.cc
 0940088.com
