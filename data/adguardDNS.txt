@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 04 Jul 2024 16:58:33 +0000
+# Last converted - Thu, 04 Jul 2024 20:58:08 +0000
 #
 
 xlvul.ajscdn.com
@@ -1826,6 +1826,7 @@ mine.torrent.pw
 1xroom.com
 2020mustang.com
 2022welcome.com
+2024jphatomenesys36.top
 2066401308.com
 206ads.com
 20dollars2surf.com
@@ -4415,6 +4416,7 @@ apartsermon.com
 apatheticdrawerscolourful.com
 apatheticformingalbeit.com
 apbieqqb.xyz
+apcatcltoph.com
 apcpaxwfej.com
 apctrgkmtjku.com
 apeidol.com
@@ -8334,6 +8336,7 @@ cima-club.club
 cimeterbren.top
 cimm.top
 cimoghuk.net
+cincherdatable.com
 cinemagarbagegrain.com
 cinemahelicopterwall.com
 cineolesloth.com
@@ -8791,6 +8794,7 @@ cold-cold-freezing.com
 cold-priest.com
 coldflownews.com
 coldhardcash.com
+coldnessswarthyclinic.com
 coldvain.com
 colemalist.top
 colenhackbut.com
@@ -15878,6 +15882,7 @@ grushoungy.com
 grussreenter.com
 gruvirxita.com
 gruwalom.xyz
+gruwrebutnar.com
 grwp3.com
 grxiqsqota.xyz
 grygrothapi.pro
@@ -18103,6 +18108,7 @@ instructscornfulshoes.com
 instrumenttactics.com
 insultingnoisysubjects.com
 insultoccupyamazed.com
+insultresignation.com
 insumber.com
 insurewaltz.com
 inswebt.com
@@ -23438,6 +23444,7 @@ newthbvttskt.xyz
 newthuads.com
 newtits.name
 newvideoapp.pro
+newwinner.life
 newzilla.name
 newzmaker.me
 nexaapptwp.top
@@ -40681,6 +40688,7 @@ adncdnend.azureedge.net
 ads-api.production.nebula-drupal.stuff.co.nz
 ads-yallo-production.imgix.net
 ads.betfair.com
+ads.kelkoo.com
 ads.linkedin.com
 ads.sportradar.com
 ads.travelaudience.com
@@ -46409,6 +46417,7 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+lfmetrics.loyalfans.com
 track.amebame.com
 pks-analytics.raenonx.cc
 pyxis.atp.fox
@@ -54394,7 +54403,6 @@ ads.exakt24.se
 ads.expekt.se
 ads.fotosidan.se
 ads.holid.io
-ads.kelkoo.com
 ads.leovegas.com
 ads.mainloop.net
 ads.motorvarlden.se
@@ -54939,6 +54947,7 @@ www.datadoghq-browser-agent.com
 www.gymshark-sweden.com.se
 addendo.network
 adplay.it
+affiliation.software
 brznetwork.com
 delosnetwork.it
 eadv.it
@@ -54967,7 +54976,6 @@ advhits.com
 advit.it
 advplace.com
 affiliago.it
-affiliation.software
 affiliationpartner.it
 affiliazioni.me
 affiliazioniweb.com
