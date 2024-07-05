@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Fri, 05 Jul 2024 16:58:33 +0000
+# Last converted - Fri, 05 Jul 2024 20:58:32 +0000
 #
 
 00px.net
@@ -7497,6 +7497,7 @@ brightadnetwork.com
 brightcom.com
 brightline.tv
 brightroll.com
+brighttoe.com
 brilliantagency.com
 brillmedia.co
 brimbus.com

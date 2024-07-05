@@ -1,9 +1,11 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 05 Jul 2024 16:58:12 +0000
+# Last converted - Fri, 05 Jul 2024 20:58:12 +0000
 #
 
+serve.yourporngod.com
+serve.everydayporn.co
 xlvul.ajscdn.com
 ahmar2four.xyz
 ser678uikl.xyz
@@ -1269,6 +1271,7 @@ minutelight-1.online
 revrtb.com
 newbluetrue.xyz
 onemediawork.com
+advertising-cdn.dpgmedia.cloud
 d2lg0swrp15nsj.cloudfront.net
 dpeqm8xv96fuc.cloudfront.net
 d127s3e8wcl3q6.cloudfront.net
@@ -42933,6 +42936,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+qobuz.surveysparrow.com
 srvr.dmvs-apac.com
 dash.zintrack.com
 revotas.com
@@ -60492,6 +60496,8 @@ urtlist.top
 ortlisk.top
 dmnxkj.cn
 gw2cddpt2hao.cloud
+gw2cddpt2hao.site
+fgwuw.com
 0uyt5b.cn
 0v1syj.cn
 1028images.com
