@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 05 Jul 2024 08:58:32 +0000
+# Last converted - Fri, 05 Jul 2024 13:02:57 +0000
 #
 
 xlvul.ajscdn.com
@@ -40598,6 +40598,7 @@ f816e81d.xyz
 f8a070.xyz
 fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz
 fbfec2.xyz
+fe30a5b4.xyz
 ad.lgappstv.com
 ad.nettvservices.com
 ads.samsung.com
@@ -42932,6 +42933,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+srvr.dmvs-apac.com
 dash.zintrack.com
 revotas.com
 track.fluffyfalcon.com
@@ -46423,6 +46425,7 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+peach-analytics.vercel.app
 lfmetrics.loyalfans.com
 track.amebame.com
 pks-analytics.raenonx.cc
@@ -50746,6 +50749,7 @@ vppst.iltrovatore.it
 analyzer51.fc2.com
 bvr.snva.jp
 log.f-tra.com
+mail-count.matsui.co.jp
 omt.shinobi.jp
 reproio.com
 sync.shinobi.jp
@@ -60487,6 +60491,7 @@ doujs06.xyz
 urtlist.top
 ortlisk.top
 dmnxkj.cn
+gw2cddpt2hao.cloud
 0uyt5b.cn
 0v1syj.cn
 1028images.com
