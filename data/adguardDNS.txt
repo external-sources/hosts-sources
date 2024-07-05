@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 05 Jul 2024 04:58:05 +0000
+# Last converted - Fri, 05 Jul 2024 08:58:32 +0000
 #
 
 xlvul.ajscdn.com
@@ -41927,7 +41927,6 @@ masterbate.pro
 masterwanker.com
 matrimoniale3x.ro
 matrix-cash.com
-maxcash.com
 maxiadv.com
 mc-nudes.com
 mcprofits.com
@@ -60481,6 +60480,13 @@ vsqovxf.icu
 zwlxnj.xyz
 jyisloa.top
 xuzsdn.xyz
+baijs05.xyz
+doujs05.xyz
+baijs06.xyz
+doujs06.xyz
+urtlist.top
+ortlisk.top
+dmnxkj.cn
 0uyt5b.cn
 0v1syj.cn
 1028images.com
