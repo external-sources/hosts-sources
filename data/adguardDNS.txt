@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 06 Jul 2024 08:58:07 +0000
+# Last converted - Sat, 06 Jul 2024 13:01:10 +0000
 #
 
 serve.yourporngod.com
@@ -2139,6 +2139,7 @@ mine.torrent.pw
 50382fd2f1.com
 506f94d3ef.com
 50745a9d63.com
+5165c0c080.com
 5236b66b81.com
 52dvzo62i.com
 52ee3dc5fe.com
@@ -4342,6 +4343,7 @@ antibioticborough.com
 antibot.me
 anticipatedlying.com
 anticipatedthirteen.com
+anticipateplummorbid.com
 anticipationit.com
 anticipationnonchalanceaccustomed.com
 antidotefoepersecution.com
@@ -8614,6 +8616,7 @@ clothingsphere.com
 clothingtentativesuffix.com
 clotstupara.com
 clotthirstyshare.com
+cloud-stats.info
 cloudcnfare.com
 cloudconvenient.com
 clouddecrease.com
@@ -9926,6 +9929,7 @@ daiteshu.net
 daithithapta.net
 daiwheew.com
 daizoode.com
+dajkq.com
 dakjddjerdrct.online
 dalecigarexcepting.com
 dalecta.com
@@ -13265,6 +13269,7 @@ fardasub.xyz
 fardelbungo.com
 fardemanjack.com
 fardingsoiling.com
+farewell457.fun
 farflungwelcome.pro
 fargwyn.com
 farmagegaudful.com
@@ -18008,6 +18013,7 @@ inneonan.com
 innity.net
 innocencescarcelymoreover.com
 innocencestrungdocumentation.com
+innocent154.fun
 innovationcomet.com
 innovationlizard.com
 inntentativeflame.com
@@ -18320,6 +18326,7 @@ ircwzvpei.com
 iredirect.net
 iresandal.info
 irgvfdwicqerqfy.com
+irhpzbrnoyf.com
 iridizemohegan.com
 irisaffectioneducate.com
 irishormone.com
@@ -22047,6 +22054,7 @@ metricswpsh.com
 metsaubs.net
 mettlecrating.com
 metwandfertile.top
+metzia.xyz
 mevarabon.com
 mewgzllnsp.com
 mewlstomolo.top
@@ -24286,6 +24294,7 @@ oc2tdxocb3ae0r.com
 ocasosfjpbf.com
 ocbyxycdl.xyz
 occame.com
+occasion219.fun
 occasionallyregionsadverb.com
 occdmioqlo.com
 occndvwqxhgeicg.xyz
@@ -31415,6 +31424,7 @@ skilfulrussian.com
 skilleadservices.com
 skilledskillemergency.com
 skilledtables.com
+skilleservices.com
 skilletperonei.com
 skillpropulsion.com
 skilyake.net
@@ -37435,6 +37445,7 @@ wizardunstablecommissioner.com
 wizkrdxivl.com
 wizssgf.com
 wjgcygwgrvooio.com
+wjkhieahcmao.com
 wjljwqbmmjjmw.top
 wjljwqbmmjlmm.top
 wjudihl.com
@@ -38229,6 +38240,7 @@ xxlargepop.com
 xxltr.com
 xxodleylnfhyi.com
 xxofygygumf.com
+xxopairckrdhcx.com
 xxpghuf.com
 xxwflybvwbario.com
 xxxbannerswap.com
@@ -60513,6 +60525,8 @@ iptuy.cn
 kyislod.top
 lijlrz.xyz
 lrtlisl.top
+xn--sssy7vrppusjyv0a.com
+hknoq.cn
 0uyt5b.cn
 0v1syj.cn
 1028images.com

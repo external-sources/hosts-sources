@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Sat, 06 Jul 2024 08:58:27 +0000
+# Last converted - Sat, 06 Jul 2024 13:01:29 +0000
 #
 
 0i0i0i0.com
@@ -4449,6 +4449,7 @@ mkt12018.com
 mkt12019.com
 mkt1202.com
 mkt12022.com
+mkt12023.com
 mkt12024.com
 mkt12025.com
 mkt12026.com
