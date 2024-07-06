@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 05 Jul 2024 20:58:22 +0000
+# Last converted - Sat, 06 Jul 2024 01:47:19 +0000
 #
 
 a-reporting.nytimes.com
@@ -210,6 +210,7 @@ events-ingestion.services.gorgias.com
 events-prod.autolist.com
 events-tracker.deliveroo.net
 events.api.godaddy.com
+events.clips4sale.com
 events.framer.com
 events.mercadolibre.com
 events.practo.com
