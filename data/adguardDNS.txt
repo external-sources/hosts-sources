@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 07 Jul 2024 08:58:00 +0000
+# Last converted - Sun, 07 Jul 2024 13:01:12 +0000
 #
 
 serve.yourporngod.com
@@ -60512,6 +60512,9 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+tupian9999.com
+xxxx88xxxx.com
+xxxx96xxxx.com
 0322cfmtl.cc
 07dy.cc
 0940088.com
