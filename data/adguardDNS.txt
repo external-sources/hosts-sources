@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 07 Jul 2024 04:58:24 +0000
+# Last converted - Sun, 07 Jul 2024 08:58:00 +0000
 #
 
 serve.yourporngod.com
@@ -60556,6 +60556,9 @@ semhgk.xyz
 fodrxl.xyz
 xuxwvh.xyz
 xxsmad3.com
+amfhby.cn
+doujs07.xyz
+brtlisv.top
 0uyt5b.cn
 0v1syj.cn
 1028images.com
