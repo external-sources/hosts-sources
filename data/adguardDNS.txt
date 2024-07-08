@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 08 Jul 2024 16:58:18 +0000
+# Last converted - Mon, 08 Jul 2024 20:57:50 +0000
 #
 
 femqrjwnk.xyz
@@ -40618,6 +40618,7 @@ e1ce13d5.xyz
 ec44.site
 f090.site
 f2f8.xyz
+f33d11b5.xyz
 f417a726.xyz
 f4c9a0fb.xyz
 f6176563.site
@@ -42960,6 +42961,8 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+exacttarget.com
+analytics.launch.bz
 qobuz.surveysparrow.com
 srvr.dmvs-apac.com
 dash.zintrack.com
@@ -46453,6 +46456,7 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+trc.r25.jp
 anal.doubledouble.top
 peach-analytics.vercel.app
 lfmetrics.loyalfans.com

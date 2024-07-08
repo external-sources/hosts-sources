@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 08 Jul 2024 16:58:34 +0000
+# Last converted - Mon, 08 Jul 2024 20:58:04 +0000
 #
 
 00px.net
@@ -159,6 +159,7 @@
 2xc8.net
 2xclick.ru
 302br.net
+304a65933acfa9b058df4a7478bdd237.com
 306842.com
 309groups.com
 30ads.com
@@ -16656,6 +16657,7 @@ tidyinteraction.pro
 tiller.co
 timecrom.com
 timeforsocial.com
+tinyswans.com
 tip-ads.de
 tiramisu-advertising.com
 tisa-optimierung.de

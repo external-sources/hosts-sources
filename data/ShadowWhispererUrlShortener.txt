@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Mon, 08 Jul 2024 16:58:38 +0000
+# Last converted - Mon, 08 Jul 2024 20:58:08 +0000
 #
 
 010.at
@@ -704,6 +704,7 @@ fwdme.info
 fwme.eu
 gaa.st
 gacor22.me
+gacor66.me
 gacora.biz
 gacorbos.me
 gacor.tokyo
@@ -1462,6 +1463,7 @@ qo.dk
 qoo.ly
 qr2.bz
 qrcd.org
+qrco.de
 qrdb.co
 qr-in.com
 qrisni.me
@@ -1766,6 +1768,7 @@ siklik.id
 simgr.id
 sindo.me
 sini.la
+skiplinko.com
 sk.news
 skro.in
 skrun.ch
@@ -1931,6 +1934,7 @@ tiny.sm
 tiny.tw
 tinyurl.dev
 tinyurl.mobi
+tinyurl.ph
 tinyurls.io
 tinyurlwebsite.com
 tinyurl.win
