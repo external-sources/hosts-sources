@@ -1,9 +1,11 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 08 Jul 2024 08:58:05 +0000
+# Last converted - Mon, 08 Jul 2024 13:05:47 +0000
 #
 
+femqrjwnk.xyz
+routowoashie.xyz
 serve.yourporngod.com
 serve.everydayporn.co
 xlvul.ajscdn.com
@@ -1271,6 +1273,7 @@ minutelight-1.online
 revrtb.com
 newbluetrue.xyz
 onemediawork.com
+srtb.msn.cn
 advertising-cdn.dpgmedia.cloud
 d2lg0swrp15nsj.cloudfront.net
 dpeqm8xv96fuc.cloudfront.net
@@ -60539,6 +60542,10 @@ nyfstb.xyz
 lgpjw.cn
 eqkvks.xyz
 sdipsumb.top
+wuisaq.top
+jgvkxp.xyz
+mrtlisx.top
+fbqrt.cn
 0322cfmtl.cc
 07dy.cc
 0940088.com
