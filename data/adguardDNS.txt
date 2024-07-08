@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 07 Jul 2024 20:58:24 +0000
+# Last converted - Mon, 08 Jul 2024 01:56:32 +0000
 #
 
 serve.yourporngod.com
@@ -60534,6 +60534,11 @@ tupian9999.com
 xxxx88xxxx.com
 xxxx96xxxx.com
 bdfjw.cn
+acqaghx.icu
+nyfstb.xyz
+lgpjw.cn
+eqkvks.xyz
+sdipsumb.top
 0322cfmtl.cc
 07dy.cc
 0940088.com
