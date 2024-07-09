@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Tue, 09 Jul 2024 16:58:10 +0000
+# Last converted - Tue, 09 Jul 2024 20:58:35 +0000
 #
 
 00px.net
@@ -4656,6 +4656,7 @@ ads.puzzlesweb.com
 adspyglass.com
 adspy.javrank.com
 ads.qiita.com
+adsqtungsten.a9.amazon.dev
 adsquad.co
 ads-quantum.com
 ads.queendom.com
@@ -9819,6 +9820,7 @@ frsuli.com
 fryvzw.com
 fsharp.co
 fsn.co.id
+fstsrv11.com
 fstsrv2.com
 fstsrv4.com
 fstsrv5.com
@@ -9828,6 +9830,7 @@ fsvgal.com
 ftadsrv.com
 ftd.agency
 ftjcfx.com
+ftstatic.com
 ftt2.com
 ftylpm.com
 fuastudio.com
@@ -14021,6 +14024,7 @@ pub2.webmanagercenter.com
 pubacash.com
 pub-admin-elections.foxnews.com
 pubads.g.doubleclick.net
+pubadx.one
 pubdirecte.com
 pub.doubleverify.com.cdn.cloudflare.net
 pubexchange.com
