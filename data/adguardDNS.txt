@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 08 Jul 2024 20:57:50 +0000
+# Last converted - Tue, 09 Jul 2024 01:55:47 +0000
 #
 
 femqrjwnk.xyz
@@ -60550,6 +60550,12 @@ wuisaq.top
 jgvkxp.xyz
 mrtlisx.top
 fbqrt.cn
+edipsumw.top
+tvgkatu.icu
+snux.cn
+qpigoa.xyz
+vihqpr.xyz
+goodvibe1.com
 0322cfmtl.cc
 07dy.cc
 0940088.com

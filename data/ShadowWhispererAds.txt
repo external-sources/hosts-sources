@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 08 Jul 2024 20:58:04 +0000
+# Last converted - Tue, 09 Jul 2024 01:56:04 +0000
 #
 
 00px.net
@@ -7927,6 +7927,7 @@ clarkstjames.com
 claroads.com
 claspo.io
 classifieds2000.com
+clbirdcod.com
 clcknads.pro
 clc.stackoverflow.com
 cleanmediaads.com

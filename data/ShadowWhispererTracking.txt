@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Mon, 08 Jul 2024 20:58:06 +0000
+# Last converted - Tue, 09 Jul 2024 01:56:07 +0000
 #
 
 01counter.com
@@ -10054,8 +10054,10 @@ analytics.psserver.de
 analytics.psynd.ch
 analytics.pta-igw.de
 analytics.pt-dlr.de
+analytics-pub.app.marq.com
 analytics-public.cart.com
 analytics.public-health-services.ch
+analytics-pub.marq.com
 analytics.pubnative.io
 analytics.pubninja.com
 analytics.puddletech.com
