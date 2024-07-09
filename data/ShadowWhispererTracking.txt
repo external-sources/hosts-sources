@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Tue, 09 Jul 2024 13:09:04 +0000
+# Last converted - Tue, 09 Jul 2024 16:58:13 +0000
 #
 
 01counter.com
@@ -19163,6 +19163,7 @@ dcdd29eaa743c493e732-7dc0216bc6cc2f4ed239035dfc17235b.ssl.cf3.rackcdn.com
 dc.definedcrowd.com
 d.cdngeek.com
 dc.firststatesuper.com.au
+dcg.microsoft.com
 dcheqjwqu4.mlb.com
 dc.kfz-steuercheck.de
 dc.luzygas.ahorraconrepsol.com
@@ -27545,6 +27546,7 @@ ingenioustechnologies.com
 ingestion.sportskeeda.com
 ingest-lr.com
 ingest.make.rvapps.io
+ingest.make.rvohealth.com
 ingress.linktr.ee
 inistrack.net
 initjs.rfk.biglots.com
@@ -49724,6 +49726,7 @@ ruthlessmilk.com
 ruthlessrobin.com
 r.veille-anct.com
 rvere.com
+rvo-cohesion.healthline.com
 rvty.net
 r.wdfl.co
 r.web.americangolf.co.uk
