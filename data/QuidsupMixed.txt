@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Wed, 10 Jul 2024 16:58:25 +0000
+# Last converted - Wed, 10 Jul 2024 20:58:17 +0000
 #
 
 0i0i0i0.com
@@ -728,7 +728,6 @@ asia-comonrt-stsdk.vivoglobal.com
 asia-ex-adlog.vivoglobal.com
 asia-monitor-stsdk.vivoglobal.com
 asia-vcode-od.vivoglobal.com
-asianmedia.com
 assemblyexchange.com
 assets.emarsys.net
 astutemetrics.com
@@ -758,7 +757,6 @@ avazunativeads.com
 avct.cloud
 avhtaapxml.com
 avocet.io
-awcrpu.com
 aweber.com
 awin.com
 awin1.com
@@ -923,7 +921,6 @@ brightline.tv
 brilliantcollector.com
 britepool.com
 britishinquisitive.com
-broadsheetspikesnick.com
 bronrt.stsdk.vivo.com.cn
 brort.stsdk.vivo.com.cn
 browser-intake-datadoghq.com
@@ -1154,7 +1151,6 @@ contentexchange.me
 contentsquare.net
 contextweb.com
 continuousformula.com
-contrivancepalette.com
 convers.link
 conversionlogic.net
 convertexperiments.com
@@ -1267,7 +1263,6 @@ dataroid.com
 datatracking.ru
 datatracking.zeddit.com
 datawrapper.de
-datingshall.life
 daysstone.com
 dazeads1.online
 dazedengage.com

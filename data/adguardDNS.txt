@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 10 Jul 2024 16:58:07 +0000
+# Last converted - Wed, 10 Jul 2024 20:58:01 +0000
 #
 
+cdn.kelpo.cloud
 paidlemirkily.com
 jixffuwhon.com
 hbwrapper.com
@@ -2284,6 +2285,7 @@ mine.torrent.pw
 71d7511a4861068.com
 71dd1ff9fd.com
 71ec0646e6.com
+721ffc3ec5.com
 722cba612c.com
 7253d56acf.com
 72hdgb5o.de
@@ -2610,6 +2612,7 @@ ablebodiedsweatisolated.com
 ablecolony.com
 abletoprese.org
 ablitleoor.com
+ablkkukpaoc.com
 abluentshinny.com
 abluvdiscr.com
 ablybeastssarcastic.com
@@ -4297,6 +4300,7 @@ annotationdiverse.com
 annotationmadness.com
 announcedseaman.com
 announceflealanding.com
+announcement317.fun
 announcementlane.com
 announceproposition.com
 announcinglyrics.com
@@ -10249,6 +10253,7 @@ deebcards-themier.com
 deecqem892bg5er.com
 deedeedthowel.top
 deedeedwinos.com
+deedeisasbeaut.info
 deedtampertease.com
 deefauph.com
 deehalig.net
@@ -12229,6 +12234,7 @@ elkjufuj.xyz
 ellcurvth.com
 ellicecaesura.com
 elliotannouncing.com
+ellipticaldatabase.pro
 ellmtlvlpihr.com
 elltheprecise.org
 elmonopolicycr.info
@@ -12314,6 +12320,7 @@ empond.com
 empowertranslatingalloy.com
 emptorrevalue.digital
 emqomxdwrhol.com
+emqrjjvalnqbm.top
 emqrjjveqnjab.top
 emqrjjveqnnav.top
 emqrjjveqnnjw.top
@@ -13766,6 +13773,7 @@ fitthings.info
 fitting-population.com
 fittingcentermonday.com
 fittitfucose.com
+fivcgqubtfowus.com
 fivelegant.com
 fivetrafficroads.com
 fivulsou.xyz
@@ -15050,6 +15058,7 @@ ghfnlorkormcmr.com
 ghilliebottles.com
 ghisiva.top
 ghjhucekiywqrk.com
+ghmwlirru.com
 ghnvfncbleiu.xyz
 ghostchisel.com
 ghostnewz.com
@@ -15399,6 +15408,7 @@ gmijkajzor.com
 gmiqicw.com
 gmixiwowford.com
 gmkflsdaa.com
+gmknz.com
 gml-grp.com
 gmlebdifvxzzl.com
 gmltiiu.com
@@ -16089,6 +16099,7 @@ gzifhovadhf.com
 gzigudxidz.com
 gzkkbuvz.com
 gzpphnbvqj.com
+gzqihxnfhq.com
 gzqsxbgnggnho.com
 h0w-t0-watch.net
 h12-media.com
@@ -16256,6 +16267,7 @@ harkingskulp.digital
 harlequinsleepyfrog.xyz
 harmalpilotry.com
 harmfulresolution.com
+harmfulsong.pro
 harmless-sample.pro
 harmlessepic.com
 harmlesstacticalhonorable.com
@@ -18197,6 +18209,7 @@ interestingvids.space
 interestmoments.com
 interestsubsidereason.com
 interfacemotleyharden.com
+interference350.fun
 interfereparagraphinterrogate.com
 interferepenetrate.com
 intergient.com
@@ -18628,6 +18641,7 @@ jaggiertridii.com
 jagice.uno
 jagnoans.com
 jagqrhvcvoqjw.com
+jaifeeveely.com
 jaigaivi.xyz
 jainapse.com
 jainbagong.com
@@ -21926,6 +21940,7 @@ medimnbream.top
 mediocrecount.com
 meditateenhancements.com
 mediuln.com
+mediumtunapatter.com
 medleyads.com
 medoofty.com
 medusasglance.com
@@ -25354,6 +25369,7 @@ overlettolt.com
 overlivedub.com
 overlook.fun
 overlooked-scratch.pro
+overlookedtension.pro
 overlookrapt.com
 overlyindelicatehoard.com
 overmewer.com
@@ -25454,6 +25470,7 @@ oxllyobna.com
 oxmoonlint.com
 oxmqzeszyo.com
 oxnhhswdzwam.com
+oxowcjxiffsj.com
 oxrqdkfftw.com
 oxthrilled.com
 oxtkmgvmgu.com
@@ -29967,6 +29984,7 @@ rsalesrepresw.info
 rsaltsjt.com
 rscilx49h.com
 rsdoxzmhrjovcz.com
+rsfmzirxwg.com
 rsgouhlbhfl.com
 rsnjmocfenkewq.com
 rsthwwqhxef.xyz
@@ -30391,6 +30409,7 @@ satientclypeus.com
 satinelicheny.com
 satireunhealthy.com
 satirevegetableshaw.com
+satisfaction399.fun
 satisfactionretirechatterbox.com
 satisfactorilyfigured.com
 satisfied-tour.pro
@@ -32920,6 +32939,7 @@ superstriker.net
 supervisebradleyrapidly.com
 supervisionlanguidpersonnel.com
 supervisionprohibit.com
+supervisofosevera.com
 superxxxfree.com
 supgedcowxkmzr.com
 suphelper.com
@@ -34487,6 +34507,7 @@ traffmgnt.name
 traffoxx.uk
 trafget.com
 trafogon.com
+trafsupr.com
 trafyield.com
 tragedyhaemorrhagemama.com
 tragency-clesburg.icu
@@ -35430,6 +35451,7 @@ unmetswipy.com
 unmightboxen.com
 unmisdreavusom.com
 unnamesline.com
+unnaturalstring.com
 unnecessarydispleasedleak.com
 unnish.com
 unoblotto.net
@@ -35999,6 +36021,7 @@ vbiofbwey.com
 vbmfeuvrtnxafy.com
 vbqbtfkon.com
 vbrbgki.com
+vbrusdiifpfd.com
 vbtrax.com
 vbzsjkrnsqewy.com
 vcbydvfouqqyls.com
@@ -38080,6 +38103,7 @@ xineday.com
 xipaaqgnrehpdns.com
 xipehexose.com
 xipteq.com
+xipwdvkessqguv.com
 xiqougw.com
 xiryrnrz.com
 xissidearm.com
@@ -38748,6 +38772,7 @@ yzfjlvqa.com
 yzlfobyscos.com
 z0il3m3u2o.pro
 z1sz88obrtb5.shop
+z54a.xyz
 z5x.net
 z7yru.com
 zabanit.xyz
@@ -40850,6 +40875,7 @@ js.bigcomics.win
 js.manga1001.win
 js.mangakl.su
 js.mangalove.top
+js.mangaraw.bid
 js.phoenixmanga.com
 k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com
 karma.mdpcdn.com
@@ -46498,6 +46524,8 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+beacon.necotracks.jp
+logs2.jobs.com
 t.semafor.com
 trc.r25.jp
 anal.doubledouble.top
