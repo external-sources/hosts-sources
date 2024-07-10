@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Tue, 09 Jul 2024 20:58:40 +0000
+# Last converted - Wed, 10 Jul 2024 01:56:20 +0000
 #
 
 01counter.com
@@ -12314,6 +12314,7 @@ analytics.wayup.com
 analytics.wba.de
 analytics.wbgz.com
 analytics-wcms.joins.net
+analytics.wdes.eu
 analytics.wdev.rs
 analytics.wdsh.rs
 analytics.weaponsystems.net
