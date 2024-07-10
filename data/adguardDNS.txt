@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 10 Jul 2024 08:57:52 +0000
+# Last converted - Wed, 10 Jul 2024 13:09:16 +0000
 #
 
+paidlemirkily.com
 jixffuwhon.com
 hbwrapper.com
 femqrjwnk.xyz
@@ -8342,6 +8343,7 @@ ciajnlhte.xyz
 ciazdymfepv.com
 cibouleamazer.com
 cicamica.xyz
+cickofou.com
 cideparenhem.com
 cidrulj.com
 ciedpso.com
@@ -9624,6 +9626,7 @@ cryptobeneluxbanner.care
 cryptomaster.care
 cryptomcw.com
 cryptonewsdom.care
+cryptotyc.care
 cschyogh.com
 csfabdtmrs.com
 csggmxrbt.com
@@ -17271,6 +17274,7 @@ huszawnuqad.com
 hutajkerfvbman.com
 hutanz.xyz
 hutlockshelter.com
+hutoumseet.com
 hutremindbond.com
 huvohjvpaog.com
 huwkiycoup.com
@@ -31270,7 +31274,6 @@ sidesukbeing.org
 sidewalkcrazinesscleaning.com
 sidewayfrosty.com
 sidewaysuccession.com
-sielsmaats.com
 sierradissolved.com
 sierrasectormacaroni.com
 sieveallegeministry.com
@@ -40639,6 +40642,7 @@ ca9246.xyz
 caa2c4.xyz
 cd57296e.xyz
 ce357c.xyz
+cf959857.live
 cfb98a.xyz
 d23d450d.xyz
 d477275c.xyz
@@ -40659,6 +40663,7 @@ f417a726.xyz
 f4c9a0fb.xyz
 f6176563.site
 f6b458fd.xyz
+f700fa18.live
 f816e81d.xyz
 f8a070.xyz
 fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz
@@ -46493,6 +46498,7 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+t.semafor.com
 trc.r25.jp
 anal.doubledouble.top
 peach-analytics.vercel.app
@@ -49954,6 +49960,7 @@ t.buyist.app
 t.cfjump.com
 t.dgm-au.com
 t.enuygun.com
+t.fullres.net
 t.jobsyn.org
 t.menepe.com
 t.playwayfinder.com
@@ -60608,6 +60615,8 @@ vsjrnh.xyz
 sgru.cn
 irtliso.top
 hrrjff.xyz
+atbif.cn
+jrtlisa.top
 0322cfmtl.cc
 07dy.cc
 0940088.com
