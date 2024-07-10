@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 10 Jul 2024 13:09:34 +0000
+# Last converted - Wed, 10 Jul 2024 16:58:28 +0000
 #
 
 01counter.com
@@ -12881,6 +12881,7 @@ anmet.originenergy.com.au
 an.milb.com
 an.mlb.com
 annalect.com
+annalect.com.au
 anniesafghanblockclub-news.com
 anniesatticmysteries-news.com
 anniesbeadsandjewelry.com
@@ -14291,6 +14292,7 @@ bia.com
 biakelsey.com
 bibliotheque.irht.cnrs.fr
 bicepsanalytics.com
+bic.se
 bidgear.com
 bidminer.com
 bidr.io
@@ -16240,6 +16242,7 @@ collectorapi.com
 collector.applemediaservices.com
 collector.auxmoney.com
 collector.azarus.io
+collector.azure.eaglex.ic.gov
 collector.betseyjohnson.com
 collector.blupoint.io
 collector.brandify.com
@@ -17581,6 +17584,7 @@ customer.homedepot.com
 customerinsight.co.kr
 customerinsights.ai
 customer.io
+customeriomail.com
 customerlabs.co
 customerlabs.com
 customer.living-life.co.jp
@@ -29401,7 +29405,6 @@ loglady.skypicker.com
 log.letro.jp
 log.lianamir.com
 log.mangaplanet.com
-log.maniacalrage.net
 log-marketing.jp
 logmatic.io
 log.mattran.org.vn
@@ -29937,6 +29940,7 @@ mandrill.yellowfruit.co
 ma.nexy.jp
 mangotrk.com
 maniacalappliance.com
+maniacalrage.net
 ma.njkk.co.jp
 ma.njss.info
 manlitics.com
@@ -37438,6 +37442,7 @@ nexus.ensighten.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 nexus.toyota.com
+nexxtv-events.servicebus.windows.net
 nf1nknlw.mateforevents.com
 n.fitchratings.com
 nfltags.com
@@ -39840,6 +39845,7 @@ partridge.antonius.me
 partridge.flooint.com
 par.trivehd.com
 par.volkswagen-fuji-jidousha.net
+pascalle.ai
 pase-analytics.com
 pa.smartrobotics.jp
 passengerpage.com
@@ -47588,6 +47594,7 @@ polling.bbc.co.uk
 poll.push-na.fsapi.com
 pollster.pl
 polonord.adeste.com
+polyflow.dev
 polygraph.net
 pomerolpartners.com
 ponf.linkedin.com
@@ -47603,6 +47610,7 @@ popcon.ubuntu.com
 popcornfood.com
 popcornmetrics.com
 popcornmetrics.zendesk.com
+poplindata.com
 p.opro.net
 popsixle.com
 poptrkr.com
@@ -48292,6 +48300,7 @@ radiantlogic.com
 radiantlullaby.com
 radiateprose.com
 radintel.ai
+rad.live.com
 r.africa-tailormade.co
 rageagainstthesoap.com
 raggededge.ai
@@ -50142,6 +50151,7 @@ salesenablement.premion.com
 salesfire.co.uk
 salesforce-academy.isdicrm.com
 salesforce.amlan.com
+salesforceassessments.com
 salesforce.bonesupport.com
 salesforce.demandblue.com
 salesforce.lyricfind.com
@@ -50678,6 +50688,7 @@ scorecardresearch.com
 scorecard.wspisp.net
 scorpion.byteside.com
 scorpion.clare.ink
+scorpion.co
 scorpion.gamedao.co
 scorpion.the-m1.world
 scoutanalytics.net
@@ -51541,6 +51552,8 @@ shrfbdg004.com
 shrillspoon.com
 shrimp.joyfountainchurch.com
 shrimp.leccy.net
+shulex.com
+shulex-voc.com
 shutseashore.com
 shydinosaurs.com
 shyseed.com
@@ -54665,6 +54678,7 @@ smetrics.softwareag.com
 smetrics.sofyclub.com
 smetrics.sofygirls.com
 smetrics.sofy.jp
+smetrics.solarwinds.com
 smetrics.solaseedair.jp
 smetrics.solicitudes.pe
 smetrics.solidigm.com
@@ -56128,6 +56142,9 @@ spycloud.com
 sp.ydr.com
 spykemediatrack.com
 spylog.com
+spynet2.microsoft.com
+spynetalt.microsoft.com
+spyneteurope.microsoft.akadns.net
 sp.yorkdispatch.com
 sp.yourindependentgrocer.ca
 spyover.com
@@ -70818,6 +70835,7 @@ van.sync-logi.com
 vantageanalytics.com
 vanti-analytics.com
 variantverdict.com
+varnexsmbcommunity.com
 varstadt.com
 vas.vintage-ip.com
 vbtrax.com
@@ -71032,6 +71050,7 @@ vmweb.net
 vn.clubsolitaire.carrier.com
 vnftrk.com
 vnsstrk.com
+voc.ai
 vodafonenewsletters.co.uk
 vodlog-tracking7.high-cdn.com
 vodus.com
