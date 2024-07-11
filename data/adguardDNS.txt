@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 11 Jul 2024 04:58:22 +0000
+# Last converted - Thu, 11 Jul 2024 08:58:02 +0000
 #
 
 cdn.kelpo.cloud
@@ -60665,6 +60665,9 @@ scanfang.com
 onefuq.xyz
 dclpjx.xyz
 tdpujn.xyz
+baijs08.xyz
+krtlisd.top
+hfptbf.cn
 0322cfmtl.cc
 07dy.cc
 0940088.com
