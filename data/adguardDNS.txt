@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 10 Jul 2024 20:58:01 +0000
+# Last converted - Thu, 11 Jul 2024 01:56:07 +0000
 #
 
 cdn.kelpo.cloud
@@ -10600,6 +10600,7 @@ dgqdcetwbq.xyz
 dgtklmbypacjq.com
 dgttkthhgjm.com
 dguhjlbefeuf.com
+dgxmvglp.com
 dh956.com
 dhadbeensoattr.info
 dhfkavse.com
@@ -14737,7 +14738,6 @@ gaming-adult.com
 gamingadlt.com
 gamingonline.top
 gammabendlet.website
-gammae.com
 gammamkt.com
 gammaplatform.com
 gammradiation.space
@@ -19974,6 +19974,7 @@ kssvsjfhxpzwfd.com
 kstjqjuaw.xyz
 kstvhknmhfppbf.com
 ksurpiwdayc.com
+ksvrvtehpmfbylm.com
 ksvtdifdlqyrv.com
 kswiwxupqa.com
 ksykbucea.com
@@ -20120,6 +20121,7 @@ labourmuttering.com
 labporno.com
 labsappland.com
 labsoacu.com
+laccaiccrusta.com
 lacecoming.com
 lacecompressarena.com
 laceratehard.com
@@ -33715,6 +33717,7 @@ theekedgleamed.com
 theeksen.com
 theelrou.net
 theenfu.com
+theetholri.xyz
 theextensionexpert.com
 thefacux.com
 thefastpush.com
@@ -34097,6 +34100,7 @@ tiwbgqddmz.com
 tiwhaiph.net
 tiwouboa.com
 tixir.xyz
+tiypa.com
 tizadumbed.com
 tjavravj.com
 tjgpeswdkrym.com
@@ -36190,6 +36194,7 @@ vhdbohe.com
 vheoggjiqaz.com
 vhihvqsuarpp.com
 vhneajupavrb.com
+vhrtgvzcmrfoo.com
 vhvmiinx.com
 vi-serve.com
 viabagona.com
@@ -36565,6 +36570,7 @@ voteclassicscocktail.com
 votinginvolvingeyesight.com
 vouchafagle.com
 vouchanalysistonight.com
+voufasoadoot.net
 vougaipte.net
 vougreph.net
 vounesto.com
@@ -36959,6 +36965,7 @@ wcltbpbnlf.com
 wcmcs.net
 wcnhhqqueu.com
 wcnndaazbwmane.com
+wcpltnaoivwob.xyz
 wcqtgwsxur.xyz
 wct.link
 wcuolmojkzir.com
@@ -40662,6 +40669,7 @@ bc98ad.xyz
 bcbe.site
 bd5a57.xyz
 c31133f7.xyz
+c76d1a1b.live
 ca3d.site
 ca9246.xyz
 caa2c4.xyz
@@ -47241,7 +47249,6 @@ t.zhipin.com
 logapi.zhipin.com
 clb.yahoo.co.jp
 svi.online.sberbank.ru
-dmp.sbermarketing.ru
 clt.banggood.com
 collect.banggood.com
 collector.github.com
@@ -49763,6 +49770,7 @@ k.streamrail.com
 k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com
 kalstats.kaltura.com
 l.fairblocker.com
+lambda-url.us-east-1.on.aws
 laurel.macrovision.com
 laurel.rovicorp.com
 leadtracking.plumvoice.com
@@ -50588,6 +50596,7 @@ retag.xyz
 rnet.plus
 roistat.com
 sarov.ws
+sbermarketing.ru
 semantiqo.com
 targetix.net
 tbex.ru
@@ -50920,6 +50929,7 @@ counter.megaindex.ru
 counter.photopulse.ru
 counter.reddigital.ru
 counter.smotrim.ru
+csp.yandex.net
 dbex-tracker-v2.driveback.ru
 error.videonow.ru
 events.auth.gid.ru
@@ -60640,11 +60650,21 @@ doujs08.xyz
 cbgrqi.xyz
 mtwuxss.icu
 vsjrnh.xyz
+yerhfnytky.top
+gjjskhdnm.top
+dajiahao8.top
+oakmn.top
 sgru.cn
 irtliso.top
 hrrjff.xyz
 atbif.cn
 jrtlisa.top
+qdipsumy.top
+fmmirep.icu
+scanfang.com
+onefuq.xyz
+dclpjx.xyz
+tdpujn.xyz
 0322cfmtl.cc
 07dy.cc
 0940088.com

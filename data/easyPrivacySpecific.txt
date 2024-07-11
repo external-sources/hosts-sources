@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 10 Jul 2024 20:58:09 +0000
+# Last converted - Thu, 11 Jul 2024 01:56:15 +0000
 #
 
 a-reporting.nytimes.com
@@ -362,6 +362,7 @@ no9pldds1lmn3.soundcloud.com
 noodle.backmarket.io
 observe.metarouter.io
 ohm-dot-hackster-io.appspot.com
+ok88okg.infinityscans.net
 ophan.theguardian.com
 optimizely.techtarget.com
 p.hentaiforce.net
@@ -521,6 +522,7 @@ t.nypost.com
 t.pagesix.com
 t.paypal.com
 t.perigold.com
+t.poki.io
 t.regionsjob.com
 t.wayfair.ca
 t.wayfair.co.uk
