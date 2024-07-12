@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Fri, 12 Jul 2024 16:58:21 +0000
+# Last converted - Fri, 12 Jul 2024 20:58:24 +0000
 #
 
 0i0i0i0.com
@@ -1675,7 +1675,6 @@ getsocial.io
 giftedhazelsecond.com
 gigaonclick.com
 ginchoirblessed.com
-ginepija.com
 giosg.com
 gisttorn.com
 glancecdn.net
@@ -1694,7 +1693,6 @@ goasrv.com
 goatcounter.com
 godatafeed.com
 godpvqnszo.com
-golead.de
 google-analytics.com
 googleadservices.com
 googleanalytics.com
@@ -15439,7 +15437,6 @@ telize.com
 tellapart.com
 tellme.com
 tend.io
-tendencysanction.com
 tenjin.com
 tenjin.io
 terminus.services

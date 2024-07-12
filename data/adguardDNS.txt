@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 12 Jul 2024 16:58:05 +0000
+# Last converted - Fri, 12 Jul 2024 20:58:09 +0000
 #
 
 equipmentapes.com
@@ -2444,6 +2444,7 @@ mine.torrent.pw
 9ads.mobi
 9af022123c.com
 9analytics.live
+9bbbabcb26.com
 9bf9309f6f.com
 9ca976adbb.com
 9cbj41a5.de
@@ -3535,6 +3536,7 @@ affinity.com
 affinitycycleablaze.com
 affirmbereave.com
 affiz.net
+affjamohw.com
 afflat3a1.com
 afflat3d2.com
 afflat3e1.com
@@ -10383,6 +10385,7 @@ delusionpenal.com
 delutza.com
 deluxeconge.digital
 demandedhalfmoon.com
+demanding-application.pro
 demba.xyz
 demeanourgrade.com
 dementeddug.com
@@ -11330,6 +11333,7 @@ dpnktkmxjfdd.com
 dprtb.com
 dpseympatijgpaw.com
 dpstack.com
+dptwwmktgta.com
 dpyaxzpudhp.com
 dpzgwzjledx.com
 dqbukuvuy.com
@@ -17103,6 +17107,7 @@ housekeepergamesmeeting.com
 housemaiddevolution.com
 housemalt.com
 housewifecheeky.com
+housewifereceiving.com
 houthaub.xyz
 houtouchekan.space
 hoverclassicalroused.com
@@ -19951,6 +19956,7 @@ kpdqdbyi.com
 kpdwueshr.com
 kpebuazc.com
 kphnncpx.xyz
+kpjuilkzfi.com
 kpougoavtxkrew.com
 kqduogttdmryguw.com
 kqhi97lf.de
@@ -24595,6 +24601,7 @@ ojoglir.com
 ojomrgmhbbpkpz.com
 ojoodoaptouz.com
 ojpem.com
+ojsxtysilofk.com
 ojtarsdukk.com
 ojtatygrl.xyz
 ojuhfoa.com
@@ -26778,6 +26785,7 @@ pluralpeachy.com
 plusungratefulinstruction.com
 plutothejewel.com
 plvhsycor.com
+plvwyoed.com
 plxserve.com
 plyfoni.ru
 pmaosrgeieft.com
@@ -37625,6 +37633,7 @@ wnjjhksaue.com
 wnjtssmha.com
 wnp.com
 wnrusisedprivatedq.info
+wnrvrwabnxa.com
 wnt-s0me-push.net
 wnt-some-psh.net
 wnt-some-push.com
@@ -37934,6 +37943,7 @@ wveeir.com
 wvfhosisdsl.xyz
 wvhba6470p.com
 wvjzbijwbsegqq.com
+wvkppzspqsy.com
 wvpfumotgpsfy.com
 wvrgnlvzqmi.com
 wvtynme.com
@@ -38730,6 +38740,7 @@ yshhfig.com
 ysnxszyrxdzp.com
 yspecjbjmcub.com
 ysxuehcerecoge.com
+yszhtlsfvvf.com
 ytbzqtrog.com
 yterxv.com
 ytfotjfrttgyal.com
@@ -40631,6 +40642,7 @@ googlevads-cn.com
 0395d1.xyz
 05751c.site
 072551.xyz
+076f66b2.live
 07e197.site
 09bd5a69.xyz
 0ae00c7c.xyz
@@ -43083,6 +43095,8 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+michiganrobotflower.com
+uid.mediacorp.sg
 exacttarget.com
 analytics.launch.bz
 qobuz.surveysparrow.com
@@ -46577,6 +46591,9 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+marketing.dropbox.com
+ok88okg.infinityscans.net
+evt.24.com
 tm-gta5-prod.ros.rockstargames.com
 beacon.necotracks.jp
 logs2.jobs.com
@@ -49743,7 +49760,6 @@ events.split.io
 events.storifyme.com
 events.yourcx.io
 eventsproxy.gargantuan.futureplc.com
-evt.24.com
 f-log-at.grammarly.io
 f-log-test.grammarly.io
 fcmatch.google.com
@@ -50190,7 +50206,6 @@ trk.clinch.co
 trk.playitviral.com
 trx-cdn.zip.co
 trx.zip.co
-uid.mediacorp.sg
 us-central1-markuphero.cloudfunctions.net
 usaoptimizedby.increasingly.co
 user.userguiding.com
@@ -60686,6 +60701,7 @@ dmnqfn.xyz
 scoev.cn
 fpninv.xyz
 srtlisb.top
+bilibilitool.site
 tupian9999.com
 xxxx88xxxx.com
 xxxx96xxxx.com

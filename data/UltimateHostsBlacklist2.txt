@@ -1,9 +1,11 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Fri, 12 Jul 2024 16:58:29 +0000
+# Last converted - Fri, 12 Jul 2024 20:58:32 +0000
 #
 
+realestatenexus.clickfunnels.com
+real-estate-page-account-business.000webhostapp.com
 realestateprofessionalsinternational.com
 realestatereports.leadpages.co
 realestatetitle.000webhostapp.com
@@ -8467,6 +8469,7 @@ rock2.directprimal.com
 rock.adpiano.com
 rock.cryptaloot.pro
 rock.cryptoloot.pro
+rock.directprimal.com
 rock.reauthenticator.com
 rock.webmine.pro
 rockabox.co
@@ -51213,6 +51216,8 @@ staticext.spartoo.com
 static-failover.go.sonobi.com
 static-fastly.apester.com
 static-fi.ad4mat.net
+staticfile.net
+staticfile.org
 staticfiles.krxd.net
 static-forms.klaviyo.com
 static-fr.ad4mat.net
@@ -69247,6 +69252,7 @@ thor.awtank.com
 thor.bankofamfrica.com
 thor.beck-technologies.com
 thor.bellsourth.com
+thor.blindferret.media
 thor.blueshielsca.com
 thor.bodenmarkt.info
 thor.bravenet.com
@@ -69929,7 +69935,6 @@ ticmate.co.il
 ticonmamad.libraries.co.il
 ticonsalope.000webhostapp.com
 tic-parchi.com
-tics.techdirt.com
 ticstars.com
 tictacti.adk2x.com
 tic-tic-bam.com
@@ -86165,8 +86170,10 @@ union.56.com
 union.api.w.inmobi.cn
 union.baidu.com
 union.gov.py
+union.macoms.la
 union.w.inmobi.cn
 unionaaire.com
+unionadjs.com
 unionapollo.ru
 unionavenue.net
 unionbbs.org
@@ -104833,7 +104840,6 @@ webtoolsrooingdengincco.000webhostapp.com
 webtoolsx.brandreachsys.com
 webtop.acxiom.com
 webtracker.apicasystem.com
-webtracker.jp
 webtrackerplus.com
 webtracktechnologies.com
 webtracky.com
@@ -138682,7 +138688,6 @@ www.bsketball.space
 www.bskyb.sc.omtrdc.net
 www.bslcorporationltd.co
 www.bst.adx1.com
-www.bsyauqwerd.pa
 www.bt177.info
 www.bt.emsecure.net
 www.bt.segoogle.com
@@ -146577,6 +146582,7 @@ www.javmax.com
 www.javmoo.info
 www.javort.com
 www.javparty.com
+www.javperfect.com
 www.javplanet.net
 www.javpop.org
 www.javporn.club
@@ -161794,6 +161800,7 @@ xhr.yallboen.com
 xhril.mjt.lu
 xhro.doma2.info
 xhs02.mjt.lu
+xhsbpza.com
 xhsl1.mjt.lu
 xhsmm.mjt.lu
 xhso2.mjt.lu
