@@ -1,7 +1,7 @@
 # ShadowWhispererChat
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
-# Last converted - Thu, 11 Jul 2024 20:58:11 +0000
+# Last converted - Fri, 12 Jul 2024 01:54:36 +0000
 #
 
 1talking.net
@@ -65,6 +65,7 @@ chat-assets.frontapp.com
 chatbeacon.io
 chatbot.aisera.cloud
 chatbot.api.nn-group.com
+chatbot-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev
 chatbotbase.com
 chatbot-cdn.lmiutil.com
 chatbot.com
@@ -112,6 +113,7 @@ chat.suncorp.com.au
 chatsupport.co
 chatsvc.getgobot.com
 chat.topbet.eu
+chat.us-east-1.prod.mrc-sunrise.marketing.aws.dev
 chat-us.libanswers.com
 chat.webdive.de
 chatwebsbcm.sbdesignsquare.com

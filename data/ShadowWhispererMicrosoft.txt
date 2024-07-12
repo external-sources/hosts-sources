@@ -1,7 +1,7 @@
 # ShadowWhispererMicrosoft
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
-# Last converted - Thu, 11 Jul 2024 20:58:12 +0000
+# Last converted - Fri, 12 Jul 2024 01:54:37 +0000
 #
 
 a-0003.a-msedge.net
@@ -112,7 +112,6 @@ img.stb.s-msn.com
 imvendorportal.com
 inputsuggestions.msdxcdn.microsoft.com
 insiderppe.cloudapp.net
-insideruser.microsoft.com
 internetexplorer.com
 ipv4.login.msa.akadns6.net
 iriscoremetadataprod.blob.core.windows.net

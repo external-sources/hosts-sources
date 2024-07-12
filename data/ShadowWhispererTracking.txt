@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Thu, 11 Jul 2024 20:58:13 +0000
+# Last converted - Fri, 12 Jul 2024 01:54:38 +0000
 #
 
 01counter.com
@@ -19182,6 +19182,8 @@ dc.luzygas.ahorraconrepsol.com
 dc.madridistas.com
 dcmn.com
 dcmn.io
+d-collect.jennifersoft.com
+d-collector.jennifersoft.com
 dcp-analytics.com
 dc.plussizetech.com
 dc.realmadrid.com
@@ -21109,6 +21111,7 @@ events.attentivemobile.com
 events.auth.gid.ru
 events.baesystems.com
 events.benchevents.com
+events.berkeley.edu
 events.betterhelp.com
 events.betterwild.com
 events.bettsrecruiting.com
@@ -68170,6 +68173,7 @@ telemetry.canva.com
 telemetry.cell-0.us-east-2.prod.tangerinebox.console.aws.a2z.com
 telemetry.chrobinson.com
 telemetry-clients.svc.halowaypoint.com
+telemetry.console.api.aws
 telemetry-data.r53-2.services.mozilla.com
 telemetrydeck.com
 telemetry.deeparc.net
