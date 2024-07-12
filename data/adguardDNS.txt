@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 12 Jul 2024 04:58:00 +0000
+# Last converted - Fri, 12 Jul 2024 08:57:58 +0000
 #
 
 cdn.kelpo.cloud
@@ -14429,6 +14429,7 @@ frolnk.com
 fromjoytohappiness.com
 fromoffspringcaliber.com
 frontcognizance.com
+frontendcodingtips.com
 fronthlpr.com
 fronthlpric.com
 frookshop-winsive.com
@@ -25720,6 +25721,7 @@ parachutelacquer.com
 parademuscleseurope.com
 paradiseannouncingnow.com
 paradisenookminutes.com
+paradizeconstruction.com
 paragraphdisappointingthinks.com
 paragraphopera.com
 parallelgds.store
@@ -60668,11 +60670,16 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+57573zubo36833.com
+imgoss2255.top
+tupian88888.com
 tdipsumi.top
 ykcsldm.icu
 izcqyy.xyz
 dmnqfn.xyz
 scoev.cn
+fpninv.xyz
+srtlisb.top
 tupian9999.com
 xxxx88xxxx.com
 xxxx96xxxx.com
