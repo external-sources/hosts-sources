@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 13 Jul 2024 01:54:51 +0000
+# Last converted - Sat, 13 Jul 2024 04:58:15 +0000
 #
 
 equipmentapes.com
