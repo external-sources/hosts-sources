@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Sat, 13 Jul 2024 16:58:02 +0000
+# Last converted - Sat, 13 Jul 2024 20:58:11 +0000
 #
 
 0i0i0i0.com
@@ -1792,7 +1792,6 @@ holdsoutset.com
 honestlydeploy.com
 hoodentangle.com
 horizontallypolluteembroider.com
-horriblygeneratortwinkle.com
 hotjar.com
 hotlog.ru
 howoverlapsuspicious.com
@@ -14928,7 +14927,6 @@ smetrics.pbteen.ca
 smetrics.pbteen.com
 smetrics.pdt.r-agent.com
 smetrics.peakperformance.com
-smetrics.pearlevision.ca
 smetrics.pearlevision.com
 smetrics.pedrodelhierro.com
 smetrics.penfed.org
@@ -15677,7 +15675,6 @@ unagi-na.amazon.com
 unanimis.co.uk
 unblockia.com
 underdog.media
-understoodreceivermisunderstand.com
 undertone.com
 undooptimisticsuction.com
 unid.go.com

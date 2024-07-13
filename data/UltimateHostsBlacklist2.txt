@@ -1,11 +1,9 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sat, 13 Jul 2024 16:58:11 +0000
+# Last converted - Sat, 13 Jul 2024 20:58:19 +0000
 #
 
-realestatenexus.clickfunnels.com
-real-estate-page-account-business.000webhostapp.com
 realestateprofessionalsinternational.com
 realestatereports.leadpages.co
 realestatetitle.000webhostapp.com
@@ -8469,7 +8467,6 @@ rock2.directprimal.com
 rock.adpiano.com
 rock.cryptaloot.pro
 rock.cryptoloot.pro
-rock.directprimal.com
 rock.reauthenticator.com
 rock.webmine.pro
 rockabox.co
@@ -20241,7 +20238,6 @@ sea.advertising.yahoo.com
 sea.aimon.gsm.applicationinsights.io
 sea.cryptaloot.pro
 sea.cryptoloot.pro
-sea.directprimal.com
 sea.effectivemeasure.net
 sea.net.edu.cn
 sea.openxmarket.asia
@@ -40026,7 +40022,6 @@ smuggled-laugh.000webhostapp.com
 smugmugincflickrbutts.112.2o7.net
 smugmugincflickrprodudction.112.2o7.net
 smumd5.mktoweb.com
-smurf.crypto.csgocpu.com
 smurfylancomputer.com
 smurywtertw.info
 smushgame.com
@@ -69252,7 +69247,6 @@ thor.awtank.com
 thor.bankofamfrica.com
 thor.beck-technologies.com
 thor.bellsourth.com
-thor.blindferret.media
 thor.blueshielsca.com
 thor.bodenmarkt.info
 thor.bravenet.com
@@ -103080,7 +103074,6 @@ web.cellfun.mobi
 web.celtra.com
 web.checkm8.com
 web.cinespot.net
-web.clod.pw
 web.demandbase.com
 web.dev.demandbase.com
 web.developer.smartlook.com
@@ -110057,7 +110050,6 @@ ws2.statistic.date
 ws2.tapjoyads.com
 ws002.ws.tidafors.xyz
 ws002.www.datasecu.download
-ws002.www.jqwww.download
 ws2-aftm.responsys.net
 ws2-bafl.responsys.net
 ws02cn.streamplay.to
@@ -110081,12 +110073,10 @@ ws3.g-content.bid
 ws003.hemnes.win
 ws03.home.sapo.pt
 ws3.hotjar.com
-ws3.statistic.date
 ws3.tapjoyads.com
 ws3.trafficstars.com
 ws003.ws.tidafors.xyz
 ws003.www.datasecu.download
-ws003.www.jqwww.download
 ws03cn.streamplay.to
 ws3-live.live.eks.hotjar.com
 ws003-proxy-ajcryptominer.ajplugins.com
@@ -110119,7 +110109,6 @@ ws5-lazada.responsys.net
 ws5-live.live.eks.hotjar.com
 ws5n.responsys.net
 ws5-pier1.responsys.net
-ws005-proxy-ajcryptominer.ajplugins.com
 ws5t.responsys.net
 ws06.crypto.csgocpu.com
 ws06.crypto-loot.com
@@ -110130,7 +110119,6 @@ ws006.ws.tidafors.xyz
 ws006.www.datasecu.download
 ws006.www.jqwww.download
 ws6-live.live.eks.hotjar.com
-ws006-proxy-ajcryptominer.ajplugins.com
 ws07.crypto.csgocpu.com
 ws07.crypto-loot.com
 ws007.hemnes.win
@@ -110138,7 +110126,6 @@ ws7.hotjar.com
 ws7.ozvdarozv.com
 ws007.ws.tidafors.xyz
 ws007.www.datasecu.download
-ws007.www.jqwww.download
 ws7-live.live.eks.hotjar.com
 ws007-proxy-ajcryptominer.ajplugins.com
 ws08.crypto.csgocpu.com
@@ -110155,7 +110142,6 @@ ws009.hemnes.win
 ws9.hotjar.com
 ws009.ws.tidafors.xyz
 ws009.www.datasecu.download
-ws009.www.jqwww.download
 ws9f.adj.st
 ws9-live.live.eks.hotjar.com
 ws10.crypto-loot.com
@@ -110180,7 +110166,6 @@ ws12.hotjar.com
 ws12.tapjoyads.com
 ws012.ws.tidafors.xyz
 ws012.www.datasecu.download
-ws012.www.jqwww.download
 ws12-live.live.eks.hotjar.com
 ws13.crypto-loot.com
 ws013.hemnes.win
@@ -110210,7 +110195,6 @@ ws016.hemnes.win
 ws16.hotjar.com
 ws016.ws.tidafors.xyz
 ws016.www.datasecu.download
-ws016.www.jqwww.download
 ws16-live.live.eks.hotjar.com
 ws17.crypto-loot.com
 ws017.hemnes.win
@@ -110225,7 +110209,6 @@ ws018.hemnes.win
 ws18.hotjar.com
 ws018.ws.tidafors.xyz
 ws018.www.datasecu.download
-ws018.www.jqwww.download
 ws18-live.live.eks.hotjar.com
 ws018-proxy-ajcryptominer.ajplugins.com
 ws19.crypto-loot.com
@@ -110240,7 +110223,6 @@ ws020.hemnes.win
 ws20.hotjar.com
 ws020.ws.tidafors.xyz
 ws020.www.datasecu.download
-ws020.www.jqwww.download
 ws20-live.live.eks.hotjar.com
 ws020-proxy-ajcryptominer.ajplugins.com
 ws21.crypto-loot.com
@@ -110248,7 +110230,6 @@ ws021.hemnes.win
 ws21.hotjar.com
 ws021.ws.tidafors.xyz
 ws021.www.datasecu.download
-ws021.www.jqwww.download
 ws21-live.live.eks.hotjar.com
 ws22.crypto-loot.com
 ws022.hemnes.win
@@ -110257,8 +110238,6 @@ ws022.ws.tidafors.xyz
 ws022.www.datasecu.download
 ws022.www.jqwww.download
 ws22-live.live.eks.hotjar.com
-ws022-proxy-ajcryptominer.ajplugins.com
-ws23.crypto.csgocpu.com
 ws23.crypto-loot.com
 ws023.hemnes.win
 ws23.hotjar.com
@@ -110282,7 +110261,6 @@ ws025.hemnes.win
 ws25.hotjar.com
 ws025.ws.tidafors.xyz
 ws025.www.datasecu.download
-ws025.www.jqwww.download
 ws25-live.live.eks.hotjar.com
 ws025-proxy-ajcryptominer.ajplugins.com
 ws26.crypto-loot.com
@@ -110292,7 +110270,6 @@ ws026.ws.tidafors.xyz
 ws026.www.datasecu.download
 ws026.www.jqwww.download
 ws26-live.live.eks.hotjar.com
-ws026-proxy-ajcryptominer.ajplugins.com
 ws27.crypto-loot.com
 ws027.hemnes.win
 ws27.hotjar.com
@@ -110330,7 +110307,6 @@ ws032.hemnes.win
 ws32.hotjar.com
 ws032.ws.tidafors.xyz
 ws32-live.live.eks.hotjar.com
-ws032-proxy-ajcryptominer.ajplugins.com
 ws33.crypto-loot.com
 ws33.hotjar.com
 ws33.tapjoyads.com
@@ -110369,11 +110345,9 @@ ws44.crypto-loot.com
 ws45.crypto-loot.com
 ws46.crypto-loot.com
 ws47.crypto-loot.com
-ws48.crypto.csgocpu.com
 ws48.crypto-loot.com
 ws49.crypto.csgocpu.com
 ws49.crypto-loot.com
-ws50.crypto.csgocpu.com
 ws50.crypto-loot.com
 ws110.infusionsoft.com
 ws186.infusionsoft.com
@@ -134097,7 +134071,6 @@ www.8hn.net
 www.8khmer.com
 www.8mouses.com
 www.8ocouui0a49a7a2.smetrics.traderonline.com
-www.8rf.com
 www.8si.ru
 www.08sprotlectsicteznzbnk.dnset.com
 www.8stars-sweets.k-plus.gr.com
@@ -135007,7 +134980,6 @@ www.acheterviagrafr24.com
 www.achetezfacile.com
 www.achievest.leadpages.co
 www.achorusline.org
-www.achterin.nl
 www.acidentesdemoto.com
 www.acimo.com
 www.acint.net
