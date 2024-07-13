@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 13 Jul 2024 08:57:56 +0000
+# Last converted - Sat, 13 Jul 2024 13:01:11 +0000
 #
 
 equipmentapes.com
@@ -5960,6 +5960,7 @@ bejolteonor.com
 beklefkiom.com
 beklinkor.com
 belamicash.com
+belatedsafety.pro
 belavoplay.com
 belaya2shu1ba1.com
 belengougha.com
@@ -31195,6 +31196,7 @@ shockadviceinsult.com
 shocked-failure.com
 shockedfoxed.top
 shocking-design.pro
+shocking-profile.pro
 shockingrobes.com
 shockingstrategynovelty.com
 shoeingneurone.com
@@ -37369,6 +37371,7 @@ whootapt.com
 whootascots.com
 whootkhankah.com
 whoppercreaky.com
+whopping-sea.com
 whopstriglot.com
 whoptoorsaub.com
 whorlysenior.top
