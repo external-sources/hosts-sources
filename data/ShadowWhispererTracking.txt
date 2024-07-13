@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Sat, 13 Jul 2024 13:01:31 +0000
+# Last converted - Sat, 13 Jul 2024 16:58:05 +0000
 #
 
 01counter.com
@@ -51365,7 +51365,6 @@ sf.90seconds.com
 sf.acchaku-dm.net
 sf.aki-gmbh.com
 sf.anest-iwata.co.jp
-sf-api-token-service.itunes.apple.com
 sf.aquinahealth.com
 sfa.toyotsu-chemiplas.com
 sf.aviahealth.com
