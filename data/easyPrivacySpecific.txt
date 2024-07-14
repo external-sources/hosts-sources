@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 14 Jul 2024 13:27:15 +0000
+# Last converted - Sun, 14 Jul 2024 17:00:35 +0000
 #
 
 a-reporting.nytimes.com
@@ -140,6 +140,7 @@ collector.github.com
 collector.githubapp.com
 collector.megaxh.com
 collector.pi.spectrum.net
+collector.quillbot.com
 collector.taoxh.life
 collector.xhaccess.com
 collector.xhamster.com
@@ -277,6 +278,7 @@ iam-rum-intake.datadoghq.com
 iedc.fitbit.com
 iguazu.doordash.com
 ih.newegg.com
+impressions.svc.abillion.com
 improve.tempest.com
 indmetric.rediff.com
 ingest.make.rvohealth.com
