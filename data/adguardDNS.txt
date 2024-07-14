@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 14 Jul 2024 04:58:08 +0000
+# Last converted - Sun, 14 Jul 2024 08:58:45 +0000
 #
 
 equipmentapes.com
@@ -49843,7 +49843,6 @@ k.streamrail.com
 k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com
 kalstats.kaltura.com
 l.fairblocker.com
-lambda-url.us-east-1.on.aws
 laurel.macrovision.com
 laurel.rovicorp.com
 leadtracking.plumvoice.com
@@ -60705,6 +60704,7 @@ gkypgw.xyz
 lyislol.top
 tgrpzl.xyz
 kwiqcoh.icu
+lajevt.xyz
 57573zubo36833.com
 imgoss2255.top
 tupian88888.com
