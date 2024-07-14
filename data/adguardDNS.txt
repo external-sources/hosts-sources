@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 14 Jul 2024 08:58:45 +0000
+# Last converted - Sun, 14 Jul 2024 13:27:07 +0000
 #
 
 equipmentapes.com
@@ -4485,6 +4485,7 @@ apostlegrievepomp.com
 apostropheammunitioninjure.com
 apostrophepanediffer.com
 app.tippp.io
+app2up.info
 appads.com
 apparatusditchtulip.com
 apparelbrandsabotage.com
@@ -5142,6 +5143,7 @@ aumtoost.net
 auneghus.net
 aungudie.com
 aunsagoa.xyz
+aunsaick.com
 auntlyseniors.top
 auobxpvjej.xyz
 auphirtie.com
@@ -5307,6 +5309,7 @@ awkiktwfvhqiwb.com
 awkljjaaweyzm.top
 awkwardpurfles.com
 awkwardsuperstition.com
+awldcupu.com
 awledconside.xyz
 awlov.info
 awltovhc.com
@@ -5446,6 +5449,7 @@ b2d43e2764.com
 b2o6b39taril.com
 b30674b49e.com
 b397db8f50.com
+b3b526dee6.com
 b3kyo0de1fr0.com
 b3mccglf4zqz.shop
 b3ra6hmstrioek54er.com
@@ -8470,6 +8474,7 @@ claimedthwartweak.com
 clairekabobs.com
 clampalarmlightning.com
 clangearnest.com
+clankexpelledidentification.com
 clanklastingfur.com
 clapperfone.uno
 clarifyeloquentblackness.com
@@ -13284,6 +13289,7 @@ falsarywaybung.com
 falsechasingdefine.com
 falsifybrightly.com
 falsifylilac.com
+familiarpyromaniasloping.com
 familyborn.com
 familycomplexionardently.com
 famobmf.com
@@ -14505,6 +14511,7 @@ ftnrhdekbt.com
 ftqygccvexbxpb.com
 ftte.fun
 ftte.xyz
+fttervlvoj.com
 fttjyji.com
 ftuaxqokbxow.com
 ftv-publicite.fr
@@ -15254,6 +15261,7 @@ glaxaukr.net
 glazegha.com
 glazepalette.com
 glbtrk.com
+gldrdr.com
 gleagainedam.info
 gleamcalumnygeneralize.com
 gleamcoupgently.com
@@ -15671,6 +15679,7 @@ gqagmovxyk.com
 gqalqi656.com
 gqcmqihonrx.com
 gqdvbkmnkox.com
+gqfuf.com
 gqhrflhprg.com
 gqilaywrqy.com
 gqskcsljniadk.com
@@ -16887,6 +16896,7 @@ hmndkdan.com
 hmrxsxvl.com
 hmsykhbqvesopt.xyz
 hmutggsidcnhj.com
+hmxg5mhyx.com
 hmyuokltxplqwfa.com
 hn1l.site
 hnfljokqhc.com
@@ -17551,6 +17561,7 @@ ifrjnpv.com
 ifsjqcqja.xyz
 ifsnickshriek.click
 ifsnickshriek.com
+ifulasaweatherc.info
 ifvxoluyhof.com
 ifzpvnrjp.com
 ig0nr8hhhb.com
@@ -18263,6 +18274,7 @@ intersectionweigh.com
 interstateflannelsideway.com
 interstitial-07.com
 interstitial-08.com
+intervention304.fun
 interviewabonnement.com
 interviewearnestlyseized.com
 interviewidiomantidote.com
@@ -19986,6 +19998,7 @@ krivo.buzz
 krixyncbsyhju.com
 krjxhvyyzp.com
 krkmkvxneig.com
+krkstrk.com
 kronentriduo.top
 kronosspell.com
 krqjfirm.com
@@ -21395,6 +21408,7 @@ lycoty.com
 lydebbqcuam.com
 lydiacorneredreflect.com
 lydiapain.com
+lyearsfoundhertob.com
 lyfoldqwyihiv.xyz
 lygbbkgykzcr.com
 lygvtmeaekuv.com
@@ -23191,6 +23205,7 @@ namelymutiny.com
 namesakecapricorntotally.com
 namesakedisappointmentpulverize.com
 namesakeoscilloscopemarquis.com
+namjzoa.xyz
 namol.xyz
 nan0cns.com
 nan46ysangt28eec.com
@@ -23406,6 +23421,7 @@ negotiationmajestic.com
 negxkj5ca.com
 negyuk.com
 nehree.com
+neighborhood268.fun
 neigna.com
 neintheworld.org
 neitherpennylack.com
@@ -24548,6 +24564,7 @@ ograuwih.com
 ogrrmasukq.com
 ogtakvkpoaxt.com
 ogvkyxx.com
+ogwkwcgmnarq.com
 ogwmubfnjbzyo.com
 ogwnjcumfbgm.com
 ogwqkgtboxol.com
@@ -25099,6 +25116,7 @@ oretracker.top
 oreyeshe.info
 orfa1st5.de
 orgagetnization.org
+organiccopiedtranquilizer.com
 organizecoldness.com
 organrydipody.com
 organsthud.com
@@ -25672,6 +25690,7 @@ palroudi.xyz
 palsybrush.com
 palsyowe.com
 paltryheadline.com
+paluinho.cloud
 palvanquish.com
 palycaid.life
 palzscurou.com
@@ -26355,6 +26374,7 @@ phepofte.net
 pheptoam.com
 pheselta.net
 phesheet.net
+phetsaikrugi.com
 phewhouhopse.com
 phftcml.com
 phglobk.com
@@ -27680,6 +27700,7 @@ psefteeque.com
 pseidpmubwu.com
 psemotion.top
 psensuds.net
+psergete.com
 psfdi.com
 psfgobbet.com
 pshb.me
@@ -29252,6 +29273,7 @@ rendreamingonnight.info
 renewdateromance.life
 renewedinexorablepermit.com
 renewmodificationflashing.com
+renewpacificdistrict.com
 renomeeguze.com
 renovatefairfaxmope.com
 renownsimultaneouslyunresolved.com
@@ -29755,6 +29777,7 @@ rmhptjwikttv.com
 rmixfgusqoc.com
 rmndme.com
 rmrtgsheui.com
+rmshqa.com
 rmuuspy.com
 rmvvawqobqvaq.top
 rmvvawqobqvmv.top
@@ -30625,6 +30648,7 @@ scissorwailed.com
 scjhnjvlyd.com
 scl6gc5l.site
 sclerasliflod.top
+sclimbwidower.top
 sclrnnp.com
 scnd-tr.com
 scobbypseudo.guru
@@ -31278,6 +31302,7 @@ shrillinstance.pro
 shrillwife.pro
 shrillyfinland.com
 shrimpexclusive.com
+shrimpgenerator.com
 shrinebroom.com
 shrinersstor.com
 shriteringle.digital
@@ -32854,6 +32879,7 @@ succeedappointedsteve.com
 succeedingpeacefully.com
 succeedprosperity.com
 success-news.net
+successcuff.com
 successfulpatience.com
 successionfireextinguisher.com
 successionflimsy.com
@@ -38382,6 +38408,7 @@ xxxnewvideos.com
 xxxoh.com
 xxxrevpushclcdu.com
 xxxviijmp.com
+xxxvijmp.com
 xxxvjmp.com
 xxxwebtraffic.com
 xyardnle.com
@@ -56560,6 +56587,7 @@ atomictrivia.ru
 atqa11.com
 atspace.tv
 atyphy.cyou
+aurasport.net
 auth.bitdefenderupdate.com
 avietcombank.com
 awae-shop.com
@@ -56585,6 +56613,7 @@ banthang.me
 banvoucher-vn.weeblysite.com
 baohanhdienmayxanhvn.com
 baohiemvietinbank.com
+baohiemxahoi.vnagov.com
 baosaoviet24h.net
 baothanhnien.top
 baotienphong.net
@@ -56680,6 +56709,7 @@ cettiarl.com
 cf222.art
 cgovn.cc
 chamsockhachang.com
+chamsockhachhang-uudai-the-truc-tuyen.online
 chamsockhachhang-uudaithe-thang6.com
 chamsockhachhang-uudaitructuyen.online
 chamsockhachhangnanghanmuctindungmsb.com
@@ -56699,6 +56729,7 @@ checkerviet.win
 checkfbviet.tk
 chientich-sinhnhat-lienquanvn.gq
 chientich-sinhnhatlienquangarenavn.ml
+chinhphu.cc
 chovayfecredit.com
 chovaynhanh.online
 chovaytiengopsg.com
@@ -57232,6 +57263,7 @@ giaitrimomo.net
 giaiviet259.com
 giaodich-quetthetindung.com
 giaodich-quetthetindungvn.com
+giaodichdaquocgia.us
 giaodichphieurutienmposvn.com
 giaodichpostructuyenvn.com
 giaodichquettindungpos247-online.com
@@ -57251,6 +57283,7 @@ giftcode-lienquan-vn.com
 giftcode-lienquanmobile-vn.com
 giftcode-mobilelienquan.com
 giftcode-sukienaov.com
+giiao.hangtietkiem.com
 giongcatrienvong-gionghatvietnhi-mua3.weebly.com
 gionghatviet2021nhi.weebly.com
 gionghatvietnhi-mua01-nam2022.weebly.com
@@ -57285,6 +57318,7 @@ griefcube.cc
 grn-membershipff.com
 grn-memberships.com
 grn-memberships2021.com
+groceryshootworld.com
 growthtransport.com
 gs360.shop
 gt091102204euc.click
@@ -57618,6 +57652,7 @@ ladyvietnam.online
 laisuatkiemtiencao.com
 lambangcap3giare.net
 langthang7.ml
+lapdatinternet.net
 largerinscale.cfd
 larpollicwilli.club
 lavas.exchange
@@ -57920,6 +57955,7 @@ mobilegamerstats.com
 modgameviet.com
 modifiedseem.com
 mohopnhanpham-garena.com
+mojgov.weebly.com
 momo.builders
 momo.wiki
 momo10s.com
@@ -58095,6 +58131,7 @@ nang-han-muc-ido-vpbank.com
 nang-han-muc-vcs1-khcn-vib.com
 nang-han-muc-vip-vpbank.com
 nang-hang-ca-nhan-vib-mrk1.com
+nang-hang-the-vip2-vib.com
 nang-hang-tin-dung-ca-nhan.com
 nanghanmuc-thetindung.com
 nanghanmuc-tindungvn.com
@@ -58515,6 +58552,7 @@ qualityt56.com
 quamembergarena.com
 quamemberthang9-freefirevn.com
 quamomo.vn
+quandoi-viettel.com
 quangnamquetoi.weebly.com
 quanhuyfree.cf
 quanhuylqmb.com
@@ -58904,6 +58942,7 @@ shopees.app
 shopeeshoppimg.com
 shopeesmarket.com
 shopeeson.com
+shopeesop.com
 shopeesukien.com
 shopeetiki.com
 shopeetro.club
@@ -59167,6 +59206,7 @@ sieuthivemaybaygiare.com
 simpliftsbefore.info
 sindtex.shop
 sinhvienvietnam2022.weebly.com
+sirec.in
 skhf11.com
 skhf66.com
 smilitygorb.club
@@ -59378,6 +59418,7 @@ tb55988.com
 tc-clicks.com
 tc-viet.click
 tcbcanhan.com
+tcvnhomefic.com
 tdkd00.com
 tdkd01.com
 tdkd02.com
@@ -59387,6 +59428,7 @@ tdkd08.com
 tdkt00.com
 tdkt01.com
 tdkt06.com
+tdkt07.com
 tdtc.shop
 techcombank.hicam.net
 techcombank.ngan-hang.net
@@ -59523,6 +59565,7 @@ tikictv7.com
 tikictv9.com
 tikihk.com
 tikiiii.com
+tikijaj2.com
 tikimall.org
 tikimall.top
 tikimast.com
@@ -59559,6 +59602,7 @@ tikivv.com
 tikiwork.net
 tikixv.com
 tikiy.cc
+tikt88.com
 tiktokcy1.com
 timivay.com
 timx2918.com
@@ -59796,6 +59840,7 @@ uptomscan.cfd
 upupdate.ooguy.com
 uslimsofbr.cfd
 uudai-tructuyen-chamsockhachhang-the.com.vn
+uudaikhachhang-tructuyen.com.vn
 uudailienquan.com
 uudainapthe.vn
 uudainganhang.com
@@ -60016,6 +60061,7 @@ verifytech.click
 vevebiendaovietnam2022.weebly.com
 vg99.co
 vgbfurkmbjw.org
+vgiao.hangtietkiem.com
 vhcmc2.xyz
 vi-mayman.com
 vi.liveen.vn
@@ -60023,6 +60069,7 @@ viashopee.com
 viaviet03.mobie.in
 vib-bank.com
 vib-cardnew.shop
+vib-gold-card.shop
 vib-mydiamon-khcn-uutien-vnc1.com
 vib-nang-the.com
 vib-nangcap.com
@@ -60386,6 +60433,8 @@ vnah567.com
 vnambzuon36sc.vip
 vnbitcoin.cc
 vnc63661s.com
+vnc69977s.com
+vnc75635s.com
 vnduthianhgroup.com
 vnebank.xyz
 vnexprress.com
