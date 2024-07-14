@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 13 Jul 2024 20:57:56 +0000
+# Last converted - Sun, 14 Jul 2024 02:03:10 +0000
 #
 
 equipmentapes.com
@@ -17,6 +17,7 @@ femqrjwnk.xyz
 routowoashie.xyz
 serve.yourporngod.com
 serve.everydayporn.co
+serve.bussyhunter.com
 xlvul.ajscdn.com
 ahmar2four.xyz
 ser678uikl.xyz
@@ -40660,6 +40661,7 @@ googlevads-cn.com
 1350c3.xyz
 156fd4.xyz
 1a1fb6.xyz
+1c52e1e2.live
 1dd6e9ba.xyz
 1f6a725b.xyz
 20519a.xyz
@@ -60699,6 +60701,10 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+gkypgw.xyz
+lyislol.top
+tgrpzl.xyz
+kwiqcoh.icu
 57573zubo36833.com
 imgoss2255.top
 tupian88888.com
