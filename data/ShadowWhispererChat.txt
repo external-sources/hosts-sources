@@ -1,7 +1,7 @@
 # ShadowWhispererChat
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
-# Last converted - Sun, 14 Jul 2024 17:00:42 +0000
+# Last converted - Sun, 14 Jul 2024 20:58:14 +0000
 #
 
 1talking.net
@@ -34,10 +34,12 @@ autopilot-instance-images.s3.us-west-1.amazonaws.com
 avaamo.ai
 avaamo.com
 avochato.com
+awhy.it
 bahasa.ai
 bespokechat.com
 bold360.com
 boldchat.com
+boost.ai
 botbanhang.vn
 botcopy.com
 bot.ebilobster.ai
@@ -48,6 +50,7 @@ bots.kore.ai
 botsnext.com
 botsonic.ai
 botsupply.ai
+broadly.com
 carrotquest.io
 cbox.co.za
 cbox.ws
@@ -62,6 +65,7 @@ chatango.com
 chat.api.autohome.com.cn
 chat-api.spartez-software.com
 chat-assets.frontapp.com
+chatbase.co
 chatbeacon.io
 chatbot.aisera.cloud
 chatbot.api.nn-group.com
@@ -78,6 +82,7 @@ chatbot.lifecell.ua
 chatbot.lmiutil.com
 chat-bot.nalog.ru
 chatbot.novaonx.com
+chatbot.pef.czu.cz
 chatbot-staging.novaonx.com
 chatbotthoitrang.novaonx.com
 chatbottudong.novaonx.com
@@ -86,6 +91,7 @@ chatbullet.com
 chat-cf.dealercenter.net
 chat.chatovod.ru
 chat.convertfox.com
+chatdealer.jp
 chat.dermstore.com
 chated.io
 chat.freshdesk.com
@@ -128,6 +134,8 @@ chat.ybsales.net
 checkbot.gosquared.com
 clare.ai
 clickdesk.com
+cliengo.com
+clientchatlive.com
 clients-liveguide01us.netop.com
 cobrowse.oraclecloud.com
 comm100.com
@@ -191,6 +199,7 @@ goftino.com
 gomoment.com
 gorgias.chat
 gorgias.com
+gorgias.help
 gorgias.io
 gosimplr.com
 gotolstoy.com
@@ -216,7 +225,9 @@ inbenta.io
 incontact.com
 inforobo.com
 instabot.io
+inteliwise.com
 intelliresponse.com
+intelliticks.com
 interactions.com
 interacton4.infomedia.co.id
 intercom-attachments-1.com
@@ -233,6 +244,7 @@ kayako.com
 kenect.com
 kevit.io
 keyreply.com
+kodabots.com
 kommunicate.io
 kustomerapp.com
 ladesk.com
@@ -273,16 +285,20 @@ lpsnmedia.net
 lucy.ai
 manychat.com
 medchatapp.com
+melibo.de
 membitbot.com
 messenger.cdn.greyhound-software.com
 me-talk.ru
 mindbehind.com
 mindsay.com
 mochi.ai
+moin.ai
 mylivechat.com
+mymaisie.com
 nanorep.co
 nanorep.com
 nanorep.us
+neurologic.com.br
 ngageics.com
 ngagelive.com
 nice-incontact.com
@@ -307,6 +323,7 @@ podium.com
 proactive-chat-server-us.prod.aws.lcloud.com
 prod2-live-chat-mqtt.sprinklr.com
 prod2-live-chat.sprinklr.com
+prod-chat-configs.s3.eu-south-1.amazonaws.com
 productstrategymeanssayingno.com
 propel.ai
 providesupport.com
@@ -331,6 +348,7 @@ revechat.com
 richpanel.com
 rocket.chat
 roko.mobi
+rul.ai
 salesforceliveagent.com
 salesiq.zoho.com
 sales-live-chat.stripe.com
@@ -359,6 +377,7 @@ spartezchatfiles.b-cdn.net
 speedyrhino.co
 srchat.sportradar.com
 ssl1-thelivechatsoftware.liveadmins.netdna-cdn.com
+stadtwerk.bot
 standby.comm100vue.com
 static-kapchat.s3.amazonaws.com
 subiz.com
@@ -380,7 +399,9 @@ tiledesk.com
 uhchat.net
 uschat4.contivio.com
 uscolgatewebsitebot-dot-colpal-cloud-chatbot-prod.ue.r.appspot.com
+usekoda.com
 usemessages.com
+userbot.ai
 user.com
 userlike.com
 vajra.ai
@@ -403,6 +424,7 @@ web-chat-tuio-2019.firebaseio.com
 webim.ru
 webmecanik.inbenta.com
 whoson.com
+widgets.binotel.com
 wotnot.io
 writesonic.com
 yellow.ai

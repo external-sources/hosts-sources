@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Sun, 14 Jul 2024 17:00:42 +0000
+# Last converted - Sun, 14 Jul 2024 20:58:13 +0000
 #
 
 0i0i0i0.com
@@ -1983,7 +1983,6 @@ justuno.com
 jwpltx.com
 k-analytix.com
 kaggle.io
-kalganautographeater.com
 kalooga.com
 kameleoon.com
 kameleoon.eu
@@ -2022,7 +2021,6 @@ l9bjkkhaycw6f8f4.soundcloud.com
 labaz.vip
 lacquerreddeform.com
 ladsp.jp
-largedoubly.com
 laserdrivepreview.com
 latinon.com
 latinwayy.com

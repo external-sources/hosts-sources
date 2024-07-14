@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Sun, 14 Jul 2024 17:00:44 +0000
+# Last converted - Sun, 14 Jul 2024 20:58:16 +0000
 #
 
 01counter.com
@@ -4578,6 +4578,7 @@ analytics.bolorsoft.com
 analytics.bol.vin
 analytics.bomatec.com
 analytics.bondissimo.fr
+analytics.bonfire.com
 analytics.bonfireleads.com
 analytics.bonnevillesheriff.com
 analytics.bonos.io
@@ -14938,6 +14939,7 @@ buycostumesemail.com
 buy.downhomepm.com
 buyergenomics.com
 buyfi.com
+buygoods.com
 buyinland.inlandpackaging.com
 buy.nascominc.com
 buyseasonsemail.com
@@ -15997,6 +15999,7 @@ clk.ingage.jp
 clk.l5srv.net
 clk.lenovo.com.cn
 clk.liberty-e.com
+clkmc.com
 clk.medialabel.de
 clk.members.fling.com
 clkmg.com
@@ -17588,6 +17591,7 @@ customeriomail.com
 customerlabs.co
 customerlabs.com
 customer.living-life.co.jp
+customers.ai
 customers.arvest.com
 customerspeaks.lntnxt.com
 customers.simplyhired.com
@@ -19044,6 +19048,7 @@ data.online.clubeextra.com.br
 data.online.paodeacucar.com
 data.page.worldvision.ca
 data.partner-offers.airmiles.ca
+data.patchbox.com
 datapat.io
 data.pharmacyservices.riteaid.com
 data.pnet.co.za
@@ -20094,6 +20099,7 @@ dtpgroup.co.uk
 dtrck.net
 dtscout.com
 dttrk.com
+dt-ukis-standard-logging-ingester.cf.sky.com
 d.turn.com.akadns.net
 dtxlpdcemgvh9.cloudfront.net
 dtxngr.com
@@ -20120,6 +20126,7 @@ dw.about.me
 dwao.in
 dwconsulware.com
 dwin1.com
+dwt.soundcloud.com
 dwuzxuvwlq.winticket.jp
 dw.xcar.com.cn
 dxaop.bcbsla.com
@@ -22341,6 +22348,7 @@ geo2.adobe.com
 geo2.ggpht.com
 geo3.ggpht.com
 geo.adobe.com
+geo-api.bestodds.com
 geoapify.com
 geoapi.indiatimes.com
 geo-api.xogrp.com
@@ -23202,6 +23210,7 @@ gtktomlw.com
 gtm.aeg.co.uk
 gtm.ahlens.se
 gtm.alliedtransportgroup.com
+gtmanalytics.kommo.com
 gtm.bswhealth.com
 gtm.careercontessa.com
 gtm.challengermode.com
@@ -29360,6 +29369,7 @@ logging-e2e.api.intuit.com
 logging.goodgamestudios.com
 logging.groupon.com
 logging.je-apps.com
+logging.mp.lura.live
 logging-proxy-ca-production-170512-af60esna.uc.gateway.dev
 logging.pw.adn.cloud
 logging-service-prod.getepic.com
@@ -31907,6 +31917,7 @@ matomo.hotelsathome.com.cn
 matomo.hotnews.ro
 matomo.hoveict.nl
 matomo.hq.citizenlab.co
+matomo.h-s-a-g.de
 matomo.hsl-europe.eu
 matomo.hsu-hh.de
 matomo.hub.gmbh
@@ -36627,6 +36638,7 @@ mobile.enthrall.jp
 mobilegamestats.com
 mobileindustryeye.com
 mobilelog.kugou.com
+mobilemonkey.com
 mobilenetworkscoring-pa.googleapis.com
 mobiletech.no
 mobiletracker.org
@@ -39882,6 +39894,7 @@ payplanfinancialservicesmail.com
 payplanmail.com
 payrollhr.ahola.com
 pbbl.co
+pbc.nypost.com
 pbcs.nypost.com
 pbcs.realtor.com
 pb.gochikurunow.com
@@ -47499,6 +47512,7 @@ play5r.com
 play.americanparkscompany.com
 playapprecommendations.googleapis.com
 playbookux.com
+playererror.zype.com
 player-feedback-v1.glomex.com
 player.stats.live-video.net
 player-telemetry.vimeo.com
@@ -48134,6 +48148,7 @@ pwstats.leonardoweb.eu
 pw.uloz.to
 pw.unir.net
 pwztag.com
+px.0o0o.io
 px-cdn.net
 pxchk.net
 px-client.net
@@ -55931,6 +55946,7 @@ sparkinsights.co
 sparklesleet.com
 sparklingnumber.com
 sparklingshelf.com
+sparkloop.app
 sparkplug.tech
 sparkpost.com
 sparkpostmail.com
@@ -68169,6 +68185,7 @@ telemetry.atheesh.org
 telemetry_az361816.vo.msecnd.net
 telemetry.boxt.co.uk
 telemetry.canva.com
+telemetry.cell-0.ca-central-1.prod.tangerinebox.console.aws.a2z.com
 telemetry.cell-0.us-east-2.prod.tangerinebox.console.aws.a2z.com
 telemetry.chrobinson.com
 telemetry-clients.svc.halowaypoint.com
@@ -76730,6 +76747,7 @@ zkustats.ziraatkatilim.com.tr
 z.lenmit.com
 zlp6s.pw
 zmctrack.net
+zmetrics.msn.com
 zms.zalando.com
 z-na.associates-amazon.com
 znctrack.net
