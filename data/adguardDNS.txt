@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 15 Jul 2024 16:57:49 +0000
+# Last converted - Mon, 15 Jul 2024 20:58:12 +0000
 #
 
 duxlveokumpmd.com
@@ -43135,6 +43135,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+sec.webeyez.com
 michiganrobotflower.com
 uid.mediacorp.sg
 exacttarget.com
@@ -46631,6 +46632,7 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+akn.analytics.autodesk.com
 marketing.dropbox.com
 ok88okg.infinityscans.net
 evt.24.com
@@ -56366,6 +56368,7 @@ v9banners.com
 vieon-tracking.vieon.vn
 vietbuzzad.com
 vietdorje.com
+vietnamdaily-log.trithuccuocsong.vn
 vlxx.host
 vnadssb.com
 web-analytic.ghtk.vn
@@ -60633,6 +60636,7 @@ w88banh.com
 walmartshoping.com
 warrenmoneytrader.com
 watch-online.49n7wqynho5u.top
+wbk9sohp.jdpz.link
 wdxzlv.org
 web-membbership-freefire-garena.com
 web-shopee-vn.com
