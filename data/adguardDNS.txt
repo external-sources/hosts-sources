@@ -1,9 +1,11 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 15 Jul 2024 08:57:53 +0000
+# Last converted - Mon, 15 Jul 2024 13:09:43 +0000
 #
 
+duxlveokumpmd.com
+stoogouy.net
 equipmentapes.com
 vg876yuj.click
 lmj8i.pro
@@ -60767,6 +60769,8 @@ xmhszb.xyz
 jasdz1.cn
 hyretuu.top
 iteyi.xyz
+aoiqa.top
+uaiqp.top
 57573zubo36833.com
 imgoss2255.top
 tupian88888.com
