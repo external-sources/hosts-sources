@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 15 Jul 2024 04:57:58 +0000
+# Last converted - Mon, 15 Jul 2024 08:57:53 +0000
 #
 
 equipmentapes.com
@@ -60763,6 +60763,10 @@ duyewnf.icu
 cyretuf.top
 udipsumt.top
 swwdke.xyz
+xmhszb.xyz
+jasdz1.cn
+hyretuu.top
+iteyi.xyz
 57573zubo36833.com
 imgoss2255.top
 tupian88888.com
