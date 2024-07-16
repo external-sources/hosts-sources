@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 15 Jul 2024 20:58:20 +0000
+# Last converted - Tue, 16 Jul 2024 01:57:30 +0000
 #
 
 a-reporting.nytimes.com
@@ -397,6 +397,7 @@ pixelzirkus.gameforge.com
 pixiedust.buzzfeed.com
 pks-analytics.raenonx.cc
 pl.letsblock.it
+pl.lucida.to
 plausible.bots.gg
 plausible.dragonfru.it
 plausible.omgapi.org
