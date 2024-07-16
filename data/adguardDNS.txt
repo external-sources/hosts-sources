@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 16 Jul 2024 08:57:54 +0000
+# Last converted - Tue, 16 Jul 2024 12:59:38 +0000
 #
 
+syndicatedsearch.goog
 duxlveokumpmd.com
 stoogouy.net
 equipmentapes.com
@@ -41014,6 +41015,7 @@ pb.s3wfg.com
 pics.firstload.de
 plchldr.co
 popmog.com
+probid.ai
 promos.fling.com
 protected-redirect.click
 proto2ad.durasite.net
@@ -54664,6 +54666,7 @@ adserver.so-rummet.se
 adservice.google.se
 advert.livesportmedia.eu
 advert.rabaldermedia.se
+aeonmedia.matomo.cloud
 af.analytics.elx.cloud
 affiliatemedia.speedybet.com
 affiliates.videoslots.com
@@ -54773,6 +54776,7 @@ cdn1.profitmetrics.io
 cdn-magiclinks.trackonomics.net
 cdn.pushmaster-cdn.xyz
 cdn.vip-hd-movies.xyz
+cdp-eu.customer.io
 cintnetworks.com
 cision.com
 cl.k5a.io
@@ -66264,6 +66268,7 @@ z.nowscore.com
 zt2088.com
 ztyumn.ifeng.com
 27gh.cc
+udd1i5.zhihu.com
 hl.dyq.cn
 003store.com
 0941.org
