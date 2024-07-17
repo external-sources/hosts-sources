@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Wed, 17 Jul 2024 13:08:32 +0000
+# Last converted - Wed, 17 Jul 2024 16:59:03 +0000
 #
 
 010.at
@@ -1146,6 +1146,7 @@ lt27.de
 ltd.ac
 ludigi.co
 luis.im
+luna.rip
 lup.to
 lurl.org
 luto.lol
