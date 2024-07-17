@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 17 Jul 2024 08:58:09 +0000
+# Last converted - Wed, 17 Jul 2024 13:08:10 +0000
 #
 
 austere-familiar.com
@@ -1287,6 +1287,7 @@ minutelight-1.online
 revrtb.com
 newbluetrue.xyz
 onemediawork.com
+d162h6x3rxav67.cloudfront.net
 tapi.apkpure.net
 advertising-cdn.dpgmedia.cloud
 d2lg0swrp15nsj.cloudfront.net
@@ -43158,6 +43159,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+t.mm-uxrv.com
 sec.webeyez.com
 michiganrobotflower.com
 uid.mediacorp.sg
@@ -46650,6 +46652,8 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+stats.habr.com
+analytics.qs-apps.com
 cnt.web-apps-prod.wo-cloud.com
 akn.analytics.autodesk.com
 marketing.dropbox.com
@@ -49655,6 +49659,7 @@ bi.heyloyalty.com
 bi.medscape.com
 bmrg.reflected.net
 botdetection.hbrsd.com
+browser.covatic.io
 browser.pipe.aria.microsoft.com
 bs.yandex.ru
 c.amazinglybrilliant.com.au
@@ -54739,7 +54744,6 @@ bitstarz.com
 boost-cdn.manatee.dk
 borsvarlden-banners.azurewebsites.net
 brandy.bonniernewslifestyle.se
-browser.covatic.io
 browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
 buzzador.com
@@ -60780,6 +60784,7 @@ plecnyz.icu
 ldipsuml.top
 qhscsu.xyz
 vxdrfr.xyz
+mkscy6.cn
 gkypgw.xyz
 lyislol.top
 tgrpzl.xyz
