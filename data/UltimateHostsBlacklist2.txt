@@ -1,9 +1,11 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Wed, 17 Jul 2024 16:59:08 +0000
+# Last converted - Wed, 17 Jul 2024 20:58:19 +0000
 #
 
+realestatemarketingme.com
+realestatemasteryteam.postaffiliatepro.com
 realestatenexus.clickfunnels.com
 real-estate-page-account-business.000webhostapp.com
 realestateprofessionalsinternational.com
@@ -17375,7 +17377,6 @@ sasrlink-px.rtrk.com
 sass2.directprimal.com
 sass.cryptaloot.pro
 sass.cryptoloot.pro
-sass.directprimal.com
 sass.webmine.pro
 sassarirc.top
 sassat3000.clickfunnels.com
@@ -69252,7 +69253,6 @@ thor.awtank.com
 thor.bankofamfrica.com
 thor.beck-technologies.com
 thor.bellsourth.com
-thor.blindferret.media
 thor.blueshielsca.com
 thor.bodenmarkt.info
 thor.bravenet.com
@@ -110284,6 +110284,7 @@ ws025.ws.tidafors.xyz
 ws025.www.datasecu.download
 ws025.www.jqwww.download
 ws25-live.live.eks.hotjar.com
+ws025-proxy-ajcryptominer.ajplugins.com
 ws26.crypto-loot.com
 ws026.hemnes.win
 ws26.hotjar.com
@@ -110304,6 +110305,7 @@ ws028.hemnes.win
 ws28.hotjar.com
 ws028.ws.tidafors.xyz
 ws028.www.datasecu.download
+ws028.www.jqwww.download
 ws28-live.live.eks.hotjar.com
 ws028-proxy-ajcryptominer.ajplugins.com
 ws29.crypto-loot.com
@@ -133967,9 +133969,11 @@ www.4allfree.com
 www.4anners.ero-advertising.com
 www.4asianporn.com
 www.4audhecpqutn1ec.smetrics.traderonline.com
+www.4beast.com
 www.4bilder1wort.org
 www.04bprotectsictznsbnk.dnset.com
 www.4bqs.com
+www.4cock.com
 www.4-counter.com
 www.4downfiles1.info
 www.4dsply.com
@@ -134049,6 +134053,7 @@ www.6lk4y.voluumtrk.com
 www.6m.pl
 www.6ox.de
 www.6sense.com
+www.6server.com
 www.6stuff.com
 www.6txb2jecnl1uojw.lyncaccess.adx1.com
 www.6txb2jecnl1uojw.www.lyncaccess.adx1.com
@@ -134065,6 +134070,7 @@ www.7dot.cn
 www.7eer.net
 www.7epta7.com
 www.7fb.ru
+www.7gfs.com
 www.7hari.info
 www.7metasearch.com
 www.7minuteworkout.com
@@ -134091,7 +134097,6 @@ www.8hn.net
 www.8khmer.com
 www.8mouses.com
 www.8ocouui0a49a7a2.smetrics.traderonline.com
-www.8rf.com
 www.8si.ru
 www.08sprotlectsicteznzbnk.dnset.com
 www.8stars-sweets.k-plus.gr.com
@@ -134897,6 +134902,7 @@ www.abetting.net
 www.abhilashakids.org
 www.abihpopihigh.tk
 www.abirestaurant.com
+www.ablefull.com
 www.a-blog.eu
 www.abmr.net
 www.abo.adx1.com
@@ -136121,6 +136127,7 @@ www.airindiasats.com
 www.airiscdp.appier.com
 www.airjordanfusions.com
 www.airmore.pl
+www.airpb.com
 www.airportsys.com
 www.airpr.com
 www.airpush.com
@@ -136559,12 +136566,14 @@ www.analytics-iq.com
 www.analyticson.com
 www.analytics-prod-m6tmapkf3q-uc.a.run.app
 www.analytics-testing-api-osybghtozq-ew.a.run.app
+www.ananashotel.com
 www.anarsi.info
 www.anash.info
 www.anastasiasaffiliate.com
 www.anate.money-for-you-2021.ru
 www.anatol.com
 www.anatomytrains.co.uk
+www.anbstudios.com
 www.ancestrymsn.112.2o7.net
 www.and-4ever.blogspot.com
 www.and.co.uk
@@ -142868,6 +142877,7 @@ www.etain.info
 www.etarget.sk
 www.etarin.info
 www.et-code.ru
+www.etemis.com
 www.ethaiinfo.com
 www.ethairdrops.com
 www.ethan.wang
@@ -144086,7 +144096,6 @@ www.fusestats.com
 www.fussballlivestream.net
 www.futanarigalleries.com
 www.futbollive.net
-www.futeboltv.com
 www.futureboy.leadpages.co
 www.futureiet.com
 www.futurelean.com
@@ -144896,7 +144905,6 @@ www.gressupwho.com
 www.greyhoundconnection.com
 www.greystripe.com
 www.gridcash.net
-www.gridiogrid.com
 www.grignot-nat.com
 www.gringoadventure.com
 www.grizz-snippet.herokuapp.com.sandbox.getambassador.com
@@ -146451,7 +146459,6 @@ www.izarc.fr
 www.izayoinet.info
 www.izvestia.info
 www.j3safetyismyname.com
-www.j9lib.com
 www.j12lib.com
 www.j22now.leadpages.co
 www.j.ubeat.info
@@ -154695,6 +154702,7 @@ www.stats4free.de
 www.stats4you.com
 www.stats.data2.ero-advertising.com
 www.stats.in.th
+www.stats.infogenservice.com
 www.stats.levels.fyi
 www.stats.net
 www.stats.speedclicks.ero-advertising.com
@@ -157918,16 +157926,21 @@ www.ws001.www.datasecu.download
 www.ws001.www.jqwww.download
 www.ws002.ws.tidafors.xyz
 www.ws002.www.datasecu.download
+www.ws002.www.jqwww.download
 www.ws003.ws.tidafors.xyz
 www.ws003.www.datasecu.download
+www.ws003.www.jqwww.download
 www.ws004.ws.tidafors.xyz
 www.ws004.www.datasecu.download
 www.ws004.www.jqwww.download
+www.ws05.crypto.csgocpu.com
 www.ws005.ws.tidafors.xyz
 www.ws005.www.datasecu.download
 www.ws005.www.jqwww.download
+www.ws06.crypto.csgocpu.com
 www.ws006.ws.tidafors.xyz
 www.ws006.www.datasecu.download
+www.ws006.www.jqwww.download
 www.ws07.crypto.csgocpu.com
 www.ws007.ws.tidafors.xyz
 www.ws007.www.datasecu.download
@@ -157936,11 +157949,13 @@ www.ws08.crypto.csgocpu.com
 www.ws008.ws.tidafors.xyz
 www.ws008.www.datasecu.download
 www.ws008.www.jqwww.download
+www.ws09.crypto.csgocpu.com
 www.ws009.ws.tidafors.xyz
 www.ws009.www.datasecu.download
 www.ws009.www.jqwww.download
 www.ws010.ws.tidafors.xyz
 www.ws010.www.datasecu.download
+www.ws010.www.jqwww.download
 www.ws011.ws.tidafors.xyz
 www.ws011.www.datasecu.download
 www.ws011.www.jqwww.download
@@ -157949,11 +157964,13 @@ www.ws012.www.datasecu.download
 www.ws012.www.jqwww.download
 www.ws013.ws.tidafors.xyz
 www.ws013.www.datasecu.download
+www.ws013.www.jqwww.download
 www.ws014.ws.tidafors.xyz
 www.ws014.www.datasecu.download
 www.ws014.www.jqwww.download
 www.ws015.ws.tidafors.xyz
 www.ws015.www.datasecu.download
+www.ws015.www.jqwww.download
 www.ws016.ws.tidafors.xyz
 www.ws016.www.datasecu.download
 www.ws016.www.jqwww.download
@@ -157962,13 +157979,16 @@ www.ws017.www.datasecu.download
 www.ws017.www.jqwww.download
 www.ws018.ws.tidafors.xyz
 www.ws018.www.datasecu.download
+www.ws018.www.jqwww.download
 www.ws019.ws.tidafors.xyz
 www.ws019.www.datasecu.download
+www.ws019.www.jqwww.download
 www.ws020.ws.tidafors.xyz
 www.ws020.www.datasecu.download
 www.ws020.www.jqwww.download
 www.ws021.ws.tidafors.xyz
 www.ws021.www.datasecu.download
+www.ws021.www.jqwww.download
 www.ws022.ws.tidafors.xyz
 www.ws022.www.datasecu.download
 www.ws022.www.jqwww.download
@@ -157983,6 +158003,7 @@ www.ws024.www.jqwww.download
 www.ws25.crypto.csgocpu.com
 www.ws025.ws.tidafors.xyz
 www.ws025.www.datasecu.download
+www.ws025.www.jqwww.download
 www.ws026.ws.tidafors.xyz
 www.ws026.www.datasecu.download
 www.ws026.www.jqwww.download
@@ -157991,14 +158012,15 @@ www.ws027.www.datasecu.download
 www.ws027.www.jqwww.download
 www.ws028.ws.tidafors.xyz
 www.ws028.www.datasecu.download
+www.ws028.www.jqwww.download
 www.ws029.ws.tidafors.xyz
 www.ws030.ws.tidafors.xyz
 www.ws031.ws.tidafors.xyz
 www.ws032.ws.tidafors.xyz
 www.ws39.adx1.com
+www.ws42.crypto.csgocpu.com
 www.ws48.crypto.csgocpu.com
 www.ws49.crypto.csgocpu.com
-www.ws50.crypto.csgocpu.com
 www.ws.tidafors.xyz
 www.wsel.net
 www.wsgreenways.org
@@ -168545,7 +168567,6 @@ yunjiasu-cdn.net
 yunmeng.getui.com
 yuno.tapfiliate.com
 yunpan.360.cn.domain.name
-yunque.pluto.ro
 yunss.info
 yunta.org.pe
 yunuk.000webhostapp.com

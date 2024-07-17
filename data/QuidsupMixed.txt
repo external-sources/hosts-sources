@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Wed, 17 Jul 2024 16:58:55 +0000
+# Last converted - Wed, 17 Jul 2024 20:58:11 +0000
 #
 
 0i0i0i0.com
@@ -13642,7 +13642,6 @@ mymarketingreports.com
 mynetreklam.com
 myornamenti.com
 mypush.io
-mystat-in.net
 myswitchads.com
 myvisualiq.net
 nan46ysangt28eec.com
@@ -13704,7 +13703,6 @@ norma-external-collect.meizu.com
 nosto.com
 notes-analytics-events.apple.com
 notifycertainty.com
-notifymetric.com
 notifyvisitors.com
 notsy.io
 noughttrustthreshold.com
@@ -13719,7 +13717,6 @@ nsfwadds.com
 nt.vc
 ntv.io
 nudgeworry.com
-nuffnang.com.sg
 nuggad.net
 numerino.cz
 nw-rail-03.com
@@ -14138,7 +14135,6 @@ rcsmetrics.it
 rdrctgoweb.com
 reactful.com
 readnotify.com
-realclever.com
 realmedia.com
 realsh.xyz
 realsrv.com

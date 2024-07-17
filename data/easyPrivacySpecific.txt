@@ -1,7 +1,7 @@
 # easyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 17 Jul 2024 16:58:45 +0000
+# Last converted - Wed, 17 Jul 2024 20:58:04 +0000
 #
 
 a-reporting.nytimes.com
@@ -50,6 +50,7 @@ analytics.gamesdrive.net
 analytics.getshogun.com
 analytics.global.sky.com
 analytics.hashnode.com
+analytics.inquisitr.com
 analytics.kaggle.io
 analytics.kooapp.com
 analytics.makeitmeme.com
