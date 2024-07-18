@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 18 Jul 2024 08:58:04 +0000
+# Last converted - Thu, 18 Jul 2024 13:09:51 +0000
 #
 
 austere-familiar.com
@@ -60843,6 +60843,9 @@ bdipsumv.top
 juznlx.xyz
 molpmh.xyz
 hjrcjz.xyz
+baijs010.xyz
+doujs09.xyz
+google-js-08.xyz
 gkypgw.xyz
 lyislol.top
 tgrpzl.xyz
