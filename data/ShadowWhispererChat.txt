@@ -1,7 +1,7 @@
 # ShadowWhispererChat
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
-# Last converted - Thu, 18 Jul 2024 16:58:22 +0000
+# Last converted - Thu, 18 Jul 2024 20:58:04 +0000
 #
 
 1talking.net
@@ -324,6 +324,7 @@ proactive-chat-server-us.prod.aws.lcloud.com
 prod2-live-chat-mqtt.sprinklr.com
 prod2-live-chat.sprinklr.com
 prod-chat-configs.s3.eu-south-1.amazonaws.com
+prod-live-chat.sprinklr.com
 productstrategymeanssayingno.com
 propel.ai
 providesupport.com

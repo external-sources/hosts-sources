@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Thu, 18 Jul 2024 16:58:21 +0000
+# Last converted - Thu, 18 Jul 2024 20:58:04 +0000
 #
 
 0i0i0i0.com
@@ -13864,7 +13864,6 @@ performgroup.com
 perkyexcitedlyscenario.com
 permutive.app
 permutive.com
-perryvolleyball.com
 personaclick.com
 personyze.com
 persoo.cz
@@ -13900,7 +13899,6 @@ ping.ublock.org
 pingback.giphy.com
 pingdom.net
 pinpoll.com
-pipeofferear.com
 pippio.com
 pitchedfurs.com
 piwik.com-online.com
@@ -14226,7 +14224,6 @@ rollserver.xyz
 roofprison.com
 routecdn.com
 royalflora.pw
-royapp.com
 rqtrk.eu
 rta2.metro.co.uk
 rtactivate.com
@@ -14497,7 +14494,6 @@ smetrics.aviationweek.com
 smetrics.aviva.co.uk
 smetrics.avnet.com
 smetrics.axs.com
-smetrics.bakerbrothersplumbing.com
 smetrics.bancomundial.org
 smetrics.bancsabadell.com
 smetrics.bankaustria.at
