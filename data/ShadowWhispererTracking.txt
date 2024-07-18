@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Thu, 18 Jul 2024 01:55:35 +0000
+# Last converted - Thu, 18 Jul 2024 04:58:17 +0000
 #
 
 01counter.com
@@ -21548,6 +21548,7 @@ fcmatch.google.com
 f.convertkit.com
 fc.vodafone.de
 fc.webmasterpro.de
+fd.api.iris.microsoft.com
 fdc.lenovo.com
 feabtest.prod.tvlk-data.com
 fearfowl.com
@@ -40149,6 +40150,7 @@ p.everquote.com
 pf01.planetfootball.com
 pf.intuit.com
 pf.newegg.com
+pf.pipe.aria.microsoft.com
 pf.santandernet.com.br
 pftk.temu.com
 p.gazeta.pl
@@ -68081,6 +68083,7 @@ t.birchlane.com
 t.blog.livedoor.jp
 tblsft.com
 t.bmgpm.rocks
+tb.pipe.aria.microsoft.com
 t.brandingbrand.com
 t.businessoffashion.com
 tc2.hometogo.net
@@ -70782,6 +70785,7 @@ us-library.klarnaservices.com
 usmetric.rediff.com
 us-power.mtu-solutions.com
 us-report.gras.samsungdm.com
+us-teams.events.data.microsoft.com
 us.vendura.com
 us.vtex.com
 us-west-1.onemobile.yahoo.com
@@ -71318,6 +71322,7 @@ wa.tjmaxx.tjx.com
 wa.t-mobile.nl
 wats.gogoinflight.com
 watsonanalytics.com
+watson.events.data.microsoft.com
 watson.live.com
 watson.microsoft.com
 watson.telemetry.microsoft.com

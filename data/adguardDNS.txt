@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 18 Jul 2024 01:55:14 +0000
+# Last converted - Thu, 18 Jul 2024 04:57:56 +0000
 #
 
 austere-familiar.com
