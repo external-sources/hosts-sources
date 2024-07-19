@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Fri, 19 Jul 2024 16:58:21 +0000
+# Last converted - Fri, 19 Jul 2024 20:58:10 +0000
 #
 
 0i0i0i0.com
@@ -14084,7 +14084,6 @@ pussycash.com
 putrr7.com
 pvclouds.com
 pwieu.com
-pwrlkyotm.com
 px.spiceworks.com
 px.srvcs.tumblr.com
 px.staticfiles.at
@@ -14123,7 +14122,6 @@ rad.live.com
 radiantsands.com
 radiumone.com
 raggedstriking.com
-rallydisprove.com
 rampanel.com
 rat.rakuten.co.jp
 rayjump.com
@@ -14601,7 +14599,6 @@ smetrics.convivacarecenters.com
 smetrics.coolray.com
 smetrics.cooltoday.com
 smetrics.copart.com
-smetrics.corpayone.com
 smetrics.correos.es
 smetrics.cortefiel.com
 smetrics.cortfurnitureoutlet.com

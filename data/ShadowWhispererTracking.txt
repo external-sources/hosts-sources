@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Fri, 19 Jul 2024 16:58:24 +0000
+# Last converted - Fri, 19 Jul 2024 20:58:12 +0000
 #
 
 01counter.com
@@ -12272,6 +12272,7 @@ analytics.vz.lt
 analytics.w00t.cloud
 analytics.w38.site
 analytics.w3code.de
+analytics.w3goodies.com
 analytics.w3-net.de
 analytics.w4u.fr
 analytics.w52.com
@@ -70868,6 +70869,8 @@ variantverdict.com
 varnexsmbcommunity.com
 varstadt.com
 vas.vintage-ip.com
+vaultdcr.com
+vaultdcr.tv
 vbtrax.com
 vcn.vcnagano.jp
 v-collector.dp.aws.charter.com
