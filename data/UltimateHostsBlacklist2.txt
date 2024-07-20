@@ -1,9 +1,10 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sat, 20 Jul 2024 13:01:56 +0000
+# Last converted - Sat, 20 Jul 2024 16:58:32 +0000
 #
 
+realestateinvestmentassistant.com
 realestateinvestorgoddesses.clickfunnels.com
 realestateitem113983.000webhostapp.com
 realestateitem7438234.000webhostapp.com
