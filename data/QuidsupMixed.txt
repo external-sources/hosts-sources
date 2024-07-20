@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Sat, 20 Jul 2024 16:58:20 +0000
+# Last converted - Sat, 20 Jul 2024 20:58:09 +0000
 #
 
 01mspmd5yalky8.com
@@ -14213,13 +14213,11 @@ rkdms.com
 rlcdn.com
 rlog.popin.cc
 rm0001.net
-rm0003.net
 rm0004.net
 rm0005.net
 rm02.net
 rm04.net
 ro-up.vivoglobal.com
-roadmappenal.com
 rockabox.co
 roia.biz
 roistat.com
@@ -14314,7 +14312,6 @@ segment.io
 seizedpenholdercranny.com
 sekindo.com
 sele.co
-selfadvertiser.com
 sellathon.com
 semasio.net
 sematext.com

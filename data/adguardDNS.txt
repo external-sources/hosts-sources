@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 20 Jul 2024 16:58:00 +0000
+# Last converted - Sat, 20 Jul 2024 20:57:54 +0000
 #
 
+ljr3.site
 lcarlbvwr.com
 thuckautiru.com
 metogthr.com
@@ -40866,6 +40867,7 @@ b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online
 b82978.xyz
 b903c2.xyz
 b9f25b.site
+bc0ca74b.live
 bc98ad.xyz
 bcbe.site
 bd5a57.xyz
@@ -56717,6 +56719,7 @@ aurasport.net
 auth.bitdefenderupdate.com
 avietcombank.com
 awae-shop.com
+bachhoaxanhh.com
 bachoaxanhh.com
 backuprabbit.com
 bagas3-1.com
@@ -56835,8 +56838,11 @@ cettiarl.com
 cf222.art
 cgovn.cc
 chamsockhachang.com
+chamsockhachhang-tructuyenuudaithe.online
 chamsockhachhang-uudai-the-truc-tuyen.online
+chamsockhachhang-uudai-tructuyenthe.com
 chamsockhachhang-uudaithe-thang6.com
+chamsockhachhang-uudaithecanhan-tructuyen.online
 chamsockhachhang-uudaitructuyen.online
 chamsockhachhangnanghanmuctindungmsb.com
 chamsockhachhangtheuudai-tructuyen.com.vn
@@ -57024,10 +57030,14 @@ dich-vu-kvip-vpbank.com
 dich-vu-online-vpbank.com
 dich-vu-the-ai-vpbank.com
 dich-vu-the-cashback-vib.com
+dich-vu-the-elite-vib.com
 dich-vu-the-ez-vpbank.com
 dich-vu-the-kt3-vib.com
+dich-vu-the-sat-vib.com
+dich-vu-the-svip-vib.com
 dich-vu-the-vdiamond-vib.com
 dich-vu-the-vdiamond-vpbank.com
+dich-vu-the-vvip-vib.com
 dich-vu-the-vvip-vpb.com
 dich-vu-update-vpbank.com
 dich-vu-vip3-vib.com
@@ -57081,6 +57091,7 @@ dienmayxanh542.com
 dienmayxanhantam.com
 dienmayxanhbeauty.com
 dienmayxanhbeautyplus.com
+dienmayxanhctv24.com
 dienmayxanhh.com
 dienmayxanhhcm.com
 dienmayxanhhcm24h.com
@@ -57186,6 +57197,7 @@ face-book.co
 faceb00k.com.vn
 facebook.c0m.ltd
 facebook4288062.blogspot.com
+facebook60118.blogspot.com
 facebook62747.blogspot.com
 facebook92288.blogspot.com
 facebookk.life
@@ -57203,6 +57215,7 @@ fairu-endpoint.xyz
 fairu-schnellvpn.com
 fairu-schnellvpn.xyz
 fajiafu30.com
+fajiafu50.com
 fb88viet.com
 fbviet88.com
 fc.adswt.com
@@ -59365,6 +59378,7 @@ sp5188.com
 sp56788.com
 sp6788.com
 sp7335p.com
+sp75193p.com
 sp77888.com
 sp8668vn.com
 spark123.shop
@@ -59553,6 +59567,7 @@ tdkd07.com
 tdkd08.com
 tdkt00.com
 tdkt01.com
+tdkt04.com
 tdkt06.com
 tdkt07.com
 tdtc.shop
@@ -60195,6 +60210,7 @@ viashopee.com
 viaviet03.mobie.in
 vib-bank.com
 vib-cardnew.shop
+vib-care.com
 vib-gold-card.shop
 vib-mydiamon-khcn-uutien-vnc1.com
 vib-nang-the.com
@@ -60441,6 +60457,7 @@ vipshopee.com
 viptikivn.club
 virtuallaughing.com
 visa-mb.com
+visa-vibbank.com
 visa-vpbank-uu-tien.com
 vitienonline88.com
 vitindungpgbank.com
@@ -60567,6 +60584,7 @@ vnexprress.com
 vnfiba.com
 vnhopqua.com
 vnietinbank.com
+vnmcrd2s.online
 vnpanda.shop
 vnpay-quetthetindung.com
 vnpay-ruttientindung.com
@@ -60605,6 +60623,7 @@ vnshoping.com
 vnsshoppe.com
 vntanghanmucvisadebit.com
 vntiki.shop
+vntiki1.com
 vntiki11.com
 vntikiship.com
 vntkm.com
@@ -60695,7 +60714,6 @@ vpb-nanghanmuc.com
 vpb-nanghanmuc.online
 vpbank-vaytien.com
 vpbank.appvest.vn
-vpbank.chamsockhachhang-uudaithecanhan-tructuyen.online
 vpbankvn.com
 vpbban.com
 vpbbank.com
