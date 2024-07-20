@@ -1,9 +1,11 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 20 Jul 2024 08:58:03 +0000
+# Last converted - Sat, 20 Jul 2024 13:01:32 +0000
 #
 
+lcarlbvwr.com
+thuckautiru.com
 metogthr.com
 rdtracer.com
 blogostock.com
@@ -2465,6 +2467,7 @@ mine.torrent.pw
 9content.com
 9d2cca15e4.com
 9d407e803d.com
+9d603009eb.com
 9dccbda825.com
 9dmnv9z0gtoh.com
 9e1852531b.com
@@ -4868,6 +4871,7 @@ asnincadar.com
 asnoibator.com
 asnortsalol.website
 asnothycan.info
+asnothycantyou.info
 aso1.net
 asoawhum.com
 asopn.com
@@ -11718,6 +11722,7 @@ dwightbridesmaid.com
 dwithmefeyauknal.info
 dwlgdzzltdekr.com
 dwlmjxf.com
+dwuxbazvi.com
 dwvbfnqrbif.com
 dwwpofwebdwm.com
 dxajhcdz.com
@@ -28308,6 +28313,7 @@ qdotzfy.com
 qdprapwflpvxpyl.com
 qdvducltjswp.com
 qe0ckm024b.com
+qebpwkxjz.com
 qebuoxn.com
 qedeczzdt.com
 qehjsjdubamsrt.com
@@ -30504,6 +30510,7 @@ sandsonair.com
 sandtheircle.com
 sandwich3452.fun
 sandwichdeliveringswine.com
+sandyrecordingmeet.com
 sandysuspicions.com
 sanedfalsely.com
 sanfordcessor.space
@@ -39063,6 +39070,7 @@ zelsaips.com
 zemstvahorn.top
 zemteksu.xyz
 zemydreamsa.info
+zemydreamsauk.com
 zemywwm.com
 zenam.xyz
 zenaot.xyz
