@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 19 Jul 2024 20:57:53 +0000
+# Last converted - Sat, 20 Jul 2024 01:50:32 +0000
 #
 
 metogthr.com
@@ -5718,6 +5718,7 @@ basheighthnumerous.com
 bashfuladvancedeliberately.com
 bashnourish.com
 bashwhoopflash.com
+basicallyspacecraft.com
 basicflownetowork.co.in
 basictreadcontract.com
 basicwhenpear.com
@@ -9724,6 +9725,7 @@ ctykxlvztyy.com
 cubbingrebbes.com
 cubchillysail.com
 cubeslichees.com
+cubeuptownpert.com
 cubgeographygloomily.com
 cubicnought.com
 cuckooretire.com
@@ -27936,6 +27938,7 @@ ptyomtzjpdlcf.com
 pu5hk1n2020.com
 pub.network
 pubacca5mc.com
+pubadx.one
 pubaka5.com
 pubceremony.com
 pubdisturbance.com
@@ -39880,6 +39883,7 @@ assoc-amazon.fr
 assoc-amazon.it
 asterpix.com
 auctionnudge.com
+audience.io
 audience2media.com
 audiencerun.com
 autoads.asia
@@ -40495,6 +40499,7 @@ quantumads.com
 quantumdex.io
 questus.com
 qwertize.com
+r2b2.cz
 r2b2.io
 rapt.com
 reachjunction.com
@@ -60868,6 +60873,13 @@ tvpqnh.xyz
 bxoaeju.icu
 nznkaq5.cn
 hahusa.top
+uvekyvs.icu
+crtlisf.top
+u4ccj.icu
+iecmca.xyz
+chaoyumiao.com
+rodmfv.xyz
+fhnbrx.xyz
 wnootzc.icu
 eiuoom.xyz
 bavotr.xyz
