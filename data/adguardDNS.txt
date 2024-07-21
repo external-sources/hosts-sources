@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 21 Jul 2024 08:57:51 +0000
+# Last converted - Sun, 21 Jul 2024 13:02:01 +0000
 #
 
 ljr3.site
@@ -41758,7 +41758,6 @@ d3flai6f7brtcx.cloudfront.net
 d3frqqoat98cng.cloudfront.net
 d3g4s1p0bmuj5f.cloudfront.net
 d3g5ovfngjw9bw.cloudfront.net
-d3hb14vkzrxvla.cloudfront.net
 d3hfiiy55cbi5t.cloudfront.net
 d3hib26r77jdus.cloudfront.net
 d3hitamb7drqut.cloudfront.net
@@ -51051,6 +51050,7 @@ heartbeat.pmd.444.hu
 rum.marquardmedia.hu
 videostat-new.index.hu
 videostat.index.hu
+parsley.detik.com
 analytics.competitoor.com
 analytics.eikondigital.it
 analytics.gtechgroup.it
