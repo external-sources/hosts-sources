@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 21 Jul 2024 04:57:44 +0000
+# Last converted - Sun, 21 Jul 2024 08:57:51 +0000
 #
 
 ljr3.site
@@ -8456,6 +8456,7 @@ civith.com
 ciwedsem.xyz
 ciwhacheho.pro
 cizzwykcug.com
+cj2550.com
 cjcbzqrwwi.com
 cjewz.com
 cjhkmsguxlxgy.com
@@ -60895,6 +60896,10 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+zqkxlf.com
+25662zubo23739.com
+88362zubo95838.com
+cosmo001.top
 ofebyk.xyz
 mdipsumx.top
 jsdelivr.vip
@@ -60918,6 +60923,8 @@ uqaagi.xyz
 nouusup.icu
 tyretui.top
 zyfnbl.xyz
+uyretut.top
+ppxscy1.cn
 wnootzc.icu
 eiuoom.xyz
 bavotr.xyz
@@ -66434,6 +66441,8 @@ yt-adp.ws.126.net
 z.nowscore.com
 zt2088.com
 ztyumn.ifeng.com
+baijs011.xyz
+google-js-09.xyz
 27gh.cc
 udd1i5.zhihu.com
 hl.dyq.cn
