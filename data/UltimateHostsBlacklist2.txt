@@ -1,9 +1,10 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Sun, 21 Jul 2024 16:58:13 +0000
+# Last converted - Sun, 21 Jul 2024 20:58:32 +0000
 #
 
+realestateinvestingmarketer.clickfunnels.com
 realestateinvestmentassistant.com
 realestateinvestorgoddesses.clickfunnels.com
 realestateitem113983.000webhostapp.com
@@ -9989,7 +9990,6 @@ royale.rudrawebtech.com
 royale-bintang-hotel.com
 royaleducations.com.auapp.adjust.com
 royalegenerator.net
-royale-ssl.spongecell.com
 royalestate.com.pl
 royalet.drupalet.com
 royalfarm.customlinks.appsflyer.com
@@ -17385,7 +17385,6 @@ sasrlink-px.rtrk.com
 sass2.directprimal.com
 sass.cryptaloot.pro
 sass.cryptoloot.pro
-sass.directprimal.com
 sass.webmine.pro
 sassarirc.top
 sassat3000.clickfunnels.com
@@ -69944,6 +69943,7 @@ ticmate.co.il
 ticonmamad.libraries.co.il
 ticonsalope.000webhostapp.com
 tic-parchi.com
+tics.techdirt.com
 ticstars.com
 tictacti.adk2x.com
 tic-tic-bam.com
@@ -146467,7 +146467,6 @@ www.izarc.fr
 www.izayoinet.info
 www.izvestia.info
 www.j3safetyismyname.com
-www.j9lib.com
 www.j12lib.com
 www.j22now.leadpages.co
 www.j.ubeat.info
