@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Sat, 20 Jul 2024 20:58:11 +0000
+# Last converted - Sun, 21 Jul 2024 02:00:57 +0000
 #
 
 01counter.com
@@ -13090,6 +13090,7 @@ api.subdl.com
 api.tech26.de
 api.techet.net
 api-track.hygraph.com
+api-track.linke.ai
 api-triangle.canadiantire.ca
 api.us-east-1.aiv-delivery.net
 api-v3.tinypass.com
@@ -14054,6 +14055,7 @@ bbc-reporting-api.app
 bbelements.com
 b.bostonglobemedia.com
 bbstatic.pcmag.com
+bbthat.com
 bc001.heineken.com
 bc0a.com
 bc34.kaffeevorteil.de
@@ -21130,6 +21132,7 @@ events.bettsrecruiting.com
 events.caffeine.tv
 events.cefpro.com
 events.centerfield.com
+events.character.ai
 events.cinemark.com
 event.sc.iqoption.com
 events.claspws.tv
@@ -29534,6 +29537,7 @@ logs.us-gov-west-1.amazonaws.com
 logs.us-west-1.amazonaws.com
 logs.us-west-2.amazonaws.com
 log.sv.pandora.tv
+log.talkie-ai.com
 log.tapchimattran.vn
 log.tapchitaichinh.vn
 log-tb.isnssdk.com
@@ -37521,6 +37525,7 @@ nl03.net
 nl.arjo.com
 nl.gn.com
 nlogic.ca
+nlog.instajob.ai
 nlogs.cloudimgs.net
 nlpcoaching.shigoto-manabiya.jp
 nl.sloggi.com
@@ -60166,6 +60171,7 @@ stats.ccweyler.be
 stats.cdlh.be
 stats.cdncdn.net
 stats.cdngeek.com
+stats-cdn.polyspeak.ai
 stats.cdnservice.eu
 stats.cdn.si
 stats.cdo.co.uk
@@ -67096,6 +67102,7 @@ sts.amazonaws.com
 st.s-bahn-muenchen-magazin.de
 sts.blr.com
 st.sp.aviasales.ru
+sts.polyspeak.ai
 sts.rocketlaunch.live
 sts.sbrg.sldc.pl
 ststat.net

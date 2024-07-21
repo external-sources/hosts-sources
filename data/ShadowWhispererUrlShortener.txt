@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Sat, 20 Jul 2024 20:58:12 +0000
+# Last converted - Sun, 21 Jul 2024 02:00:58 +0000
 #
 
 010.at
@@ -1172,6 +1172,7 @@ magybu.net
 maicowa.xyz
 makyo.io
 mamm.ie
+mampir.link
 ma.my
 mangotwo.com
 mariesharps.info
@@ -1451,6 +1452,7 @@ puhli.icu
 putar.link
 putar.win
 pwgo.to
+pws1ooo.xyz
 pxlcrv.co
 pxl.fm
 pygy.co

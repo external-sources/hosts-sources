@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Sat, 20 Jul 2024 20:58:09 +0000
+# Last converted - Sun, 21 Jul 2024 02:00:55 +0000
 #
 
 00px.net
@@ -11749,6 +11749,7 @@ macrophotos.net
 madadsmedia.com
 mad-adz.com
 madbanner.com
+madebyintent.com
 mad-ex.com
 madg.com
 madgex.com
@@ -15306,6 +15307,7 @@ safelinkconverter.com
 safe-swaps.com
 safevisitors.net
 saffronrefuge.com
+sagargift.com
 sagum.org
 sahilzenterprises.com
 sailif.com
