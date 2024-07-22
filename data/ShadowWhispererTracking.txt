@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Sun, 21 Jul 2024 20:58:25 +0000
+# Last converted - Mon, 22 Jul 2024 02:00:33 +0000
 #
 
 01counter.com
@@ -70697,6 +70697,7 @@ usage-reporter.duplicati.com
 usa.goepson.com
 usa.quantela.com
 us.arjo.com
+us-behavior.apitd.net
 us-central1-adaptive-growth.cloudfunctions.net
 us-central1-amp-error-reporting.cloudfunctions.net
 us-central1-big-picture-prod.cloudfunctions.net
@@ -70788,6 +70789,7 @@ use.signa.at
 use.tamara.co
 useulti.xyz
 us-events.api.iheart.com
+us-fp.apitd.net
 us.fujirebio.com
 us.getinge.com
 us.gn.com
@@ -76639,7 +76641,6 @@ yoiku-sub.yoiku.support
 yokan.sgnet.co.jp
 yomconnect.com
 yoose.com
-yottaa.com
 youbora.com
 youboranqs01.com
 yougetsignal.com
