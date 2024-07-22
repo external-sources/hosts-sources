@@ -1,7 +1,7 @@
 # ShadowWhispererDating
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dating
-# Last converted - Mon, 22 Jul 2024 13:10:35 +0000
+# Last converted - Mon, 22 Jul 2024 16:58:45 +0000
 #
 
 1000-dating-sites.com
@@ -712,6 +712,7 @@ oulfa.fr
 ourtime.com
 outdoorpeoplemeet.com
 outpersonals.com
+over50datingnorge.com
 parisvideochat.com
 parship.ch
 parship.com

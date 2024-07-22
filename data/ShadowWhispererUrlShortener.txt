@@ -1,7 +1,7 @@
 # ShadowWhispererUrlShortener
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-# Last converted - Mon, 22 Jul 2024 13:10:39 +0000
+# Last converted - Mon, 22 Jul 2024 16:58:51 +0000
 #
 
 010.at
@@ -233,6 +233,7 @@ anizam.ru
 anmeld.biz
 anonme.net
 anp.su
+answ.xyz
 an.to
 anv-apparel.life
 aorracer.com
@@ -502,6 +503,7 @@ croc.global
 cropped.xyz
 crvw.ru
 crypsante.com
+cryptoguide.website
 csx3.cloud
 csx4.cloud
 cte.li
@@ -664,6 +666,7 @@ f0rk.in
 f1mate.com
 f1m.in
 f1.tf
+f4d.uk
 f5i.org
 f5url.com
 fadurl.com
@@ -1767,6 +1770,7 @@ shycmedi.com
 s.id
 sifu.im
 sigboms.com
+sikencang.com
 sikk.de
 siklik.id
 simgr.id

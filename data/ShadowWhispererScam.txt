@@ -1,7 +1,7 @@
 # ShadowWhispererScam
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last converted - Mon, 22 Jul 2024 13:10:37 +0000
+# Last converted - Mon, 22 Jul 2024 16:58:49 +0000
 #
 
 007-dvd.com
@@ -252,6 +252,7 @@ accountwizy.com
 accumulaten.com
 accumulatey.com
 accumulaty.com
+accuratepowdershop.com
 aceammunition.com
 acedobermanshome.com
 acefirearmsshop.com
@@ -1170,6 +1171,7 @@ bantenpuppieshome.co.za
 baotiicl.com
 bargaindealswarehouse.com
 barhfarms.com
+barkbuster.us
 barkinpupps.com
 barrelammoshop.com
 barrettfirearm.com
@@ -3973,6 +3975,7 @@ encontros-picantes.com
 encontrosportugal.net
 encontros-rapidos.com
 encontros-sexuais.com
+encontrosxxx.com
 encuentramaduras.com
 encuentra-una-fea.com
 encuentro-rapido.com
@@ -11699,6 +11702,7 @@ thecrypto-genius.net
 thecustomee.com
 thecyh.com
 thedasister.com
+thedoberboss.com
 thedrughost.com
 thedubaistar.com
 thedusk.uk
