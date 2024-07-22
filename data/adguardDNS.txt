@@ -1,9 +1,10 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 22 Jul 2024 16:58:20 +0000
+# Last converted - Mon, 22 Jul 2024 20:58:14 +0000
 #
 
+maya15.site
 ljr3.site
 lcarlbvwr.com
 thuckautiru.com
@@ -40791,6 +40792,7 @@ googlevads-cn.com
 072551.xyz
 076f66b2.live
 07e197.site
+08f8f073.xyz
 09bd5a69.xyz
 0ae00c7c.xyz
 0c0b6e3f.xyz
@@ -60905,6 +60907,9 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+grondrens.com
+oyretuk.top
+dv4ku.icu
 0322cfmtl.cc
 07dy.cc
 0940088.com

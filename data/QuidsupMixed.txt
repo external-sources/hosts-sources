@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Mon, 22 Jul 2024 16:58:44 +0000
+# Last converted - Mon, 22 Jul 2024 20:58:35 +0000
 #
 
 01mspmd5yalky8.com
@@ -15187,11 +15187,9 @@ soom.la
 sophomoreguessingestrange.com
 sophus3.com
 sortable.com
-sounddelegate.com
 sovrn.com
 spaceio.xyz
 sparkflow.net
-sparrowaboveaveragedefence.com
 spatterjointposition.com
 specificclick.net
 speedcurve.com

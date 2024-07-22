@@ -1,7 +1,7 @@
 # ShadowWhispererAds
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last converted - Mon, 22 Jul 2024 16:58:44 +0000
+# Last converted - Mon, 22 Jul 2024 20:58:35 +0000
 #
 
 00px.net
@@ -10109,7 +10109,6 @@ gmiads.com
 gmo-am.jp
 gmq7324trk.com
 g.msn.com.nsatc.net
-gmx.net
 gnashesfanfare.com
 gnezdo.ru
 gng.net
