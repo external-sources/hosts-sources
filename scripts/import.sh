@@ -276,9 +276,6 @@ for SW in "${SWLists[@]}"; do
     c "${SWUrl}/Lists/${SW}" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",tolower($1)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u >"$git_dir/data/shadowwhisperer/${SW}/domain.list"
 done
 
-echo "Import LICENSE"
-${WGET} "${SWUrl}/LICENSE" -O "$git_dir/data/shadowwhisperer/LICENSE"
-
 echo "Import README"
 
 ${WGET} "${SWUrl}/README.md" -O "$git_dir/data/shadowwhisperer/README.md"
