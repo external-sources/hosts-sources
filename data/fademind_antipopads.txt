@@ -1,6 +1,6 @@
 # fademind_antipopads
 #
 # Converted from - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/antipopads-re/hosts
-# Last converted - Tue, 23 Jul 2024 14:44:20 +0000
+# Last converted - Tue, 23 Jul 2024 16:58:03 +0000
 #
 
