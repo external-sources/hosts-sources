@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 23 Jul 2024 04:58:05 +0000
+# Last converted - Tue, 23 Jul 2024 08:57:49 +0000
 #
 
 maya15.site
@@ -55186,6 +55186,7 @@ tracking.barometern.se
 tracking.bblat.se
 tracking.blt.se
 tracking.borlangetidning.se
+tracking.borssnack.di.se
 tracking.bt.se
 tracking.byggindustrin.se
 tracking.dagensmedia.se
@@ -60931,6 +60932,11 @@ zvietnakello.weebly.com
 yfasjfk.icu
 hetlwsu.top
 1p3yg.icu
+sowwoy.xyz
+hfjmvr.xyz
+xehodv.xyz
+lyretul.top
+oiu09.cn
 grondrens.com
 oyretuk.top
 dv4ku.icu
