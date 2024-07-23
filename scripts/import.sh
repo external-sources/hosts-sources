@@ -48,7 +48,7 @@ echo "Imported abuse.ch"
 # mkdir -p "${git_dir}/data/anudeepND/adservers/"
 # echo "anudeepND"
 # ${WGET} -qO- "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/anudeepND/adservers/domain.list"
-echo "Imported anudeepND"
+# echo "Imported anudeepND"
 
 # mkdir -p "${git_dir}/data/abuse.ch/urlhaus/"
 # ${WGET} -qO- 'https://urlhaus.abuse.ch/downloads/rpz/' | awk '/^;/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' >"data/abuse.ch/urlhaus/domain.list"
@@ -109,22 +109,22 @@ echo "Imported anudeepND"
 # echo "Imported notrack-malware"
 
 # https://bitbucket.org/expiredsources/hosts-file.net/src/master/
-echo "Downloading Active hosts-file.net...."
+# echo "Downloading Active hosts-file.net...."
 
-hpLists=(ad_servers emd exp fsa grm hjk mmt psh pup)
-hpUrl="https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/"
+# hpLists=(ad_servers emd exp fsa grm hjk mmt psh pup)
+# hpUrl="https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/"
 
-for d in "${hpLists[@]}"; do
-    mkdir -p "${git_dir}/data/hphosts/${d}"
-    echo -e "\tImporting ${d}"
-    touch "data/hphosts/${d}/domain.list"
-    ${WGET} -qO- "${hpUrl}/${d}.txt" | grep -vE '^(#|$)' >"data/hphosts/${d}/domain.list"
-done
+# for d in "${hpLists[@]}"; do
+#     mkdir -p "${git_dir}/data/hphosts/${d}"
+#     echo -e "\tImporting ${d}"
+#     touch "data/hphosts/${d}/domain.list"
+#     ${WGET} -qO- "${hpUrl}/${d}.txt" | grep -vE '^(#|$)' >"data/hphosts/${d}/domain.list"
+# done
 
 # For protecting the future devs we unset variables
-hpUrl=""
+# hpUrl=""
 
-echo "Puuh.. done importing Active hosts-file.net...."
+# echo "Puuh.. done importing Active hosts-file.net...."
 
 # blocklistproject CNAME blocklist-site
 # This url is bullshit, trying to bump his own domain. Bullshit url="bsUrl="https://blocklist.site/app/dl/""
@@ -176,43 +176,35 @@ echo "Imported eDrop spamhaus.org"
 # echo "Imported simple disconnect.me"
 
 # We need to avoid the IP hosts provided by openfish as they can't be used with hosts files'
-mkdir -p "${git_dir}/data/openfish/"
-c "https://openphish.com/feed.txt" | awk -F "/" '!/^($|#)/{ print $3 | "sort -u | uniq -u -i " }' | grep -Ev "\b(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\b" >"data/openfish/domain.list"
-c "https://openphish.com/feed.txt" | awk -F "/" '!/^($|#)/{ print $3 | "sort -u | uniq -u -i " }' | grep -E "\b(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\b" | awk -F "." '{  printf("32.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n32.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$4,$3,$2,$1,$4,$3,$2,$1) }' >"data/openfish/ipv4.in-addr.arpa"
-echo "Imported openfish.com"
+# mkdir -p "${git_dir}/data/openfish/"
+# c "https://openphish.com/feed.txt" | awk -F "/" '!/^($|#)/{ print $3 | "sort -u | uniq -u -i " }' | grep -Ev "\b(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\b" >"data/openfish/domain.list"
+# c "https://openphish.com/feed.txt" | awk -F "/" '!/^($|#)/{ print $3 | "sort -u | uniq -u -i " }' | grep -E "\b(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\b" | awk -F "." '{  printf("32.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n32.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$4,$3,$2,$1,$4,$3,$2,$1) }' >"data/openfish/ipv4.in-addr.arpa"
+# echo "Imported openfish.com"
 
 # START @mitchellkrogza's many lists
 # echo "START importing @mitchellkrogza's many lists"
 
 # Perlscript as by https://unix.stackexchange.com/a/745455
-echo ""
-echo "Importing Phishing Database"
-mkdir -p "${git_dir}/data/phishing_database/"
-wget "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt" -qO- | \
-# perl -MDomain::PublicSuffix -lne '
-#    BEGIN{$s = Domain::PublicSuffix->new}
-#    print if $_ eq $s->get_root_domain($_)' </tmp/ALL-phishing-links.txt |
-#    sed -r 's/^(https?|ftp)\:\/\///g;s/\/.*//g;s/.*@//g;s/\.$//g;/((1?[0-9][0-9]?|2[0-4][0-9]|25[0-5])\.){3}(1?[0-9][0-9]?|2[0-4][0-9]|25[0-5])$/d;/\^.$/d' | uniq | python3 "${git_dir}/scripts/domain-sort.py" >"data/phishing_database/ALL-phishing-links.txt"
-
-# This line includes the sed regex from below
-# perl -mDomain::PublicSuffix -wlne 'BEGIN { $DPS = Domain::PublicSuffix->new({ allow_unlisted_tld => 1 }); } s!^(?:ftp|https?)://!!; s![/?#].*!!; s!^.*\@!!; s!:\d+\z!!a; s!\.\z!!; if (/[^._\-[:^punct:]]/) { warn "contains punctuation; skipping $_ ...\n"; next } my $root = $DPS->get_root_domain($_) // do { warn "no root domain; skipping $_ ...\n"; next }; print $root' ALL-phishing-links.txt | sort -u
-
-perl -lne 's!^(?:ftp|https?)://!!;
-  s![/?#].*!!;
-  s!^.*\@!!;
-  s!:\d+\z!!a;
-  s![.]$!!;
-  next if /^[\d.]+\z/a;
-  if (/[^._\-[:^punct:]]/) { warn "skipping $_ ...\n";
-  next } print lc $_' - \
-  | sort -u \
-  | uniq -i \
-  | python3 "${git_dir}/scripts/domain-sort.py" >"${git_dir}/data/phishing_database/ALL-phishing-links.txt"
+# echo ""
+# echo "Importing Phishing Database"
+# mkdir -p "${git_dir}/data/phishing_database/"
+# wget "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt" -qO- |
+#     perl -lne 's!^(?:ftp|https?)://!!;
+#   s![/?#].*!!;
+#   s!^.*\@!!;
+#   s!:\d+\z!!a;
+#   s![.]$!!;
+#   next if /^[\d.]+\z/a;
+#   if (/[^._\-[:^punct:]]/) { warn "skipping $_ ...\n";
+#   next } print lc $_' - |
+#     sort -u |
+#     uniq -i |
+#     python3 "${git_dir}/scripts/domain-sort.py" >"${git_dir}/data/phishing_database/ALL-phishing-links.txt"
 
 # | sort -u | python3 "${git_dir}/scripts/domain-sort.py" >"data/phishing_database/ALL-phishing-links.txt"
 
-echo "Done importing Phishing Database"
-echo ""
+# echo "Done importing Phishing Database"
+# echo ""
 
 # mkdir -p "${git_dir}/data/mitchellkrogza/badd_boyz_hosts/"
 # echo ""

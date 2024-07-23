@@ -55,6 +55,9 @@ jobs:
       - name: Download and convert dumb hosts to plain data
         run: php -f  "${{ github.workspace }}/scripts/converter.php"
 
+      - name: Download urls and convert to domains
+        run: php -f  "${{ github.workspace }}/scripts/urls-to-domains.php"
+
       - name: Update active source list
         run: bash "${{ github.workspace }}/scripts/update_active_lists.sh"
 

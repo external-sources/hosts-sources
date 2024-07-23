@@ -4,6 +4,7 @@
 // License: GPL-3.0 https://github.com/r-a-y/mobile-hosts/blob/master/LICENSE
 // Add our lists.
 $lists = array(
+    'abuse.ch' = 'https://sslbl.abuse.ch/blacklist/sslipblacklist.txt',
     'adAway' => 'https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt',
     'adguardApps' => 'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt',
     'adguardDNS' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
@@ -14,6 +15,15 @@ $lists = array(
     'badmojr1Hosts' => 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt',
     'BBcan177MS2' => 'https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2',
     'BBcan177MS4' => 'https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4',
+    'host_file_net_ad_servers' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/ad_servers',
+    'host_file_net_emd' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/emd',
+    'host_file_net_exp' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/exp',
+    'host_file_net_fsa' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/fsa',
+    'host_file_net_grm' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/grm',
+    'host_file_net_hjk' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/hjk',
+    'host_file_net_mmt' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/mmt',
+    'host_file_net_psh' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/psh.txt',
+    'host_file_net_pup' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/pup.txt',
     // 'blocklistProjectAbuse' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/abuse-nl.txt',
     // 'blocklistProjectAds' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/ads-nl.txt',
     // 'blocklistProjectCrypto' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/crypto-nl.txt',
@@ -48,7 +58,6 @@ $lists = array(
     'phishingArmy' => 'https://phishing.army/download/phishing_army_blocklist_extended.txt',
     'Phishing.Database' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt',
     'Phishing.DatabaseAll' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.txt',
-    // 'Phishing.DatabaseAllLinks' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt',
     'QuidsupMixed' => 'https://quidsup.net/notrack/blocklist.php?download=trackersdomains',
     'ShadowWhispererAds' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads',
     'ShadowWhispererApple' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple',
