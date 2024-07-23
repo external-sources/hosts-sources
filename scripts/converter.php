@@ -214,6 +214,7 @@ foreach ($lists as $name => $list) {
         // Save exception to parse later.
         if (0 === strpos($filter, '@@')) {
             $exceptions[] = '0.0.0.0 ' . str_replace('@@', '', $filter);
+            $exceptions[] = '127.0.0.1 ' . str_replace('@@', '', $filter);
             continue;
         }
 
@@ -235,7 +236,7 @@ foreach ($lists as $name => $list) {
     }
 
     // Output the file.
-    file_put_contents("data/${name}.txt", $hosts);
+    file_put_contents("data/$name.txt", $hosts);
 
-    echo "$name converted to domain records - see data/${name}.txt\n";
+    echo "$name converted to domain records - see data/$name.txt\n";
 }
