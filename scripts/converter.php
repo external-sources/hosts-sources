@@ -4,7 +4,7 @@
 // License: GPL-3.0 https://github.com/r-a-y/mobile-hosts/blob/master/LICENSE
 // Add our lists.
 $lists = array(
-    'abuse.ch' = 'https://sslbl.abuse.ch/blacklist/sslipblacklist.txt',
+    'abuse.ch' => 'https://sslbl.abuse.ch/blacklist/sslipblacklist.txt',
     'adAway' => 'https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt',
     'adguardApps' => 'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt',
     'adguardDNS' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
