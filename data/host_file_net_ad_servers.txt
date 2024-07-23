@@ -1,0 +1,6 @@
+# host_file_net_ad_servers
+#
+# Converted from - https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/ad_servers
+# Last converted - Tue, 23 Jul 2024 13:35:45 +0000
+#
+
