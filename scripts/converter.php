@@ -5,13 +5,13 @@
 // Add our lists.
 $lists = array(
     'abuse.ch' => 'https://sslbl.abuse.ch/blacklist/sslipblacklist.txt',
-    'adAway' => 'https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt',
+    // 'adAway' => 'https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt',
     'adguardApps' => 'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt',
     'adguardDNS' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
     'adguardMobileAds' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt',
-    'antipopadsRe' => 'https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/hosts.txt',
-    'anudeepND' => 'https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt',
-    'BaddBoyzHosts' => 'https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts',
+    // 'antipopadsRe' => 'https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/hosts.txt',
+    // 'anudeepND' => 'https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt',
+    // 'BaddBoyzHosts' => 'https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts',
     'badmojr1Hosts' => 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt',
     'BBcan177MS2' => 'https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2',
     'BBcan177MS4' => 'https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4',
@@ -45,48 +45,50 @@ $lists = array(
     'disconnectMe' => 'https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt',
     'easyPrivacy3rdParty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt',
     'easyPrivacySpecific' => 'https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt',
-    'fadeMindAddRisk' => 'https://github.com/FadeMind/hosts.extras/raw/master/add.Risk/hosts',
-    'fadeMindAddSpam' => 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts',
+    // 'fadeMindAddRisk' => 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts',
+    // 'fadeMindAddSpam' => 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts',
+    'fademind_antipopads' => 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/antipopads-re/hosts',
+    'fademind_blocklists-facebook' => 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/blocklists-facebook/hosts',
     'geoffreyFrogeyeFirstPartyTrackers' => 'https://hostfiles.frogeye.fr/firstparty-trackers.txt',
     'geoffreyFrogeyeMultiPartyTrackers' => 'https://hostfiles.frogeye.fr/multiparty-trackers.txt',
     'migueldemouraAdsTracking' => 'https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking',
     'migueldemouraAdsTrackingBreaking' => 'https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking-breaking',
     'migueldemouraMalware' => 'https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/malware',
-    'notrackBlocklist' => 'https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt',
-    'notrackMalware' => 'https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt',
-    'PglYoYo' => 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=one-line&showintro=0&mimetype=plaintext',
+    // 'notrackBlocklist' => 'https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt',
+    // 'notrackMalware' => 'https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt',
+    // 'PglYoYo' => 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=one-line&showintro=0&mimetype=plaintext',
     'phishingArmy' => 'https://phishing.army/download/phishing_army_blocklist_extended.txt',
     'Phishing.Database' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt',
     'Phishing.DatabaseAll' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.txt',
     'QuidsupMixed' => 'https://quidsup.net/notrack/blocklist.php?download=trackersdomains',
     'ShadowWhispererAds' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads',
     'ShadowWhispererApple' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple',
-    'ShadowWhispererBloat' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat',
+    // 'ShadowWhispererBloat' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat',
     'ShadowWhispererChat' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat',
     'ShadowWhispererCryptocurrency' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency',
     'ShadowWhispererDating' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dating',
     'ShadowWhispererDynamic' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic',
     'ShadowWhispererFree' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Free',
-    'ShadowWhispererJunk' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk',
+    // 'ShadowWhispererJunk' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk',
     'ShadowWhispererMalware' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware',
     'ShadowWhispererMarketing' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Marketing',
     'ShadowWhispererMarketingEmail ' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Marketing-Email',
     'ShadowWhispererMicrosoft' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft',
     'ShadowWhispererRemote' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote',
-    'ShadowWhispererRisk' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk',
+    // 'ShadowWhispererRisk' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk',
     'ShadowWhispererScam' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam',
-    'ShadowWhispererShock' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Shock',
+    // 'ShadowWhispererShock' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Shock',
     'ShadowWhispererTracking' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking',
     'ShadowWhispererTunnels' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels',
     'ShadowWhispererTypo' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Typo',
     'ShadowWhispererUrlShortener' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener',
-    'someoneWhoCares' => 'https://someonewhocares.org/hosts/hosts',
+    // 'someoneWhoCares' => 'https://someonewhocares.org/hosts/hosts',
     'TheBigListofHackedMalwareWebSites' => 'https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list',
     'UltimateHostsBlacklist0' => 'https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list',
     'UltimateHostsBlacklist1' => 'https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list',
     'UltimateHostsBlacklist2' => 'https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list',
-    'urlHaus' => 'https://urlhaus.abuse.ch/downloads/rpz/',
-    'winhelp2002' => 'https://winhelp2002.mvps.org/hosts.txt'
+    // 'urlHaus' => 'https://urlhaus.abuse.ch/downloads/rpz/',
+    // 'winhelp2002' => 'https://winhelp2002.mvps.org/hosts.txt'
 );
 
 $idn_to_ascii = function_exists('idn_to_ascii');
@@ -213,7 +215,7 @@ foreach ($lists as $name => $list) {
 
         // Save exception to parse later.
         if (0 === strpos($filter, '@@')) {
-            $exceptions[] = '127.0.0.1 ' . str_replace('@@', '', $filter);
+            $exceptions[] = '0.0.0.0 ' . str_replace('@@', '', $filter);
             continue;
         }
 
