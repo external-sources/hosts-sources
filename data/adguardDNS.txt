@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 23 Jul 2024 20:57:41 +0000
+# Last converted - Wed, 24 Jul 2024 01:56:04 +0000
 #
 
 frutwafiwah.com
@@ -60950,6 +60950,12 @@ zvay.online
 zvc.cc
 zvietcombank.com
 zvietnakello.weebly.com
+er1h4.icu
+enuksg.xyz
+pplkrh.xyz
+ryqgdrh.icu
+ietlwso.top
+jdfzfd.xyz
 yfasjfk.icu
 hetlwsu.top
 1p3yg.icu
