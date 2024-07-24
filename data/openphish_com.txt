@@ -1,7 +1,7 @@
 # openphish_com
 #
 # Converted from - https://openphish.com/feed.txt
-# Last converted - Wed, 24 Jul 2024 04:58:18 +0000
+# Last converted - Wed, 24 Jul 2024 08:58:07 +0000
 #
 
 sviiceess.weebly.com

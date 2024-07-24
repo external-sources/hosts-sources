@@ -1,7 +1,7 @@
 # host_file_net_ad_servers
 #
 # Converted from - https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/ad_servers.txt
-# Last converted - Wed, 24 Jul 2024 04:57:46 +0000
+# Last converted - Wed, 24 Jul 2024 08:57:43 +0000
 #
 
 005.free-counter.co.uk

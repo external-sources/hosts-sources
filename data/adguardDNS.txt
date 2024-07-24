@@ -1,7 +1,7 @@
 # adguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 24 Jul 2024 04:57:40 +0000
+# Last converted - Wed, 24 Jul 2024 08:57:38 +0000
 #
 
 frutwafiwah.com
@@ -60956,6 +60956,9 @@ pplkrh.xyz
 ryqgdrh.icu
 ietlwso.top
 jdfzfd.xyz
+doujs01.shop
+bewr1.com
+heatherssb.com
 yfasjfk.icu
 hetlwsu.top
 1p3yg.icu
