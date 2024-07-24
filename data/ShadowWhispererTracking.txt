@@ -1,7 +1,7 @@
 # ShadowWhispererTracking
 #
 # Converted from - https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-# Last converted - Wed, 24 Jul 2024 13:09:07 +0000
+# Last converted - Wed, 24 Jul 2024 16:57:50 +0000
 #
 
 01counter.com
@@ -14962,6 +14962,7 @@ b.webmd.com
 bwstatistics.sapoapps.vn
 bx.relocity.com
 by4b2trk.com
+bydata.com
 byerley.ch
 bymtrackinglive.azurewebsites.net
 byside.com
@@ -15590,6 +15591,7 @@ checkwhatismyipaddress.com
 checkyourlink.com
 cheerfulrange.com
 cheersin.com
+cheerycraze.com
 cheetahdemo.com
 cheetah.gaptry.com
 cheetahmail.com
@@ -21479,6 +21481,7 @@ faintflag.com
 fairblocker.com
 fairfeeling.com
 fairiesbranch.com
+fairytaleflame.com
 fairy.wfairyg.com
 faktor.io
 falcon.aniftyco.com
@@ -28249,6 +28252,7 @@ jacksonlab.jax.org
 jac.suncorp.com.au
 jadedjoke.com
 jadeitite.com
+jaderooster.com
 jailbulb.com
 ja-jp-a8.etudehouse.com
 jamexistence.com
@@ -68374,6 +68378,7 @@ testosteroneprime.com
 test.pardot.securian.com
 test-pd.epson.jp
 testrobotflower.com
+test.samsunghealth.com
 test.sharing-innovations.co.jp
 test.shigoto-web.com
 test.suntechmed.com
