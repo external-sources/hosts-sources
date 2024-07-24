@@ -1,11 +1,9 @@
 # UltimateHostsBlacklist2
 #
 # Converted from - https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-# Last converted - Wed, 24 Jul 2024 16:57:55 +0000
+# Last converted - Wed, 24 Jul 2024 20:58:13 +0000
 #
 
-realestateitem113983.000webhostapp.com
-realestateitem7438234.000webhostapp.com
 realestatekh.leadpages.co
 realestatelawyersinbangalore.com
 real-estatelisting-usa.000webhostapp.com
@@ -8475,7 +8473,6 @@ rock2.directprimal.com
 rock.adpiano.com
 rock.cryptaloot.pro
 rock.cryptoloot.pro
-rock.directprimal.com
 rock.reauthenticator.com
 rock.webmine.pro
 rockabox.co
@@ -16604,7 +16601,6 @@ sanalytics.securebanklogin.com
 sanalytics.spark.co.nz
 sanalytics.tntdrama.com
 sanalytics.tntsports.com
-sanalytics.toonamiafrica.com
 sanalytics.verizon.com
 sanalytics.verizonenterprise.com
 sanalytics.verizonwireless.com
@@ -69940,6 +69936,7 @@ ticmate.co.il
 ticonmamad.libraries.co.il
 ticonsalope.000webhostapp.com
 tic-parchi.com
+tics.techdirt.com
 ticstars.com
 tictacti.adk2x.com
 tic-tic-bam.com
@@ -110133,7 +110130,6 @@ ws06.home.sapo.pt
 ws6.hotjar.com
 ws006.ws.tidafors.xyz
 ws006.www.datasecu.download
-ws006.www.jqwww.download
 ws6-live.live.eks.hotjar.com
 ws006-proxy-ajcryptominer.ajplugins.com
 ws07.crypto.csgocpu.com
@@ -134038,7 +134034,6 @@ www.5th-3rd.dnset.com
 www.5thavenue.com
 www.05tz2e9.com
 www.5u.com
-www.5udt.com
 www.005v.adx1.com
 www.5wh.co.zw
 www.5ya.adx1.com
@@ -134101,6 +134096,7 @@ www.8hn.net
 www.8khmer.com
 www.8mouses.com
 www.8ocouui0a49a7a2.smetrics.traderonline.com
+www.8rf.com
 www.8si.ru
 www.08sprotlectsicteznzbnk.dnset.com
 www.8stars-sweets.k-plus.gr.com
@@ -139409,7 +139405,6 @@ www.centralmovies.network
 www.centralparc.org
 www.centraltag.com
 www.centralwestwater.com.au
-www.centre-apple.ru
 www.centrebet.com
 www.centrebodhicitta.org
 www.centredexcellence.leadpages.co
@@ -144523,6 +144518,7 @@ www.globalwagering.ws
 www.globalwebads.com
 www.globalwebindex.net
 www.globe7.com
+www.globetrotting-culture.ru
 www.globlb.com
 www.globtrix.com
 www.glockpost.com

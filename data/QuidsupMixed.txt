@@ -1,7 +1,7 @@
 # QuidsupMixed
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-# Last converted - Wed, 24 Jul 2024 16:57:48 +0000
+# Last converted - Wed, 24 Jul 2024 20:58:04 +0000
 #
 
 01mspmd5yalky8.com
@@ -1412,7 +1412,6 @@ effectivedisplaycontent.com
 effectivedisplayformat.com
 effectivedisplayformats.com
 effectivegatetocontent.com
-effectivemeasure.com
 effectivemeasure.net
 effectiveperformanceformat.com
 effectiveperformancenetwork.com
@@ -1660,7 +1659,6 @@ geoadnxs.com
 geocomply.com
 geoedge.be
 geoedge.com
-geoiplookup.wikimedia.org
 geoloc.hurriyet.com.tr
 georiot.com
 get.venmo.com

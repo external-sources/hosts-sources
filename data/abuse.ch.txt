@@ -1,7 +1,7 @@
 # abuse.ch
 #
 # Converted from - https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
-# Last converted - Wed, 24 Jul 2024 16:57:27 +0000
+# Last converted - Wed, 24 Jul 2024 20:57:40 +0000
 #
 
 4.233.220.67

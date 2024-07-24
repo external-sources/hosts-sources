@@ -1,7 +1,7 @@
 # openphish_com
 #
 # Converted from - https://openphish.com/feed.txt
-# Last converted - Wed, 24 Jul 2024 16:58:00 +0000
+# Last converted - Wed, 24 Jul 2024 20:58:18 +0000
 #
 
 teleagram.icu
