@@ -1,6 +1,0 @@
-# fademind_blocklists-facebook
-#
-# Converted from - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/blocklists-facebook/hosts
-# Last converted - Wed, 24 Jul 2024 20:57:56 +0000
-#
-
