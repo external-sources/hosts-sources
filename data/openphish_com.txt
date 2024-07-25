@@ -1,7 +1,7 @@
 # openphish_com
 #
 # Converted from - https://openphish.com/feed.txt
-# Last converted - Thu, 25 Jul 2024 01:56:04 +0000
+# Last converted - Thu, 25 Jul 2024 04:57:38 +0000
 #
 
 mitodologo.com
