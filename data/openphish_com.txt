@@ -1,7 +1,7 @@
 # openphish_com
 #
 # Converted from - https://openphish.com/feed.txt
-# Last converted - Thu, 25 Jul 2024 16:57:36 +0000
+# Last converted - Thu, 25 Jul 2024 20:58:11 +0000
 #
 
 my-site-104323.weeblysite.com
