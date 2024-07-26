@@ -1,7 +1,7 @@
 # openphish_com
 #
 # Converted from - https://openphish.com/feed.txt
-# Last converted - Fri, 26 Jul 2024 16:58:00 +0000
+# Last converted - Fri, 26 Jul 2024 20:57:45 +0000
 #
 
 akshay-prashar.github.io
