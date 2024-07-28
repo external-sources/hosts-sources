@@ -1,7 +1,7 @@
 # openphish_com
 #
 # Converted from - https://openphish.com/feed.txt
-# Last converted - Sun, 28 Jul 2024 04:57:17 +0000
+# Last converted - Sun, 28 Jul 2024 08:57:24 +0000
 #
 
 chattts-49f1.beszyrecala.workers.dev
