@@ -1,7 +1,7 @@
 # openphish_com
 #
 # Converted from - https://openphish.com/feed.txt
-# Last converted - Wed, 31 Jul 2024 13:08:53 +0000
+# Last converted - Wed, 31 Jul 2024 16:57:34 +0000
 #
 
 razi1256.d35nrzpaaw4jbw.amplifyapp.com
