@@ -1,7 +1,7 @@
 # openphish_com
 #
 # Converted from - https://openphish.com/feed.txt
-# Last converted - Thu, 01 Aug 2024 02:03:02 +0000
+# Last converted - Thu, 01 Aug 2024 04:57:24 +0000
 #
 
 attcom-109838.weeblysite.com
