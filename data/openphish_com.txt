@@ -1,7 +1,7 @@
 # openphish_com
 #
 # Converted from - https://openphish.com/feed.txt
-# Last converted - Thu, 01 Aug 2024 16:57:42 +0000
+# Last converted - Thu, 01 Aug 2024 20:57:41 +0000
 #
 
 telstra-104348.weeblysite.com
