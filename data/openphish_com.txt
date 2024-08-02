@@ -1,7 +1,7 @@
 # openphish_com
 #
 # Converted from - https://openphish.com/feed.txt
-# Last converted - Fri, 02 Aug 2024 01:56:12 +0000
+# Last converted - Fri, 02 Aug 2024 04:58:10 +0000
 #
 
 pub-a76639c1fc654e47ac5553590faca56a.r2.dev
