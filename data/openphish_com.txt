@@ -1,7 +1,7 @@
 # openphish_com
 #
 # Converted from - https://openphish.com/feed.txt
-# Last converted - Sat, 03 Aug 2024 13:01:26 +0000
+# Last converted - Sat, 03 Aug 2024 16:57:21 +0000
 #
 
 s3.ap-northeast-1.amazonaws.com
