@@ -1,7 +1,7 @@
 # openphish_com
 #
 # Converted from - https://openphish.com/feed.txt
-# Last converted - Sun, 04 Aug 2024 04:57:20 +0000
+# Last converted - Sun, 04 Aug 2024 08:57:15 +0000
 #
 
 vitallusplus.one
