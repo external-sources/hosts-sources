@@ -1,7 +1,7 @@
 # openphish_com
 #
 # Converted from - https://openphish.com/feed.txt
-# Last converted - Fri, 09 Aug 2024 04:57:28 +0000
+# Last converted - Fri, 09 Aug 2024 08:57:29 +0000
 #
 
 telegrambotsolution.pages.dev
