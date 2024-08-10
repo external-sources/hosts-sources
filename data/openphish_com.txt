@@ -1,7 +1,7 @@
 # openphish_com
 #
 # Converted from - https://openphish.com/feed.txt
-# Last converted - Sat, 10 Aug 2024 16:57:35 +0000
+# Last converted - Sat, 10 Aug 2024 20:57:27 +0000
 #
 
 activate-xfinitydevice-online.pages.dev
