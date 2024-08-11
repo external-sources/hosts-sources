@@ -1,7 +1,7 @@
 # openphish_com
 #
 # Converted from - https://openphish.com/feed.txt
-# Last converted - Sun, 11 Aug 2024 02:03:26 +0000
+# Last converted - Sun, 11 Aug 2024 04:57:22 +0000
 #
 
 jun-july.weebly.com
