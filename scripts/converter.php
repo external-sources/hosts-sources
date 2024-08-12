@@ -1,5 +1,4 @@
 <?php
-
 /** SETTINGS *************************************************************/
 
 // Parse CLI arguments into the $_GET global.
