@@ -18,33 +18,119 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
 	$lists = array(
 		// Mobile Ads
 		'AdguardMobileAds' => 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt',
-	
+
 		// Mobile Tracking + Spyware
 		'AdguardMobileSpyware' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt',
-	
+
 		// Adguard DNS
 		'AdguardDNS' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
-	
+
 		// Adguard CNAME Ads
 		'AdguardCNAMEAds' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads.txt',
-	
+
 		// Adguard CNAME Clickthroughs
 		'AdguardCNAMEClickthroughs' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs.txt',
-	
+
 		// Adguard CNAME Microsites
 		'AdguardCNAMEMicrosites' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites.txt',
-	
+
 		// Adguard CNAME Trackers
 		'AdguardCNAME' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt',
-	
+
 		// Adguard Tracking
 		'AdguardTracking' => 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt',
-	
+
 		// EasyPrivacy Specific
 		'EasyPrivacySpecific' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt',
-	
+
 		// EasyPrivacy Third-Party
 		'EasyPrivacy3rdParty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt',
+
+        'abuse.ch' => 'https://sslbl.abuse.ch/blacklist/sslipblacklist.txt',
+         'adAway' => 'https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt',
+        'adguardApps' => 'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt',
+        'adguardDNS' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
+        'adguardMobileAds' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt',
+         'antipopadsRe' => 'https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/hosts.txt',
+         'anudeepND' => 'https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt',
+         'BaddBoyzHosts' => 'https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts',
+        'badmojr1Hosts' => 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt',
+        'BBcan177MS2' => 'https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2',
+        'BBcan177MS4' => 'https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4',
+        'host_file_net_ad_servers' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/ad_servers.txt',
+        'host_file_net_emd' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/emd.txt',
+        'host_file_net_exp' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/exp.txt',
+        'host_file_net_fsa' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/fsa.txt',
+        'host_file_net_grm' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/grm.txt',
+        'host_file_net_hjk' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/hjk.txt',
+        'host_file_net_mmt' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/mmt.txt',
+        'host_file_net_psh' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/psh.txt',
+        'host_file_net_pup' => 'https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/pup.txt',
+        // 'blocklistProjectAbuse' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/abuse-nl.txt',
+        // 'blocklistProjectAds' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/ads-nl.txt',
+        // 'blocklistProjectCrypto' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/crypto-nl.txt',
+        // 'blocklistProjectDrugs' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/drugs-nl.txt',
+        // 'blocklistProjectFacebook' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/facebook-nl.txt',
+        // 'blocklistProjectFraud' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/fraud-nl.txt',
+        // 'blocklistProjectGambling' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/gambling-nl.txt',
+        // 'blocklistProjectMalware' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/malware-nl.txt',
+        // 'blocklistProjectPhishing' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/phishing-nl.txt',
+        // 'blocklistProjectPiracy' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/piracy-nl.txt',
+        // 'blocklistProjectPorn' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/porn-nl.txt',
+        // 'blocklistProjectRansomware' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/ransomware-nl.txt',
+        // 'blocklistProjectRedirect' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/redirect-nl.txt',
+        // 'blocklistProjectScam' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/scam-nl.txt',
+        // 'blocklistProjectTorrent' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/torrent-nl.txt',
+        // 'blocklistProjectTracking' => 'https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/tracking-nl.txt',
+        // 'blocklistsFacebook' => 'https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all',
+        'coinBlockerLists' => 'https://zerodot1.gitlab.io/CoinBlockerLists/list.txt',
+        'disconnectMe' => 'https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt',
+        'easyPrivacy3rdParty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt',
+        'easyPrivacySpecific' => 'https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt',
+        // 'fadeMindAddRisk' => 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts',
+        // 'fadeMindAddSpam' => 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts',
+        'fademind_antipopads' => 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/antipopads-re/hosts',
+        'fademind_blocklists-facebook' => 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/blocklists-facebook/hosts',
+        'geoffreyFrogeyeFirstPartyTrackers' => 'https://hostfiles.frogeye.fr/firstparty-trackers.txt',
+        'geoffreyFrogeyeMultiPartyTrackers' => 'https://hostfiles.frogeye.fr/multiparty-trackers.txt',
+        'migueldemouraAdsTracking' => 'https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking',
+        'migueldemouraAdsTrackingBreaking' => 'https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking-breaking',
+        'migueldemouraMalware' => 'https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/malware',
+        // 'notrackBlocklist' => 'https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt',
+        // 'notrackMalware' => 'https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt',
+        // 'PglYoYo' => 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0',
+        'phishingArmy' => 'https://phishing.army/download/phishing_army_blocklist_extended.txt',
+        'Phishing.Database' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt',
+        'Phishing.DatabaseAll' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.txt',
+        'QuidsupMixed' => 'https://quidsup.net/notrack/blocklist.php?download=trackersdomains',
+        'ShadowWhispererAds' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads',
+        'ShadowWhispererApple' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple',
+        // 'ShadowWhispererBloat' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat',
+        'ShadowWhispererChat' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat',
+        'ShadowWhispererCryptocurrency' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency',
+        'ShadowWhispererDating' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dating',
+        'ShadowWhispererDynamic' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic',
+        'ShadowWhispererFree' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Free',
+        // 'ShadowWhispererJunk' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk',
+        'ShadowWhispererMalware' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware',
+        'ShadowWhispererMarketing' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Marketing',
+        'ShadowWhispererMarketingEmail ' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Marketing-Email',
+        'ShadowWhispererMicrosoft' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft',
+        'ShadowWhispererRemote' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote',
+        // 'ShadowWhispererRisk' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk',
+        'ShadowWhispererScam' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam',
+        // 'ShadowWhispererShock' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Shock',
+        'ShadowWhispererTracking' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking',
+        'ShadowWhispererTunnels' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels',
+        'ShadowWhispererTypo' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Typo',
+        'ShadowWhispererUrlShortener' => 'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener',
+        // 'someoneWhoCares' => 'https://someonewhocares.org/hosts/hosts',
+        'TheBigListofHackedMalwareWebSites' => 'https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list',
+        'UltimateHostsBlacklist0' => 'https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list',
+        'UltimateHostsBlacklist1' => 'https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list',
+        'UltimateHostsBlacklist2' => 'https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list',
+        // 'urlHaus' => 'https://urlhaus.abuse.ch/downloads/rpz/',
+        // 'winhelp2002' => 'https://winhelp2002.mvps.org/hosts.txt'
 	);
 }
 
@@ -173,12 +259,13 @@ foreach ( $lists as $name => $list ) {
 		}
 
 		// Save exception to parse later.
-		if ( 0 === strpos( $filter, '@@' ) ) {
-			$exceptions[] = '0.0.0.0 ' . str_replace( '@@', '', $filter );
-			continue;
-		}
+		// if ( 0 === strpos( $filter, '@@' ) ) {
+		//	$exceptions[] = '0.0.0.0 ' . str_replace( '@@', '', $filter );
+		//	continue;
+		// }
 
-		$domains[] = "0.0.0.0 {$filter}";
+		// $domains[] = "0.0.0.0 {$filter}";
+        $domains[] = "{$filter}";
 	}
 
 	// Generate the hosts list.

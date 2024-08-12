@@ -83,7 +83,7 @@ ${WGET} -qO- "https://winhelp2002.mvps.org/hosts.txt" | awk '/^(#|$)/{ next }; {
 echo "Imported mvps"
 
 mkdir -p "${git_dir}/data/adaway/domain}"
-${WGET} -qO- "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt" | awk '/^(#|$)/{ next }; { if ( $2 ~ /[a-z]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' >"data/adaway/domain.list"
+${WGET} -qO- "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt" | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' >"data/adAway.txt"
 ${WGET} -q "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/README.md" -O "data/adaway/README.md"
 ${WGET} -q "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/LICENSE.md" -O "data/adaway/LICENSE.md"
 echo "Imported adaway.github.io"
@@ -185,21 +185,21 @@ echo "Imported eDrop spamhaus.org"
 # echo "START importing @mitchellkrogza's many lists"
 
 # Perlscript as by https://unix.stackexchange.com/a/745455
-# echo ""
-# echo "Importing Phishing Database"
-# mkdir -p "${git_dir}/data/phishing_database/"
-# wget "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt" -qO- |
-#     perl -lne 's!^(?:ftp|https?)://!!;
-#   s![/?#].*!!;
-#   s!^.*\@!!;
-#   s!:\d+\z!!a;
-#   s![.]$!!;
-#   next if /^[\d.]+\z/a;
-#   if (/[^._\-[:^punct:]]/) { warn "skipping $_ ...\n";
-#   next } print lc $_' - |
-#     sort -u |
-#     uniq -i |
-#     python3 "${git_dir}/scripts/domain-sort.py" >"${git_dir}/data/phishing_database/ALL-phishing-links.txt"
+ echo ""
+ echo "Importing Phishing Database"
+ mkdir -p "${git_dir}/data/phishing_database/"
+ wget "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt" -qO- |
+     perl -lne 's!^(?:ftp|https?)://!!;
+   s![/?#].*!!;
+   s!^.*\@!!;
+   s!:\d+\z!!a;
+   s![.]$!!;
+   next if /^[\d.]+\z/a;
+   if (/[^._\-[:^punct:]]/) { warn "skipping $_ ...\n";
+   next } print lc $_' - |
+     sort -u |
+     uniq -i |
+     python3 "${git_dir}/scripts/domain-sort.py" >"${git_dir}/data/phishing_database/ALL-phishing-links.txt"
 
 # | sort -u | python3 "${git_dir}/scripts/domain-sort.py" >"data/phishing_database/ALL-phishing-links.txt"
 
