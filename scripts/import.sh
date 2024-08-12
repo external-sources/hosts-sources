@@ -245,11 +245,11 @@ ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/m
 # echo "Done importing @mitchellkrogza's many lists"
 # mitchellkrogza many lists
 
-# echo ""
-# echo "Importing 1Hosts"
-# echo ""
-# mkdir -p "${git_dir}/data/1Hosts"
-# ${WGET} -qO- "https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt" | awk '/^(#|$)/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"${git_dir}/data/domain.list"
+ echo ""
+ echo "Importing 1Hosts"
+ echo ""
+ mkdir -p "${git_dir}/data/1Hosts"
+ ${WGET} -qO- "https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt" | awk '/^(#|$)/{ next }; /^Site/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"${git_dir}/data/domain.list"
 
 # muLists=(malware ads-tracking ads-tracking-breaking)
 # muUrl="https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/"
