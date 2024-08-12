@@ -1,7 +1,7 @@
 # PglYoYo
 #
 # Converted from - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
-# Last converted - Mon, 12 Aug 2024 04:57:12 +0000
+# Last converted - Mon, 12 Aug 2024 08:57:18 +0000
 #
 
 0.0.0.0 1-1ads.com
