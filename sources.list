@@ -1,5 +1,6 @@
 .workspace/-/raw/master/data/fademind_blocklists-facebook/domain.list
 .workspace/-/raw/master/data/abuse.ch/urlhaus/domain.list
+.workspace/-/raw/master/data/domain.list
 .workspace/-/raw/master/data/fademind_antipopads/domain.list
 .workspace/-/raw/master/data/mitchellkrogza/badd_boyz_hosts/domain.list
 .workspace/-/raw/master/data/fademind_add_spam/domain.list
