@@ -286,7 +286,7 @@ echo "Import README"
 ${WGET} "${SWUrl}/README.md" -O "$git_dir/data/shadowwhisperer/README.md"
 
 # Unset variables
-unset "$SWUrl"
+SWUrl=""
 
 echo "Done with @ShadowWhisperer, thanks for your contribution, may the the ods"
 echo "always be in your favour :smirk:"
