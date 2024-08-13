@@ -1,56 +1,77 @@
 <?php
 
-// Add our lists.
-$lists = array(
-	'PhishingDatabaseLinks' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt',
-    'openphish_com' => 'https://openphish.com/feed.txt'
-);
+/** SETTINGS *************************************************************/
+
+// Parse CLI arguments into the $_GET global.
+if ( isset( $argv ) ) {
+    parse_str( implode( '&', array_slice( $argv, 1 ) ), $_GET );
+}
+
+// Parse list from CLI parameters if available.
+if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
+    $lists = [
+        $_GET['name'] => $_GET['url']
+    ];
+
+// Default lists.
+} else {
+    // Add our lists.
+    $lists = array(
+        'PhishingDatabaseLinks' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt',
+        'openphish_com' => 'https://openphish.com/feed.txt',
+        'adAway' => 'https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt',
+        'antipopadsRe' => 'https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/hosts.txt',
+        'anudeepND' => 'https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt',
+        'BaddBoyzHosts' => 'https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts',
+    );
+
+}
 
 foreach ( $lists as $name => $list ) {
-	echo "Converting {$name}...\n";
+    echo "Converting {$name}...\n";
 
-	// Fetch list and explode into an array.
-	$lines = file_get_contents( $list );
-	$lines = explode( "\n", $lines );
+    // Fetch list and explode into an array.
+    $lines = file_get_contents( $list );
+    $lines = explode( "\n", $lines );
 
-	// HOSTS header.
-	$hosts  = "# {$name}\n";
-	$hosts .= "#\n";
-	$hosts .= "# Converted from - {$list}\n";
-	$hosts .= "# Last converted - " . date( 'r' ) . "\n";
-	$hosts .= "#\n\n";
+    // HOSTS header.
+    $hosts  = "# {$name}\n";
+    $hosts .= "#\n";
+    $hosts .= "# Converted from - {$list}\n";
+    $hosts .= "# Last converted - " . date( 'r' ) . "\n";
+    $hosts .= "#\n\n";
 
-	$domains = $exceptions = array();
+    $domains = array();
 
-	// Loop through each url.
-	foreach ( $lines as $url ) {
-		$url = trim( $url );
-		if ( empty( $url ) ) {
-			continue;
-		}
+    // Loop through each url.
+    foreach ( $lines as $url ) {
+        $url = trim( $url );
+        if ( empty( $url ) ) {
+            continue;
+        }
 
-		$host = parse_url( $url, PHP_URL_HOST );
-		if ( empty( $host ) ) {
-			continue;
-		}
+        $host = parse_url( $url, PHP_URL_HOST );
+        if ( empty( $host ) ) {
+            continue;
+        }
 
-		if ( isset( $domains[ $host ] ) ) {
-			continue;
-		}
+        if ( isset( $domains[ $host ] ) ) {
+            continue;
+        }
 
-		$domains[ $host ] = 1;
-	}
+        $domains[ $host ] = 1;
+    }
 
-	// Generate the domains list.
-	if ( ! empty( $domains ) ) {
-		$domains = array_keys( $domains );
+    // Generate the domains list.
+    if ( ! empty( $domains ) ) {
+        $domains = array_keys( $domains );
 
-		$hosts .= implode( "\n", $domains );
-		unset( $domains );
-	}
+        $hosts .= implode( "\n", $domains );
+        unset( $domains );
+    }
 
-	// Output the file.
-	file_put_contents( "data/{$name}.txt", $hosts );
+    // Output the file.
+    file_put_contents( "{$name}.txt", $hosts );
 
-	echo "{$name} converted to domains file - see {$name}.txt\n";
+    echo "{$name} converted to domains file - see {$name}.txt\n";
 }
