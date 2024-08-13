@@ -265,7 +265,7 @@ ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/m
      c "${muUrl}${mu}" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",tolower($1)) }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' | sort | uniq -u >"data/migueldemoura_${mu}/domain.list"
  done
 
- Unset variables
+# Unset variables
  muUrl=""
 
 # @ShadowWhisperer
@@ -291,21 +291,19 @@ SWUrl=""
 echo "Done with @ShadowWhisperer, thanks for your contribution, may the the ods"
 echo "always be in your favour :smirk:"
 
-# Geoffrey Frogeye's block list of first-party trackers
+# Geoffrey Frog eye's block list of first-party trackers
 # First party trackers only
-echo "Importing Geoffrey Frogeye's block list of first-party trackers"
+echo "Importing Geoffrey Frog eye's block list of first-party trackers"
 mkdir -p "${git_dir}/data/frogeye/{firstpart,firstpart2,thirdpart}"
 c https://hostfiles.frogeye.fr/firstparty-trackers.txt -o "${git_dir}/data/frogeye/firstpart/domain.list"
 c https://hostfiles.frogeye.fr/firstparty-only-trackers.txt -o "${git_dir}/data/frogeye/firstpart2/domain.list"
 c https://hostfiles.frogeye.fr/multiparty-only-trackers.txt -o "${git_dir}/data/frogeye/thirdpart/domain.list"
-echo "Done importing Geoffrey Frogeye's block list of first-party trackers"
+echo "Done importing Geoffrey Frog eye's block list of first-party trackers"
 
 # Quidsup Mixed
 mkdir -p "${git_dir}/data/quidsup/"
 c https://quidsup.net/notrack/blocklist.php?download=trackersdomains -o "${git_dir}/data/quidsup/domain.list"
 echo "Done importing Quidsup"
-
-
 
 echo ""
 echo ""
