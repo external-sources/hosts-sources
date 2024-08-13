@@ -18,9 +18,9 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
     // Add our lists.
     $lists = array(
         'PhishingDatabaseLinks' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt',
-        'openphish_com' => 'https://openphish.com/feed.txt'
+        'openphish_com' => 'https://openphish.com/feed.txt',
+        'frogeyefirstpart' => 'https://hostfiles.frogeye.fr/firstparty-trackers.txt'
     );
-
 }
 
 foreach ( $lists as $name => $list ) {
@@ -41,6 +41,16 @@ foreach ( $lists as $name => $list ) {
 
     // Loop through each url.
     foreach ( $lines as $url ) {
+        if ( 0 === strpos( $url, '#' ) ) {
+            continue;
+        }
+
+        // Test for hosts file. If so, split by space.
+        if ( is_numeric( substr( $url, 0, 1 ) ) && false !== strpos( $url, ' ' ) ) {
+            $url = explode( ' ', $url );
+            $url = 'https://' . end( $url );
+        }
+
         $url = trim( $url );
         if ( empty( $url ) ) {
             continue;
@@ -58,7 +68,7 @@ foreach ( $lists as $name => $list ) {
         $domains[ $host ] = 1;
     }
 
-    // Generate the domains list.
+    // Generate the hosts list.
     if ( ! empty( $domains ) ) {
         $domains = array_keys( $domains );
 
