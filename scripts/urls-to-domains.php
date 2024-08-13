@@ -18,11 +18,7 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
     // Add our lists.
     $lists = array(
         'PhishingDatabaseLinks' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt',
-        'openphish_com' => 'https://openphish.com/feed.txt',
-        'adAway' => 'https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt',
-        'antipopadsRe' => 'https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/hosts.txt',
-        'anudeepND' => 'https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt',
-        'BaddBoyzHosts' => 'https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts',
+        'openphish_com' => 'https://openphish.com/feed.txt'
     );
 
 }
