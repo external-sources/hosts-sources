@@ -2,192 +2,199 @@
 // script source https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/converter.php
 // https://github.com/r-a-y/mobile-hosts/blob/master/
 // License: GPL-3.0 https://github.com/r-a-y/mobile-hosts/blob/master/LICENSE
-// Add our lists.
-$lists = array(
-    // Mobile Ads
-    'AdguardMobileAds' => 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt',
+/** SETTINGS *************************************************************/
 
-    // Mobile Tracking + Spyware
-    'AdguardMobileSpyware' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt',
+// Parse CLI arguments into the $_GET global.
+if ( isset( $argv ) ) {
+    parse_str( implode( '&', array_slice( $argv, 1 ) ), $_GET );
+}
 
-    // Adguard DNS
-    'AdguardDNS' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
+// Parse list from CLI parameters if available.
+if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
+    $lists = [
+        $_GET['name'] => $_GET['url']
+    ];
 
-    // Adguard CNAME Ads
-    'AdguardCNAMEAds' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads.txt',
+// Default lists.
+} else {
+    $lists = array(
+        // Mobile Ads
+        'AdguardMobileAds' => 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt',
 
-    // Adguard CNAME Clickthroughs
-    'AdguardCNAMEClickthroughs' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs.txt',
+        // Mobile Tracking + Spyware
+        'AdguardMobileSpyware' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt',
 
-    // Adguard CNAME Microsites
-    'AdguardCNAMEMicrosites' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites.txt',
+        // Adguard DNS
+        'AdguardDNS' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
 
-    // Adguard CNAME Trackers
-    'AdguardCNAME' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt',
+        // Adguard CNAME Ads
+        'AdguardCNAMEAds' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads.txt',
 
-    // Adguard Tracking
-    'AdguardTracking' => 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt',
+        // Adguard CNAME Clickthroughs
+        'AdguardCNAMEClickthroughs' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs.txt',
 
-    // EasyPrivacy Specific
-    'EasyPrivacySpecific' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt',
+        // Adguard CNAME Microsites
+        'AdguardCNAMEMicrosites' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites.txt',
 
-    // EasyPrivacy Third-Party
-    'EasyPrivacy3rdParty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt',
+        // Adguard CNAME Trackers
+        'AdguardCNAME' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt',
 
-    'adguardApps' => 'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt',
-    'adguardDNS' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
-    'adguardMobileAds' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt',
-    'easyPrivacy3rdParty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt',
-    'easyPrivacySpecific' => 'https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt',
-);
+        // Adguard Tracking
+        'AdguardTracking' => 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt',
 
-$idn_to_ascii = function_exists('idn_to_ascii');
+        // EasyPrivacy Specific
+        'EasyPrivacySpecific' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt',
 
-foreach ($lists as $name => $list) {
-    echo "Converting $name...\n";
+        // EasyPrivacy Third-Party
+        'EasyPrivacy3rdParty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt',
+    );
+}
+
+/** PARSER ***************************************************************/
+
+$idn_to_ascii = function_exists( 'idn_to_ascii' );
+
+foreach ( $lists as $name => $list ) {
+    echo "Converting {$name}...\n";
 
     // Fetch filter list and explode into an array.
-    $lines = file_get_contents($list);
-    $lines = explode("\n", $lines);
+    $lines = file_get_contents( $list );
+    $lines = explode( "\n", $lines );
 
     // HOSTS header.
-    $hosts = "# $name\n";
+    $hosts  = "# {$name}\n";
     $hosts .= "#\n";
-    $hosts .= "# Converted from - $list\n";
-    $hosts .= '# Last converted - ' . date('r') . "\n";
+    $hosts .= "# Converted from - {$list}\n";
+    $hosts .= "# Last converted - " . date( 'r' ) . "\n";
     $hosts .= "#\n\n";
 
     $domains = $exceptions = array();
 
     // Loop through each ad filter.
-    foreach ($lines as $filter) {
+    foreach ( $lines as $filter ) {
         // Skip filter if matches the following:
-        if (false === strpos($filter, '.')) {
+        if ( false === strpos( $filter, '.' ) ) {
             continue;
         }
-        if (false !== strpos($filter, '*')) {
+        if ( false !== strpos( $filter, '*' ) ) {
             continue;
         }
-        if (false !== strpos($filter, '/')) {
+        if ( false !== strpos( $filter, '/' ) ) {
             continue;
         }
-        if (false !== strpos($filter, '#')) {
+        if ( false !== strpos( $filter, '#' ) ) {
             continue;
         }
-        if (false !== strpos($filter, ' ')) {
+        if ( false !== strpos( $filter, ' ' ) ) {
             continue;
         }
-        if (false !== strpos($filter, 'abp?')) {
+        if ( false !== strpos( $filter, 'abp?' ) ) {
             continue;
         }
 
         // Skip Adguard HTML filtering syntax.
-        if (false !== strpos($filter, '$$') || false !== strpos($filter, '$@$')) {
+        if ( false !== strpos( $filter, '$$' ) || false !== strpos( $filter, '$@$' ) ) {
             continue;
         }
 
         // For $domain syntax, strip domain rules.
-        if (false !== strpos($filter, '$domain') && false === strpos($filter, '@@')) {
-            $filter = substr($filter, 0, strpos($filter, '$domain'));
-        } elseif (false !== strpos($filter, '=')) {
+        if ( false !== strpos( $filter, '$domain' ) && false === strpos( $filter, '@@' ) ) {
+            $filter = substr( $filter, 0, strpos( $filter, '$domain' ) );
+        } elseif ( false !== strpos( $filter, '=' ) ) {
             continue;
         }
 
         // Replace filter syntax with HOSTS syntax.
         // @todo Perhaps skip $third-party, $image and $popup?
-        $filter = str_replace(array('||', '^third-party', '^', '$third-party', ',third-party', '$all', ',all', '$image', ',image', ',important', '$script', ',script', '$object', ',object', '$popup', ',popup', '$empty', '$object-subrequest', '$document', '$subdocument', ',subdocument', '$ping', '$important', '$badfilter', ',badfilter', '$websocket', '$cookie', '$other'), '', $filter);
+        $filter = str_replace( array( '||', '^third-party', '^', '$third-party', ',third-party', '$all', ',all', '$image', ',image', ',important', '$script', ',script', '$object', ',object', '$popup', ',popup', '$empty', '$object-subrequest', '$document', '$subdocument', ',subdocument', '$ping', '$important', '$badfilter', ',badfilter', '$websocket', '$cookie', '$other' ), '', $filter );
 
         /*
          * Workarounds. Groan.
          */
-        // EasyPrivacySpecific. See https://github.com/r-a-y/mobile-hosts/issues/17.
-        if ('soundcloud.com' === $filter) {
-            continue;
-        }
         // See https://github.com/r-a-y/mobile-hosts/issues/26.
-        if ('global.ssl.fastly.net' === $filter) {
+        if ( 'global.ssl.fastly.net' === $filter ) {
             continue;
         }
 
         // Skip rules matching 'xmlhttprequest' for now.
-        if (false !== strpos($filter, 'xmlhttprequest')) {
+        if ( false !== strpos( $filter, 'xmlhttprequest' ) ) {
             continue;
         }
 
         // Skip exclusion rules.
-        if (false !== strpos($filter, '~')) {
+        if ( false !== strpos( $filter, '~' ) ) {
             continue;
         }
 
         // Trim whitespace.
-        $filter = trim($filter);
+        $filter = trim( $filter );
 
         // If starting or ending with '.', skip.
-        if ('.' === substr($filter, 0, 1) || '.' === substr($filter, -1)) {
+        if ( '.' === substr( $filter, 0, 1 ) || '.' === substr( $filter, -1 ) ) {
             continue;
         }
 
         // If starting with '-', skip.
         // https://github.com/r-a-y/mobile-hosts/issues/5
-        if ('-' === substr($filter, 0, 1) || '_' === substr($filter, 0, 1)) {
+        if ( '-' === substr( $filter, 0, 1 ) || '_' === substr( $filter, 0, 1 ) ) {
             continue;
         }
 
         // If starting with '!', skip.
-        if ('!' === substr($filter, 0, 1)) {
+        if ( '!' === substr( $filter, 0, 1 ) ) {
             continue;
         }
 
         // Strip trailing |.
-        if ('|' === substr($filter, -1)) {
-            $filter = str_replace('|', '', $filter);
+        if ( '|' === substr( $filter, -1 ) ) {
+            $filter = str_replace( '|', '', $filter );
         }
 
         // Skip file extensions
-        if ('.jpg' === substr($filter, -4) || '.gif' === substr($filter, -4)) {
+        if ( '.jpg' === substr( $filter, -4 ) || '.gif' === substr( $filter, -4 ) ) {
             continue;
         }
 
         // Strip port numbers.
-        if (false !== strpos($filter, ':')) {
-            $filter = substr($filter, 0, strpos($filter, ':'));
+        if ( false !== strpos( $filter, ':' ) ) {
+            $filter = substr( $filter, 0, strpos( $filter, ':' ) );
         }
 
         // Convert internationalized domain names to punycode.
-//        if ($idn_to_ascii && preg_match('//u', $filter)) {
-//            $filter = idn_to_ascii($filter);
-//        }
+        if ( $idn_to_ascii && preg_match( "//u", $filter ) ) {
+            $filter = idn_to_ascii( $filter );
+        }
 
         // If empty, skip.
-        if (empty($filter)) {
+        if( empty( $filter ) ) {
             continue;
         }
 
         // Save exception to parse later.
-        if (0 === strpos($filter, '@@')) {
-            $exceptions[] = '0.0.0.0 ' . str_replace('@@', '', $filter);
+        if ( 0 === strpos( $filter, '@@' ) ) {
+            $exceptions[] = '0.0.0.0 ' . str_replace( '@@', '', $filter );
             continue;
         }
 
-        $domains[] = "$filter";
+        $domains[] = "{$filter}";
     }
 
     // Generate the hosts list.
-    if (!empty($domains)) {
+    if ( ! empty( $domains ) ) {
         // Filter out duplicates.
-        $domains = array_unique($domains);
+        $domains = array_unique( $domains );
 
         // Remove exceptions.
-        if (!empty($exceptions)) {
-            $domains = array_diff($domains, $exceptions);
+        if ( ! empty( $exceptions ) ) {
+            $domains = array_diff( $domains, $exceptions );
         }
 
-        $hosts .= implode("\n", $domains);
-        unset($domains);
+        $hosts .= implode( "\n", $domains );
+        unset( $domains );
     }
 
     // Output the file.
-    file_put_contents("data/$name.txt", $hosts);
+    file_put_contents( "data/{$name}.txt", $hosts );
 
-    echo "$name converted to domain records - see data/$name.txt\n";
+    echo "{$name} converted to HOSTS file - see {$name}.txt\n";
 }
