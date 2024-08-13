@@ -19,7 +19,7 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
     $lists = array(
         'PhishingDatabaseLinks' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt',
         'openphish_com' => 'https://openphish.com/feed.txt',
-        'frogeyefirstpart' => 'https://hostfiles.frogeye.fr/firstparty-trackers.txt'
+        'frogeyefirstpart' => 'https://hostfiles.frogeye.fr/firstparty-trackers.txt',
     );
 }
 
