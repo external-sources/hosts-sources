@@ -154,9 +154,9 @@ foreach ($lists as $name => $list) {
         }
 
         // Convert internationalized domain names to punycode.
-        if ($idn_to_ascii && preg_match('//u', $filter)) {
-            $filter = idn_to_ascii($filter);
-        }
+//        if ($idn_to_ascii && preg_match('//u', $filter)) {
+//            $filter = idn_to_ascii($filter);
+//        }
 
         // If empty, skip.
         if (empty($filter)) {
