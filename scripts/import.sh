@@ -60,23 +60,23 @@ ${WGET} -qO- 'https://urlhaus.abuse.ch/downloads/rpz/' | awk '/^;/{ next }; { if
 echo "Imported urlhaus.abuse.ch"
 
 mkdir -p "${git_dir}/data/someonewhocares/"
-${WGET} -qO- 'https://someonewhocares.org/hosts/hosts' | grep -v '#' | awk '/^(#|$)/{ next }; { if ( $1 ~ /[0-9]/ ) printf"%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/someonewhocares/domain.list"
+${WGET} -qO- 'https://someonewhocares.org/hosts/hosts' | grep -v '#' | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/someonewhocares/domain.list"
 printf "Imported someonewhocares\n"
 
 mkdir -p "${git_dir}/data/fademind_add_risk/"
-${WGET} -qO- "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[0-9]/ ) printf"%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/fademind_add_risk/domain.list"
+${WGET} -qO- "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts" | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/fademind_add_risk/domain.list"
 echo "Imported FadeMind add.Risk"
 
 mkdir -p "${git_dir}/data/fademind_add_spam/"
-${WGET} -qO- "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[0-9]/ ) printf"%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/fademind_add_spam/domain.list"
+${WGET} -qO- "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts" | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/fademind_add_spam/domain.list"
 echo "Imported FadeMind add.Spam"
 
 mkdir -p "${git_dir}/data/fademind_antipopads/"
-${WGET} -qO- "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/antipopads-re/hosts" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[0-9]/ ) printf"%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/fademind_antipopads/domain.list"
+${WGET} -qO- "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/antipopads-re/hosts" | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/fademind_antipopads/domain.list"
 echo "Imported FadeMind AntiPopAds"
 
 mkdir -p "${git_dir}/data/fademind_blocklists-facebook/"
-${WGET} -qO- "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/blocklists-facebook/hosts" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[0-9]/ ) printf"%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/fademind_blocklists-facebook/domain.list"
+${WGET} -qO- "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/blocklists-facebook/hosts" | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/fademind_blocklists-facebook/domain.list"
 echo "Imported FadeMind blocklists-facebook"
 
  mkdir -p "${git_dir}/data/CoinBlockerLists/"
@@ -84,7 +84,7 @@ echo "Imported FadeMind blocklists-facebook"
  echo "Imported CoinBlockerLists"
 
 mkdir -p "${git_dir}/data/mvps/"
-${WGET} -qO- "https://winhelp2002.mvps.org/hosts.txt" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[0-9]/ ) printf"%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/mvps/domain.list"
+${WGET} -qO- "https://winhelp2002.mvps.org/hosts.txt" | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/mvps/domain.list"
 echo "Imported mvps"
 
 mkdir -p "${git_dir}/data/adaway/domain}"
@@ -102,7 +102,7 @@ echo "Imported adaway.github.io"
 # echo "Imported dg-ads"
 
 # mkdir -p "${git_dir}/data/malwaredomainlist/"
-# ${WGET} -qO- "https://www.malwaredomainlist.com/hostslist/hosts.txt" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[0-9]/ ) printf"%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/malwaredomainlist/domain.list"
+# ${WGET} -qO- "https://www.malwaredomainlist.com/hostslist/hosts.txt" | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/malwaredomainlist/domain.list"
 # echo "Imported malwaredomainlist"
 
 mkdir -p "${git_dir}/data/notrack/blocklists/"
@@ -215,7 +215,7 @@ mkdir -p "${git_dir}/data/mitchellkrogza/badd_boyz_hosts/"
 echo ""
 echo "Badd-Boyz-Hosts"
 echo ""
-${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[0-9]/ ) printf"%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/mitchellkrogza/badd_boyz_hosts/domain.list"
+${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts" | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/mitchellkrogza/badd_boyz_hosts/domain.list"
  ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/README.md" -O "data/mitchellkrogza/badd_boyz_hosts/README.md"
  ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/LICENSE.md" -O "data/mitchellkrogza/badd_boyz_hosts/LICENSE.md"
 
