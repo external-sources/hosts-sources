@@ -52,9 +52,7 @@ jobs:
       - name: Download and converting ads blockers to plain domains
         run: php -f "${{ github.workspace }}/scripts/converter.php"
 
-      - name: | 
-          Import PhishingDatabase
-          Download urls and Hosts and convert to domains
+      - name: Import PhishingDatabase. Download urls and Hosts and convert to domains
         run: php -f "${{ github.workspace }}/scripts/urls-to-domains.php"
 
       - name: Import IP based blacklists
