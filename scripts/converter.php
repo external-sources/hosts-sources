@@ -30,7 +30,7 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
         // Adguard CNAME Ads
         'AdguardCNAMEAds' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads.txt',
 
-        // Adguard CNAME Clickthroughs
+        // Adguard CNAME Click through
         'AdguardCNAMEClickthroughs' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs.txt',
 
         // Adguard CNAME Microsites
@@ -55,16 +55,16 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
 $idn_to_ascii = function_exists( 'idn_to_ascii' );
 
 foreach ( $lists as $name => $list ) {
-    echo "Converting {$name}...\n";
+    echo "Converting $name...\n";
 
     // Fetch filter list and explode into an array.
     $lines = file_get_contents( $list );
     $lines = explode( "\n", $lines );
 
     // HOSTS header.
-    $hosts  = "# {$name}\n";
+    $hosts  = "# $name\n";
     $hosts .= "#\n";
-    $hosts .= "# Converted from - {$list}\n";
+    $hosts .= "# Converted from - $list\n";
     $hosts .= "# Last converted - " . date( 'r' ) . "\n";
     $hosts .= "#\n\n";
 
@@ -161,7 +161,7 @@ foreach ( $lists as $name => $list ) {
         }
 
         // Convert internationalized domain names to punycode.
-        if ( $idn_to_ascii && preg_match( "//u", $filter ) ) {
+        if ( $idn_to_ascii && preg_match( "//u", $filter ) && ! empty( $filter ) ) {
             $filter = idn_to_ascii( $filter );
         }
 
@@ -176,7 +176,7 @@ foreach ( $lists as $name => $list ) {
             continue;
         }
 
-        $domains[] = "{$filter}";
+        $domains[] = "$filter";
     }
 
     // Generate the hosts list.
@@ -194,7 +194,7 @@ foreach ( $lists as $name => $list ) {
     }
 
     // Output the file.
-    file_put_contents( "data/{$name}.txt", $hosts );
+    file_put_contents( "data/$name.txt", $hosts );
 
-    echo "{$name} converted to HOSTS file - see {$name}.txt\n";
+    echo "$name converted to HOSTS file - see $name.txt\n";
 }

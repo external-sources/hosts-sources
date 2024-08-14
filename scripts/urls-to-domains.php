@@ -22,16 +22,16 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
 }
 
 foreach ( $lists as $name => $list ) {
-    echo "Converting {$name}...\n";
+    echo "Converting $name...\n";
 
-    // Fetch list and explode into an array.
+    // Fetch URI and Hosts list and explode into an array.
     $lines = file_get_contents( $list );
     $lines = explode( "\n", $lines );
 
     // HOSTS header.
-    $hosts  = "# {$name}\n";
+    $hosts  = "# $name\n";
     $hosts .= "#\n";
-    $hosts .= "# Converted from - {$list}\n";
+    $hosts .= "# Converted from - $list\n";
     $hosts .= "# Last converted - " . date( 'r' ) . "\n";
     $hosts .= "#\n\n";
 
@@ -75,7 +75,7 @@ foreach ( $lists as $name => $list ) {
     }
 
     // Output the file.
-    file_put_contents( "{$name}.txt", $hosts );
+    file_put_contents( "$name.txt", $hosts );
 
-    echo "{$name} converted to domains file - see {$name}.txt\n";
+    echo "$name converted to domains search file - see $name.txt\n";
 }
