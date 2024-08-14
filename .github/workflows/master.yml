@@ -52,11 +52,13 @@ jobs:
       - name: Import IP based blacklists
         run: bash "${{ github.workspace }}/scripts/import.sh"
 
-      - name: Import PhishingDatabase
+      - name: | 
+          Import PhishingDatabase
+          Download urls and Hosts and convert to domains
         run: php -f "${{ github.workspace }}/scripts/urls-to-domains.php
 
-      - name: Download urls and convert to domains
-        run: php -f "${{ github.workspace }}/scripts/urls-to-domains.php"
+      - name: Download and converting ads blockers to plain domains
+        run: php -f "${{ github.workspace }}/scripts/converter.php.php"
 
       - name: Update active source list
         run: bash "${{ github.workspace }}/scripts/update_active_lists.sh"
