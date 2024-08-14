@@ -3,12 +3,12 @@
     Apple            Bloat  
     Bloat            Fonts, Surveys, Domains not required for software to function  
     Chat             Chat Dialog Popups  
-    Cryptocurrency   Bitcoin, Ethereum, Mining, etc. (Not malware, but could be used by it)  
+    Cryptocurrency   Bitcoin, Ethereum, Mining, etc. (Not Malware)  
     Dating           Dating Sites  
     Dynamic          Dynamic DNS:  DNS --> IP  
     Free             Free/Cheap Hosting, Free Blogs  
     Gambling         Casino, Gambling, Poker sites  
-    Junk             Personally Untrusted Antivirus, Browser Extensions, Search Engines, etc  
+    Junk             Personally untrusted software, browser extensions, search engines, etc  
     Malware          Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites  
     Marketing        Marketing, Ebay Listing Tools, etc  
     Marketing-Email  Email Based Marketing  
@@ -17,7 +17,7 @@
     Risk             Bad ISP/Bots/Spam, Keyloggers, Sites used by compromised devices
     Scam             Fake freight, gift cards, products, support, pet sales, firearms, news, etc    
     Shock            Gore, Gross, and Torture sites
-    Top_Level        Top Level Domains. Sorted by Continent, then by country
+    Top_Level        Top Level Domains. Sorted by continent, then by country
     Tracking         Analytics, Diagnostics, Location, Metrics, Public IP  
     Tunnels          VPNs & Proxies  
     Typo             Misspelling of websites / Typosquatting  
