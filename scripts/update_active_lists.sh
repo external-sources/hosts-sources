@@ -11,7 +11,7 @@ truncate -s 0 "${git_dir}/sources.list"
 # shellcheck disable=SC2044
 for lists in $(find data/ -type f -name domain.list); do
     # shellcheck disable=SC2296
-    printf "%s/-/raw/master/$lists\n" "${{ github.workspace }}" |
+    printf "${{ github.workspace }}/-/raw/master/$lists\n" |
         sort -u -f >>"${git_dir}/sources.list"
 done
 
