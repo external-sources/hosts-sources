@@ -20,9 +20,6 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
         'PhishingDatabaseLinks' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt',
         'openphish_com' => 'https://openphish.com/feed.txt',
         'quidsupTrackers' => 'https://uidsup.net/notrack/blocklist.php?download=trackersdomains',
-        'frogeyefirstparty' => 'https://hostfiles.frogeye.fr/firstparty-trackers.txt',
-        'frogeyefirstonlytrackers' => 'https://hostfiles.frogeye.fr/firstparty-only-trackers.txt',
-        'frogeyethirdparty' => 'https://hostfiles.frogeye.fr/multiparty-only-trackers.txt',
         '1Hosts' => 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt',
         'AdroitAdorKhan' => 'https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/hosts.txt',
     );
@@ -82,7 +79,7 @@ foreach ( $lists as $name => $list ) {
     }
 
     // Output the file.
-    file_put_contents( "{$name}.txt", $hosts );
+    file_put_contents( "data/{$name}.txt", $hosts );
 
     echo "{$name} converted to domains file - see {$name}.txt\n";
 }

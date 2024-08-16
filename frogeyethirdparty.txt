@@ -1,6 +1,0 @@
-# frogeyethirdparty
-#
-# Converted from - https://hostfiles.frogeye.fr/multiparty-only-trackers.txt
-# Last converted - Fri, 16 Aug 2024 09:46:28 +0000
-#
-
