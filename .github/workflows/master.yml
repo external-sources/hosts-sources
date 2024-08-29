@@ -49,14 +49,17 @@ jobs:
         run: |
           pip install --break-system-packages --no-cache mypdns
 
-      - name: Download and converting ads blockers to plain domains
+      - name: (converter.php)
         run: php -f "${{ github.workspace }}/scripts/converter.php"
 
-      - name: Import PhishingDatabase. Download urls and Hosts and convert to domains
+      - name: (urls-to-domains.php)
         run: php -f "${{ github.workspace }}/scripts/urls-to-domains.php"
 
-      - name: Import IP based blacklists
+      - name: import.sh
         run: bash "${{ github.workspace }}/scripts/import.sh"
+
+      - name: csv_import.sh
+        run: bash "${{ github.workspace }}/scripts/csv_import.sh"
 
       - name: Update active source list
         run: bash "${{ github.workspace }}/scripts/update_active_lists.sh"
