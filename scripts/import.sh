@@ -255,16 +255,10 @@ ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/m
  echo ""
  echo "Ultimate.Hosts.Blacklist: Start"
  echo ""
- echo "list 0"
- set -x
  ${WGET} -qO- "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list" | grep -vE "^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$" >"data/mitchellkrogza/Ultimate.Hosts.Blacklist/domain0.csv"
- echo "list 1"
  ${WGET} -qO- "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list" | grep -vE "^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$" >"data/mitchellkrogza/Ultimate.Hosts.Blacklist/domain1.csv"
- echo "list 2"
  ${WGET} -qO- "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list" | grep -vE "^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$" >"data/mitchellkrogza/Ultimate.Hosts.Blacklist/domain2.csv"
- echo "readme"
  ${WGET} -q "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/README.md" -O "data/mitchellkrogza/Ultimate.Hosts.Blacklist/README.md"
- echo "LICENSE"
  ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/LICENSE.md" -O "data/mitchellkrogza/Ultimate.Hosts.Blacklist/LICENSE.md"
  echo "Ultimate.Hosts.Blacklist: End"
 # END @mitchellkrogza's many lists
@@ -313,8 +307,10 @@ echo "always be in your favour :smirk:"
 
 # Geoffrey Frog eye's block list of first-party trackers
 # First party trackers only
+set -x
 echo "Importing Geoffrey Frog eye's block list of first-party trackers"
 mkdir -p "${git_dir}/data/frogeye/{firstpart,firstpart2,thirdpart}"
+ls -lha "${git_dir}/data/frogeye/"
 ${WGET} -q https://hostfiles.frogeye.fr/firstparty-trackers.txt -O "${git_dir}/data/frogeye/firstpart/domain.csv"
 ${WGET} -q https://hostfiles.frogeye.fr/firstparty-only-trackers.txt -O "${git_dir}/data/frogeye/firstpart2/domain.csv"
 ${WGET} -q https://hostfiles.frogeye.fr/multiparty-only-trackers.txt -O "${git_dir}/data/frogeye/thirdpart/domain.csv"
