@@ -198,7 +198,7 @@ echo "Imported eDrop spamhaus.org"
  echo "Imported openfish.com"
 
 # START @mitchellkrogza's many lists
- echo "START importing @mitchellkrogza's many lists"
+ echo "@mitchellkrogza's lists: START"
 
 # Perlscript as by https://unix.stackexchange.com/a/745455
  echo ""
@@ -253,13 +253,17 @@ ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/m
 
  mkdir -p "${git_dir}/data/mitchellkrogza/Ultimate.Hosts.Blacklist/"
  echo ""
- echo "Ultimate.Hosts.Blacklist"
+ echo "Ultimate.Hosts.Blacklist: Start"
  echo ""
- ${WGET} -qO- "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.csv" | grep -vE "^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$" >"data/mitchellkrogza/Ultimate.Hosts.Blacklist/domain.csv"
- ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/README.md" -O "data/mitchellkrogza/Ultimate.Hosts.Blacklist/README.md"
- ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/LICENSE.md" -O "data/mitchellkrogza/Ultimate.Hosts.Blacklist/LICENSE.md"
- echo "Done importing @mitchellkrogza's many lists"
-# mitchellkrogza many lists
+ echo "list"
+ c "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.csv" | grep -vE "^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$" >"data/mitchellkrogza/Ultimate.Hosts.Blacklist/domain.csv"
+ echo "readme"
+ c "https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/README.md" -o "data/mitchellkrogza/Ultimate.Hosts.Blacklist/README.md"
+ echo "LICENSE"
+ c "https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/LICENSE.md" -o "data/mitchellkrogza/Ultimate.Hosts.Blacklist/LICENSE.md"
+ echo "Ultimate.Hosts.Blacklist: End"
+# END @mitchellkrogza's many lists
+ echo "@mitchellkrogza's lists: END"
 
  echo ""
  echo "Importing 1Hosts"
