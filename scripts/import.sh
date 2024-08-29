@@ -188,7 +188,7 @@ echo "Imported eDrop spamhaus.org"
 
  # Disconnect ad-servers
  mkdir -p "${git_dir}/data/disconnect-me/"
- c "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' >"data/disconnect-me/domain.csv"
+ c "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z0-9]/ ) printf("%s\n",$1) | "sort -u -i" }' >"data/disconnect-me/domain.csv"
  echo "Imported simple disconnect.me"
 
 # We need to avoid the IP hosts provided by openfish as they can't be used with hosts files'
@@ -315,20 +315,20 @@ echo "always be in your favour :smirk:"
 # First party trackers only
 echo "Importing Geoffrey Frog eye's block list of first-party trackers"
 mkdir -p "${git_dir}/data/frogeye/{firstpart,firstpart2,thirdpart}"
-c https://hostfiles.frogeye.fr/firstparty-trackers.txt -o "${git_dir}/data/frogeye/firstpart/domain.csv"
-c https://hostfiles.frogeye.fr/firstparty-only-trackers.txt -o "${git_dir}/data/frogeye/firstpart2/domain.csv"
-c https://hostfiles.frogeye.fr/multiparty-only-trackers.txt -o "${git_dir}/data/frogeye/thirdpart/domain.csv"
+${WGET} -q https://hostfiles.frogeye.fr/firstparty-trackers.txt -O "${git_dir}/data/frogeye/firstpart/domain.csv"
+${WGET} -q https://hostfiles.frogeye.fr/firstparty-only-trackers.txt -O "${git_dir}/data/frogeye/firstpart2/domain.csv"
+${WGET} -q https://hostfiles.frogeye.fr/multiparty-only-trackers.txt -O "${git_dir}/data/frogeye/thirdpart/domain.csv"
 echo "Done importing Geoffrey Frog eye's block list of first-party trackers"
 
 # Quidsup Mixed
 mkdir -p "${git_dir}/data/quidsup/"
-c https://quidsup.net/notrack/blocklist.php?download=trackersdomains -o "${git_dir}/data/quidsup/domain.csv"
+${WGET} -q https://quidsup.net/notrack/blocklist.php?download=trackersdomains -O "${git_dir}/data/quidsup/domain.csv"
 echo "Done importing Quidsup"
 
 # fabriziosalmi
 name="fabriziosalmi"
 mkdir -p "${git_dir}/data/$name/"
-c https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt -o "${git_dir}/data/$name/domain.csv"
+${WGET} -q https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt -O "${git_dir}/data/$name/domain.csv"
 echo "Imported $name"
 
 # mineNu | This list is not public available
