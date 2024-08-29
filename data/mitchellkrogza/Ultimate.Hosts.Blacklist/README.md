@@ -254,7 +254,7 @@ The sources of the input data information are as follows.
 | firehol_level1 | [Link](https://github.com/Ultimate-Hosts-Blacklist/firehol_level1) | [Link](https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset) |
 | hostsVN | [Link](https://github.com/Ultimate-Hosts-Blacklist/hostsVN) | [Link](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) |
 | justdomains_mirror1.malwaredomains.com | [Link](https://github.com/Ultimate-Hosts-Blacklist/justdomains_mirror1.malwaredomains.com) | [Link](https://raw.githubusercontent.com/smed79/mdlm/master/justdomains.txt) |
-| KADhosts_azet12 | [Link](https://github.com/Ultimate-Hosts-Blacklist/KADhosts_azet12) | [Link](https://github.com/FiltersHeroes/KADhosts/blob/master/KADomains.txt) |
+| KADhosts_azet12 | [Link](https://github.com/Ultimate-Hosts-Blacklist/KADhosts_azet12) | [Link](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) |
 | lightswitch05_hosts_ads-and-tracking-extended | [Link](https://github.com/Ultimate-Hosts-Blacklist/lightswitch05_hosts_ads-and-tracking-extended) | [Link](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) |
 | malc0de.com | [Link](https://github.com/Ultimate-Hosts-Blacklist/malc0de.com) | [Link](http://malc0de.com/bl/IP_Blacklist.txt) |
 | MalwareDomainList.com | [Link](https://github.com/Ultimate-Hosts-Blacklist/MalwareDomainList.com) | [Link](https://raw.githubusercontent.com/smed79/mdlm/master/hosts.txt) |

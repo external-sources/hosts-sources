@@ -1,8 +1,3 @@
-https://github.com/external-sources/hosts-sources/raw/master/data/fademind_add_spam/domain.list
-https://github.com/external-sources/hosts-sources/raw/master/data/fademind_add_risk/domain.list
-https://github.com/external-sources/hosts-sources/raw/master/data/notrack/blocklists/domain.list
-https://github.com/external-sources/hosts-sources/raw/master/data/notrack/malware/domain.list
-https://github.com/external-sources/hosts-sources/raw/master/data/fademind_antipopads/domain.list
 https://github.com/external-sources/hosts-sources/raw/master/data/shadowwhisperer/Marketing/domain.list
 https://github.com/external-sources/hosts-sources/raw/master/data/shadowwhisperer/Marketing-Email/domain.list
 https://github.com/external-sources/hosts-sources/raw/master/data/shadowwhisperer/Shock/domain.list
@@ -27,10 +22,7 @@ https://github.com/external-sources/hosts-sources/raw/master/data/shadowwhispere
 https://github.com/external-sources/hosts-sources/raw/master/data/disconnect-me/domain.list
 https://github.com/external-sources/hosts-sources/raw/master/data/migueldemoura_ads-tracking-breaking/domain.list
 https://github.com/external-sources/hosts-sources/raw/master/data/domain.list
-https://github.com/external-sources/hosts-sources/raw/master/data/BBcan177_MS-4/domain.list
-https://github.com/external-sources/hosts-sources/raw/master/data/phishing_army_blocklist_extended/domain.list
 https://github.com/external-sources/hosts-sources/raw/master/data/mvps/domain.list
-https://github.com/external-sources/hosts-sources/raw/master/data/BBcan177_MS-2/domain.list
 https://github.com/external-sources/hosts-sources/raw/master/data/migueldemoura_malware/domain.list
 https://github.com/external-sources/hosts-sources/raw/master/data/antipopads-re/domain.list
 https://github.com/external-sources/hosts-sources/raw/master/data/hphosts/ad_servers/domain.list
@@ -44,7 +36,6 @@ https://github.com/external-sources/hosts-sources/raw/master/data/hphosts/hjk/do
 https://github.com/external-sources/hosts-sources/raw/master/data/hphosts/emd/domain.list
 https://github.com/external-sources/hosts-sources/raw/master/data/CoinBlockerLists/domain.list
 https://github.com/external-sources/hosts-sources/raw/master/data/yoyo/domain.list
-https://github.com/external-sources/hosts-sources/raw/master/data/fademind_blocklists-facebook/domain.list
 https://github.com/external-sources/hosts-sources/raw/master/data/mitchellkrogza/the-big-list-of-hacked-malware-web-sites/domain.list
 https://github.com/external-sources/hosts-sources/raw/master/data/mitchellkrogza/Ultimate.Hosts.Blacklist/domain.list
 https://github.com/external-sources/hosts-sources/raw/master/data/mitchellkrogza/badd_boyz_hosts/domain.list
