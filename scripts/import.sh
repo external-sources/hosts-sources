@@ -263,7 +263,7 @@ ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/m
  echo "list 2"
  ${WGET} -qO- "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list" | grep -vE "^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$" >"data/mitchellkrogza/Ultimate.Hosts.Blacklist/domain2.csv"
  echo "readme"
- c "https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/README.md" -o "data/mitchellkrogza/Ultimate.Hosts.Blacklist/README.md"
+ c "https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/raw/master/README.md" -o "data/mitchellkrogza/Ultimate.Hosts.Blacklist/README.md"
  echo "LICENSE"
  c "https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/LICENSE.md" -o "data/mitchellkrogza/Ultimate.Hosts.Blacklist/LICENSE.md"
  echo "Ultimate.Hosts.Blacklist: End"
