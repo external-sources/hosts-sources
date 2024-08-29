@@ -17,10 +17,9 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
 } else {
     // Add our lists.
     $lists = array(
-        '1Hosts' => 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt',
-        'Adaway' => 'https://adaway.org/hosts.txt',
-        'AdroitAdorKhan' => 'https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/hosts.txt',
-        'Mandiant_APT1_Report_Appendix_D' => 'https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/Mandiant_APT1_Report_Appendix_D.txt',
+//        '1Hosts' => 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt',
+//        'Adaway' => 'https://adaway.org/hosts.txt',
+//        'AdroitAdorKhan' => 'https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/hosts.txt',
         'PhishingDatabaseLinks' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt',
         'fabriziosalmi' => 'https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt',
         'openphish_com' => 'https://openphish.com/feed.txt',
@@ -40,7 +39,7 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
         'sysctl' => 'https://sysctl.org/cameleon/hosts',
         'stopforumspam' => 'https://www.stopforumspam.com/downloads/toxic_domains_whole.txt',
 
-        //
+        // FadeMind
         'FadeMindRisk' => 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts',
         'FadeMindSpam' => 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts',
         'FadeMindPopAds' => 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/antipopads-re/hosts',
