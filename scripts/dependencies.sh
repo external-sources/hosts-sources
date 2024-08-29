@@ -27,5 +27,5 @@ bash -c "$(curl -sL https://raw.githubusercontent.com/ilikenwf/apt-fast/master/q
 
 apt-fast update -yqq
 #apt-fastdist-upgrade -yqq
-apt-fast install -yqq openssh-client curl wget dos2unix ldnsutils \
+apt-fast install -yqq openssh-client curl wget ldnsutils \
     libdomain-publicsuffix-perl
