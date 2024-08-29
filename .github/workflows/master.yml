@@ -52,6 +52,9 @@ jobs:
       - name: (converter.php)
         run: php -f "${{ github.workspace }}/scripts/converter.php"
 
+      - name: Change php mem limit
+        run: "${{ github.workspace }}/scripts/php-limit.sh"
+
       - name: (urls-to-domains.php)
         run: php -f "${{ github.workspace }}/scripts/urls-to-domains.php"
 
