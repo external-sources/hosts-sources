@@ -10,6 +10,7 @@ url="https://github.com/external-sources/hosts-sources"
 
 truncate -s 0 "${git_dir}/sources.list"
 
+# shellcheck disable=SC2044
 for lists in $(find data/ -type f -name '*.csv'); do
     # shellcheck disable=SC2296
     echo -e "$url/raw/master/$lists\n" |
