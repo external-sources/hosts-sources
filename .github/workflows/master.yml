@@ -52,8 +52,8 @@ jobs:
       - name: Change php mem limit
         run: sudo bash "${{ github.workspace }}/scripts/php-limit.sh"
 
-      - name: (converter.php)
-        run: php -f "${{ github.workspace }}/scripts/converter.php"
+#      - name: (converter.php)
+#        run: php -f "${{ github.workspace }}/scripts/converter.php"
 
 #      - name: (urls-to-domains.php)
 #        run: php -f "${{ github.workspace }}/scripts/urls-to-domains.php"

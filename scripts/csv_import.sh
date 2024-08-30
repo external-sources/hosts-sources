@@ -41,14 +41,15 @@ targetDir="${git_dir}/data" # No ending slash
 # Clean out old data
 rm -fr "${git_dir}/test/data/" "${targetDir}"
 
+# shellcheck disable=SC2174
+mkdir -p --mode=775 "${targetDir}"
+# ls -lha "${targetDir}"
+
 # Start the import process
 set -x
-while IFS="," read -r name type url; do
-    echo "importing $name"
 
-    # shellcheck disable=SC2174
-    mkdir -p --mode=775 "${targetDir}"
-    # ls -lha "${targetDir}"
+while IFS="," read -r name type url public; do
+    echo "importing $name"
 
     if [ "$type" == 'rfc952' ]; then
         fetch "$url" | awk '/localhost/{next}; /^(#|$)/{ next }; \
