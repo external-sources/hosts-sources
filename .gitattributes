@@ -14,6 +14,8 @@
 # Should ensure submitted domain.list are encode with LF (\n) on gitlab
 /**/domain.list text eol=lf
 /**/wildcard.list text eol=lf
+/**/domain.csv text eol=lf
+/**/wildcard.csv text eol=lf
 
 # Ensure the non-standard windows understand files ending....
 # PS: Before you comments on this comment... *nix is bar far the most used OS

@@ -4,3 +4,4 @@ AssoEchap,domain,https://raw.githubusercontent.com/AssoEchap/stalkerware-indicat
 KADhosts_azet12,domain,https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADomains.txt
 phishing-block-list,domain,https://raw.githubusercontent.com/chainapsis/phishing-block-list/main/block-list.txt
 adblock-nocoin-list,rfc954,https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+BarbBlock,domain,https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt

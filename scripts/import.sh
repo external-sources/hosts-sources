@@ -329,12 +329,14 @@ echo "Imported $name"
 name="mineNu"
 mkdir -p "${git_dir}/data/$name/"
 c https://hostsfile.mine.nu/hosts0.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
+dos2unix -f -r -S "${git_dir}/data/$name/domain.csv"
 echo "Imported $name"
 
 # HostsFileOrg
 name="HostsFileOrg"
 mkdir -p "${git_dir}/data/$name/"
 c https://hostsfile.org/Downloads/hosts.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
+dos2unix -f -r -S "${git_dir}/data/$name/domain.csv"
 echo "Imported $name"
 
 # digitalside | This list is not public available
@@ -379,29 +381,13 @@ mkdir -p "${git_dir}/data/$name/"
 c https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
 echo "Imported $name"
 
-#
-name=""
+# BarbBlock
+name="BarbBlock"
 mkdir -p "${git_dir}/data/$name/"
-c  | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
+c https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
 echo "Imported $name"
 
-#
-name=""
-mkdir -p "${git_dir}/data/$name/"
-c  | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
-echo "Imported $name"
 
-#
-name=""
-mkdir -p "${git_dir}/data/$name/"
-c  | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
-echo "Imported $name"
-
-#
-name=""
-mkdir -p "${git_dir}/data/$name/"
-c  | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
-echo "Imported $name"
 echo ""
 echo ""
 echo "The script ${0}"
