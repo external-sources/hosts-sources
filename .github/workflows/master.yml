@@ -58,8 +58,8 @@ jobs:
 #      - name: (urls-to-domains.php)
 #        run: php -f "${{ github.workspace }}/scripts/urls-to-domains.php"
 
-#      - name: import.sh
-#        run: bash "${{ github.workspace }}/scripts/import.sh"
+      - name: import.sh
+        run: bash "${{ github.workspace }}/scripts/import.sh"
 
       - name: csv_import.sh
         run: bash "${{ github.workspace }}/scripts/csv_import.sh"
