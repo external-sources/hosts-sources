@@ -42,6 +42,7 @@ targetDir="${git_dir}/data" # No ending slash
 rm -fr "${git_dir}/test/data/" "${targetDir}"
 
 # Start the import process
+set -x
 while IFS="," read -r name type url; do
     echo "importing $name"
 
