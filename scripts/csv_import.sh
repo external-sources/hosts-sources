@@ -53,13 +53,10 @@ while IFS="," read -r name type url; do
     echo "importing $name"
 
     if [ "$type" == 'rfc952' ]; then
-        fetch "$url" | awk '/localhost/{next}; /^(#|$)/{ next }; \
-            { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${targetDir}/$name.csv"
+        fetch "$url" | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${targetDir}/$name.csv"
 
     elif [ "$type" == 'domain' ]; then
-        fetch "$url" | awk '/localhost/{next}; /^(#|$)/{ next }; \
-            { printf("%s\n",tolower($1)) | "sort -i | uniq -u -i " }' \
-            > "${targetDir}/$name.csv"
+        fetch "$url" | awk '/localhost/{next}; /^(#|$)/{ next }; { printf("%s\n",tolower($1)) | "sort -i | uniq -u -i " }' > "${targetDir}/$name.csv"
     fi
     echo "imported $name"
     echo ""
