@@ -11,9 +11,9 @@ url="https://github.com/external-sources/hosts-sources"
 truncate -s 0 "${git_dir}/sources.list"
 
 # shellcheck disable=SC2044
-for lists in $(find data/ -type f -name domain.list); do
+for lists in $(find data/ -type f -name domain.csv); do
     # shellcheck disable=SC2296
-    printf "$url/raw/master/$lists\n" |
+    echo -e "$url/raw/master/$lists\n" |
         sort -u -f >>"${git_dir}/sources.list"
 done
 
