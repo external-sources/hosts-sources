@@ -1,0 +1,16 @@
+# stanev
+#
+# Converted from - https://stanev.org/abp/adblock_bg.txt
+# Last converted - Fri, 30 Aug 2024 01:08:47 +0000
+#
+
+com.nxtras.banner.imagerotator
+adhash.org
+adsy.mail.bg
+b.grabo.bg
+giphy.com
+jpeghost.com
+media.giphy.com
+profitshare.bg
+r5.dir.bg
+r.dir.bg

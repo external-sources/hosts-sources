@@ -1,0 +1,6 @@
+# ABPindoDomain
+#
+# Converted from - https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
+# Last converted - Fri, 30 Aug 2024 01:08:54 +0000
+#
+
