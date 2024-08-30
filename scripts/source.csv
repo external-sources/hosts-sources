@@ -15,3 +15,4 @@ quidsUpMixed,domain,https://quidsup.net/notrack/blocklist.php?download=trackersd
 frogEyeFPT,domain,https://hostfiles.frogeye.fr/firstparty-trackers.txt,1
 frogEyeFPTO,domain,https://hostfiles.frogeye.fr/firstparty-only-trackers.txt,1
 frogEyeMPT,domain,https://hostfiles.frogeye.fr/multiparty-only-trackers.txt,1
+adaway,rfc952,https://adaway.org/hosts.txt,1

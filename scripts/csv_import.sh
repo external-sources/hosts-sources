@@ -27,6 +27,7 @@ git_dir="$(git rev-parse --show-toplevel)"
 # Keep the `function` to avoid possible conflicts on UNIX systems
 function fetch() {
     "$(command -v curl)" \
+        --silent \
         --show-error \
         --location \
         --ignore-content-length \
@@ -48,7 +49,7 @@ mkdir -p --mode=775 "${targetDir}"
 # Start the import process
 set -x
 
-while IFS="," read -r name type url public; do
+while IFS="," read -r name type url; do
     echo "importing $name"
 
     if [ "$type" == 'rfc952' ]; then
