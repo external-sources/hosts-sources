@@ -48,10 +48,11 @@ while IFS="," read -r name type url; do
     mkdir -p "${git_dir}/test/data/"
 
     if [ "$type" == rfc954 ]; then
-        fetch "$url" | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' #>"${git_dir}/test/data/$name.csv"
+        # fetch "$url" | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' >"${git_dir}/test/data/$name.csv"
+        echo "rfc954"
 
     elif [ "$type" == 'domain' ]; then
-        fetch "$url" | awk '/localhost/{next}; /^(#|$)/{ next }; { printf("%s\n",tolower($1)) | "sort -i | uniq -u -i " }' #>"${git_dir}/test/data/$name.csv"
+        fetch "$url" | awk '/localhost/{next}; /^(#|$)/{ next }; { printf("%s\n",tolower($1)) | "sort -i | uniq -u -i " }' | more #>"${git_dir}/test/data/$name.csv"
     fi
     echo "imported $name"
     echo ""
