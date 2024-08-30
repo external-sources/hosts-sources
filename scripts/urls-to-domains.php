@@ -29,8 +29,6 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
 //        'BarbBlock' => 'https://github.com/Anonymous941/BarbBlock/blob/main/blocklists/domain-list.txt',
 //        'phishingArmy' => 'https://phishing.army/download/phishing_army_blocklist_extended.txt',
 //        'AssoEchap' => 'https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full',
-//        'KADhosts_azet12' => 'https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADomains.txt',
-//        'phishing-block-list' => 'https://raw.githubusercontent.com/chainapsis/phishing-block-list/main/block-list.txt',
         'adblock-nocoin-list' => 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt',
         'matomoSpammers' => 'https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt',
         'neodevhost' => 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/domain',

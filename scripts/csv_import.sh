@@ -24,6 +24,7 @@ set -eu
 # Set the right path for "executables"
 git_dir="$(git rev-parse --show-toplevel)"
 
+# Keep the `function` to avoid possible conflicts on UNIX systems
 function fetch() {
     "$(command -v curl)" \
         --show-error \
@@ -36,25 +37,28 @@ function fetch() {
 }
 
 cd "${git_dir}"
+targetDir="${git_dir}/data" # No ending slash
 
-rm -fr "${git_dir}/test/data/"
+# Clean out old data
+rm -fr "${git_dir}/test/data/" "${targetDir}"
 
+# Start the import process
 while IFS="," read -r name type url; do
     echo "importing $name"
-    # mkdir -p "${git_dir}/test/data/$name"
 
-    mkdir -p "${git_dir}/test/data/"
-    ls -lha "${git_dir}/test/data/"
+    # shellcheck disable=SC2174
+    mkdir -p --mode=775 "${targetDir}"
+    ls -lha "${targetDir}"
 
-    if [ "$type" == rfc954 ]; then
-        ls -lha "${git_dir}/test/data/"
-        fetch "$url" -o - | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/test/data/$name.csv"
-        ls -lha "${git_dir}/test/data/"
+    if [ "$type" == 'rfc952' ]; then
+        fetch "$url" -o - | awk '/localhost/{next}; /^(#|$)/{ next }; \
+            { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) \
+            | "sort -i | uniq -u -i " }' > "${targetDir}/$name.csv"
 
     elif [ "$type" == 'domain' ]; then
-        ls -lha "${git_dir}/test/data/"
-        fetch "$url" -o - | awk '/localhost/{next}; /^(#|$)/{ next }; { printf("%s\n",tolower($1)) | "sort -i | uniq -u -i " }' > "${git_dir}/test/data/$name.csv"
-        ls -lha "${git_dir}/test/data/"
+        fetch "$url" -o - | awk '/localhost/{next}; /^(#|$)/{ next }; \
+            { printf("%s\n",tolower($1)) | "sort -i | uniq -u -i " }' \
+            > "${targetDir}/$name.csv"
     fi
     echo "imported $name"
     echo ""

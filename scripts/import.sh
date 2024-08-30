@@ -14,16 +14,14 @@ WGET="$(command -v wget)"
 # CURL="$(command -v curl)"
 # PYTHON="$(command -v python3)"
 
-c() {
-    curl --tcp-fastopen \
-        --tcp-nodelay \
-        --tr-encoding \
-        --compressed \
-        --http2 \
+function fetch() {
+    "$(command -v curl)" \
+        --show-error \
+        --location \
         --ignore-content-length \
         --silent \
         --retry 5 \
-        --retry-delay 2  \
+        --retry-delay 2 \
         --url "${1}"
 }
 
@@ -38,23 +36,23 @@ rm -fr "${git_dir}/data/"
 # Adaway
 name="adaway"
 mkdir -p "${git_dir}/data/$name/"
-c https://adaway.org/hosts.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
+fetch https://adaway.org/hosts.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
 echo "Imported $name"
 
 # Adroit Ador Khan antipopads-re
 mkdir -p "${git_dir}/data/antipopads-re/"
-c https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/hosts.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' >"${git_dir}/data/antipopads-re/domain.csv"
+fetch https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/hosts.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' >"${git_dir}/data/antipopads-re/domain.csv"
 echo "Imported AdroitAdorKhan antipopads-re"
 
 mkdir -p "${git_dir}/data/yoyo/"
-c 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0' | grep -Ev '#' | tr , '\n' | sort -u >"data/yoyo/domain.csv"
+fetch 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0' | grep -Ev '#' | tr , '\n' | sort -u >"data/yoyo/domain.csv"
 echo "Imported yoyo (Peter Lowe)"
 
 # Full featured RPZ list available from
 # https://sslbl.abuse.ch/blacklist/sslbl.rpz
 mkdir -p "${git_dir}/data/abuse.ch/sslipblacklist/"
-c "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt" | tr -d '\015' | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | sed 's/ \;.*$//' | awk -F "[/.]" '{  printf("32.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n32.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$4,$3,$2,$1,$4,$3,$2,$1) }' >"data/abuse.ch/sslipblacklist/ipv4.in-addr.arpa"
-c "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt" | tr -d '\015' | grep -v "#" | cut -d " " -f 1 >"data/abuse.ch/sslipblacklist/ip4.csv"
+fetch "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt" | tr -d '\015' | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | sed 's/ \;.*$//' | awk -F "[/.]" '{  printf("32.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n32.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$4,$3,$2,$1,$4,$3,$2,$1) }' >"data/abuse.ch/sslipblacklist/ipv4.in-addr.arpa"
+fetch "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt" | tr -d '\015' | grep -v "#" | cut -d " " -f 1 >"data/abuse.ch/sslipblacklist/ip4.csv"
 echo "Imported abuse.ch"
 
 mkdir -p "${git_dir}/data/anudeepND/adservers/"
@@ -304,88 +302,6 @@ SWUrl=""
 
 echo "Done with @ShadowWhisperer, thanks for your contribution, may the the ods"
 echo "always be in your favour :smirk:"
-
-# Geoffrey Frog eye's block list of first-party trackers
-# First party trackers only
-echo "Importing Geoffrey Frog eye's block list of first-party trackers"
-mkdir -p "${git_dir}/data/frogeye/"{firstpart,firstpart2,thirdpart}
-${WGET} -q https://hostfiles.frogeye.fr/firstparty-trackers.txt -O "${git_dir}/data/frogeye/firstpart/domain.csv"
-${WGET} -q https://hostfiles.frogeye.fr/firstparty-only-trackers.txt -O "${git_dir}/data/frogeye/firstpart2/domain.csv"
-${WGET} -q https://hostfiles.frogeye.fr/multiparty-only-trackers.txt -O "${git_dir}/data/frogeye/thirdpart/domain.csv"
-echo "Done importing Geoffrey Frog eye's block list of first-party trackers"
-
-# Quidsup Mixed
-mkdir -p "${git_dir}/data/quidsup/"
-${WGET} -q https://quidsup.net/notrack/blocklist.php?download=trackersdomains -O "${git_dir}/data/quidsup/domain.csv"
-echo "Done importing Quidsup"
-
-# fabriziosalmi
-name="fabriziosalmi"
-mkdir -p "${git_dir}/data/$name/"
-${WGET} -q https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt -O "${git_dir}/data/$name/domain.csv"
-echo "Imported $name"
-
-# mineNu | This list is not public available
-name="mineNu"
-mkdir -p "${git_dir}/data/$name/"
-c https://hostsfile.mine.nu/hosts0.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
-dos2unix -f -r -S "${git_dir}/data/$name/domain.csv"
-echo "Imported $name"
-
-# HostsFileOrg
-name="HostsFileOrg"
-mkdir -p "${git_dir}/data/$name/"
-c https://hostsfile.org/Downloads/hosts.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
-dos2unix -f -r -S "${git_dir}/data/$name/domain.csv"
-echo "Imported $name"
-
-# digitalside | This list is not public available
-name="digitalside"
-mkdir -p "${git_dir}/data/$name/"
-c https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
-echo "Imported $name"
-
-# BarbBlock
-name="BarbBlock"
-mkdir -p "${git_dir}/data/$name/"
-c https://github.com/Anonymous941/BarbBlock/blob/main/blocklists/domain-list.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
-echo "Imported $name"
-
-# phishingArmy
-name="phishingArmy"
-mkdir -p "${git_dir}/data/$name/"
-c https://phishing.army/download/phishing_army_blocklist_extended.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($1)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
-echo "Imported $name"
-
-# AssoEchap
-name="AssoEchap"
-mkdir -p "${git_dir}/data/$name/"
-c https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($1)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
-echo "Imported $name"
-
-# KADhosts_azet12
-name="KADhosts_azet12"
-mkdir -p "${git_dir}/data/$name/"
-c https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADomains.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($1)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
-echo "Imported $name"
-
-# phishing-block-list
-name="phishing-block-list"
-mkdir -p "${git_dir}/data/$name/"
-c https://raw.githubusercontent.com/chainapsis/phishing-block-list/main/block-list.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($1)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
-echo "Imported $name"
-
-# adblock-nocoin-list
-name="adblock-nocoin-list"
-mkdir -p "${git_dir}/data/$name/"
-c https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
-echo "Imported $name"
-
-# BarbBlock
-name="BarbBlock"
-mkdir -p "${git_dir}/data/$name/"
-c https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/data/$name/domain.csv"
-echo "Imported $name"
 
 
 echo ""
