@@ -55,8 +55,8 @@ jobs:
       - name: (converter.php)
         run: php -f "${{ github.workspace }}/scripts/converter.php"
 
-      - name: (urls-to-domains.php)
-        run: php -f "${{ github.workspace }}/scripts/urls-to-domains.php"
+#      - name: (urls-to-domains.php)
+#        run: php -f "${{ github.workspace }}/scripts/urls-to-domains.php"
 
 #      - name: import.sh
 #        run: bash "${{ github.workspace }}/scripts/import.sh"
