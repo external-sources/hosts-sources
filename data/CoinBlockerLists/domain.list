@@ -1,1 +1,0 @@
-request header "TE" may only be "trailers" in HTTP/2
