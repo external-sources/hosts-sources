@@ -26,14 +26,14 @@ git_dir="$(git rev-parse --show-toplevel)"
 
 function fetch() {
     "$(command -v curl)" \
-        --tcp-fastopen \
-        --request GET \
+#        --tcp-fastopen \
+#        --request GET \
         --tcp-nodelay \
         --tr-encoding \
-        --compressed \
-        --http2 \
+#        --compressed \
+#        --http2 \
         --ignore-content-length \
-        --silent \
+#        --silent \
         --retry 5 \
         --retry-delay 2 \
         --url "${1}"
