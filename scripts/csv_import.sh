@@ -47,7 +47,7 @@ mkdir -p --mode=775 "${targetDir}"
 # ls -lha "${targetDir}"
 
 # Start the import process
-set -x
+# set -x
 
 while IFS="," read -r name type url; do
     echo "importing $name"
@@ -64,3 +64,5 @@ while IFS="," read -r name type url; do
     echo "imported $name"
     echo ""
 done < <(tail -n +2 "${git_dir}/scripts/source.csv")
+
+ls -lha "${targetDir}"
