@@ -307,7 +307,6 @@ echo "always be in your favour :smirk:"
 
 # Geoffrey Frog eye's block list of first-party trackers
 # First party trackers only
-set -x
 echo "Importing Geoffrey Frog eye's block list of first-party trackers"
 mkdir -p "${git_dir}/data/frogeye/"{firstpart,firstpart2,thirdpart}
 ls -lha "${git_dir}/data/frogeye/"
