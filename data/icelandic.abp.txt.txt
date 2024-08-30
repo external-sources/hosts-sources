@@ -1,6 +1,0 @@
-# icelandic.abp.txt
-#
-# Converted from - https://adblock.gardar.net/is.abp.txt
-# Last converted - Fri, 30 Aug 2024 02:03:01 +0000
-#
-

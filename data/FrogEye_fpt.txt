@@ -1,6 +1,0 @@
-# FrogEye_fpt
-#
-# Converted from - https://hostfiles.frogeye.fr/firstparty-trackers.txt
-# Last converted - Fri, 30 Aug 2024 02:03:15 +0000
-#
-

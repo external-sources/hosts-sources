@@ -1,6 +1,0 @@
-# BBcan177_spam
-#
-# Converted from - https://raw.githubusercontent.com/BBcan177/referrer-spam-blacklist/master/spammers.txt
-# Last converted - Fri, 30 Aug 2024 02:03:14 +0000
-#
-

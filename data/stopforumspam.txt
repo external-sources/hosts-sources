@@ -1,6 +1,0 @@
-# stopforumspam
-#
-# Converted from - https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-# Last converted - Fri, 30 Aug 2024 02:03:12 +0000
-#
-

@@ -1,6 +1,0 @@
-# ABPindoAdult
-#
-# Converted from - https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain_adult.txt
-# Last converted - Fri, 30 Aug 2024 02:03:13 +0000
-#
-
