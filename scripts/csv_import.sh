@@ -26,12 +26,8 @@ git_dir="$(git rev-parse --show-toplevel)"
 
 function fetch() {
     "$(command -v curl)" \
-        --tcp-fastopen \
-        --request GET \
-        --tcp-nodelay \
-        --tr-encoding \
-        --compressed \
-        --http2 \
+        --show-error \
+        --location \
         --ignore-content-length \
         --silent \
         --retry 5 \
@@ -50,12 +46,12 @@ while IFS="," read -r name type url; do
 
     if [ "$type" == rfc954 ]; then
         ls -lha "${git_dir}/test/data/"
-        curl -sSLo - "$url" | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/test/data/$name.csv"
+        fetch -o - "$url" | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/test/data/$name.csv"
         ls -lha "${git_dir}/test/data/"
 
     elif [ "$type" == 'domain' ]; then
         ls -lha "${git_dir}/test/data/"
-        curl -sSLo - "$url" | awk '/localhost/{next}; /^(#|$)/{ next }; { printf("%s\n",tolower($1)) | "sort -i | uniq -u -i " }' > "${git_dir}/test/data/$name.csv"
+        fetch -o - "$url" | awk '/localhost/{next}; /^(#|$)/{ next }; { printf("%s\n",tolower($1)) | "sort -i | uniq -u -i " }' > "${git_dir}/test/data/$name.csv"
         ls -lha "${git_dir}/test/data/"
     fi
     echo "imported $name"
