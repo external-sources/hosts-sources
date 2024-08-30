@@ -39,8 +39,8 @@ function fetch() {
 cd "${git_dir}"
 targetDir="${git_dir}/data" # No ending slash
 
-# Clean out old data
-rm -fr "${git_dir}/test/data/" "${targetDir}"
+# Clean out old data done in scripts/import.sh
+#rm -fr "${targetDir}"
 
 # shellcheck disable=SC2174
 mkdir -p --mode=775 "${targetDir}"

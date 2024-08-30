@@ -39,10 +39,10 @@ phishing_army_blocklist_extended,domain,https://phishing.army/download/phishing_
 quidsUpMixed,domain,https://quidsup.net/notrack/blocklist.php?download=trackersdomains
 someonewhocares,rfc952,https://someonewhocares.org/hosts/hosts
 Badd-Boyz-Hosts,rfc952,https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-The-Big-List-of-Hacked-Malware-Web-Sites,rfc952,https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
-Ultimate.Hosts.Blacklist0,rfc952,https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list
-Ultimate.Hosts.Blacklist1,rfc952,https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list
-Ultimate.Hosts.Blacklist2,rfc952,https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
+The-Big-List-of-Hacked-Malware-Web-Sites,domain,https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
+Ultimate.Hosts.Blacklist0,domain,https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list
+Ultimate.Hosts.Blacklist1,domain,https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list
+Ultimate.Hosts.Blacklist2,domain,https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
 1Hosts,domain,https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt
 migueldemouraAds-tracking,domain,https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
 migueldemouraMalware,domain,https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/malware
