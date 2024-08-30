@@ -30,7 +30,6 @@ function fetch() {
         --show-error \
         --location \
         --ignore-content-length \
-#        --silent \
         --retry 5 \
         --retry-delay 2 \
         --url "${1}"

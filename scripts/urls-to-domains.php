@@ -23,12 +23,6 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
 //        'PhishingDatabaseLinks' => 'https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt',
 //        'fabriziosalmi' => 'https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt',
 //        'openphish_com' => 'https://openphish.com/feed.txt',
-//        'mineNu' => 'https://hostsfile.mine.nu/hosts0.txt', // This list is not public available
-//        'HostsFileOrg' => 'https://hostsfile.org/Downloads/hosts.txt', // Whitelists BigTech
-//        'digitalside' => 'https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt', // This list is not public available
-//        'BarbBlock' => 'https://github.com/Anonymous941/BarbBlock/blob/main/blocklists/domain-list.txt',
-//        'phishingArmy' => 'https://phishing.army/download/phishing_army_blocklist_extended.txt',
-//        'AssoEchap' => 'https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full',
         'adblock-nocoin-list' => 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt',
         'matomoSpammers' => 'https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt',
         'neodevhost' => 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/domain',

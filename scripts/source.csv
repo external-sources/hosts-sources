@@ -10,7 +10,6 @@ phishing-block-list,domain,https://raw.githubusercontent.com/chainapsis/phishing
 phishingArmy,domain,https://phishing.army/download/phishing_army_blocklist_extended.txt,1
 digitalside,domain,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,0
 hostsFileOrg,rfc952,https://hostsfile.org/Downloads/hosts.txt,1
-mineNu,rfc952,https://hostsfile.mine.nu/hosts0.txt,0
 fabriziosalmi,domain,https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt,1
 quidsUpMixed,domain,https://quidsup.net/notrack/blocklist.php?download=trackersdomains,1
 frogEyeFPT,domain,https://hostfiles.frogeye.fr/firstparty-trackers.txt,1
