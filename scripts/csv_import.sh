@@ -62,4 +62,4 @@ while IFS="," read -r name type url public; do
     fi
     echo "imported $name"
     echo ""
-done < <(tail -n +2 scripts/source.csv)
+done < <(tail -n +2 "${git_dir}/scripts/source.csv")
