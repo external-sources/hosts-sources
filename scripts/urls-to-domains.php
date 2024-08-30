@@ -31,12 +31,6 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
         'sysctl' => 'https://sysctl.org/cameleon/hosts',
         'stopforumspam' => 'https://www.stopforumspam.com/downloads/toxic_domains_whole.txt',
 
-        // FadeMind
-        'FadeMindRisk' => 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts',
-        'FadeMindSpam' => 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts',
-        'FadeMindPopAds' => 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/antipopads-re/hosts',
-        'FadeMindFacebook' => 'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/blocklists-facebook/hosts',
-
         // ABPindo
         'ABPindoDomain' => 'https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt',
         'ABPindoAdult' => 'https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain_adult.txt',
