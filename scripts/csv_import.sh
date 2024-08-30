@@ -37,6 +37,8 @@ function fetch() {
 
 cd "${git_dir}"
 
+rm -fr "${git_dir}/test/data/"
+
 while IFS="," read -r name type url; do
     echo "importing $name"
     # mkdir -p "${git_dir}/test/data/$name"
@@ -46,12 +48,12 @@ while IFS="," read -r name type url; do
 
     if [ "$type" == rfc954 ]; then
         ls -lha "${git_dir}/test/data/"
-        fetch -o - "$url" | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/test/data/$name.csv"
+        fetch "$url" -o - | awk '/localhost/{next}; /^(#|$)/{ next }; { if ( $1 ~ /^[0-9]/ ) printf("%s\n",tolower($2)) | "sort -i | uniq -u -i " }' > "${git_dir}/test/data/$name.csv"
         ls -lha "${git_dir}/test/data/"
 
     elif [ "$type" == 'domain' ]; then
         ls -lha "${git_dir}/test/data/"
-        fetch -o - "$url" | awk '/localhost/{next}; /^(#|$)/{ next }; { printf("%s\n",tolower($1)) | "sort -i | uniq -u -i " }' > "${git_dir}/test/data/$name.csv"
+        fetch "$url" -o - | awk '/localhost/{next}; /^(#|$)/{ next }; { printf("%s\n",tolower($1)) | "sort -i | uniq -u -i " }' > "${git_dir}/test/data/$name.csv"
         ls -lha "${git_dir}/test/data/"
     fi
     echo "imported $name"
