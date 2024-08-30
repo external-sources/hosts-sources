@@ -1,7 +1,7 @@
 # FadeMindFacebook
 #
 # Converted from - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/blocklists-facebook/hosts
-# Last converted - Fri, 30 Aug 2024 01:28:27 +0000
+# Last converted - Fri, 30 Aug 2024 02:03:13 +0000
 #
 
 0-edge-chat-latest.messenger.com

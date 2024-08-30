@@ -1,7 +1,7 @@
 # stanev
 #
 # Converted from - https://stanev.org/abp/adblock_bg.txt
-# Last converted - Fri, 30 Aug 2024 01:28:22 +0000
+# Last converted - Fri, 30 Aug 2024 02:03:06 +0000
 #
 
 com.nxtras.banner.imagerotator

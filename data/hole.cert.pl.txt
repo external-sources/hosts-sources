@@ -1,6 +1,6 @@
 # hole.cert.pl
 #
 # Converted from - https://hole.cert.pl/domains/domains.txt
-# Last converted - Fri, 30 Aug 2024 01:28:33 +0000
+# Last converted - Fri, 30 Aug 2024 02:03:22 +0000
 #
 

@@ -1,7 +1,7 @@
 # AdguardCNAMEClickthroughs
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs.txt
-# Last converted - Fri, 30 Aug 2024 01:28:17 +0000
+# Last converted - Fri, 30 Aug 2024 02:02:57 +0000
 #
 
 03.b2bmktg.com
