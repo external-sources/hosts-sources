@@ -1,7 +1,7 @@
 # easylistczechandslovak
 #
 # Converted from - https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt
-# Last converted - Fri, 30 Aug 2024 01:18:35 +0000
+# Last converted - Fri, 30 Aug 2024 01:28:22 +0000
 #
 
 a.blesk.cz

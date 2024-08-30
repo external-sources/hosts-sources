@@ -1,7 +1,7 @@
 # cjxlist
 #
 # Converted from - https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
-# Last converted - Fri, 30 Aug 2024 01:18:34 +0000
+# Last converted - Fri, 30 Aug 2024 01:28:22 +0000
 #
 
 fundingchoicesmessages.google.com

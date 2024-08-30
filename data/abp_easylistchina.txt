@@ -1,7 +1,7 @@
 # abp_easylistchina
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Fri, 30 Aug 2024 01:18:32 +0000
+# Last converted - Fri, 30 Aug 2024 01:28:20 +0000
 #
 
 ubmcmm.baidustatic.com

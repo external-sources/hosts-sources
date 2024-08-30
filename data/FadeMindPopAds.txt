@@ -1,7 +1,7 @@
 # FadeMindPopAds
 #
 # Converted from - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/antipopads-re/hosts
-# Last converted - Fri, 30 Aug 2024 01:18:40 +0000
+# Last converted - Fri, 30 Aug 2024 01:28:27 +0000
 #
 
 006a039c957c142bb.com

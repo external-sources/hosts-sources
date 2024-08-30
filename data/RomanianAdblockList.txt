@@ -1,7 +1,7 @@
 # RomanianAdblockList
 #
 # Converted from - https://zoso.ro/pages/rolist.txt
-# Last converted - Fri, 30 Aug 2024 01:18:35 +0000
+# Last converted - Fri, 30 Aug 2024 01:28:23 +0000
 #
 
 01.creativecdn.com
