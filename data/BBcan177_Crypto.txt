@@ -1,6 +1,6 @@
 # BBcan177_Crypto
 #
 # Converted from - https://raw.githubusercontent.com/BBcan177/minerchk/master/hostslist.txt
-# Last converted - Fri, 30 Aug 2024 01:08:55 +0000
+# Last converted - Fri, 30 Aug 2024 01:18:40 +0000
 #
 

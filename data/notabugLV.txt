@@ -1,7 +1,7 @@
 # notabugLV
 #
 # Converted from - https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
-# Last converted - Fri, 30 Aug 2024 01:08:46 +0000
+# Last converted - Fri, 30 Aug 2024 01:18:34 +0000
 #
 
 ad.one.lv

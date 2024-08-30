@@ -1,6 +1,6 @@
 # quidsupAnnoyance
 #
 # Converted from - https://quidsup.net/notrack/blocklist.php?download=annoyancedomains
-# Last converted - Fri, 30 Aug 2024 01:09:00 +0000
+# Last converted - Fri, 30 Aug 2024 01:18:43 +0000
 #
 

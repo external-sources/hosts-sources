@@ -1,6 +1,6 @@
 # scamaNet
 #
 # Converted from - https://raw.githubusercontent.com/scamaNet/blocklist/main/blocklist.txt
-# Last converted - Fri, 30 Aug 2024 01:08:51 +0000
+# Last converted - Fri, 30 Aug 2024 01:18:38 +0000
 #
 

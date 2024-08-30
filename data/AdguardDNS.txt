@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 30 Aug 2024 01:08:32 +0000
+# Last converted - Fri, 30 Aug 2024 01:18:29 +0000
 #
 
 lunse.ajscdn.com
