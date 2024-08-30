@@ -309,7 +309,6 @@ echo "always be in your favour :smirk:"
 # First party trackers only
 echo "Importing Geoffrey Frog eye's block list of first-party trackers"
 mkdir -p "${git_dir}/data/frogeye/"{firstpart,firstpart2,thirdpart}
-ls -lha "${git_dir}/data/frogeye/"
 ${WGET} -q https://hostfiles.frogeye.fr/firstparty-trackers.txt -O "${git_dir}/data/frogeye/firstpart/domain.csv"
 ${WGET} -q https://hostfiles.frogeye.fr/firstparty-only-trackers.txt -O "${git_dir}/data/frogeye/firstpart2/domain.csv"
 ${WGET} -q https://hostfiles.frogeye.fr/multiparty-only-trackers.txt -O "${git_dir}/data/frogeye/thirdpart/domain.csv"
