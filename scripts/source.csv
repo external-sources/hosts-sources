@@ -39,7 +39,6 @@ bbcan177_MS-4,domain,https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d
 coinBlockerLists,domain,https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
 digitalside,domain,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 disconnect-me,domain,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-fabriziosalmi,domain,https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt
 fademind_add_risk,rfc952,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 fademind_add_spam,rfc952,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 fademind_antipopads,rfc952,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/antipopads-re/hosts
