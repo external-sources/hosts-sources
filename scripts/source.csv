@@ -69,4 +69,4 @@ phishingArmy,domain,https://phishing.army/download/phishing_army_blocklist_exten
 phishing_army_blocklist_extended,domain,https://phishing.army/download/phishing_army_blocklist_extended.txt
 quidsUpMixed,domain,https://quidsup.net/notrack/blocklist.php?download=trackersdomains
 someonewhocares,rfc952,https://someonewhocares.org/hosts/hosts
-stalkerware-indicators,domain,https://github.com/AssoEchap/stalkerware-indicators/blob/master/generated/hosts
+stalkerware-indicators,domain,https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/refs/heads/master/generated/hosts
