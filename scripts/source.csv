@@ -1,3 +1,4 @@
+name,type,url
 1Hosts,domain,https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt
 Badd-Boyz-Hosts,rfc952,https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 RooneyMcNibNug,domain,https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
@@ -60,7 +61,6 @@ migueldemouraAds-tracking,domain,https://raw.githubusercontent.com/migueldemoura
 migueldemouraAds-tracking-breaking,domain,https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking-breaking
 migueldemouraGoogleLocal,domain,https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/google-local
 migueldemouraMalware,domain,https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/malware
-name,type,url
 pglYoyo,domain,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext
 phishing-block-list,domain,https://raw.githubusercontent.com/chainapsis/phishing-block-list/main/block-list.txt
 phishing-block-list,domain,https://raw.githubusercontent.com/chainapsis/phishing-block-list/main/block-list.txt
