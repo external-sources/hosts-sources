@@ -30,7 +30,6 @@ https://github.com/external-sources/hosts-sources/raw/master/data/phishing-block
 https://github.com/external-sources/hosts-sources/raw/master/data/bbcan177_MS-2.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispererScam.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/hosts-file.fsa.csv
-https://github.com/external-sources/hosts-sources/raw/master/data/assoEchap.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/Ultimate.Hosts.Blacklist2.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispererMalware.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/bbcan177_MS-4.csv
@@ -49,7 +48,6 @@ https://github.com/external-sources/hosts-sources/raw/master/data/hosts-file.mmt
 https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispererTracking.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/kadhosts_azet12.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/disconnect-me.csv
-https://github.com/external-sources/hosts-sources/raw/master/data/stalkerware-indicators.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/migueldemouraAds-tracking-breaking.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/anudeepND.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/1Hosts.csv
