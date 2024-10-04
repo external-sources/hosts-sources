@@ -32,7 +32,6 @@ adblock-nocoin-list,rfc952,https://raw.githubusercontent.com/hoshsadiq/adblock-n
 adblock-nocoin-list,rfc952,https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 antipopads-re,rfc952,https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/hosts.txt
 anudeepND,rfc952,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-assoEchap,domain,https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
 barbBlock,domain,https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt
 bbcan177_MS-2,domain,https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2
 bbcan177_MS-4,domain,https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4
@@ -69,4 +68,3 @@ phishingArmy,domain,https://phishing.army/download/phishing_army_blocklist_exten
 phishing_army_blocklist_extended,domain,https://phishing.army/download/phishing_army_blocklist_extended.txt
 quidsUpMixed,domain,https://quidsup.net/notrack/blocklist.php?download=trackersdomains
 someonewhocares,rfc952,https://someonewhocares.org/hosts/hosts
-stalkerware-indicators,domain,https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/refs/heads/master/generated/hosts
