@@ -168,6 +168,8 @@
 24.0.19.86.45.rpz-client-ip	CNAME	rpz-drop.
 22.0.48.86.45.rpz-ip	CNAME	.
 22.0.48.86.45.rpz-client-ip	CNAME	rpz-drop.
+24.0.88.88.45.rpz-ip	CNAME	.
+24.0.88.88.45.rpz-client-ip	CNAME	rpz-drop.
 24.0.91.88.45.rpz-ip	CNAME	.
 24.0.91.88.45.rpz-client-ip	CNAME	rpz-drop.
 22.0.44.89.45.rpz-ip	CNAME	.
@@ -396,6 +398,8 @@
 24.0.150.94.81.rpz-client-ip	CNAME	rpz-drop.
 24.0.159.94.81.rpz-ip	CNAME	.
 24.0.159.94.81.rpz-client-ip	CNAME	rpz-drop.
+24.0.230.161.81.rpz-ip	CNAME	.
+24.0.230.161.81.rpz-client-ip	CNAME	rpz-drop.
 24.0.223.115.82.rpz-ip	CNAME	.
 24.0.223.115.82.rpz-client-ip	CNAME	rpz-drop.
 23.0.156.135.82.rpz-ip	CNAME	.
@@ -684,6 +688,8 @@
 23.0.118.119.93.rpz-client-ip	CNAME	rpz-drop.
 23.0.120.119.93.rpz-ip	CNAME	.
 23.0.120.119.93.rpz-client-ip	CNAME	rpz-drop.
+24.0.39.123.93.rpz-ip	CNAME	.
+24.0.39.123.93.rpz-client-ip	CNAME	rpz-drop.
 24.0.85.123.93.rpz-ip	CNAME	.
 24.0.85.123.93.rpz-client-ip	CNAME	rpz-drop.
 24.0.220.131.94.rpz-ip	CNAME	.
@@ -700,6 +706,10 @@
 21.0.64.156.94.rpz-client-ip	CNAME	rpz-drop.
 24.0.78.156.94.rpz-ip	CNAME	.
 24.0.78.156.94.rpz-client-ip	CNAME	rpz-drop.
+23.0.104.156.94.rpz-ip	CNAME	.
+23.0.104.156.94.rpz-client-ip	CNAME	rpz-drop.
+23.0.166.156.94.rpz-ip	CNAME	.
+23.0.166.156.94.rpz-client-ip	CNAME	rpz-drop.
 24.0.177.156.94.rpz-ip	CNAME	.
 24.0.177.156.94.rpz-client-ip	CNAME	rpz-drop.
 23.0.194.138.95.rpz-ip	CNAME	.
@@ -896,6 +906,8 @@
 24.0.182.107.109.rpz-client-ip	CNAME	rpz-drop.
 23.0.166.196.109.rpz-ip	CNAME	.
 23.0.166.196.109.rpz-client-ip	CNAME	rpz-drop.
+24.0.237.206.109.rpz-ip	CNAME	.
+24.0.237.206.109.rpz-client-ip	CNAME	rpz-drop.
 24.0.151.248.109.rpz-ip	CNAME	.
 24.0.151.248.109.rpz-client-ip	CNAME	rpz-drop.
 20.0.144.44.110.rpz-ip	CNAME	.
@@ -1838,6 +1850,8 @@
 24.0.236.32.194.rpz-client-ip	CNAME	rpz-drop.
 23.0.60.41.194.rpz-ip	CNAME	.
 23.0.60.41.194.rpz-client-ip	CNAME	rpz-drop.
+24.0.251.48.194.rpz-ip	CNAME	.
+24.0.251.48.194.rpz-client-ip	CNAME	rpz-drop.
 24.0.94.49.194.rpz-ip	CNAME	.
 24.0.94.49.194.rpz-client-ip	CNAME	rpz-drop.
 24.0.145.54.194.rpz-ip	CNAME	.
