@@ -8491,6 +8491,7 @@ api.pushwoosh.com
 api.putler.com
 api.pyze.com
 api.qa.socialmirror.sprinklr.com
+api.qa.wknd.ai
 api.qa1.jivox.com
 api.qa3.jivox.com
 api.qoints.com
@@ -8546,6 +8547,7 @@ api.ssp.omnitagjs.com
 api.stage.gimbal.com
 api.staging.growthloop.com
 api.staging.powerlinks.com
+api.stg.wknd.ai
 api.streak.com
 api.support.scs.mediamath.com
 api.survicate.com
@@ -8597,6 +8599,7 @@ api.web.analytics.yahoo.com
 api.webchunker.streaming.adswizz.com
 api.widespace.com
 api.wip.247-inc.net
+api.wknd.ai
 api.woopra.com
 api.wsq.umeng.com
 api.xcalibur-dev.xmode.io
@@ -9265,9 +9268,12 @@ argocd.cloud-dev.optable.co
 argocd.ops-dev.optable.co
 argocd.ops.optable.co
 argocd.opsdev.optable.co
+argocd.qa.wknd.ai
 argocd.sst-api-prod.pricespider.com
 argocd.sst-api-test.pricespider.com
 argocd.sst-api.pricespider.com
+argocd.stg.wknd.ai
+argocd.wknd.ai
 argolfusa-us.attn.tv
 argolfusa.attn.tv
 argos.ca.assist.247-inc.net
@@ -9628,6 +9634,7 @@ assets.salesify.com
 assets.simpleanalytics.com
 assets.socialcode.com
 assets.springserve.com
+assets.stg.wknd.ai
 assets.streak.com
 assets.swydo.com
 assets.tapad.com
@@ -9635,6 +9642,7 @@ assets.turtl.co
 assets.uni-prod.dynatrace.com
 assets.valassis.com
 assets.watchasync.
+assets.wknd.ai
 assets.yieldify.com
 assets.youeye.com
 assets.zingtree.com
@@ -31708,6 +31716,7 @@ percona.api.insent.ai
 percona.widget.insent.ai
 percussion.evergage.com
 perdiem.dstillery.com
+perf-api.wknd.ai
 perf-roche-diagnostics.sapient.com
 perfads.bouncex.net
 perfekcyjnawdomu.pushcrew.com
@@ -38508,6 +38517,7 @@ ssp.omnitagjs.com
 ssp.otm-r.com
 ssp.pub.network
 ssp.qualtrics.com
+ssp.wknd.ai
 sspinc.io
 ssplog.otm-r.com
 sss.cdn.onthe.io
@@ -39727,6 +39737,7 @@ tag-dyn-usa02.omnitagjs.com
 tag-dyn.omnitagjs.com
 tag-mp.smartly.io
 tag-qa.researchnow.com
+tag-router.staging.wknd.ai
 tag-sz-production-3685.socialcodesz.com
 tag-uat.researchnow.com
 tag.api.omnitagjs.com
@@ -39744,8 +39755,10 @@ tag.smartly.io
 tag.socialcode.com
 tag.spotim.market
 tag.ssp.omnitagjs.com
+tag.stg.wknd.ai
 tag.widespace.com
 tag.wishpond.com
+tag.wknd.ai
 tagcloud.tdf.ringier.ch
 tagcontrol-cdn.evidon.com
 tagcontrolapi.evidon.com
@@ -44555,6 +44568,7 @@ wk1.instances-dev.optable.co
 wk2.cloud-dev.optable.co
 wk450.infusionsoft.com
 wkf-rtr1-p-vpn-g0-0.epsilon.com
+wknd.ai
 wksynthetics.saas.appdynamics.com
 wku.co1.qualtrics.com
 wl.bant.io
