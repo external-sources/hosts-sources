@@ -5826,6 +5826,7 @@ a-redirect.com
 a-resolver.com
 a-t-i.os.tc
 a.acxiomapac.com
+a.ad.gt
 a.adskeeper.co.uk
 a.adtelligent.com
 a.adzerk.net
@@ -5835,6 +5836,8 @@ a.beeketing.com
 a.bigbrain.me
 a.bizible.com
 a.cdn.searchspring.net
+a.dev.ad.gt
+a.devipv6.ad.gt
 a.elfsight.com
 a.evergage.com
 a.exdynsrv.com
@@ -5876,6 +5879,7 @@ a.shortener.trumpia.com
 a.sjc2.turn.com
 a.speedppc.com
 a.spy.pet
+a.stage.ad.gt
 a.storehippo.com
 a.tencent.com
 a.th.giraff.io
@@ -6553,6 +6557,7 @@ ad.flipboard.com
 ad.formstack.com
 ad.getclicky.com
 ad.goodsblock.dt00.net
+ad.gt
 ad.hit.gemius.pl
 ad.ish.atdmt.com
 ad.linksynergy.com
@@ -7289,6 +7294,7 @@ advert-time.com
 advert-track.com
 advertica-cdn.com
 advertica-cdn2.com
+advertise.linkfire.com
 advertise.newrepublic.com
 advertise.ubermedia.com
 advertise1.wpengine.com
@@ -8456,6 +8462,10 @@ analytics.fivetier.com
 analytics.flipboard.com
 analytics.govini.com
 analytics.groundtruth.com
+analytics.hadron.ad.gt
+analytics.hadron.dev.ad.gt
+analytics.hadron.stage.ad.gt
+analytics.halo.ad.gt
 analytics.heinens.dunnhumby.com
 analytics.hioscar.com
 analytics.idomoo.com
@@ -8746,12 +8756,14 @@ aori.com
 aos.attn.tv
 aothundep.bitrix24.com
 aoua.hit.gemius.pl
+ap-northeast-1.prod.monitoring.linkfire.co
 ap-southeast-2-capture.lift.acquia.com
 ap-southeast-2-decisionapi.lift.acquia.com
 ap-southeast-2-prod-tc.lift.acquia.com
 ap-southeast-2-prod-tw.lift.acquia.com
 ap-southeast-2-production-tc.lift.acquia.com
 ap-southeast-2-widget.lift.acquia.com
+ap-southeast-2.prod.monitoring.linkfire.co
 ap.attn.tv
 ap.lijit.com
 ap.markmonitor.com
@@ -9346,6 +9358,7 @@ apna.app.link
 apnakiranawala.storehippo.com
 apnea.app.link
 apnews.adswizz.com
+apngetuid.dev.ad.gt
 apnsgcm.ad2iction.com
 apocstoreus-us.attn.tv
 apogee-us.attn.tv
@@ -13653,6 +13666,7 @@ cdn-www.predicthq.com
 cdn.abtasty.com
 cdn.actv8technologies.com
 cdn.acuityplatform.com
+cdn.ad.gt
 cdn.adligature.com
 cdn.adswizz.com
 cdn.appdynamics.com
@@ -13685,6 +13699,7 @@ cdn.convertexperiments.com
 cdn.convertkit.com
 cdn.crowdtangle.com
 cdn.cxense.com
+cdn.d.ad.gt
 cdn.de.roojoom.com
 cdn.dev.balihoo.com
 cdn.dev.optable.co
@@ -13707,7 +13722,9 @@ cdn.fullcontact.com
 cdn.getambassador.com
 cdn.getambassador.com.sandbox.getambassador.com
 cdn.gumgum.com
+cdn.hadron.ad.gt
 cdn.http.anno.channel4.com
+cdn.id.halo.ad.gt
 cdn.imhd.io
 cdn.indicative.com
 cdn.info.roojoom.com
@@ -13791,6 +13808,7 @@ cdn.smartly.io
 cdn.sociabble.com
 cdn.spotim.market
 cdn.spotxcdn.com
+cdn.stage.ad.gt
 cdn.staticstuff.net
 cdn.storehippo.com
 cdn.stripst.com
@@ -13836,6 +13854,7 @@ cdn14.abtasty.com
 cdn2.abtasty.com
 cdn2.extremereach.io
 cdn2.gigya.com
+cdn2.hadron.ad.gt
 cdn2.lockerdome.com
 cdn2.mopub.com
 cdn2.mouseflow.com
@@ -15153,6 +15172,7 @@ conversationware.calltracks.com
 converse.evergage.com
 conversightai.widget.insent.ai
 conversion.brevo.com
+conversions.prod.linkfire.co
 convert.reachforce.com
 convert.yieldify.com
 convertedversion.com
@@ -15747,6 +15767,11 @@ crateandbarrel.recs.igodigital.com
 cratejoy.evyy.net
 crates.tresensa.com
 cravelabs.com
+crawler-scheduler.dev.ad.gt
+crawler-scheduler.stg.ad.gt
+crawler.dev.ad.gt
+crawler.prod.ad.gt
+crawler.stg.ad.gt
 crawler.viafoura.com
 crawler.zylotech.com
 crawler1.zylotech.com
@@ -17433,6 +17458,7 @@ dev-vpn.smartdata.precisely.com
 dev-wp-linode.circulate.com
 dev-www.clar.io
 dev.actv8me.com
+dev.ad.gt
 dev.adboozter.com
 dev.adcore.com
 dev.adgpt.com
@@ -20077,6 +20103,7 @@ eu-west-1.mc-api-fe.roojoom.com
 eu-west-1.mc-api.roojoom.com
 eu-west-1.model.roojoom.com
 eu-west-1.prod.e.singular.net
+eu-west-1.prod.monitoring.linkfire.co
 eu-zumi.cxsearch.cxense.com
 eu.adtelligent.com
 eu.api.fpjs.io
@@ -21412,6 +21439,7 @@ flowhub.widget.insent.ai
 flowtech-logging-api-test.uk.deptagency.com
 flrytasadlt.hit.gemius.pl
 fluent.razorfish.com
+fluentd.hadron.ad.gt
 fluidswingsystem.clickfunnels.com
 fluidtalent.vivaki.com
 fluidtalentjobs.vivaki.com
@@ -23333,6 +23361,7 @@ hack.wingify.com
 hackandtell.de.deptagency.com
 hacker1.mktoweb.com
 hackspirit.clickfunnels.com
+hadron.ad.gt
 hagen1778.onthe.io
 hairudinprof.clickfunnels.com
 halc.iadvize.com
@@ -23342,6 +23371,7 @@ half-off-depot-affiliate-program.evyy.net
 halfpricehomes.privy.com
 halk.maillist-manage.com
 halldata.omeda.com
+halo.ad.gt
 haltoncatholic.co1.qualtrics.com
 hamanasi.btttag.com
 hamaratabla.os.tc
@@ -24104,12 +24134,19 @@ id-visitors.com
 id.anaplan.com
 id.clarivoy.com
 id.cxense.com
+id.dev.ad.gt
 id.districtm.io
+id.hadron.ad.gt
+id.hadron.dev.ad.gt
+id.hadron.eq.ad.gt
+id.halo.ad.gt
 id.hit.gemius.pl
 id.jumpshot.com
 id.popin.cc
+id.stage.ad.gt
 id.tencent.com
 id.toluna.com
+id2.hadron.ad.gt
 id43.mailerlite.com
 idb-media.buzzstream.com
 idb.buzzstream.com
@@ -24170,7 +24207,11 @@ idp.outbrain.com
 idp.techtarget.com
 idpp.dynatrace.com
 ids-staging.starcomww.com
+ids.ad.gt
 ids.cdnwidget.com
+ids.dev.ad.gt
+ids.stage.ad.gt
+ids6.ad.gt
 idsoil.omeclk.com
 idsync.analytics.yahoo.com
 idsync.mparticle.com
@@ -24438,6 +24479,7 @@ increasingly.co
 incubation.cdtapps.com
 indeed.mktoweb.com
 independentsen.os.tc
+index.rtdp.ad.gt
 index.tencent.com
 indexadhu.hit.gemius.pl
 indexww.com
@@ -26866,6 +26908,7 @@ ll.atdmt.com
 llanalytics.com
 llbean.btttag.com
 llc.clickfunnels.com
+lld.dev.ad.gt
 lld2.linksynergy.com
 llnw.spotxcdn.com
 lloydsteadman.bitrix24.com
@@ -29450,6 +29493,7 @@ monitor.cognitiveseo.com
 monitor.cxense.com
 monitor.demo.appdynamics.com
 monitor.dynalist.io
+monitor.linkfire.co
 monitor.ngtv.io
 monitor.outbrain.com
 monitor.simpleanalytics.com
@@ -29465,6 +29509,8 @@ monitor1.saas.appdynamics.com
 monitor3.pubnub.com
 monitoring.bigbrain.me
 monitoring.calltracks.com
+monitoring.crawler.dev.ad.gt
+monitoring.crawler.stg.ad.gt
 monitoring.eloqua.com
 monitoring.talk.coralproject.net
 monitoring.uplynk.com
@@ -31995,6 +32041,9 @@ origin-cm.maxymiser.net
 origin-co1.qualtrics.com
 origin-getafix.imhd.io
 origin-preprod.sapient.com
+origin-proton.ad.gt
+origin-proton.dev.ad.gt
+origin-proton.stage.ad.gt
 origin-qa3.razorfish.com
 origin-uat.sapientrazorfish.com
 origin-ut1.qualtrics.com
@@ -32142,9 +32191,11 @@ ozymedia.everestengagement.com
 p-ap.brsrvr.com
 p-eu.brsrvr.com
 p.6sense.com
+p.ad.gt
 p.adjust.com
 p.brsrvr.com
 p.cquotient.com
+p.dev.ad.gt
 p.estat.com
 p.factual.com
 p.jst.ai
@@ -32155,6 +32206,7 @@ p.otm-r.com
 p.placed.com
 p.rfihub.com
 p.spotim.market
+p.stage.ad.gt
 p0.tribl.io
 p01.hs.eloqua.com
 p01.t.eloqua.com
@@ -32204,6 +32256,7 @@ pa-poc.10duke.com
 pa110.infusionsoft.com
 pa621.infusionsoft.com
 paap-recv.appdynamics.com
+paapi.dev.ad.gt
 paas.58.o.tencent.com
 paayoo.bitrix24.com
 pac.pricespider.com
@@ -32408,6 +32461,9 @@ partners.eloqua.com
 partners.fullstory.com
 partners.getambassador.com
 partners.getgist.com
+partners.ids.ad.gt
+partners.ids.dev.ad.gt
+partners.ids.stage.ad.gt
 partners.infusionsoft.com
 partners.klaviyo.com
 partners.livesession.io
@@ -32918,6 +32974,8 @@ pixelme.grsm.io
 pixelpurehat.api.omnitagjs.com
 pixelpurehat.omnitagjs.com
 pixelpurehat.ssp.omnitagjs.com
+pixels.ad.gt
+pixels.dev.ad.gt
 pixels.mparticle.com
 pixels.omnitagjs.com
 pixelscrapper.recurly.com
@@ -33534,6 +33592,9 @@ ppsisfaculty.qualtrics.com
 ppsk12.co1.qualtrics.com
 pptc.clickfunnels.com
 ppts01.mktoweb.com
+pq.ad.gt
+pq.dev.ad.gt
+pq.stage.ad.gt
 pq100.infusionsoft.com
 pq101.infusionsoft.com
 pq380.infusionsoft.com
@@ -33941,6 +34002,13 @@ protectsystemtools.life
 proteus.crimsonhexagon.com
 proteusadvisory.evergage.com
 proto.tresensa.com
+proton-origin-v2.ad.gt
+proton-origin-v2.dev.ad.gt
+proton-v2.ad.gt
+proton-v2.dev.ad.gt
+proton.ad.gt
+proton.dev.ad.gt
+proton.stage.ad.gt
 protop.co
 prototype.tools.sapient.com
 protvadmd.hit.gemius.pl
@@ -37894,6 +37962,10 @@ seg-1.adjust.com
 seg-2.adjust.com
 seg-west2.a3cloud.net
 seg.a3cloud.net
+seg.ad.gt
+seg.dev.ad.gt
+seg.hadron.ad.gt
+seg2.hadron.ad.gt
 segin.iad-03.braze.com
 seginus.iad-03.braze.com
 segment-data-us-east.zqtk.net
@@ -39556,6 +39628,7 @@ staffpicks.outbrain.com
 stage-collector.webcollage.net
 stage-eu-01.p.otm-r.com
 stage-web.vindicosuite.com
+stage.ad.gt
 stage.advermind.com
 stage.api.recommendations.samba.tv
 stage.gimbal.com
@@ -41418,6 +41491,7 @@ test-www.pendo.io
 test.a.imur.tencent.com
 test.access.tpns.tencent.com
 test.access.uscreen.tencent.com
+test.ad.gt
 test.ads.ad2iction.com
 test.ads.placeiq.com
 test.api.tpns.tencent.com
@@ -41476,6 +41550,8 @@ testcustomdomain.staging.litix.io
 testeee.storehippo.com
 testforms.infusionsoft.com
 testgoat.dev.getambassador.com
+testhw.dev.ad.gt
+testhw.stage.ad.gt
 testing.ads.mopub.com
 testing.linkmink.com
 testing.nyc2.do.pushcrew.com
@@ -41498,6 +41574,7 @@ testsiteqa.bn.co
 testsmartproxy.tencent.com
 testsurvey.nqa.sprinklr.com
 testtttttttt.storehippo.com
+testzz.stage.ad.gt
 teva.bitrix24.com
 texasamcommerceed.co1.qualtrics.com
 texasinstruments.evergage.com
@@ -42816,9 +42893,12 @@ tzu7.app.link
 u-time.umeng.com
 u.acquia.com
 u.acuityplatform.com
+u.ad.gt
 u.custora.com
+u.dev.ad.gt
 u.outbrain.com
 u.sisense.com
+u.stage.ad.gt
 u001-pat.apps.randi.adswizz.com
 u0011-pat.apps.randi.adswizz.com
 u0014-adscripts.apps.randi.adswizz.com
@@ -43058,6 +43138,7 @@ uid2.ca.optable.co
 uid2.cloud.optable.co
 uid2.dev.optable.co
 uid2.eu.optable.co
+uid2.hadron.ad.gt
 uid2.optable.co
 uidaho.co1.qualtrics.com
 uilegacy.doubleverify.com
@@ -43642,6 +43723,7 @@ us-east-1.devel.adswizz.com
 us-east-1.devel.dp.adswizz.com
 us-east-1.dp.adswizz.com
 us-east-1.preprod.adswizz.com
+us-east-1.prod.monitoring.linkfire.co
 us-east-1.rowdy.callrail.com
 us-east-1.rtb.districtm.io
 us-east-1.staging.dp.adswizz.com
@@ -43685,6 +43767,7 @@ us-west-2.adswizz.com
 us-west-2.alpha.adswizz.com
 us-west-2.devel.adswizz.com
 us-west-2.preprod.adswizz.com
+us-west-2.prod.monitoring.linkfire.co
 us-west-2.qa.adswizz.com
 us-west-2.rowdy.callrail.com
 us-west-2.rtb.districtm.io
@@ -45904,9 +45987,12 @@ www.630058339171838.mateti.net
 www.6sense.com
 www.6va.6sense.com
 www.8000.tencent.com
+www.a.ad.gt
+www.a.dev.ad.gt
 www.a.elfsight.com
 www.a.klaviyo.com
 www.a.o333o.com
+www.a.stage.ad.gt
 www.a1.j.fpjs.io
 www.a5.intercom.io
 www.aaaecommerce.com
@@ -45951,6 +46037,7 @@ www.ad-vx-1.ad.medallia.com
 www.ad-vx-2.ad.medallia.com
 www.ad-yul-01.ad.medallia.com
 www.ad-yul-02.ad.medallia.com
+www.ad.gt
 www.ad2iction.com
 www.adboozter.com
 www.adbureau.com
@@ -46660,6 +46747,9 @@ www.identity.engineering.liveramp.com
 www.identity.liveramp.com
 www.identity.mparticle.com
 www.idg.blueconic.net
+www.ids.ad.gt
+www.ids.dev.ad.gt
+www.ids.stage.ad.gt
 www.idusers.anaplan.com
 www.igodigital.com
 www.illumin.com
@@ -47520,7 +47610,10 @@ www.turtl.co
 www.tutela.com
 www.tvratingsdiario.nielsen.com
 www.twentyci.co.uk
+www.u.ad.gt
+www.u.dev.ad.gt
 www.u.heatmap.it
+www.u.stage.ad.gt
 www.ua.hit.gemius.pl
 www.uat.anaplan.com
 www.uatcontractorexit.sapient.com
