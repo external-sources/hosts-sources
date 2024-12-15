@@ -35,11 +35,11 @@ jobs:
         with:
           token: '${{ secrets.GITHUB_TOKEN }}'
 
-      - name: Setup PHP
-        uses: shivammathur/setup-php@main
-        with:
-          php-version: '8.4'
-          extensions: mysql, imagick
+#      - name: Setup PHP
+#        uses: shivammathur/setup-php@main
+#        with:
+#          php-version: '8.3'
+#          extensions: mysql, imagick
 
       - name: Install requirements
         run: |
