@@ -81,7 +81,7 @@ echo "Imported Drop spamhaus.org"
  echo ""
  echo "Importing Phishing Database"
  mkdir -p "${git_dir}/data/phishing_database/"
- wget "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt" -qO- |
+ wget "https://phish.co.za/latest/ALL-phishing-links.lst" -qO- |
      perl -lne 's!^(?:ftp|https?)://!!;
    s![/?#].*!!;
    s!^.*\@!!;
@@ -103,7 +103,7 @@ echo "Imported Drop spamhaus.org"
 # echo ""
 # echo "Phishing.Database"
 # echo ""
-# ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/mitchellkrogza/phishing.database/domain.csv"
+# ${WGET} -qO- "https://phish.co.za/latest/ALL-phishing-domains.lst" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/mitchellkrogza/phishing.database/domain.csv"
 # ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-IPs-ACTIVE.txt" | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | awk -F "." '{  printf("32.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n32.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$4,$3,$2,$1,$4,$3,$2,$1) }' >"data/mitchellkrogza/phishing.database/ipv4.in-addr.arpa"
 # ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-IPs-ACTIVE.txt" | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" >"data/mitchellkrogza/phishing.database/ipv4.csv"
 # ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/LICENSE.md" -O "data/mitchellkrogza/phishing.database/LICENSE.md"
@@ -127,4 +127,3 @@ echo -e "Exited with error code ${?}\n\n"
 # tag=$(date +'day: %j of year %Y %H:%M:%S')
 
 # git commit -a -m "New release ${tag}" && git push
-
