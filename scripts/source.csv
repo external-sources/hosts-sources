@@ -34,6 +34,7 @@ anudeepND,rfc952,https://raw.githubusercontent.com/anudeepND/blacklist/master/ad
 barbBlock,domain,https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt
 bbcan177_MS-2,domain,https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2
 bbcan177_MS-4,domain,https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4
+blocklistproject,rfc952,https://blocklistproject.github.io/Lists/everything.txt
 coinBlockerLists,domain,https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
 digitalside,domain,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 disconnect-me,domain,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
@@ -67,4 +68,4 @@ phishingArmy,domain,https://phishing.army/download/phishing_army_blocklist_exten
 phishing_army_blocklist_extended,domain,https://phishing.army/download/phishing_army_blocklist_extended.txt
 quidsUpMixed,domain,https://quidsup.net/notrack/blocklist.php?download=trackersdomains
 someonewhocares,rfc952,https://someonewhocares.org/hosts/hosts
-blocklistproject,rfc952,https://blocklistproject.github.io/Lists/everything.txt
+url-shorteners,domain,https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list
