@@ -99,15 +99,15 @@ echo "Imported Drop spamhaus.org"
  echo "Done importing Phishing Database"
  echo ""
 
- mkdir -p "${git_dir}/data/mitchellkrogza/phishing.database/"
+ mkdir -p "${git_dir}/data/phishing_database/phishing.database/"
  echo ""
  echo "Phishing.Database"
  echo ""
- ${WGET} -qO- "https://phish.co.za/latest/ALL-phishing-domains.lst" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/mitchellkrogza/phishing.database/domain.csv"
-# ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-IPs-ACTIVE.txt" | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | awk -F "." '{  printf("32.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n32.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$4,$3,$2,$1,$4,$3,$2,$1) }' >"data/mitchellkrogza/phishing.database/ipv4.in-addr.arpa"
-# ${WGET} -qO- "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-IPs-ACTIVE.txt" | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" >"data/mitchellkrogza/phishing.database/ipv4.csv"
-# ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/LICENSE.md" -O "data/mitchellkrogza/phishing.database/LICENSE.md"
-# ${WGET} -q "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/README.md" -O "data/mitchellkrogza/phishing.database/README.md"
+ ${WGET} -qO- "https://phish.co.za/latest/ALL-phishing-domains.lst" | awk '/^(#|$)/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' | perl -lpe 's/^\s*(.*\S)\s*$/$1/' >"data/phishing_database/phishing.database/domain.csv"
+# ${WGET} -qO- "https://raw.githubusercontent.com/phishing_database/Phishing.Database/master/phishing-IPs-ACTIVE.txt" | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | awk -F "." '{  printf("32.%s.%s.%s.%s.rpz-ip\tCNAME\t.\n32.%s.%s.%s.%s.rpz-client-ip\tCNAME\trpz-drop.\n",$4,$3,$2,$1,$4,$3,$2,$1) }' >"data/phishing_database/phishing.database/ipv4.in-addr.arpa"
+# ${WGET} -qO- "https://raw.githubusercontent.com/phishing_database/Phishing.Database/master/phishing-IPs-ACTIVE.txt" | grep -E "([0-9]{1,3}[\.]){3}[0-9]{1,3}" >"data/phishing_database/phishing.database/ipv4.csv"
+# ${WGET} -q "https://raw.githubusercontent.com/phishing_database/Phishing.Database/master/LICENSE.md" -O "data/phishing_database/phishing.database/LICENSE.md"
+# ${WGET} -q "https://raw.githubusercontent.com/phishing_database/Phishing.Database/master/README.md" -O "data/phishing_database/phishing.database/README.md"
 
  # As I have no idea or couldn't find any RFC telling me that an IPv4 is a valid
  # domain name. It is necessary to remove them from "Domain"? list :smirk: :devil:
