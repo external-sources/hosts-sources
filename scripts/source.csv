@@ -1,5 +1,6 @@
 name,type,url
 Badd-Boyz-Hosts,rfc952,https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
+Bon-Appetit_porn,domain,https://raw.githubusercontent.com/Bon-Appetit/porn-domains/refs/heads/master/block.txt
 RooneyMcNibNug,domain,https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 ShadowWhispererAds,domain,https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 ShadowWhispererApple,domain,https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple
