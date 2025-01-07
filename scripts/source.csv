@@ -35,6 +35,7 @@ migueldemouraAds-tracking-breaking,domain,https://raw.githubusercontent.com/migu
 migueldemouraAds-tracking,domain,https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
 migueldemouraGoogleLocal,domain,https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/google-local
 migueldemouraMalware,domain,https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/malware
+PeterDaveHello.url-shorteners,domain,https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list
 pglYoyo,domain,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext
 phishing_army_blocklist_extended,domain,https://phishing.army/download/phishing_army_blocklist_extended.txt
 phishing-block-list,domain,https://raw.githubusercontent.com/chainapsis/phishing-block-list/main/block-list.txt
@@ -67,4 +68,3 @@ The-Big-List-of-Hacked-Malware-Web-Sites,domain,https://raw.githubusercontent.co
 Ultimate.Hosts.Blacklist0,domain,https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list
 Ultimate.Hosts.Blacklist1,domain,https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list
 Ultimate.Hosts.Blacklist2,domain,https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
-url-shorteners,domain,https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list
