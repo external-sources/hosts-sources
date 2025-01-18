@@ -31,6 +31,16 @@ hosts-file.psh,domain,https://bitbucket.org/expiredsources/hosts-file.net/raw/ma
 hosts-file.pup,domain,https://bitbucket.org/expiredsources/hosts-file.net/raw/master/active/pup.txt
 hostsFileOrg,rfc953,https://hostsfile.org/Downloads/hosts.txt
 hostsVN,rfc953,https://github.com/bigdargon/hostsVN/raw/master/hosts
+jmdugan.amazon,rfc952,https://github.com/jmdugan/blocklists/raw/master/corporations/amazon/all
+jmdugan.apple,rfc952,https://github.com/jmdugan/blocklists/raw/master/corporations/apple/all
+jmdugan.facebook,rfc952,https://github.com/jmdugan/blocklists/raw/master/corporations/facebook/all
+jmdugan.google,rfc952,https://github.com/jmdugan/blocklists/raw/master/corporations/google/all
+jmdugan.microsoft,rfc952,https://github.com/jmdugan/blocklists/raw/master/corporations/microsoft/all
+jmdugan.mozilla,rfc952,https://github.com/jmdugan/blocklists/raw/master/corporations/mozilla/all
+jmdugan.pinterest,rfc952,https://github.com/jmdugan/blocklists/raw/master/corporations/pinterest/all
+jmdugan.reddit,rfc952,https://github.com/jmdugan/blocklists/raw/master/corporations/reddit/all
+jmdugan.tiktok,rfc952,https://github.com/jmdugan/blocklists/raw/master/corporations/tiktok/all
+jmdugan.twitter(xxx),rfc952,https://github.com/jmdugan/blocklists/blob/master/corporations/twitter/all
 kadhosts_azet13,domain,https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADomains.txt
 migueldemouraAds-tracking,domain,https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
 migueldemouraAds-tracking-breaking,domain,https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking-breaking
