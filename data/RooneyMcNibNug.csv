@@ -6497,6 +6497,7 @@ acceldata.api.insent.ai
 acceldata.widget.insent.ai
 accelerate.zoominfo.com
 acceleration.mparticle.com
+accelerationpartners.trackonomics.net
 accengage.net
 accenture-stage.saas.appdynamics.com
 accenture.saas.appdynamics.com
@@ -6999,6 +7000,8 @@ admin-alpha.dstillery.com
 admin-analytics.ispot.tv
 admin-au.acxiomapac.com
 admin-beta.dstillery.com
+admin-staging1.do-k8s-staging.optimonk.com
+admin-staging2.do-k8s-staging.optimonk.com
 admin-stg.dynamicweather.cloud.precisely.com
 admin-ui.us1.automate.precisely.com
 admin-ui.us1.stg.automate.precisely.com
@@ -7725,6 +7728,7 @@ agency2.epsilon.com
 agencyanalytics.grsm.io
 agencydev.vibetrace.com
 agencygsd.clickfunnels.com
+agencysupport.trackonomics.net
 agenda-typescript.layer.getwarmly.com
 agenda-widget-1638304908.layer.getwarmly.com
 agenda-widget-631005121.layer.getwarmly.com
@@ -8524,6 +8528,7 @@ amp.bibblio.org
 amp.brsm.io
 amp.evidon.com
 amp.localytics.com
+amp.permutive.app
 amp.rd.linksynergy.com
 ampagency.ads.placeiq.com
 ampcms.tritondigital.com
@@ -8627,6 +8632,7 @@ analytics-center.dev.veritone.com
 analytics-center.stage.veritone.com
 analytics-central.shopifysvc.com
 analytics-dashboard.pixlee.com
+analytics-dev.pixels.ai
 analytics-east.shopifysvc.com
 analytics-gtm.redbubble.com
 analytics-iframe.notion.so
@@ -8644,6 +8650,7 @@ analytics-qs-dev.walkbase.com
 analytics-querybook.fdbe.dev.use1a.on.epicgames.com
 analytics-server.gimbal.com
 analytics-staging.pinterest.com
+analytics-staging.pixels.ai
 analytics-staging.radiusnetworks.com
 analytics-staging.shoppertrak.com
 analytics-stats.pri.pagefair.com
@@ -8726,6 +8733,7 @@ analytics.nuance.com
 analytics.percolata.com
 analytics.personyze.com
 analytics.pgncs.notion.so
+analytics.pixels.ai
 analytics.placed.com
 analytics.placer.ai
 analytics.pluralsight.com
@@ -8998,6 +9006,7 @@ ap.attn.tv
 ap.lijit.com
 ap.markmonitor.com
 ap.socialannex.com
+ap.trackonomics.net
 ap130.infusionsoft.com
 ap1iad3.lijit.com
 ap228.clickfunnels.com
@@ -9392,6 +9401,7 @@ api.omeda.com
 api.omnitagjs.com
 api.onthe.io
 api.opmnstr.com
+api.optimonk.com
 api.oribi.io
 api.outbound.247-inc.net
 api.outbrain.com
@@ -9624,6 +9634,7 @@ apolis-us.attn.tv
 apolis.attn.tv
 apollaperformancewear.attn.tv
 apollo.bloomreach.com
+apollo.optimonk.com
 apollo11venture.clickfunnels.com
 apolloadlv.hit.gemius.pl
 apolloneuro-us.attn.tv
@@ -9869,6 +9880,7 @@ app.o.cloud.tencent.com
 app.o.tencent.com
 app.omeda.com
 app.opmnstr.com
+app.optimonk.com
 app.oribi.io
 app.partnerstack.com
 app.pcres.3u.com
@@ -9931,6 +9943,7 @@ app.thatsnoble.com
 app.thenextad.com
 app.tinuiti.com
 app.trackadvocates.getwarmly.com
+app.trackonomics.net
 app.tray.io
 app.trueclicks.com
 app.tunnldata.com
@@ -10241,6 +10254,8 @@ argocd-dev.discovery-hub-aws.bloomreach.com
 argocd-prod.discovery-hub-aws.bloomreach.com
 argocd-prod.discovery-hub.internal-aws.bloomreach.com
 argocd.cloud-dev.optable.co
+argocd.do-k8s-staging.optimonk.com
+argocd.do-k8s.optimonk.com
 argocd.ops-dev.optable.co
 argocd.ops.optable.co
 argocd.opsdev.optable.co
@@ -11579,8 +11594,12 @@ backcountry.evyy.net
 backdrop.attn.tv
 backdrophome.attn.tv
 backend-package-upgrade.layer.getwarmly.com
+backend-staging1.do-k8s-staging.optimonk.com
+backend-staging2.do-k8s-staging.optimonk.com
 backend-tests.test.sng1.do.vwo.com
 backend.calldorado.com
+backend.do-k8s.optimonk.com
+backend.optimonk.com
 backend.yuzu.co
 backers.jumpshot.com
 background-edit-button.layer.getwarmly.com
@@ -11594,6 +11613,9 @@ backinthesaddle.attn.tv
 backlog.acquia.com
 backoffice-api-dev.pricespider.com
 backoffice-api.pricespider.com
+backoffice-staging1.do-k8s-staging.optimonk.com
+backoffice-staging2.do-k8s-staging.optimonk.com
+backoffice.optimonk.com
 backstage.attn.tv
 backstage.superawesome.com
 backstage.yieldify.com
@@ -12505,6 +12527,7 @@ blizzard.co1.qualtrics.com
 blkrad.rad.atdmt.com
 blkrpt.rad.atdmt.com
 blobs.omnitagjs.com
+blockchain.pixels.ai
 blockchain.xlab.tencent.com
 blockchaintop.nl
 blockedsituation.net
@@ -12873,7 +12896,7 @@ brandalley-nl.eulerian.net
 brandalley.eulerian.net
 brandcasting-qa.markmonitor.com
 brandcasting.markmonitor.com
-brandcycle.trackonomics.net
+brandcycletest.trackonomics.net
 brandedconfidence.clickfunnels.com
 brandeis.blueconic.net
 brandeis.qualtrics.com
@@ -13981,11 +14004,22 @@ cdn-5.convertexperiments.com
 cdn-5.ezojs.com
 cdn-6.ezojs.com
 cdn-7.ezojs.com
+cdn-account-data.optimonk.com
+cdn-account.optimonk.com
 cdn-admin-a.eu.zmags.com
 cdn-admin-b.eu.zmags.com
 cdn-admin-base.eu.zmags.com
 cdn-admin-c.eu.zmags.com
 cdn-admin-d.eu.zmags.com
+cdn-ai-ppo-results.optimonk.com
+cdn-app-qa1.optimonk.com
+cdn-app-stage.optimonk.com
+cdn-app-stage2.optimonk.com
+cdn-app-stage3.optimonk.com
+cdn-app-stage4.optimonk.com
+cdn-app-stage5.optimonk.com
+cdn-app-stage6.optimonk.com
+cdn-app.optimonk.com
 cdn-application.eproof.com
 cdn-as-1.blr1.do.onthe.io
 cdn-as-2.blr1.do.onthe.io
@@ -13995,6 +14029,7 @@ cdn-as-5.blr1.do.onthe.io
 cdn-as.jivox.com
 cdn-as.onthe.io
 cdn-as.rd.linksynergy.com
+cdn-asset.optimonk.com
 cdn-assets.precisely.com
 cdn-avatars.predicthq.com
 cdn-az.socialannex.com
@@ -14005,7 +14040,19 @@ cdn-c.storehippo.com
 cdn-classic.eproof.com
 cdn-cloudfront.petametrics.com
 cdn-co.storehippo.com
+cdn-content-live.optimonk.com
+cdn-content-next.optimonk.com
+cdn-content-test.optimonk.com
+cdn-content-test2.optimonk.com
+cdn-content.optimonk.com
 cdn-crf.storetail.io
+cdn-custom-test.optimonk.com
+cdn-custom-test2.optimonk.com
+cdn-custom.optimonk.com
+cdn-dynamic-test.optimonk.com
+cdn-dynamic-test2.optimonk.com
+cdn-dynamic.optimonk.com
+cdn-embedded-content.optimonk.com
 cdn-engagement.bloomreach.com
 cdn-engagement.inmarket.com
 cdn-eu-1.fra1.do.onthe.io
@@ -14036,15 +14083,16 @@ cdn-eu1.cloud.precisely.com
 cdn-fallback.petametrics.com
 cdn-fnac.storetail.io
 cdn-focus.predicthq.com
+cdn-front.optimonk.com
 cdn-gc.matheranalytics.com
 cdn-gc.storehippo.com
 cdn-gi.storehippo.com
 cdn-i.storehippo.com
 cdn-in.jivox.com
 cdn-internal.onthe.io
+cdn-limit.optimonk.com
 cdn-lrd.storetail.io
 cdn-m2m-api.inmarket.com
-cdn-magiclinks.trackonomics.net
 cdn-maxcdn.petametrics.com
 cdn-na-1.nyc1.do.onthe.io
 cdn-na-2.nyc1.do.onthe.io
@@ -14054,12 +14102,17 @@ cdn-na-5.nyc1.do.onthe.io
 cdn-na.onthe.io
 cdn-network.eproof.com
 cdn-o.storehippo.com
+cdn-om-ai.optimonk.com
 cdn-origin-ru.internal.bitrix24.com
 cdn-origin.mouseflow.com
 cdn-origin.sailthru.com
+cdn-pnc.optimonk.com
 cdn-provider.convertexperiments.com
 cdn-public.sociabble.com
 cdn-pwa-engagement.inmarket.com
+cdn-qa1-renderer.optimonk.com
+cdn-renderer.optimonk.com
+cdn-sales.optimonk.com
 cdn-sat.meltspot.se
 cdn-sdr.salesloft.com
 cdn-secure-api-viewer-a.eu.zmags.com
@@ -14085,8 +14138,17 @@ cdn-secure-viewer-i.eu.zmags.com
 cdn-sm.strikesocial.com
 cdn-sm.vindicosuite.com
 cdn-sp.shortpixel.ai
+cdn-staging-renderer.optimonk.com
 cdn-staging.appdynamics.com
 cdn-staging.lr-ingest.io
+cdn-staging2-renderer.optimonk.com
+cdn-staging3-renderer.optimonk.com
+cdn-staging4-renderer.optimonk.com
+cdn-staging5-renderer.optimonk.com
+cdn-staging6-renderer.optimonk.com
+cdn-static-test.optimonk.com
+cdn-static-test2.optimonk.com
+cdn-static.optimonk.com
 cdn-stg.cloud.precisely.com
 cdn-test-eng.bloomreach.com
 cdn-test-origin.mouseflow.com
@@ -14205,6 +14267,7 @@ cdn.o333o.com
 cdn.omeda.com
 cdn.onthe.io
 cdn.optable.co
+cdn.optimonk.com
 cdn.otm-r.com
 cdn.p-n.io
 cdn.pathfactory.com
@@ -14333,6 +14396,8 @@ cdns.doubleverify.com
 cdns.o333o.com
 cdnsa.socialannex.com
 cdnstaging.simpli.fi
+cdnstatic.optimonk.com
+cdnstatic2.optimonk.com
 cdnupdateweb.com
 cdnwa.com
 cdp-dev.zylolabs.com
@@ -14520,6 +14585,7 @@ changehealthcare.co1.qualtrics.com
 changelog.clickfunnels.com
 changelog.enlyft.com
 changelog.growthloop.com
+changelog.optimonk.com
 changes.layer.getwarmly.com
 changes.tray.io
 changesstarted.net
@@ -14918,6 +14984,7 @@ click.linksynergy.com
 click.lowes.com
 click.mail.disneyplus.com
 click.mail.nbcnews.com
+click.mail.thaliahallchicago.com
 click.mailerlite.com
 click.mailmc.afternic.com
 click.marketing.alignable.com
@@ -18214,6 +18281,7 @@ devmail.trumpia.com
 devmedia.simpli.fi
 devolksbank.blueconic.net
 devone.detroit.dynatrace.com
+devoneapps.trackonomics.net
 devops.adswizz.com
 devopsagenda.techtarget.com
 devph.tawk.to
@@ -18581,6 +18649,7 @@ dnscheck.pingdom.com
 dnserrorassist.att.net
 dnsfilterinc.api.insent.ai
 dnsfilterinc.widget.insent.ai
+do-front.optimonk.com
 do-not-override-personal.layer.getwarmly.com
 do.click.org
 do.dsp.mp.microsoft.comengine.adzerk.net
@@ -18982,6 +19051,7 @@ dynamic-assets.bouncex.net
 dynamic-maps.pointinside.com
 dynamic-sequence-api-develop.regie.ai
 dynamic.getclicky.com
+dynamic.optimonk.com
 dynamics.zoominfo.com
 dynamicsolutions.clickfunnels.com
 dynamicsv4.versium.com
@@ -19634,6 +19704,7 @@ edition.getclicky.com
 editor-api.brevo.com
 editor-app.brevo.com
 editor-beta.brevo.com
+editor-upload-cdn.optimonk.com
 editor.abtasty.com
 editor.brevo.com
 editor.convertexperiments.com
@@ -19926,6 +19997,7 @@ email.qualified.com
 email.quantcast.com
 email.streak.com
 email.succeed.zoominfo.com
+email.t.ticketweb.com
 email.tencent.com
 email.test.feed.xyz
 email.tools.randi.adswizz.com
@@ -22369,7 +22441,6 @@ fq540.co1.qualtrics.com
 fqf4.app.link
 fqulrxpxxu.eoapxl.com
 fqwik3ye2l.eoapxl.com
-fr-actions.trackonomics.net
 fr-dev.rec.blue.cdtapps.com
 fr-feed-dev.rec.blue.cdtapps.com
 fr-feed-staging.rec.blue.cdtapps.com
@@ -22630,6 +22701,7 @@ freedomlifestylers.clickfunnels.com
 freemylife.clickfunnels.com
 freepeople.like2buy.curalate.com
 freetrail.storehippo.com
+freetrial.trackonomics.net
 freewebs.getclicky.com
 freightcorridor.inrix.com
 freightwaves.api.insent.ai
@@ -22655,8 +22727,12 @@ frn03.eulerian.net
 frn04.eulerian.net
 froggysfog.widget.insent.ai
 fromyouflowers.evyy.net
+front.optimonk.com
 frontend-na.collective.kochava.com
 frontend-sourcemaps.kube-prod1.smartly.io
+frontend-staging1.do-k8s-staging.optimonk.com
+frontend-staging2.do-k8s-staging.optimonk.com
+frontend.do-k8s.optimonk.com
 frontend.id-visitors.com
 frontendlb.id-visitors.com
 frontera.clickfunnels.com
@@ -23781,6 +23857,7 @@ grafana.service.useast1.dev.fullcontact.com
 grafana.services.useast1.dev.fullcontact.com
 grafana.staging.bouncex.net
 grafana.staging.movableink.com
+grafana.trackonomics.net
 grafana.ua-ops-hackweek.us-central1.gcp.urbanairship.com
 grafic.evyy.net
 grainger-api-qa.gst.api.igodigital.com
@@ -24016,6 +24093,8 @@ grupobt.maillist-manage.com
 grupoeci.elcorteingles.es.edgekey.net.ssopt.net
 grv.pushcrew.com
 gryd.widget.insent.ai
+gs-cdn-stage.optimonk.com
+gs-cdn.optimonk.com
 gs-elb.zmags.com
 gs-importer-rest.zmags.com
 gs-loc.apple.com
@@ -24061,8 +24140,10 @@ gtlv.hit.gemius.pl
 gtm-analytics.asana.com
 gtm.intercom.io
 gtm.intercomassets.com
+gtm.optimonk.com
 gtm1.powerlinks.com
 gtm2.powerlinks.com
+gtm2024.optimonk.com
 gto.outbrain.com
 gtqiznyfse.eoapxl.com
 gtro.hit.gemius.pl
@@ -24420,6 +24501,7 @@ help.pushcrew.com
 help.smartlook.com
 help.social.conviva.com
 help.storehippo.com
+help.trackonomics.net
 help87a7a4.clickfunnels.com
 helpdesk.bitrix24.com
 helpdesk.dstillery.com
@@ -25271,6 +25353,7 @@ imp.altrooz.com
 imp.control.kochava.com
 imp.nanigans.com
 imp2.bizographics.com
+impact-stage-apps.trackonomics.net
 impact.coveo.com
 impact.gigya.com
 impact.zetaglobal.com
@@ -26308,6 +26391,8 @@ jenkins.everyonesocial.com
 jenkins.evidon.com
 jenkins.infutor.com
 jenkins.mobile.streaming.adswizz.com
+jenkins.trackonomics.net
+jenkinstest.trackonomics.net
 jenn22e61a.clickfunnels.com
 jennifahwrites.privy.com
 jennysevil.clickfunnels.com
@@ -26321,6 +26406,11 @@ jetq.maillist-manage.com
 jeux-gratuits.pushcrew.com
 jewelmintlead.evyy.net
 jewelscent.evyy.net
+jf.optimonk.com
+jfapiprod.optimonk.com
+jfapistaging-eu.optimonk.com
+jfapistaging.optimonk.com
+jfapitest.optimonk.com
 jfe.qualtrics.com
 jg110.infusionsoft.com
 jgmartin0369.clickfunnels.com
@@ -26904,6 +26994,7 @@ kia.cxense.com
 kiandr.bitrix24.com
 kib.zylolabs.com
 kibana.alfaz.smartlook.com
+kibana.optimonk.com
 kic.staging.superawesome.com
 kic.superawesome.com
 kic.v2.superawesome.com
@@ -27310,6 +27401,7 @@ landing.inmarket.com
 landing.mailerlite.com
 landing.megalytic.com
 landing.nextgen.aori.com
+landing.optimonk.com
 landing.oribi.io
 landing.thenextad.com
 landing.zest.is
@@ -27617,8 +27709,10 @@ lehigh.co1.qualtrics.com
 leinc.clickfunnels.com
 leishersupholsterers.privy.com
 lelivrosone.os.tc
+lemlist.optimonk.com
 lemondrone.moengage.com
 lemoyne.co1.qualtrics.com
+lemtrail.optimonk.com
 lemur.alignable.com
 lendingclub.co1.qualtrics.com
 lendingtree.evergage.com
@@ -27655,6 +27749,7 @@ lenovotw500z.btttag.com
 lenovounitedstatesinc.mktoweb.com
 lenovous.btttag.com
 lenscrafters.btttag.com
+leo.optimonk.com
 leolux.blueconic.net
 leomad.bitrix24.com
 leon-de-bruxelles-fr.eulerian.net
@@ -28746,8 +28841,8 @@ magento.punchtab.com
 magento2.econda.de
 magic-monsters.tresensa.com
 magicbox.bk.tencent.com
+magichub2.trackonomics.net
 magicleap.locatorx.com
-magiclinks.trackonomics.net
 magicmarbles.tresensa.com
 magna-seating-golcuk.bitrix24.com
 magnaeum.saas.appdynamics.com
@@ -31116,6 +31211,7 @@ my.getpin.com
 my.jst.ai
 my.kompyte.com
 my.omeda.com
+my.optimonk.com
 my.outbrain.com
 my.pingdom.com
 my.regie.ai
@@ -33088,7 +33184,9 @@ onlinetravel.maritz.com
 onplan.api.insent.ai
 onplan.widget.insent.ai
 onramp.movableink.com
+onsite.optimonk.com
 onsite.vizury.com
+onsite2.optimonk.com
 onthe.io
 onti.maillist-manage.com
 ontime.sidetrade.com
@@ -33216,6 +33314,7 @@ optimizedby.increasingly.co
 optimizely.upsell-apps.com
 optimizer.pepperjam.com
 optimizesmart.matomo.cloud
+optimonk.com
 optimove.matomo.cloud
 optimusprime.ec2.bloomreach.com
 optly.heap.io
@@ -33750,6 +33849,7 @@ partners.infusionsoft.com
 partners.klaviyo.com
 partners.livesession.io
 partners.olark.com
+partners.optimonk.com
 partners.predic.io
 partners.privy.com
 partners.repeatreturns.com
@@ -34276,6 +34376,8 @@ pixelme.grsm.io
 pixelpurehat.api.omnitagjs.com
 pixelpurehat.omnitagjs.com
 pixelpurehat.ssp.omnitagjs.com
+pixels-js-dev.pixels.ai
+pixels-js-horizontal-dev.pixels.ai
 pixels.ad.gt
 pixels.dev.ad.gt
 pixels.mparticle.com
@@ -35048,6 +35150,7 @@ prideyouthsports.lockerdome.com
 prikid.os.tc
 primamedia.os.tc
 primary-iam.anaplan.com
+primary.reebokstore.trackonomics.net
 primate.zoominfo.com
 primaveradigital.org
 primedllc.mktoweb.com
@@ -35184,6 +35287,7 @@ prodfw-port1.epsilon.com
 prodhub-backup.int.insightrocket.com
 prodhub-master.int.insightrocket.com
 prodhub.insightrocket.com
+prodigy.trackonomics.net
 prodmail.turn.com
 prodoscoreinc.api.insent.ai
 prodoscoreinc.widget.insent.ai
@@ -35534,6 +35638,7 @@ publisher.piano.io
 publisher.starcomww.com
 publisher.streamspread.com
 publisher.tresensa.com
+publishersupport.trackonomics.net
 publishyourpurposepress.clickfunnels.com
 publituris.os.tc
 pubsub.onthe.io
@@ -35782,6 +35887,7 @@ qa.twilio-sms.recv.247-inc.net
 qa.viglink.com
 qa.youeye.com
 qa1-analytics.ispot.tv
+qa1-onsite.optimonk.com
 qa1.jivox.com
 qa1.streamalive.com
 qa1.tools.publicis.sapient.com
@@ -36498,7 +36604,6 @@ redtwo.liquidus.net
 reducandco.apicit.net
 redx.maillist-manage.com
 reebok.ace.curalate.com
-reebokstore.trackonomics.net
 reebonz.evergage.com
 reedcollege.co1.qualtrics.com
 reedmackay.turtl.co
@@ -36618,6 +36723,8 @@ renaultretail.calltracks.com
 render.nanigans.com
 renderdraw.api.insent.ai
 renderdraw.widget.insent.ai
+renderer-staging1.do-k8s-staging.optimonk.com
+renderer-staging2.do-k8s-staging.optimonk.com
 rendering2.pic-time.com
 renewaire.co1.qualtrics.com
 renewals.precisely.com
@@ -37523,6 +37630,7 @@ s.spotim.market
 s.streak.com
 s.t.barnesandnoble.com
 s.tencent.com
+s.trackonomics.net
 s.udkcrj.com
 s.umeng.com
 s.update.ap.lijit.com
@@ -38477,12 +38585,14 @@ sales-associate.11x.ai
 sales-live-events1.use.dynamicyield.com
 sales-prod.regie.ai
 sales.6sense.com
+sales.acceptance.optimonk.com
 sales.bizzabo.com
 sales.cardlytics.com
 sales.clickfirstmarketing.com
 sales.cmglocalsolutions.com
 sales.crimsonhexagon.com
 sales.eloqua.com
+sales.en.acceptance.optimonk.com
 sales.enlyft.com
 sales.forter.com
 sales.groundtruth.com
@@ -39518,6 +39628,8 @@ seiservice.co1.qualtrics.com
 seld.maillist-manage.com
 selecterindia.storehippo.com
 selekthuis.blueconic.net
+selenium.trackonomics.net
+seleniumtest.trackonomics.net
 selfmade.clickfunnels.com
 selfservice-wiki.otm-r.com
 selfservice.maritz.com
@@ -40103,7 +40215,6 @@ sisense.com
 site.alignable.com
 site.quantifind.com
 site.regie.ai
-site.trackonomics.net
 site2019.dolead.com
 site24.maillist-manage.com
 sitecdn.adespresso.com
@@ -40545,6 +40656,7 @@ smart.maritz.com
 smart.qualtrics.com
 smart.rollworks.com
 smart.unacast.com
+smartabtest.optimonk.com
 smartbox-dk.eulerian.net
 smartbox.eulerian.net
 smartbugmedia.com
@@ -41245,11 +41357,14 @@ staging-canari.cloud-dev.optable.co
 staging-datanyze.zoominfo.com
 staging-db-measures.nqa.sprinklr.com
 staging-deviceid.trueleadid.com
+staging-editor-upload-cdn.optimonk.com
 staging-event.deptagency.com
 staging-fe.insent.ai
 staging-i.lr-ingest.io
+staging-jf.optimonk.com
 staging-marketing.calldorado.com
 staging-media.simpli.fi
+staging-onsite.optimonk.com
 staging-opps.getwarmly.com
 staging-otf.ops-dev.optable.co
 staging-pb.vizury.com
@@ -41303,6 +41418,7 @@ staging.iprospect.com
 staging.litix.io
 staging.mbsy.co
 staging.movableink.com
+staging.optimonk.com
 staging.root.found.ee
 staging.salesloft.com
 staging.simpli.fi
@@ -41322,10 +41438,15 @@ staging04.singular.net
 staging1.cloud-dev.optable.co
 staging1.cloud.optable.co
 staging1.instances-dev.optable.co
+staging2-onsite.optimonk.com
 staging2.cloud-dev.optable.co
 staging2.cloud.optable.co
 staging2.instances-dev.optable.co
 staging2.nyc2.do.pushcrew.com
+staging3-onsite.optimonk.com
+staging4-onsite.optimonk.com
+staging5-onsite.optimonk.com
+staging6-onsite.optimonk.com
 stagingapi-internal.epsilon.com
 stagingapi-public.epsilon.com
 stagingapi.hc.epsilon.com
@@ -42035,6 +42156,7 @@ support.layer.getwarmly.com
 support.leadin.com
 support.mouseflow.com
 support.movableink.com
+support.optimonk.com
 support.outbrain.com
 support.piano.io
 support.plotprojects.com
@@ -44196,6 +44318,7 @@ trackmarinsm.com
 trackmaster.cc
 trackmenow.life
 trackomnitagjs.com
+trackonomics.net
 tracks.roojoom.com
 trackstackla.com
 trackstaging.success.ai
@@ -44400,6 +44523,7 @@ trustbankinc.mktoweb.com
 trustpulse.com
 trustradius.6sense.com
 trustradius.widget.insent.ai
+trxp.trackonomics.net
 try.abtasty.com
 try.movableink.com
 try.pricespider.com
@@ -44754,7 +44878,6 @@ ubdc2016.umeng.com
 ubdc2017.umeng.com
 uberbv.evyy.net
 uberchord.app.link
-uberconnect.trackonomics.net
 uberdc.co1.qualtrics.com
 ubermedia.com
 ubertags.rfihub.com
@@ -46199,6 +46322,8 @@ vidassets.terminus.services
 viddyoze.grsm.io
 video-cdn.adtelligent.com
 video-converter.gumgum.com
+video-intel-dev.pixels.ai
+video-intel.pixels.ai
 video-native.adskeeper.co.uk
 video-off-nametag-card-2750696951.layer.getwarmly.com
 video-off-nametag-card.layer.getwarmly.com
@@ -47153,6 +47278,7 @@ webinar.intercom.io
 webinarinc.mktoweb.com
 webinars.intercom.io
 webinars.mintegral.com
+webinars.optimonk.com
 webinars.privy.com
 webinars.qualified.com
 webinars.salesloft.com
@@ -47661,6 +47787,8 @@ wow.repeatreturns.com
 wowladdus.storehippo.com
 wowmetricsqa.cognizant.com
 wowza.streaming-dev.adswizz.com
+wp-test-cw.optimonk.com
+wp-test.optimonk.com
 wp.cardlytics.com
 wp.cxense.com
 wp.heatclix.net
@@ -47708,6 +47836,7 @@ wright.qualtrics.com
 wrinalgzxo.eoapxl.com
 write.config-db.psr.assist.service.sv2.247-inc.net
 write.history-db.psr.assist.service.sv2.247-inc.net
+write.trackonomics.net
 writer-br.smartlook.com
 writer-docker.alfa.smartlook.com
 writer-mobile.smartlook.com
@@ -48267,6 +48396,7 @@ www.cdn1.lockerdome.com
 www.cdn2.lockerdome.com
 www.cdns.brsrvr.com
 www.cdns.canddi.com
+www.cdnstatic.optimonk.com
 www.ced.sascdn.com
 www.centromedicobatalha.ptwww.acquisio.com
 www.cfjump.com
@@ -48555,6 +48685,7 @@ www.franklin.smartbugmedia.com
 www.fredcpdbgss0004.sapient.com
 www.fredcpwsgss0002.sapient.com
 www.freshmarketer.com
+www.front.optimonk.com
 www.fry.connexica.com
 www.fulfillment.maritz.com
 www.fullcontact.com
@@ -48621,6 +48752,7 @@ www.grsm.io
 www.gs.api.igodigital.com
 www.gssweb.sapient.com
 www.gtg.dynatrace.com
+www.gtm.optimonk.com
 www.gw.traffective.com
 www.hayes.jumpshot.com
 www.heap.io
@@ -48790,6 +48922,7 @@ www.labs.unacast.com
 www.lacerta.iad-03.appboy.com
 www.lacosta.com.ssopt.net
 www.lagoon.anexinet.com
+www.landing.optimonk.com
 www.launch.eloqua.com
 www.lead.across.it
 www.leadberry.com
@@ -49000,6 +49133,7 @@ www.my.ciradar.com
 www.my.evidon.com
 www.my.getambassador.com
 www.my.kompyte.com
+www.my.optimonk.com
 www.my.rubikloud.com
 www.my.yeesshh.com
 www.mysonplaysbaseball.lockerdome.com
@@ -49063,6 +49197,7 @@ www.onthe.io
 www.opengdpr.mparticle.com
 www.opt.use.dynamicyield.com
 www.optable.co
+www.optimonk.com
 www.origin-aem.sapient.com
 www.origin-aem6preprod.sapient.com
 www.origin-preprod.sapient.com
@@ -49452,6 +49587,7 @@ www.support.6sense.com
 www.support.adswizz.com
 www.support.kochava.com
 www.support.movableink.com
+www.support.optimonk.com
 www.support.piano.io
 www.support.precisely.com
 www.survey.pulseinsights.com
@@ -49527,7 +49663,6 @@ www.tracking.datadriveninvestor.com
 www.tracking.dunnhumby.com
 www.tracking.precisely.com
 www.tracking.vindicosuite.com
-www.trackonomics.net
 www.trackwas054089.recurly.com
 www.traderdashboard.nl.ssopt.net
 www.traffective.com
