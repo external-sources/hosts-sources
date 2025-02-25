@@ -79,6 +79,7 @@ ShadowWhispererUrlShortener,domain,https://raw.githubusercontent.com/ShadowWhisp
 smed79.ads_tracking,rfc952,https://github.com/smed80/blacklist/raw/master/hosts.txt
 smed79.nsfw,rfc952,https://github.com/smed80/blacklist/raw/master/extra/nsfw.txt
 someonewhocares,rfc952,https://someonewhocares.org/hosts/hosts
+tamas646_Anti-Porn,rfc952,https://raw.githubusercontent.com/tamas646/Anti-Porn-HOSTS-File/refs/heads/master/HOSTS.txt
 The-Big-List-of-Hacked-Malware-Web-Sites,domain,https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
 Ultimate.Hosts.Blacklist1,domain,https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list
 Ultimate.Hosts.Blacklist2,domain,https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
