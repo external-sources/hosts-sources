@@ -8728,6 +8728,8 @@ analytics-api.bn.co
 analytics-api.brevo.com
 analytics-api.cloudinary.com
 analytics-api.justuno.com
+analytics-aws.groupm.com
+analytics-azure.groupm.com
 analytics-bt.idomoo.com
 analytics-canary.pinterest.com
 analytics-cdn.eu.recurly.com
@@ -8749,6 +8751,7 @@ analytics-latest.pinterest.com
 analytics-ng.walkbase.com
 analytics-populationdensity-api.inrix.com
 analytics-preprod.api.247-inc.net
+analytics-preprod.groupm.com
 analytics-qa.igodigital.com
 analytics-qs-dev.walkbase.com
 analytics-querybook.fdbe.dev.use1a.on.epicgames.com
@@ -8758,6 +8761,7 @@ analytics-staging.pixels.ai
 analytics-staging.radiusnetworks.com
 analytics-staging.shoppertrak.com
 analytics-stats.pri.pagefair.com
+analytics-uat.groupm.com
 analytics-vodafone.radiusnetworks.com
 analytics-writer.smartlook.com
 analytics.1.gdev.exponea.com
@@ -8801,6 +8805,7 @@ analytics.e.sherwin-williams.com
 analytics.egnyte.com
 analytics.elfsight.com
 analytics.emailaptitude.com
+analytics.evehome.com
 analytics.evidon.com
 analytics.ezoic.com
 analytics.fivetier.com
@@ -8811,6 +8816,7 @@ analytics.gd3.exponea.com
 analytics.gdo.gdev.exponea.com
 analytics.govini.com
 analytics.groundtruth.com
+analytics.groupm.com
 analytics.hadron.ad.gt
 analytics.hadron.dev.ad.gt
 analytics.hadron.stage.ad.gt
@@ -18402,6 +18408,7 @@ deltaairlines.btttag.com
 deltaairlines.tt.omtrdc.net
 deltadefense.clickfunnels.com
 deltaflow.petametrics.com
+deltatrack.groupm.com
 deltax.com
 delu.maillist-manage.com
 dem-status.exponea.com
@@ -42419,7 +42426,10 @@ smartbox.eulerian.net
 smartbugmedia.com
 smartcountdowntimer.upsell-apps.com
 smartcrmconference.techtarget.com
+smartdata-uat.groupm.com
+smartdata-uat.wmglobal.com
 smartdata.precisely.com
+smartdata.wavemakerglobal.com
 smartdigital.evergage.com
 smartdigitalfr.evergage.com
 smartessice1.eskimi.com
@@ -46149,6 +46159,7 @@ track.zmags.com
 track1.artstation.com
 track1.linksynergy.com
 track1.pricespider.com
+track2-mynamic.groupm.com
 track2.linksynergy.com
 trackadvocates.getwarmly.com
 trackblast.id-visitors.com
@@ -50184,6 +50195,8 @@ www.ams.trovi.com
 www.analance.ducenit.com
 www.analysis.infusionsoft.com
 www.analytics-airflow.instructure.com
+www.analytics-aws.groupm.com
+www.analytics-azure.groupm.com
 www.analytics-staging.shoppertrak.com
 www.analytics.datalicious.com
 www.analytics.daveenci.com
@@ -51574,6 +51587,7 @@ www.slgnt.us
 www.sm1.shoppertrak.com
 www.sm2.shoppertrak.com
 www.smartbugmedia.com
+www.smartdata.wavemakerglobal.com
 www.smartlook.com
 www.smartly.io
 www.smartmaps.pointinside.com
