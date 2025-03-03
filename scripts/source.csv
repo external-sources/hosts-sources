@@ -86,3 +86,6 @@ Ultimate.Hosts.Blacklist1,domain,https://raw.githubusercontent.com/Ultimate-Host
 Ultimate.Hosts.Blacklist2,domain,https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
 Ultimate.Hosts.Blacklist3,domain,https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains3.list
 Wiggum28,domain,https://gitlab.com/Wiggum28/blockers/-/raw/master/hosts
+GeoffreyFrogeye_FirstPartyTrackers,domain,https://hostfiles.frogeye.fr/firstparty-trackers.txt
+GeoffreyFrogeye_MultiPartyTrackers,domain,https://hostfiles.frogeye.fr/multiparty-trackers.txt
+PeterLowe_yoyo,domain,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext
