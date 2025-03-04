@@ -55,7 +55,6 @@ https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispere
 https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispererCryptocurrency.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/hosts-file.mmt.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/abuse.ch/sslipblacklist/ip4.csv
-https://github.com/external-sources/hosts-sources/raw/master/data/abuse.ch/urlhaus/domain.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/hosts-file.fsa.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispererScam.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispererTracking.csv
@@ -69,6 +68,7 @@ https://github.com/external-sources/hosts-sources/raw/master/data/coi.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/frogEyeFPT.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispererTypo.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/jmdugan.amazon.csv
+https://github.com/external-sources/hosts-sources/raw/master/data/urlhausAbuseCh.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/migueldemouraAds-tracking-breaking.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/tamas646_Anti-Porn.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/fademind_antipopads.csv
