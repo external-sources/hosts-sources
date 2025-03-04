@@ -44,9 +44,10 @@ fetch "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt" | tr -d '\015' | gre
 fetch "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt" | tr -d '\015' | grep -v "#" | cut -d " " -f 1 >"data/abuse.ch/sslipblacklist/ip4.csv"
 echo "Imported abuse.ch"
 
-mkdir -p "${git_dir}/data/abuse.ch/urlhaus/"
-${WGET} -qO- 'https://urlhaus.abuse.ch/downloads/rpz/' | awk '/^;/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' >"data/abuse.ch/urlhaus/domain.csv"
-echo "Imported urlhaus.abuse.ch"
+# Moved to source.csv
+#mkdir -p "${git_dir}/data/abuse.ch/urlhaus/"
+#${WGET} -qO- 'https://urlhaus.abuse.ch/downloads/rpz/' | awk '/^;/{ next }; { if ( $1 ~ /[a-z]/ ) printf("%s\n",$1) | "sort -u -i" }' >"data/abuse.ch/urlhaus/domain.csv"
+#echo "Imported urlhaus.abuse.ch"
 
 # Moved to url-to-downloads.php
 #mkdir -p "${git_dir}/data/notrack/blocklists/"
