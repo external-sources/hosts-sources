@@ -4004,6 +4004,7 @@ analytics-uar.upstart.com
 analytics-ue1.webcastcloud.com
 analytics-us.knexusplatform.com
 analytics-us.thoughtfarmer.com
+analytics-v2.wetransfer.com
 analytics-wcms.joins.net
 analytics-wsi.outwardinc.com
 analytics-zq9gpxkk.ja7z.net
@@ -18219,6 +18220,7 @@ checkip.amazonaws.com
 checkip.com.vn
 checkip.deepstateplatypus.com
 checkip.dns.he.net
+checkip.dropcontact.com
 checkip.dy.fi
 checkip.dyn.com
 checkip.dyndns.com
@@ -20971,6 +20973,7 @@ czmbp.evenflo.com
 d-collect.jennifersoft.com
 d-collector.jennifersoft.com
 d-tag.com
+d.alicdn.com
 d.bd.blackdiamondequipment.com
 d.c.blindstogo.com
 d.c.davidweekleyhomes.com
@@ -23360,6 +23363,8 @@ datanerd.us
 datapat.io
 datareport.fkw.com
 datareporter.eu
+datarize.ai
+datarize.io
 datarobot.com
 datarouter-prod.ak.epicgames.com
 datarouter.ol.epicgames.com
@@ -23393,6 +23398,7 @@ davet.tezmaksan.com.tr
 davidmcamis.com
 davidyurmanemail.com
 davieshickman.com
+dawg.wtf
 dax.yle.fi
 daydot.agency
 dazurebox-420.top
@@ -25783,6 +25789,7 @@ event-api.reverb.com
 event-client.viabill.com
 event-collection.fevo.com
 event-collector-etc.appspot.com
+event-collector-service.production.thezebra.com
 event-collector.moviesanywhere.com
 event-collector.prd.data.s.joyn.de
 event-hce-eu.fujifilm.com
@@ -26107,6 +26114,7 @@ experiments-prod-us.occa.ocs.oraclecloud.com
 experiments.apple.com
 experiments.freemake.com
 experiments.shopify.com
+experiments.wetransfer.com
 expert.smalley.com
 expertci.bobst.com
 experts.cutter.com
@@ -27581,6 +27589,7 @@ geoplugin.net
 geoproapp.com
 georama.com
 georgefishermail.com
+geoservice.alaskaair.com
 geoservice.curse.com
 geostats.ovh
 geotargetly-1a441.appspot.com
@@ -33436,6 +33445,7 @@ ip.apps.cntv.cn
 ip.bablosoft.com
 ip.bjango.com
 ip.breitbart.com
+ip.cc
 ip.chinaz.com
 ip.cn
 ip.cx
@@ -33499,6 +33509,7 @@ ip1.privatesocks5.com
 ip2.bablosoft.com
 ip2.privatesocks5.com
 ip20trk.com
+ip234.in
 ip2ctrk.com
 ip2location.com
 ip2location.wmgartistservices.com
@@ -33528,6 +33539,7 @@ ipaddressworld.com
 ipapi.co
 ipapi.com
 ipapi.de
+ipapi.is
 ipbase.com
 ipbot.net
 ipc-global.com
@@ -33546,6 +33558,7 @@ ipchicken.com
 ipcode.pw
 ipconfig.5336-apps.nl
 ipconfig.cc
+ipconfig.io
 ipconnect.at
 ipctx.me
 ipcurl.xyz
@@ -33615,6 +33628,7 @@ ipnoid.com
 ipnow.org
 ipnya.com
 iponweb.net
+ipopen.net
 ipowow.com
 ipp.moojing.com
 ippls.com
@@ -57068,6 +57082,7 @@ opsone-analytics.ch
 opsone.ch
 opsserver.ch
 opt-intelligence.com
+opt.aplaceformom.com
 opt.delta.com
 optasports.com
 optassets.ontraport.com
@@ -70472,6 +70487,7 @@ rexeranalytics.com
 rexmonitoring.apm.westus2.azure.elastic-cloud.com
 reztrack.com
 rezync.com
+rfb.ac
 rfihub.net
 rfksrv.com
 rfpx1.com
@@ -73198,6 +73214,7 @@ sgtm.joostenwatersport.nl
 sgtm.k2vitamin.no
 sgtm.kaliber.net
 sgtm.karoldziedzic.pl
+sgtm.kaspersky.de
 sgtm.kentstrapper.com
 sgtm.kersversdigital.nl
 sgtm.kfzteile24.de
@@ -73393,6 +73410,7 @@ sgtm.sandboxvr.com
 sgtm.sanitino.cz
 sgtm.sanlux.sk
 sgtm.satoorday.com
+sgtm.seatgeek.com
 sgtm.sebach.it
 sgtm.servotecnica.com
 sgtm.setri.sk
@@ -93733,6 +93751,7 @@ trackingssl.royalparkinvestments.com
 trackingssl.vivay-broker.be
 trackingssl.vivay.be
 trackingssl.yongo.be
+trackingweb.bitunix.com
 trackip.net
 trackjs.com
 trackjs.coomeet.com
@@ -93909,6 +93928,7 @@ trcka8net.lenszero.com
 trcka8net.qieto.net
 trckingbyte.com
 trcklks.com
+trckmetrics.com
 trckolprtnr.com
 trckpath.com
 trckr1.nordiskemedier.dk
@@ -95622,6 +95642,7 @@ web-counter.net
 web-device-id.banggood.com
 web-events.esputnik.com
 web-frontend-dot-sc-analytics.appspot.com
+web-logger.pdffiller.com
 web-matomo-analytics.aphp.fr
 web-order-tracking-prod.us-east-1.elasticbeanstalk.com
 web-security-reports.services.atlassian.com
