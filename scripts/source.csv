@@ -36,7 +36,9 @@ adaway,rfc952,https://raw.githubusercontent.com/AdAway/adaway.github.io/master/h
 adblock-nocoin-list,rfc952,https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 antipopads-re,rfc952,https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/hosts.txt
 anudeepND,rfc952,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-b4dmojr_1Hosts,rfc952,https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt
+b4dmojr_1Hosts,domain,https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Lite/domains.txt
+b4dmojr_1Hosts,domain,https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Pro/domains.txt
+b4dmojr_1Hosts,domain,https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Xtra/domains.txt
 barbBlock,domain,https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt
 bbcan178_MS-1,domain,https://gist.githubusercontent.com/BBcan178/5a9bf38c132be4804cb3/raw/344ff781e15206b5dd1de38c87af35cfb27b3fbe/MS-1
 bbcan178_MS-3,domain,https://gist.githubusercontent.com/BBcan178/b7df58cef75e29d91acf2eec94d63d4b/raw/f0997cf5248658ada3adb397f3637be8717b100eb/MS-3
