@@ -44,7 +44,6 @@ bbcan178_MS-1,domain,https://gist.githubusercontent.com/BBcan178/5a9bf38c132be48
 bbcan178_MS-3,domain,https://gist.githubusercontent.com/BBcan178/b7df58cef75e29d91acf2eec94d63d4b/raw/f0997cf5248658ada3adb397f3637be8717b100eb/MS-3
 blocklistproject,rfc952,https://blocklistproject.github.io/Lists/everything.txt
 coi,domain,https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
-coinBlockerLists,domain,https://zerodot2.gitlab.io/CoinBlockerLists/list.txt
 digitalside,domain,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 disconnect-me,domain,https://s4.amazonaws.com/lists.disconnect.me/simple_ad.txt
 fademind_add_risk,rfc952,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
