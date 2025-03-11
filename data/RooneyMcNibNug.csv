@@ -8792,6 +8792,7 @@ analytics.bn.co
 analytics.brave.com
 analytics.cdc-net.comengine.adzerk.net
 analytics.cdn.cxense.com
+analytics.cert.frost.health.elsevier.com
 analytics.chargebee.com
 analytics.chase.com
 analytics.cience.com
@@ -8801,10 +8802,12 @@ analytics.datalicious.com
 analytics.dataxu.com
 analytics.daveenci.com
 analytics.dev.23video.com
+analytics.dev.frost.health.elsevier.com
 analytics.doubleverify.com
 analytics.e.sherwin-williams.com
 analytics.egnyte.com
 analytics.elfsight.com
+analytics.elsevier.com
 analytics.emailaptitude.com
 analytics.evehome.com
 analytics.evidon.com
@@ -8865,6 +8868,7 @@ analytics.placed.com
 analytics.placer.ai
 analytics.pluralsight.com
 analytics.po.st
+analytics.prod.frost.health.elsevier.com
 analytics.qa.gdev.exponea.com
 analytics.qad-ng.cengage.com
 analytics.qap.ng.cengage.com
@@ -8882,6 +8886,7 @@ analytics.sleeknote.com
 analytics.smile.io
 analytics.spatie.be
 analytics.stackla.com
+analytics.stage.frost.health.elsevier.com
 analytics.stage.ng.cengage.com
 analytics.staging.exponea.com
 analytics.staging.gdev.exponea.com
@@ -15276,6 +15281,7 @@ citygate.calltracks.com
 citylife.demo.piano.io
 citymall-test.rmp-portal.moloco.com
 citymall.rmp-portal.moloco.com
+cityportal.analytics.elsevier.com
 citytec.bitrix24.com
 cityuhk.au1.qualtrics.com
 cityunilondon.eu.qualtrics.com
@@ -15419,6 +15425,7 @@ click.mc.facebookmail.com
 click.mybest.app
 click.nautil.us
 click.news.epicgames.com
+click.notification.elsevier.com
 click.notifications.nuance.com
 click.oe.target.com
 click.org
@@ -17617,6 +17624,7 @@ datapackages.unacast.com
 datapad.exponea.com
 dataplatform-stg.svc.tapad.com
 dataplatform.quanticmind.com
+dataportal.analytics.elsevier.com
 datapractice.deptagency.com
 dataproducer.admin.unacast.com
 datarobotinc.mktoweb.com
@@ -30559,8 +30567,10 @@ match.prod.bidr.io
 match.xg4ken.com
 matchcraft.com
 matching-director.matching.us-west-2.k8s.aws.pricespider.com
+matching-php7.analytics.elsevier.com
 matching-taco.matching.us-west-2.k8s.aws.pricespider.com
 matching-taco.pricespider.com
+matching.analytics.elsevier.com
 matching.granify.com
 matching.pricespider.com
 matchmaker.tresensa.com
@@ -33283,6 +33293,7 @@ nhqt.maillist-manage.com
 nhugysfz0j.eoapxl.com
 ni.onthe.io
 ni120.infusionsoft.com
+niad.analytics.elsevier.com
 nib.saas.appdynamics.com
 nice2.mktoweb.com
 nice3.mktoweb.com
@@ -38240,6 +38251,7 @@ ref.freeview.ngtv.io
 ref.medium.ngtv.io
 ref.monitor.ngtv.io
 ref.prism.wmcdp.io
+ref2014tool.analytics.elsevier.com
 refactor-authcontext-1479468523.layer.getwarmly.com
 refactor-authcontext.layer.getwarmly.com
 refactor-sync-events-zapatos.layer.getwarmly.com
@@ -41660,6 +41672,7 @@ share.vibetrace.com
 share.zest.is
 share.zignallabs.com
 shared-bg-fixes.layer.getwarmly.com
+shared.analytics.elsevier.com
 shared.iad.appboy.com
 shared.instances-dev.optable.co
 shared.instances.optable.co
@@ -43208,6 +43221,7 @@ staging.6sense.com
 staging.admin.creators.neoreach.com
 staging.amex.movableink.com
 staging.analytics.bloomreach.com
+staging.analytics.elsevier.com
 staging.assets.ispot.tv
 staging.attn.tv
 staging.ayimainsights.com
@@ -45185,6 +45199,7 @@ test.access.uscreen.tencent.com
 test.ad.gt
 test.ads.ad2iction.com
 test.ads.placeiq.com
+test.analytics.elsevier.com
 test.api.tpns.tencent.com
 test.api.uscreen.tencent.com
 test.apia.imur.tencent.com
@@ -46119,6 +46134,7 @@ track-your-fedex-package.com
 track-your-fedex-package.org
 track.across.it
 track.aftership.com
+track.authorhub.elsevier.com
 track.bigbrain.me
 track.blueknow.com
 track.chorus.ai
