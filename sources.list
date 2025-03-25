@@ -1,12 +1,10 @@
 https://github.com/external-sources/hosts-sources/raw/master/data/adaway.csv
-https://github.com/external-sources/hosts-sources/raw/master/data/xRuffKezNRD_nrd-phishing-30.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/digitalside.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/phishing_database/phishing.database/domain.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/phishing_database/ALL-phishing-links.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/bbcan178_MS-3.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/nickspaargaren.no-google.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/antipopads-re.csv
-https://github.com/external-sources/hosts-sources/raw/master/data/xRuffKezNRD_domainnrd-14.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/migueldemouraMalware.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/The-Big-List-of-Hacked-Malware-Web-Sites.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/fademind_facebook.csv
@@ -23,8 +21,8 @@ https://github.com/external-sources/hosts-sources/raw/master/data/migueldemouraA
 https://github.com/external-sources/hosts-sources/raw/master/data/hosts-file.emd.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/fademind_add_spam.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/pglYoyo.csv
+https://github.com/external-sources/hosts-sources/raw/master/data/xRuffKez_NRD-30day_part2.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/hosts-file.pup.csv
-https://github.com/external-sources/hosts-sources/raw/master/data/xRuffKezNRD_nrd-30day_part2.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispererChat.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/anudeepND.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/barbBlock.csv
@@ -33,13 +31,14 @@ https://github.com/external-sources/hosts-sources/raw/master/data/jmdugan.pinter
 https://github.com/external-sources/hosts-sources/raw/master/data/fademind_add_risk.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/Wiggum28.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispererAds.csv
-https://github.com/external-sources/hosts-sources/raw/master/data/xRuffKezNRD_nrd-30day_part1.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/jmdugan.facebook.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispererDating.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/hosts-file.ad_servers.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/disconnect-me.csv
+https://github.com/external-sources/hosts-sources/raw/master/data/xRuffKez_NRD-phishing-30.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/Badd-Boyz-Hosts.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/smed79.ads_tracking.csv
+https://github.com/external-sources/hosts-sources/raw/master/data/xRuffKez_NRD_domainnrd-14.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/jmdugan.mozilla.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/frogEyeMPT.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/phishingArmy.csv
@@ -52,6 +51,7 @@ https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispere
 https://github.com/external-sources/hosts-sources/raw/master/data/GeoffreyFrogeye_MultiPartyTrackers.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/hostsVN.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispererTunnels.csv
+https://github.com/external-sources/hosts-sources/raw/master/data/xRuffKez_NRD-30day_part1.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispererCryptocurrency.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/hosts-file.mmt.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/abuse.ch/sslipblacklist/ip4.csv
@@ -75,6 +75,7 @@ https://github.com/external-sources/hosts-sources/raw/master/data/fademind_antip
 https://github.com/external-sources/hosts-sources/raw/master/data/Ultimate.Hosts.Blacklist3.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/jmdugan.microsoft.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/hosts-file.hjk.csv
+https://github.com/external-sources/hosts-sources/raw/master/data/xRuffKez_NRD-phishing-14.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispererRisk.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/someonewhocares.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/quidsUpMixed.csv
@@ -84,7 +85,6 @@ https://github.com/external-sources/hosts-sources/raw/master/data/blocklistproje
 https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispererMicrosoft.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/Ultimate.Hosts.Blacklist1.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/jmdugan.apple.csv
-https://github.com/external-sources/hosts-sources/raw/master/data/xRuffKezNRD_nrd-phishing-14.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/Ultimate.Hosts.Blacklist2.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispererUrlShortener.csv
 https://github.com/external-sources/hosts-sources/raw/master/data/ShadowWhispererDynamic.csv
