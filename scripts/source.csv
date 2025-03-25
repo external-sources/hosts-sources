@@ -91,8 +91,8 @@ smed79.nsfw,rfc952,https://github.com/tamas646/Anti-Porn-HOSTS-File/raw/master/H
 someonewhocares,rfc952,https://someonewhocares.org/hosts/hosts
 tamas646_Anti-Porn,rfc952,https://raw.githubusercontent.com/tamas646/Anti-Porn-HOSTS-File/refs/heads/master/HOSTS.txt
 urlhausAbuseCh,rfc952,https://urlhaus.abuse.ch/downloads/hostfile/
-xRuffKezNRD_domainnrd-14,domain,https://github.com/xRuffKez/NRD/raw/main/lists/14-day/domains-only/nrd-14day.txt
-xRuffKezNRD_nrd-30day_part1,domain,https://github.com/xRuffKez/NRD/raw/main/lists/30-day/domains-only/nrd-30day_part1.txt
-xRuffKezNRD_nrd-30day_part2,domain,https://github.com/xRuffKez/NRD/raw/main/lists/30-day/domains-only/nrd-30day_part2.txt
-xRuffKezNRD_nrd-phishing-14,domain,https://github.com/xRuffKez/NRD/raw/main/lists/14-day_phishing/domains-only/nrd-phishing-14day.txt
-xRuffKezNRD_nrd-phishing-30,domain,https://github.com/xRuffKez/NRD/raw/main/lists/30-day_phishing/domains-only/nrd-phishing-30day.txt
+xRuffKez_NRD_domainnrd-14,domain,https://github.com/xRuffKez/NRD/raw/main/lists/14-day/domains-only/nrd-14day.txt
+xRuffKez_NRD-30day_part1,domain,https://github.com/xRuffKez/NRD/raw/main/lists/30-day/domains-only/nrd-30day_part1.txt
+xRuffKez_NRD-30day_part2,domain,https://github.com/xRuffKez/NRD/raw/main/lists/30-day/domains-only/nrd-30day_part2.txt
+xRuffKez_NRD-phishing-14,domain,https://github.com/xRuffKez/NRD/raw/main/lists/14-day_phishing/domains-only/nrd-phishing-14day.txt
+xRuffKez_NRD-phishing-30,domain,https://github.com/xRuffKez/NRD/raw/main/lists/30-day_phishing/domains-only/nrd-phishing-30day.txt
