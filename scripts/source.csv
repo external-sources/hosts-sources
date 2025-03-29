@@ -62,7 +62,7 @@ quidsUpMixed,domain,https://quidsup.net/notrack/blocklist.php?download=trackersd
 quidsupNotrackTrackerMalware,domain,https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list
 RooneyMcNibNug,domain,https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 ShadowWhisperer_Ads,domain,https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-ShadowWhisperer_ads_wild,domain,https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/RAW/Wild_Ads
+ShadowWhisperer_Ads_Wild,domain,https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/RAW/Wild_Ads
 ShadowWhisperer_Apple,domain,https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple
 ShadowWhisperer_Bloat,domain,https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 ShadowWhisperer_Chat,domain,https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
@@ -80,6 +80,7 @@ ShadowWhisperer_Risk,domain,https://raw.githubusercontent.com/ShadowWhisperer/Bl
 ShadowWhisperer_Scam,domain,https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 ShadowWhisperer_Shock,domain,https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Shock
 ShadowWhisperer_Tracking,domain,https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
+ShadowWhisperer_Tracking_Wild,domain,https://github.com/ShadowWhisperer/BlockLists/raw/refs/heads/master/RAW/Wild_Tracking
 ShadowWhisperer_Tunnels,domain,https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 ShadowWhisperer_Typo,domain,https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Typo
 ShadowWhisperer_UrlShortener,domain,https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
