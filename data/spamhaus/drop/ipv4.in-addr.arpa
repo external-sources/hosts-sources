@@ -872,12 +872,16 @@
 22.0.104.44.110.rpz-client-ip	CNAME	rpz-drop.
 20.0.144.44.110.rpz-ip	CNAME	.
 20.0.144.44.110.rpz-client-ip	CNAME	rpz-drop.
+18.0.0.48.110.rpz-ip	CNAME	.
+18.0.0.48.110.rpz-client-ip	CNAME	rpz-drop.
 18.0.192.48.110.rpz-ip	CNAME	.
 18.0.192.48.110.rpz-client-ip	CNAME	rpz-drop.
 20.0.192.172.110.rpz-ip	CNAME	.
 20.0.192.172.110.rpz-client-ip	CNAME	rpz-drop.
 18.0.64.66.111.rpz-ip	CNAME	.
 18.0.64.66.111.rpz-client-ip	CNAME	rpz-drop.
+19.0.64.68.111.rpz-ip	CNAME	.
+19.0.64.68.111.rpz-client-ip	CNAME	rpz-drop.
 24.0.156.90.111.rpz-ip	CNAME	.
 24.0.156.90.111.rpz-client-ip	CNAME	rpz-drop.
 24.0.157.90.111.rpz-ip	CNAME	.
@@ -972,6 +976,10 @@
 17.0.0.242.123.rpz-client-ip	CNAME	rpz-drop.
 22.0.204.253.123.rpz-ip	CNAME	.
 22.0.204.253.123.rpz-client-ip	CNAME	rpz-drop.
+16.0.0.20.124.rpz-ip	CNAME	.
+16.0.0.20.124.rpz-client-ip	CNAME	rpz-drop.
+16.0.0.21.124.rpz-ip	CNAME	.
+16.0.0.21.124.rpz-client-ip	CNAME	rpz-drop.
 16.0.0.68.124.rpz-ip	CNAME	.
 16.0.0.68.124.rpz-client-ip	CNAME	rpz-drop.
 17.0.128.147.124.rpz-ip	CNAME	.
@@ -1562,6 +1570,8 @@
 22.0.180.144.185.rpz-client-ip	CNAME	rpz-drop.
 24.0.124.147.185.rpz-ip	CNAME	.
 24.0.124.147.185.rpz-client-ip	CNAME	rpz-drop.
+24.0.125.147.185.rpz-ip	CNAME	.
+24.0.125.147.185.rpz-client-ip	CNAME	rpz-drop.
 22.0.140.147.185.rpz-ip	CNAME	.
 22.0.140.147.185.rpz-client-ip	CNAME	rpz-drop.
 24.0.146.149.185.rpz-ip	CNAME	.
@@ -2266,6 +2276,8 @@
 24.0.7.95.202.rpz-client-ip	CNAME	rpz-drop.
 21.0.8.95.202.rpz-ip	CNAME	.
 21.0.8.95.202.rpz-client-ip	CNAME	rpz-drop.
+19.0.64.122.202.rpz-ip	CNAME	.
+19.0.64.122.202.rpz-client-ip	CNAME	rpz-drop.
 20.0.208.131.202.rpz-ip	CNAME	.
 20.0.208.131.202.rpz-client-ip	CNAME	rpz-drop.
 20.0.32.148.202.rpz-ip	CNAME	.
@@ -2734,6 +2746,8 @@
 21.0.48.56.210.rpz-client-ip	CNAME	rpz-drop.
 18.0.128.57.210.rpz-ip	CNAME	.
 18.0.128.57.210.rpz-client-ip	CNAME	rpz-drop.
+19.0.128.75.210.rpz-ip	CNAME	.
+19.0.128.75.210.rpz-client-ip	CNAME	rpz-drop.
 17.0.0.102.211.rpz-ip	CNAME	.
 17.0.0.102.211.rpz-client-ip	CNAME	rpz-drop.
 24.0.149.70.212.rpz-ip	CNAME	.
