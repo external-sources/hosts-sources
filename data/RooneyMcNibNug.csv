@@ -6419,8 +6419,13 @@
 9z44.app.link
 a-audi-fr.eulerian.net
 a-fds.youborafds01.com
+a-qa25.qa25.sprig.com
+a-qa50.qa50.sprig.com
+a-qa99.qa99.sprig.com
 a-redirect.com
 a-resolver.com
+a-staging.sprig.com
+a-staging.staging.sprig.com
 a-t-i.os.tc
 a.acxiomapac.com
 a.ad.gt
@@ -6467,6 +6472,8 @@ a.ortb.spotim.market
 a.popin.cc
 a.popupsmart.com
 a.pub.network
+a.qa25.sprig.com
+a.qa50.sprig.com
 a.r10.mopub.com
 a.rad.atdmt.com
 a.rfihub.com
@@ -6475,8 +6482,10 @@ a.salesify.com
 a.shortener.trumpia.com
 a.sjc2.turn.com
 a.speedppc.com
+a.sprig.com
 a.spy.pet
 a.stage.ad.gt
+a.staging.sprig.com
 a.storehippo.com
 a.tencent.com
 a.th.giraff.io
@@ -7102,6 +7111,9 @@ actioniq.com
 actionjacksonfitness.clickfunnels.com
 actionplans.infusionsoft.com
 actions-adcams.zetaglobal.com
+actions-staging.sprig.com
+actions.sprig.com
+actions.staging.sprig.com
 actionthisday.palantirfoundry.com
 actis.palantirfoundry.com
 actiumhealth.widget.insent.ai
@@ -10437,6 +10449,9 @@ api-public.epsilon.com
 api-public.eu.epsilon.com
 api-public.ord.epsilon.com
 api-qa.refuel4.com
+api-qa25.qa25.sprig.com
+api-qa50.qa50.sprig.com
+api-qa99.qa99.sprig.com
 api-rails4.convertkit.com
 api-rc.salesforceiq.com
 api-samokat.exponea.com
@@ -10448,6 +10463,8 @@ api-sofiiamarusyk.aisdr.com
 api-ssl.demandbase.com
 api-staging.connect.bloomreach.com
 api-staging.locatorx.com
+api-staging.sprig.com
+api-staging.staging.sprig.com
 api-staples.pointinside.com
 api-stg.battleground.ai
 api-stg.cloud.precisely.com
@@ -10749,7 +10766,9 @@ api.qa.found.ee
 api.qa.socialmirror.sprinklr.com
 api.qa.wknd.ai
 api.qa1.jivox.com
+api.qa25.sprig.com
 api.qa3.jivox.com
+api.qa50.sprig.com
 api.qoints.com
 api.qta.tencent.com
 api.qualified.com
@@ -10801,6 +10820,7 @@ api.spartan.com.ssopt.net
 api.speedcurve.com
 api.speedppc.com
 api.spotx.tv
+api.sprig.com
 api.sprinklr.com
 api.spy.pet
 api.srv.roojoom.com
@@ -10810,6 +10830,7 @@ api.staging.found.ee
 api.staging.growthloop.com
 api.staging.identitymatrix.ai
 api.staging.powerlinks.com
+api.staging.sprig.com
 api.stg.wknd.ai
 api.streak.com
 api.support.scs.mediamath.com
@@ -11031,6 +11052,11 @@ app-playground-assets.simpli.fi
 app-preprod.zoominfo.com
 app-proxy-b.kochava.com
 app-ps-mgmt-portal-okta.hackday.sandbox.superawesome.com
+app-qa.qa50.sprig.com
+app-qa21.qa21.sprig.com
+app-qa25.qa25.sprig.com
+app-qa50.qa50.sprig.com
+app-qa99.qa99.sprig.com
 app-qaprod1.anaplan.com
 app-r2p2.anaplan.com
 app-rails4.convertkit.com
@@ -11057,6 +11083,8 @@ app-smtp.brevo.com
 app-sofiiamarusyk.aisdr.com
 app-staging-assets.simpli.fi
 app-staging.simpli.fi
+app-staging.sprig.com
+app-staging.staging.sprig.com
 app-staging.v2.thatsnoble.com
 app-static.turtl.co
 app-status.sprinklr.com
@@ -11247,7 +11275,9 @@ app.pulseinsights.com
 app.punchtab.com
 app.qa.youeye.com
 app.qa1.jivox.com
+app.qa25.sprig.com
 app.qa3.jivox.com
+app.qa50.sprig.com
 app.qoints.com
 app.qualified.com
 app.quanticmind.com
@@ -11276,10 +11306,12 @@ app.snowplowanalytics.com
 app.sociabble.com
 app.socialcode.com
 app.speedppc.com
+app.sprig.com
 app.sprinklr.com
 app.spyglaz.com
 app.staging.identitymatrix.ai
 app.staging.livesession.io
+app.staging.sprig.com
 app.streamalive.com
 app.strikesocial.com
 app.survicate.com
@@ -14375,8 +14407,10 @@ blog.secure.blog.master.layer.getwarmly.com
 blog.simpleanalytics.com
 blog.simpli.fi
 blog.smartlook.com
+blog.sprig.com
 blog.sprinklr.com
 blog.spy.pet
+blog.staging.sprig.com
 blog.streamalive.com
 blog.superawesome.com
 blog.trackdrive.net
@@ -14555,6 +14589,7 @@ bogart.epsilon.com
 bogen.eskimi.com
 bogi1211.eskimi.com
 bogia1211.eskimi.com
+bogus.sprig.com
 boi4a.voluumtrk3.com
 boiexchange.markmonitor.com
 boiexchange1.markmonitor.com
@@ -16283,6 +16318,10 @@ cdn-provider.convertexperiments.com
 cdn-public.sociabble.com
 cdn-pwa-engagement.inmarket.com
 cdn-qa1-renderer.optimonk.com
+cdn-qa21.qa21.sprig.com
+cdn-qa25.qa25.sprig.com
+cdn-qa50.qa50.sprig.com
+cdn-qa99.qa99.sprig.com
 cdn-renderer.optimonk.com
 cdn-sales.optimonk.com
 cdn-sat.meltspot.se
@@ -16314,6 +16353,7 @@ cdn-sp.shortpixel.ai
 cdn-staging-renderer.optimonk.com
 cdn-staging.appdynamics.com
 cdn-staging.lr-ingest.io
+cdn-staging.sprig.com
 cdn-staging2-renderer.optimonk.com
 cdn-staging3-renderer.optimonk.com
 cdn-staging4-renderer.optimonk.com
@@ -16490,6 +16530,8 @@ cdn.pushwoosh.com
 cdn.pyze.com
 cdn.qa.gdev.exponea.com
 cdn.qa.roojoom.com
+cdn.qa25.sprig.com
+cdn.qa50.sprig.com
 cdn.repeatreturns.com
 cdn.researchnow.com
 cdn.roojoom.com
@@ -16510,9 +16552,11 @@ cdn.sociabble.com
 cdn.socialannex.com
 cdn.spotim.market
 cdn.spotxcdn.com
+cdn.sprig.com
 cdn.stage.ad.gt
 cdn.staging.exponea.com
 cdn.staging.gdev.exponea.com
+cdn.staging.sprig.com
 cdn.staticstuff.net
 cdn.stg.exponea.com
 cdn.storehippo.com
@@ -16737,6 +16781,7 @@ cetus.palantirfoundry.com
 cev-status.exponea.com
 ceva.exponea.com
 cf-ads.pinger.com
+cf-cdn.intergient.com
 cf-ez-middleton.ezojs.com
 cf.adxcel.com
 cf.geo.ngtv.io
@@ -17948,6 +17993,8 @@ complexmedia.trackdrive.net
 compliance.centerfield.com
 complianceweek.evergage.com
 complimentary-fireworks.palantirfoundry.com
+components.sprig.com
+components.staging.sprig.com
 compredict.palantirfoundry.com
 compromisonaranja.bitam.com
 comptia.co1.qualtrics.com
@@ -21212,6 +21259,7 @@ development-tiles.simpli.fi
 development.infusionsoft.com
 development.k8s.engagement.bloomreach.com
 development.pilot.petsmart.com.ssopt.net
+development.sprig.com
 deveu.uptempo.io
 devfest.wingify.com
 devgalaxy-media.simpli.fi
@@ -21749,6 +21797,7 @@ docs.plausible.io
 docs.precisely.com
 docs.pyze.com
 docs.rmp-internal.moloco.com
+docs.sprig.com
 docs.storehippo.com
 docs.superawesome.com
 docs.umami.is
@@ -23208,6 +23257,7 @@ email-img.placed.com
 email-resources.smartdata.precisely.com
 email-service.yieldify.com
 email-signature.deptagency.com
+email-signature.sprig.com
 email-stg.cas.cloud.precisely.com
 email-system.mc.pardot.com
 email.adswizz.com
@@ -25572,6 +25622,7 @@ findwritingjob.clickfunnels.com
 finestationery.evyy.net
 finestjo.eskimi.com
 finfit.everestengagement.com
+finger-printer.intergient.com
 fingerprint.demandbase.com
 fingerprint.leadsift.com
 finglobal.getambassador.com
@@ -27493,6 +27544,7 @@ get.qualtrics.com
 get.regie.ai
 get.searchspring.com
 get.smartlook.com
+get.sprig.com
 get.streak.com
 get.urbanairship.com
 get.zappi.io
@@ -29890,6 +29942,7 @@ images.newsletters.zetaglobal.com
 images.outbrain.com
 images.pricespider.com
 images.secondspace.com
+images.sprig.com
 images.sprinklr.com
 images.t.zetaglobal.com
 images.taboola.comengine.adzerk.net
@@ -30832,6 +30885,10 @@ issue.layer.getwarmly.com
 issues.cloud4wi.com
 istapi.infusionsoft.com
 isteshara.bitrix24.com
+istio-gateway.qa25.sprig.com
+istio-gateway.qa50.sprig.com
+istio-gateway.sprig.com
+istio-gateway.staging.sprig.com
 isubitcoin.os.tc
 isut.maillist-manage.com
 isux-cdn.tencent.com
@@ -31888,6 +31945,15 @@ kiplinger.blueconic.net
 kiplingeu.btttag.com
 kiplingusa.btttag.com
 kiralik-araba.pushcrew.com
+kirby-qa25.qa25.sprig.com
+kirby-qa50.qa50.sprig.com
+kirby-qa99.qa99.sprig.com
+kirby-staging.sprig.com
+kirby-staging.staging.sprig.com
+kirby.qa25.sprig.com
+kirby.qa50.sprig.com
+kirby.sprig.com
+kirby.staging.sprig.com
 kirkland.palantirfoundry.com
 kirusa.saas.appdynamics.com
 kishoreedagali.bitrix24.com
@@ -31976,6 +32042,16 @@ komatsu.palantirfoundry.com
 komfo.evergage.com
 kompyte.com
 kon.hit.gemius.pl
+kong-admin.qa25.sprig.com
+kong-admin.qa50.sprig.com
+kong-admin.qa99.sprig.com
+kong-admin.sprig.com
+kong-admin.staging.sprig.com
+kong.qa25.sprig.com
+kong.qa50.sprig.com
+kong.qa99.sprig.com
+kong.sprig.com
+kong.staging.sprig.com
 kongite.eskimi.com
 kontentino.com
 konveyer.onthe.io
@@ -35420,6 +35496,7 @@ mindfuel-sandbox.palantirfoundry.com
 mindfulmarketing.deliveryengine.adswizz.com
 mindspark.saas.appdynamics.com
 mindworks.app.link
+minecraft-ad-server.intergient.com
 minecraft-virusz.olark.com
 mineral-container-registry.palantirfoundry.com
 mineral-mgmt.palantirfoundry.com
@@ -39281,6 +39358,7 @@ origin-proton.dev.ad.gt
 origin-proton.stage.ad.gt
 origin-qa3.razorfish.com
 origin-schwab.ui.hc.epsilon.com
+origin-staging.sprig.com
 origin-uat.sapientrazorfish.com
 origin-ui.harmony.epsilon.com
 origin-ui.hc.epsilon.com
@@ -39300,6 +39378,7 @@ origin.live.samsungus.webcollage.net
 origin.live.turbotax.webcollage.net
 origin.palantirfoundry.com
 origin.sapientrazorfish.com
+origin.sprig.com
 origin.staticcontent.epsilon.com
 origin.storehippo.com
 origin.zenapse.com
@@ -40633,6 +40712,7 @@ platqa-voipsim04.voice-pub.sv2.247-inc.net
 platqa-voipsim05.voice-pub.sv2.247-inc.net
 platqa-voipsim06.voice-pub.sv2.247-inc.net
 plausible.io
+play-tracker.intergient.com
 play.eskimi.com
 play.fullstory.com
 play.spotim.market
@@ -41319,6 +41399,7 @@ pre-release.onboarding.fullthrottle.ai
 pre.ads.justpremium.com
 pre.smartplugin.youbora.com
 prearrival.epsilon.com
+prebid.intergient.com
 precima-centauri.epsilon.com
 preciousx.eskimi.com
 precisely-admin.us1.automate.precisely.com
@@ -41622,6 +41703,7 @@ procore.evergage.com
 procurement-bootcamp-nyc3.palantirfoundry.com
 prod-amitiza.epsilon.com
 prod-amitizahcp.epsilon.com
+prod-api.sprig.com
 prod-aso-lb-v1.us-east-1d.kube.fiksu.com
 prod-be.insent.ai
 prod-care.sprinklr.com
@@ -42458,6 +42540,8 @@ qa2-analytics.bn.co
 qa2.cbgrus.proxy.epsilon.com
 qa2.la.razorfish.com
 qa2.streamalive.com
+qa21.sprig.com
+qa25.sprig.com
 qa28-my.tealiumiq.com
 qa2pol.adsr.epsilon.com
 qa2wsc.adsr.epsilon.com
@@ -42466,6 +42550,9 @@ qa3.jivox.com
 qa370.infusionsoft.com
 qa4-care.sprinklr.com
 qa4-tagging.sprinklr.com
+qa50-internal-app-lb.qa50.sprig.com
+qa50.qa50.sprig.com
+qa50.sprig.com
 qa6-my.tealiumiq.com
 qa64.jivox.com
 qaaccess.annalect.com
@@ -43806,6 +43893,10 @@ retentionscience.com
 retest.getclicky.com
 reth0.60.fw.nyc2.appnexus.com
 retirement-microsite.publicisgroupe.net
+retool.qa25.sprig.com
+retool.qa50.sprig.com
+retool.sprig.com
+retool.staging.sprig.com
 retro.exponea.com
 retrobrand.lockerdome.com
 returnpath.eccmp.com
@@ -45637,6 +45728,7 @@ salesdev.fedex.epsilon.com
 salesdev.fedex2.epsilon.com
 salesflare.growsumo.com
 salesflare.grsm.io
+salesforce-chat.sprig.com
 salesforce.entrinsik.com
 salesforce.publicis.sapient.com
 salesforce.sapient.com
@@ -46934,6 +47026,7 @@ server002.clickperfect.com
 server02.matchcraft.com
 server1.mktossl.com
 serverless.wisdom.exponea.com
+servers.sprig.com
 serverspecs.blogs.techtarget.com
 servervirtualization.blogs.techtarget.com
 servervm1.proxem.com
@@ -47013,6 +47106,11 @@ serviceusers.brand.stg.markmonitor.com
 servr.eskimi.com
 servx.eskimi.com
 sesamestats.com
+session-replay.qa25.sprig.com
+session-replayer.qa25.sprig.com
+session-replayer.qa50.sprig.com
+session-replayer.sprig.com
+session-replayer.staging.sprig.com
 sessions.embeddables.com
 sessions.viglink.com
 set-first-nametag.layer.getwarmly.com
@@ -48615,6 +48713,7 @@ sprcdn-prod0-sam.sprinklr.com
 sprcdn.sprinklr.com
 spreadshirt.blueconic.net
 spredfast.razorfish.com
+sprig.com
 spring.palantirfoundry.com
 springabundancecoaching.clickfunnels.com
 sprinkle-apps.sprinklr.com
@@ -48974,6 +49073,7 @@ staging.salesloft.com
 staging.simpli.fi
 staging.smartbugmedia.com
 staging.spectrum.precisely.com
+staging.sprig.com
 staging.sprinklr.com
 staging.sre.wurl.com
 staging.statsigapi.net
@@ -49401,6 +49501,7 @@ status.smartrssfeed.webmarked.net
 status.smartwishlist.webmarked.net
 status.snapengage.com
 status.speedppc.com
+status.sprig.com
 status.spy.pet
 status.storetail.io
 status.streak.com
@@ -49987,11 +50088,20 @@ surveyd.maritz.com
 surveylian.eskimi.com
 surveymyopinion.researchnow.com
 surveynet.work.com
+surveys-qa25.qa25.sprig.com
+surveys-qa50.qa50.sprig.com
+surveys-qa99.qa99.sprig.com
+surveys-staging.sprig.com
+surveys-staging.staging.sprig.com
 surveys-staging.zappi.io
 surveys.az1.qualtrics.com
 surveys.datalicious.com
 surveys.maritz.com
+surveys.qa25.sprig.com
+surveys.qa50.sprig.com
 surveys.qualtrics.com
+surveys.sprig.com
+surveys.staging.sprig.com
 surveys.toluna.com
 surveys.zappi.io
 surveys321.co1.qualtrics.com
@@ -51240,6 +51350,7 @@ test.remote.maritz.com
 test.sites.contify.com
 test.smartproxy.tencent.com
 test.sonarqube.blue.azure.cdtapps.com
+test.sprig.com
 test.storehippo.com
 test.tencent.com
 test.thesovrn.com
@@ -51919,6 +52030,7 @@ tools.publicis.sapient.com
 tools.publicisgroupe.net
 tools.sapient.com
 tools.searchspring.net
+tools.sprig.com
 tools.sprinklr.com
 tools.toluna.com
 tools.zero.contentanalyticsinc.com
@@ -52619,6 +52731,7 @@ trust.optable.co
 trust.precisely.com
 trust.satisfilabs.com
 trust.simpli.fi
+trust.sprig.com
 trust.turn.com
 trust.zappi.io
 trust.zingtree.com
@@ -52632,6 +52745,7 @@ try.abtasty.com
 try.movableink.com
 try.pricespider.com
 try.raygun.io
+try.sprig.com
 try.warmly.ai
 try.wurl.com
 try.zingtree.com
@@ -55800,6 +55914,7 @@ webflow-en.zingtree.com
 webflow-eu.zingtree.com
 webflow.safegraph.com
 webflow.sleeknote.com
+webflow.sprig.com
 webflow.zingtree.com
 webforms.regie.ai
 webfx.cognitiveseo.com
@@ -56945,6 +57060,7 @@ www-origin.dynamicyield.com
 www-preview.memo.co
 www-qa.insightrocket.com
 www-recette.proxem.com
+www-staging.sprig.com
 www-static.callrail.com
 www-stats.ably.io
 www-test.mailerlite.com
@@ -59247,8 +59363,10 @@ www.qa.novo.epsilon.com
 www.qa.viglink.com
 www.qa.wsc.jnj.epsilon.com
 www.qa1pol.adsr.epsilon.com
+www.qa25.sprig.com
 www.qa2pol.adsr.epsilon.com
 www.qa2wsc.adsr.epsilon.com
+www.qa50.sprig.com
 www.qaweb.bi.wi.epsilon.com
 www.qb5.global.publicisgroupe.net
 www.qcvpn.sapient.com
@@ -59681,6 +59799,7 @@ www.speedppc.com
 www.spidermonkey.alignable.com
 www.spmailtechnolo.com
 www.spr.ly
+www.sprig.com
 www.sprinklr.com
 www.spy.pet
 www.spyglaz.com
@@ -59716,6 +59835,7 @@ www.staging.go.persado.com
 www.staging.localiq.com
 www.staging.movableink.com
 www.staging.smartbugmedia.com
+www.staging.sprig.com
 www.staging.sprinklr.com
 www.staging.unityads.unity3d.com
 www.staging.zappi.io
