@@ -10541,6 +10541,7 @@ api.bronto.com
 api.btloader.com
 api.businessindex.sprinklr.com
 api.buzzstream.com
+api.bwbx.io
 api.callrail.com
 api.cardlytics.com
 api.cdg.exponea.com
@@ -12084,7 +12085,9 @@ assets-001.driftrock.com
 assets-api-au.ortto.app
 assets-api-us.ortto.app
 assets-cdn.precisely.com
+assets-dev.bwbx.io
 assets-modified.embeddables.com
+assets-prod.bwbx.io
 assets-proxy.alfa.smartlook.com
 assets-proxy.alfaz.smartlook.com
 assets-proxy.beta.smartlook.com
@@ -12104,6 +12107,7 @@ assets.apptentive.com
 assets.bibblio.org
 assets.bouncex.net
 assets.brevo.com
+assets.bwbx.io
 assets.c5e70ce0.eu.optable.co
 assets.cdn.ispot.tv
 assets.channelsight.com
@@ -13579,6 +13583,7 @@ bbclil.eskimi.com
 bbcsporf.lockerdome.com
 bbf.thesovrn.com
 bbf2haqcoqw.eskimi.com
+bbg-img.bwbx.io
 bbgmedia.turtl.co
 bbgmktg.turtl.co
 bbguns4less.pushcrew.com
@@ -36094,6 +36099,7 @@ mobile-cdn.vizury.com
 mobile-contacts.zoominfo.com
 mobile-demo.outbrain.com
 mobile-eum.appdynamics.com
+mobile-img.bwbx.io
 mobile-integration.researchnow.com
 mobile-push.api.appdynamics.com
 mobile-sdk-api.intercom.io
@@ -39345,6 +39351,7 @@ origin-aem6preprod.sapient.com
 origin-app-ab10.marketo.com
 origin-app-guse4001.marketo.com
 origin-app-gusw1st001.marketo.com
+origin-assets.bwbx.io
 origin-auth.epsilon.com
 origin-az1.qualtrics.com
 origin-cdn.zenapse.com
@@ -48961,6 +48968,7 @@ stageweb.vizury.com
 staging-29cm.rmp-portal.moloco.com
 staging-accounts.bighappy.co
 staging-app.insent.ai
+staging-assets.bwbx.io
 staging-auth.showmore.cc
 staging-balaan.rmp-portal.moloco.com
 staging-be.insent.ai
@@ -49549,6 +49557,7 @@ stevenspointjournal.localiq.com
 stfe.latestly.com
 stg-abplus.persado.com
 stg-agw-server.persado.com
+stg-assets.bwbx.io
 stg-az-abplus.persado.com
 stg-az-connect.persado.com
 stg-az-ronin-minio.persado.com
