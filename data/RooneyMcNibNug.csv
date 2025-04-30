@@ -2681,6 +2681,7 @@
 2a502b3cae49d420ef978a78a.litix.io
 2a57j78g1ruqpkr7f4dlesgu6ph08ny.api-yellow.aisdr.com
 2a57j78kno9625niimzv5i3ywjyq5bm.api.aisdr.com
+2a57j78lztda5joakq20jlljwrivtpe.wisepops.com
 2aa6ced55999720ccc9bf30a432e3310.nrb.footprintdns.com
 2adebayor.eskimi.com
 2adfd6956f2548bec4bee7100e0a7900.nrb.footprintdns.com
@@ -7140,6 +7141,8 @@ activity-api.alfa.smartlook.com
 activity.bigo.tv
 activity.brand.stg.markmonitor.com
 activity.umeng.com
+activity.wisepops.com
+activity2.wisepops.com
 activityresponse.epsilon.com
 acton.neverbounce.com
 actorsshop.net
@@ -8263,6 +8266,7 @@ affiliate2brightsparks.evyy.net
 affiliatebuilder.letsetcom.io
 affiliates.artisan.co
 affiliates.clickfunnels.com
+affiliates.jasper.ai
 affiliates.leadberry.com
 affinion-api.exponea.com
 affinion-cdn.exponea.com
@@ -9827,6 +9831,7 @@ analytics.egnyte.com
 analytics.elfsight.com
 analytics.elsevier.com
 analytics.emailaptitude.com
+analytics.eu.on24.com
 analytics.eu.umami.is
 analytics.evehome.com
 analytics.evidon.com
@@ -9942,6 +9947,7 @@ analytics2orig.m2.ai
 analytics8.mktoweb.com
 analyticsapi.paperflite.com
 analyticsbiglots.everestengagement.com
+analyticsdev.on24.com
 analyticselb.localytics.com
 analyticsext.chase.com
 analyticsperf-analytics.indeed.com
@@ -11079,10 +11085,14 @@ app-sj13.marketo.com
 app-sj14.marketo.com
 app-sj15.marketo.com
 app-sj16.marketo.com
+app-smoothcode-test.wisepops.com
 app-smtp-beta.brevo.com
 app-smtp.brevo.com
 app-sofiiamarusyk.aisdr.com
+app-staging-alt.jasper.ai
 app-staging-assets.simpli.fi
+app-staging-us2.jasper.ai
+app-staging.jasper.ai
 app-staging.simpli.fi
 app-staging.sprig.com
 app-staging.staging.sprig.com
@@ -11095,6 +11105,7 @@ app-store-bo.brevo.com
 app-store.brevo.com
 app-test.labs.livesession.io
 app-uae.aislelabs.com
+app-us2.jasper.ai
 app-viktormalinovskyi.aisdr.com
 app-vox-uat.publicis.sapient.com
 app-vox.publicis.sapient.com
@@ -11102,6 +11113,7 @@ app-wdps-okta-inc-parents-alt12.hackday.sandbox.superawesome.com
 app-wdps-okta-inc-parents-alt12.metrics.hackday.sandbox.superawesome.com
 app-wdps-okta-inc-parents.hackday.sandbox.superawesome.com
 app-wdps-okta-inc-parentss.hackday.sandbox.superawesome.com
+app-wisepops-test.wisepops.com
 app-yaroslavbilokin.aisdr.com
 app-yuliiamaksymyuk.aisdr.com
 app.11x.ai
@@ -11211,6 +11223,7 @@ app.intellimize.com
 app.intercom.io
 app.intergient.com
 app.izenda.com
+app.jasper.ai
 app.justuno.com
 app.khoros.com
 app.kompyte.com
@@ -11338,6 +11351,7 @@ app.vibetrace.com
 app.viralsweep.com
 app.vwo.com
 app.wisepops.com
+app.wisepops.test.wisepops.com
 app.woopra.com
 app.yieldify.com
 app.youeye.com
@@ -11816,6 +11830,7 @@ arsa.toluna.com
 arsesaworldgis.os.tc
 art.attn.tv
 art.ayima.com
+art.jasper.ai
 artbeads.attn.tv
 artefactbrazil-sandbox.palantirfoundry.com
 artesands-us.attn.tv
@@ -13823,6 +13838,9 @@ bestsushiever.com
 beta-admin.viafoura.com
 beta-app.infusionsoft.com
 beta-panel.userguiding.com
+beta-prod-us2.jasper.ai
+beta-staging-us2.jasper.ai
+beta-staging.jasper.ai
 beta.1800contacts.com.ssopt.net
 beta.adskeeper.co.uk
 beta.advermind.com
@@ -13848,6 +13866,7 @@ beta.google.anaplan.com
 beta.infusionsoft.com
 beta.inrix.com
 beta.insightrocket.com
+beta.jasper.ai
 beta.kr.mosi.api.inrix.com
 beta.na.mosi.api.inrix.com
 beta.outbrain.com
@@ -14072,6 +14091,7 @@ bi.publicisgroupe.net
 bi1.epsilon.com
 bibblio.org
 bible-du-vtc.clickfunnels.com
+biblioteca.jasper.ai
 bicoreporting.epsilon.com
 bicyclerentalnow.com
 bicycleselectric.privy.com
@@ -14388,6 +14408,7 @@ blog.indicative.com
 blog.infusionsoft.com
 blog.insent.ai
 blog.intercom.io
+blog.jasper.ai
 blog.jumpshot.com
 blog.kochava.com
 blog.mailerlite.com
@@ -16471,6 +16492,7 @@ cdn.ir.tencent.com
 cdn.ish.atdmt.com
 cdn.ispot.tv
 cdn.j.gdev.exponea.com
+cdn.jasper.ai
 cdn.jivox.com
 cdn.journey.roojoom.com
 cdn.labs.livesession.io
@@ -16993,6 +17015,7 @@ checkinonlinehere.com
 checkip.justwatch.com
 checkmytrip.app.link
 checkout-improvements.layer.getwarmly.com
+checkout.wisepops.com
 checkout51.app.link
 checkpointsoftwaretechnologiesincavanan.widget.insent.ai
 checks.roojoom.com
@@ -17959,11 +17982,13 @@ community.convertkit.com
 community.exponea.com
 community.getclicky.com
 community.infusionsoft.com
+community.jasper.ai
 community.khoros.com
 community.precisely.com
 community.regie.ai
 community.sprinklr.com
 community.stage.anaplan.com
+community.wisepops.com
 community.zappi.io
 community.zmags.com
 community.zoominfo.com
@@ -18228,6 +18253,7 @@ content.cxense.com
 content.eskimi.com
 content.everyonesocial.com
 content.evrythng.com
+content.jasper.ai
 content.khoros.com
 content.locatorx.com
 content.neoreach.com
@@ -20820,6 +20846,7 @@ demo.greenhouse.us.deptagency.com
 demo.haiku.persado.com
 demo.infusionsoft.com
 demo.inrix.com
+demo.jasper.ai
 demo.localiq.com
 demo.omeda.com
 demo.optable.co
@@ -20913,6 +20940,7 @@ design-system-v10.prism.cloud.precisely.com
 design-system-v9-stg.prism.cloud.precisely.com
 design-system-v9.prism.cloud.precisely.com
 design-system.containers-drew.simpli.fi
+design-system.jasper.ai
 design-system.prism.cloud.precisely.com
 design.bighappy.co
 design.infusionsoft.com
@@ -21249,6 +21277,7 @@ developers.foursquare.com
 developers.gravyanalytics.com
 developers.heap.io
 developers.intercom.io
+developers.jasper.ai
 developers.linksense.io
 developers.locatorx.com
 developers.monkeydata.com
@@ -21387,6 +21416,7 @@ diaadia.os.tc
 diag.atdmt.com
 diageo-fd-14.evrythng.com
 diageo.sprinklr.com
+diagrams.jasper.ai
 diah1987.eskimi.com
 dialer-backend.us2.salesloft.com
 dialer.cience.com
@@ -22867,6 +22897,7 @@ econnect.epsilon.com
 economist.turtl.co
 econtrol.publicisgroupe.net
 ecooltra.app.link
+ecosystem.jasper.ai
 ecotel.bitrix24.com
 ecoustics.channelsight.com
 ecoverage.pingpost.com
@@ -23311,6 +23342,7 @@ email.track.anbernic.com
 email.turn.com
 email.upsell-apps.com
 email.viafoura.com
+email.wisepops.com
 email.yuzu.co
 email.zingtree.com
 emailaptitude.com
@@ -26898,6 +26930,7 @@ fullthrottle.ai
 fultoncountyga.co1.qualtrics.com
 fun-21-blackjack.tresensa.com
 fun.eskimi.com
+fun.jasper.ai
 functionpoint.evergage.com
 fundera.getambassador.com
 fundthrough.grsm.io
@@ -27022,6 +27055,7 @@ g.conviva.com
 g.cwkuki.com
 g.eskimi.com
 g.ezoic.net
+g.jasper.ai
 g.sjc2.turn.com
 g0v5d7k3l0.mailerlite.com
 g0y3z8r5oz.eoapxl.com
@@ -27552,6 +27586,7 @@ get.smartlook.com
 get.sprig.com
 get.streak.com
 get.urbanairship.com
+get.wisepops.com
 get.zappi.io
 get86qmkko.eoapxl.com
 getahead.fedexuat.epsilon.com
@@ -28112,6 +28147,7 @@ gqa.app.gdev.exponea.com
 gqa.cdn.gdev.exponea.com
 gqae.hit.gemius.pl
 gql.swydo.com
+gqlcdn.jasper.ai
 gr-1-1-10-u0-br1.sjc2.turn.com
 gr-1-1-10-u0-br2.sjc2.turn.com
 gr-1-1-10-u1-br1.sjc2.turn.com
@@ -28208,6 +28244,7 @@ graphql-cdn-slplatform.liquidus.net
 graphql-slplatform.liquidus.net
 graphql-stage.wurl.com
 graphql-widget.mailmunch.co
+graphql.jasper.ai
 graphql.mailmunch.co
 graphs.ops.callrail.com
 gratkaadpl.hit.gemius.pl
@@ -28872,6 +28909,7 @@ hello.apps.randi.adswizz.com
 hello.factual.com
 hello.heap.io
 hello.ispot.tv
+hello.jasper.ai
 hello.khoros.com
 hello.kochava.com
 hello.mediamath.com
@@ -28915,6 +28953,7 @@ help.eskimi.com
 help.heap.io
 help.infusionsoft.com
 help.insent.ai
+help.jasper.ai
 help.letimpact.com
 help.letsetcom.io
 help.lionbox.publicisgroupe.net
@@ -29552,6 +29591,7 @@ i.clean.gg
 i.cocospy.com
 i.hit.gemius.pl
 i.idio.co
+i.jasper.ai
 i.matheranalytics.com
 i.olark.com
 i.onthe.io
@@ -29718,6 +29758,7 @@ id.popin.cc
 id.stage.ad.gt
 id.tencent.com
 id.toluna.com
+id.wisepops.com
 id2.hadron.ad.gt
 id43.mailerlite.com
 idb-media.buzzstream.com
@@ -29941,6 +29982,7 @@ images.ctfassets.com
 images.e2ma.net
 images.eskimi.com
 images.iadvize.com
+images.jasper.ai
 images.layer.getwarmly.com
 images.liquidus.net
 images.newsletters.zetaglobal.com
@@ -30217,6 +30259,7 @@ info.iadvize.com
 info.infogix.com
 info.infutor.com
 info.iprospect.com
+info.jasper.ai
 info.jivox.com
 info.krux.com
 info.localiq.com
@@ -30776,6 +30819,9 @@ ipl2xbja-android.mobile-sdk-api.intercom.io
 ipl2xbja-ios.mobile-sdk-api.intercom.io
 ipla.hit.gemius.pl
 iplusonline.bitrix24.com
+ipn-wisepops-test.wisepops.com
+ipn.wisepops.com
+ipn.wisepops.test.wisepops.com
 ipp7.app.link
 iprint.chi.publicisgroupe.net
 iprintny.ny.publicisgroupe.net
@@ -31109,6 +31155,7 @@ jaredco.app.link
 jasonh.clickfunnels.com
 jasonhackonline.clickfunnels.com
 jasonsimontacchi.lockerdome.com
+jasper.ai
 jaunimorei.bitrix24.com
 java.stimulsoft.com
 javaditex.matomo.cloud
@@ -31234,6 +31281,7 @@ jill43acbd.clickfunnels.com
 jim01.pool.sv2.247-inc.net
 jimzaspel.clickfunnels.com
 jingadala.storehippo.com
+jingine-docs.jasper.ai
 jingles-content.adswizz.com
 jingles-content.devel.adswizz.com
 jinn.bitrix24.com
@@ -32335,6 +32383,7 @@ lab.abtasty.com
 lab.ams.trovi.com
 lab.atdmt.com
 lab.cux.io
+lab.jasper.ai
 lab.sunnyreports.com
 lab.trovi.com
 lab.va.trovi.com
@@ -32690,6 +32739,7 @@ learn.getambassador.com
 learn.heap.io
 learn.hginsights.com
 learn.infusionsoft.com
+learn.jasper.ai
 learn.kompyte.com
 learn.lityx.com
 learn.mediamath.com
@@ -32748,6 +32798,7 @@ legal-docs.superawesome.com
 legal.appdynamics.com
 legal.calldorado.com
 legal.convertkit.com
+legal.jasper.ai
 legal500.pushcrew.com
 legaltoolbox.outbrain.com
 leganerd.os.tc
@@ -32764,6 +32815,7 @@ leinc.clickfunnels.com
 leishersupholsterers.privy.com
 lektech65.eskimi.com
 lelivrosone.os.tc
+lemlist-tracking.wisepops.com
 lemlist.optimonk.com
 lemondrone.moengage.com
 lemoyne.co1.qualtrics.com
@@ -34045,7 +34097,9 @@ magento-analytics.com
 magento.bronto.com
 magento.gigya.com
 magento.punchtab.com
+magento1.wisepops.com
 magento2.econda.de
+magento2.wisepops.com
 magic-monsters.tresensa.com
 magicbox.bk.tencent.com
 magichub2.trackonomics.net
@@ -35417,6 +35471,7 @@ microsite-a.gen-ai-demonstration.publicisgroupe.net
 microsite-b.gen-ai-demonstration.publicisgroupe.net
 microsites.matchcraft.com
 microsoft-de.evyy.net
+microsoft-office-add-in.jasper.ai
 microsoft-partner.palantirfoundry.com
 microsoft-row.evyy.net
 microsoft-uk.evyy.net
@@ -37453,6 +37508,7 @@ newsleader.localiq.com
 newsletter.appboy.com
 newsletter.bloomreach.com
 newsletter.outbrain.com
+newsletter.wisepops.com
 newsone.moengage.com
 newspress.localiq.com
 newsquest.localiq.com
@@ -38294,6 +38350,7 @@ numberanalytics.recurly.com
 nume.moengage.com
 nundovlihh.eoapxl.com
 nuodb.mktoweb.com
+nuoobox.wisepops.com
 nupsych.qualtrics.com
 nurhumairoh.eskimi.com
 nurofen.channelsight.com
@@ -38924,6 +38981,7 @@ offthehookrecruiting.lockerdome.com
 offthewire.os.tc
 ofpof.os.tc
 ofrm.maillist-manage.com
+og.jasper.ai
 og.olark.com
 og670.infusionsoft.com
 ogaj.maillist-manage.com
@@ -39907,6 +39965,7 @@ partners.ids.ad.gt
 partners.ids.dev.ad.gt
 partners.ids.stage.ad.gt
 partners.infusionsoft.com
+partners.jasper.ai
 partners.klaviyo.com
 partners.livesession.io
 partners.olark.com
@@ -40278,6 +40337,7 @@ personalgrowth.infusionsoft.com
 personalization.bloomberg.com
 personalization.cxense.com
 personalization.demandbase.com
+personalized-landing-pages.jasper.ai
 personalized-message-902235884.layer.getwarmly.com
 personalized-message.layer.getwarmly.com
 personaltrainertulsa.clickfunnels.com
@@ -40742,6 +40802,7 @@ player.tritondigital.com
 playercdn.jivox.com
 playground-media.simpli.fi
 playground.embeddables.com
+playground.jasper.ai
 playground.rmp-ml.moloco.com
 playground.widespace.com
 playworksdigital-playworks-1.plex.wurl.com
@@ -41212,6 +41273,7 @@ popup.zoominfo.com
 popup2.lifterapps.com
 popup3.lifterapps.com
 popups.layer.getwarmly.com
+popups.wisepops.com
 popupsmart.com
 porschepenskemotorsport.palantirfoundry.com
 port80adge.hit.gemius.pl
@@ -41593,6 +41655,7 @@ preview-wayfair.mcm-portal.moloco.com
 preview-wconcept.rmp-portal.moloco.com
 preview-weee-test.rmp-portal.moloco.com
 preview-weee.rmp-portal.moloco.com
+preview-wisepops-test.wisepops.com
 preview-www.pendo.io
 preview-yogiyo.rmp-portal.moloco.com
 preview.adtheorent.com
@@ -41600,6 +41663,7 @@ preview.convertkit.com
 preview.embeddables.com
 preview.geoframe.eltoro.com
 preview.iperceptions.com
+preview.jasper.ai
 preview.liquidus.net
 preview.mailerlite.com
 preview.sidetrade.com
@@ -41668,6 +41732,7 @@ privacy.evidon.com
 privacy.feathr.co
 privacy.iadvize.com
 privacy.infutor.com
+privacy.jasper.ai
 privacy.tapad.com
 privacy.userreport.com
 privacy.zoominfo.com
@@ -43456,6 +43521,7 @@ reenyogurt.eskimi.com
 reesespacman.tresensa.com
 ref.calldorado.com
 ref.freeview.ngtv.io
+ref.jasper.ai
 ref.medium.ngtv.io
 ref.monitor.ngtv.io
 ref.prism.wmcdp.io
@@ -46803,6 +46869,7 @@ secure.fusion92.com
 secure.getclicky.com
 secure.getpin.com
 secure.incremental-auth.layer.getwarmly.com
+secure.jasper.ai
 secure.lijit.com
 secure.linksynergy.com
 secure.m2-cs-answer-image-upload.layer.getwarmly.com
@@ -46854,6 +46921,7 @@ securitiai.widget.insent.ai
 security-jobs.techtarget.com
 security-service-scanner-dev.sec.exponea.com
 security.blogs.techtarget.com
+security.jasper.ai
 security.tencent.com
 security.warmly.ai
 securitycompass.api.insent.ai
@@ -47261,6 +47329,7 @@ sh.wagbridge.wsq.umeng.com
 sh1.brevo.com
 sh331.infusionsoft.com
 sha1.zumigo.com
+shadow-generation-demo.jasper.ai
 shadynai.eskimi.com
 shadynaifsd.eskimi.com
 shahil01.eskimi.com
@@ -47513,6 +47582,7 @@ signals.advermind.com
 signature.cience.com
 signature.publicisgroupe.net
 signatureanalyzer.quanticmind.com
+signatures.jasper.ai
 signatures.salesloft.com
 signatures.smartbugmedia.com
 signatures.zoominfo.com
@@ -48355,6 +48425,7 @@ social.conviva.com
 social.cxense.com
 social.growsumo.com
 social.gumgum.com
+social.jasper.ai
 social.justuno.com
 social.netelixir.com
 social.sether.com
@@ -49184,6 +49255,7 @@ start-0.olark.com
 start-1.olark.com
 start-2.olark.com
 start.aisdr.com
+start.jasper.ai
 start.refuel4.com
 start.sigopt.com
 start.streak.com
@@ -49467,6 +49539,7 @@ status.intercom.io
 status.internal.outbrain.com
 status.ip-api.com
 status.ipstack.com
+status.jasper.ai
 status.justuno.com
 status.keen.io
 status.khoros.com
@@ -49717,6 +49790,7 @@ story-demo.zappi.io
 story.dev.onkakao.net
 storyads.dlvr.it
 storybook.designsystem.anaplan.com
+storybook.jasper.ai
 storybook.swydo.com
 storychief.grsm.io
 storyscaping.sapient.com
@@ -50012,6 +50086,7 @@ support.storehippo.com
 support.turtl.co
 support.umeng.com
 support.webcollage.net
+support.wisepops.com
 support.wurl.com
 support.zappi.io
 support1.publicisgroupe.net
@@ -50165,6 +50240,7 @@ sw.everestengagement.com
 sw.turtl.co
 sw220.infusionsoft.com
 sw8ssl.wdsbx.publicisgroupe.net
+swag.jasper.ai
 swagbucksde.evyy.net
 swaggerrapper.eskimi.com
 swampland.blogs.getclicky.com
@@ -50394,6 +50470,7 @@ t.getgist.com
 t.growthbook.io
 t.ifly.southwest.com
 t.iluv.southwest.com
+t.jasper.ai
 t.learning.publicisgroupe.com
 t.mail.publicisgroupe.com
 t.mateti.net
@@ -51004,6 +51081,7 @@ teamviewer.comengine.adzerk.net
 teamwave.grsm.io
 teamwork.smartbugmedia.com
 tecake.pushcrew.com
+tech-docs.jasper.ai
 tech-revenue.trackdrive.net
 tech.adstage.io
 tech.cience.com
@@ -51401,6 +51479,7 @@ testcertise.corp.epsilon.com
 testchannel.groundtruth.com
 testconnector.wurl.com
 testcrt.qa.gdev.exponea.com
+testcss-wisepops-test.wisepops.com
 testcustomdomain.staging.litix.io
 testeee.storehippo.com
 testforms.infusionsoft.com
@@ -52482,6 +52561,7 @@ tracking.tidio.com
 tracking.traffective.com
 tracking.usp.ai
 tracking.vindicosuite.com
+tracking.wisepops.com
 tracking.zignallabs.com
 tracking.zingtree.com
 tracking2.vindicosuite.com
@@ -52742,6 +52822,7 @@ trust.satisfilabs.com
 trust.simpli.fi
 trust.sprig.com
 trust.turn.com
+trust.wisepops.com
 trust.zappi.io
 trust.zingtree.com
 trustbankinc.mktoweb.com
@@ -52756,6 +52837,7 @@ try.pricespider.com
 try.raygun.io
 try.sprig.com
 try.warmly.ai
+try.wisepops.com
 try.wurl.com
 try.zingtree.com
 trybloc.mktoweb.com
@@ -53576,6 +53658,7 @@ unityads.unity3d.com
 univ.estat.com
 univar.palantirfoundry.com
 univatar.putler.com
+universal-sidebar.jasper.ai
 universal.iperceptions.com
 universalcoachinstitute.pushcrew.com
 universaltennis.blueconic.net
@@ -53682,6 +53765,7 @@ upload.appdynamics.com
 upload.dynamicweather.cloud.precisely.com
 upload.eskimi.com
 upload.fp.measure.office.com
+upload.jasper.ai
 upload.layer.getwarmly.com
 upload.sde.birst.com
 upload.zoined.com
@@ -55111,6 +55195,7 @@ voice-recommender.apps.randi.adswizz.com
 voice.247-inc.net
 voice.dynatrace.com
 voice.eskimi.com
+voice.jasper.ai
 voiceai.cience.com
 voicebootcamp.bitrix24.com
 voicenger.app.link
@@ -56356,6 +56441,9 @@ wisdom-monitoring.integrations.exponea.com
 wisdomfoundation.bitrix24.com
 wisechoice.clickfunnels.com
 wisely-archangelking.eskimi.com
+wisepops-test.wisepops.com
+wisepops.com
+wisepops.test.wisepops.com
 wish.razorfish.com
 wishbone.tresensa.com
 wishes.publicisgroupe.net
@@ -56568,6 +56656,7 @@ wpa.palantirfoundry.com
 wpadmin.outbrain.com
 wpcareyschool.qualtrics.com
 wpdev.versium.com
+wpengine.wisepops.com
 wpke-lb.techtarget.com
 wpm.eccmp.com
 wpmagento.scarabresearch.com
@@ -58597,6 +58686,7 @@ www.izenda.com
 www.j.fpjs.io
 www.jabber.infusionsoft.com
 www.jamf.maritz.com
+www.jasper.ai
 www.jcpapps-citrix.epsilon.com
 www.jcpapps-ctirix.epsilon.com
 www.jensonusa.com.ssopt.net
@@ -60823,6 +60913,7 @@ xmpp.publicisgroupe.net
 xmq74qkj6c.eoapxl.com
 xmqwj66motw.eskimi.com
 xmradio.webcollage.net
+xn--05qr5d24k11cgu7bo42a1sa.jasper.ai
 xn--ancient-orgns-kpjb.os.tc
 xn--coreio24horas-y27f.os.tc
 xn--correi24horas-1kd.os.tc
