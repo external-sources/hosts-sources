@@ -46,10 +46,18 @@
 23.0.252.129.23.rpz-client-ip	CNAME	rpz-drop.
 24.0.100.137.23.rpz-ip	CNAME	.
 24.0.100.137.23.rpz-client-ip	CNAME	rpz-drop.
+24.0.240.146.23.rpz-ip	CNAME	.
+24.0.240.146.23.rpz-client-ip	CNAME	rpz-drop.
+24.0.242.146.23.rpz-ip	CNAME	.
+24.0.242.146.23.rpz-client-ip	CNAME	rpz-drop.
+24.0.144.148.23.rpz-ip	CNAME	.
+24.0.144.148.23.rpz-client-ip	CNAME	rpz-drop.
 24.0.152.164.23.rpz-ip	CNAME	.
 24.0.152.164.23.rpz-client-ip	CNAME	rpz-drop.
 24.0.153.164.23.rpz-ip	CNAME	.
 24.0.153.164.23.rpz-client-ip	CNAME	rpz-drop.
+24.0.112.172.23.rpz-ip	CNAME	.
+24.0.112.172.23.rpz-client-ip	CNAME	rpz-drop.
 24.0.216.172.23.rpz-ip	CNAME	.
 24.0.216.172.23.rpz-client-ip	CNAME	rpz-drop.
 19.0.128.235.23.rpz-ip	CNAME	.
@@ -420,6 +428,8 @@
 24.0.242.246.77.rpz-client-ip	CNAME	rpz-drop.
 24.0.143.40.78.rpz-ip	CNAME	.
 24.0.143.40.78.rpz-client-ip	CNAME	rpz-drop.
+24.0.140.153.78.rpz-ip	CNAME	.
+24.0.140.153.78.rpz-client-ip	CNAME	rpz-drop.
 24.0.192.137.79.rpz-ip	CNAME	.
 24.0.192.137.79.rpz-client-ip	CNAME	rpz-drop.
 24.0.67.141.79.rpz-ip	CNAME	.
@@ -546,8 +556,6 @@
 24.0.79.251.87.rpz-client-ip	CNAME	rpz-drop.
 24.0.228.209.88.rpz-ip	CNAME	.
 24.0.228.209.88.rpz-client-ip	CNAME	rpz-drop.
-24.0.63.210.88.rpz-ip	CNAME	.
-24.0.63.210.88.rpz-client-ip	CNAME	rpz-drop.
 24.0.48.214.88.rpz-ip	CNAME	.
 24.0.48.214.88.rpz-client-ip	CNAME	rpz-drop.
 24.0.43.32.89.rpz-ip	CNAME	.
@@ -956,8 +964,6 @@
 22.0.56.255.103.rpz-client-ip	CNAME	rpz-drop.
 24.0.1.37.104.rpz-ip	CNAME	.
 24.0.1.37.104.rpz-client-ip	CNAME	rpz-drop.
-24.0.4.37.104.rpz-ip	CNAME	.
-24.0.4.37.104.rpz-client-ip	CNAME	rpz-drop.
 22.0.228.193.104.rpz-ip	CNAME	.
 22.0.228.193.104.rpz-client-ip	CNAME	rpz-drop.
 21.0.56.244.104.rpz-ip	CNAME	.
@@ -1324,8 +1330,6 @@
 16.0.0.233.155.rpz-client-ip	CNAME	rpz-drop.
 16.0.0.249.155.rpz-ip	CNAME	.
 16.0.0.249.155.rpz-client-ip	CNAME	rpz-drop.
-16.0.0.96.156.rpz-ip	CNAME	.
-16.0.0.96.156.rpz-client-ip	CNAME	rpz-drop.
 23.0.182.20.157.rpz-ip	CNAME	.
 23.0.182.20.157.rpz-client-ip	CNAME	rpz-drop.
 16.0.0.115.157.rpz-ip	CNAME	.
