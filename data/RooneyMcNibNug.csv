@@ -7574,6 +7574,7 @@ admin.quiz.feed.xyz
 admin.rmp-internal.moloco.com
 admin.socialannex.com
 admin.spotim.market
+admin.staging.cloud.somin.ai
 admin.staging.creators.neoreach.com
 admin.staging.wurl.com
 admin.stg.automate.precisely.com
@@ -10453,6 +10454,7 @@ api-dev2.social.conviva.com
 api-dmytroomelian.aisdr.com
 api-docs.mouseflow.com
 api-docs.sprinklr.com
+api-ds.somin.ai
 api-ean-dev.simpli.fi
 api-emea.precisely.com
 api-engagement.bloomreach.com
@@ -10622,6 +10624,7 @@ api.cience.com
 api.ciuvo.com
 api.cloud.figure-eight.com
 api.cloud.precisely.com
+api.cloud.somin.ai
 api.cloud.tencent.com
 api.cname.static.gdev.exponea.com
 api.cname.static.qa.gdev.exponea.com
@@ -10659,6 +10662,7 @@ api.dmp.otm-r.com
 api.dolead.com
 api.doorboost.com
 api.driftt.com
+api.ds.somin.ai
 api.dstillery.com
 api.dynamicyield.com
 api.eccmp.com
@@ -10743,6 +10747,7 @@ api.jivox.com
 api.journey.acquia.com
 api.kampyle.com
 api.kochava.com
+api.koli.somin.ai
 api.ksv.staging.superawesome.com
 api.ksv.superawesome.com
 api.kws.staging.superawesome.com
@@ -10906,6 +10911,7 @@ api.spy.pet
 api.srv.roojoom.com
 api.ssp.omnitagjs.com
 api.stage.gimbal.com
+api.staging.cloud.somin.ai
 api.staging.found.ee
 api.staging.growthloop.com
 api.staging.identitymatrix.ai
@@ -11928,6 +11934,7 @@ artifact-repository.dqcore.cloud.precisely.com
 artifactory.infogix.com
 artifactory.mediamath.com
 artifactory.sisense.com
+artifactory.somin.ai
 artifacts.dev.kochava.com
 artifactuprising.attn.tv
 artinurpatma.eskimi.com
@@ -14779,6 +14786,7 @@ bonus.letx.co
 boo.app.link
 book.identitymatrix.ai
 book.piano.io
+book.somin.ai
 book.trackdrive.net
 bookafy.links.growsumo.com
 booking-tables.com
@@ -15895,6 +15903,7 @@ calamos.collect.igodigital.com
 calamp.saas.appdynamics.com
 calc.loyaltypath.com
 calculatesymbols.com
+calculator.somin.ai
 calculoexato.os.tc
 calculus.palantirfoundry.com
 caldera.balihoo.com
@@ -15912,6 +15921,7 @@ calla-container-registry.palantirfoundry.com
 calla-containers.palantirfoundry.com
 calla.palantirfoundry.com
 callanllc.iad1.qualtrics.com
+callback.cloud.somin.ai
 callback.towerdata.com
 calldorado.com
 caller.localiq.com
@@ -16418,18 +16428,23 @@ cdm-beta.zylotech.com
 cdm.zylolabs.com
 cdm.zylotech.com
 cdn-0.ezojs.com
+cdn-1.cloud.somin.ai
 cdn-1.convertexperiments.com
 cdn-1.ezojs.com
+cdn-2.cloud.somin.ai
 cdn-2.convertexperiments.com
 cdn-2.ezojs.com
+cdn-3.cloud.somin.ai
 cdn-3.convertexperiments.com
 cdn-3.ezojs.com
+cdn-4.cloud.somin.ai
 cdn-4.convertexperiments.com
 cdn-4.ezojs.com
 cdn-5.convertexperiments.com
 cdn-5.ezojs.com
 cdn-6.ezojs.com
 cdn-7.ezojs.com
+cdn-a1.cloud.somin.ai
 cdn-account-data.optimonk.com
 cdn-account.optimonk.com
 cdn-admin-a.eu.zmags.com
@@ -17198,6 +17213,7 @@ chat-terminator.streamalive.com
 chat-uat.streamalive.com
 chat-web.tools.randi.adswizz.com
 chat.cience.com
+chat.cloud.somin.ai
 chat.cxense.com
 chat.eskimi.com
 chat.outbrain.com
@@ -17811,11 +17827,13 @@ cloud.shoppertrak.com
 cloud.smartrssfeed.webmarked.net
 cloud.smartrssfeeds.webmarked.net
 cloud.smartwishlist.webmarked.net
+cloud.somin.ai
 cloud.stimulsoft.com
 cloud.tencent.com
 cloud.turn.com
 cloud.umami.is
 cloud.zuant.com
+cloud2.somin.ai
 cloudability-stg.platform.cloud.precisely.com
 cloudability.platform.cloud.precisely.com
 cloudads.net
@@ -18330,6 +18348,7 @@ confluence.omeda.com
 confluence.outbrain.com
 confluence.sailthru.com
 confluence.smartly.io
+confluence.somin.ai
 confluence.tritondigital.com
 confluence.wingify.com
 conforama-es.eulerian.net
@@ -19111,6 +19130,7 @@ covid-19visitwww.bambee.grsm.io
 covid19-scoreboard.unacast.com
 covid19.palantirfoundry.com
 covid19.predic.io
+covid19.somin.ai
 cowboykeith21.clickfunnels.com
 cowork7x24.app.link
 cox.adswizz.com
@@ -20112,6 +20132,7 @@ data.book.getclicky.com
 data.choice.atdmt.com
 data.cience.com
 data.circulate.com
+data.cloud.somin.ai
 data.co1.qualtrics.com
 data.dev.mobile.pendo.io
 data.embeddables.com
@@ -21502,6 +21523,7 @@ dev.showmore.cc
 dev.simpli.fi
 dev.smartdata.precisely.com
 dev.soda.cloud.tencent.com
+dev.somin.ai
 dev.sprinklr.com
 dev.staging.superawesome.com
 dev.starcomww.com
@@ -28227,6 +28249,7 @@ gitlab.main-layerfile-update-company-size.layer.getwarmly.com
 gitlab.maxymiser.net
 gitlab.service.contentanalyticsinc.com
 gitlab.services.contentanalyticsinc.com
+gitlab.somin.ai
 gitlab.storetail.io
 giusydigirolamo.clickfunnels.com
 givefaithlife.privy.com
@@ -29412,6 +29435,7 @@ hello.precisely.com
 hello.randi.adswizz.com
 hello.rec.blue.cdtapps.com
 hello.sandbox.zappi.io
+hello.somin.ai
 hello.trackdrive.net
 hello.zetaglobal.com
 hello.zoominfo.com
@@ -29994,6 +30018,7 @@ hub-analytics.terminus.services
 hub-dev.zenapse.com
 hub.6sense.com
 hub.app.link
+hub.cloud.somin.ai
 hub.eproof.com
 hub.localiq.com
 hub.olark.com
@@ -30001,6 +30026,7 @@ hub.simpli.fi
 hub.sisense.com
 hub.smartly.io
 hub.sociabble.com
+hub.somin.ai
 hub.superawesome.com
 hub.viafoura.com
 hub.vizury.com
@@ -30733,6 +30759,7 @@ infinigrow.com
 infinitustw.showmore.cc
 infinity-tv-by.accengage.net
 infinityspices.storehippo.com
+influence.somin.ai
 influencive.clickfunnels.com
 info.1010data.com
 info.absolutdata.com
@@ -31699,6 +31726,7 @@ jaywoolwine.clickfunnels.com
 jazzguitarlessons.pushcrew.com
 jb121.infusionsoft.com
 jb3t2.eskimi.com
+jbhub.somin.ai
 jbn.blueconic.net
 jbrm.app.link
 jc-whitney.evyy.net
@@ -34200,6 +34228,8 @@ lp.persado.com
 lp.roojoom.com
 lp.sisense.com
 lp.smartlook.com
+lp.somin.ai
+lp.staging.somin.ai
 lp.trovi.com
 lp.uk.deptagency.com
 lp.vwo.com
@@ -35973,6 +36003,7 @@ merchant.uat.syndigo.com
 merchants.viglink.com
 merck.epsilon.com
 merckit.palantirfoundry.com
+mercow.somin.ai
 mercury-demo.visa.epsilon.com
 mercury-prod.visa.epsilon.com
 mercury.feed.xyz
@@ -37106,7 +37137,10 @@ monitoring.uk.exponea.com
 monitoring.uplynk.com
 monitoring.us-central1.siem.exponea.com
 monitoring.us.exponea.com
+monitoring10-draftkingseu.pusher.com
 monitoring2.uplynk.com
+monitoring20-eu.pusher.com
+monitoring20-sa1.pusher.com
 monitoringdev.cloud.coveo.com
 monitronics.getambassador.com
 monkeeboy.matomo.cloud
@@ -37250,6 +37284,8 @@ mpulse-lt2.soasta.com
 mpulse-lt3.soasta.com
 mpulse.soasta.com
 mpurba.eskimi.com
+mq.cloud.somin.ai
+mq.somin.ai
 mq.tencent.com
 mqedu.qualtrics.com
 mqtt.sprinklr.com
@@ -39747,6 +39783,7 @@ ofertasdeempleo.pushcrew.com
 ofertasdtrabaj.os.tc
 oferty.gemius.pl
 offer.click.org
+offer.somin.ai
 offerdetails.clickfunnels.com
 offers.ciradar.com
 offers.factual.com
@@ -40371,6 +40408,7 @@ outping.callrail.com
 outrch.quantummetric.com
 outreach.eskimi.com
 outreach.pointinside.com
+outreach.somin.ai
 outside-tv-samsung-ca.samsung.wurl.com
 outside-tv.samsung.wurl.com
 outsidesummit.qualtrics.com
@@ -40393,6 +40431,7 @@ owa.inrix.com
 owa.m2-cs-card-enhancements-3785773790.layer.getwarmly.com
 owa.master-2902837937.layer.getwarmly.com
 owa.namecoach-add-name-pronunciation-to-profile-2742103787.layer.getwarmly.com
+owa.somin.ai
 owaz.maillist-manage.com
 owens-minor.palantirfoundry.com
 owenscorning.palantirfoundry.com
@@ -44046,6 +44085,8 @@ ra01.sjc2.turn.com
 ra01.turn.com
 raas.tencent.com
 raazwebcity.privy.com
+rabbit.cloud.somin.ai
+rabbit.koli.somin.ai
 rabbit.ops.callrail.com
 rabbit.pardot.com
 rabbitmq-sam.brandseye.com
@@ -44914,6 +44955,7 @@ research.absolutdata.com
 research.epsilon.com
 research.firstrain.com
 research.lightstep.com
+research.somin.ai
 research.urbanairship.com
 research.wingify.com
 research1.co1.qualtrics.com
@@ -45851,6 +45893,7 @@ s.pulseinsights.com
 s.punchtab.com
 s.qualtrics.com
 s.rfihub.com
+s.somin.ai
 s.spotim.market
 s.streak.com
 s.t.barnesandnoble.com
@@ -48481,6 +48524,7 @@ share.pingdom.com
 share.popin.cc
 share.riverbed.com
 share.sapient.com
+share.somin.ai
 share.stimulsoft.com
 share.streak.com
 share.vibetrace.com
@@ -49663,6 +49707,7 @@ solutions.dstillery.com
 solutionsgrantedinc.api.insent.ai
 solutionsgrantedinc.widget.insent.ai
 solveroftech.trackdrive.net
+somin.ai
 sompo-hd.palantirfoundry.com
 sompo-swt.palantirfoundry.com
 sompo.palantirfoundry.com
@@ -49729,6 +49774,7 @@ sonyuk.webcollage.net
 sonyus.webcollage.net
 soothing-rain.palantirfoundry.com
 sootoman.eskimi.com
+sopop.somin.ai
 soporte.olark.com
 sortable.api.insent.ai
 sortable.widget.insent.ai
@@ -50094,6 +50140,8 @@ st-use.dynamicyield.com
 st-usw2.dynamicyield.com
 st-www-4.pingdom.net
 st-www.dynamicyield.com
+st.api.cloud.somin.ai
+st.cloud.somin.ai
 st.getsitecontrol.com
 st.hit.gemius.pl
 st.palantirfoundry.com
@@ -50263,6 +50311,7 @@ staging.cdn.neoreach.com
 staging.cdn2.neoreach.com
 staging.centerfield.com
 staging.clients.neoreach.com
+staging.cloud.somin.ai
 staging.cmun.it
 staging.creators.neoreach.com
 staging.data-service.ispot.tv
@@ -50299,6 +50348,7 @@ staging.salesloft.com
 staging.seo.sandbox.adthrive.com
 staging.simpli.fi
 staging.smartbugmedia.com
+staging.somin.ai
 staging.spectrum.precisely.com
 staging.sprig.com
 staging.sprinklr.com
@@ -53017,6 +53067,7 @@ tig.vizury.com
 tigerlilyswimwear.btttag.com
 tigsports.blueconic.net
 tikker.neoreach.com
+tiktok.somin.ai
 tile-api.inrix.com
 tile-service.weather.microsoft.comengine.adzerk.net
 tiles.js.api.maps.yango.com
@@ -53038,6 +53089,7 @@ timecmemea.everestengagement.com
 timeconsumermarketing.everestengagement.com
 timefold-sandbox.palantirfoundry.com
 timenewsletters.everestengagement.com
+timeoff.somin.ai
 timeout.layer.getwarmly.com
 timesheets.publicisgroupe.net
 timesinternet.zumigo.com
@@ -54716,6 +54768,7 @@ ui.jpmchg2-dev.epsilon.com
 ui.jpmchg2-dr.epsilon.com
 ui.jpmchg2-qa.epsilon.com
 ui.jpmchg2.epsilon.com
+ui.mq.somin.ai
 ui.platformcentral.wip.247-inc.net
 ui.razorfish.com
 ui.superawesome.com
@@ -55041,6 +55094,7 @@ upshot.panamplify.com
 upside.app.link
 upslide.privy.com
 upso.maillist-manage.com
+upsource.somin.ai
 upstechnologydevelopment.palantirfoundry.com
 upswingpoker.pushcrew.com
 uptempo.io
@@ -55780,6 +55834,7 @@ v1q2r1f2r8.mailerlite.com
 v1w4.app.link
 v1z1m3j3l7.mailerlite.com
 v2.api.fpjs.io
+v2.callback.cloud.somin.ai
 v2.dc.yieldify.com
 v2.factual.com
 v2.kompyte.com
@@ -55793,6 +55848,7 @@ v2j3l8t3y3.mailerlite.com
 v3-i.viafoura.com
 v3.ads.mopub.com
 v3.brandseye.com
+v3.callback.cloud.somin.ai
 v3g6z6i8k1.mailerlite.com
 v3h9v8o2j8.mailerlite.com
 v4.vibetrace.com
@@ -56511,6 +56567,7 @@ voyage-prive-uk.eulerian.net
 voyage-prive.eulerian.net
 voyager-gateway.matching.us-west-2.k8s.aws.pricespider.com
 voyager-match-fixer.matching.us-west-2.k8s.aws.pricespider.com
+voyager.cloud.somin.ai
 voyager.matching.us-west-2.k8s.aws.pricespider.com
 voyagerspace.palantirfoundry.com
 voyages-sncf.eulerian.net
@@ -61261,6 +61318,7 @@ www.socialcode.com
 www.socialcodesz.com
 www.socialstandards.com
 www.socleversocial.com
+www.somin.ai
 www.sonar-int.ctc.epsilon.com
 www.sonar-int3.ctc.epsilon.com
 www.sonar-prod-tsas.epsilon.com
@@ -62103,6 +62161,7 @@ www3.omeda.com
 www3.outbrain.com
 www3.pendo.io
 www3.salesloft.com
+www3.somin.ai
 www3.zingtree.com
 www31.absolutdata.com
 www37.absolutdata.com
@@ -62638,6 +62697,7 @@ youthfootballlive.lockerdome.com
 youthinc.co1.qualtrics.com
 youtrack.dt00.net
 youtrack.librarything.com
+youtrack.somin.ai
 youtube.com.cmun.it
 youtube.imrworldwide.com
 youtube.movableink.com
