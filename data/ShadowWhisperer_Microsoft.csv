@@ -5,8 +5,6 @@ a-0003.a-msedge.net
 a-msedge.net
 a-ring-fallback.msedge.net
 a-ring.msedge.net
-a.config.skype.com
-a.lw.skype.com
 aad.cs.dds.microsoft.com
 aadrm.com
 access-point.cloudmessaging.edge.microsoft.com
@@ -29,13 +27,10 @@ api.addins.omex.office.net
 api.bing.com
 api.cdp.microsoft.com
 api.cognitive.microsoft.com
-api.flightproxy.skype.com
 api.flightproxy.teams.microsoft.com
 api.msn.com
 api.myaccount.microsoft.com
 api.mysignins.microsoft.com
-api.userstore.skype.com
-api3.cc.skype.com
 appexbingfinance.trafficmanager.net
 appexbingweather.trafficmanager.net
 appexeusprodweather.blob.core.windows.net
@@ -56,8 +51,6 @@ az598575.vo.msecnd.net
 azureedge.net
 b-msedge.net
 b-ring.msedge.net
-b.config.skype.com
-badwlas.skype.com
 bastion.azure.com
 beta.gateway.messenger.live.com
 bg.v4.emdl.ws.microsoft.com
@@ -78,7 +71,6 @@ c-bing-com.a-0001.a-msedge.net
 c-ring.msedge.net
 c-s.cms.ms.akadns.net
 c1-officeapps-15.cdn.office.net
-c1.skype.com
 c1h-excel-15.cdn.office.net
 c1h-onenote-15.cdn.office.net
 c1h-word-edit-15.cdn.office.net
@@ -127,7 +119,6 @@ co2.sls.microsoft.com
 collabrtc.officeapps.live.com
 common-us.onedrive.akadns.net
 common.online.office.com
-community.skype.com
 compass-ssl.xboxlive.com
 compatexchange.cloudapp.net
 concierge.live.com
@@ -138,7 +129,6 @@ config.scm.windowsphone.com
 config.teams.microsoft.com
 connect.microsoft.com
 consent.config.office.com
-consumer.entitlement.skype.com
 contacts.msn.com
 content.lifecycle.office.net
 contoso.com
@@ -176,8 +166,6 @@ en-us.appex-rf.msn.com
 enrichment.osi.office.net
 ess.windowsphone.net
 europe.cp.wd.microsoft.com
-eus1-api-skype.cloudapp.net
-experimental-api.asm.skype.com
 extensionwebstorebase.edgesv.net
 f-0001.f-msedge.net
 fbs1-t-msedge.net
@@ -265,7 +253,6 @@ l-0010.l-msedge.net
 l-0011.l-msedge.net
 l-0012.l-msedge.net
 l-0013.l-msedge.net
-l-0014.config.skype.com
 l-0014.l-msedge.net
 l-0015.l-msedge.net
 l-ring.msedge.net
@@ -310,7 +297,6 @@ microsoftonline.com
 mobileappcommunicator.auth.microsoft.com
 modernb.akamai.odsp.cdn.office.net
 modpim.com
-mrrcountries.cdn.skype.com
 msantispy.com
 msappproxy.net
 mscrl.microsoft.com
@@ -322,7 +308,6 @@ msegceporticoprodassets.blob.core.windows.net
 msft-my.spoppe.com
 msft.spoppe.com
 msftspeechmodelsprod.azureedge.net
-msgsearch.skype.com
 msnhome.org
 mydefender.microsoft.com
 myhomemsn.com
@@ -330,7 +315,6 @@ mysecurity.microsoft.com
 nam.loki.delve.office.com
 newsletters.msn.com
 nleditor.osi.office.net
-noam.cc.skype.com
 northcentralus.api.cognitive.microsoft.com
 northeurope.api.cognitive.microsoft.com
 notificationinbox.xboxlive.com
@@ -356,7 +340,6 @@ onenote.officeapps.live.com
 onerm.olsvc.com
 onmicrosoft.com
 ooc-g2.tm-4.office.com
-open-ai-connect.skype.com
 optanon.blob.core.windows.net
 orca9o5ptld7p8kl709wbwth.blob.core.windows.net
 osizpcusmagenta001.blob.core.windows.net
@@ -370,12 +353,10 @@ packages.dmd.metaservices.microsoft.com
 pages.store.office.com
 passport.net
 peer2-den02.msedge.net
-people.skype.com
 phone.sports.tile.appex.bing.com
 platform.bing.com
 playfabapi.com
 playready.microsoft.com
-pnv.skype.com
 portal.manage-beta.microsoft.com
 portal.manage-dogfood.microsoft.com
 portal.manage-selfhost.microsoft.com
@@ -407,7 +388,6 @@ pus7-collabhubrtc.officeapps.live.com
 pus8-collabhubrtc.officeapps.live.com
 q-ring.msedge.net
 query.prod.cms.msn.com
-quicktips2016.skypeforbusiness.com
 r.msftstatic.com
 r20swj13mr.microsoft.com
 rad.msn.com
@@ -428,7 +408,6 @@ s-0003.s-msedge.net
 s-0004.s-msedge.net
 s-dc-msedge.net
 s-ring.msedge.net
-s2s.config.skype.com
 sam.msn.com
 sat-efz.ms-acdc.office.com
 sbsdomains.blob.core.windows.net
@@ -459,8 +438,6 @@ shredder-us.osi.office.net
 shredder.osi.office.net
 sjc-efz.ms-acdc.office.com
 skyapi.onedrive.live.com
-skype-pcs-prod-usea2-fe-b.cloudapp.net
-skypeecs-prod-use-0-b.cloudapp.net
 snoop.minecraft.net
 southafricanorth.api.cognitive.microsoft.com
 southcentralus.api.cognitive.microsoft.com
@@ -518,7 +495,6 @@ udc.amp-test.com
 ugcorigin.s-microsoft.com
 uksouth.api.cognitive.microsoft.com
 urlappmapping.sfp.microsoft.com
-us-api.asm.skype.com
 us-prod.asyncgw.teams.microsoft.com
 us7-excel-collab.officeapps.live.com
 usc-excel.officeapps.live.com
@@ -558,9 +534,7 @@ windowssearch.com
 wip.mam.manage.microsoft.com
 wise.public.cdn.office.net
 woodgrovebank.com
-world.relay.skype.com
 worldaz.relay.teams.microsoft.com
-worldaz.tr.skype.com
 wus-streaming-video-rt-microsoft-com.akamaized.net
 wus2s2c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com
 www2.bing.com
