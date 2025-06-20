@@ -9794,6 +9794,7 @@ analytics-1.fs.anvato.net
 analytics-5900.kxcdn.com
 analytics-airflow.instructure.com
 analytics-angel.walkbase.com
+analytics-api.anthropic.com
 analytics-api.bn.co
 analytics-api.brevo.com
 analytics-api.cloudinary.com
@@ -9803,6 +9804,7 @@ analytics-aws.groupm.com
 analytics-azure.groupm.com
 analytics-bt.idomoo.com
 analytics-canary.pinterest.com
+analytics-cdn.anthropic.com
 analytics-cdn.eu.recurly.com
 analytics-cdn.recurly.com
 analytics-center.dev.veritone.com
@@ -36071,6 +36073,7 @@ metrics-staging.autonlp.huggingface.co
 metrics-staging.autotrain.huggingface.co
 metrics.adswizz.com
 metrics.anaplan.com
+metrics.anthropic.com
 metrics.aor.theplatform.com
 metrics.aort.theplatform.com
 metrics.api.aeonmedia.co
