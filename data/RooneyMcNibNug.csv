@@ -46593,6 +46593,7 @@ prod.clicktale.net
 prod.drive.yango.com
 prod.e.singular.net
 prod.exceed.ai
+prod.gcp.us-west1.sync-metrics-service.fivetran.com
 prod.insent.ai
 prod.integrations.exponea.com
 prod.lijit.com
@@ -56295,6 +56296,8 @@ telemetrics.klaviyo.com
 telemetry-incoming.r53-2.services.mozilla.com
 telemetry.anytype.io
 telemetry.api.wmcdp.io
+telemetry.chef.io
+telemetry.es.chef.io
 telemetry.microsoft.comengine.adzerk.net
 telemetry.mozilla.org
 telemetry.tableausoftware.com
