@@ -10247,6 +10247,7 @@ analytics-ng.walkbase.com
 analytics-populationdensity-api.inrix.com
 analytics-preprod.api.247-inc.net
 analytics-preprod.groupm.com
+analytics-preview.aeonmedia.co
 analytics-qa.igodigital.com
 analytics-qs-dev.walkbase.com
 analytics-querybook.fdbe.dev.use1a.on.epicgames.com
@@ -10272,6 +10273,7 @@ analytics.9.gdev.exponea.com
 analytics.adgreetz.com
 analytics.adskeeper.co.uk
 analytics.adst.anvato.net
+analytics.aeon.co
 analytics.aeonmedia.co
 analytics.agoda.tms.harver.com
 analytics.anvato.net
@@ -41589,11 +41591,13 @@ metrics-ingest.aws.theplatform.com
 metrics-staging.autonlp.huggingface.co
 metrics-staging.autotrain.huggingface.co
 metrics.adswizz.com
+metrics.aeon.co
 metrics.anaplan.com
 metrics.anthropic.com
 metrics.aor.theplatform.com
 metrics.aort.theplatform.com
 metrics.api.aeonmedia.co
+metrics.api.staging.aeonmedia.co
 metrics.aptible.com
 metrics.articulate.com
 metrics.autonlp.huggingface.co
@@ -48143,6 +48147,7 @@ preview-weee.rmp-portal.moloco.com
 preview-www.pendo.io
 preview-yogiyo.rmp-portal.moloco.com
 preview.adtheorent.com
+preview.analytics.aeonmedia.co
 preview.convertkit.com
 preview.embeddables.com
 preview.geoframe.eltoro.com
