@@ -6610,6 +6610,7 @@ a.storehippo.com
 a.tencent.com
 a.th.giraff.io
 a.triptease.io
+a.vdo.ai
 a.viafoura.com
 a.zencdn.net
 a00.korrelate.net
@@ -10110,7 +10111,6 @@ ampere-ca.attn.tv
 ampere-us.attn.tv
 ampere.attn.tv
 ampereuk-gb.attn.tv
-amplify-imp.outbrain.com
 amplify.outbrain.com
 amplifypixel.outbrain.com
 amplitude.anytype.io
@@ -12802,6 +12802,7 @@ assets.turtl.co
 assets.uni-prod.dynatrace.com
 assets.valassis.com
 assets.vbt.io
+assets.vdo.ai
 assets.watchasync.
 assets.wknd.ai
 assets.yieldify.com
@@ -14207,6 +14208,7 @@ bambinifashion.attn.tv
 bamblu.attn.tv
 bamboozle.palantirfoundry.com
 bamdesco.eskimi.com
+bananalytics.reworkd.ai
 bananastore.os.tc
 banca-movil.com
 bancacf.palantirfoundry.com
@@ -17413,6 +17415,7 @@ campaigns.curalate.com
 campaigns.pyramidanalytics.com
 campaigns.rollworks.com
 campaigns.stylus.com
+campaigns.vdo.ai
 campaigns.vizury.com
 campaigns.zyper.com
 campaignservicev3-aus-prod.localiq.com
@@ -36014,6 +36017,7 @@ img.atdmt.com
 img.cdns.turn.com
 img.fullcontact.com
 img.litix.io
+img.mailer.vdo.ai
 img.marketing.spyic.com
 img.pt2.atdmt.com
 img.sprinklr.com
@@ -39210,6 +39214,7 @@ link.m.convertkit.com
 link.n.convertkit.com
 link.newsletters.zetaglobal.com
 link.olark.com
+link.ortb.vdo.ai
 link.outbrain.com
 link.safegraph.com
 link.sailthru.com
@@ -40415,6 +40420,7 @@ mail.taxi.click.org
 mail.taxiinmanchester.com.click.org
 mail.tencent.com
 mail.turn.com
+mail.vdo.ai
 mail.vf-persist-890809447.layer.getwarmly.com
 mail.woopra.com
 mail.wurl.com
@@ -45503,6 +45509,7 @@ onlineshoes-email.recs.igodigital.com
 onlinesuccessmodel.pushcrew.com
 onlinesuccesswithchris.pushcrew.com
 onlinetravel.maritz.com
+onlinevideo.vdo.ai
 ono.wurl.com
 onplan.api.insent.ai
 onplan.widget.insent.ai
@@ -45785,6 +45792,7 @@ orionhealth.turtl.co
 orlando.cmglocalsolutions.com
 orotund.palantirfoundry.com
 orstedplpt.palantirfoundry.com
+ortb.vdo.ai
 ortera.palantirfoundry.com
 orthly.app.link
 orthomerica.privy.com
@@ -49469,6 +49477,7 @@ r.estat.com
 r.fullstory.com
 r.lgrckt-in.com
 r.lr-ingest.io
+r.mailer.vdo.ai
 r.marketing.spyic.com
 r.mateti.net
 r.mxptint.net
@@ -50342,7 +50351,6 @@ reports.iq.vantivcnp.com
 reports.krux.com
 reports.marketmuse.com
 reports.mediamath.com
-reports.meta.outbrain.com
 reports.novantas.com
 reports.outbrain.com
 reports.phluant.com
@@ -51370,7 +51378,6 @@ s.izenda.com
 s.mopub.com
 s.ntv.io
 s.o333o.com
-s.outbrain.com
 s.popin.cc
 s.privy.com
 s.pulseinsights.com
@@ -51387,6 +51394,7 @@ s.udkcrj.com
 s.umeng.com
 s.update.ap.lijit.com
 s.update.wo.gumgum.com
+s.vdo.ai
 s0001-labs-api.apps.randi.adswizz.com
 s0003-comment.apps.randi.adswizz.com
 s0004-api-gateway.apps.randi.adswizz.com
@@ -53210,6 +53218,7 @@ sdk.iad-03.appboy.com
 sdk.iad-03.braze.com
 sdk.iad-08.braze.com
 sdk.mobile.streaming.adswizz.com
+sdk.outbrain.com
 sdk.placed.com
 sdk.predic.io
 sdk.quantummetric.com
@@ -55462,6 +55471,7 @@ sprinkle-apps.sprinklr.com
 sprinkle.sprinklr.com
 sprinklr-website-1.sprinklr.com
 sprint.gumgum.com
+sprint2-v3.vdo.ai
 sprintclubnitro.tresensa.com
 sprite.sprinklr.com
 sprouts.1010data.com
@@ -55712,8 +55722,10 @@ stagewapi.sprinklr.com
 stageweb.vizury.com
 staging-29cm.rmp-portal.moloco.com
 staging-accounts.bighappy.co
+staging-adv.vdo.ai
 staging-api.omappapi.com
 staging-app.insent.ai
+staging-atlas.vdo.ai
 staging-auth.showmore.cc
 staging-balaan.rmp-portal.moloco.com
 staging-be.insent.ai
@@ -55729,7 +55741,9 @@ staging-deviceid.trueleadid.com
 staging-dutchie.rmp-portal.moloco.com
 staging-editor-upload-cdn.optimonk.com
 staging-event.deptagency.com
+staging-fe-v3.vdo.ai
 staging-fe.insent.ai
+staging-fe.vdo.ai
 staging-hood.rmp-portal.moloco.com
 staging-i.lgrckt-in.com
 staging-i.lr-ingest.io
@@ -55740,6 +55754,7 @@ staging-marketing.calldorado.com
 staging-mocas.moloco.com
 staging-moloco-qa.rmp-portal.moloco.com
 staging-my.bidcore.iponweb.com
+staging-new-website.vdo.ai
 staging-oms.bighappy.co
 staging-onsite.optimonk.com
 staging-opps.getwarmly.com
@@ -55753,9 +55768,14 @@ staging-tableau.insent.ai
 staging-traffic.calldorado.com
 staging-traineeship.deptagency.com
 staging-trenbe.rmp-portal.moloco.com
+staging-v2-80.vdo.ai
+staging-v2-master.vdo.ai
+staging-v2.vdo.ai
+staging-v3.vdo.ai
 staging-wayfair.rmp-portal.moloco.com
 staging-web.calldorado.com
 staging-website.showmore.cc
+staging-website.vdo.ai
 staging-winter.nl.deptagency.com
 staging-xb.sprinklr.com
 staging-xp1.iprospect.com
@@ -56083,6 +56103,7 @@ static.turn.com
 static.umeng.com
 static.upvert.io
 static.us.asas.yango.com
+static.vdo.ai
 static.vemba.io
 static.vidazoo.com
 static.wingify.com
@@ -56096,7 +56117,6 @@ static2.found.ee
 static2.invitebox.com
 static2.mailerlite.com
 static2.mediamath.com
-static2.outbrain.com
 static2.terapeak.com
 static2.umeng.com
 static3.invitebox.com
@@ -57197,6 +57217,7 @@ t0v6r3w4f3.mailerlite.com
 t1.llanalytics.com
 t1.mediamath.com
 t1.pub.placeiq.com
+t1.vdo.ai
 t14litgn7d.eoapxl.com
 t1apps.mediamath.com
 t1cdn.mediamath.com
@@ -59162,7 +59183,6 @@ tr.foursquare.com
 tr.hit.gemius.pl
 tr.iadsdk.apple.com
 tr.lfeeder.com
-tr.outbrain.com
 tr.poshmark.com
 tr.toluna.com
 tr.vendemore.com
@@ -59369,6 +59389,7 @@ trafficp.fmc.inrix.com
 trafficshaping.dsp.mp.microsoft.com
 trafficstaging.bloomreach.com
 trail.issuu.com
+trail.vdo.ai
 train-visaextras.visa.epsilon.com
 train.olark.com
 train2point0.clickfunnels.com
@@ -61537,6 +61558,7 @@ vde.blueconic.net
 vdesk.maritz.com
 vdi.precisely.com
 vdi4.app.link
+vdo.ai
 ve-emedemujer.os.tc
 ve.local.encrypt.visa.epsilon.com
 ve100.infusionsoft.com
@@ -61755,7 +61777,6 @@ video.cdn.ispot.tv
 video.cloud.tencent.com
 video.doubleverify.com
 video.found.ee
-video.outbrain.com
 video.tencent.com
 video.zoominfo.com
 videoblocks.evyy.net
@@ -62855,6 +62876,7 @@ webdisk.staging.localiq.com
 webdisk.stg2.persado.com
 webdisk.taxi.click.org
 webdisk.taxiinmanchester.com.click.org
+webdisk.vdo.ai
 webdisk.zane1212.12minutepayday.clicksure.click.org
 webengage.brevo.com
 webercoe.co1.qualtrics.com
@@ -62879,6 +62901,7 @@ webhooks.zingtree.com
 webide-altair.publicisgroupe.net
 webinar-en.pushcrew.com
 webinar.intercom.io
+webinar.vdo.ai
 webinarinc.mktoweb.com
 webinars.intercom.io
 webinars.mintegral.com
@@ -62943,6 +62966,7 @@ webmail.taxiinmanchester.com.click.org
 webmail.turn.com
 webmail.us.publicisgroupe.net
 webmail.user-profile-logged-out.layer.getwarmly.com
+webmail.vdo.ai
 webmail.zane1212.12minutepayday.clicksure.click.org
 webmarked.net
 webmaster.olark.com
@@ -63196,6 +63220,7 @@ widget.triptease.io
 widget.www.manychat.com
 widget.yotpo.com
 widgetapi.purechat.com
+widgetmonitor.outbrain.com
 widgets-images.abtasty.com
 widgets.dlvr.it
 widgets.outbrain.com
@@ -64114,6 +64139,7 @@ www.a.elfsight.com
 www.a.klaviyo.com
 www.a.o333o.com
 www.a.stage.ad.gt
+www.a.vdo.ai
 www.a1.j.fpjs.io
 www.a5.intercom.io
 www.aaa.sec.exponea.com
@@ -64733,6 +64759,7 @@ www.calltracks.com
 www.campaign-uat.algn.epsilon.com
 www.campaign.algn.epsilon.com
 www.campaigns.curalate.com
+www.campaigns.vdo.ai
 www.canddi.com
 www.cap.cardlytics.com
 www.capacitytool.aws.fedex.epsilon.com
@@ -67336,6 +67363,7 @@ www.vault.sapient.com
 www.vbt.io
 www.vcenter.acquisio.com
 www.vcenter.techtarget.com
+www.vdo.ai
 www.ve.local.encrypt.visa.epsilon.com
 www.velocidi.com
 www.velocity.soasta.com
@@ -68621,6 +68649,7 @@ zv160.infusionsoft.com
 zv2dmm2fie6belpkcbwzgnpcvpwmhapu.edns.ip-api.com
 zviewer.zmags.com
 zvmr.maillist-manage.com
+zvox.vdo.ai
 zvxqb7fq-android.mobile-sdk-api.intercom.io
 zw.hit.gemius.pl
 zw321.infusionsoft.com
