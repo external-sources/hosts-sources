@@ -97,7 +97,7 @@ data-analytics-event="{&quot;location&quot;:&quot;footer&quot;,&quot;action&quot
 data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;searchbar&quot;,&quot;context&quot;:&quot;global&quot;,&quot;tag&quot;:&quot;input&quot;,&quot;label&quot;:&quot;searchbar_input_global_navbar&quot;}"
 data-color-mode="auto"
 data-commit-hovercards-enabled
-data-cookie-consent-required="false"
+data-cookie-consent-required="true"
 data-discussion-hovercards-enabled
 data-hotkey=s,/
 data-initial-cookie-consent-allowed=""
