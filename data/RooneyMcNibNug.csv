@@ -8895,6 +8895,7 @@ airflow-test.rmp-data.moloco.com
 airflow-test.shelfbucks.com
 airflow.1010data.com
 airflow.data.moloco.com
+airflow.datascience.splashthat.com
 airflow.dev.gcp.shelfbucks.com
 airflow.intellimize.com
 airflow.movableink.com
@@ -10437,12 +10438,14 @@ analytics.us.algolia.com
 analytics.us.umami.is
 analytics.usage.riverbed.com
 analytics.usefathom.com
+analytics.vidzflow.com
 analytics.walkbase.com
 analytics.walkme.com
 analytics.workos.com
 analytics01.smartbear.com
 analytics1.linksynergy.com
 analytics2.m2.ai
+analytics2.vidzflow.com
 analytics20.kochava.com
 analytics2orig.m2.ai
 analytics8.mktoweb.com
@@ -11673,6 +11676,7 @@ app-sj16.marketo.com
 app-smtp-beta.brevo.com
 app-smtp.brevo.com
 app-sofiiamarusyk.aisdr.com
+app-stage.optibase.io
 app-staging-alt.jasper.ai
 app-staging-us2.jasper.ai
 app-staging.jasper.ai
@@ -11855,6 +11859,7 @@ app.o.tencent.com
 app.omappapi.com
 app.omeda.com
 app.opmnstr.com
+app.optibase.io
 app.optimonk.com
 app.oribi.io
 app.partnerstack.com
@@ -26999,6 +27004,7 @@ dev.ninthdecimal.com
 dev.onboarding.fullthrottle.ai
 dev.ontarget.epsilon.com
 dev.onthe.io
+dev.optibase.io
 dev.piano.io
 dev.placed.com
 dev.predic.io
@@ -27736,6 +27742,7 @@ docs.moengage.com
 docs.onthe.io
 docs.ops.kochava.com
 docs.optable.co
+docs.optibase.io
 docs.outbrain.com
 docs.pge.unityads.unity3d.com
 docs.piano.io
@@ -30488,6 +30495,7 @@ events.cience.com
 events.dataxu.com
 events.disneyadsales.com
 events.dynamicyield.com
+events.elevenlabs.io
 events.eloqua.com
 events.epsilon.com
 events.evergage.com
@@ -31086,6 +31094,7 @@ facebook.techtarget.com
 facebookads.com
 facebookads.manychat.com
 facebookmarketingpartners.com
+facebookpositivityparade.splashthat.com
 faceid.cloud.tencent.com
 facemask.olark.com
 faces.fiksu.com
@@ -39454,6 +39463,7 @@ lo0.edge2.iad1.prod.conviva.com
 lo100.infusionsoft.com
 lo131.infusionsoft.com
 load.365analytics.xyz
+load.stag.optibase.io
 loader-io.districtm.io
 loader.vertica.evidon.com
 loading-meetings-message.layer.getwarmly.com
@@ -45700,6 +45710,7 @@ optable.cloud.optable.co
 optable.co
 optable.instances.optable.co
 opti-baseline-storybook.uk.deptagency.com
+optibase.io
 optics.socialcode.com
 optimahub.datalicious.com
 optimaitalia.os.tc
@@ -55164,6 +55175,7 @@ social.clickfirstmarketing.com
 social.cmglocalsolutions.com
 social.conviva.com
 social.cxense.com
+social.finsweet.com
 social.growsumo.com
 social.gumgum.com
 social.jasper.ai
@@ -55765,6 +55777,7 @@ stadium.sinclair.wurl.com
 staffalo.eskimi.com
 staffordshire.qualtrics.com
 staffpicks.outbrain.com
+stag.optibase.io
 stage-collector.webcollage.net
 stage-eu-01.p.otm-r.com
 stage-pizzaparty.persado.com
@@ -58573,6 +58586,7 @@ thinkrite2.app.link
 thinktank.bitrix24.com
 thinktank.clickfunnels.com
 thinktanksby.push.world
+third-party-tracking-manager.services.splashthat.com
 thirddoormedia.mktoweb.com
 thirdparty-logserver-lb.global.prod1.sharethis.net
 thirdparty-logserver-lb.global.unified-prod.sharethis.net
@@ -66257,6 +66271,7 @@ www.onthe.io
 www.opengdpr.mparticle.com
 www.opt.use.dynamicyield.com
 www.optable.co
+www.optibase.io
 www.optimonk.com
 www.orig.harmony.epsilon.com
 www.orig.live.harmony.epsilon.com
