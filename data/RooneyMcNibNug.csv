@@ -18823,6 +18823,7 @@ cf-cdn.intergient.com
 cf-ez-middleton.ezojs.com
 cf-fv04.na1.hubspotlinks.com
 cf-kf04.na1.hubspotlinks.com
+cf-pageos-dev.intergient.com
 cf-sm04.na1.hubspotlinks.com
 cf-wv04.na1.hubspotlinks.com
 cf.adxcel.com
@@ -20101,6 +20102,7 @@ clicktrackingv2.userreport.com
 client-api.iciyoqav9fyuf25r.figure-eight.com
 client-api.plotprojects.com
 client-delivery-caps.dstillery.com
+client-ml.dev.intergient.com
 client-prov-mgr01.voice-svc.sv1.247-inc.net
 client-prov-mgr02.voice-svc.sv1.247-inc.net
 client-qa-b-wl.localiq.com
@@ -41986,7 +41988,7 @@ mindshare-uk.datatap.adverity.com
 mindshare.datatap.adverity.com
 mindspark.saas.appdynamics.com
 mindworks.app.link
-minecraft-ad-server.intergient.com
+minecraft-ad-server.prd-aws.intergient.com
 minecraft-virusz.olark.com
 mineral-container-registry.palantirfoundry.com
 mineral-mgmt.palantirfoundry.com
@@ -48085,6 +48087,8 @@ prebid-west.development.adthrive.com
 prebid-west.production.adthrive.com
 prebid-west.stage.adthrive.com
 prebid.core.yads.tech
+prebid.dev-aws.intergient.com
+prebid.dev.intergient.com
 prebid.development.adthrive.com
 prebid.east.development.adthrive.com
 prebid.east.production.adthrive.com
@@ -48093,6 +48097,7 @@ prebid.intergient.com
 prebid.production.adthrive.com
 prebid.sandbox.adthrive.com
 prebid.stage.adthrive.com
+prebid.stg.intergient.com
 prebid.west.development.adthrive.com
 prebid.west.production.adthrive.com
 prebid.west.stage.adthrive.com
@@ -50782,6 +50787,7 @@ revealmobile.com
 revee-etl.outbrain.com
 revee.outbrain.com
 revel.repeatreturns.com
+revenue-service.prd-aws.intergient.com
 revenuedetective.id-visitors.com
 revenueinbound.clickfunnels.com
 revenuemed.bitrix24.com
