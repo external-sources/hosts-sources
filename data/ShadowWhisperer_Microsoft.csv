@@ -17,11 +17,14 @@ afd-a-acdc-direct.office.com
 agent.rooms.microsoft.com
 aiinfrastructure.static.microsoft
 aks-prod-eastus.access-point.cloudmessaging.edge.microsoft.com
+aks-prod-westus2.access-point.cloudmessaging.edge.microsoft.com
 amcdn.msftauth.net
 amer.devicemgmt.teams.microsoft.com
 amer.ng.msg.teams.microsoft.com
 amp-test.com
+api-edge.cognitive.microsofttranslator.com
 api-noam.flightproxy.teams.microsoft.com
+api-usea-skyman-v10.microsofttranslator.com
 api.addins.omex.office.net
 api.bing.com
 api.cdp.microsoft.com
@@ -42,6 +45,7 @@ apsaiservices.microsoft.com
 augloop.office.com
 augloop.svc.cloud.microsoft
 australiaeast.api.cognitive.microsoft.com
+autologon.microsoftazuread-sso.com
 az158878.vo.msecnd.net
 az361816.vo.msecnd.net
 az413505.vo.msecnd.net
@@ -82,7 +86,9 @@ cdf-anon.xboxlive.com
 cdf-anon.xboxlive.com.edgekey.net
 cdn.content.prod.cms.msn.com
 cdn.fluidpreview.office.net
+cdn.storeedgefd.dsx.mp.microsoft.com
 cdn.techcommunity.microsoft.com
+cdn.winget.microsoft.com
 cds1204.lon.llnw.net
 cds1289.lon.llnw.net
 cds1293.lon.llnw.net
@@ -103,6 +109,7 @@ cds965.lon.llnw.net
 centralindia.api.cognitive.microsoft.com
 centralus.api.cognitive.microsoft.com
 cggameszone.cloudapp.net
+checkout.office.com
 choice.microsoft.com
 choice.microsoft.com.nsatc.net
 choice.microsoft.com.nstac.net
@@ -125,6 +132,7 @@ config-edge-skype.l-0014.l-msedge.net
 config.messenger.msn.com
 config.officeapps.live.com
 config.scm.windowsphone.com
+config.svc.cloud.microsoft
 config.teams.microsoft.com
 connect.microsoft.com
 consent.config.office.com
@@ -135,10 +143,14 @@ copilot.microsoft.com
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 cortana.ai
+cp501.prod.do.dsp.mp.microsoft.com
+cp601.prod.do.dsp.mp.microsoft.com
+cp801.prod.do.dsp.mp.microsoft.com
 crl.microsoft.com
 cs1.wpc.v0cdn.net
 csp.microsoft.com
 customsearch.ai
+cxcs.cdn.office.net
 cys-efz.ms-acdc.office.com
 da.xboxservices.com
 dcg.microsoft.com
@@ -147,9 +159,11 @@ devicemgmt.teams.microsoft.com
 df.cfp.microsoft.com
 dgps-eus2.cloudapp.net
 directory.services.live.com
+disc801.prod.do.dsp.mp.microsoft.com
 dispatch.kahuna.glbdns2.microsoft.com
 dmd.metaservices.microsoft.com
 e-msedge.net
+eagle.sapphire.microsoftapp.net
 eastasia.api.cognitive.microsoft.com
 eastus.api.cognitive.microsoft.com
 eastus2.api.cognitive.microsoft.com
@@ -209,6 +223,7 @@ hp17win10.msn.com
 i.s-microsoft.com
 i1.services.social.microsoft.com
 i2-technet.sec.s-msft.com
+idmapper.microsoftcasualgames.com
 ie11welcome.microsoft.com
 ie9comview.vo.msecnd.net
 ie9cvlist.ie.microsoft.com
@@ -221,6 +236,7 @@ inputsuggestions.msdxcdn.microsoft.com
 insiderhub.microsoft.com
 insiderppe.cloudapp.net
 insiderservice.microsoft.com
+insideruser.microsoft.com
 installer.teams.static.microsoft
 int1.msn.com
 internetexplorer.com
@@ -239,6 +255,7 @@ jcmsfd.account.microsoft.com
 k-0002.k-msedge.net
 k-ring.msedge.net
 koreacentral.api.cognitive.microsoft.com
+kv601.prod.do.dsp.mp.microsoft.com
 l-0001.l-msedge.net
 l-0002.l-msedge.net
 l-0003.l-msedge.net
@@ -278,6 +295,7 @@ mcas-gov.us
 mcas.ms
 mediadiscovery.microsoft.com
 mediaredirect.microsoft.com
+messaging.action.office.com
 messaging.lifecycle.office.com
 messaging.office.com
 messenger.msn.com
@@ -311,12 +329,15 @@ msnhome.org
 mydefender.microsoft.com
 myhomemsn.com
 mysecurity.microsoft.com
+nam-cosmic.loki.delve.office.com
 nam.loki.delve.office.com
 newsletters.msn.com
 nleditor.osi.office.net
 northcentralus.api.cognitive.microsoft.com
 northeurope.api.cognitive.microsoft.com
+notification.m365.svc.cloud.microsoft
 notificationinbox.xboxlive.com
+ntc-keyid-b6eaa11f201ff74ed4f2510e15bf2e3884dc4055.microsoftaik.azure.net
 ntp.msn.com
 o.xbox.com
 oaspapps.com
@@ -326,6 +347,7 @@ offerservicefallback.blob.core.windows.net
 office365.us
 officeaka.cloudapp.net
 officehomeblobs.blob.core.windows.net
+offline.microsofttranslator.com
 ogma.osi.office.net
 olc-g2.tm-4.office.com
 oloobe-prod-cdn-storage.azureedge.net
@@ -346,6 +368,8 @@ otelrules.svc.static.microsoft
 outlook-1.cdn.office.net
 outlook-2.cdn.office.net
 outlook-exo.trafficmanager.net
+outlook-sdf.office.com
+outlook.cloud.microsoft
 owassets.azureedge.net
 p.pfx.ms
 packages.dmd.metaservices.microsoft.com
@@ -371,6 +395,7 @@ prod-eastus.access-point.cloudmessaging.edge.microsoft.com
 prod-nam-autodetect.acompli.net
 prod-setupoffice.omexexternallfb.office.net.akadns.net
 prod-westus2.access-point.cloudmessaging.edge.microsoft.com
+prod.autodetect.outlook.cloud.microsoft
 prod.blob.core.windows.net
 prod.c2rsetup.microsoft.com.akadns.net
 prod.client.wosc.services.microsoft.com
@@ -392,6 +417,7 @@ r20swj13mr.microsoft.com
 rad.msn.com
 rarewaves.blob.core.windows.net
 rdr.contacts.msn.com
+recent.svc.cloud.microsoft
 redir1.cloudapp.net
 res-4.public.onecdn.static.microsoft
 res.df.onecdn.static.microsoft
@@ -452,7 +478,10 @@ static.edge.microsoftapp.net
 static2.sharepointonline.com
 statics-marketingsites-neu-ms-com.akamaized.net
 staticview.msn.com
+stm-keyid-fb17d70d734870e919c4e8e603975e664e0e43de.microsoftaik.azure.net
 storesdk.dsx.mp.microsoft.com
+subs-paynow.msdx.microsoft.com
+subs-paynow.msdxcdn.microsoft.com
 sup.directory.live.com
 survey.support.services.microsoft.com
 sus1-onenote.officeapps.live.com
@@ -480,6 +509,10 @@ to-do.microsoft.com
 to-do.officeppe.com
 toolbar.msn.com
 toshiba13.msn.com
+tr-tmc-afd.office.com
+tr-tmc-afdmira.office.com
+tr-tmc-geo.office.com
+tr-tmc-mira.office.com
 tr.teams.microsoft.com
 trafficmanager.net
 trafficshaping.dsp.mp.microsoft.com
@@ -532,11 +565,13 @@ windows.msn.com
 windowsphone.xbox.com
 windowssearch.com
 wip.mam.manage.microsoft.com
+wise-backup.public.onecdn.static.microsoft
 wise.public.cdn.office.net
 woodgrovebank.com
 worldaz.relay.teams.microsoft.com
 wus-streaming-video-rt-microsoft-com.akamaized.net
 wus2s2c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com
+wwdb.webshell.suite.office.com
 www2.bing.com
 x1ds.xboxlive.com
 xboxab.com
