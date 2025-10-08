@@ -7014,6 +7014,7 @@ abk.mktossl.com
 ablaze3nity.eskimi.com
 able.silveregg.net
 ablead.silveregg.net
+ablogin.fattail.com
 abluv1984.eskimi.com
 ablyapparel-us.attn.tv
 ablyapparel.attn.tv
@@ -7566,6 +7567,20 @@ adblock-data.brave.com
 adblock-data.s3.brave.com
 adblockext.com
 adbmarketing.cdn.prismic.io
+adbook.fattail.com
+adbook01.fattail.com
+adbook02.fattail.com
+adbook03.fattail.com
+adbook03ap.fattail.com
+adbook04.fattail.com
+adbook2.fattail.com
+adbook3.fattail.com
+adbookdirect.fattail.com
+adbookdirectadminapi.fattail.com
+adbookdirectadminapiqa.fattail.com
+adbookdirectadminapisbx.fattail.com
+adbookdirectqa.fattail.com
+adbookdirectsbx.fattail.com
 adboozter.com
 adbuilder.gumgum.com
 adbuilder.valassis.com
@@ -7710,6 +7725,7 @@ adintel.uk.nielsen.com
 adio.adswizz.com
 adio.deliveryengine.adswizz.com
 adison.kontentino.com
+aditude.com
 adizio.live.iponweb.com
 adjust-local-settings.com
 adjustlocalsettings.net
@@ -8008,6 +8024,7 @@ ads.found.ee
 ads.foxnews.com
 ads.groundtruth.com
 ads.idomoo.com
+ads.intentiq.com
 ads.jivox.com
 ads.manychat.com
 ads.marinsm.com
@@ -8226,6 +8243,8 @@ adserver-tfm-fiuat-uk.cardlytics.com
 adserver.ad2iction.com
 adserver.adswizz.com
 adserver.cxad.cxense.com
+adserver.fattail.com
+adserver.intentiq.com
 adserver.matchcraft.com
 adserver.mopub.com
 adserver.otm-r.com
@@ -8268,6 +8287,7 @@ adsrv1.tapad.com
 adss.novantas.com
 adstage.io
 adstitch-live-qa.anvato.net
+adstradata.com
 adstream.csod.com
 adswizz.com
 adswizz.crm.adswizz.com
@@ -10978,6 +10998,8 @@ api-frankfurt.salesforceiq.com
 api-gateway-dev.zenapse.com
 api-gateway.smartlook.com
 api-gateway.umami.is
+api-gdpr-eu.intentiq.com
+api-gdpr.intentiq.com
 api-glb-ash.smoot.apple.comat1.listrakbi.com
 api-global.evocalize.com
 api-global.pointinside.com
@@ -11248,6 +11270,7 @@ api.inrix.com
 api.insent.ai
 api.integration.infusionsoft.app
 api.intel.dynamicyield.com
+api.intentiq.com
 api.internal.googleads.staging.superawesome.com
 api.internal.googleads.superawesome.com
 api.internal.k8s.cph.liveintent.com
@@ -11515,6 +11538,7 @@ api.zumigo.com
 api.zylotech.com
 api.zyper.com
 api1.exactvisitor.com
+api1.intentiq.com
 api2-internal.harmony.eu.epsilon.com
 api2.abtasty.com
 api2.branch.io
@@ -12039,6 +12063,7 @@ appikon.firstpromoter.com
 appin.psr.assist.service.sv2.247-inc.net
 appinstall-priceline-com.control.kochava.com
 appjs.leadin.com
+apple-api.intentiq.com
 apple.data.annalect.com
 applebites.os.tc
 applebycollege.evergage.com
@@ -12204,6 +12229,7 @@ aprigoinc.mktoweb.com
 aprilandoak-au.attn.tv
 apronwarehouse-us.attn.tv
 aps-buyer.unityads.unity3d.com
+aps.documents.intentiq.com
 aps.infusionsoft.app
 aps.sociabble.com
 aps01.cxense.com
@@ -12390,9 +12416,16 @@ argo-cd.wtb.us-east-1.k8s.aws.pricespider.com
 argo-cd.wtb.us-west-2.k8s.aws.pricespider.com
 argo-cd1.prowl.us-east-1.k8s.aws.pricespider.com
 argocd-dev.discovery-hub-aws.bloomreach.com
+argocd-gcp-prod-eu-europe-west1.intentiq.com
+argocd-gcp-prod-us-central1.intentiq.com
+argocd-prod-eu-west-1.intentiq.com
+argocd-prod-us-east-1.intentiq.com
+argocd-prod.devops.intentiq.com
 argocd-prod.discovery-hub-aws.bloomreach.com
 argocd-prod.discovery-hub.internal-aws.bloomreach.com
+argocd-prod2-us-east-1.intentiq.com
 argocd.cloud-dev.optable.co
+argocd.devops.intentiq.com
 argocd.do-k8s-staging.optimonk.com
 argocd.do-k8s.optimonk.com
 argocd.gdev.exponea.com
@@ -13317,7 +13350,10 @@ authenticangry.com
 authenticate.regie.ai
 authenticated-origin.com
 authentication-api.brevo.com
+authentication.fattail.com
 authenticationapi.dev.bigdbm.com
+authenticationqa.fattail.com
+authenticationsbx.fattail.com
 authenticman.infusionsoft.app
 authenticq.eskimi.com
 authlovebirth.com
@@ -14584,6 +14620,10 @@ bdp.katalystadvantage.com
 bdr-sandbox.palantirfoundry.com
 bdr3.app.link
 bdsanalytics.sisense.com
+be-bid-stg-us-east-1.intentiq.com
+be-bid-us-east-1.intentiq.com
+be-cda-stg-us-east-1.intentiq.com
+be-cda-us-east-1.intentiq.com
 be-prod.insent.ai
 be-prod.rec.blue.cdtapps.com
 be-prod1.rec.blue.cdtapps.com
@@ -14594,6 +14634,7 @@ be-sentry.layer.getwarmly.com
 be-staging.rec.blue.cdtapps.com
 be-staging1.rec.blue.cdtapps.com
 be-x-old.getclicky.com
+be.intentiq.com
 be.ranking.gemius.com
 be00517aa05343dc85c45fbc1aa97cb0.clo.footprintdns.com
 be115.infusionsoft.app
@@ -15134,6 +15175,8 @@ bid-demo1-hkg1.turn.com
 bid-demo1-sjc2.turn.com
 bid-demo2-sjc2.turn.com
 bid-eu.onetag-sys.com
+bid-fe-stg-us-east-1.intentiq.com
+bid-fe-us-east-1.intentiq.com
 bid-g.onetag-sys.com
 bid-hkg1.turn.com
 bid-sjc2.turn.com
@@ -15315,6 +15358,12 @@ bizarfinancing.infusionsoft.app
 bizchix.clickfunnels.com
 bizdev.razorfish.com
 bizignited1.click.org
+bizjournals-adbookportal-autom-001.fattail.com
+bizjournals-adbookportal-dev-001.fattail.com
+bizjournals-adbookportal-feature-001.fattail.com
+bizjournals-adbookportal-feature-002.fattail.com
+bizjournals-adbookportal-feature-003.fattail.com
+bizjournals-adbookportal-feature-004.fattail.com
 bizliwala.storehippo.com
 biznesp.maillist-manage.com
 bizops.markmonitor.com
@@ -18116,6 +18165,9 @@ cd836371f1e.intergient.com
 cd86w04.na1.hubspotlinks.com
 cd875.infusionsoft.app
 cd942.infusionsoft.app
+cda.documents.intentiq.com
+cda.intentiq.com
+cda1.intentiq.com
 cdata.app.sprinklr.com
 cdata.nqa.sprinklr.com
 cdata.palantirfoundry.com
@@ -21221,6 +21273,7 @@ conversationware.calltracks.com
 converse.evergage.com
 conversightai.widget.insent.ai
 conversion.brevo.com
+conversion.intentiq.com
 conversions.appsflyersdk.com
 conversions.prod.linkfire.co
 convert.reachforce.com
@@ -21795,6 +21848,12 @@ covid19.predic.io
 covid19.somin.ai
 cowboykeith21.clickfunnels.com
 cowork7x24.app.link
+cox-adbookportal-autom-001.fattail.com
+cox-adbookportal-dev-001.fattail.com
+cox-adbookportal-feature-001.fattail.com
+cox-adbookportal-feature-002.fattail.com
+cox-adbookportal-feature-003.fattail.com
+cox-adbookportal-feature-004.fattail.com
 cox.adswizz.com
 cox.deliveryengine.adswizz.com
 coxmediagroup.blueconic.net
@@ -26474,6 +26533,7 @@ dealornodeal.tresensa.com
 dealr3a9q9.mailerlite.com
 deals.ciuvo.com
 dealscart.storehippo.com
+dealsmarketplace.fattail.com
 dealsmaven.pushcrew.com
 dealtool.sapient.com
 deanevansassoc.mktoweb.com
@@ -26942,6 +27002,7 @@ dev-21729.alpha.rtb-dashboard.mgid.com
 dev-21731.alpha.rtb-dashboard.mgid.com
 dev-21733.alpha.rtb-dashboard.mgid.com
 dev-21736.alpha.rtb-dashboard.mgid.com
+dev-account.aditude.com
 dev-admin.getambassador.com
 dev-admin2.trumpia.com
 dev-api.exponea.com
@@ -26971,6 +27032,7 @@ dev-green-a.us-east-1.hlsc-v2.wurl.com
 dev-green-a.us-west-2.hlsc-v2.wurl.com
 dev-image-server.wtb-core.us-west-2.k8s.aws.pricespider.com
 dev-importer-api.wtb-core.us-west-2.k8s.aws.pricespider.com
+dev-jenkins.intentiq.com
 dev-ng-pipeline.wtb.us-west-2.k8s.aws.pricespider.com
 dev-performanceapps.iprospect.com
 dev-playground-assets.simpli.fi
@@ -27190,6 +27252,7 @@ develop-kitchen-o2u.juicer.cc
 develop-mgr.juicer.cc
 develop.abc.juicer.cc
 develop.alpha.rtb-dashboard.mgid.com
+develop.dealsmarketplace.fattail.com
 develop.juicer.cc
 developer-dev.cloud.precisely.com
 developer-stg.cloud.precisely.com
@@ -27231,6 +27294,7 @@ developer.umeng.com
 developer.wurl.com
 developer.zoominfo.com
 developerdocs.movableink.com
+developers.aditude.com
 developers.bloomreach.com
 developers.brevo.com
 developers.convertkit.com
@@ -27286,6 +27350,7 @@ devone.detroit.dynatrace.com
 devoneapps.trackonomics.net
 devops-8669.localiq.com
 devops.adswizz.com
+devops.documents.intentiq.com
 devopsagenda.techtarget.com
 devopstestconnector.wurl.com
 devph.tawk.to
@@ -27474,6 +27539,7 @@ digitasbosdam.global.publicisgroupe.net
 digitaschidam.global.publicisgroupe.net
 digitasnycdam.global.publicisgroupe.net
 digiteka.net
+digitrust.intentiq.com
 digivn.bitrix24.com
 digvolsoft.evyy.net
 dilarakocak.pushcrew.com
@@ -27836,6 +27902,7 @@ documentation.bloomreach.com
 documentation.viafoura.com
 documentationtest.bloomreach.com
 documents.dev.marketmuse.com
+documents.intentiq.com
 documents.marketmuse.com
 docurated.evergage.com
 docurated1.mktoweb.com
@@ -31269,6 +31336,7 @@ fastspring.speedppc.com
 fasttext.audiencediscovery.innovation.abtasty.com
 fastweb.cloud4wi.com
 fatcatslim.os.tc
+fattail.com
 faui.listrakbi.com
 faux.palantirfoundry.com
 fauxjohnmadden.lockerdome.com
@@ -31384,6 +31452,8 @@ fe5zi5elkq.eoapxl.com
 fe90.app.link
 fearless.clickfunnels.com
 feathr.co
+feature-001.dealsmarketplace.fattail.com
+feature-002.dealsmarketplace.fattail.com
 feature-coupons.nextgen.aori.com
 feature-disable-overscroll.nextgen.aori.com
 feature-flag-cal-sig-1787032787.layer.getwarmly.com
@@ -32912,6 +32982,7 @@ ftn05.eulerian.net
 ftn06.eulerian.net
 ftp.6sense.com
 ftp.across.it
+ftp.fattail.com
 ftp.ispot.tv
 ftp.linksynergy.com
 ftp.mailerlite.com
@@ -32921,6 +32992,7 @@ ftp.tunnldata.com
 ftp.upredict-dev.iponweb.com
 ftp.upredict.iponweb.com
 ftp.zoominfo.com
+ftp01.fattail.com
 ftp1.webcollage.net
 ftp2.1010data.com
 ftp2.turn.com
@@ -32932,6 +33004,8 @@ fts-vm5.dynatrace.com
 fts-vm7.dynatrace.com
 fts-vm8.dynatrace.com
 ftspecialist.exponea.com
+ftsts.fattail.com
+ftsts01.fattail.com
 ftw.localiq.com
 fu14.app.link
 fu7fb.voluumtrk3.com
@@ -33783,6 +33857,7 @@ girl.maillist-manage.com
 girlscoutsusa.ca1.qualtrics.com
 girlvjphn.eskimi.com
 gis.sisense.com
+git-arc-webhook.intentiq.com
 git.cloud.tencent.com
 git.code.tencent.com
 git.dev.extremereach.io
@@ -33977,7 +34052,9 @@ go.6sense.com
 go.abtasty.com
 go.ad.recurly.com
 go.adcore.com
+go.aditude.com
 go.adjust.com
+go.adstradata.com
 go.adthrive.com
 go.agm1.us
 go.ahalogy.com
@@ -35007,6 +35084,7 @@ helium-staging-login.evocalize.com
 heliumpop.tresensa.com
 helix.mediamath.com
 hello-globalntt.turtl.co
+hello.adstradata.com
 hello.apps.randi.adswizz.com
 hello.factual.com
 hello.heap.io
@@ -35948,6 +36026,8 @@ idnexus.cloud-dev.optable.co
 idp.outbrain.com
 idp.techtarget.com
 idpp.dynatrace.com
+idr.documents.intentiq.com
+idr.intentiq.com
 ids-staging.starcomww.com
 ids.ad.gt
 ids.cdnwidget.com
@@ -36216,9 +36296,11 @@ imptracker-pixel.dpclk.com
 imptracker-pixel.dsp.linksynergy.com
 impulseblue.palantirfoundry.com
 imrhys.clickfunnels.com
+ims-staging.intentiq.com
 ims.absolutdata.com
 ims.bighappy.co
 ims.eccmp.com
+ims.intentiq.com
 ims.omeclk.com
 ims.slgnt.us
 imt.publicisgroupe.net
@@ -36361,6 +36443,7 @@ info.1010data.com
 info.absolutdata.com
 info.adlucent.com
 info.adparlor.com
+info.adstradata.com
 info.adtheorent.com
 info.adverity.com
 info.anaplan.com
@@ -36762,6 +36845,7 @@ intellitronikasrl-sandbox.palantirfoundry.com
 intellmkt.id-visitors.com
 intense-earthworm.palantirfoundry.com
 intent.channelsight.com
+intentiq.com
 intentscoring.performics.com
 interact.pointinside.com
 interactive.infusionsoft.com
@@ -37684,6 +37768,7 @@ js.brealtime.com
 js.bronto.com
 js.callrail.com
 js.createsend1.com
+js.documents.intentiq.com
 js.dpclk.com
 js.driftt.com
 js.dt00.net
@@ -39695,6 +39780,7 @@ login.dls.dream.epsilon.com
 login.dstillery.com
 login.evergage.com
 login.hginsights.com
+login.intentiq.com
 login.k8s-test.fiksu.com
 login.linksynergy.com
 login.nj.dream.epsilon.com
@@ -40517,6 +40603,7 @@ mail-p1.custora.com
 mail-track1.smartlook.com
 mail.across.it
 mail.acuityplatform.com
+mail.adstradata.com
 mail.adswizz.com
 mail.airporttaxi.click.org
 mail.bankoffer.click.org
@@ -45778,6 +45865,7 @@ openss.qualtrics.com
 openstor.bitrix24.com
 opensystemsmedia.mktoweb.com
 opentext.everyonesocial.com
+openvpn-saas.intentiq.com
 openvpn-secure.fullcontact.com
 openvpn.fullcontact.com
 openx.net
@@ -45959,6 +46047,7 @@ origin-www.krux.com
 origin-www3.razorfish.com
 origin.cdn-5.convertexperiments.com
 origin.content.webcollage.net
+origin.intentiq.com
 origin.json.webcollage.net
 origin.live.adobe.webcollage.net
 origin.live.kodak.webcollage.net
@@ -46659,6 +46748,7 @@ pbbe.app.link
 pbcontent.citi.epsilon.com
 pbgc.co1.qualtrics.com
 pbi.gemius.pl
+pbmodule.documents.intentiq.com
 pbqkdi881ix8p3xomwwibkfk9mz5m595.edns.ip-api.com
 pbs.btloader.com
 pbs.staging.unityads.unity3d.com
@@ -47728,6 +47818,7 @@ po640.infusionsoft.com
 poblano.palantirfoundry.com
 poc.2key.network
 poc.bws.birst.com
+poc.cx.intentiq.com
 poc.insightexpressai.com
 pocs.maillist-manage.com
 pod.epsilon.com
@@ -48067,6 +48158,7 @@ pre.ads.justpremium.com
 pre.core.yads.tech
 pre.smartplugin.youbora.com
 prearrival.epsilon.com
+prebid-adapter.documents.intentiq.com
 prebid-east.development.adthrive.com
 prebid-east.production.adthrive.com
 prebid-east.stage.adthrive.com
@@ -48090,6 +48182,7 @@ prebid-proxy.stage.adthrive.com
 prebid-proxy.west.development.adthrive.com
 prebid-proxy.west.production.adthrive.com
 prebid-proxy.west.stage.adthrive.com
+prebid-rtb.documents.intentiq.com
 prebid-west-go.development.adthrive.com
 prebid-west-go.production.adthrive.com
 prebid-west-go.stage.adthrive.com
@@ -48103,6 +48196,7 @@ prebid.core.yads.tech
 prebid.dev-aws.intergient.com
 prebid.dev.intergient.com
 prebid.development.adthrive.com
+prebid.documents.intentiq.com
 prebid.east.development.adthrive.com
 prebid.east.production.adthrive.com
 prebid.east.stage.adthrive.com
@@ -48114,6 +48208,7 @@ prebid.stg.intergient.com
 prebid.west.development.adthrive.com
 prebid.west.production.adthrive.com
 prebid.west.stage.adthrive.com
+prebidrtb.documents.intentiq.com
 precima-centauri.epsilon.com
 preciousx.eskimi.com
 precisely-admin.us1.automate.precisely.com
@@ -49305,6 +49400,7 @@ qa.dev.bloomreach.com
 qa.drive.yango.com
 qa.eu.mosi.api.inrix.com
 qa.exponea.com
+qa.fattail.com
 qa.found.ee
 qa.goexpertai.cience.com
 qa.ignition.razorfish.com
@@ -49375,6 +49471,7 @@ qa29.datatap.adverity.com
 qa2pol.adsr.epsilon.com
 qa2wsc.adsr.epsilon.com
 qa3-m.samsclub.com.ssopt.net
+qa3.fattail.com
 qa3.jivox.com
 qa30.datatap.adverity.com
 qa33.datatap.adverity.com
@@ -50529,6 +50626,7 @@ reporting-dev.socialcode.com
 reporting-hosted-dev.socialcode.com
 reporting-hosted.socialcode.com
 reporting-hue.dsp.linksynergy.com
+reporting-il-central-1.intentiq.com
 reporting-staging.fidzup.com
 reporting-test.wurl.com
 reporting.api.kochava.com
@@ -50562,6 +50660,7 @@ reports-as.web.analytics.yahoo.com
 reports-bg.web.analytics.yahoo.com
 reports-ci.web.analytics.yahoo.com
 reports-dev.internal.outbrain.com
+reports-gdpr.intentiq.com
 reports-internal.mediamath.com
 reports-ono.web.analytics.yahoo.com
 reports-portal.web.analytics.yahoo.com
@@ -52095,6 +52194,7 @@ s2nhokstupid.eskimi.com
 s2o0.app.link
 s2s-diag.mparticle.com
 s2s.ae1.mparticle.com
+s2s.documents.intentiq.com
 s2s.eu1.mparticle.com
 s2s.mparticle.com
 s2s.proper.io
@@ -52804,6 +52904,7 @@ sandbox.api.demandbase.com
 sandbox.artisan.co
 sandbox.cloud.tencent.com
 sandbox.cognitiveseo.com
+sandbox.dealsmarketplace.fattail.com
 sandbox.gimbal.com
 sandbox.optable.co
 sandbox.outbrain.com
@@ -52811,6 +52912,9 @@ sandbox.rehao.onkakao.net
 sandbox.streamalive.com
 sandbox.web-test.insent.ai
 sandbox.zappi.io
+sandbox01.fattail.com
+sandbox02.fattail.com
+sandbox03.fattail.com
 sandbox1.eulerian.net
 sandbox101.eulerian.net
 sandbox2.eulerian.net
@@ -54612,6 +54716,7 @@ sitemanager.shoppertrak.com
 sitenew.sellforte.com
 siteofhonor.maritz.com
 sites.adgreetz.com
+sites.adstradata.com
 sites.contify.com
 sites.outbrain.com
 sites.techtarget.com
@@ -55824,6 +55929,7 @@ sso-au.acxiomapac.com
 sso.auth.epsilon.com
 sso.centerfield.com
 sso.evidon.com
+sso.intentiq.com
 sso.izenda.com
 sso.localiq.com
 sso.pointinside.com
@@ -55939,10 +56045,12 @@ stage-publisher-api.adthrive.com
 stage-web.vindicosuite.com
 stage-webhook.layer.getwarmly.com
 stage.ad.gt
+stage.adstradata.com
 stage.advermind.com
 stage.api.recommendations.samba.tv
 stage.bullwhip.cloud
 stage.cdn.bullwhip.cloud
+stage.dealsmarketplace.fattail.com
 stage.fueled.io
 stage.gimbal.com
 stage.kochava.com
@@ -56483,6 +56591,7 @@ status.evergage.com
 status.everyonesocial.com
 status.evrythng.com
 status.exponea.com
+status.fattail.com
 status.figure-eight.com
 status.fingerprintjs.com
 status.foursquare.com
@@ -56496,6 +56605,7 @@ status.hginsights.com
 status.iadvize.com
 status.icanhazip.com
 status.insent.ai
+status.intentiq.com
 status.intercom.io
 status.internal.outbrain.com
 status.ip-api.com
@@ -56644,6 +56754,9 @@ stg-y.analytics.yahoo.com
 stg.a.analytics.yahoo.com
 stg.adgpt.com
 stg.automate.precisely.com
+stg.be.intentiq.com
+stg.cda.intentiq.com
+stg.cda1.intentiq.com
 stg.nordstromrack.com.ssopt.net
 stg.persado.com
 stg.tapad.com
@@ -57110,6 +57223,7 @@ survey-eu.researchnow.com
 survey-na.researchnow.com
 survey-prod2.sprinklr.com
 survey-uk.researchnow.com
+survey.adstradata.com
 survey.ayima.com
 survey.ca1.qualtrics.com
 survey.co1.qualtrics.com
@@ -57312,14 +57426,21 @@ sync-admob-stg.adsx.unityads.unity3d.com
 sync-admob.adsx.unityads.unity3d.com
 sync-eu.exe.bid
 sync-ey.exe.bid
+sync-gdpr-eu.intentiq.com
+sync-gdpr-v4-eu.intentiq.com
+sync-gdpr-v4-test.intentiq.com
+sync-gdpr-v4.intentiq.com
+sync-gdpr.intentiq.com
 sync-ua.adtelligent.com
 sync-us.adtelligent.com
+sync-waf5.intentiq.com
 sync.adaptv.advertising.comengine.adzerk.net
 sync.adtelligent.com
 sync.dmp.otm-r.com
 sync.doubleverify.com
 sync.exe.bid
 sync.illumin.com
+sync.intentiq.com
 sync.jivox.com
 sync.outbrain.com
 sync.popin.cc
@@ -59647,6 +59768,7 @@ trafficmedia.click.org
 trafficp.fmc.inrix.com
 trafficshaping.dsp.mp.microsoft.com
 trafficstaging.bloomreach.com
+trail.intentiq.com
 trail.issuu.com
 trail.vdo.ai
 train-visaextras.visa.epsilon.com
@@ -60892,6 +61014,7 @@ url1860.fullcontact.com
 url2629.indicative.com
 url2png.tools.randi.adswizz.com
 url7100.pathfactory.com
+url8257.fattail.com
 url8670.dynamicyield.com
 url8697.indicative.com
 urlanalyzer.jumpshot.com
@@ -62369,11 +62492,14 @@ vpkppiku-android-4-0-2-0-0-9.mobile-sdk-api.intercom.io
 vpkppiku-ios-3-23.mobile-sdk-api.intercom.io
 vpn-aws-eu.abtasty.com
 vpn-ca.abtasty.com
+vpn-dev.intentiq.com
+vpn-eu.intentiq.com
 vpn-iad.int.movableink.com
 vpn-mgmt-dev.gcp.exponea.com
 vpn-mgmt-sec-01.gcp.exponea.com
 vpn-mgmt-sec-02.gcp.exponea.com
 vpn-ord.int.movableink.com
+vpn-prod.intentiq.com
 vpn-rld.int.movableink.com
 vpn-staging.moengage.com
 vpn-status.exponea.com
@@ -62972,6 +63098,7 @@ web-service.cloud.figure-eight.com
 web-service.iciyoqav9fyuf25r.figure-eight.com
 web-stg.persado.com
 web-takeda-uat.epsilon.com
+web-test.intentiq.com
 web-uat-buck.epsilon.com
 web-uat.algn.epsilon.com
 web-writer.br.smartlook.com
@@ -63457,6 +63584,7 @@ whm.netfactor.com
 whm.stage-pizzaparty.persado.com
 whm.stage.persado.com
 whm.stg2.persado.com
+who.fattail.com
 whocaresme.eskimi.com
 whois.cloud.tencent.com
 wholefoods.ingest.reporting.creator-prod.zmags.com
@@ -64477,6 +64605,7 @@ www.adfs-lgn.epsilon.com
 www.adfs-skynettest.epsilon.com
 www.adfs.ifood.cdtapps.com
 www.adgreetz.com
+www.aditude.com
 www.adjust.com
 www.adjust.world
 www.adlibrary360.nielsen.com
@@ -64528,6 +64657,7 @@ www.adsrauthkeyprod.epsilon.com
 www.adsrauthkeyuat.epsilon.com
 www.adss.novantas.com
 www.adstage.io
+www.adstradata.com
 www.adswizz.com
 www.adtelligent.com
 www.adtheorent.com
@@ -65542,6 +65672,7 @@ www.faces.fiksu.com
 www.factors.ai
 www.factual.com
 www.fasttext.audiencediscovery.innovation.abtasty.com
+www.fattail.com
 www.fauxjohnmadden.lockerdome.com
 www.fb-dev.centerfield.com
 www.fbads.adparlor.com
@@ -65906,6 +66037,7 @@ www.inta-prod-aem.epsilon.com
 www.inta-uat-aem.epsilon.com
 www.integralads.com
 www.intellimize.com
+www.intentiq.com
 www.intergient.com
 www.intlwebservice.epsilon.com
 www.intuit-gopayment.com.ssopt.net
