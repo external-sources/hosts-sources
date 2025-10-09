@@ -7120,6 +7120,7 @@ academy-app.quantummetric.com
 academy-sync.quantummetric.com
 academy.appboy.com
 academy.bloomreach.com
+academy.emplifi.io
 academy.evergage.com
 academy.exponea.com
 academy.leadfuze.com
@@ -8015,6 +8016,7 @@ ads.demo.dynatrace.com
 ads.dev.optable.co
 ads.dev.pinger.com
 ads.dyn.indeed.com
+ads.emarketer.com
 ads.eskimi.com
 ads.evidon.com
 ads.feathr.co
@@ -8702,6 +8704,7 @@ agenda-widget-1638304908.layer.getwarmly.com
 agenda-widget-631005121.layer.getwarmly.com
 agenda-widget-979873625.layer.getwarmly.com
 agent-cf.bc0a.com
+agent-docs.emplifi.io
 agent-management-stg.dis-platform.cloud.precisely.com
 agent-management.dis-platform.cloud.precisely.com
 agent-message-adapter-stg.dis-platform.cloud.precisely.com
@@ -8709,6 +8712,7 @@ agent-message-adapter.dis-platform.cloud.precisely.com
 agent-post-office-stg.dis-platform.cloud.precisely.com
 agent-post-office.dis-platform.cloud.precisely.com
 agent-post-office.dis-platform.eu1.cloud.precisely.com
+agent-qa.docs.emplifi.io
 agent-stg.dis.cloud.precisely.com
 agent.dis.cloud.precisely.com
 agentportal.centerfield.com
@@ -8818,7 +8822,9 @@ ai-personalization-prod-static.demandbase.com
 ai-rec-training-gcloud.k8s.engagement.bloomreach.com
 ai-rec-training-gengland.k8s.engagement.bloomreach.com
 ai-rec-training-gus.k8s.engagement.bloomreach.com
+ai-transformation.tidio.com
 ai.adtheorent.com
+ai.chatfuel.com
 ai.goodsblock.dt00.net
 ai.omeclk.com
 ai.omeda.com
@@ -10403,6 +10409,7 @@ analytics.mopub.com
 analytics.movableink.com
 analytics.msnbc.com
 analytics.na1.fourth.com
+analytics.napkin.ai
 analytics.narvar.com
 analytics.nbcnews.com
 analytics.ncontext.com
@@ -11221,6 +11228,7 @@ api.fedexuat.epsilon.com
 api.feedback.us.pendo.io
 api.fidzup.com
 api.firstrain.com
+api.flick.social
 api.forter.com
 api.found.ee
 api.fpjs.io
@@ -11451,6 +11459,7 @@ api.ssp.omnitagjs.com
 api.stackadapt.com
 api.stage.gimbal.com
 api.staging.cloud.somin.ai
+api.staging.flick.social
 api.staging.found.ee
 api.staging.growthloop.com
 api.staging.identitymatrix.ai
@@ -11858,6 +11867,7 @@ app.izenda.com
 app.jasper.ai
 app.justuno.com
 app.khoros.com
+app.knowledge.emplifi.io
 app.kompyte.com
 app.labs.livesession.io
 app.leadberry.com
@@ -14185,6 +14195,7 @@ background.layer.getwarmly.com
 backgrounds-bug.layer.getwarmly.com
 backgrounds-carousel-tooltip.layer.getwarmly.com
 backinthesaddle.attn.tv
+backlink.linkgraph.com
 backlog.acquia.com
 backoffice-api-dev.pricespider.com
 backoffice-api.pricespider.com
@@ -16156,6 +16167,7 @@ brand-showrooms-onboarding.feed.xyz
 brand-tech.net
 brand.cience.com
 brand.deptagency.com
+brand.emplifi.io
 brand.informatica.com
 brand.khoros.com
 brand.markmonitor.com
@@ -16184,6 +16196,7 @@ brandgame.tresensa.com
 brandguidelines.outbrain.com
 branding-api.brevo.com
 branding-frontend.brevo.com
+branding-na2.emarketer.com
 branding.kws.staging.superawesome.com
 branding.kws.superawesome.com
 branding.onthe.io
@@ -17729,6 +17742,7 @@ carrefour.everestengagement.com
 carrefourbr.palantirfoundry.com
 carriethru.infusionsoft.app
 carrot.palantirfoundry.com
+carrot2-dev.linkgraph.com
 carry.palantirfoundry.com
 cars-to-buy.com
 cars.ads.placeiq.com
@@ -19558,7 +19572,10 @@ cindyfucker.eskimi.com
 cinemark.evergage.com
 cineworld.evyy.net
 cint.insightexpressai.com
+cio-analytics.flick.social
+cio-anlytics.flick.social
 cio-jobs.techtarget.com
+cio-link.flick.social
 cio.mailtrack.dlvr.it
 ciodecisions.techtarget.com
 ciodecisionsconference.techtarget.com
@@ -21049,6 +21066,7 @@ connect-sh.engagement.bloomreach.com
 connect.adcore.com
 connect.bloomreach.com
 connect.contentanalyticsinc.com
+connect.emplifi.io
 connect.evocalize.com
 connect.eyeota.com
 connect.factual.com
@@ -22352,6 +22370,7 @@ crm.adswizz.com
 crm.brevo.com
 crm.infusionsoft.app
 crm.labs.livesession.io
+crm.linkgraph.com
 crm.livesession.io
 crm.localiq.com
 crm.maillist-manage.com
@@ -23224,6 +23243,7 @@ cx-rm04.na1.hubspotlinks.com
 cx-x604.na1.hubspotlinks.com
 cx-xk04.na1.hubspotlinks.com
 cx.atdmt.com
+cx.emplifi.io
 cx.ish.atdmt.com
 cx0rz04.na1.hubspotlinks.com
 cx0vi-lqk4t.ads.tremorhub.com
@@ -26872,6 +26892,7 @@ design-system-v10.prism.cloud.precisely.com
 design-system-v9-stg.prism.cloud.precisely.com
 design-system-v9.prism.cloud.precisely.com
 design-system.containers-drew.simpli.fi
+design-system.flick.social
 design-system.jasper.ai
 design-system.prism.cloud.precisely.com
 design.bighappy.co
@@ -27120,6 +27141,7 @@ dev.kochava.com
 dev.kustomer.com
 dev.landrover.epsilon.com
 dev.lap2.epsilon.com
+dev.linkgraph.com
 dev.localiq.com
 dev.manychat.com
 dev.marketmuse.com
@@ -27846,6 +27868,7 @@ docker-registry.found.ee
 docker.powerlinks.com
 docker.smartlook.com
 docker.umami.is
+docs-internal.emplifi.io
 docs-staging.ubid.iponweb.com
 docs.adverity.com
 docs.appdynamics.com
@@ -27857,6 +27880,7 @@ docs.clickfunnels.com
 docs.dev.kochava.com
 docs.econda.de
 docs.embeddables.com
+docs.emplifi.io
 docs.exponea.com
 docs.fueled.io
 docs.fullcontact.com
@@ -29350,6 +29374,7 @@ em.acuityplatform.com
 em.anexinet.com
 em.dynamicyield.com
 em.dynatrace.com
+em.emplifi.io
 em.evidon.com
 em.fullcontact.com
 em.gimbal.com
@@ -29390,11 +29415,14 @@ email.fusion92.com
 email.getambassador.com
 email.gigya.com
 email.identitymatrix.ai
+email.info1.linkgraph.com
+email.info2.linkgraph.com
 email.inrix.com
 email.insent.ai
 email.iperceptions.com
 email.iponweb.com
 email.kochava.com
+email.lc.linkgraph.com
 email.leadin.com
 email.maxmind.com
 email.mg.aislelabs.com
@@ -29438,6 +29466,7 @@ emaillinks.factual.com
 emailobtainer.quanticmind.com
 emailprojet.sociabble.com
 emails.bloomreach.com
+emails.customers.ai
 emails.exponea.com
 emails.smartwishlist.webmarked.net
 emails.umami.is
@@ -29569,6 +29598,8 @@ emp.adverity.com
 empireflippers.pushcrew.com
 empirestreaming.deliveryengine.adswizz.com
 empiriagroup.turtl.co
+emplifi.io
+emplifier.emplifi.io
 employee-api-test.deptagency.com
 employee-api.deptagency.com
 employee.precisely.com
@@ -29735,6 +29766,7 @@ engine-us-west-2.adzerk.net
 engine.adzerk.net
 engine.factual.com
 engine.monetate.net
+engineering-docs.flick.social
 engineering.anaplan.com
 engineering.bloomreach.com
 engineering.brevo.com
@@ -30453,6 +30485,7 @@ eu1-pmux.uptempo.io
 eu1-status.exponea.com
 eu1.api.clevertap.com
 eu1.heatmap.it
+eu1.jacquard.com
 eu1.search.blue.cdtapps.com
 eu1.staging-2.dashboard.clevertap.com
 eu1.staging-branch-20.dashboard.clevertap.com
@@ -30636,6 +30669,7 @@ events.disneyadsales.com
 events.dynamicyield.com
 events.elevenlabs.io
 events.eloqua.com
+events.emplifi.io
 events.epsilon.com
 events.evergage.com
 events.exactvisitor.com
@@ -31347,6 +31381,7 @@ favourx.eskimi.com
 fawaynekiddy.eskimi.com
 faws.ws.markmonitor.com
 fb-accounts.com
+fb-analytics.flick.social
 fb-api.otter.ai
 fb-dev.centerfield.com
 fb.fusepump.com
@@ -31573,6 +31608,7 @@ feedback.everyonesocial.com
 feedback.iperceptions.com
 feedback.manychat.com
 feedback.plausible.io
+feedback.productboard.emplifi.io
 feedback.publicisgroupe.net
 feedback.regie.ai
 feedback.sapient.com
@@ -32891,7 +32927,9 @@ frontend-staging1.do-k8s-staging.optimonk.com
 frontend-staging2.do-k8s-staging.optimonk.com
 frontend.crowdtest.yango.com
 frontend.do-k8s.optimonk.com
+frontend.flick.social
 frontend.id-visitors.com
+frontend.staging.flick.social
 frontendlb.id-visitors.com
 frontera.clickfunnels.com
 frontgate.btttag.com
@@ -34072,6 +34110,7 @@ go.click.org
 go.cmglocalsolutions.com
 go.custora.com
 go.ducenit.com
+go.emplifi.io
 go.epsilon.com
 go.everyonesocial.com
 go.evrythng.com
@@ -34094,6 +34133,7 @@ go.inmarket.com
 go.integralads.com
 go.ispot.tv
 go.itracker360.com
+go.jacquard.com
 go.jumpshot.com
 go.kochava.com
 go.liveramp.com
@@ -34664,6 +34704,7 @@ gs.api.igodigital.com
 gs.eulerian.net
 gs1.evrythng.com
 gsbpublic.migrate.acquia.com
+gsc.linkgraph.com
 gscounters.us1.gigya.com
 gsej.maillist-manage.com
 gsj5.app.link
@@ -34683,6 +34724,7 @@ gsn-gameshowchannnel-2.roku.wurl.com
 gsnblackjack.tresensa.com
 gsncasino.tresensa.com
 gsnlink.6sense.com
+gsnlink.emplifi.io
 gspro.hit.gemius.pl
 gsshop-test.rmp-portal.moloco.com
 gsshop.rmp-portal.moloco.com
@@ -35092,6 +35134,7 @@ hello.ispot.tv
 hello.jasper.ai
 hello.khoros.com
 hello.kochava.com
+hello.linkgraph.com
 hello.mediamath.com
 hello.mparticle.com
 hello.pendo.io
@@ -35703,6 +35746,7 @@ hublp.near.co
 hubspot-integration.mouseflow.com
 hubspot.anexinet.com
 hubspot.kube-prod1.smartly.io
+hubspot.linkgraph.com
 hubspot1.evergage.com
 huckabuy.com
 hudlprod.mktoweb.com
@@ -36485,6 +36529,7 @@ info.iprospect.com
 info.jasper.ai
 info.jivox.com
 info.krux.com
+info.linkgraph.com
 info.localiq.com
 info.maritz.com
 info.marketlinc.com
@@ -36530,7 +36575,9 @@ info.zignallabs.com
 info.zingtree.com
 info.zmags.com
 info1.evidon.com
+info1.linkgraph.com
 info2.bizible.com
+info2.linkgraph.com
 info2.trovi.com
 info461.clickfunnels.com
 info4fb615.clickfunnels.com
@@ -38136,6 +38183,7 @@ keenestatecollege.co1.qualtrics.com
 keenlab.tencent.com
 keepaneyeadmk.hit.gemius.pl
 keepaneyegdemk.hit.gemius.pl
+keeper-automator.emplifi.io
 keeper.deptagency.com
 keeperhandbook.deptagency.com
 keepsakequilting.recs.igodigital.com
@@ -38334,6 +38382,7 @@ knltb.blueconic.net
 know.appnexus.com
 know.localiq.com
 knowi.com
+knowledge.emplifi.io
 knowledge.epsilon.com
 knowledge.plotprojects.com
 knowledgebase.omeda.com
@@ -39141,6 +39190,7 @@ learn.areal.ai
 learn.callminer.com
 learn.convertkit.com
 learn.epsilon.com
+learn.flick.social
 learn.fueled.io
 learn.fullstory.com
 learn.g2crowd.com
@@ -39159,6 +39209,7 @@ learn.researchnow.com
 learn.salesloft.com
 learn.smartly.io
 learn.stackadapt.com
+learn.staging.flick.social
 learn.tencent.com
 learn.valassis.com
 learn.zappi.io
@@ -39167,6 +39218,7 @@ learn2earnathome.clickfunnels.com
 learning.anaplan.com
 learning.bloomreach.com
 learning.brevo.com
+learning.emplifi.io
 learning.movableink.com
 learning.syndigo.com
 learninghub.persado.com
@@ -40601,6 +40653,7 @@ mail-lb.techtarget.com
 mail-na.sapient.com
 mail-p1.custora.com
 mail-track1.smartlook.com
+mail-tracking.jacquard.com
 mail.across.it
 mail.acuityplatform.com
 mail.adstradata.com
@@ -41002,11 +41055,13 @@ marketing.cience.com
 marketing.cnevids.com
 marketing.commandbar.com
 marketing.coveo.com
+marketing.deepbrain.io
 marketing.disneyadsales.com
 marketing.dynamicyield.com
 marketing.email.maxmind.com
 marketing.entrinsik.com
 marketing.evidon.com
+marketing.flick.social
 marketing.fusion92.com
 marketing.getambassador.com
 marketing.infogix.com
@@ -41021,6 +41076,7 @@ marketing.localiq.com
 marketing.marketmuse.com
 marketing.mouseflow.com
 marketing.nextit.com
+marketing.optimove.com
 marketing.outbrain.com
 marketing.predic.io
 marketing.prominnov.com
@@ -42090,6 +42146,7 @@ minecraft-virusz.olark.com
 mineral-container-registry.palantirfoundry.com
 mineral-mgmt.palantirfoundry.com
 mineralstech.palantirfoundry.com
+mingle.emarketer.com
 minhga.eskimi.com
 miniapps.retail.tencent.com
 minide-simulator.apps.randi.adswizz.com
@@ -42207,6 +42264,7 @@ mktapi.keap.com
 mktcloud.tencent.com
 mkto-ab090031.com
 mkto.bronto.com
+mkto.cloudinary.com
 mkto.similarweb.com
 mkto.techtarget.com
 mktoem.everestengagement.com
@@ -42878,6 +42936,7 @@ monitoring.algolia.com
 monitoring.bigbrain.me
 monitoring.calltracks.com
 monitoring.cdg.exponea.com
+monitoring.chatfuel.com
 monitoring.crawler.dev.ad.gt
 monitoring.crawler.stg.ad.gt
 monitoring.dev.integrations.exponea.com
@@ -42906,9 +42965,11 @@ monitoring.uplynk.com
 monitoring.us-central1.siem.exponea.com
 monitoring.us.exponea.com
 monitoring10-draftkingseu.pusher.com
+monitoring2.chatfuel.com
 monitoring2.uplynk.com
 monitoring20-eu.pusher.com
 monitoring20-sa1.pusher.com
+monitoring3.chatfuel.com
 monitoringdev.cloud.coveo.com
 monitorsdk.appsflyersdk.com
 monitronics.getambassador.com
@@ -47289,6 +47350,7 @@ piwik.reactful.com
 pix.cdnwidget.com
 pixartprinting-by.accengage.net
 pixbypriti.bitrix24.com
+pixel-api.customers.ai
 pixel-geo.prfct.co
 pixel-prod.sprinklr.com
 pixel-prod2.sprinklr.com
@@ -47334,6 +47396,7 @@ pixelscrapper.recurly.com
 pixeltrack.issuu.com
 pixelweb-1.clarivoy.com
 pixlc.iadvize.com
+pixlee.svc.emplifi.io
 pixmania-co.uk.eulerian.net
 pixmania-no.eulerian.net
 pixmania.iadvize.com
@@ -48062,6 +48125,7 @@ postgres-test.staging.nyc2.do.pushcrew.com
 postgres.expeditor.staging.blr.do.pushcrew.com
 postgres1.expeditor.staging.blr.do.pushcrew.com
 postgres2.expeditor.staging.blr.do.pushcrew.com
+posthog.dev.emplifi.io
 postmail.palantirfoundry.com
 postman.clar.io
 postnl.blueconic.net
@@ -52722,6 +52786,7 @@ sales.cardlytics.com
 sales.clickfirstmarketing.com
 sales.cmglocalsolutions.com
 sales.crimsonhexagon.com
+sales.customers.ai
 sales.eloqua.com
 sales.en.acceptance.optimonk.com
 sales.enlyft.com
@@ -53333,10 +53398,12 @@ scentia.mktoweb.com
 scfd.maillist-manage.com
 scfields.brand.stg.markmonitor.com
 schedule.cience.com
+schedule.flick.social
 schedule.publicisgroupe.net
 schedule.qa.cience.com
 schedule.qualified.com
 schedule.sapient.com
+schedule.staging.flick.social
 schedule.trackdrive.net
 scheduler-api-qa.rd.linksynergy.com
 scheduler-qa.rd.linksynergy.com
@@ -53509,6 +53576,7 @@ sd-atl1.turn.com
 sd-hkg1.turn.com
 sd-sjc2.turn.com
 sd.app.sandbox.superawesome.com
+sd.emplifi.io
 sd.iperceptions.com
 sd.secondspace.com
 sd.turn.com
@@ -55287,6 +55355,7 @@ smithfieldagency.adverity.com
 smithlarry55.clickfunnels.com
 smk-status.exponea.com
 smlv.hit.gemius.pl
+smm.flick.social
 smoke.pingdom.com
 smokeball.widget.insent.ai
 smpl.hit.gemius.pl
@@ -55343,6 +55412,7 @@ smtp61.infusionsoft.com
 smtp62.infusionsoft.com
 smtpbg111.tencent.com
 smtpbg53.tencent.com
+smtracking.aistudios.com
 smu.az1.qualtrics.com
 smu.qualtrics.com
 smurfsarchery.tresensa.com
@@ -55618,6 +55688,9 @@ sosland.omeclk.com
 sosoir-lesoir.os.tc
 sot3sypnxv.eoapxl.com
 soter4-sandbox.palantirfoundry.com
+soul.app.emplifi.io
+soul.dev.emplifi.io
+soul.emplifi.io
 soullight.clickfunnels.com
 sound.gimbal.com
 soundcloud.adswizz.com
@@ -56172,6 +56245,7 @@ staging.digitaldesign.epsilon.com
 staging.dmc.epsilon.com
 staging.exchange.movableink.com
 staging.fcamarketcenter.epsilon.com
+staging.flick.social
 staging.found.ee
 staging.fullcontact.com
 staging.fullthrottle.ai
@@ -56203,6 +56277,7 @@ staging.root.found.ee
 staging.salesloft.com
 staging.seo.sandbox.adthrive.com
 staging.smartbugmedia.com
+staging.smm.flick.social
 staging.somin.ai
 staging.spectrum.precisely.com
 staging.sprig.com
@@ -56594,6 +56669,7 @@ status.exponea.com
 status.fattail.com
 status.figure-eight.com
 status.fingerprintjs.com
+status.flick.social
 status.foursquare.com
 status.fullcontact.com
 status.fullstory.com
@@ -56757,6 +56833,7 @@ stg.automate.precisely.com
 stg.be.intentiq.com
 stg.cda.intentiq.com
 stg.cda1.intentiq.com
+stg.linkgraph.com
 stg.nordstromrack.com.ssopt.net
 stg.persado.com
 stg.tapad.com
@@ -56964,6 +57041,7 @@ studio.247-inc.net
 studio.aarki.com
 studio.cloud.tencent.com
 studio.dstillery.com
+studio.emplifi.io
 studio.labs.adswizz.com
 studio.outbrain.com
 studiobeta.aarki.com
@@ -57053,6 +57131,7 @@ summary.stackadapt.com
 summerimpressions.dstillery.com
 summit.appdynamics.com
 summit.appnexus.com
+summit.emplifi.io
 summit.exponea.com
 summit.palantirfoundry.com
 summit.sprinklr.com
@@ -57144,6 +57223,7 @@ support.countly.com
 support.datalicious.com
 support.dstillery.com
 support.eltoro.com
+support.emplifi.io
 support.epsilon.com
 support.eskimi.com
 support.evergage.com
@@ -59683,6 +59763,7 @@ tracking.bitchute.com
 tracking.cengage.com
 tracking.centerfield.com
 tracking.channelsight.com
+tracking.chatfuel.com
 tracking.chilipiper.com
 tracking.cloudinary.com
 tracking.datadriveninvestor.com
@@ -59697,6 +59778,7 @@ tracking.movies.yango.com
 tracking.mrdeepfakes.com
 tracking.newsletter.recurly.com
 tracking.omnitagjs.com
+tracking.optimove.com
 tracking.portal.appdynamics.com
 tracking.precisely.com
 tracking.prestable.movies.yango.com
@@ -60698,6 +60780,7 @@ uk1-api.eng.bloomreach.com
 uk1-cdn.eng.bloomreach.com
 uk1-status.exponea.com
 uk1.eng.bloomreach.com
+uk1.jacquard.com
 uk421.infusionsoft.com
 ukanalytics.blue.azure.cdtapps.com
 ukata.turtl.co
@@ -61451,6 +61534,7 @@ us2-cdn.eng.bloomreach.com
 us2-status.exponea.com
 us2.eng.bloomreach.com
 us2.heatmap.it
+us2.jacquard.com
 us2.qualtrics.com
 us2.tribl.io
 us28.app.link
@@ -63115,6 +63199,7 @@ web.bi.wi.epsilon.com
 web.ciradar.com
 web.click.org
 web.co1.qualtrics.com
+web.fb-analytics.flick.social
 web.hb.ad.cpe.dotomi.com
 web.icegram.com
 web.indicative.com
@@ -63962,6 +64047,7 @@ wptt-lb.techtarget.com
 wpvip-development.stackadapt.com
 wpvip-staging.stackadapt.com
 wpvip.stackadapt.com
+wpx.customers.ai
 wpz6.app.link
 wq360.infusionsoft.com
 wqscc.palantirfoundry.com
@@ -65576,6 +65662,7 @@ www.emea1wac.global.publicisgroupe.net
 www.emea2.global.publicisgroupe.net
 www.emea2access.publicisgroupe.net
 www.emea2wac.global.publicisgroupe.net
+www.emplifi.io
 www.empyr.com
 www.enecto.com
 www.energysage.com.ssopt.net
@@ -65700,6 +65787,7 @@ www.fivetier.com
 www.fix-public-access-2108689370.layer.getwarmly.com
 www.fix-public-access.layer.getwarmly.com
 www.flex.bi
+www.flick.social
 www.florida.localiq.com
 www.floridatoday.localiq.com
 www.focusoptimal.com
@@ -66073,6 +66161,7 @@ www.iyfbodn.com
 www.izenda.com
 www.j.fpjs.io
 www.jabber.infusionsoft.com
+www.jacquard.com
 www.jamf.maritz.com
 www.jasper.ai
 www.jcpapps-citrix.epsilon.com
@@ -66174,6 +66263,7 @@ www.lijit.com
 www.limbik.com
 www.link.dynamicyield.com
 www.linkedin.comengine.adzerk.net
+www.linkgraph.com
 www.linkmink.com
 www.linksense.io
 www.linksynergy.com
