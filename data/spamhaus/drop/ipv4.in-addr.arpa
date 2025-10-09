@@ -834,8 +834,6 @@
 22.0.68.58.103.rpz-client-ip	CNAME	rpz-drop.
 24.0.200.72.103.rpz-ip	CNAME	.
 24.0.200.72.103.rpz-client-ip	CNAME	rpz-drop.
-22.0.36.75.103.rpz-ip	CNAME	.
-22.0.36.75.103.rpz-client-ip	CNAME	rpz-drop.
 22.0.132.80.103.rpz-ip	CNAME	.
 22.0.132.80.103.rpz-client-ip	CNAME	rpz-drop.
 22.0.44.81.103.rpz-ip	CNAME	.
