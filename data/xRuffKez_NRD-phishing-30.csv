@@ -106,6 +106,7 @@ data-issue-and-pr-hovercards-enabled
 data-locale="en"
 data-persist-list=false
 data-project-hovercards-enabled
+data-react-profiling="true"
 data-target="custom-scopes.customscopesnamefield"
 data-target="custom-scopes.customscopesqueryfield"
 data-target="qbsearch-input.inputbutton"
