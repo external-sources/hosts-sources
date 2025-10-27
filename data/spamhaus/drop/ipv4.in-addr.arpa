@@ -900,6 +900,8 @@
 22.0.184.193.103.rpz-client-ip	CNAME	rpz-drop.
 22.0.144.195.103.rpz-ip	CNAME	.
 22.0.144.195.103.rpz-client-ip	CNAME	rpz-drop.
+22.0.36.198.103.rpz-ip	CNAME	.
+22.0.36.198.103.rpz-client-ip	CNAME	rpz-drop.
 22.0.56.214.103.rpz-ip	CNAME	.
 22.0.56.214.103.rpz-client-ip	CNAME	rpz-drop.
 22.0.80.215.103.rpz-ip	CNAME	.
