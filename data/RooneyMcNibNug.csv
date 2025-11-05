@@ -7229,6 +7229,7 @@ accounts.iadvize.com
 accounts.marketmuse.com
 accounts.mx
 accounts.platform.cloud.precisely.com
+accounts.vector.co
 accountsections.com
 accountspayable.staging.superawesome.com
 accountspayable.superawesome.com
@@ -10417,6 +10418,7 @@ analytics.gd3.exponea.com
 analytics.gdo.gdev.exponea.com
 analytics.getsocial.io
 analytics.givebutter.com
+analytics.goldcast.io
 analytics.govini.com
 analytics.groundtruth.com
 analytics.groupm.com
@@ -11133,6 +11135,7 @@ api-smtp-beta.brevo.com
 api-sofiiamarusyk.aisdr.com
 api-ssl.demandbase.com
 api-staging.connect.bloomreach.com
+api-staging.klue.com
 api-staging.locatorx.com
 api-staging.sprig.com
 api-staging.staging.sprig.com
@@ -11362,6 +11365,7 @@ api.jivox.com
 api.journey.acquia.com
 api.kampyle.com
 api.keap.com
+api.klue.com
 api.kochava.com
 api.koli.somin.ai
 api.ksv.staging.superawesome.com
@@ -11585,8 +11589,10 @@ api.us1.automate.precisely.com
 api.us1.exponea.com
 api.us1.stg.automate.precisely.com
 api.usemessages.com
+api.usergems.com
 api.v3.factual.com
 api.valassis.com
+api.vector.co
 api.vemba.io
 api.versium.com
 api.viafoura.co
@@ -11806,9 +11812,11 @@ app-stage.optibase.io
 app-staging-alt.jasper.ai
 app-staging-us2.jasper.ai
 app-staging.jasper.ai
+app-staging.klue.com
 app-staging.sprig.com
 app-staging.staging.sprig.com
 app-staging.v2.thatsnoble.com
+app-staging2.klue.com
 app-static.turtl.co
 app-status.sprinklr.com
 app-stg.anaplan.com
@@ -11941,6 +11949,7 @@ app.izenda.com
 app.jasper.ai
 app.justuno.com
 app.khoros.com
+app.klue.com
 app.knowledge.emplifi.io
 app.kompyte.com
 app.labs.livesession.io
@@ -12064,8 +12073,10 @@ app.uk.exponea.com
 app.umami.is
 app.upvert.io
 app.us1.exponea.com
+app.usergems.com
 app.usersurge.com
 app.v2.thatsnoble.com
+app.vector.co
 app.versium.com
 app.vibetrace.com
 app.viralsweep.com
@@ -13409,10 +13420,12 @@ ausydsipmst0001.publicisgroupe.net
 aut.au1.qualtrics.com
 auterion.palantirfoundry.com
 auth-dev.iponweb.com
+auth-dev.vector.co
 auth-dr.cloud.precisely.com
 auth-internal.brevo.com
 auth-prod.marketmuse.com
 auth-service.adtelligent.com
+auth-stage.vector.co
 auth-stg.cloud.precisely.com
 auth.brevo.com
 auth.cloud.precisely.com
@@ -13447,6 +13460,7 @@ auth.space.yango.com
 auth.sso.crazy-frog.walkbase.com
 auth.staging.infusionsoft.app
 auth.team-7.sandbox.zappi.io
+auth.vector.co
 auth0.intercom.io
 auth0.mktoweb.com
 auth0.team-7.sandbox.zappi.io
@@ -15675,6 +15689,7 @@ blh.soundestlink.com
 blibbl.crawling.us-east-1.k8s.aws.pricespider.com
 bliberman.adzerk.net
 blindlydivision.com
+blindspots.klue.com
 blink.refersion.com
 blissful-harmony.palantirfoundry.com
 blisslife.clickfunnels.com
@@ -16897,6 +16912,7 @@ business.getclicky.com
 business.infusionsoft.app
 business.localiq.com
 business.taxi.yango.com
+business.usergems.com
 business.yango.com
 businessalabama.privy.com
 businessapps-support.deptagency.com
@@ -18891,6 +18907,7 @@ cdn.umeng.com
 cdn.unifyintent.com
 cdn.us.prod.inference.ai.algolia.com
 cdn.us1.exponea.com
+cdn.vector.co
 cdn.vibetrace.com
 cdn.viglink.com
 cdn.vindicosuite.com
@@ -18935,6 +18952,7 @@ cdn2.mouseflow.com
 cdn2.onthe.io
 cdn2.otm-r.com
 cdn2.storehippo.com
+cdn2.vector.co
 cdn2.vibetrace.com
 cdn3-origin.pricespider.com
 cdn3.abtasty.com
@@ -20295,6 +20313,7 @@ cleossecret.storehippo.com
 clerk.battlegroundai.com
 clerk.getclicky.com
 clerk.marketmuse.com
+clerk.vector.co
 clevelreports.youbora.com
 clever.iadvize.com
 cleverstory.paperflite.com
@@ -20441,6 +20460,7 @@ clicks.everyonesocial.com
 clicks.expressvpn.com
 clicks.fiksu.com
 clicks.going.com
+clicks.goldcast.io
 clicks.govini.com
 clicks.hmd.com
 clicks.news.ipvanish.com
@@ -21072,6 +21092,7 @@ collect-eu-west-1.tealiumiq.com
 collect-us-east-1.tealiumiq.com
 collect-us-west-1.tealiumiq.com
 collect.albacross.com
+collect.app.klue.com
 collect.groupme.com
 collect.igodigital.com
 collect.iperceptions.com
@@ -21266,6 +21287,7 @@ compete.evergage.com
 competeshark.com
 competitions.staging.superawesome.com
 competitions.superawesome.com
+competitive-enablement-jobs.klue.com
 complai.persado.com
 complementics.com
 completetheseoffers.pushcrew.com
@@ -21534,6 +21556,7 @@ content.persado.com
 content.placeiq.com
 content.plotprojects.com
 content.proxem.com
+content.rc.klue.com
 content.revealmobile.com
 content.roojoom.com
 content.secondspace.com
@@ -21543,6 +21566,7 @@ content.superawesome.com
 content.syndigo.com
 content.thoughtspot.com
 content.umami.is
+content.usergems.com
 content.walkbase.com
 content.webcollage.net
 content.zappi.io
@@ -26103,6 +26127,7 @@ data.pendo.6sense.com
 data.pendo.io
 data.placeiq.com
 data.precisely.com
+data.rc.klue.com
 data.retentionscience.com
 data.rmp-internal.moloco.com
 data.safegraph.com
@@ -26116,6 +26141,7 @@ data.th.giraff.io
 data.thoughtspot.com
 data.track.convertexperiments.com
 data.unacast.com
+data.usergems.com
 data.wip.infutor.com
 data.wurl.com
 data.zqtk.net
@@ -27156,6 +27182,7 @@ demo.hourglass.hightouch.com
 demo.infusionsoft.com
 demo.inrix.com
 demo.jasper.ai
+demo.klue.com
 demo.localiq.com
 demo.omeda.com
 demo.optable.co
@@ -27171,6 +27198,7 @@ demo.static.pub.247-inc.net
 demo.toro1.instances-dev.optable.co
 demo.turn.com
 demo.ubid.iponweb.com
+demo.usergems.com
 demo.visa.epsilon.com
 demo.x.persado.com
 demo.xiaoma.tencent.com
@@ -27643,6 +27671,7 @@ develop.abc.juicer.cc
 develop.alpha.rtb-dashboard.mgid.com
 develop.dealsmarketplace.fattail.com
 develop.juicer.cc
+develop.usergems.com
 developer-dev.cloud.precisely.com
 developer-stg.cloud.precisely.com
 developer.bloomreach.com
@@ -32752,6 +32781,7 @@ forevernot.tresensa.com
 forexbook.pushcrew.com
 forge.getclicky.com
 forge.palantirfoundry.com
+forge.usergems.com
 forkissme.eskimi.com
 forllx4.app.link
 form-validation.layer.getwarmly.com
@@ -33497,6 +33527,36 @@ frontend-na.collective.kochava.com
 frontend-sourcemaps.kube-prod1.smartly.io
 frontend-staging1.do-k8s-staging.optimonk.com
 frontend-staging2.do-k8s-staging.optimonk.com
+frontend-v2-br-b2c-1068-fe-add.app-staging.klue.com
+frontend-v2-pr-7364.app-staging.klue.com
+frontend-v2-pr-7374.app-staging.klue.com
+frontend-v2-pr-7380.app-staging.klue.com
+frontend-v2-pr-7390.app-staging.klue.com
+frontend-v2-pr-7391.app-staging.klue.com
+frontend-v2-pr-7392.app-staging.klue.com
+frontend-v2-pr-7396.app-staging.klue.com
+frontend-v2-pr-7397.app-staging.klue.com
+frontend-v2-pr-7405.app-staging.klue.com
+frontend-v2-pr-7407.app-staging.klue.com
+frontend-v2-pr-7417.app-staging.klue.com
+frontend-v2-pr-7419.app-staging.klue.com
+frontend-v2-pr-7420.app-staging.klue.com
+frontend-v2-pr-7421.app-staging.klue.com
+frontend-v2-pr-7425.app-staging.klue.com
+frontend-v2-pr-7431.app-staging.klue.com
+frontend-v2-pr-7435.app-staging.klue.com
+frontend-v2-pr-7437.app-staging.klue.com
+frontend-v2-pr-7438.app-staging.klue.com
+frontend-v2-pr-7441.app-staging.klue.com
+frontend-v2-pr-7443.app-staging.klue.com
+frontend-v2-pr-7444.app-staging.klue.com
+frontend-v2-pr-7446.app-staging.klue.com
+frontend-v2-pr-7447.app-staging.klue.com
+frontend-v2-pr-7448.app-staging.klue.com
+frontend-v2-pr-7449.app-staging.klue.com
+frontend-v2-pr-7456.app-staging.klue.com
+frontend-v2-pr-7460.app-staging.klue.com
+frontend-v2-pr-7463.app-staging.klue.com
 frontend.crowdtest.yango.com
 frontend.do-k8s.optimonk.com
 frontend.flick.social
@@ -34054,6 +34114,7 @@ gbsicl43-ios.mobile-sdk-api.intercom.io
 gbsm.maillist-manage.com
 gbtest.bloomreach.com
 gbud.maillist-manage.com
+gc-analytics.alpha.goldcast.io
 gc-dev.au.pixel.newscgp.com
 gc-sit.epsilon.com
 gc200.infusionsoft.com
@@ -34335,6 +34396,7 @@ get.smartlook.com
 get.sprig.com
 get.streak.com
 get.urbanairship.com
+get.usergems.com
 get.zappi.io
 get86qmkko.eoapxl.com
 getahead.fedexuat.epsilon.com
@@ -34707,6 +34769,7 @@ go.ispot.tv
 go.itracker360.com
 go.jacquard.com
 go.jumpshot.com
+go.klue.com
 go.kochava.com
 go.liveramp.com
 go.localiq.com
@@ -34807,6 +34870,7 @@ goldenrod.palantirfoundry.com
 goldieblox.privy.com
 goldingay.eskimi.com
 goldminerslots.tresensa.com
+goldpan.klue.com
 goldpsych.eu.qualtrics.com
 goldstar.palantirfoundry.com
 golfgalaxy.btttag.com
@@ -34952,6 +35016,7 @@ grafana-pocotf.ops.optable.co
 grafana-stg.cloud.precisely.com
 grafana-usce1.ops.tst.optable.co
 grafana.11x.ai
+grafana.app-dev.klue.com
 grafana.beeketing.com
 grafana.brand-monitor.us-east-1.k8s.aws.pricespider.com
 grafana.cloud-gcp-na-ne1.optable.co
@@ -35717,6 +35782,8 @@ hello.rec.blue.cdtapps.com
 hello.sandbox.zappi.io
 hello.somin.ai
 hello.trackdrive.net
+hello.usergems.com
+hello.vector.co
 hello.zetaglobal.com
 hello.zoominfo.com
 hello0f2c3e.clickfunnels.com
@@ -35743,6 +35810,8 @@ help.adtelligent.com
 help.adthrive.com
 help.adverity.com
 help.aisdr.com
+help.app-staging.klue.com
+help.app.klue.com
 help.appdynamics.com
 help.bloomreach.com
 help.clickfunnels.com
@@ -35778,6 +35847,7 @@ help.smartlook.com
 help.social.conviva.com
 help.storehippo.com
 help.trackonomics.net
+help.usergems.com
 help.yammer.publicisgroupe.net
 help87a7a4.clickfunnels.com
 helpdesk.bitrix24.com
@@ -37242,6 +37312,7 @@ info.trovi.com
 info.turn.com
 info.turtl.co
 info.umeng.com
+info.usergems.com
 info.valassis.com
 info.vertiba.com
 info.viafoura.com
@@ -37555,6 +37626,10 @@ integrationservice.cas.cloud.precisely.com
 integrationservice.cas.saas.precisely.com
 integrity.palantirfoundry.com
 intel-dev-api.dynamicyield.com
+intel-svc-internal.app-staging.klue.com
+intel-svc-internal.app.klue.com
+intel-svc.app-staging.klue.com
+intel-svc.app.klue.com
 intel.palantirfoundry.com
 intel.tt.omtrdc.net
 intelius.evyy.net
@@ -38357,7 +38432,9 @@ jobs.detroit.dynatrace.com
 jobs.epsilon.com
 jobs.fullcontact.com
 jobs.iponweb.com
+jobs.klue.com
 jobs.localiq.com
+jobs.usergems.com
 jobswipe.app.link
 joccom.migrate.acquia.com
 jodieharvala.clickfunnels.com
@@ -39056,6 +39133,9 @@ kloeckner.palantirfoundry.com
 klogin.tencent.com
 klokov-front.kontentino.com
 klondikedeluxe.tresensa.com
+klue-v2-pr-348.app-staging.klue.com
+klue.com
+klue.dokku-klue-test1.klue.com
 kluwerjuridisch.blueconic.net
 km.netelixir.com
 km.tencent.com
@@ -39903,6 +39983,7 @@ learn.stackadapt.com
 learn.staging.flick.social
 learn.tencent.com
 learn.valassis.com
+learn.vector.co
 learn.zappi.io
 learn2.fueled.io
 learn2earnathome.clickfunnels.com
@@ -42979,6 +43060,7 @@ mktopodab01.mktossl.com
 mktossl.com
 mktozero1.mktoweb.com
 mkz0.app.link
+ml-internal.klue.com
 ml.aidentified.com
 ml.app.link
 ml.cience.com
@@ -43678,6 +43760,8 @@ monitoring20-eu.pusher.com
 monitoring20-sa1.pusher.com
 monitoring3.chatfuel.com
 monitoringdev.cloud.coveo.com
+monitors-svc.app-staging.klue.com
+monitors-svc.app.klue.com
 monitorsdk.appsflyersdk.com
 monitronics.getambassador.com
 monkeeboy.matomo.cloud
@@ -45330,6 +45414,7 @@ nlg-airflow.marketmuse.com
 nlg-dev.marketmuse.com
 nlg-mlflow.marketmuse.com
 nlg.marketmuse.com
+nlp-internal.klue.com
 nlpsych.eu.qualtrics.com
 nlqh.maillist-manage.com
 nls.anaplan.com
@@ -47352,6 +47437,7 @@ partner.popin.cc
 partner.precisely.com
 partner.preview.partnerstack.com
 partner.repeatreturns.com
+partner.vector.co
 partner.yango.com
 partnera.ads.placeiq.com
 partnerapi.zoominfo.com
@@ -47632,6 +47718,8 @@ pda.olark.com
 pdainternational.moengage.com
 pdf.mailerlite.com
 pdfsimpli.firstpromoter.com
+pdfxtract.app-staging.klue.com
+pdfxtract.app.klue.com
 pdir.maillist-manage.com
 pdllcrt.blueconic.net
 pdtzqrizfy.eoapxl.com
@@ -48861,6 +48949,7 @@ postgres.expeditor.staging.blr.do.pushcrew.com
 postgres1.expeditor.staging.blr.do.pushcrew.com
 postgres2.expeditor.staging.blr.do.pushcrew.com
 posthog.dev.emplifi.io
+posthog.klue.com
 postmail.palantirfoundry.com
 postman.clar.io
 postnl.blueconic.net
@@ -49405,6 +49494,7 @@ prod.sf1.do.pushcrew.com
 prod.smartlook.com
 prod.telemetry.tableausoftware.com
 prod.userdownloads.sprinklr.com
+prod.vector.co
 prod.wdc1.sl.pushcrew.com
 prod0-api.sprinklr.com
 prod0-care.sprinklr.com
@@ -51722,11 +51812,14 @@ reversible-dishpan.palantirfoundry.com
 revert-3b91d89d.alpha.dashboard.adskeeper.co.uk
 revert-4e68d9dd.alpha.rtb-dashboard.mgid.com
 revert-a5d943a3.alpha.rtb-dashboard.mgid.com
+review-insights.app-staging.klue.com
+review-insights.app.klue.com
 review-room-api-staging.zoominfo.com
 review-room-api.zoominfo.com
 review.regie.ai
 reviewboard.dynatrace.com
 reviewed.localiq.com
+reviewfetcher.app.klue.com
 reviews-service.exponea.com
 reviews.belladati.com
 reviews.soundestlink.com
@@ -51757,6 +51850,8 @@ rewardschaseadmin.epsilon.com
 rewardsdirect.maritz.com
 rewe.datatap.adverity.com
 rewereisen.btttag.com
+rf-internal.klue.com
+rf-staging-internal.klue.com
 rf100.infusionsoft.com
 rf127.infusionsoft.app
 rf320.infusionsoft.com
@@ -53563,6 +53658,7 @@ sales.stepex.co
 sales.storyblok.com
 sales.strikesocial.com
 sales.tray.io
+sales.usergems.com
 sales.yieldify.com
 sales.zoominfo.com
 salesapps-aus-qa.localiq.com
@@ -55929,9 +56025,12 @@ sl.stimulsoft.com
 sl130.infusionsoft.com
 sl290.infusionsoft.com
 slack-service.demandbase.com
+slack.app-staging.klue.com
+slack.app.klue.com
 slack.smartlook.com
 slackbot.regie.ai
 slackbot.wurl.com
+slackbysegment.vector.co
 slackhackathon.api.insent.ai
 slalgo01.clicktale.net
 slant.razorfish.com
@@ -56522,6 +56621,7 @@ sparser.kube-prod1.smartly.io
 spasensations.hightouch.com
 spawar.entrinsik.com
 spazio.bitrix24.com
+spc.app.klue.com
 spc.gc.epsilon.com
 spccalliope.gc.epsilon.com
 spcuat.gc.epsilon.com
@@ -56712,6 +56812,8 @@ sraim2m.eskimi.com
 src.co1.qualtrics.com
 src.freshmarketer.com
 srch.atdmt.com
+srcpref-svc.app-staging.klue.com
+srcpref-svc.app.klue.com
 sre-pagerduty.thoughtspot.com
 sre-tool.moloco.com
 srekait.maillist-manage.com
@@ -57028,6 +57130,7 @@ staging.insent.ai
 staging.iponweb.com
 staging.iprospect.com
 staging.jaguar.epsilon.com
+staging.klue.com
 staging.landrover.epsilon.com
 staging.litix.io
 staging.localiq.com
@@ -57058,6 +57161,8 @@ staging.toyota.epsilon.com
 staging.tt.omtrdc.net
 staging.unifyintent.com
 staging.unityads.unity3d.com
+staging.usergems.com
+staging.vector.co
 staging.vindicosuite.com
 staging.wtbng.pricespider.com
 staging.wurl.com
@@ -57463,6 +57568,7 @@ status.keap.com
 status.keen.io
 status.khoros.com
 status.klaviyo.com
+status.klue.com
 status.lightstep.com
 status.localytics.com
 status.mandrillapp.com
@@ -57519,6 +57625,7 @@ status.tray.io
 status.turtl.co
 status.unacast.com
 status.urbanairship.com
+status.vector.co
 status.webmarked.net
 status.widespace.com
 status.wurl.com
@@ -60854,16 +60961,20 @@ trust.satisfilabs.com
 trust.sprig.com
 trust.test.yango.com
 trust.turn.com
+trust.usergems.com
+trust.vector.co
 trust.yango.com
 trust.zappi.io
 trust.zingtree.com
 trustbankinc.mktoweb.com
 trusted-bedclothes.palantirfoundry.com
+trustnew.usergems.com
 trustpulse.com
 trustradius.6sense.com
 trustradius.widget.insent.ai
 trxp.trackonomics.net
 try.abtasty.com
+try.klue.com
 try.movableink.com
 try.pricespider.com
 try.raygun.io
@@ -62421,6 +62532,7 @@ user.layer.getwarmly.com
 user.service.prod.weblib.com
 user.zoominfo.com
 userdocs.urbanairship.com
+usergems.com
 usergroups.anaplan.com
 userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
 userlocation-api.inrix.com
@@ -62612,6 +62724,8 @@ v1q2r1f2r8.mailerlite.com
 v1w4.app.link
 v1z1m3j3l7.mailerlite.com
 v2.api.fpjs.io
+v2.app-staging.klue.com
+v2.app.klue.com
 v2.areal.ai
 v2.callback.cloud.somin.ai
 v2.dc.yieldify.com
@@ -62840,6 +62954,7 @@ veanalytics.on24.com
 veanalyticsqa.on24.com
 vecisa.saas.appdynamics.com
 vector-runner-remix.tresensa.com
+vector.co
 vectordatabasehandler.quantummetric.com
 veekha.eskimi.com
 veet.channelsight.com
@@ -63305,6 +63420,7 @@ voice.247-inc.net
 voice.dynatrace.com
 voice.eskimi.com
 voice.jasper.ai
+voice.klue.com
 voiceai.cience.com
 voicebootcamp.bitrix24.com
 voicenger.app.link
@@ -64017,6 +64133,7 @@ web.fb-analytics.flick.social
 web.hb.ad.cpe.dotomi.com
 web.icegram.com
 web.indicative.com
+web.klue.com
 web.localytics.com
 web.moengage.com
 web.putler.com
@@ -67028,6 +67145,7 @@ www.kit22.com
 www.kkw.app.link
 www.kla6.io
 www.klaviyo.com
+www.klue.com
 www.knowi.com
 www.knownissues.infusionsoft.com
 www.kochava.com
@@ -68670,6 +68788,7 @@ www.usbk-prod-bo.epsilon.com
 www.use.raygun.io
 www.usecases.growthloop.com
 www.user.zoominfo.com
+www.usergems.com
 www.usergroups.anaplan.com
 www.usersurge.com
 www.usertrack.net
@@ -68693,6 +68812,7 @@ www.vcenter.acquisio.com
 www.vcenter.techtarget.com
 www.vdo.ai
 www.ve.local.encrypt.visa.epsilon.com
+www.vector.co
 www.velocidi.com
 www.velocity.soasta.com
 www.velti.smsp.epsilon.com
