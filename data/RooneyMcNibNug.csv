@@ -19797,6 +19797,7 @@ ci.convertro.com
 ci.eatsreg.yango.com
 ci.feed.xyz
 ci.found.ee
+ci.instana.io
 ci.liadm.com
 ci.oribi.io
 ci.roojoom.com
@@ -23479,6 +23480,8 @@ cvyg204.na1.hubspotlinks.com
 cvyj004.na1.hubspotlinks.com
 cvyl804.na1.hubspotlinks.com
 cvzks04.na1.hubspotlinks.com
+cw-metrics-stream-poc.qainfra.instana.io
+cw-metricstream.qainfra.instana.io
 cw-sg04.na1.hubspotlinks.com
 cw0-f04.na1.hubspotlinks.com
 cw0gy04.na1.hubspotlinks.com
@@ -27766,6 +27769,7 @@ deviceid.trueleadid.com
 devices.samba.tv
 devicetest.infogix.com
 devidmanage.epsilon.com
+devinfra.instana.io
 devisvoerwebwinkel.privy.com
 devlive-app-assets.simpli.fi
 devmail.trumpia.com
@@ -29907,6 +29911,7 @@ em.urbanairship.com
 em101.infusionsoft.com
 em310.infusionsoft.com
 ema.mktoweb.com
+email-clicks.blockchain.info
 email-composer.sailthru.com
 email-img.placed.com
 email-resources.smartdata.precisely.com
@@ -31068,7 +31073,9 @@ euhb.adtelligent.com
 eulerian.net
 eum-appdynamics.com
 eum-col.appdynamics.com
+eum-orange-saas.instana.io
 eum.appdynamics.com
+eum.instana.io
 eumproxy.demo.appdynamics.com
 eupublishers.deliveryengine.adswizz.com
 eureka.channelsight.com
@@ -37417,6 +37424,7 @@ inggnpmbamsql1.global.publicisgroupe.net
 inggntapssc0041.global.publicisgroupe.net
 inggnvoshlpdsk2.global.publicisgroupe.net
 ingim.blueconic.net
+ingress-red-saas.instana.io
 ingress.discovery-acct-aws.bloomreach.com
 ingress.discovery-dev-aws.bloomreach.com
 ingress.discovery-test-aws.bloomreach.com
@@ -37578,6 +37586,7 @@ instaff.grsm.io
 instafitworkouts.app.link
 instagram-endpoint.narvar.com
 installtracker.unityads.unity3d.com
+instana.io
 instance-status.exponea.com
 instances-dev.optable.co
 instangram.com.mx
@@ -56530,6 +56539,7 @@ sonarapiuat2.fedex.epsilon.com
 sonarqa.epsilon.com
 sonarqube.blue.azure.cdtapps.com
 sonarqube.insent.ai
+sonarqube.instana.io
 sonarqube.mailerlite.com
 sonarqube.mparticle.com
 sonarqube.prod.foursquare.com
@@ -57579,6 +57589,7 @@ status.hightouch.io
 status.iadvize.com
 status.icanhazip.com
 status.insent.ai
+status.instana.io
 status.intentiq.com
 status.intercom.io
 status.internal.outbrain.com
@@ -59365,6 +59376,7 @@ telenor-profile.localytics.com
 telenor-sweden.svc.tapad.com
 teleperformanceusa.mktoweb.com
 telephonic-slideshow.palantirfoundry.com
+teleport-sos-test.dev-account.instana.io
 teleressources.hightouch.com
 telescopic-bookworm.palantirfoundry.com
 telesign1.mktoweb.com
@@ -61170,6 +61182,7 @@ twinkie7s.tresensa.com
 twinoes.blueconic.net
 twinoru.blueconic.net
 twist.palantirfoundry.com
+twistlock.instana.io
 twitch-failarmy-live.wurl.com
 twitch-wurltvtest06-live.wurl.com
 twitch.app.link
