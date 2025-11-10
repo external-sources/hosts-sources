@@ -2779,6 +2779,7 @@
 2f6d69ad2565c68c5420d9b85.litix.io
 2fannex.omeclk.com
 2fapp.adjust.com
+2fapp.crayon.co
 2fbqrw04.na1.hubspotlinks.com
 2fc-h7n04.na1.hubspotlinks.com
 2fc-nc404.na1.hubspotlinks.com
@@ -2889,6 +2890,7 @@
 2fsite24.maillist-manage.com
 2fvisit.ciradar.com
 2fwebs.getclicky.com
+2fwww.crayon.co
 2fwww.getclicky.com
 2fwww.insent.ai
 2fyqgxeucbgcoq8lmlxlznqfx88uj6vd.edns.ip-api.com
@@ -10301,6 +10303,8 @@ analytics-5900.kxcdn.com
 analytics-6.algolia.com
 analytics-airflow.instructure.com
 analytics-angel.walkbase.com
+analytics-api-production.crayon.co
+analytics-api-staging.crayon.co
 analytics-api.anthropic.com
 analytics-api.bn.co
 analytics-api.brevo.com
@@ -10549,6 +10553,7 @@ analyticstest.appdynamics.com
 analyticstest.localytics.com
 analyze-insights.test.sng1.do.vwo.com
 analyze.catapultx.com
+analyze.crayon.co
 analyze.urbanairship.com
 analyzeinstaller.infogix.com
 analyzeinstaller.precisely.com
@@ -10712,6 +10717,7 @@ ansoncalder.attn.tv
 ansp.doubleverify.com
 answer.layer.getwarmly.com
 answerlab.co1.qualtrics.com
+answers-production.crayon.co
 answers.getclicky.com
 answers.inmarket.com
 ant-flare.palantirfoundry.com
@@ -11184,6 +11190,7 @@ api.aidentified.com
 api.air360.io
 api.aisdr.com
 api.aislelabs.com
+api.analyze.crayon.co
 api.anaplan.com
 api.ap-south-1.hightouch.com
 api.ap-southeast-2.development.agent.voice.11x.ai
@@ -11890,6 +11897,7 @@ app.conversations.6sense.com
 app.convertexperiments.com
 app.convertkit.com
 app.crawlq.ai
+app.crayon.co
 app.custora.com
 app.cux.io
 app.demandbase.com
@@ -12052,6 +12060,7 @@ app.speedppc.com
 app.sprig.com
 app.sprinklr.com
 app.spyglaz.com
+app.staging.crayon.co
 app.staging.identitymatrix.ai
 app.staging.livesession.io
 app.staging.sprig.com
@@ -13430,6 +13439,7 @@ auth-prod.marketmuse.com
 auth-service.adtelligent.com
 auth-stage.vector.co
 auth-stg.cloud.precisely.com
+auth.analyze.crayon.co
 auth.brevo.com
 auth.cloud.precisely.com
 auth.cls.epsilon.com
@@ -15733,6 +15743,7 @@ blog.cardlytics.com
 blog.clickfunnels.com
 blog.cloud4wi.com
 blog.cmglocalsolutions.com
+blog.crayon.co
 blog.custora.com
 blog.cxense.com
 blog.dev.appdynamics.com
@@ -19860,6 +19871,7 @@ cig358.infusionsoft.app
 cige360.bitrix24.com
 cigna.co1.qualtrics.com
 cignacsr.infogix.com
+cigrader.crayon.co
 cilrix-corp.pro
 cilrix-corporate.online
 cima.eu.qualtrics.com
@@ -22558,6 +22570,7 @@ crawler.viafoura.com
 crawler.zylotech.com
 crawler1.zylotech.com
 crawlq.ai
+crayon.co
 crazebouti-cvad.soundestlink.com
 crazevilla.storehippo.com
 crazyfrog.tresensa.com
@@ -27517,6 +27530,7 @@ dev.clicks.biltrewards.com
 dev.cmt.epsilon.com
 dev.complementics.com
 dev.contentanalyticsinc.com
+dev.crayon.co
 dev.cxense.com
 dev.demo.appdynamics.com
 dev.dmc.epsilon.com
@@ -27840,6 +27854,7 @@ dg2ssl.gwdev.publicisgroupe.net
 dg2ssl.gwsbx.publicisgroupe.net
 dg5.global.publicisgroupe.net
 dg6.global.publicisgroupe.net
+dgaff.dev.crayon.co
 dgbckodgqtgef6tveqhpeccj3.litix.io
 dgcip.1010data.com
 dgiannopou-xhhk.soundestlink.com
@@ -29910,6 +29925,7 @@ em.tencent.com
 em.urbanairship.com
 em101.infusionsoft.com
 em310.infusionsoft.com
+em3585.crayon.co
 ema.mktoweb.com
 email-clicks.blockchain.info
 email-composer.sailthru.com
@@ -35836,6 +35852,7 @@ help.clickfunnels.com
 help.cloud.precisely.com
 help.convertkit.com
 help.crawlq.ai
+help.crayon.co
 help.dstillery.com
 help.epsilon.com
 help.eskimi.com
@@ -39714,6 +39731,7 @@ landofrost.palantirfoundry.com
 landow.palantirfoundry.com
 landroidl.os.tc
 landrover.epsilon.com
+landscape.crayon.co
 landscape.sensape.com
 lanetalk.app.link
 laneterralever.matomo.cloud
@@ -42355,6 +42373,7 @@ mcm-docs.moloco.com
 mcm.evidon.com
 mcm.help.moloco.com
 mcn.tencent.com
+mcp.crayon.co
 mcresearch2.co1.qualtrics.com
 mcs.eu.srv.doubleverify.com
 mcsm-srvr02.matchcraft.com
@@ -42712,7 +42731,6 @@ metrics.cvshealth.com
 metrics.datadome.co
 metrics.dmx.districtm.io
 metrics.foxnews.com
-metrics.g2crowd.com
 metrics.gatesnotes.com
 metrics.giraffe.medallia.com
 metrics.informatica.com
@@ -48998,6 +49016,7 @@ powerpeers.blueconic.net
 powersold.clickfunnels.com
 pp-log.anaplan.com
 pp.clickfunnels.com
+pp.crayon.co
 pp.everyonesocial.com
 pp.images.harmony.epsilon.com
 pp.pingdom.com
@@ -49604,6 +49623,7 @@ production.razorfish.com
 productioncrate.grsm.io
 productiontesseract.infusionsoft.com
 productivity.fullcontact.com
+products.crayon.co
 products.flex.bi
 products.inrix.com
 productsearch.linksynergy.com
@@ -49702,6 +49722,7 @@ promk2n6x9.mailerlite.com
 promo.adtelligent.com
 promo.amplitude.com
 promo.eccmp.com
+promo.g2crowd.com
 promo.iredirect.net
 promo.mgid.com
 promo.tritondigital.com
@@ -57138,6 +57159,7 @@ staging.centerfield.com
 staging.clients.neoreach.com
 staging.cloud.somin.ai
 staging.cmun.it
+staging.crayon.co
 staging.creators.neoreach.com
 staging.data-service.ispot.tv
 staging.digitaldesign.epsilon.com
@@ -57374,6 +57396,7 @@ static.clickfunnels.com
 static.complementics.com
 static.convertkit.com
 static.core.yads.tech
+static.crayon.co
 static.cuebiq.com
 static.cux.io
 static.dev.found.ee
@@ -57422,6 +57445,7 @@ static.snowplowanalytics.com
 static.space.yango.com
 static.spotim.market
 static.spy.pet
+static.staging.crayon.co
 static.staging.found.ee
 static.support.kochava.com
 static.tealium.com
@@ -58132,6 +58156,7 @@ support.click.org
 support.clickfunnels.com
 support.cognitiveseo.com
 support.countly.com
+support.crayon.co
 support.datalicious.com
 support.dstillery.com
 support.eltoro.com
@@ -59943,6 +59968,7 @@ tifin.palantirfoundry.com
 tig.vizury.com
 tigerlilyswimwear.btttag.com
 tigsports.blueconic.net
+tika-production.crayon.co
 tikker.neoreach.com
 tiktok.somin.ai
 tile-api.inrix.com
@@ -60600,7 +60626,6 @@ track.cux.io
 track.dafilms.com
 track.exactvisitor.com
 track.fireflies.ai
-track.g2crowd.com
 track.getgist.com
 track.gosquared.com
 track.hello.lyssna.com
@@ -65509,6 +65534,7 @@ ww1.bloomreach.co
 ww1.ghrc.io
 ww1.mktossl.com
 ww1.www.iyfbodn.com
+ww12.crayon.co
 ww12.uptempo.io
 ww12.yotuube.com
 ww120.infusionsoft.com
@@ -65549,6 +65575,7 @@ www-dev.bloomreach.com
 www-dev.uat-thesun.co.uk.ssopt.net
 www-eltiempo.os.tc
 www-lb.izenda.com
+www-m.crayon.co
 www-manchestereveningnews-co-uk.api.omnitagjs.com
 www-mt-2130.adlucent.com
 www-new.synthesio.com
@@ -66386,6 +66413,7 @@ www.countly.com
 www.cpm.marketo.net
 www.cravelabs.com
 www.crawlq.ai
+www.crayon.co
 www.creative-preview-demo.bidcore.iponweb.com
 www.creative-preview-my.bidcore.iponweb.com
 www.creatives.avocet.io
