@@ -1,5 +1,3 @@
-*-android-context-data.googleapis.com
-*-chromecontentsuggestions-pa.googleapis.com
 -chromecontentsuggestions-pa.googleapis.com
 0.chart.apis.google.com
 0.client-channel.google.com
@@ -1504,6 +1502,7 @@ c.2mdn.net
 c.admob.com
 c.amazon-adsystem.combid.g.doubleclick.com
 c.googlesyndication.com
+c.tenor.com
 c.youtube.com
 c0d73cbdac31ecac3759ea15936eb89c.safeframe.googlesyndication.com
 c10.page.link
@@ -2423,6 +2422,7 @@ g.cn
 g.co
 g.doubleclick.net
 g.page
+g.tenor.com
 g0.doubleclick.net
 g0tgpatzo2.com
 g1.doubleclick.net
@@ -3925,6 +3925,10 @@ me.gvt1.com
 measurementpartners.google.com
 media.admob.com
 media.googlesource.com
+media.tenor.co
+media.tenor.com
+media1.tenor.co
+media1.tenor.com
 medialaan-voting-1.firebaseio.com
 medialaan-voting-2.firebaseio.com
 mediavisor.doubleclick.net
@@ -5705,7 +5709,6 @@ spaces.google.com
 speech.clients.google.com
 speech.google.com
 speech.googleapis.com
-speechs3proto*-pa.googleapis.com
 speechs3proto2-pa.googleapis.com
 speedtest.googlefiber.net
 sphinx.corp.google.com
