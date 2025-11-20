@@ -6620,6 +6620,7 @@ a.staging.sprig.com
 a.storehippo.com
 a.tencent.com
 a.th.giraff.io
+a.tollbit.com
 a.triptease.io
 a.vdo.ai
 a.viafoura.com
@@ -7231,6 +7232,7 @@ accounts.iadvize.com
 accounts.marketmuse.com
 accounts.mx
 accounts.platform.cloud.precisely.com
+accounts.tollbit.com
 accounts.vector.co
 accountsections.com
 accountspayable.staging.superawesome.com
@@ -8410,6 +8412,7 @@ advertiserservice-usa-prod.localiq.com
 advertiserservice-usa-qa.localiq.com
 advertising-api.gumgum.com
 advertising.comengine.adzerk.net
+advertising.discogs.com
 advertlineadge.hit.gemius.pl
 adverts-cdn.bitchute.com
 advice.hit.gemius.pl
@@ -8917,6 +8920,7 @@ aiot-sandbox.palantirfoundry.com
 aiot.cloud.tencent.com
 aiper.attn.tv
 aiportal.iperceptions.com
+aiq-in.delish.com
 air360.io
 aira.calltracks.com
 airandanchor.attn.tv
@@ -10402,6 +10406,7 @@ analytics.dataxu.com
 analytics.daveenci.com
 analytics.de.algolia.com
 analytics.dev.frost.health.elsevier.com
+analytics.discogs.com
 analytics.doubleverify.com
 analytics.e.sherwin-williams.com
 analytics.egnyte.com
@@ -11458,6 +11463,7 @@ api.powerlinks.com
 api.precisely.com
 api.predicthq.com
 api.preprod.wurl.com
+api.preproduction.tollbit.com
 api.privy.com
 api.prod.env.53.localytics.com
 api.production.ireland.demandbase.com
@@ -11566,6 +11572,7 @@ api.terapeak.com
 api.test.dev.found.ee
 api.thatsnoble.com
 api.thenextad.com
+api.tollbit.com
 api.tpns.cam.tencent.com
 api.tpns.cloud.tencent.com
 api.tpns.fra.tencent.com
@@ -12016,6 +12023,7 @@ app.popin.cc
 app.popupsmart.com
 app.precisely.com
 app.predicthq.com
+app.preproduction.tollbit.com
 app.prod.conversations.6sense.com
 app.profitwell.com
 app.pub.aws-dev.growthloop.com
@@ -12075,6 +12083,7 @@ app.test.mobile.pendo.io
 app.thatsnoble.com
 app.thenextad.com
 app.tinuiti.com
+app.tollbit.com
 app.trackadvocates.getwarmly.com
 app.trackonomics.net
 app.tray.io
@@ -12281,6 +12290,7 @@ apps.shareaholic.com
 apps.sociabble.com
 apps.socialannex.com
 apps.storehippo.com
+apps.tollbit.com
 apps.usc-1.palantirfoundry.com
 apps.usc-2.palantirfoundry.com
 apps.usw-1-dev.palantirfoundry.com
@@ -12956,6 +12966,8 @@ assets.brevo.com
 assets.buzzsumo.com
 assets.c5e70ce0.eu.optable.co
 assets.cdn.ispot.tv
+assets.cdn.preproduction.tollbit.com
+assets.cdn.tollbit.com
 assets.channelsight.com
 assets.cience.com
 assets.cloud.figure-eight.com
@@ -13764,6 +13776,8 @@ awlservice.epsilon.com
 awlsonar.epsilon.com
 awlsonarcdn-prod.epsilon.com
 awn483.infusionsoft.app
+aws-deployment-app.preproduction.tollbit.com
+aws-deployment-app.tollbit.com
 aws-elixirsolutions.palantirfoundry.com
 aws-int.silveregg.net
 aws-partner.palantirfoundry.com
@@ -17971,6 +17985,8 @@ careers.fullcontact.com
 careers.insent.ai
 careers.iprospect.com
 careers.outbrain.com
+careers.preproduction.tollbit.com
+careers.tollbit.com
 careersettings.publicisgroupe.net
 careersindia.epsilon.com
 careersolutions.infusionsoft.app
@@ -19190,6 +19206,7 @@ cf-pageos-dev.intergient.com
 cf-sm04.na1.hubspotlinks.com
 cf-wv04.na1.hubspotlinks.com
 cf.adxcel.com
+cf.app.preproduction.tollbit.com
 cf.geo.ngtv.io
 cf.groundtruth.com
 cf.kampyle.com
@@ -19572,9 +19589,11 @@ chat.cloud.somin.ai
 chat.cxense.com
 chat.eskimi.com
 chat.outbrain.com
+chat.preproduction.tollbit.com
 chat.regie.ai
 chat.streamalive.com
 chat.taximeter.yango.com
+chat.tollbit.com
 chat.urbanairship.com
 chat.zappi.io
 chatbot.bant.io
@@ -20332,6 +20351,7 @@ cleossecret.storehippo.com
 clerk.battlegroundai.com
 clerk.getclicky.com
 clerk.marketmuse.com
+clerk.tollbit.com
 clerk.vector.co
 clevelreports.youbora.com
 clever.iadvize.com
@@ -21543,6 +21563,7 @@ containers-tortellini.palantirfoundry.com
 contaonlinepremiada.persado.com
 contaonlinepremiada640.persado.com
 content-blocking.net
+content-cache.tollbit.com
 content-dev.locatorx.com
 content-invite-bot-okta.hackday.sandbox.superawesome.com
 content-library-api.brevo.com
@@ -27466,6 +27487,7 @@ dev-d1-rum-collector-2.pingdom.net
 dev-d1-rum-static-2.pingdom.net
 dev-dc.arrivalist.com
 dev-display-api.sprinklr.com
+dev-docs.preproduction.tollbit.com
 dev-eu.uptempo.io
 dev-fe.insent.ai
 dev-gitflow-poc.zoominfo.com
@@ -27802,6 +27824,7 @@ devph.tawk.to
 devportal.kws.staging.superawesome.com
 devportal.kws.superawesome.com
 devportal.lb.eltoro.com
+devs.tollbit.com
 devscenario.annalect.com
 devtracker.mrpfd.com
 devtt.onthe.io
@@ -28372,6 +28395,7 @@ docs.piano.io
 docs.plausible.io
 docs.pre.retailtech.yango.com
 docs.precisely.com
+docs.preproduction.tollbit.com
 docs.pyze.com
 docs.retailtech.yango.com
 docs.rm.space.yango.com
@@ -28380,6 +28404,7 @@ docs.sprig.com
 docs.stackadapt.com
 docs.storehippo.com
 docs.superawesome.com
+docs.tollbit.com
 docs.umami.is
 doctipedia.eulerian.net
 doctissimo-by.accengage.net
@@ -29579,6 +29604,7 @@ edge.govini.com
 edge.lightstep.com
 edge.meta.lightstep.com
 edge.ntv.io
+edge.preproduction.tollbit.com
 edge.sapient.com
 edge01.edgecross1.sv1.247-inc.net
 edge01.edgecross1.va1.247-inc.net
@@ -32871,6 +32897,7 @@ foud.maillist-manage.com
 found.ee
 foundry-escaperoom.palantirfoundry.com
 foundry-instructors.palantirfoundry.com
+foundry.preproduction.tollbit.com
 foundrycon.palantirfoundry.com
 foundryconus.palantirfoundry.com
 foundrypoc.palantirfoundry.com
@@ -34116,6 +34143,8 @@ gateway.dqcore.eu1.cloud.precisely.com
 gateway.dynamicyield.com
 gateway.epsilon.com
 gateway.open.umeng.com
+gateway.preproduction.tollbit.com
+gateway.tollbit.com
 gateway.umami.is
 gateway.unityads.unity3d.com
 gateway.yieldify.com
@@ -35580,6 +35609,8 @@ habitat.eulerian.net
 haboob.palantirfoundry.com
 hacao.bitrix24.com
 haceb.bitrix24.com
+hack.preproduction.tollbit.com
+hack.tollbit.com
 hack.viralsweep.com
 hack.wingify.com
 hack8640.eskimi.com
@@ -40590,6 +40621,7 @@ log.movableink.com
 log.olark.com
 log.outbrain.com
 log.popin.cc
+log.preproduction.tollbit.com
 log.sgnssdk.com
 log.staging.movableink.com
 log.strm.yango.com
@@ -40597,6 +40629,7 @@ log.strm.yasmina.yango.com
 log.taobao.com
 log.tel.dolead.com
 log.tiktokv.com
+log.tollbit.com
 log.zoom.us
 log10.doubleverify.com
 log15.byteoversea.com
@@ -41906,6 +41939,7 @@ marketing.nextit.com
 marketing.optimove.com
 marketing.outbrain.com
 marketing.predic.io
+marketing.preproduction.tollbit.com
 marketing.prominnov.com
 marketing.reachforce.com
 marketing.recurly.com
@@ -44928,6 +44962,7 @@ neveo.firstpromoter.com
 neverbounce.com
 neversettle.clickfunnels.com
 nevobo.blueconic.net
+new-docs.tollbit.com
 new-sentry.monkeydata.com
 new-shop.mattel.com.ssopt.net
 new-staging-bucketplace.rmp-portal.moloco.com
@@ -46212,6 +46247,8 @@ oauth.1plusx.io
 oauth.fullcontact.com
 oauth.panamplify.com
 oauth.ppd.api-emea.precisely.com
+oauth.preproduction.tollbit.com
+oauth.tollbit.com
 oauth.yango.com
 oauth.yasmina.yango.com
 oauth2-proxy.kube-dev1.smartly.io
@@ -49086,7 +49123,13 @@ prdrmgrab01.anexinet.com
 prdt.zappi.io
 prduat.cbgrus.appservice.epsilon.com
 prduat.cbtyus.search.epsilon.com
+pre-api.tollbit.com
+pre-app.tollbit.com
+pre-devs.tollbit.com
+pre-docs.tollbit.com
 pre-eu.asas.yango.com
+pre-hack.tollbit.com
+pre-log.tollbit.com
 pre-prod-sso5.sprinklr.com
 pre-prod.instances.optable.co
 pre-prod1.cloud.optable.co
@@ -49210,6 +49253,7 @@ preprod.iadvize.com
 preprod.identityserver.iprospect.com
 preprod.instances-dev.optable.co
 preprod.ortto.com
+preproduction.tollbit.com
 prequel-admin.quantummetric.com
 prequel.quantummetric.com
 presagis.mktoweb.com
@@ -51841,6 +51885,7 @@ reuters-reuters-1-eu.rakuten.wurl.com
 reuters-reutersnow-1-pt.samsung.wurl.com
 reuters-reutersnow-1.plex.wurl.com
 reuters-reutersnow-1.roku.wurl.com
+rev.preproduction.tollbit.com
 rev2020.salesloft.com
 rev2nlp62sxd5hkt8h03b1fulor9ag75.edns.ip-api.com
 revamp.layer.getwarmly.com
@@ -51883,6 +51928,8 @@ revive.calltracks.com
 revolution2010.acquia.com
 revolve.evyy.net
 revolve.sspinc.io
+revproxytest.preproduction.tollbit.com
+revproxytester.preproduction.tollbit.com
 revry-revry-3-eu.rakuten.wurl.com
 revzilla.blueconic.net
 rewarddollars-uat2.epsilon.com
@@ -55069,6 +55116,7 @@ server002.clickperfect.com
 server02.matchcraft.com
 server1.mktossl.com
 serverless.wisdom.exponea.com
+servers.pre-mcp.tollbit.com
 servers.sprig.com
 serverspecs.blogs.techtarget.com
 servervirtualization.blogs.techtarget.com
@@ -55580,6 +55628,7 @@ signup.pingdom.com
 signup.pingpost.com
 signup.privy.com
 signup.saas.precisely.com
+signup.tollbit.com
 signup.webcollage.net
 sigopt.com
 sigs.fullstory.com
@@ -59490,6 +59539,7 @@ test-api.adskeeper.co.uk
 test-api.us1.automate.precisely.com
 test-api.us1.stg.automate.precisely.com
 test-app.insent.ai
+test-app.preproduction.tollbit.com
 test-azimprov.datatap.adverity.com
 test-banner.rmp-portal.moloco.com
 test-ccsd-ocv-syf.epsilon.com
@@ -59503,6 +59553,8 @@ test-demo-fra.rmp-portal.moloco.com
 test-demo.mcm-portal.moloco.com
 test-demo.rmp-portal.moloco.com
 test-dev-tools.moloco.com
+test-docs.preproduction.tollbit.com
+test-docs.tollbit.com
 test-dsp-api.powerlinks.com
 test-e2e-fra.rmp-portal.moloco.com
 test-e2e-sin.rmp-portal.moloco.com
@@ -59979,6 +60031,7 @@ tikker.neoreach.com
 tiktok.somin.ai
 tile-api.inrix.com
 tile-service.weather.microsoft.comengine.adzerk.net
+tiles-demo.tollbit.com
 tiles.js.api.maps.yango.com
 tilottama.storehippo.com
 timberland.syndigo.com
@@ -60238,6 +60291,10 @@ tokopediaprod.moengage.com
 toksb88.eskimi.com
 toku.palantirfoundry.com
 tokyopg.palantirfoundry.com
+tollbit.com
+tollbit.delish.com
+tollbit.preproduction.tollbit.com
+tollbit.tollbit.com
 tollbrothers.palantirfoundry.com
 tolu6171.eskimi.com
 tolulope1986.eskimi.com
@@ -64677,6 +64734,7 @@ who.fattail.com
 whocaresme.eskimi.com
 whois.cloud.tencent.com
 wholefoods.ingest.reporting.creator-prod.zmags.com
+why.tollbit.com
 wic.tencent.com
 wichitastate.co1.qualtrics.com
 widespace.com
@@ -67865,6 +67923,7 @@ www.predictive.anaplan.com
 www.preference-uat.bmwn.gcmt.epsilon.com
 www.preference.bmwn.gcmt.epsilon.com
 www.preprod-request-now.global.publicisgroupe.net
+www.preproduction.tollbit.com
 www.pressconnects.localiq.com
 www.preview.symantecbtob.webcollage.net
 www.print.publicisgroupe.net
@@ -68639,6 +68698,7 @@ www.timetracking.sapient.com
 www.tinuiti.com
 www.tms.sapient.com
 www.together.skai.io
+www.tollbit.com
 www.tools.bloomreach.com
 www.tools.publicis.sapient.com
 www.tools.publicisgroupe.net
