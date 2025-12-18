@@ -1,5 +1,6 @@
 &copy;
 --tab-size-preference:
+/*
 :root
 <!doctype
 </auto-check>
@@ -22,7 +23,6 @@
 </query-builder></form>
 </section>
 </span></span>
-</style>
 </webauthn-status>
 <auto-check
 <body
@@ -51,6 +51,7 @@
 <span>español
 <span>português
 <style
+<style>
 <summary
 <textarea
 <title>page
@@ -93,7 +94,6 @@ data-issue-and-pr-hovercards-enabled
 data-locale="en"
 data-persist-list=false
 data-project-hovercards-enabled
-data-react-profiling="true"
 data-ssr="true"
 data-target="custom-scopes.customscopesnamefield"
 data-target="custom-scopes.customscopesqueryfield"
@@ -120,6 +120,7 @@ maxlength="500">
 mousedown:query-builder#resultsmousedown
 name="custom_scope_name"
 name="custom_scope_query"
+outline-color:
 partial-name="keyboard-shortcuts-dialog"
 partial-name="marketing-navigation"
 password
