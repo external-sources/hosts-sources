@@ -1968,6 +1968,8 @@
 24.0.69.26.194.rpz-client-ip	CNAME	rpz-drop.
 24.0.192.26.194.rpz-ip	CNAME	.
 24.0.192.26.194.rpz-client-ip	CNAME	rpz-drop.
+24.0.22.38.194.rpz-ip	CNAME	.
+24.0.22.38.194.rpz-client-ip	CNAME	rpz-drop.
 23.0.60.41.194.rpz-ip	CNAME	.
 23.0.60.41.194.rpz-client-ip	CNAME	rpz-drop.
 22.0.244.62.194.rpz-ip	CNAME	.
