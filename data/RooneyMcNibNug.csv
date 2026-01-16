@@ -7286,6 +7286,8 @@ acidleague.attn.tv
 aciur.opensend.com
 aciworldwide.palantirfoundry.com
 aclj.everestengagement.com
+acm-media.cdn.fuseplatform.net
+acm-media.cdnbackup.fuseplatform.net
 acme-sbcmon01.pool.sv1.247-inc.net
 acme.getclicky.com
 acme.standby.us.uptempo.io
@@ -7463,6 +7465,7 @@ ad-uk-01.ad.medallia.com
 ad-uk-02.ad.medallia.com
 ad-us-east.ipredictive.com
 ad-us-west.ipredictive.com
+ad-vanx.fuseplatform.net
 ad-vx-1.ad.medallia.com
 ad-vx-2.ad.medallia.com
 ad-yul-01.ad.medallia.com
@@ -7589,6 +7592,7 @@ adamstoybox-us.attn.tv
 adamstoybox.attn.tv
 adantes2.click.org
 adaptv.advertising.comengine.adzerk.net
+adasia.fuseplatform.net
 adassets.foxnews.com
 adassets.ooyala.com
 aday-us.attn.tv
@@ -7713,11 +7717,13 @@ adelphic.ads.placeiq.com
 adeoluade4real.eskimi.com
 adesetiawan2.eskimi.com
 adespresso.com
+adevinta.cdn.fuseplatform.net
 adex.ad2iction.com
 adexa-gb.attn.tv
 adez.mobsmith.com
 adf622ecfdf456601c213896a3574e38.ulink.adjust.com
 adfeed.pagefair.net
+adfill.fuseplatform.net
 adfly.clickfunnels.com
 adflymedia.adzerk.net
 adfox.rm.space.yango.com
@@ -7764,6 +7770,7 @@ adintel.tr.nielsen.com
 adintel.uk.nielsen.com
 adio.adswizz.com
 adio.deliveryengine.adswizz.com
+adireto.fuseplatform.net
 adison.kontentino.com
 aditude.com
 adizio.live.iponweb.com
@@ -7798,16 +7805,22 @@ admanager.concert.io
 admin-aloop.icustomer.ai
 admin-alpha.dstillery.com
 admin-analytics.ispot.tv
+admin-api-enterprise.fuseplatform.net
+admin-api.fuseplatform.net
 admin-au.acxiomapac.com
 admin-beta.dstillery.com
 admin-dev-buck.epsilon.com
 admin-dev.meredith.com
 admin-dice.epsilon.com
+admin-envtests.fuseplatform.net
+admin-legacy-envtests.fuseplatform.net
 admin-panel.pre.retailtech.yango.com
 admin-panel.retailtech.yango.com
+admin-portal.fuseplatform.net
 admin-prod-buck.epsilon.com
 admin-prod-dell.epsilon.com
 admin-prod-gncc.epsilon.com
+admin-public2.fuseplatform.net
 admin-staging.rmp-internal.moloco.com
 admin-staging.wurl.com
 admin-staging1.do-k8s-staging.optimonk.com
@@ -7866,6 +7879,7 @@ admin.socialannex.com
 admin.spotim.market
 admin.staging.cloud.somin.ai
 admin.staging.creators.neoreach.com
+admin.staging.fuseplatform.net
 admin.staging.wurl.com
 admin.stg.automate.precisely.com
 admin.trackdrive.net
@@ -7947,6 +7961,7 @@ adocean-ro.hit.gemius.pl
 adocean-si.hit.gemius.pl
 adocean-sk.hit.gemius.pl
 adoops.zemanta.com
+adop.fuseplatform.net
 adops.bandsintown.com
 adops.demandbase.com
 adorama.evyy.net
@@ -11270,8 +11285,13 @@ api.acquia.com
 api.acquisio.com
 api.activecampaign.com
 api.actv8technologies.com
+api.ad-vanx.fuseplatform.net
+api.adasia.fuseplatform.net
+api.adfill.fuseplatform.net
+api.adireto.fuseplatform.net
 api.adjust.com
 api.adlog.wpp.com
+api.adop.fuseplatform.net
 api.ads.brax.io
 api.adserver.adswizz.com
 api.adskeeper.co.uk
@@ -11305,6 +11325,7 @@ api.aws.growthloop.com
 api.azure-eastus.hightouch.com
 api.bam-x.com
 api.battleground.ai
+api.bauer-media.fuseplatform.net
 api.beeketing.com
 api.bibblio.org
 api.bigdbm.com
@@ -11358,6 +11379,7 @@ api.datahub.epsilon.com
 api.dataxu.com
 api.decibelinsight.net
 api.deltax.com
+api.demo.fuseplatform.net
 api.dev.brax.io
 api.dev.found.ee
 api.dev.gimbal.com
@@ -11371,6 +11393,7 @@ api.diehard.yango.com
 api.dmp.otm-r.com
 api.dolead.com
 api.doorboost.com
+api.dqna.fuseplatform.net
 api.driftt.com
 api.ds.somin.ai
 api.dstillery.com
@@ -11400,6 +11423,7 @@ api.feedback.us.pendo.io
 api.fidzup.com
 api.firstrain.com
 api.flick.social
+api.fluct.fuseplatform.net
 api.forter.com
 api.found.ee
 api.fpjs.io
@@ -11409,6 +11433,7 @@ api.freewebs.getclicky.com
 api.ftspecialist.exponea.com
 api.fullcontact.com
 api.fullstory.com
+api.fuseplatform.net
 api.fusepump.com
 api.gainsight.com
 api.gateway.dev.weblib.com
@@ -11535,6 +11560,7 @@ api.ns-test.static.gdev.exponea.com
 api.ns-test.static.qa.gdev.exponea.com
 api.o.cloud.tencent.com
 api.o.tencent.com
+api.oko.fuseplatform.net
 api.olark.com
 api.omappapi.com
 api.omeda.com
@@ -11571,6 +11597,7 @@ api.proxy.analytics.shutterstock.com
 api.ps.inrix.com
 api.pub.dev.growthloop.com
 api.public-user-service.sprinklr.com
+api.publift.fuseplatform.net
 api.punchtab.com
 api.push.vyadd.com
 api.push.world
@@ -11602,6 +11629,7 @@ api.retentionscience.com
 api.rewarddollars-uat.epsilon.com
 api.roojoom.com
 api.rtb.vyadd.com
+api.rwadx.fuseplatform.net
 api.rxlca.rubikloud.com
 api.safegraph.com
 api.sail-personalize.com
@@ -11637,6 +11665,7 @@ api.soda.cloud.tencent.com
 api.spartan.com.ssopt.net
 api.speedcurve.com
 api.speedppc.com
+api.sph.fuseplatform.net
 api.spotx.tv
 api.sprig.com
 api.sprinklr.com
@@ -11649,14 +11678,17 @@ api.stage.gimbal.com
 api.staging.cloud.somin.ai
 api.staging.flick.social
 api.staging.found.ee
+api.staging.fuseplatform.net
 api.staging.growthloop.com
 api.staging.identitymatrix.ai
 api.staging.infusionsoft.app
 api.staging.powerlinks.com
 api.staging.sprig.com
+api.stagingtest2.fuseplatform.net
 api.stepex.co
 api.stg.wknd.ai
 api.streak.com
+api.summitmedia.fuseplatform.net
 api.support.scs.mediamath.com
 api.survicate.com
 api.swelen.com
@@ -11716,6 +11748,7 @@ api.versium.com
 api.viafoura.co
 api.viafoura.com
 api.vibetrace.com
+api.vidmatic.fuseplatform.net
 api.viewer.zmags.com
 api.viglink.com
 api.vyadd.com
@@ -13730,6 +13763,7 @@ autopartswarehouse.evyy.net
 autopilot.simpli.fi
 autoredirect.net
 autoreka-epre.soundestlink.com
+autoscout24.cdn.fuseplatform.net
 autosre.palantirfoundry.com
 autotag.pingdom.com
 autotrader.ads.placeiq.com
@@ -14789,6 +14823,7 @@ battlefieldlive.infusionsoft.app
 battleground.ai
 battlegroundai.com
 baudville.blueconic.net
+bauer-media.fuseplatform.net
 bauschweiz.matomo.cloud
 bauzaar.pushcrew.com
 baxshop.btttag.com
@@ -15849,6 +15884,7 @@ blackwhitebags.com
 blackwoodseven.datatap.adverity.com
 blade.tencent.com
 bladecity-dkoq.soundestlink.com
+blah.cdn.fuseplatform.net
 blah.nqa.sprinklr.com
 blah1.nqa.sprinklr.com
 blaisedrake.infusionsoft.app
@@ -18204,6 +18240,8 @@ carry.palantirfoundry.com
 cars-to-buy.com
 cars.ads.placeiq.com
 cars.datatap.adverity.com
+carsales.cdn.fuseplatform.net
+carsales.cdnbackup.fuseplatform.net
 cart.repeatreturns.com
 cart.terapeak.com
 cartafinanciera.clickfunnels.com
@@ -18981,6 +19019,7 @@ cdn.fpjs.io
 cdn.fs.turtl.co
 cdn.ftspecialist.exponea.com
 cdn.fullcontact.com
+cdn.fuseplatform.net
 cdn.gd1.exponea.com
 cdn.gd2.exponea.com
 cdn.gd3.exponea.com
@@ -19097,6 +19136,7 @@ cdn.stackadapt.com
 cdn.stage.ad.gt
 cdn.stage.bardeen.ai
 cdn.staging.exponea.com
+cdn.staging.fuseplatform.net
 cdn.staging.gdev.exponea.com
 cdn.staging.sprig.com
 cdn.staticstuff.net
@@ -19188,9 +19228,11 @@ cdn8.abtasty.com
 cdn9.abtasty.com
 cdna.ciradar.com
 cdnap.socialannex.com
+cdnapp.fuseplatform.net
 cdnau1.abtasty.com
 cdnau2.abtasty.com
 cdnb804.na1.hubspotlinks.com
+cdnbackup.fuseplatform.net
 cdndd04.na1.hubspotlinks.com
 cdndv.doubleverify.com
 cdneu-az.socialannex.com
@@ -19390,6 +19432,7 @@ cf-sm04.na1.hubspotlinks.com
 cf-wv04.na1.hubspotlinks.com
 cf.adxcel.com
 cf.app.preproduction.tollbit.com
+cf.fuseplatform.net
 cf.geo.ngtv.io
 cf.groundtruth.com
 cf.kampyle.com
@@ -20498,6 +20541,7 @@ classic-app.intellimize.com
 classic-furnitures.com
 classicpartyrentals.btttag.com
 classictic.evergage.com
+classmates.cdn.fuseplatform.net
 classpages.adzerk.net
 classstylemap.com
 classuplab.os.tc
@@ -20765,6 +20809,7 @@ client-nescafedolcegustogbmikmakai.mikmak.ai
 client-nesquikdemikmakai.mikmak.ai
 client-nutrencomikmakai.mikmak.ai
 client-petprotectelancocom.mikmak.ai
+client-portal.fuseplatform.net
 client-productshopcasamigoscom.mikmak.ai
 client-prov-mgr01.voice-svc.sv1.247-inc.net
 client-prov-mgr02.voice-svc.sv1.247-inc.net
@@ -26391,13 +26436,21 @@ dashboard-iap.ie.unityads.unity3d.com
 dashboard-testing.fullcontact.com
 dashboard-web-rancher.demandbase.com
 dashboard.4-tell.com
+dashboard.ad-vanx.fuseplatform.net
+dashboard.adasia.fuseplatform.net
+dashboard.adfill.fuseplatform.net
+dashboard.adireto.fuseplatform.net
+dashboard.adop.fuseplatform.net
 dashboard.adspert.net
 dashboard.areal.ai
+dashboard.bauer-media.fuseplatform.net
 dashboard.brevo.com
 dashboard.clevertap.com
 dashboard.demandbase.com
+dashboard.demo.fuseplatform.net
 dashboard.empyr.com
 dashboard.europe-west1.projectn.quantummetric.com
+dashboard.fluct.fuseplatform.net
 dashboard.fpjs.io
 dashboard.fullcontact.com
 dashboard.getwarmly.com
@@ -26406,12 +26459,17 @@ dashboard.iprospect.com
 dashboard.manychat.com
 dashboard.mgid.com
 dashboard.neoreach.com
+dashboard.oko.fuseplatform.net
 dashboard.piano.io
 dashboard.powerlinks.com
 dashboard.privy.com
 dashboard.projectn.quantummetric.com
+dashboard.publift.fuseplatform.net
+dashboard.rwadx.fuseplatform.net
 dashboard.sleeknote.com
+dashboard.staging.fuseplatform.net
 dashboard.staging.unityads.unity3d.com
+dashboard.summitmedia.fuseplatform.net
 dashboard.superawesome.com
 dashboard.taku.cool
 dashboard.towerdata.com
@@ -26420,6 +26478,7 @@ dashboard.us-central1.projectn.quantummetric.com
 dashboard.v3.powerlinks.com
 dashboard.v3.qa.powerlinks.com
 dashboard.v3.staging.powerlinks.com
+dashboard.vidmatic.fuseplatform.net
 dashboard.warmly.ai
 dashboard.yieldify.com
 dashboard.zenapse.com
@@ -27546,6 +27605,8 @@ demo.bitrix24.com
 demo.ca.assist.247-inc.net
 demo.calltracks.com
 demo.ccc.ciuvo.com
+demo.cdn.fuseplatform.net
+demo.cdnbackup.fuseplatform.net
 demo.cmt.epsilon.com
 demo.connect.persado.com
 demo.datatap.adverity.com
@@ -27560,6 +27621,7 @@ demo.eskimi.com
 demo.exponea.com
 demo.fueled.io
 demo.fullthrottle.ai
+demo.fuseplatform.net
 demo.go.persado.com
 demo.greenhouse.us.deptagency.com
 demo.haiku.persado.com
@@ -28961,6 +29023,7 @@ dqcore-enrichment-stg.dis-dqcore.cloud.precisely.com
 dqcore-enrichment-stg.dqcore.cloud.precisely.com
 dqcore-enrichment.dqcore.cloud.precisely.com
 dqindia.os.tc
+dqna.fuseplatform.net
 dr-oetker.datatap.adverity.com
 dr.eks.devel.adswizz.com
 dr.eulerian.net
@@ -30843,6 +30906,8 @@ enventive.maillist-manage.com
 envestnet.aidentified.com
 enviedefraises-com.eulerian.net
 environics.instances.optable.co
+envtests-prod.cdnbackup.fuseplatform.net
+envtests.cdn.fuseplatform.net
 enx3v-l5ghc.ads.tremorhub.com
 enz.soundestlink.com
 eo109.infusionsoft.com
@@ -33169,6 +33234,7 @@ flowtech-logging-api-test.uk.deptagency.com
 flowwateri-flur.soundestlink.com
 flr.soundestlink.com
 flrytasadlt.hit.gemius.pl
+fluct.fuseplatform.net
 fluent.razorfish.com
 fluentd-support.treasuredata.com
 fluentd.hadron.ad.gt
@@ -33372,6 +33438,7 @@ fossil.datatap.adverity.com
 fossp.omnitagjs.com
 foster360.qualtrics.com
 fothacker.os.tc
+fotocasa-group.cdn.fuseplatform.net
 fotographiko.os.tc
 fotostore.app.link
 foud.maillist-manage.com
@@ -34293,6 +34360,10 @@ fuoy.maillist-manage.com
 furmaninfosec.palantirfoundry.com
 furnacecreekresort.blueconic.net
 furnichannel.kontentino.com
+fuse-ent-envtests.fuseplatform.net
+fuse-gen-v2.fuseplatform.net
+fuse-gen-v2.staging.fuseplatform.net
+fuse-tag-gen-v2.staging.fuseplatform.net
 fuseenergysupply.palantirfoundry.com
 fusepump.com
 fusion.inrix.com
@@ -36007,6 +36078,8 @@ gummydrop.tresensa.com
 gummydropja.tresensa.com
 gumshoe.palantirfoundry.com
 gumtree-location-api.feed.xyz
+gumtreegroup.cdn.fuseplatform.net
+gumtreegroup.cdnbackup.fuseplatform.net
 gundigeststore.recs.igodigital.com
 gunlimitedabtesting.persado.com
 gurfrey.eskimi.com
@@ -37972,6 +38045,7 @@ infodt.sisense.com
 infogix.com
 infogixinc.mktoweb.com
 infogixmsg.infogix.com
+infojobs.cdn.fuseplatform.net
 infolinc.marketlinc.com
 infor.hit.gemius.pl
 inforcepro.evergage.com
@@ -41237,6 +41311,7 @@ lof.clickfunnels.com
 lof.palantirfoundry.com
 loftshare.growsumo.com
 log-eu.movableink.com
+log-filtering.memberful.com
 log-va.tiktokv.com
 log.3u.com
 log.beeketing.com
@@ -47339,6 +47414,7 @@ ok190.infusionsoft.com
 oki-ni.eulerian.net
 okinawa-dr-presales.palantirfoundry.com
 oklahoma.evergage.com
+oko.fuseplatform.net
 okproductions-brindiamochannel-1-it.samsung.wurl.com
 oksa.maillist-manage.com
 okta-login-cdn.cloud.precisely.com
@@ -51006,6 +51082,8 @@ publicisgroupe.net
 publicisluxe.publicisgroupe.net
 publicopiniononline.localiq.com
 publicstaticvoid.olark.com
+publift.cdnbackup.fuseplatform.net
+publift.fuseplatform.net
 publish-cdn.bn.co
 publish.stimulsoft.com
 publisher-api.adthrive.com
@@ -51759,6 +51837,8 @@ r2-stg.trackedweb.net
 r2-t.trackedlink.net
 r2-test.trackedweb.net
 r2.advermind.com
+r2.cdn.fuseplatform.net
+r2.cf.fuseplatform.net
 r2.leadsy.ai
 r2.linksynergy.com
 r2.trackedweb.net
@@ -52607,30 +52687,44 @@ reports-gdpr.intentiq.com
 reports-internal.mediamath.com
 reports-ono.web.analytics.yahoo.com
 reports-portal.web.analytics.yahoo.com
+reports.ad-vanx.fuseplatform.net
+reports.adasia.fuseplatform.net
 reports.adcore.com
+reports.adfill.fuseplatform.net
+reports.adireto.fuseplatform.net
+reports.adop.fuseplatform.net
 reports.arrivalist.com
+reports.bauer-media.fuseplatform.net
 reports.brevo.com
 reports.centerfield.com
 reports.channelsight.com
 reports.clickfirstmarketing.com
+reports.demo.fuseplatform.net
 reports.evocalize.com
 reports.fanplayr.com
+reports.fluct.fuseplatform.net
 reports.internal.outbrain.com
 reports.iq.vantivcnp.com
 reports.krux.com
 reports.marketmuse.com
 reports.mediamath.com
 reports.novantas.com
+reports.oko.fuseplatform.net
 reports.outbrain.com
 reports.phluant.com
+reports.publift.fuseplatform.net
 reports.razorfish.com
+reports.rwadx.fuseplatform.net
 reports.sandbox.zappi.io
 reports.sdiapi.com
 reports.shoppertrak.com
+reports.sph.fuseplatform.net
+reports.staging.fuseplatform.net
 reports.staging.zappi.io
 reports.staging.zignallabs.com
 reports.stimulsoft.com
 reports.streamalive.com
+reports.summitmedia.fuseplatform.net
 reports.swelen.com
 reports.team-1.sandbox.zappi.io
 reports.team-10.sandbox.zappi.io
@@ -52656,6 +52750,7 @@ reports.telemetry.mozilla.org
 reports.tenjin.io
 reports.uat.zappi.io
 reports.unacast.com
+reports.vidmatic.fuseplatform.net
 reports.vizury.com
 reports.web.analytics.yahoo.com
 reports.wpp.com
@@ -53003,6 +53098,7 @@ riezdrz0-ios-9-0-2.mobile-sdk-api.intercom.io
 riezdrz0-ios-9-0.mobile-sdk-api.intercom.io
 rigetti.palantirfoundry.com
 rightclick.turtl.co
+rightmove.cdn.fuseplatform.net
 rigorous-brainchild.palantirfoundry.com
 rihanna71992.eskimi.com
 riihat.app.link
@@ -53611,6 +53707,7 @@ rvversicherung.saas.appdynamics.com
 rw.pardot.com
 rw100.infusionsoft.com
 rw200.infusionsoft.com
+rwadx.fuseplatform.net
 rwco.btttag.com
 rwcvpn1.turn.com
 rwrr.voluumtrk3.com
@@ -56730,6 +56827,7 @@ site.vercel.hightouch.io
 site2019.dolead.com
 site24.maillist-manage.com
 sitecdn.adespresso.com
+sitecheck.fuseplatform.net
 sitecheck.heatclix.net
 sitecore2.mktoweb.com
 siteintercept.qualtrics.com
@@ -57757,6 +57855,7 @@ sperse.grsm.io
 spf.js-min.site
 spg.demandbase.com
 spglobalsupplychain.palantirfoundry.com
+sph.fuseplatform.net
 sphere.palantirfoundry.com
 spherical.panamplify.com
 spica.iad-03.braze.com
@@ -58206,6 +58305,7 @@ staging.admin.creators.neoreach.com
 staging.amex.movableink.com
 staging.analytics.bloomreach.com
 staging.analytics.elsevier.com
+staging.api.fuseplatform.net
 staging.apollo.io
 staging.assets.ispot.tv
 staging.attn.tv
@@ -58217,6 +58317,7 @@ staging.c.vindicosuite.com
 staging.calldorado.com
 staging.callrail.com
 staging.cdn-b.neoreach.com
+staging.cdn.fuseplatform.net
 staging.cdn.neoreach.com
 staging.cdn2.neoreach.com
 staging.centerfield.com
@@ -58234,6 +58335,7 @@ staging.flick.social
 staging.found.ee
 staging.fullcontact.com
 staging.fullthrottle.ai
+staging.fuseplatform.net
 staging.go.persado.com
 staging.growthloop.com
 staging.hightouch.io
@@ -58324,6 +58426,7 @@ staginginsights.pricespider.com
 staginginternalapi-public.epsilon.com
 staginginternalauth.epsilon.com
 stagingsec.sprinklr.com
+stagingtest2.fuseplatform.net
 stagingui.harmony.epsilon.com
 stagingui.hc.epsilon.com
 stagingui.sprinklr.com
@@ -58497,6 +58600,7 @@ static.dynamicyield.com
 static.eu.asas.yango.com
 static.flash.blueknow.com
 static.found.ee
+static.fuseplatform.net
 static.getclicky.com
 static.giraff.io
 static.growsumo.com
@@ -59186,6 +59290,7 @@ summit.exponea.com
 summit.palantirfoundry.com
 summit.sprinklr.com
 summitmaterials.palantirfoundry.com
+summitmedia.fuseplatform.net
 summitstream.appnexus.com
 sun.onthe.io
 sunaina.storehippo.com
@@ -60575,6 +60680,10 @@ temus.palantirfoundry.com
 ten-qgcafokrwr.blueconic.net
 tenacious-learner.palantirfoundry.com
 tenant-admin.us1.automate.precisely.com
+tenant1.cdn.fuseplatform.net
+tenant1.cdnbackup.fuseplatform.net
+tenant2.cdn.fuseplatform.net
+tenant2.cdnbackup.fuseplatform.net
 tenaris.palantirfoundry.com
 tenc.tencent.com
 tencent.com
@@ -60711,6 +60820,7 @@ test.apps.randi.adswizz.com
 test.arkusnexus.com
 test.audiencesa.gemius.com
 test.brax.io
+test.cdn.fuseplatform.net
 test.contify.com
 test.data.heap.io
 test.deptagency.com
@@ -60801,6 +60911,7 @@ testcustomdomain-u2.moengage.com
 testcustomdomain-u4.moengage.com
 testcustomdomain.staging.litix.io
 testeee.storehippo.com
+tester123.cdn.fuseplatform.net
 testforms.infusionsoft.com
 testgoat.dev.getambassador.com
 testheaders.bloomreach.com
@@ -61959,7 +62070,10 @@ trackview.recurly.com
 trackyourfedexpackage.net
 tractorsupply.palantirfoundry.com
 trade.co1.qualtrics.com
+trademe.cdn.fuseplatform.net
 tradepress.omeclk.com
+traderint.cdn.fuseplatform.net
+traderint.cdnbackup.fuseplatform.net
 tradesales.calltracks.com
 tradeshow.trackdrive.net
 tradespoon.pushcrew.com
@@ -62150,6 +62264,7 @@ trk.klclick.com
 trk.klclick1.com
 trk.lexialearning.com
 trk.lockerdome.com
+trk.send.lithub.com
 trk.substackcdn.com
 trk.techtarget.com
 trk.vindicosuite.com
@@ -64483,6 +64598,7 @@ videos.zoominfo.com
 videoserve.engageclick.com
 videospot.clickfunnels.com
 videostage.vizury.com
+vidmatic.fuseplatform.net
 vidoport.pushcrew.com
 vidyardwebsite.wpengine.com
 vidyo.turn.com
@@ -65694,6 +65810,8 @@ webmarked.net
 webmaster.olark.com
 webmasterpro.de
 webmdcom.tt.omtrdc.net
+webmotors.cdn.fuseplatform.net
+webmotors.cdnbackup.fuseplatform.net
 webpixel-useast-1.dpclk.com
 webpixel-useast-2.dpclk.com
 webpush-by.accengage.net
