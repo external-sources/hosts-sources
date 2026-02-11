@@ -6526,6 +6526,7 @@
 9fa2304fc64b46d530df71919216bc00.nrb.footprintdns.com
 9five.attn.tv
 9gq3.app.link
+9gtb.com
 9h16.app.link
 9hwsanqcg8.eoapxl.com
 9lbikwrikyedoavs8mjf.sapient.com
@@ -10594,6 +10595,7 @@ analytics.quibi.com
 analytics.radiusnetworks.com
 analytics.randi.adswizz.com
 analytics.rclone.org
+analytics.revenuehunt.com
 analytics.samba.tv
 analytics.seevibes.com
 analytics.shelfbucks.com
@@ -11142,6 +11144,7 @@ api-analytics.j.gdev.exponea.com
 api-analytics.master.gdev.exponea.com
 api-analytics.ovasko-test.gdev.exponea.com
 api-analytics.qa.gdev.exponea.com
+api-analytics.revenuehunt.com
 api-analytics.staging.exponea.com
 api-analytics.staging.gdev.exponea.com
 api-analytics.stg.exponea.com
@@ -20813,6 +20816,9 @@ client-api.iciyoqav9fyuf25r.figure-eight.com
 client-api.plotprojects.com
 client-boostarmikmakai.mikmak.ai
 client-boostmxmikmakai.mikmak.ai
+client-builds.gorgias.chat
+client-builds.production.gorgias.chat
+client-builds.staging.gorgias.chat
 client-buyarmandhammercom.mikmak.ai
 client-buybiofreezecom.mikmak.ai
 client-buycbrandscom.mikmak.ai
@@ -21779,6 +21785,7 @@ config.adswizz.com
 config.app.bloomreach.com
 config.auth0-prmary.anaplan.com
 config.auth0-secondary.anaplan.com
+config.gorgias.chat
 config.pf.triptease.io
 config.ts-prod.ay.delivery
 config.ts-stage.ay.delivery
@@ -30289,6 +30296,7 @@ ehvmcjs1ow.eoapxl.com
 ehvo.maillist-manage.com
 ei-a.turtl.co
 ei-demo.palantirfoundry.com
+ei.9gtb.com
 ei0a6n3g81.eoapxl.com
 ei200.infusionsoft.com
 ei611.infusionsoft.com
@@ -35628,6 +35636,7 @@ gophish-mgmt.sec.gcp.exponea.com
 gophish.sec.gcp.exponea.com
 gordon.os.tc
 gorenje.channelsight.com
+gorgias.chat
 gorgon-api.adparlor.com
 gori.palantirfoundry.com
 gos0m4a5-ios-1-06-04.mobile-sdk-api.intercom.io
@@ -50755,6 +50764,7 @@ production-zoom-3574322142.layer.getwarmly.com
 production-zoom.layer.getwarmly.com
 production.adthrive.com
 production.buzzsumo.com
+production.gorgias.chat
 production.hkg-1.mathmon.mediamath.com
 production.razorfish.com
 productioncrate.grsm.io
@@ -58458,6 +58468,7 @@ staging.fullcontact.com
 staging.fullthrottle.ai
 staging.fuseplatform.net
 staging.go.persado.com
+staging.gorgias.chat
 staging.growthloop.com
 staging.hightouch.io
 staging.hyundai.maritz.com
@@ -59357,6 +59368,7 @@ su.ff.avast.comengine.adzerk.net
 su1ssl.grcsbx.global.publicisgroupe.net
 sua.hit.gemius.pl
 suawww.eskimi.com
+sub.staging.gorgias.chat
 subaruca.epsilon.com
 subcontractorhub.palantirfoundry.com
 subdomain.privy.com
@@ -64681,6 +64693,8 @@ vibhg3emno.eoapxl.com
 vibrant-echo.palantirfoundry.com
 vibrantrecycling.tresensa.com
 vicbarillasnyc.clickfunnels.com
+vicdup-headless.gorgias.chat
+vicdup-shopify.gorgias.chat
 vice-web-statics-cdn.vice.com
 vice.com.cmun.it
 vice.like2buy.curalate.com
