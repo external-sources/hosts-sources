@@ -11659,6 +11659,7 @@ api.scraper.innovation.abtasty.com
 api.searchspring.net
 api.seevibes.com
 api.semcasting.com
+api.sendx.io
 api.sensape.com
 api.sessioncam.com
 api.sfdc.zoominfo.com
@@ -12223,6 +12224,7 @@ app.sandbox.clearout.io
 app.sandbox.superawesome.com
 app.satismeter.com
 app.secondmeasure.com
+app.sendx.io
 app.sether.com
 app.sigopt.com
 app.simplereach.com
@@ -16033,6 +16035,7 @@ blog.pronouns.layer.getwarmly.com
 blog.quantummetric.com
 blog.refactor-sync-events-zapatos.layer.getwarmly.com
 blog.secure.blog.master.layer.getwarmly.com
+blog.sendx.io
 blog.simpleanalytics.com
 blog.smartlook.com
 blog.sprig.com
@@ -32244,6 +32247,7 @@ expertanswercenter.techtarget.com
 expertmedia.clickfunnels.com
 experts.brevo.com
 expertsexchange2.mktoweb.com
+expertsontap.sendx.io
 expertusinc.mktoweb.com
 explab-doc.moloco.com
 explain.optable.co
@@ -32864,6 +32868,7 @@ feedback.productboard.emplifi.io
 feedback.publicisgroupe.net
 feedback.regie.ai
 feedback.sapient.com
+feedback.sendx.io
 feedback.umeng.com
 feedback.userreport.com
 feedback.viralsweep.com
@@ -37750,6 +37755,7 @@ image.launch.stackadapt.com
 image.offers.meredith.com
 image.precisely.com
 image.s12.sfmc-content.com
+imagecdn.sendx.io
 imagenads.clickfunnels.com
 imagepreviewsprod.marriott.epsilon.com
 imagepreviewsqa.marriott.epsilon.com
@@ -47632,6 +47638,7 @@ onb-de1.cxense.com
 onboard.api.moengage.com
 onboard.icustomer.ai
 onboard.moengage.com
+onboard.sendx.io
 onboarding-analytics.layer.getwarmly.com
 onboarding-backend-api.brevo.com
 onboarding-background.layer.getwarmly.com
@@ -50099,6 +50106,7 @@ postgres-test.staging.nyc2.do.pushcrew.com
 postgres.expeditor.staging.blr.do.pushcrew.com
 postgres1.expeditor.staging.blr.do.pushcrew.com
 postgres2.expeditor.staging.blr.do.pushcrew.com
+posthog-stage.sendx.io
 posthog.dev.emplifi.io
 posthog.klue.com
 postmail.palantirfoundry.com
@@ -56227,6 +56235,7 @@ sendmail.adtelligent.com
 sendoutcards.app.link
 sendrequests.salesloft.com
 sendx.firstpromoter.com
+sendx.io
 senh.maillist-manage.com
 senicom.blueconic.net
 sennheiser.evyy.net
@@ -57576,11 +57585,14 @@ smssit.epsilon.com
 smsterms.epsilon.com
 smtp-12.mailerlite.com
 smtp-relay.brevo.com
+smtp-stag.sendx.io
+smtp-stag1.sendx.io
 smtp.global.publicisgroupe.net
 smtp.mscnet.com
 smtp.olark.com
 smtp.outbrain.com
 smtp.saas.appdynamics.com
+smtp.sendx.io
 smtp.techtarget.com
 smtp1.bws.birst.com
 smtp1.cardlytics.com
@@ -57910,6 +57922,10 @@ sovrn.instances.optable.co
 sovtool.publicisgroupe.net
 sp-api.analytics.yahoo.com
 sp-td.epsilon.com
+sp-track-36540.updates.sendx.io
+sp-track.inside.sendx.io
+sp-track.news.sendx.io
+sp-track.sendx.io
 sp-ycpi.analytics.yahoo.com
 sp.analytics.yahoo.com
 sp.api.popin.cc
@@ -67545,6 +67561,7 @@ www.app.pulseinsights.com
 www.app.qualified.com
 www.app.salesforceiq.com
 www.app.satismeter.com
+www.app.sendx.io
 www.app.sociabble.com
 www.app.speedppc.com
 www.app.spyglaz.com
@@ -69845,6 +69862,7 @@ www.semantic.crawlq.ai
 www.semcasting.com
 www.sen.corp.epsilon.com
 www.sendibm3.com
+www.sendx.io
 www.sensape.com
 www.sensorpro.epsilon.com
 www.sentry365-1.publicisgroupe.net
