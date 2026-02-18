@@ -7723,6 +7723,7 @@ adespresso.com
 adevinta.cdn.fuseplatform.net
 adex.ad2iction.com
 adexa-gb.attn.tv
+adexchange.connatix.com
 adez.mobsmith.com
 adf622ecfdf456601c213896a3574e38.ulink.adjust.com
 adfeed.pagefair.net
@@ -7750,6 +7751,8 @@ adgallery.superawesome.com
 adgarden-next.ay.delivery
 adgarden.ay.delivery
 adgate.adzerk.net
+adgen-cdn.connatix.com
+adgen.connatix.com
 adglobal.hit.gemius.pl
 adgpt.com
 adgreetz.com
@@ -8337,6 +8340,7 @@ adserver-staging.fidzup.com
 adserver-tfm-fiuat-uk.cardlytics.com
 adserver.ad2iction.com
 adserver.adswizz.com
+adserver.connatix.com
 adserver.cxad.cxense.com
 adserver.fattail.com
 adserver.intentiq.com
@@ -13139,6 +13143,7 @@ assets-proxy.alfa.smartlook.com
 assets-proxy.alfaz.smartlook.com
 assets-proxy.beta.smartlook.com
 assets-proxy.smartlook.com
+assets-staging.connatix.com
 assets-v2.yieldify.com
 assets-www.sociabble.com
 assets.04c67c5e.tst.optable.co
@@ -13165,6 +13170,7 @@ assets.cience.com
 assets.cloud.figure-eight.com
 assets.cogocast.net
 assets.competeshark.com
+assets.connatix.com
 assets.convertkit.com
 assets.dynatrace.com
 assets.embeddables.com
@@ -13509,6 +13515,8 @@ audience-dk.gemius.com
 audience-preview-api.sprinklr.com
 audience-prod0-api.sprinklr.com
 audience-prod2-api.sprinklr.com
+audience-segments-us-east-2.connatix.com
+audience-segments.connatix.com
 audience-staging-api.sprinklr.com
 audience.bn.co
 audience.estat.com
@@ -13655,6 +13663,7 @@ auth.api.test.bardeen.ai
 auth.brevo.com
 auth.cloud.precisely.com
 auth.cls.epsilon.com
+auth.connatix.com
 auth.dev.infusionsoft.app
 auth.dev.marketmuse.com
 auth.dev1.elvis.meredith.com
@@ -13690,6 +13699,7 @@ auth.staging.infusionsoft.app
 auth.team-7.sandbox.zappi.io
 auth.test.bardeen.ai
 auth.vector.co
+auth0.connatix.com
 auth0.intercom.io
 auth0.mktoweb.com
 auth0.team-7.sandbox.zappi.io
@@ -18133,6 +18143,14 @@ cap1rtmsg05.front.hosting.va1.247-inc.net
 capacitytool.aws.fedex.epsilon.com
 capco.palantirfoundry.com
 capgemini.palantirfoundry.com
+capi-testing-tunnels.connatix.com
+capi-tier-1-eu-west-1.connatix.com
+capi-tier-1-us-east-2.connatix.com
+capi-tier-1-us-west-2.connatix.com
+capi-tier-2-us-east-2.connatix.com
+capi-tier-2-us-west-2.connatix.com
+capi.connatix.com
+capi.stg.connatix.com
 capita.turtl.co
 capitalbling.growsumo.com
 capitalgr.os.tc
@@ -18492,6 +18510,7 @@ cbrhv04.na1.hubspotlinks.com
 cbrhw04.na1.hubspotlinks.com
 cbs-alternate.app.link
 cbs.app.link
+cbs.connatix.com
 cbs.sprinklr.com
 cbs.vindicosuite.com
 cbs7.os.tc
@@ -18685,7 +18704,9 @@ cd-dg04.na1.hubspotlinks.com
 cd-j004.na1.hubspotlinks.com
 cd-nm04.na1.hubspotlinks.com
 cd-tm04.na1.hubspotlinks.com
+cd.connatix.com
 cd.letimpact.com
+cd.stg.connatix.com
 cd.tencent.com
 cd.ua-ops-deployment.us-east1.gcp.urbanairship.com
 cd03a1478caf49819e89e5929330dd51.nrb.footprintdns.com
@@ -18767,6 +18788,7 @@ cdlc.iadvize.com
 cdld804.na1.hubspotlinks.com
 cdllg04.na1.hubspotlinks.com
 cdm-beta.zylotech.com
+cdm.connatix.com
 cdm.zylolabs.com
 cdm.zylotech.com
 cdmcw04.na1.hubspotlinks.com
@@ -19027,6 +19049,7 @@ cdn.cloud.precisely.com
 cdn.cloud.tencent.com
 cdn.cognitiveseo.com
 cdn.competeshark.com
+cdn.connatix.com
 cdn.convertexperiments.com
 cdn.convertkit.com
 cdn.crowdtangle.com
@@ -19301,6 +19324,7 @@ cdqwn04.na1.hubspotlinks.com
 cdqxn04.na1.hubspotlinks.com
 cdr3y04.na1.hubspotlinks.com
 cdrfr.blueconic.net
+cds.connatix.com
 cdsmr04.na1.hubspotlinks.com
 cdsnr04.na1.hubspotlinks.com
 cdssq04.na1.hubspotlinks.com
@@ -20099,6 +20123,7 @@ chymb04.na1.hubspotlinks.com
 chzn504.na1.hubspotlinks.com
 chzrf04.na1.hubspotlinks.com
 ci-api.percolata.com
+ci-enrolment.stg.connatix.com
 ci-runner.k8s.engagement.bloomreach.com
 ci-test.leadpages.io
 ci.acquia.com
@@ -20395,6 +20420,7 @@ ck-bg04.na1.hubspotlinks.com
 ck-fb04.na1.hubspotlinks.com
 ck-gb04.na1.hubspotlinks.com
 ck-hp04.na1.hubspotlinks.com
+ck.connatix.com
 ck.h.convertkit.com
 ck.l.convertkit.com
 ck.n.convertkit.com
@@ -20476,6 +20502,7 @@ ckrcb04.na1.hubspotlinks.com
 ckrhs04.na1.hubspotlinks.com
 ckrrv04.na1.hubspotlinks.com
 ckrsj04.na1.hubspotlinks.com
+cks.connatix.com
 cks1b04.na1.hubspotlinks.com
 ckskw04.na1.hubspotlinks.com
 cksvr04.na1.hubspotlinks.com
@@ -21759,6 +21786,8 @@ computerease.infusionsoft.app
 comstatic.olark.com
 comtech.palantirfoundry.com
 conagra.palantirfoundry.com
+conapi.connatix.com
+conapi.stg.connatix.com
 concept.cience.com
 concept2.storehippo.com
 concertads-configs.vox-cdn.com
@@ -21830,6 +21859,7 @@ confusedmachine.com
 conga.mktoweb.com
 congainhangkeo.eskimi.com
 conids.bm23.com
+connatix.com
 connaxis.blueconic.net
 connect-monitoring-stg.connect.cloud.precisely.com
 connect-monitoring.connect.cloud.precisely.com
@@ -23665,6 +23695,8 @@ ctt002.infusionsoft.app
 cttamus.co1.qualtrics.com
 cttmm04.na1.hubspotlinks.com
 cttng04.na1.hubspotlinks.com
+ctv-cdn.connatix.com
+ctv.connatix.com
 ctvhq04.na1.hubspotlinks.com
 ctvqw04.na1.hubspotlinks.com
 ctw1s04.na1.hubspotlinks.com
@@ -23745,6 +23777,7 @@ cupcakes-vs-veggies.tresensa.com
 cupshe-krxb.soundestlink.com
 curate-qa.wurl.com
 curated-elqt.soundestlink.com
+curation-platform.connatix.com
 curator-qa.linksynergy.com
 cure.epsilon.com
 curetest.epsilon.com
@@ -27656,6 +27689,7 @@ demo-portal.persado.com
 demo-proemail.persado.com
 demo-rc.appdynamics.com
 demo-recording.smartlook.com
+demo-snippet.connatix.com
 demo-store-fra.rmp-portal.moloco.com
 demo-store.rmp-portal.moloco.com
 demo-x.persado.com
@@ -27671,6 +27705,7 @@ demo.ccc.ciuvo.com
 demo.cdn.fuseplatform.net
 demo.cdnbackup.fuseplatform.net
 demo.cmt.epsilon.com
+demo.connatix.com
 demo.connect.persado.com
 demo.datatap.adverity.com
 demo.deliveryengine.adswizz.com
@@ -30410,6 +30445,7 @@ elektromar-urlq.soundestlink.com
 eleleonline.os.tc
 element78.widget.insent.ai
 elementbrand.btttag.com
+elements.connatix.com
 elementsbo-fddg.soundestlink.com
 elementus.palantirfoundry.com
 eletrobras.palantirfoundry.com
@@ -30518,6 +30554,7 @@ email.bant.io
 email.beeketing.com
 email.buzzstream.com
 email.circlebackemail.appboy.com
+email.connatix.com
 email.custora.com
 email.email.hyattic.com
 email.email.upsell-apps.com
@@ -30619,6 +30656,8 @@ embed.sisense.com
 embed.tawk.to
 embedanalytics.partnerstack.com
 embeddables.com
+embedded-staging.connatix.com
+embedded.connatix.com
 embedded.tray.io
 embedded1.pricespider.com
 embedded3.pricespider.com
@@ -31875,6 +31914,7 @@ events.cdnwidget.com
 events.centerfield.com
 events.channelsight.com
 events.cience.com
+events.connatix.com
 events.dataxu.com
 events.disneyadsales.com
 events.dynamicyield.com
@@ -34272,6 +34312,7 @@ frostfire.palantirfoundry.com
 frparpubexternalteams01.publicisgroupe.net
 frparpubexternalteams02.publicisgroupe.net
 frparpvgssc0001.global.publicisgroupe.net
+frs.connatix.com
 frtvfnncl.blueconic.net
 fruitchef.tresensa.com
 fruitfrenzy.tresensa.com
@@ -35272,7 +35313,9 @@ git.staging-zoom.layer.getwarmly.com
 git.tencent.com
 github01.epsilon.com
 gitlab-deveng.global.publicisgroupe.net
+gitlab-stg.ops.connatix.com
 gitlab.alfa2.smartlook.com
+gitlab.connatix.com
 gitlab.devops.adswizz.com
 gitlab.e2e-production-zoom.layer.getwarmly.com
 gitlab.e2e-stage-webhook.layer.getwarmly.com
@@ -35286,6 +35329,7 @@ gitlab.main-layerfile-staging-zoom.layer.getwarmly.com
 gitlab.main-layerfile-stripe-checkout-page.layer.getwarmly.com
 gitlab.main-layerfile-update-company-size.layer.getwarmly.com
 gitlab.maxymiser.net
+gitlab.ops.connatix.com
 gitlab.service.contentanalyticsinc.com
 gitlab.services.contentanalyticsinc.com
 gitlab.somin.ai
@@ -35460,6 +35504,7 @@ go.cardlytics.com
 go.cience.com
 go.click.org
 go.cmglocalsolutions.com
+go.connatix.com
 go.custora.com
 go.ducenit.com
 go.emplifi.io
@@ -37022,6 +37067,7 @@ hood-test.rmp-portal.moloco.com
 hood.rmp-portal.moloco.com
 hoodestates.clickfunnels.com
 hook.vibetrace.com
+hooks.connatix.com
 hooks.regie.ai
 hooktales.palantirfoundry.com
 hoopla.palantirfoundry.com
@@ -37804,11 +37850,14 @@ imfarmacias.pushcrew.com
 imfreedomcoaching.clickfunnels.com
 img-edgesport.samsung.wurl.com
 img-eu.stripst.com
+img-mmid.connatix.com
+img-mmid.stg.connatix.com
 img-us.stripst.com
 img.adgreetz.com
 img.ag.d.sendibm3.com
 img.atdmt.com
 img.cdns.turn.com
+img.connatix.com
 img.fullcontact.com
 img.litix.io
 img.mail.bardeen.ai
@@ -37816,6 +37865,7 @@ img.mailer.vdo.ai
 img.marketing.spyic.com
 img.pt2.atdmt.com
 img.sprinklr.com
+img.stg.connatix.com
 img.stripst.com
 img.tencent.com
 img.turn.com
@@ -38050,6 +38100,7 @@ info.cardlytics.com
 info.channelsight.com
 info.clevertap.com
 info.cmglocalsolutions.com
+info.connatix.com
 info.cxense.com
 info.dynatrace.com
 info.empyr.com
@@ -38252,6 +38303,7 @@ inrecsys.popin.cc
 inrix.com
 inro.hightouch.com
 ins.app.link
+ins.connatix.com
 ins.eulerian.net
 ins01.eulerian.net
 ins02.eulerian.net
@@ -39739,6 +39791,7 @@ kayworld93.eskimi.com
 kayx3.eskimi.com
 kb.adtheorent.com
 kb.centerfield.com
+kb.connatix.com
 kb.convertkit.com
 kb.cuebiq.com
 kb.dynatrace.com
@@ -40329,6 +40382,7 @@ ku310.infusionsoft.com
 ku6faoc3gzgy6qd3b1f7h5v683cyd6rd.edns.ip-api.com
 kubecost.cce-puppeteer2.us-east-1.k8s.aws.pricespider.com
 kuber.dsp-bidder-dev.demandbase.com
+kubernetes.stg.connatix.com
 kubity.matomo.cloud
 kubota.az1.qualtrics.com
 kuclas.qualtrics.com
@@ -40395,6 +40449,7 @@ l-uk.cardlytics.com
 l-v1.feathr.co
 l.cardlytics.com
 l.competeshark.com
+l.connatix.com
 l.dstillery.com
 l.feathr.co
 l.forter.com
@@ -41227,6 +41282,7 @@ listings.adlucent.com
 listings.clickfirstmarketing.com
 lists.epsilon.com
 listvps.1010data.com
+lit.connatix.com
 litatex.mailerlite.com
 lite.calltracks.com
 lite.neoreach.com
@@ -41605,6 +41661,7 @@ looker-hosted-dev.socialcode.com
 looker-hosted.socialcode.com
 looker-proxy.bigbrain.me
 looker.adthrive.com
+looker.analytics.jwplayer.com
 looker.brevo.com
 looker.clar.io
 looker.joinhoney.com
@@ -41616,6 +41673,7 @@ looker.socialcode.com
 looker.treasuredata.com
 looker.ua-insight-prod.gcp.urbanairship.com
 looker.zoominfo.com
+lookerdev.analytics.jwplayer.com
 lookers.calltracks.com
 lookers.turtl.co
 lookerstaging.pricespider.com
@@ -43696,6 +43754,8 @@ mholm9gyxg.eoapxl.com
 mhqw.maillist-manage.com
 mi-edc2.publicisgroupe.net
 mi-edc3.publicisgroupe.net
+mi-staging.connatix.com
+mi.connatix.com
 mi.olark.com
 mi.publicisgroupe.net
 mi.tencent.com
@@ -43859,6 +43919,7 @@ minide-simulator.apps.randi.adswizz.com
 minide-simulator.tools.randi.adswizz.com
 miniinvestigations.dnb.com
 minio.alfa2.smartlook.com
+minio.connatix.com
 minio.contentanalyticsinc.com
 minio.gitlab.ops.bouncex.net
 minio.service.contentanalyticsinc.com
@@ -47775,6 +47836,7 @@ openim.umeng.com
 openpartners.datatap.adverity.com
 openpgpkey.brax.io
 openplus.tencent.com
+openrtb.connatix.com
 opensdk.tencent.com
 opensdktest.tencent.com
 opensend.com
@@ -47817,6 +47879,7 @@ ops.adgreetz.com
 ops.appdynamics.com
 ops.bardeen.ai
 ops.calltracks.com
+ops.connatix.com
 ops.kochava.com
 ops.techtarget.com
 ops.tray.io
@@ -48861,6 +48924,7 @@ pdir.maillist-manage.com
 pdllcrt.blueconic.net
 pdtzqrizfy.eoapxl.com
 pdx1-ucid.vindicosuite.com
+pe.connatix.com
 pe.profitwell.com
 pe04.app.link
 pe1cprelay1.epsilon.com
@@ -49387,6 +49451,7 @@ pl-staging.rec.blue.cdtapps.com
 pl-staging1.rec.blue.cdtapps.com
 pl-test-demo.rmp-portal.moloco.com
 pl.abtasty.com
+pl.connatix.com
 pl.eskimi.com
 pl.hit.gemius.pl
 pl.shop.pricespider.com
@@ -49521,6 +49586,7 @@ playground.widespace.com
 playlists.strm.yango.com
 playready-proxy.movies.yango.com
 playready-proxy.testing.movies.yango.com
+playspace.connatix.com
 playworksdigital-playworks-1.plex.wurl.com
 plaza.bitrix24.com
 plbj.maillist-manage.com
@@ -50028,6 +50094,7 @@ portal.assist.wip.247-inc.net
 portal.btttag.com
 portal.channelsight.com
 portal.circulate.com
+portal.connatix.com
 portal.connect.cloud.precisely.com
 portal.data.moloco.com
 portal.dataxu.com
@@ -50089,6 +50156,7 @@ position2.mktoweb.com
 positive.clickfunnels.com
 poslovac.app.link
 post.click.org
+post.frs.connatix.com
 post.imp.stackadapt.com
 post.iperceptions.com
 post.update.ap.lijit.com
@@ -52142,6 +52210,7 @@ ralphlauren.saas.appdynamics.com
 ramaadietya.eskimi.com
 rambler.pushwoosh.com
 rambunctious-fishmonger.palantirfoundry.com
+ramen.connatix.com
 ramquest.entrinsik.com
 ramukaka.wingify.com
 ramundsenpublicsectorllc.mktoweb.com
@@ -52611,16 +52680,19 @@ registrations.platform.cloud.precisely.com
 registrations.thoughtspot.com
 registry-private.ts-prod.ay.delivery
 registry-public.ts-prod.ay.delivery
+registry-stg.ops.connatix.com
 registry-store.cloud.tencent.com
 registry-ui.sether.com
 registry.alfa2.smartlook.com
 registry.apps.randi.adswizz.com
 registry.cluster1.contentanalyticsinc.com
+registry.connatix.com
 registry.contentanalyticsinc.com
 registry.devops.adswizz.com
 registry.dstillery.com
 registry.gitlab.ops.bouncex.net
 registry.harness.anaplan.com
+registry.ops.connatix.com
 registry.service.contentanalyticsinc.com
 registry.sether.com
 registry2.bn.co
@@ -53898,6 +53970,7 @@ s.e.eccmp.com
 s.edns.ip-api.com
 s.foursquare.com
 s.fpjs.io
+s.frs.connatix.com
 s.go-mpulse.net
 s.hb.vyadd.com
 s.hit.gemius.pl
@@ -55254,6 +55327,7 @@ say-yes-to.deptagency.com
 saz-status.exponea.com
 sazamtosi.iad-03.braze.com
 sazka.k8s.engagement.bloomreach.com
+sb.connatix.com
 sb.olark.com
 sb10.mktossl.com
 sb100.infusionsoft.com
@@ -58942,6 +59016,7 @@ status.clearout.io
 status.clickfunnels.com
 status.cloud4wi
 status.competeshark.com
+status.connatix.com
 status.convertkit.com
 status.crimsonhexagon.com
 status.crowdtangle.com
@@ -59538,6 +59613,7 @@ support.cience.com
 support.click.org
 support.clickfunnels.com
 support.cognitiveseo.com
+support.connatix.com
 support.countly.com
 support.crayon.co
 support.datalicious.com
@@ -60297,6 +60373,7 @@ tc-eu.taxi.yango.com
 tc-svn.tencent.com
 tc.alterian.com
 tc.fpjs.io
+tc.internal.connatix.com
 tc.marketmuse.com
 tc.mobile.yango.com
 tc.outbrain.com
@@ -62035,6 +62112,7 @@ tqa-prd.palantirfoundry.com
 tqa-stg.palantirfoundry.com
 tqhj.maillist-manage.com
 tqq.tencent.com
+tr.connatix.com
 tr.eltoro.com
 tr.email.futureplc.com
 tr.eskimi.com
@@ -64269,6 +64347,7 @@ uylong94.eskimi.com
 uym7.app.link
 v-cdn2.vizury.com
 v.aimerce.ai
+v.connatix.com
 v.jwpcdn.com
 v.liquidus.net
 v.tencent.com
@@ -64724,6 +64803,8 @@ vid-1015.alpha.dashboard.adskeeper.co.uk
 vid-1015.alpha.dashboard.mgid.com
 vid-conf.corp.appnexus.com
 vid.atdmt.com
+vid.connatix.com
+vid.stg.connatix.com
 vid0.app.link
 vid1-origin.turn.com
 vid1.cdns.turn.com
@@ -71381,7 +71462,9 @@ youstechnologies.clickfunnels.com
 youthfootballlive.lockerdome.com
 youthinc.co1.qualtrics.com
 youtrack.dt00.net
+youtrack.internal.connatix.com
 youtrack.librarything.com
+youtrack.ops.connatix.com
 youtrack.somin.ai
 youtube.com.cmun.it
 youtube.imrworldwide.com
