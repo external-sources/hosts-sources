@@ -6665,11 +6665,9 @@ a0v3.app.link
 a0x-us-east-1.adzerk.net
 a1.alb.clevertap.com
 a1.api.clevertap.com
-a1.api.fpjs.io
 a1.cb.clevertap.com
 a1.dashboard.clevertap.com
 a1.dashbord.clevertap.com
-a1.j.fpjs.io
 a1.lc.clevertap.com
 a1.mail.clevertap.com
 a1.mail.convertkit.com
@@ -7238,6 +7236,7 @@ accountreview.outbrain.com
 accounts-api-us.ortto.app
 accounts-api.fpjs.io
 accounts-stg.platform.cloud.precisely.com
+accounts.backoffice.fpjs.io
 accounts.battlegroundai.com
 accounts.bighappy.co
 accounts.datalicious.com
@@ -7865,7 +7864,6 @@ admin.dstillery.com
 admin.dynamicweather.cloud.precisely.com
 admin.eskimi.com
 admin.eulerian.net
-admin.fpjs.io
 admin.getambassador.com
 admin.icapture.com
 admin.letimpact.com
@@ -8646,6 +8644,7 @@ aethon.palantirfoundry.com
 aetl.svc.turtl.co
 aetna.co1.qualtrics.com
 aeura.grsm.io
+aev.fpapi.io
 aexpfeedback.ca1.qualtrics.com
 aey072.infusionsoft.app
 aeylzxclsx.eoapxl.com
@@ -10938,6 +10937,7 @@ aori.com
 aos.attn.tv
 aothundep.bitrix24.com
 aoua.hit.gemius.pl
+ap-api-edge.fpjs.io
 ap-northeast-1.prod.monitoring.linkfire.co
 ap-southeast-2-capture.lift.acquia.com
 ap-southeast-2-decisionapi.lift.acquia.com
@@ -10948,6 +10948,7 @@ ap-southeast-2-widget.lift.acquia.com
 ap-southeast-2.prod.monitoring.linkfire.co
 ap-test.onboarding.fullthrottle.ai
 ap-website.bc0a.com
+ap.api.fpjs.io
 ap.attn.tv
 ap.lijit.com
 ap.markmonitor.com
@@ -11445,7 +11446,6 @@ api.flick.social
 api.fluct.fuseplatform.net
 api.forter.com
 api.found.ee
-api.fpjs.io
 api.fpt.pingdom.com
 api.fra1.appnexus.net
 api.freewebs.getclicky.com
@@ -11851,8 +11851,6 @@ apis.crawlq.ai
 apis.web.analytics.yahoo.com
 apisignup.fullcontact.com
 apisphere.locationsmart.com
-apiv2.prod.fpjs.io
-apiv2.rc.fpjs.io
 apiwacdn.com
 apix.web.analytics.yahoo.com
 apjengage.acquia.com
@@ -11955,6 +11953,7 @@ app-oz.aisdr.com
 app-p2.anaplan.com
 app-playground-assets.simpli.fi
 app-preprod.zoominfo.com
+app-protect.fpapi.io
 app-proxy-b.kochava.com
 app-ps-mgmt-portal-okta.hackday.sandbox.superawesome.com
 app-qa-cdn.bc0a.com
@@ -12534,7 +12533,14 @@ aps.infusionsoft.app
 aps.sociabble.com
 aps01.cxense.com
 aps02.cxense.com
-aps1.api.fpjs.io
+aps1-warden-origin.fpjs.io
+aps1.aev.fpapi.io
+aps1.aev.prod.fpjs.io
+aps1.apiv2.prod.fpjs.io
+aps1.apiv2.rc.fpjs.io
+aps1.fptls.com
+aps1.warden.prod.fpjs.io
+aps1.warden.rc.fpjs.io
 apsctst.publicisgroupe.net
 apsia.bitrix24.com
 apt-lb.techtarget.com
@@ -14581,6 +14587,7 @@ backoffice-api-dev.pricespider.com
 backoffice-api.pricespider.com
 backoffice-staging1.do-k8s-staging.optimonk.com
 backoffice-staging2.do-k8s-staging.optimonk.com
+backoffice.fpjs.io
 backoffice.optimonk.com
 backstage.attn.tv
 backstage.superawesome.com
@@ -16467,6 +16474,7 @@ bot-staging.iprospect.com
 bot.iprospect.com
 bot.tencent.com
 botc.bitrix24.com
+botd.fpapi.io
 botetimining.bitrix24.com
 botfox.clickfunnels.com
 botstore-udaq.soundestlink.com
@@ -19077,7 +19085,6 @@ cdn.feathr.co
 cdn.feed.xyz
 cdn.firstpromoter.com
 cdn.found.ee
-cdn.fpjs.io
 cdn.fs.turtl.co
 cdn.ftspecialist.exponea.com
 cdn.fullcontact.com
@@ -20660,6 +20667,7 @@ cleo.office.techtarget.com
 cleo.widget.insent.ai
 cleohpatra-sandbox.palantirfoundry.com
 cleossecret.storehippo.com
+clerk.backoffice.fpjs.io
 clerk.battlegroundai.com
 clerk.getclicky.com
 clerk.marketmuse.com
@@ -21368,7 +21376,6 @@ cn9b004.na1.hubspotlinks.com
 cn9hw04.na1.hubspotlinks.com
 cname-test.staging.found.ee
 cname.icustomer.ai
-cname1.eu.api.fpjs.io
 cnb.co1.qualtrics.com
 cnbc504.na1.hubspotlinks.com
 cnc-api-dev.zmags.com
@@ -21754,6 +21761,7 @@ compaqservices.maritz.com
 comparably.6sense.com
 compare.trackdrive.net
 compass.eloqua.com
+compass.fpjs.io
 compass.umeng.com
 compassbusinesssupport.clickfunnels.com
 compasspointwest.tresensa.com
@@ -26546,7 +26554,6 @@ dashboard.demo.fuseplatform.net
 dashboard.empyr.com
 dashboard.europe-west1.projectn.quantummetric.com
 dashboard.fluct.fuseplatform.net
-dashboard.fpjs.io
 dashboard.fullcontact.com
 dashboard.getwarmly.com
 dashboard.insent.ai
@@ -28082,7 +28089,6 @@ dev.fcamarketcenter.epsilon.com
 dev.fivetier.com
 dev.found.ee
 dev.foursquare.com
-dev.fpjs.io
 dev.fueled.io
 dev.fullthrottle.ai
 dev.geo.ngtv.io
@@ -28097,7 +28103,6 @@ dev.insent.ai
 dev.insightrocket.com
 dev.integrations.exponea.com
 dev.it.people.inc
-dev.j.fpjs.io
 dev.jaguar.epsilon.com
 dev.jivox.com
 dev.juicer.cc
@@ -29138,6 +29143,7 @@ dqcore-enrichment.dqcore.cloud.precisely.com
 dqindia.os.tc
 dqna.fuseplatform.net
 dr-oetker.datatap.adverity.com
+dr.api.fpjs.io
 dr.eks.devel.adswizz.com
 dr.eulerian.net
 dr.remote.maritz.com
@@ -29222,6 +29228,9 @@ drone-ci.mailerlite.com
 drone.movableink.com
 drone.smartlook.com
 drone.tamoco.com
+dropbox.ap.api.fpjs.io
+dropbox.api.fpjs.io
+dropbox.eu.api.fpjs.io
 dropbox.meredith.com
 dropleaf.grsm.io
 droplet1.aislelabs.com
@@ -31466,6 +31475,7 @@ etv.soundestlink.com
 eu-1.search.blue.cdtapps.com
 eu-adserver.cxad.cxense.com
 eu-analytics.walkme.com
+eu-api-edge.fpjs.io
 eu-api.beta.inrix.com
 eu-api.inrix.com
 eu-api.mobile.inrix.com
@@ -31660,13 +31670,11 @@ eu-west-1.production.hightouch.io
 eu-west1.siem.exponea.com
 eu-zumi.cxsearch.cxense.com
 eu.adtelligent.com
-eu.api.fpjs.io
 eu.api.inrix.com
 eu.asas.yango.com
 eu.cdn5.onthe.io
 eu.evm1.stackadapt.com
 eu.exe.bid
-eu.j.fpjs.io
 eu.kampyle.com
 eu.liveramp.com
 eu.maillist-manage.com
@@ -31674,7 +31682,6 @@ eu.mosi.api.inrix.com
 eu.mouseflow.com
 eu.prod.inference.ai.algolia.com
 eu.qualtrics.com
-eu.s.fpjs.io
 eu.search.blue.cdtapps.com
 eu.snapengage.com
 eu.socialannex.com
@@ -31684,7 +31691,6 @@ eu.turn.iq.doubleverify.com
 eu.umami.is
 eu.v8.cdn.onthe.io
 eu.walkbase.com
-eu.watchdog-api.fpjs.io
 eu.zingtree.com
 eu.zmags.com
 eu01-01-development.reporting.eu01.treasuredata.com
@@ -31725,10 +31731,11 @@ eu2a.app.anaplan.com
 eu3.heatmap.it
 euc-1.palantirfoundry.com
 euc-2.palantirfoundry.com
-euc1-apiv2.rc.fpjs.io
-euc1.apiv2.prod.fpjs.io
-euc1.apiv2.rc.fpjs.io
+euc1-warden-origin.fpjs.io
+euc1.aev.prod.fpjs.io
 euc1.ingress.discovery-prod-aws.bloomreach.com
+euc1.warden.prod.fpjs.io
+euc1.warden.rc.fpjs.io
 eucalyptus.evergage.com
 euco.maillist-manage.com
 euhb.adtelligent.com
@@ -31739,6 +31746,7 @@ eum-orange-saas.instana.io
 eum.appdynamics.com
 eum.instana.io
 eumproxy.demo.appdynamics.com
+eun1.fptls.com
 eunhye-bug-timestamp-ui.mr-ui-review1.gcp-us-west4.metarouter.io
 eunhye-feat-export-ui.mr-ui-review1.gcp-us-west4.metarouter.io
 eunhye-feat-logos-ui.mr-ui-review1.gcp-us-west4.metarouter.io
@@ -33604,7 +33612,6 @@ fpb0u-84c0h.ads.tremorhub.com
 fpc-status.exponea.com
 fpde.app.link
 fpfr-alternate.app.link
-fpjs.io
 fpt-api.pingdom.com
 fpt-software.palantirfoundry.com
 fpt.pingdom.com
@@ -38761,6 +38768,7 @@ ipsvr15.iperceptions.com
 ipt-lt.oa.tencent.com
 ipublish.maillist-manage.com
 ipujsfgybh.eoapxl.com
+ipv.fpapi.io
 ipv4.geojs.io
 ipv4.icanhazip.com
 ipv6.geojs.io
@@ -38998,13 +39006,11 @@ iztfzvxqvm.eoapxl.com
 j-coe.clickfunnels.com
 j.6sc.co
 j.cackle.me
-j.fpjs.io
 j.maxmind.com
 j.sjc2.turn.com
 j026.app.link
 j0g7c6p9k9.mailerlite.com
 j0w7l0u3e9.mailerlite.com
-j2.fpjs.io
 j2.mouseflow.com
 j2d0n2u4x3.mailerlite.com
 j2edrl9c-android.mobile-sdk-api.intercom.io
@@ -39610,7 +39616,6 @@ jupyter.apps.randi.adswizz.com
 jupyter.devapps.randi.adswizz.com
 jupyter.eulerian.net
 juridical.calldorado.com
-juse2.fpjs.io
 just4uz.eskimi.com
 justenergy.ca1.qualtrics.com
 justfab-180.sailthru.com
@@ -42610,6 +42615,8 @@ manage.auth0-primary.anaplan.com
 manage.auth0-secondary.anaplan.com
 manage.repeatreturns.com
 manage.searchspring.net
+management-api-cf.fpjs.io
+management-api.fpjs.io
 manager-dev.gimbal.com
 manager-temp.gimbal.com
 manager.alfaz.smartlook.com
@@ -47130,13 +47137,17 @@ o1.send.mouseflow.com.mouseflow.com
 o1.sender.sociabble.com
 o1.sg.marketing.alignable.com
 o10.ck.n.convertkit.com
+o1006200.ingest.sentry.io
 o11.ck.m.convertkit.com
+o113629.ingest.sentry.io
+o115706.ingest.sentry.io
 o12.ck.m.convertkit.com
 o13.ck.m.convertkit.com
 o14.ck.m.convertkit.com
 o15.ck.n.convertkit.com
 o16.ck.n.convertkit.com
 o17.ck.n.convertkit.com
+o175220.ingest.sentry.io
 o18.ck.n.convertkit.com
 o19.ck.n.convertkit.com
 o1r0ew0h-android-5-1-4.mobile-sdk-api.intercom.io
@@ -47175,6 +47186,7 @@ o3.sg.marketing.alignable.com
 o30.ck.m.convertkit.com
 o31.ck.m.convertkit.com
 o32.ck.d.convertkit.com
+o32684.ingest.us
 o33.ck.d.convertkit.com
 o333o.com
 o34.ck.d.convertkit.com
@@ -47186,12 +47198,14 @@ o4.email.kochava.com
 o4.sg.marketing.alignable.com
 o4.success-mail.appboy.com
 o46.info.updates.moengage.com
+o487797.ingest.us
 o4r2g9f0q7.mailerlite.com
 o4u7c0x5g0.mailerlite.com
 o5.ck.l.convertkit.com
 o5.em.feathr.co
 o5.email.sprinklr.com
 o5.sg.marketing.alignable.com
+o55978.ingest.us
 o5t8wp0yoz.eoapxl.com
 o5trlwmxbq.eoapxl.com
 o6.ck.l.convertkit.com
@@ -50656,6 +50670,8 @@ proactive.appdynamics.com
 probasket.tresensa.com
 probeinfo.telemetry.mozilla.org
 probes.telemetry.mozilla.org
+procdn-edge.fpjs.io
+procdn-v2.fpjs.io
 process.pushcrew.com
 processstreet.growsumo.com
 procore.evergage.com
@@ -52314,7 +52330,6 @@ rbp.privy.com
 rbrc200.clickfunnels.com
 rbvalle15.clickfunnels.com
 rc-resources.aidentified.com
-rc.api.fpjs.io
 rc.autoanything.com.ssopt.net
 rc.birst.com
 rc.crowdtest.plus.tst.yango.com
@@ -52672,6 +52687,7 @@ register.maritz.com
 register.powerlinks.com
 register.spartan.com.ssopt.net
 register2.maritz.com
+registrar.fpjs.io
 registration.gimbal.com
 registration.techtarget.com
 registrations-prd.saas.precisely.com
@@ -53969,7 +53985,6 @@ s.dynatrace.com
 s.e.eccmp.com
 s.edns.ip-api.com
 s.foursquare.com
-s.fpjs.io
 s.frs.connatix.com
 s.go-mpulse.net
 s.hb.vyadd.com
@@ -54874,7 +54889,6 @@ sa-staging.rec.blue.cdtapps.com
 sa-staging1.rec.blue.cdtapps.com
 sa.acxiomapac.com
 sa.api.intl.miui.com
-sa.fpjs.io
 sa.geojs.io
 sa.outbrain.com
 sa.similarweb.com
@@ -58529,6 +58543,7 @@ staging.admin.creators.neoreach.com
 staging.amex.movableink.com
 staging.analytics.bloomreach.com
 staging.analytics.elsevier.com
+staging.api.fpjs.io
 staging.api.fuseplatform.net
 staging.apollo.io
 staging.assets.ispot.tv
@@ -58589,6 +58604,7 @@ staging.payment.neoreach.com
 staging.payments.neoreach.com
 staging.pbcontent.citi.epsilon.com
 staging.root.found.ee
+staging.s.fpjs.io
 staging.salesloft.com
 staging.seo.sandbox.adthrive.com
 staging.smartbugmedia.com
@@ -60078,6 +60094,7 @@ t000.blueconic.net
 t08muhb5-ios-2-6.mobile-sdk-api.intercom.io
 t0m9s2t2q4.mailerlite.com
 t0v6r3w4f3.mailerlite.com
+t1.fptls.com
 t1.llanalytics.com
 t1.mediamath.com
 t1.pub.placeiq.com
@@ -60372,7 +60389,6 @@ tc-dr.taxi.yango.com
 tc-eu.taxi.yango.com
 tc-svn.tencent.com
 tc.alterian.com
-tc.fpjs.io
 tc.internal.connatix.com
 tc.marketmuse.com
 tc.mobile.yango.com
@@ -61651,6 +61667,11 @@ tlendy.app.link
 tlfdhymlsx.eoapxl.com
 tlon.crimsonhexagon.com
 tlp-02.kameleoon.comengine.adzerk.net
+tls-aps1.fpapi.io
+tls-eun1.fpapi.io
+tls-eun1b.fpapi.io
+tls-use1.fpapi.io
+tls-usw2.fpapi.io
 tls.sapient.com
 tlsrpt.advendio.com
 tlu.dl.delivery.mp.microsoft.comengine.adzerk.net
@@ -62702,6 +62723,7 @@ tuox.maillist-manage.com
 tupelohoneycafe.privy.com
 turbine.springserve.com
 turbo.engageclick.com
+turing.fpapi.io
 turismodentale.pushcrew.com
 turkey.starcomww.com
 turkeynewsupdates.com
@@ -63927,6 +63949,7 @@ us-9039-adswizz.attribution.adswizz.com
 us-9259-adswizz.attribution.adswizz.com
 us-9927-adswizz.attribution.adswizz.com
 us-9957-adswizz.attribution.adswizz.com
+us-api-edge.fpjs.io
 us-central1.siem.exponea.com
 us-ch-1.pro.ip-api.com
 us-click.aliexpress.com
@@ -64043,7 +64066,6 @@ us.tools.publicis.sapient.com
 us.tools.sapient.com
 us.umami.is
 us.vpn.oa.tencent.com
-us.watchdog-api.fpjs.io
 us01-01-development.reporting.treasuredata.com
 us01-01-staging.reporting.treasuredata.com
 us01-01.reporting.treasuredata.com
@@ -64147,8 +64169,14 @@ use.raygun.io
 use.wtbeventservice.pricespider.com
 use.wtbng.pricespider.com
 use.wtbstream.pricespider.com
+use1-turn.fpjs.io
+use1-warden-origin.fpjs.io
+use1.aev.prod.fpjs.io
+use1.fptls.com
 use1.ingress.discovery-acct-aws.bloomreach.com
 use1.ingress.discovery-prod-aws.bloomreach.com
+use1.warden.prod.fpjs.io
+use1.warden.rc.fpjs.io
 useast.ansp.doubleverify.com
 useast.magnetic.iq.doubleverify.com
 useast.mm.iq.doubleverify.com
@@ -64369,7 +64397,6 @@ v1m4.app.link
 v1q2r1f2r8.mailerlite.com
 v1w4.app.link
 v1z1m3j3l7.mailerlite.com
-v2.api.fpjs.io
 v2.app-staging.klue.com
 v2.app.klue.com
 v2.areal.ai
@@ -65914,6 +65941,8 @@ webappuat.dell.epsilon.com
 webastoservicepartsna.palantirfoundry.com
 webbcps.locationsmart.com
 webbling.matomo.cloud
+webbotauth-api.fpjs.io
+webbotauth.fpjs.io
 webbusterz.evyy.net
 webcdn.adespresso.com
 webclass.clickfunnels.com
@@ -68466,7 +68495,6 @@ www.forms.dynatrace.com
 www.forsight.crimsonhexagon.com
 www.forter.com
 www.found.ee
-www.fpjs.io
 www.fractal.ai
 www.franklin.smartbugmedia.com
 www.frankmselela.eskimi.com
