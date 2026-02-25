@@ -8792,6 +8792,8 @@ agate-mgmt.palantirfoundry.com
 agate-staging.palantirfoundry.com
 agate.palantirfoundry.com
 agatedemo.palantirfoundry.com
+agatha-feedback-stage.forethought.ai
+agatha-feedback.forethought.ai
 agave.myanalytics.cdn.office.net
 agdi.maillist-manage.com
 agefa-recette.fr.publicisgroupe.net
@@ -11444,6 +11446,7 @@ api.fidzup.com
 api.firstrain.com
 api.flick.social
 api.fluct.fuseplatform.net
+api.forethought.ai
 api.forter.com
 api.found.ee
 api.fpt.pingdom.com
@@ -11478,6 +11481,7 @@ api.harmony.epsilon.com
 api.harmony.eu.epsilon.com
 api.harmony.ord.epsilon.com
 api.hc.epsilon.com
+api.heymantle.com
 api.i.eu-west-1.production.hightouch.io
 api.i.us-east-1.production.hightouch.io
 api.iad.appboy.com
@@ -12103,6 +12107,7 @@ app.factors.ai
 app.feathr.co
 app.firstrain.com
 app.fivetier.com
+app.forethought.ai
 app.freshmarketer.com
 app.fullcontact.com
 app.fullstory.com
@@ -13232,7 +13237,10 @@ assets3.sociabble.com
 assetscdn.competeshark.com
 assetscdn.jivox.com
 assetsw.sellpoints.com
+assist-api-stage.forethought.ai
+assist-api.forethought.ai
 assist-cobrowse-app.wip.247-inc.net
+assist-notes.forethought.ai
 assist.itnow.netat1.listrakbi.com
 assist.luminary.com
 assist.publicisgroupe.net
@@ -13740,6 +13748,7 @@ auto.localiq.com
 autobrush-us.attn.tv
 autobrush.attn.tv
 autocase-qies.soundestlink.com
+autochain.forethought.ai
 autoclubspeedway.attn.tv
 autocomplete-amer-stg.libigdata.cloud.precisely.com
 autocomplete-apac-stg.libigdata.cloud.precisely.com
@@ -15567,6 +15576,7 @@ bho-status.exponea.com
 bhphoto.btttag.com
 bhsi.blueconic.net
 bhvk.app.link
+bi-analytics.forethought.ai
 bi-api.pricespider.com
 bi-dev.nba.epsilon.com
 bi-redash.kube-prod1.smartly.io
@@ -26530,7 +26540,9 @@ dash.onthe.io
 dash.partnerstack.com
 dash.yieldify.com
 dashboard-api-dev.zenapse.com
+dashboard-api-v2.forethought.ai
 dashboard-api.demandbase.com
+dashboard-api.forethought.ai
 dashboard-au.piano.io
 dashboard-az-staging.powerlinks.com
 dashboard-dev.tresensa.com
@@ -26554,6 +26566,7 @@ dashboard.demo.fuseplatform.net
 dashboard.empyr.com
 dashboard.europe-west1.projectn.quantummetric.com
 dashboard.fluct.fuseplatform.net
+dashboard.forethought.ai
 dashboard.fullcontact.com
 dashboard.getwarmly.com
 dashboard.insent.ai
@@ -27724,6 +27737,7 @@ demo.engageclick.com
 demo.epsilon.com
 demo.eskimi.com
 demo.exponea.com
+demo.forethought.ai
 demo.fueled.io
 demo.fullthrottle.ai
 demo.fuseplatform.net
@@ -31935,6 +31949,7 @@ events.exactvisitor.com
 events.getclicky.com
 events.groundtruth.com
 events.gumgum.com
+events.hackster.io
 events.hginsights.com
 events.hightouch.com
 events.icapture.com
@@ -32906,6 +32921,7 @@ feed.useriq.com
 feed.wip.infutor.com
 feed.xyz
 feedback-api.userreport.com
+feedback-internal.forethought.ai
 feedback.cience.com
 feedback.eskimi.com
 feedback.everyonesocial.com
@@ -33515,6 +33531,7 @@ forest.palantirfoundry.com
 forestersfinancial.palantirfoundry.com
 forestersnaliacan.everestengagement.com
 forestersnaliaus.everestengagement.com
+forethought.ai
 foreveraut-jnpa.soundestlink.com
 foreverliv-mlgo.soundestlink.com
 foreverlove9x.eskimi.com
@@ -33560,6 +33577,7 @@ forumsuat.anaplan.com
 foruoffer.storehippo.com
 forward-qa.markmonitor.com
 forward.exponea.com
+forward.forethought.ai
 forward.mailerlite.com
 forward.markmonitor.com
 forward.omeda.com
@@ -35523,6 +35541,7 @@ go.ezoic.net
 go.figure-eight.com
 go.fiksu.com
 go.firstrain.com
+go.forethought.ai
 go.fullcontact.com
 go.fullthrottle.ai
 go.fusion92.com
@@ -37315,6 +37334,7 @@ hubert.iad-03.braze.com
 hublp.near.co
 hubspot-integration.mouseflow.com
 hubspot.anexinet.com
+hubspot.info.forethought.ai
 hubspot.kube-prod1.smartly.io
 hubspot.linkgraph.com
 hubspot1.evergage.com
@@ -38119,6 +38139,7 @@ info.exceed.ai
 info.feathr.co
 info.firstrain.com
 info.forcemanager.com
+info.forethought.ai
 info.fullthrottle.ai
 info.getambassador.com
 info.gravyanalytics.com
@@ -38483,7 +38504,9 @@ integration.anaplan.com
 integration.dev.sprinklr.com
 integration.infusionsoft.app
 integration.keap.com
+integrations-api-stage.forethought.ai
 integrations-api.bn.co
+integrations-api.forethought.ai
 integrations.atom.adjust.com
 integrations.fullcontact.com
 integrations.prod.wdc1.sl.pushcrew.com
@@ -40387,6 +40410,7 @@ ku310.infusionsoft.com
 ku6faoc3gzgy6qd3b1f7h5v683cyd6rd.edns.ip-api.com
 kubecost.cce-puppeteer2.us-east-1.k8s.aws.pricespider.com
 kuber.dsp-bidder-dev.demandbase.com
+kubernetes.forethought.ai
 kubernetes.stg.connatix.com
 kubity.matomo.cloud
 kubota.az1.qualtrics.com
@@ -40894,6 +40918,7 @@ learn.callminer.com
 learn.convertkit.com
 learn.epsilon.com
 learn.flick.social
+learn.forethought.ai
 learn.fueled.io
 learn.fullstory.com
 learn.g2crowd.com
@@ -41215,6 +41240,7 @@ link.em.zetaglobal.com
 link.fivetier.com
 link.fullstory.com
 link.h.convertkit.com
+link.heymantle.com
 link.l.convertkit.com
 link.liquidus.net
 link.m.convertkit.com
@@ -41558,6 +41584,7 @@ login.cloud.tst.optable.co
 login.dls.dream.epsilon.com
 login.dstillery.com
 login.evergage.com
+login.forethought.ai
 login.hginsights.com
 login.hourglass.hightouch.com
 login.intentiq.com
@@ -43475,6 +43502,7 @@ meeshosupply.app.link
 meet.brevo.com
 meet.cardlytics.com
 meet.epsilon.com
+meet.forethought.ai
 meet.inrix.com
 meet.lightstep.com
 meet.maritz.com
@@ -43922,6 +43950,7 @@ mineralstech.palantirfoundry.com
 mingle.emarketer.com
 minhga.eskimi.com
 miniapps.retail.tencent.com
+minichain.forethought.ai
 minide-simulator.apps.randi.adswizz.com
 minide-simulator.tools.randi.adswizz.com
 miniinvestigations.dnb.com
@@ -49594,6 +49623,7 @@ player.jivox.com
 player.spotim.market
 playercdn.jivox.com
 playground.embeddables.com
+playground.forethought.ai
 playground.jasper.ai
 playground.rmp-ml.moloco.com
 playground.widespace.com
@@ -50636,6 +50666,7 @@ privacypolicy.xmode.io
 privacysandbox.adthrive.com
 privacysandbox.stage.adthrive.com
 privalia.saas.appdynamics.com
+private-chatgpt.forethought.ai
 privatebin.exponea.com
 privatebin.it.bloomreach.com
 privateinvite.click.org
@@ -57048,6 +57079,7 @@ site-git-taylor-events.vercel.hightouch.com
 site-git-taylor-headings.vercel.hightouch.com
 site-git-taylor-heros.vercel.hightouch.com
 site-git-taylor-pair.vercel.hightouch.com
+site-search-api-docs.forethought.ai
 site.alignable.com
 site.quantifind.com
 site.regie.ai
@@ -57902,6 +57934,15 @@ solutions.cdn.optable.co
 solutions.dstillery.com
 solutionsgrantedinc.api.insent.ai
 solutionsgrantedinc.widget.insent.ai
+solve-api-stage.forethought.ai
+solve-api.forethought.ai
+solve-demos.forethought.ai
+solve-voice-api-stage.forethought.ai
+solve-voice-api.forethought.ai
+solve-widget-prod.forethought.ai
+solve-widget-stage.forethought.ai
+solve-widget-testing.forethought.ai
+solve-widget.forethought.ai
 solveroftech.trackdrive.net
 somin.ai
 sompo-hd.palantirfoundry.com
@@ -59048,6 +59089,7 @@ status.fattail.com
 status.figure-eight.com
 status.fingerprintjs.com
 status.flick.social
+status.forethought.ai
 status.foursquare.com
 status.fullcontact.com
 status.fullstory.com
@@ -59641,6 +59683,7 @@ support.eskimi.com
 support.evergage.com
 support.exponea.com
 support.fedex.epsilon.com
+support.forethought.ai
 support.getambassador.com
 support.gimbal.com
 support.growsumo.com
@@ -62591,6 +62634,7 @@ trust.bloomreach.com
 trust.clearout.io
 trust.countly.com
 trust.everyonesocial.com
+trust.forethought.ai
 trust.moengage.com
 trust.moloco.com
 trust.optable.co
@@ -66381,6 +66425,7 @@ wilburellisee.co1.qualtrics.com
 wildfirestudio.clickfunnels.com
 wiley.qualtrics.com
 wileycustomerservice.ca1.qualtrics.com
+will.forethought.ai
 williamgrant.channelsight.com
 williams.palantirfoundry.com
 williamscollege.co1.qualtrics.com
@@ -66724,6 +66769,7 @@ wqwoiwkljv.eoapxl.com
 wr.palantirfoundry.com
 wr150.infusionsoft.com
 wranglerde.btttag.com
+wrapped.forethought.ai
 wreh.bitrix24.com
 wright.qualtrics.com
 wrinalgzxo.eoapxl.com
@@ -68490,6 +68536,7 @@ www.floridatoday.localiq.com
 www.focusoptimal.com
 www.forcemanager.com
 www.ford.epsilon.com
+www.forethought.ai
 www.forms.convertkit.com
 www.forms.dynatrace.com
 www.forsight.crimsonhexagon.com
@@ -71697,6 +71744,8 @@ zen-media-group-llc.trackdrive.net
 zen.umami.is
 zenapse-api-dev.zenapse.com
 zendaz.eskimi.com
+zendesk-stage.forethought.ai
+zendesk.forethought.ai
 zendesk1.brax.io
 zendesk2.brax.io
 zendesk3.brax.io
