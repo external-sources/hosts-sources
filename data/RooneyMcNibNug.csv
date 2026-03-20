@@ -10437,6 +10437,8 @@ analytics-ingest.eu1.anypoint.mulesoft.com
 analytics-ingest.qax.anypoint.mulesoft.com
 analytics-ingest.staging.twentythree.systems
 analytics-ingest.stgx.anypoint.mulesoft.com
+analytics-ingestion-v3.infra.tubi-core-staging.tubi.io
+analytics-ingestion-v3.main-staging-custom.staging.k8s.tubi.io
 analytics-ingestion.production-public.tubi.io
 analytics-latest.pinterest.com
 analytics-lt1.geico.com
@@ -20812,7 +20814,6 @@ click.sitejabber.com
 click.sprinklr.com
 click.transactional.alignable.com
 click.tz.simba.taobao.com
-click.unsplash.com
 click.updates.braze.com
 click.upwards.com
 click.widespace.com
@@ -38302,6 +38303,7 @@ ingest.ooyala.com
 ingest.plausible.io
 ingest.quantummetric.com
 ingest.safegraph.com
+ingestion-v3-analytics.infra.tubi-core-staging.tubi.io
 ingestion.insights.dev.useamp.com
 inggneavrmt1.global.publicisgroupe.net
 inggneavtms1.global.publicisgroupe.net
@@ -58144,6 +58146,7 @@ spazio.bitrix24.com
 spc.app.klue.com
 spc.gc.epsilon.com
 spccalliope.gc.epsilon.com
+spcollector.unsplash.com
 spcuat.gc.epsilon.com
 spd.atdmt.com
 spd.tencent.com
