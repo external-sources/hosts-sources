@@ -10802,6 +10802,7 @@ analytics.example.coolify.io
 analytics.ezoic.com
 analytics.fivetier.com
 analytics.flipboard.com
+analytics.flodesk.com
 analytics.framer.com
 analytics.gd1.exponea.com
 analytics.gd2.exponea.com
@@ -12697,6 +12698,7 @@ applegate.channelsight.com
 appleleaveit.co
 applesnax.hightouch.com
 applestorestatus.pingdom.com
+applets.ebxcdn.com
 appleupdate.ei.meredith.com
 appleupdatetest.ei.meredith.com
 appliancesconnection.attn.tv
@@ -30461,6 +30463,7 @@ ebusiness.dealertrack.com
 ebv8g7tenqkgho0bfb8ggg1s9.litix.io
 ebw.soundestlink.com
 ebwp0hmxsa.eoapxl.com
+ebxcdn.com
 ec-857.sascdn.com
 ec-ns-857.sascdn.com
 ec-ns.sascdn.com
@@ -33848,6 +33851,8 @@ flipp.ads.placeiq.com
 flipper.outbrain.com
 flo.clickfunnels.com
 float2006.getclicky.com
+flodesk.com
+flometry.flodesk.com
 flomonation.tresensa.com
 floorbandit.ts-prod.ay.delivery
 floorbandit.ts-stage.ay.delivery
@@ -36358,6 +36363,7 @@ grafana.test.leadpages.io
 grafana.trackonomics.net
 grafana.ua-ops-hackweek.us-central1.gcp.urbanairship.com
 grafic.evyy.net
+grain.flodesk.com
 grainger-api-qa.gst.api.igodigital.com
 grainger-api.gst.api.igodigital.com
 grainger-lampmatch.gst.api.igodigital.com
@@ -38817,6 +38823,7 @@ ingest.ooyala.com
 ingest.plausible.io
 ingest.quantummetric.com
 ingest.safegraph.com
+ingest.staging.flodesk.com
 ingestion-v3-analytics.infra.tubi-core-staging.tubi.io
 ingestion.insights.dev.useamp.com
 inggneavrmt1.global.publicisgroupe.net
@@ -43998,6 +44005,7 @@ mcn.tencent.com
 mcp.blend-ai.com
 mcp.crayon.co
 mcp.dev.blend-ai.com
+mcp.staging.flodesk.com
 mcpapp.blend-ai.com
 mcpapp.dev.blend-ai.com
 mcresearch2.co1.qualtrics.com
@@ -49504,6 +49512,7 @@ partners.brevo.com
 partners.cloud.tencent.com
 partners.cxense.com
 partners.eloqua.com
+partners.flodesk.com
 partners.fullstory.com
 partners.getambassador.com
 partners.getgist.com
@@ -49985,6 +49994,7 @@ peugeot-assurance.eulerian.net
 pexcarde.com
 pexipmgmt01.global.publicisgroupe.net
 pf.eulerian.net
+pf.flodesk.com
 pf01.eulerian.net
 pf02.eulerian.net
 pf03.eulerian.net
@@ -63607,6 +63617,7 @@ track.redbubble.com
 track.reson8.com
 track.retellai.com
 track.sl.omeda.com
+track.sl.subscribe.bylinetimes.com
 track.sli.do
 track.sp.actionkit.com
 track.spe.intercom.io
@@ -64909,6 +64920,7 @@ universal.iperceptions.com
 universalcoachinstitute.pushcrew.com
 universaltennis.blueconic.net
 university-dev.dynatrace.com
+university-new.flodesk.com
 university-vlabs.dynatrace.com
 university.adespresso.com
 university.arkusnexus.com
@@ -64916,11 +64928,13 @@ university.bloomreach.com
 university.corp.outbrain.com
 university.custora.com
 university.dynatrace.com
+university.flodesk.com
 university.getgist.com
 university.infusionsoft.com
 university.iprospect.com
 university.precisely.com
 university.salesloft.com
+university.staging.flodesk.com
 university.treasuredata.com
 university.uptempo.io
 university.zoominfo.com
@@ -64994,6 +65008,7 @@ updater.crowdtangle.com
 updates.adverity.com
 updates.appdynamics.com
 updates.everyonesocial.com
+updates.flodesk.com
 updates.getgist.com
 updates.heap.io
 updates.popupsmart.com
@@ -67453,6 +67468,7 @@ webercoe.co1.qualtrics.com
 webetoro.com
 webflow-en.zingtree.com
 webflow-eu.zingtree.com
+webflow.flodesk.com
 webflow.opensend.com
 webflow.safegraph.com
 webflow.sleeknote.com
@@ -69984,6 +70000,7 @@ www.fix-public-access-2108689370.layer.getwarmly.com
 www.fix-public-access.layer.getwarmly.com
 www.flex.bi
 www.flick.social
+www.flodesk.com
 www.florida.localiq.com
 www.floridatoday.localiq.com
 www.focusoptimal.com
