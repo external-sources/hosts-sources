@@ -18520,6 +18520,7 @@ campusprotein.grsm.io
 camr.maillist-manage.com
 camradata.turtl.co
 cams.clearout.io
+can.rlets.com
 canada.starcomww.com
 canadapostdigital.ca1.qualtrics.com
 canal.fr.eulerian.net
@@ -18646,6 +18647,7 @@ capture-config-server-test.quantummetric.com
 capture-config-server.quantummetric.com
 capture-config-validate-schema-test.quantummetric.com
 capture-config-validate-schema.quantummetric.com
+capture-rlets-cdn-dev.rlets.com
 capture.captello.com
 capuchin.alignable.com
 caq.soundestlink.com
@@ -19328,6 +19330,7 @@ cdn-custom-test.optimonk.com
 cdn-custom-test2.optimonk.com
 cdn-custom.optimonk.com
 cdn-demoapp.exponea.com
+cdn-dev.rlets.com
 cdn-dev.zenapse.com
 cdn-dynamic-test.optimonk.com
 cdn-dynamic-test2.optimonk.com
@@ -19396,6 +19399,7 @@ cdn-prd.unityads.unity3d.com
 cdn-provider.convertexperiments.com
 cdn-public.sociabble.com
 cdn-pwa-engagement.inmarket.com
+cdn-qa.rlets.com
 cdn-qa1-renderer.optimonk.com
 cdn-qa21.qa21.sprig.com
 cdn-qa25.qa25.sprig.com
@@ -19636,6 +19640,7 @@ cdn.qa25.sprig.com
 cdn.qa50.sprig.com
 cdn.repeatreturns.com
 cdn.researchnow.com
+cdn.rlets.com
 cdn.roojoom.com
 cdn.rubikloud.com
 cdn.sailthru.com
@@ -28666,6 +28671,7 @@ dev.ps.actonsoftware.com
 dev.publicisgroupe.net
 dev.push.world
 dev.rewrite.mailerlite.com
+dev.rlets.com
 dev.salesloft.com
 dev.satismeter.com
 dev.search-farm.onkakao.net
@@ -51776,6 +51782,7 @@ prod1-api.sprinklr.com
 prod1-influxdb.sprinklr.com
 prod1-socialapps.sprinklr.com
 prod1.rehao.onkakao.net
+prod15.rlets.com
 prod2-api.sprinklr.com
 prod2-assets.sprinklr.com
 prod2-capacity-audit.sprinklr.com
@@ -52630,6 +52637,7 @@ qa.novo.epsilon.com
 qa.outbrain.com
 qa.piano.io
 qa.refuel4.com
+qa.rlets.com
 qa.seo-dashboard.sandbox.adthrive.com
 qa.seo.sandbox.adthrive.com
 qa.streamalive.com
@@ -52652,6 +52660,7 @@ qa1.streamalive.com
 qa1.tools.publicis.sapient.com
 qa10.datatap.adverity.com
 qa13.datatap.adverity.com
+qa15.rlets.com
 qa16.adverity.com
 qa16.datatap.adverity.com
 qa18-my.tealiumiq.com
@@ -54461,6 +54470,7 @@ rl6woo41yn.eoapxl.com
 rlallc.clickfunnels.com
 rlaxxtv.wurl.com
 rlec-use.dynamicyield.com
+rlets.com
 rlog.popin.cc
 rlprinting.bitrix24.com
 rlr40769.clickfunnels.com
@@ -65566,6 +65576,7 @@ us-east-1.devel.dp.adswizz.com
 us-east-1.dp.adswizz.com
 us-east-1.preprod.adswizz.com
 us-east-1.prod.monitoring.linkfire.co
+us-east-1.prod15.rlets.com
 us-east-1.production.hightouch.com
 us-east-1.production.hightouch.io
 us-east-1.rowdy.callrail.com
@@ -65613,6 +65624,7 @@ us-west-2.alpha.adswizz.com
 us-west-2.devel.adswizz.com
 us-west-2.preprod.adswizz.com
 us-west-2.prod.monitoring.linkfire.co
+us-west-2.prod15.rlets.com
 us-west-2.qa.adswizz.com
 us-west-2.rowdy.callrail.com
 us-west-2.rtb.districtm.io
