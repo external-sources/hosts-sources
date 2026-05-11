@@ -20591,6 +20591,7 @@ chzn504.na1.hubspotlinks.com
 chzrf04.na1.hubspotlinks.com
 ci-api.percolata.com
 ci-enrolment.stg.connatix.com
+ci-metrics-grpc.internal.glean.com
 ci-runner.k8s.engagement.bloomreach.com
 ci-test.leadpages.io
 ci.acquia.com
@@ -21123,6 +21124,8 @@ clearout.io
 clearskyconnect.palantirfoundry.com
 clearstorydata.mktoweb.com
 clearvoicesurveys.qualtrics.com
+clearwateranalytics-be.glean.com
+clearwateranalytics-internal-be.glean.com
 clearwavecorporation.api.insent.ai
 clearwavecorporation.widget.insent.ai
 cleo.api.insent.ai
@@ -22049,6 +22052,7 @@ coilingtechnologiesinc.widget.insent.ai
 coinafrique-by.accengage.net
 coincentral.pushcrew.com
 coinly.app.link
+cointracker-internal-be.glean.com
 cokeconsolidated.palantirfoundry.com
 cokupic.hit.gemius.pl
 col-edge-prod.tenjin.io
@@ -22067,6 +22071,7 @@ collab-edge.maritz.com
 collabedge.meredith.com
 collabnet.getclicky.com
 collaborate.maritz.com
+collect-analytics.cohere.com
 collect-ap-northeast-1.tealiumiq.com
 collect-ap-southeast-2.tealiumiq.com
 collect-eu-central-1.tealiumiq.com
@@ -37040,6 +37045,7 @@ hatch.palantirfoundry.com
 hatchet-broadcast.warmly.ai
 hatchet.warmly.ai
 hattiesburgamerican.localiq.com
+hausanalytics-be.glean.com
 havasmediame.datatap.adverity.com
 haven.eng.bloomreach.com
 haven.uk.exponea.com
@@ -51436,6 +51442,9 @@ prettyneat.matomo.cloud
 pretzel.palantirfoundry.com
 prevedereinc.widget.insent.ai
 preview-29cm.rmp-portal.moloco.com
+preview-aar10n-ratelimit-metrics-1.north.internal.cohere.com
+preview-analytics-be.north.internal.cohere.com
+preview-analytics.north.internal.cohere.com
 preview-balaan.rmp-portal.moloco.com
 preview-bmart-test.rmp-portal.moloco.com
 preview-bmart.rmp-portal.moloco.com
@@ -51450,6 +51459,7 @@ preview-cjoy-test.rmp-portal.moloco.com
 preview-cjoy.rmp-portal.moloco.com
 preview-culture-flipper-test.rmp-portal.moloco.com
 preview-culture-flipper.rmp-portal.moloco.com
+preview-danish-dua-metric-exc.north.internal.cohere.com
 preview-demaecan-stg-test.rmp-portal.moloco.com
 preview-demaecan-test.rmp-portal.moloco.com
 preview-demaecan.rmp-portal.moloco.com
@@ -63900,6 +63910,7 @@ trackonomics.net
 tracks.roojoom.com
 trackstackla.com
 trackstaging.success.ai
+tracksuit-be.glean.com
 tracktastic.webflow.com
 tracktv.shop
 tracktv.site
@@ -64048,7 +64059,6 @@ trending-bgs.layer.getwarmly.com
 trending.clickfunnels.com
 trending.issuu.com
 trendmicroincorporated.mktoweb.com
-trends.eliseai.com
 trends.placer.ai
 trends.stylus.com
 trendwatching.pushcrew.com
@@ -66307,6 +66317,8 @@ ver-adt-cm.vindicosuite.com
 ver-adt.cm.vindicosuite.com
 ver-adt.vindicosuite.com
 verbit.widget.insent.ai
+vercel-marketing-app.gamma.app
+vercel-marketing-app.staging.gamma.app
 vercel.hightouch.com
 vercel.hightouch.io
 verdegris.palantirfoundry.com
