@@ -1975,6 +1975,7 @@ design.google
 design.google.com
 designguidelines.withgoogle.com
 desktop-static.fitbit.com
+desktop.google.com
 desktop1.google.com
 desktop2.google.com
 desktop3.google.com
@@ -2493,6 +2494,8 @@ gcm-http.googleapis.com
 gcm-xmpp.googleapis.com
 gcm.googleapis.com
 gcp.gvt2.com
+gcp02-nf-01.corp.fitbit.com
+gcp02-nf-02.corp.fitbit.com
 gcs-assets.fitbit.com
 gcs-eu-00002.content-storage-upload.googleapis.com
 gd.google.com
@@ -3285,6 +3288,7 @@ image.google.com
 images-partners-tbn.google.com
 images-partners.google.com
 images.app.goo.gl
+images.google.com
 images.mail.nest.com
 imap.gmail.com
 imasdk.googleapis.com
@@ -6179,6 +6183,8 @@ userlocation.googleapis.com
 userpanelmobile-pa.googleapis.com
 userresearch.google.com
 usgov.google.com
+usvpneast.corp.fitbit.com
+usvpnwest.corp.fitbit.com
 uu6xzk-dnsotls-ds.metric.gstatic.com
 uv9l56g4e9.com
 uwbp1c-dnsotls-ds.metric.gstatic.com
