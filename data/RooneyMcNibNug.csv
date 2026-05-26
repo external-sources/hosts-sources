@@ -8777,7 +8777,6 @@ aftco.attn.tv
 aftersales.no.m2.blue.cdtapps.com
 aftersales.no.mammut.cdtapps.com
 afterschool.evyy.net
-aftership.com
 aftershokz-ca.attn.tv
 aftershokz.attn.tv
 afterthoug-zqnt.soundestlink.com
@@ -11957,7 +11956,6 @@ api.pyze.com
 api.qa.exacttarget.com
 api.qa.found.ee
 api.qa.socialmirror.sprinklr.com
-api.qa.wknd.ai
 api.qa1.jivox.com
 api.qa25.sprig.com
 api.qa3.jivox.com
@@ -12046,7 +12044,6 @@ api.staging.powerlinks.com
 api.staging.sprig.com
 api.stagingtest2.fuseplatform.net
 api.stepex.co
-api.stg.wknd.ai
 api.streak.com
 api.summitmedia.fuseplatform.net
 api.support.scs.mediamath.com
@@ -12123,7 +12120,6 @@ api.webchunker.streaming.adswizz.com
 api.wfd.seel.com
 api.widespace.com
 api.wip.247-inc.net
-api.wknd.ai
 api.woopra.com
 api.wsq.umeng.com
 api.wurl.com
@@ -13130,11 +13126,9 @@ argocd.ops-dev.optable.co
 argocd.ops.optable.co
 argocd.opsdev.optable.co
 argocd.prod.sre.wurl.com
-argocd.qa.wknd.ai
 argocd.sst-api-prod.pricespider.com
 argocd.sst-api-test.pricespider.com
 argocd.sst-api.pricespider.com
-argocd.stg.wknd.ai
 argocd.wknd.ai
 argolfusa-us.attn.tv
 argolfusa.attn.tv
@@ -13612,7 +13606,6 @@ assets.simpleanalytics.com
 assets.smartwishlist.webmarked.net
 assets.socialcode.com
 assets.springserve.com
-assets.stg.wknd.ai
 assets.streak.com
 assets.swydo.com
 assets.tapad.com
@@ -13622,7 +13615,6 @@ assets.valassis.com
 assets.vbt.io
 assets.vdo.ai
 assets.watchasync.
-assets.wknd.ai
 assets.yieldify.com
 assets.youeye.com
 assets.zappi.io
@@ -23227,6 +23219,9 @@ countrytrips.net
 coupa.mktoweb.com
 coupedumondepro.com
 couponfeed.linksynergy.com
+coupons-v2.qa.wknd.ai
+coupons-v2.stg.wknd.ai
+coupons-v2.wknd.ai
 coupons.ciuvo.com
 couponsapp.app.link
 couponshops.info
@@ -31156,6 +31151,7 @@ em101.infusionsoft.com
 em310.infusionsoft.com
 em3585.crayon.co
 ema.mktoweb.com
+email-api.qa.wknd.ai
 email-blast.powr.io
 email-builder.powr.io
 email-clicks.blockchain.info
@@ -32528,7 +32524,6 @@ events.adgreetz.com
 events.adjust.com
 events.adtheorent.com
 events.advendio.com
-events.aftership.com
 events.anaplan.com
 events.ap-south-1.hightouch.com
 events.apollo.io
@@ -41960,7 +41955,6 @@ linhhattieu.eskimi.com
 link-nj1-ssl.sailthru.com
 link-nj1.sailthru.com
 link-vip.sailthru.com
-link.aftership.com
 link.beop.io
 link.dynamicyield.com
 link.em.zetaglobal.com
@@ -41994,10 +41988,8 @@ linkiro.firstpromoter.com
 linkmink.com
 linkmobile.palantirfoundry.com
 links.adverity.com
-links.app-chat.aftership.com
 links.bardeen.ai
 links.cardlytics.com
-links.chat.aftership.com
 links.custora.com
 links.email.character.ai
 links.email.speedppc.com
@@ -50100,7 +50092,6 @@ percona.widget.insent.ai
 percussion.evergage.com
 perdiem.dstillery.com
 peregrine.palantirfoundry.com
-perf-api.wknd.ai
 perf-roche-diagnostics.sapient.com
 perf.bloomreach.com
 perf001.qa.adthrive.com
@@ -53776,7 +53767,6 @@ refactor-usercontext-1553863043.layer.getwarmly.com
 refactor-usercontext.layer.getwarmly.com
 refactor.layer.getwarmly.com
 refer.getambassador.com
-referral.aftership.com
 referralcandy.growsumo.com
 referralcandy.grsm.io
 referrals.eloqua.com
@@ -59992,7 +59982,6 @@ ssp.omnitagjs.com
 ssp.otm-r.com
 ssp.pub.network
 ssp.qualtrics.com
-ssp.wknd.ai
 sspinc.io
 ssplog.otm-r.com
 sspr.partners.publicisgroupe.net
@@ -61107,6 +61096,9 @@ studentcomms.everestengagement.com
 studentloanservice.getambassador.com
 studenttenantfind.getambassador.com
 studio-beta.dstillery.com
+studio-preview.qa.wknd.ai
+studio-preview.stg.wknd.ai
+studio-preview.wknd.ai
 studio.247-inc.net
 studio.aarki.com
 studio.aimerce.ai
@@ -61864,12 +61856,10 @@ tag.smartly.io
 tag.socialcode.com
 tag.spotim.market
 tag.ssp.omnitagjs.com
-tag.stg.wknd.ai
 tag.thatsnoble.com
 tag.unifyintent.com
 tag.widespace.com
 tag.wishpond.com
-tag.wknd.ai
 tagcloud.tdf.ringier.ch
 tagcontrol-cdn.evidon.com
 tagcontrolapi.evidon.com
@@ -63879,7 +63869,6 @@ track-your-fedex-package.com
 track-your-fedex-package.org
 track.across.it
 track.adthrive.com
-track.aftership.com
 track.appsflyersdk.com
 track.authorhub.elsevier.com
 track.bigbrain.me
@@ -63902,6 +63891,7 @@ track.leadin.com
 track.linksynergy.com
 track.loox.io
 track.lt
+track.mail.granola.ai
 track.mailerlite.com
 track.marinsm.com
 track.msadcenter.ifs.com
@@ -63936,7 +63926,6 @@ trackadvocates.getwarmly.com
 trackblast.id-visitors.com
 trackblueknow.com
 trackchannelsight.com
-trackdfd.aftership.com
 trackdrive.net
 trackedlink.net
 trackedweb.net
