@@ -4750,6 +4750,7 @@ analytics-ual.lacek.net
 analytics-uar.upstart.com
 analytics-ue1.webcastcloud.com
 analytics-us.thoughtfarmer.com
+analytics-v1.pagefly.io
 analytics-v2.gotolstoy.com
 analytics-v2.wetransfer.com
 analytics-wcms.joins.net
@@ -13245,6 +13246,7 @@ analytics.seanblommaert.nl
 analytics.seantis.ch
 analytics.seaponline.es
 analytics.searchandco.com
+analytics.searchspring.net
 analytics.seattlemesh.net
 analytics.sebastiankrauss.de
 analytics.sebastianscherl.de
@@ -30964,6 +30966,7 @@ evalueserve.com
 evanescentedge.com
 evdni.littlesleepies.com
 eveish.eveish.com
+event-api-production.trustengine.com
 event-collector-etc.appspot.com
 event-collector-service.production.thezebra.com
 event-collector.moviesanywhere.com
@@ -31237,6 +31240,7 @@ expcdn.riverisland.com
 expcore.bloomingdales.com
 expcore.macys.com
 experglobaltech.com
+experianmatch.info
 experience-lab.com
 experience.acs.org.au
 experience.amp.co.nz
@@ -33301,6 +33305,7 @@ getadmiral.com
 getalembic.com
 getamigo.io
 getanalysed.com
+getangler.ai
 getbambu.com
 getblue.io
 getblueshift.com
@@ -40624,6 +40629,7 @@ knpid.mywonderpaws.com
 knptu.titanbuilders.us
 knrgt.petscy.com
 knrpc.olark.com
+kntxy.com
 knzs7fvtrk.com
 ko-analytics.de
 ko6b7nsc.com
@@ -68495,8 +68501,10 @@ pixel-api-production.up.railway.app
 pixel-api.socialhead.io
 pixel-config.reddit.com
 pixel-conversion.apps.seabroadnet.com
+pixel-ingestion-worker.marqo-ep.ai
 pixel-static.spotify.com
 pixel-sync.trafficmanager.net
+pixel-track.orichicommerce.com
 pixel-tracker.com
 pixel.500pratas.com.br
 pixel.academiadeterapias.com.br
