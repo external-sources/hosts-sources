@@ -39,9 +39,9 @@ data-base-url="https://bitbucket.org"
 data-current-user="{&quot;isauthenticated&quot;:
 data-current-workspace="{&quot;id&quot;:
 data-no-addresses="false"
-data-no-avatar-image="https://bbc-object-storage--frontbucket.us-east-1.prod.public.atl-paas.net/77bc9c5648a7/img/default_avatar/user_blue.svg"
+data-no-avatar-image="https://bbc-object-storage--frontbucket.us-east-1.prod.public.atl-paas.net/691571b3a2d7/img/default_avatar/user_blue.svg"
 data-settings="{&quot;mentions_min_query_length&quot;:
-data-static-url="https://bbc-object-storage--frontbucket.us-east-1.prod.public.atl-paas.net/77bc9c5648a7/"
+data-static-url="https://bbc-object-storage--frontbucket.us-east-1.prod.public.atl-paas.net/691571b3a2d7/"
 data-switch-create-pullrequest-commit-status="true"
 data-unconfirmed-addresses="false"
 go
