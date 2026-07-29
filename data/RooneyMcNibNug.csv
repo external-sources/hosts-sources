@@ -7550,6 +7550,7 @@ ad-server-d10.foxnews.com
 ad-sin-01.ad.medallia.com
 ad-sin-02.ad.medallia.com
 ad-sm-01.ad.medallia.com
+ad-studio.decart.ai
 ad-switcher.com
 ad-syd-01.ad.medallia.com
 ad-syd-02.ad.medallia.com
@@ -11777,6 +11778,7 @@ api.cloud.somin.ai
 api.cloud.tencent.com
 api.cname.static.gdev.exponea.com
 api.cname.static.qa.gdev.exponea.com
+api.cogito.decart.ai
 api.cognitiveseo.com
 api.commissionfactory.com
 api.company-target.com
@@ -11800,6 +11802,7 @@ api.dataxu.com
 api.davinci.movableink.com
 api.dc1.exacttarget.com
 api.dc2.exacttarget.com
+api.decart.ai
 api.decibelinsight.net
 api.deltax.com
 api.demo.fuseplatform.net
@@ -12223,12 +12226,14 @@ api.zoominfo.com
 api.zumigo.com
 api.zylotech.com
 api.zyper.com
+api1.decart.ai
 api1.exactvisitor.com
 api1.intentiq.com
 api2-internal.harmony.eu.epsilon.com
 api2.abtasty.com
 api2.branch.io
 api2.buzzsumo.com
+api2.decart.ai
 api2.icegram.com
 api2.inrix.com
 api2.lightstep.com
@@ -12240,7 +12245,9 @@ api2.sprinklr.com
 api2.thenextad.com
 api2.zumigo.com
 api2b.versium.com
+api3.decart.ai
 api3.pricespider.com
+api4.decart.ai
 api5.buzzsumo.com
 api7.app.link
 apia.imur.tencent.com
@@ -12313,6 +12320,7 @@ apolis.attn.tv
 apollaperformancewear.attn.tv
 apollo.bloomreach.com
 apollo.io
+apollo.iteratehq.com
 apollo.optimonk.com
 apollo.umami.is
 apollo11venture.clickfunnels.com
@@ -16564,6 +16572,7 @@ blog.infusionsoft.com
 blog.insent.ai
 blog.intercom.io
 blog.iponweb.com
+blog.iteratehq.com
 blog.jasper.ai
 blog.juicer.cc
 blog.jumpshot.com
@@ -31333,6 +31342,7 @@ email.kochava.com
 email.lc.linkgraph.com
 email.leadin.com
 email.m.brax.io
+email.mail.iteratehq.com
 email.maxmind.com
 email.mg.aislelabs.com
 email.mg.everyonesocial.com
@@ -31802,6 +31812,7 @@ eoiltools-nppd.soundestlink.com
 eopenvas.eulerian.net
 eoportal.publicisgroupe.net
 eosys-sandbox.palantirfoundry.com
+eot.iteratehq.com
 eotrx.substackcdn.com
 eowl.maillist-manage.com
 eoy.soundestlink.com
@@ -39803,6 +39814,7 @@ itam.epsilon.com
 itassets.ayima.com
 itc.external-taximeter-adapter.taxi.yango.com
 itda2.techtarget.com
+iteratehq.com
 itest.tencent.com
 itest2.webcollage.net
 itest3.webcollage.net
@@ -39943,6 +39955,7 @@ j9tbn8k9cn.eoapxl.com
 ja.help.adjust.com
 ja.ucfunnel.com
 ja0k.app.link
+jabba.iteratehq.com
 jabber.eulerian.net
 jabber.infusionsoft.com
 jabber01.infusionsoft.com
@@ -46694,6 +46707,7 @@ n8n.apps.randi.adswizz.com
 n8n.cience.com
 n8n.dev.it.people.inc
 n8n.icustomer.ai
+n8n.iteratehq.com
 n9.us1.gigya.com
 n90sjv2r-android.mobile-sdk-api.intercom.io
 n90sjv2r-ios-6-11-1.mobile-sdk-api.intercom.io
@@ -48986,6 +49000,7 @@ opensource.tencent.com
 openss.qualtrics.com
 openstor.bitrix24.com
 opensystemsmedia.mktoweb.com
+opentelemetry-collector.dev.decart.ai
 opentext.everyonesocial.com
 openvpn-saas.intentiq.com
 openvpn-secure.fullcontact.com
@@ -61923,6 +61938,7 @@ t.getgist.com
 t.growthbook.io
 t.ifly.southwest.com
 t.iluv.southwest.com
+t.iteratehq.com
 t.jasper.ai
 t.learning.publicisgroupe.com
 t.mail.publicisgroupe.com
