@@ -12134,6 +12134,10 @@ api.staging.infusionsoft.app
 api.staging.powerlinks.com
 api.staging.sprig.com
 api.stagingtest2.fuseplatform.net
+api.stats.ue1.a.app.chime.aws
+api.stats.ue1.app.chime.aws
+api.stats.ue1.b.app.chime.aws
+api.stats.ue1.g.app.chime.aws
 api.stepex.co
 api.streak.com
 api.summitmedia.fuseplatform.net
@@ -45714,6 +45718,7 @@ mobileairfrance-by.accengage.net
 mobileanalytics.web.ue1.a.app.chime.aws
 mobileanalytics.web.ue1.app.chime.aws
 mobileanalytics.web.ue1.b.app.chime.aws
+mobileanalytics.web.ue1.g.app.chime.aws
 mobileapi-v2.intercom.io
 mobilecrm.accengage.net
 mobilegame.tencent.com
