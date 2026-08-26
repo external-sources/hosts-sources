@@ -31,7 +31,7 @@ data-a11y-animated-images="system"
 data-attempted-ssr="false"
 data-color-mode="auto"
 data-commit-hovercards-enabled
-data-cookie-consent-required="true"
+data-cookie-consent-required="false"
 data-discussion-hovercards-enabled
 data-initial-cookie-consent-allowed=""
 data-issue-and-pr-hovercards-enabled
