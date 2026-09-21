@@ -31,7 +31,6 @@ class="application-main
 class="d-block
 class="position-relative
 data-a11y-animated-images="system"
-data-attempted-ssr="false"
 data-color-mode="auto"
 data-commit-hovercards-enabled
 data-cookie-consent-required="false"
@@ -40,9 +39,9 @@ data-initial-cookie-consent-allowed=""
 data-issue-and-pr-hovercards-enabled
 data-locale="en"
 data-project-hovercards-enabled
-data-ssr="false"
 height="275"
 lang="en"
+partial-name="app-install-banner-partial"
 partial-name="keyboard-shortcuts-dialog"
 partial-name="marketing-footer"
 partial-name="marketing-header"
