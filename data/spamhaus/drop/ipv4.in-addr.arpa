@@ -1650,6 +1650,8 @@
 24.0.19.47.163.rpz-client-ip	CNAME	rpz-drop.
 16.0.0.50.163.rpz-ip	CNAME	.
 16.0.0.50.163.rpz-client-ip	CNAME	rpz-drop.
+23.0.188.61.163.rpz-ip	CNAME	.
+23.0.188.61.163.rpz-client-ip	CNAME	rpz-drop.
 24.0.216.61.163.rpz-ip	CNAME	.
 24.0.216.61.163.rpz-client-ip	CNAME	rpz-drop.
 16.0.0.198.163.rpz-ip	CNAME	.
