@@ -12799,6 +12799,7 @@ app.qualified.com
 app.quanticmind.com
 app.raygun.io
 app.reactful.com
+app.realtime.email
 app.regie.ai
 app.response.demandbase.com
 app.rikibo.com
@@ -14366,6 +14367,7 @@ auth.ops-test.bardeen.ai
 auth.ord.epsilon.com
 auth.prod.bardeen.ai
 auth.qa.exacttarget.com
+auth.realtime.email
 auth.s1.exacttarget.com
 auth.s1.qa1.exacttarget.com
 auth.s1.qa3.exacttarget.com
@@ -15935,6 +15937,7 @@ bestbuy.btttag.com
 bestbuy.ca.assist.247-inc.net
 bestbuy.ca.assist.wip.247-inc.net
 bestbuy.portal.assist.247-inc.net
+bestbuy.realtime.email
 bestbuy.vs.assist.247-inc.net
 bestbuy.vs.assist.wip.247-inc.net
 bestbuyca-inktoner.gst.api.igodigital.com
@@ -17853,6 +17856,7 @@ buglloc.bitrix24.com
 bugmatch.tresensa.com
 bugomaduabuchi.eskimi.com
 bugs.inrix.com
+bugsy.app.realtime.email
 build.adswizz.com
 build.cbtyus.search.epsilon.com
 build.powerlinks.com
@@ -19129,6 +19133,7 @@ casillashood.eskimi.com
 casillashood1.eskimi.com
 casino-legal-france.pushcrew.com
 casinobonusesindex.pushcrew.com
+casinoone.lat
 casio.pushcrew.com
 casnowie.infusionsoft.app
 cassara.infusionsoft.app
@@ -28813,6 +28818,7 @@ desk.personyze.com
 deskitty.getclicky.com
 deskpro.eulerian.net
 desktop.meredith.com
+desktopain.lat
 desktopmanagement.blogs.techtarget.com
 deslettres.os.tc
 desmoinesregister.localiq.com
@@ -28978,6 +28984,8 @@ dev-query.clar.io
 dev-rbc-api-data.pingdom.net
 dev-relations-internal.palantirfoundry.com
 dev-rollout-demo-test.dev.it.people.inc
+dev-rte-dashboard-api.realtime.email
+dev-rte-dashboard-ui.realtime.email
 dev-secure-viewer1.zmags.com
 dev-secure-viewer2.zmags.com
 dev-secure-viewer3.zmags.com
@@ -31182,6 +31190,7 @@ edge-ash1.cxense.com
 edge-ash2.cxense.com
 edge-ash3.cxense.com
 edge-cf-01-static.kontentino.com
+edge-countdown.realtime.email
 edge-dmpgw-db.cxense.com
 edge-dmpgw-stage.cxense.com
 edge-dmpgw.cxense.com
@@ -31189,14 +31198,18 @@ edge-ds01.cxense.com
 edge-hz2.cxense.com
 edge-hz3.cxense.com
 edge-hz4.cxense.com
+edge-liveimage.realtime.email
 edge-prod.tenjin.io
 edge-production.tenjin.io
+edge-rteimages.realtime.email
 edge-ssl.fullcontact.com
 edge-staging.tenjin.io
 edge-tks.cxense.com
 edge-tks1.cxense.com
 edge-tks2.cxense.com
 edge-tks3.cxense.com
+edge-weather.realtime.email
+edge-webscrape.realtime.email
 edge.1010data.com
 edge.beeketing.com
 edge.eu1.fullstory.com
@@ -31555,6 +31568,7 @@ eltoro.com
 elu.soundestlink.com
 eluniverso.os.tc
 elvis.meredith.com
+em-eu.realtime.email
 em-link.feathr.co
 em-testing.palantirfoundry.com
 em.acquia.com
@@ -31572,6 +31586,7 @@ em.lockerdome.com
 em.neoreach.com
 em.persado.com
 em.pingdom.com
+em.realtime.email
 em.sapient.com
 em.sellpoints.com
 em.sociabble.com
@@ -31786,6 +31801,7 @@ emeraldexpo.omeda.com
 emetriq.adverity.com
 emetriq.datatap.adverity.com
 emf0fohndj.eoapxl.com
+emfastly.realtime.email
 emichpsych.co1.qualtrics.com
 eminence.palantirfoundry.com
 emirates-middleware.moengage.com
@@ -34728,6 +34744,7 @@ fr.infusionsoft.com
 fr.iprospect.com
 fr.optable.co
 fr.publicisgroupe.net
+fr.realtime.email
 fr.shop.pricespider.com
 fr.shoppertrak.com
 fr.sidetrade.com
@@ -37625,6 +37642,9 @@ hca-qa.palantirfoundry.com
 hca.palantirfoundry.com
 hcde.co1.qualtrics.com
 hce360.palantirfoundry.com
+hchromev2-eu.realtime.email
+hchromev2-prelive-us.realtime.email
+hchromev2-us.realtime.email
 hci.co1.qualtrics.com
 hcl-dna-sandbox.palantirfoundry.com
 hcom.maillist-manage.com
@@ -38856,6 +38876,7 @@ idmatcher2-fixed.1plusx.io
 idmatcher2-prod.1plusx.io
 idnexus.cloud-dev.optable.co
 idp.outbrain.com
+idp.realtime.email
 idp.techtarget.com
 idpp.dynatrace.com
 idr.documents.intentiq.com
@@ -45062,6 +45083,7 @@ melody.palantirfoundry.com
 melody.us1.salesloft.com
 melody.us2.salesloft.com
 melody4arab.os.tc
+melodyery.lat
 meltspot.se
 meltwater.widget.insent.ai
 member.yourviews.toluna.com
@@ -50234,6 +50256,8 @@ paid96.saas.appdynamics.com
 paid97.saas.appdynamics.com
 paid98.saas.appdynamics.com
 painscale.app.link
+painteraire.lat
+paintine.lat
 paintingbusinesspro.clickfunnels.com
 paintzen.blueconic.net
 paisabazaar.app.link
@@ -52529,6 +52553,8 @@ prod-private.integrations.exponea.com
 prod-red-beta.sprinklr.com
 prod-rozerem.epsilon.com
 prod-rozeremhcp.epsilon.com
+prod-rte-dashboard-api.realtime.email
+prod-rte-dashboard-ui.realtime.email
 prod-servicedesk.publicisgroupe.net
 prod-sharing-stories.amitiza.epsilon.com
 prod-sharing-stories.us.epsilon.com
@@ -52831,6 +52857,9 @@ prosegur.widget.insent.ai
 proserve-stag.urbanairship.com
 proserve.urbanairship.com
 proservices.cmglocalsolutions.com
+proservicesv2-eu.realtime.email
+proservicesv2-staging.realtime.email
+proservicesv2-us.realtime.email
 proshearcorp.bitrix24.com
 prospect-cm.dsp.linksynergy.com
 prospect.bidalgo.com
@@ -54345,6 +54374,7 @@ realtime-audiences.us-east-1.hightouch.com
 realtime-tracker.fiksu.com
 realtime.bizzabo.com
 realtime.data.samba.tv
+realtime.email
 realtime.fdimdk.gemius.pl
 realtimeeventfeeds.viafoura.co
 realtyfriend.ylopo.com
@@ -55825,6 +55855,7 @@ rudder.fueled.io
 rudy1.click.org
 rudy1997.click.org
 rudygia.click.org
+rue21.realtime.email
 rueducommerce-by.accengage.net
 ruelala.evergage.com
 ruem-collector.pingdom.net
@@ -61030,7 +61061,14 @@ staging.analytics.bloomreach.com
 staging.analytics.elsevier.com
 staging.api.fpjs.io
 staging.api.fuseplatform.net
+staging.apiv2-eu.realtime.email
+staging.apiv2-us.realtime.email
+staging.apiv2.realtime.email
 staging.apollo.io
+staging.app-eu.realtime.email
+staging.app-us.realtime.email
+staging.app-v2-us.realtime.email
+staging.app.realtime.email
 staging.assets.ispot.tv
 staging.attn.tv
 staging.ayimainsights.com
@@ -61089,6 +61127,7 @@ staging.payment.neoreach.com
 staging.payments.neoreach.com
 staging.pbcontent.citi.epsilon.com
 staging.raven.ai
+staging.realtime.email
 staging.root.found.ee
 staging.s.fpjs.io
 staging.salesloft.com
@@ -61161,6 +61200,8 @@ stagingui.harmony.epsilon.com
 stagingui.hc.epsilon.com
 stagingui.sprinklr.com
 stagingum.harmony.epsilon.com
+stagingv2.apiv2.realtime.email
+stagingv2.app.realtime.email
 stagingvi.sprinklr.com
 stags.bluekai.comtacoda.at.atwola.comtags.bluekai.comtracker.marinsm.com
 stagwellmarketingcloud.palantirfoundry.com
@@ -64013,6 +64054,7 @@ ti63.app.link
 ti8cjobxaq.eoapxl.com
 tiaa.ca1.qualtrics.com
 tianyu.cloud.tencent.com
+tiaraid.lat
 tib.cloud.tencent.com
 tibco.saas.appdynamics.com
 tickersymbolyou.palantirfoundry.com
@@ -64686,6 +64728,7 @@ tr.hit.gemius.pl
 tr.iadsdk.apple.com
 tr.lfeeder.com
 tr.poshmark.com
+tr.realtime.email
 tr.toluna.com
 tr.vendemore.com
 tr.vizury.com
@@ -65306,6 +65349,7 @@ turbo.engageclick.com
 turing.fpapi.io
 turismodentale.pushcrew.com
 turkey.starcomww.com
+turkeyal.lat
 turkeynewsupdates.com
 turkeytumble.tresensa.com
 turkishairines.info
@@ -68241,6 +68285,7 @@ wae07.cxense.com
 wae08.cxense.com
 wae10.cxense.com
 waf-test.outbrain.com
+waf.realtime.email
 waf2.outbrain.com
 waf3.outbrain.com
 wafed.saas.appdynamics.com
@@ -72466,6 +72511,7 @@ www.re-api-ms-cdn.fusepump.com
 www.re-cdn.fusepump.com
 www.readmanga.today.cdn.ezoic.net
 www.readyai.ai
+www.realtime.email
 www.recruitment.localiq.com
 www.recs.igodigital.com
 www.redemptionapi.fedex.epsilon.com
@@ -73671,6 +73717,7 @@ www2.pendo.io
 www2.profitwell.com
 www2.publicisgroupe.net
 www2.pushcrew.com
+www2.realtime.email
 www2.refuel4.com
 www2.salesforceiq.com
 www2.salesloft.com
