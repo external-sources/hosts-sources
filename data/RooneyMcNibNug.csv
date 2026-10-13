@@ -8847,10 +8847,15 @@ af-232.alpha.rtb-dashboard.mgid.com
 af-76.alpha.rtb-dashboard.mgid.com
 af-dataservice.brand.stg.markmonitor.com
 af-gb.adskeeper.co.uk
+af-report-test.uppromote.com
+af-report.uppromote.com
+af-sc.uppromote.com
+af-test.uppromote.com
 af-web.advertica-cdn.com
 af.datalicious.com
 af.getclicky.com
 af.goodsblock.dt00.net
+af.uppromote.com
 af.zylotech.com
 af159.infusionsoft.app
 af179.infusionsoft.app
@@ -8884,6 +8889,8 @@ afcbf01a1b5a10b78ea3f64c4.litix.io
 afe-images-monzo-fiuat.cardlytics.com
 aff-a.advertica-cdn.com
 aff-aff.advertica-cdn.com
+aff-api-test.uppromote.com
+aff-api.uppromote.com
 aff-css.advertica-cdn.com
 aff.eskimi.com
 affigent-sandbox.palantirfoundry.com
@@ -8897,6 +8904,7 @@ affiliate.evyy.net
 affiliate.landr.com
 affiliate.placed.com
 affiliate.pricespider.com
+affiliate.uppromote.com
 affiliate2brightsparks.evyy.net
 affiliatebuilder.letsetcom.io
 affiliates.artisan.co
@@ -9249,6 +9257,7 @@ airflow.safegraph.com
 airflow.staging.gcp.shelfbucks.com
 airflow.staging.movableink.com
 airflow.test.gcp.shelfbucks.com
+airflow.uppromote.com
 airforcegear-us.attn.tv
 airlinecareer.blueconic.net
 airmatrix.palantirfoundry.com
@@ -11648,6 +11657,7 @@ api--dev.sezzle.seel.com
 api-2-0.spot.im
 api-2.curalate.com
 api-acc-new.deptagency.com
+api-ai-agent.uppromote.com
 api-alt.us.harmony.epsilon.com
 api-analytics.1.gdev.exponea.com
 api-analytics.2.gdev.exponea.com
@@ -11712,6 +11722,7 @@ api-external-lb.us-east-1.production.hightouch.io
 api-farmersinsurance.247-inc.net
 api-fbs.us.exponea.com
 api-fiuat.cardlytics.com
+api-forward.uppromote.com
 api-frankfurt-split.salesforceiq.com
 api-frankfurt.salesforceiq.com
 api-gateway-dev.zenapse.com
@@ -11762,11 +11773,13 @@ api-proxy.cloud.figure-eight.com
 api-proxy.iciyoqav9fyuf25r.figure-eight.com
 api-public-alt.eu.epsilon.com
 api-public-alt.us.epsilon.com
+api-public-test.uppromote.com
 api-public.cls.epsilon.com
 api-public.connect.epsilon.com
 api-public.epsilon.com
 api-public.eu.epsilon.com
 api-public.ord.epsilon.com
+api-public.uppromote.com
 api-qa.adthrive.com
 api-qa.mikmak.ai
 api-qa.refuel4.com
@@ -11802,6 +11815,7 @@ api-tbird-prod.pointinside.com
 api-temp.gimbal.com
 api-test-new.deptagency.com
 api-test.moloco.com
+api-test.uppromote.com
 api-us-east.maxmind.com
 api-us-east.zqtk.net
 api-us-west.maxmind.com
@@ -12317,6 +12331,7 @@ api.umami.is
 api.umeng.com
 api.unacast.com
 api.unifyintent.com
+api.uppromote.com
 api.urbanairship.com
 api.us-east-1.demo.agent.voice.11x.ai
 api.us-east-1.development.agent.voice.11x.ai
@@ -12878,6 +12893,7 @@ app.trueclicks.com
 app.tunnldata.com
 app.uk.exponea.com
 app.umami.is
+app.uppromote.com
 app.upvert.io
 app.us.clearout.io
 app.us1.exponea.com
@@ -16792,6 +16808,7 @@ blog.trackdrive.net
 blog.treasuredata.com
 blog.turtl.co
 blog.uat.anaplan.com
+blog.uppromote.com
 blog.vizury.com
 blog.warmly-desktop-app.layer.getwarmly.com
 blog.webmarked.net
@@ -20619,6 +20636,7 @@ changelog.geojs.io
 changelog.growthloop.com
 changelog.hightouch.io
 changelog.optimonk.com
+changelog.uppromote.com
 changepoint-stg.publicisgroupe.net
 changepoint-stg.reporting.publicisgroupe.net
 changepoint.publicisgroupe.net
@@ -20695,6 +20713,7 @@ chat-qa.streamalive.com
 chat-qa1.streamalive.com
 chat-qa2.streamalive.com
 chat-terminator.streamalive.com
+chat-test.uppromote.com
 chat-uat.streamalive.com
 chat-web.tools.randi.adswizz.com
 chat.cience.com
@@ -21944,6 +21963,7 @@ cloud.stimulsoft.com
 cloud.tencent.com
 cloud.turn.com
 cloud.umami.is
+cloud.uppromote.com
 cloud.zuant.com
 cloud2.somin.ai
 cloudability-stg.platform.cloud.precisely.com
@@ -23070,6 +23090,7 @@ cordiagrad.getambassador.com
 core-analytics-routing.internal.staging.twentythree.systems
 core-analytics-routing.staging.twentythree.systems
 core-feat-analytics-deleted-property.staging.twentythree.systems
+core-log.uppromote.com
 core-pro-1549-remove-old-analytics.staging.twentythree.systems
 core-pro-1551-old-analytics.internal.staging.twentythree.systems
 core-pro-1551-old-analytics.staging.twentythree.systems
@@ -23078,10 +23099,12 @@ core-pro-940-spot-analytics.internal.staging.twentythree.systems
 core-pro-940-spot-analytics.staging.twentythree.systems
 core-proxy-analytics.internal.staging.twentythree.systems
 core-proxy-analytics.staging.twentythree.systems
+core-test.uppromote.com
 core.clar.io
 core.deptagency.com
 core.dxglobal.com
 core.taximeter.yango.com
+core.uppromote.com
 core.yads.tech
 core006.anaplan.com
 core007.anaplan.com
@@ -31675,6 +31698,7 @@ email.test.feed.xyz
 email.tools.randi.adswizz.com
 email.track.anbernic.com
 email.turn.com
+email.uppromote.com
 email.upsell-apps.com
 email.viafoura.com
 email.yuzu.co
@@ -32082,6 +32106,7 @@ entercom.deliveryengine.adswizz.com
 entercom.gimbal.com
 enterprise-api.fullcontact.com
 enterprise-jobs.techtarget.com
+enterprise-test.uppromote.com
 enterprise.epsilon.com
 enterprise.fullcontact.com
 enterprise.metarouter.io
@@ -33469,6 +33494,7 @@ extazy97.eskimi.com
 extension-cdn.evidon.com
 extensionapi.onthe.io
 extensionmedia.omeda.com
+extensions-test.uppromote.com
 external-api.plus.tst.yango.com
 external-api.plus.yango.com
 external-appcluster-kgg1g.kochava.com
@@ -34164,6 +34190,7 @@ fihtacker.os.tc
 fiithacker.os.tc
 fiksu.com
 file.ci.cloud.tencent.com
+file.uppromote.com
 file2.api.drift.com
 filemaker1.mktoweb.com
 filepane-mac.evyy.net
@@ -37897,6 +37924,8 @@ heuver.blueconic.net
 hexaware.evergage.com
 heximail.matomo.cloud
 hexion.palantirfoundry.com
+hexpert.hextom.com
+hextom.com
 hextris.tresensa.com
 heydudesoutletsale.com
 heyo.getambassador.com
@@ -40896,6 +40925,7 @@ js.recurly.com
 js.schema-forms.org
 js.spotx.tv
 js.stimulsoft.com
+js.uppromote.com
 js.usemessages.com
 js.zi-scripts.com
 js1-test-edgenet.contentanalyticsinc.com
@@ -42809,6 +42839,7 @@ lld.dev.ad.gt
 lld2.linksynergy.com
 llextadldap-ext.fr.publicisgroupe.net
 llextadldap.fr.publicisgroupe.net
+llm.uppromote.com
 llnw.spotxcdn.com
 lloydsteadman.bitrix24.com
 llpstream.atdmt.com
@@ -44377,6 +44408,7 @@ marketo-bounce.pubnub.com
 marketob2.mktoweb.com
 marketojs.strikeiron.com
 marketplace-admin-staging.mopub.com
+marketplace-api.uppromote.com
 marketplace-registration-test-env.adverity.com
 marketplace-registration-test-env2.adverity.com
 marketplace-registration-test-env3.adverity.com
@@ -44390,6 +44422,7 @@ marketplace.infusionsoft.com
 marketplace.internal.outbrain.com
 marketplace.liveramp.com
 marketplace.nielsen.com
+marketplace.uppromote.com
 marketplaceelite.bitrix24.com
 marketplaces.infutor.com
 marketprobe.co1.qualtrics.com
@@ -45689,6 +45722,10 @@ mk.ranking.gemius.com
 mk.tencent.com
 mk230.infusionsoft.com
 mkkul.bitrix24.com
+mkp-acc-test.uppromote.com
+mkp-api-test.uppromote.com
+mkp-api.uppromote.com
+mkp-partner-api-test.uppromote.com
 mkt.acquisio.com
 mkt.e.doodle.com
 mkt.zoominfo.com
@@ -46359,6 +46396,7 @@ monitor.sisense.com
 monitor.storetail.io
 monitor.swelen.com
 monitor.ukanalytics.blue.azure.cdtapps.com
+monitor.uppromote.com
 monitor.viator.com
 monitor.wingify.com
 monitor03.service.sv1.247-inc.net
@@ -46539,6 +46577,7 @@ mozaic-sandbox.palantirfoundry.com
 mozsafety.com
 mp-ops-test.mparticle.com
 mp-pixel.mtrcs.samba.tv
+mp-report.uppromote.com
 mp.microsoft.comengine.adzerk.net
 mp2.liquidus.net
 mp3.infusionsoft.com
@@ -50168,6 +50207,7 @@ page.24supportkit.com
 page.gimbal.com
 page.rollworks.com
 page.sabio.inc
+page.uppromote.com
 pagead.x3d.recurly.com
 pagebuilder.thematic.bloomreach.com
 pageflex.eccmp.com
@@ -50478,6 +50518,7 @@ partners.repeatreturns.com
 partners.salesloft.com
 partners.thoughtspot.com
 partners.tutela.com
+partners.uppromote.com
 partners.web.analytics.yahoo.com
 partners.zoominfo.com
 partnerships.smsbump.com
@@ -50589,6 +50630,7 @@ paymentservicev2-stage-can.localiq.com
 paymentservicev2-stage-gbr.localiq.com
 paymentservicev2-stage-usa.localiq.com
 paymentsolutions.intuit.com.ssopt.net
+payout.uppromote.com
 paypal.ca.assist.247-inc.net
 paypal.ca.assist.wip.247-inc.net
 paypal.vs.assist.247-inc.net
@@ -51223,6 +51265,7 @@ pixel-prod2.sprinklr.com
 pixel-rmk.blueknow.com
 pixel-secure.circulate.com
 pixel-test.tapad.com
+pixel-test.uppromote.com
 pixel.adsafeprotected.comengine.adzerk.net
 pixel.bn.co
 pixel.ccgateway.net
@@ -51247,6 +51290,7 @@ pixel.prfct.co
 pixel.s3xified.com
 pixel.sprinklr.com
 pixel.tapad.com
+pixel.uppromote.com
 pixel.zoominfo.com
 pixelme.growsumo.com
 pixelme.grsm.io
@@ -51522,6 +51566,7 @@ pmichael.clickfunnels.com
 pmiehxqnac.eoapxl.com
 pmllc.omeclk.com
 pmm.bn.co
+pmm.uppromote.com
 pmmcinc.widget.insent.ai
 pmmi.blueconic.net
 pmmi.omeclk.com
@@ -52983,8 +53028,10 @@ prsnlrprt.app.247-inc.net
 prsns.datatap.adverity.com
 pru-np.saas.appdynamics.com
 pruebascloud.adtuo.com
+ps-test.uppromote.com
 ps.actonsoftware.com
 ps.layer.getwarmly.com
+ps.uppromote.com
 ps.zmags.com
 ps2254.wdc.bluekai.com
 ps421.infusionsoft.com
@@ -53680,6 +53727,7 @@ qd7xwnghg2.eoapxl.com
 qddzd1dr07vzl07r1i4zm85p57z9mpmb.edns.ip-api.com
 qdhs.maillist-manage.com
 qdia7z52iq.eoapxl.com
+qdrant.uppromote.com
 qe1ssl.eccqua.publicisgroupe.net
 qe2ssl.eccqua.publicisgroupe.net
 qe4ssl.eccqua.publicisgroupe.net
@@ -58790,6 +58838,7 @@ sentry.roojoom.com
 sentry.service.exponea.com
 sentry.tamoco.com
 sentry.tools.randi.adswizz.com
+sentry.uppromote.com
 sentry.us.exponea.com
 sentry2.exponea.com
 sentry2.publicisgroupe.net
@@ -60449,6 +60498,7 @@ sonar.epsilon.com
 sonar.idealspot.com
 sonar.pier.epsilon.com
 sonar.streamalive.com
+sonar.uppromote.com
 sonar6.mktoweb.com
 sonarapidev.fedex.epsilon.com
 sonarapidev.fedex2.epsilon.com
@@ -60765,6 +60815,7 @@ squarefrog.grsm.io
 squareonemea.bitrix24.com
 squaretrade.bitrix24.com
 squawalpine.evergage.com
+squeak.posthog.com
 sr-atl1.turn.com
 sr-hkg1.turn.com
 sr-sjc2.turn.com
@@ -62172,6 +62223,7 @@ superset-test.data.moloco.com
 superset.internal.intercom.io
 superset.invibes.com
 superset.storetail.io
+superset.uppromote.com
 superspacecop.tresensa.com
 supertag.datalicious.com
 supervision.technirex.comphl.blueconic.net
@@ -66216,6 +66268,8 @@ upanel.iponweb.com
 upay-api.svip.jiguang.cn
 upc.co1.qualtrics.com
 upcbroadband.eu.qualtrics.com
+upcreator-api.uppromote.com
+upcreator.uppromote.com
 update-company-size.layer.getwarmly.com
 update-gcp.layer.getwarmly.com
 update.ap.lijit.com
@@ -66270,6 +66324,7 @@ uploads.feed.xyz
 uploads.zingtree.com
 uponor-demo.10duke.com
 uportland.qualtrics.com
+uppromote.com
 uppy.marketmuse.com
 uprank.io
 upredict-dev.iponweb.com
@@ -73354,6 +73409,7 @@ www.uoptimize-staging.iponweb.com
 www.upanel.iponweb.com
 www.update-gcp.layer.getwarmly.com
 www.update.publicisgroupe.net
+www.uppromote.com
 www.uprank.io
 www.upredict-dev.iponweb.com
 www.upredict.iponweb.com
