@@ -2005,6 +2005,7 @@
 17f23266bf192339e6f16671e15fe700.nrb.footprintdns.com
 17fc3f6b55ea57c7308fac24ccbc4c00.nrb.footprintdns.com
 17fu5k1n8tpgcgaj3l8b3ppgu.litix.io
+17track.com
 17z6.app.link
 18-events.olark.com
 18.click.tx.remote.co
@@ -4102,6 +4103,7 @@
 497-geh-430.mktoresp.com
 497-weg-160.mktoresp.com
 497064e34b8ddc818ad664a4543edc00.nrb.footprintdns.com
+49739830.decagon.ai
 498-async.olark.com
 499-ibc-677.mktoweb.com
 499-lgh-660.mktoresp.com
@@ -7340,6 +7342,7 @@ accounts.backoffice.fpjs.io
 accounts.battlegroundai.com
 accounts.bighappy.co
 accounts.datalicious.com
+accounts.decagon.ai
 accounts.dscvr.1010data.com
 accounts.iadvize.com
 accounts.marketmuse.com
@@ -10668,7 +10671,11 @@ amex-test-bcr-2way-response.epsilon.com
 amex-tmp-uat.epsilon.com
 amex-tmp-uat2.epsilon.com
 amex-tmp-uat4.epsilon.com
+amex.api-staging.decagon.ai
+amex.api.decagon.ai
+amex.decagon.ai
 amex.movableink.com
+amex.voice.api-staging.decagon.ai
 amexgenai.palantirfoundry.com
 amexwl-mercury-axp.epsilon.com
 amexwl-mercury-comarch.epsilon.com
@@ -11326,6 +11333,7 @@ annieselke.attn.tv
 annieskitclub.attn.tv
 annodominination.clickfunnels.com
 annotation.cloud.figure-eight.com
+annotation.decagon.ai
 annotation.iciyoqav9fyuf25r.figure-eight.com
 annotation.synthesio.com
 announcement.aaaecommerce.com
@@ -11797,11 +11805,15 @@ api-secure.circulate.com
 api-smtp-beta.brevo.com
 api-sofiiamarusyk.aisdr.com
 api-ssl.demandbase.com
+api-staging-lb.decagon.ai
 api-staging.connect.bloomreach.com
+api-staging.decagon.ai
 api-staging.klue.com
 api-staging.locatorx.com
 api-staging.sprig.com
 api-staging.staging.sprig.com
+api-staging.us-east1.decagon.ai
+api-staging.us-west1.decagon.ai
 api-staples.pointinside.com
 api-stg.battleground.ai
 api-stg.cloud.precisely.com
@@ -11879,6 +11891,7 @@ api.atdmt.com
 api.atlas-dev.xmode.io
 api.atlas.xmode.io
 api.audiencediscovery.innovation.abtasty.com
+api.auth.decagon.ai
 api.autopilothq.com
 api.avocet.io
 api.aws-dev.growthloop.com
@@ -11947,6 +11960,7 @@ api.dataxu.com
 api.davinci.movableink.com
 api.dc1.exacttarget.com
 api.dc2.exacttarget.com
+api.decagon.ai
 api.decart.ai
 api.decibelinsight.net
 api.deltax.com
@@ -12337,6 +12351,8 @@ api.us-east-1.demo.agent.voice.11x.ai
 api.us-east-1.development.agent.voice.11x.ai
 api.us-east-1.hightouch.com
 api.us-east-1.production.agent.voice.11x.ai
+api.us-east1.decagon.ai
+api.us-west1.decagon.ai
 api.us.clearout.io
 api.us1.automate.precisely.com
 api.us1.exponea.com
@@ -13275,6 +13291,7 @@ arbo.hit.gemius.pl
 arborgold.infusionsoft.app
 arbury.calltracks.com
 arc-status.exponea.com
+arc.internal.decagon.ai
 arcadia-api.exponea.com
 arcadia-cdn.exponea.com
 arcadia.attn.tv
@@ -14159,8 +14176,10 @@ au-syd-1.pro.ip-api.com
 au.abtasty.com
 au.ads.adgreetz.com
 au.alchemer.com
+au.api.decagon.ai
 au.apk.umeng.com
 au.audience.newscgp.com
+au.decagon.ai
 au.deptagency.com
 au.download.windowsupdate.comengine.adzerk.net
 au.geojs.io
@@ -14168,8 +14187,10 @@ au.pixel.newscgp.com
 au.shop.pricespider.com
 au.shoppertrak.com
 au.skai.io
+au.staging.decagon.ai
 au.tags.newscgp.com
 au.umeng.com
+au.voice.api.decagon.ai
 au1.qualtrics.com
 au111.infusionsoft.app
 au124.infusionsoft.app
@@ -14360,6 +14381,7 @@ auth.brevo.com
 auth.cloud.precisely.com
 auth.cls.epsilon.com
 auth.connatix.com
+auth.decagon.ai
 auth.dev.infusionsoft.app
 auth.dev.marketmuse.com
 auth.dev1.elvis.meredith.com
@@ -15715,6 +15737,7 @@ bcsoxzhcr9.eoapxl.com
 bcw468.infusionsoft.app
 bcwinstitute.infusionsoft.app
 bcx.omeclk.com
+bd.spot.im
 bd.tapad.com
 bd0ux.r.ag.d.sendibm3.com
 bd1.cloud-dev.optable.co
@@ -16457,6 +16480,7 @@ billy-dev.cwis.red.azure.cdtapps.com
 billy-test.cwis.red.azure.cdtapps.com
 billydarr.clickfunnels.com
 billygeneismarketing.clickfunnels.com
+bilt-loader.decagon.ai
 biltong.palantirfoundry.com
 bimbostone.eskimi.com
 bin444.infusionsoft.app
@@ -16516,6 +16540,7 @@ bistaging.pricespider.com
 bistromd.mktoweb.com
 bitam.com
 bitanalysis.net
+bitbucket.internal.decagon.ai
 bitcoinen.pushcrew.com
 bitcoinmillionsda.pushcrew.com
 bitconio.pushcrew.com
@@ -20384,6 +20409,7 @@ cfbokstcowboys.lockerdome.com
 cfbosubuckeyes.lockerdome.com
 cfbtexlonghorns.lockerdome.com
 cfc-b04.na1.hubspotlinks.com
+cfcdn.17track.com
 cfda.centerfield.com
 cfduid.privy.com
 cfduiddb11c2bf64fab97d1f50ce3f028a948e51563211618.mailerlite.com
@@ -20706,6 +20732,7 @@ chasingfireflies.btttag.com
 chasingmarkets.pushcrew.com
 chat-cdn.bc0a.com
 chat-cf.bc0a.com
+chat-demo.decagon.ai
 chat-demo.sprinklr.com
 chat-dev.cience.com
 chat-qa-cdn.bc0a.com
@@ -20716,9 +20743,12 @@ chat-terminator.streamalive.com
 chat-test.uppromote.com
 chat-uat.streamalive.com
 chat-web.tools.randi.adswizz.com
+chat.api-staging.us-west1.decagon.ai
+chat.api.us-west1.decagon.ai
 chat.cience.com
 chat.cloud.somin.ai
 chat.cxense.com
+chat.decagon.ai
 chat.eskimi.com
 chat.outbrain.com
 chat.preproduction.tollbit.com
@@ -21511,6 +21541,7 @@ cleohpatra-sandbox.palantirfoundry.com
 cleossecret.storehippo.com
 clerk.backoffice.fpjs.io
 clerk.battlegroundai.com
+clerk.decagon.ai
 clerk.getclicky.com
 clerk.marketmuse.com
 clerk.spara.co
@@ -22588,6 +22619,7 @@ comcast-xfinity-lower.saas.appdynamics.com
 comcast.palantirfoundry.com
 comcast.wurl.com
 comcastresidentialservices.tt.omtrdc.net
+comcdn.17track.com
 comcluster.cxense.com
 come.nexac.comengine.adzerk.net
 comengine.adzerk.net
@@ -22647,6 +22679,7 @@ community.powr.io
 community.precisely.com
 community.regie.ai
 community.smartlook.com
+community.spot.im
 community.sprinklr.com
 community.stage.anaplan.com
 community.treasuredata.com
@@ -23596,6 +23629,7 @@ coty.sprinklr.com
 couleur3.app.link
 council.ca1.qualtrics.com
 counselorsconcierge.clickfunnels.com
+count.perplexity.ai
 counter.gemius.pl
 counter.minute.ly
 counter.powr.io
@@ -28483,6 +28517,9 @@ debug-revert.alpha.bank.mgid.com
 debug.ioa.tencent.com
 debug.movies.yango.com
 debugconf.calldorado.com
+deca-corp-sandbox.internal.decagon.ai
+deca-corp.internal.decagon.ai
+decagon.ai
 decathlon.bitrix24.com
 dechertllp.palantirfoundry.com
 decho-sandbox.palantirfoundry.com
@@ -29921,6 +29958,7 @@ docker-registry.alfred-dev.stepex.co
 docker-registry.found.ee
 docker.powerlinks.com
 docker.umami.is
+docs-auth.decagon.ai
 docs-dev-lb.treasuredata.com
 docs-dev.treasuredata.com
 docs-dev1.treasuredata.com
@@ -29935,7 +29973,10 @@ docs-git-master.vercel.hightouch.io
 docs-git-match-booster-add-faq.vercel.hightouch.com
 docs-git-search-hide-snowflake-destination.vercel.hightouch.com
 docs-git-vale-action-fix.vercel.hightouch.com
+docs-internal-auth.decagon.ai
+docs-internal.decagon.ai
 docs-internal.emplifi.io
+docs-oauth.decagon.ai
 docs-production.treasuredata.com
 docs-staging.ubid.iponweb.com
 docs-testenv.treasuredata.com
@@ -30850,6 +30891,7 @@ e2e-stripe-checkout-page.layer.getwarmly.com
 e2e-tests.k8s.engagement.bloomreach.com
 e2e-update-company-size.layer.getwarmly.com
 e2e-zoom-api.layer.getwarmly.com
+e2e.decagon.ai
 e2e.dstillery.com
 e2e3b8ad26eee88c65eec003a.litix.io
 e2k10.infusionsoft.com
@@ -31630,8 +31672,10 @@ em.sociabble.com
 em.tencent.com
 em.urbanairship.com
 em101.infusionsoft.com
+em2658.decagon.ai
 em310.infusionsoft.com
 em3585.crayon.co
+em785.decagon.ai
 ema.mktoweb.com
 email-api.qa.wknd.ai
 email-blast.powr.io
@@ -31645,6 +31689,7 @@ email-signature.deptagency.com
 email-signature.sprig.com
 email-stg.cas.cloud.precisely.com
 email-system.mc.pardot.com
+email.17track.com
 email.adswizz.com
 email.apollo.io
 email.bant.io
@@ -31653,6 +31698,7 @@ email.buzzstream.com
 email.circlebackemail.appboy.com
 email.connatix.com
 email.custora.com
+email.demo.decagon.ai
 email.email.hyattic.com
 email.email.upsell-apps.com
 email.epsilon.com
@@ -32060,6 +32106,7 @@ engineering.anaplan.com
 engineering.bloomreach.com
 engineering.brevo.com
 engineering.convertkit.com
+engineering.decagon.ai
 engineering.deltax.com
 engineering.intercom.io
 engineering.near.co
@@ -32785,27 +32832,40 @@ eu-west1.siem.exponea.com
 eu-zumi.cxsearch.cxense.com
 eu.adtelligent.com
 eu.api-gateway.smartlook.com
+eu.api-staging.decagon.ai
+eu.api.decagon.ai
+eu.api.europe-west1.decagon.ai
 eu.api.inrix.com
 eu.asas.yango.com
 eu.cdn5.onthe.io
+eu.decagon.ai
 eu.evm1.stackadapt.com
 eu.exe.bid
+eu.fivetran-export.decagon.ai
 eu.kampyle.com
 eu.liveramp.com
 eu.maillist-manage.com
 eu.mosi.api.inrix.com
 eu.mouseflow.com
 eu.prod.inference.ai.algolia.com
+eu.proxy.dev.decagon.ai
 eu.qualtrics.com
 eu.search.blue.cdtapps.com
 eu.snapengage.com
 eu.socialannex.com
+eu.socket.europe-west1.decagon.ai
 eu.spectrum.precisely.com
+eu.staging.decagon.ai
+eu.temp-clerk.decagon.ai
 eu.tts.inrix.com
 eu.turn.iq.doubleverify.com
 eu.umami.is
 eu.v8.cdn.onthe.io
+eu.voice.api-staging.decagon.ai
+eu.voice.api.decagon.ai
+eu.voice.api.europe-west1.decagon.ai
 eu.walkbase.com
+eu.workos-pilot.decagon.ai
 eu.zingtree.com
 eu.zmags.com
 eu01-01-development.reporting.eu01.treasuredata.com
@@ -33500,6 +33560,7 @@ external-api.plus.yango.com
 external-appcluster-kgg1g.kochava.com
 external-appcluster-kp10g.kochava.com
 external-appcluster-kp1g.kochava.com
+external-share.decagon.ai
 external-test.adthrive.com
 external-webapi-uat-dell.epsilon.com
 external.card-proxy.diehard.test.yango.com
@@ -35985,6 +36046,7 @@ gateway.dynamicyield.com
 gateway.epsilon.com
 gateway.open.umeng.com
 gateway.preproduction.tollbit.com
+gateway.spot.im
 gateway.tollbit.com
 gateway.umami.is
 gateway.unityads.unity3d.com
@@ -37241,6 +37303,7 @@ grocerycouponnetwork.pushcrew.com
 grokk.idealspot.com
 groopdealz.evyy.net
 groove.adtheorent.com
+groove.decagon.ai
 groove.hginsights.com
 groove.humansecurity.com
 groove.wurl.com
@@ -37667,6 +37730,8 @@ hb2.adtelligent.com
 hb2.spotim.market
 hb231.infusionsoft.com
 hbc.co1.qualtrics.com
+hbcdn.spot.im
+hbdyn.spot.im
 hbevents.1rx.io
 hbg.meltspot.se
 hbmp-prebid-server.adtelligent.com
@@ -39545,6 +39610,7 @@ info.skai.io
 info.skyhook.com
 info.smartbugmedia.com
 info.snapengage.com
+info.spot.im
 info.sprinklr.com
 info.thatsnoble.com
 info.thoughtspot.com
@@ -39963,6 +40029,7 @@ internal.calldorado.com
 internal.calltracks.com
 internal.cience.com
 internal.cognitiveseo.com
+internal.decagon.ai
 internal.east.fullstory.com
 internal.eks.us-west-2.alpha.adswizz.com
 internal.eks2.eu-west-1.data-processing.adswizz.com
@@ -43892,6 +43959,7 @@ mail.cognitiveseo.com
 mail.coley87ns2.click.org
 mail.cuebiq.com
 mail.cxense.com
+mail.decagon.ai
 mail.dev-performanceapps.iprospect.com
 mail.div.show
 mail.dndmelectrical.co.za
@@ -45193,6 +45261,7 @@ mensa.iad.appboy.com
 mentos.channelsight.com
 menyob.predictive-dev.anaplan.com
 menzis.blueconic.net
+meow.spot.im
 meraki.aislelabs.com
 mercari.palantirfoundry.com
 mercato.belladati.com
@@ -45269,6 +45338,12 @@ metabase.tools.randi.adswizz.com
 metabase2.adtuo.com
 metacog.com
 metaconstellation.palantirfoundry.com
+metadata-au.decagon.ai
+metadata-dev-au.decagon.ai
+metadata-dev-eu.decagon.ai
+metadata-dev.decagon.ai
+metadata-eu.decagon.ai
+metadata.decagon.ai
 metadata.widgetbot.io
 metagaua.hit.gemius.pl
 metallographyworldcorp.bitrix24.com
@@ -45314,6 +45389,7 @@ metrics.cdata.com
 metrics.cdn-5.convertexperiments.com
 metrics.claspws.tv
 metrics.convertexperiments.com
+metrics.cursor.sh
 metrics.cvshealth.com
 metrics.datadome.co
 metrics.dmx.districtm.io
@@ -46353,6 +46429,8 @@ mondarigloo.iad-03.braze.com
 mondeterra.storehippo.com
 mondotv-mondotvkids-1-it.samsung.wurl.com
 monese.app.link
+monetization.spot.im
+monetizationapi.spot.im
 money.bhaskar.com.cdn.ezoic.net
 money7ns1.click.org
 money91.app.link
@@ -49239,6 +49317,7 @@ offers.factual.com
 offers.pushcrew.com
 offers.researchnow.com
 offers.simplereach.com
+offers.spot.im
 offers.synthesio.com
 offers.tealium.com
 offerservice-qa-aus.localiq.com
@@ -49837,6 +49916,8 @@ origin-schwab.ui.hc.epsilon.com
 origin-secure.insightexpressai.com
 origin-secure.meredith.com
 origin-secure.static.meredith.com
+origin-staging-eu.decagon.ai
+origin-staging-us.decagon.ai
 origin-staging.sprig.com
 origin-test.secure.meredith.com
 origin-test.secure.static.meredith.com
@@ -50735,6 +50816,7 @@ pch.evergage.com
 pchaj5597jsjk1a88uykjx1pmlxebq8t.edns.ip-api.com
 pci-static01.front.hosting.sv1.247-inc.net
 pci-static02.front.hosting.sv1.247-inc.net
+pci.api.decagon.ai
 pci.raven.ai
 pcis.maillist-manage.com
 pciuk.raven.ai
@@ -52447,6 +52529,7 @@ preview-yogiyo.rmp-portal.moloco.com
 preview.adtheorent.com
 preview.analytics.aeonmedia.co
 preview.convertkit.com
+preview.decagon.ai
 preview.embeddables.com
 preview.geoframe.eltoro.com
 preview.iperceptions.com
@@ -52999,6 +53082,7 @@ proxy-test.embeddables.com
 proxy.alex-testing.fueled.io
 proxy.balihoo.com
 proxy.dev.balihoo.com
+proxy.dev.decagon.ai
 proxy.embeddables.com
 proxy.mob.maps.yango.com
 proxy.sether.com
@@ -55953,6 +56037,7 @@ rundeck.teleport.storyblok.com
 rundeck2.iadvize.com
 rune.palantirfoundry.com
 runitperformance.lockerdome.com
+runlayer.decagon.ai
 runlifestylepreneurs.clickfunnels.com
 runmyprocess.widget.insent.ai
 runner.panamplify.com
@@ -58241,6 +58326,7 @@ script.crazyegg.com
 script.onfocus.io
 scripts.beeketing.com
 scripts.demandbase.com
+scripts.internal.decagon.ai
 scripts.simpleanalyticscdn.com
 scripts.sophus3.com
 scripttags.justuno.com
@@ -59174,6 +59260,7 @@ share.americandirections.com
 share.beop.io
 share.driftt.com
 share.everyonesocial.com
+share.external.decagon.ai
 share.gumgum.iq.doubleverify.com
 share.hginsights.com
 share.intercom.io
@@ -60395,6 +60482,8 @@ sock.s10.exacttarget.com
 sock.s50.exacttarget.com
 socket-io.zappi.io
 socket.letconvert.com
+socket.us-east1.decagon.ai
+socket.us-west1.decagon.ai
 socksaddict.privy.com
 socleversocial.com
 soco.palantirfoundry.com
@@ -60741,6 +60830,7 @@ sportstalkflorida.lockerdome.com
 sportsunlimited.evergage.com
 sportswire.localiq.com
 sposiamocirisparmiando.pushcrew.com
+spot.im
 spotbeds.bitrix24.com
 spotfire.evergage.com
 spotify.ads.placeiq.com
@@ -61093,6 +61183,7 @@ staging-pb.vizury.com
 staging-reports.bighappy.co
 staging-snap.app.bloomreach.com
 staging-status.apollo.io
+staging-status.decagon.ai
 staging-stockx.rmp-portal.moloco.com
 staging-suggest.bloomreach.com
 staging-tableau.insent.ai
@@ -61160,6 +61251,7 @@ staging.cmun.it
 staging.crayon.co
 staging.creators.neoreach.com
 staging.data-service.ispot.tv
+staging.decagon.ai
 staging.digitaldesign.epsilon.com
 staging.dmc.epsilon.com
 staging.exchange.movableink.com
@@ -61645,6 +61737,7 @@ status.convertkit.com
 status.crimsonhexagon.com
 status.crowdtangle.com
 status.dataxu.com
+status.decagon.ai
 status.demandbase.com
 status.doorbell.io
 status.econda.de
@@ -63534,6 +63627,7 @@ telushealth.palantirfoundry.com
 temenos.saas.appdynamics.com
 temenos.turtl.co
 temp-api.dc1.exacttarget.com
+temp-clerk.decagon.ai
 temp.gimbal.com
 template.invibes.com
 template.smartbugmedia.com
@@ -64827,6 +64921,7 @@ track.bigbrain.me
 track.blueknow.com
 track.chorus.ai
 track.cigna.com
+track.consensus.app
 track.convertexperiments.com
 track.crystalbloom.bid
 track.customer.io
@@ -65278,6 +65373,7 @@ trust.apollo.io
 trust.bloomreach.com
 trust.clearout.io
 trust.countly.com
+trust.decagon.ai
 trust.everyonesocial.com
 trust.forethought.ai
 trust.humansecurity.com
@@ -66374,11 +66470,13 @@ url.superawesome.com
 url1125.maritz.com
 url1177.zoominfo.com
 url1860.fullcontact.com
+url2535.decagon.ai
 url2629.indicative.com
 url2png.tools.randi.adswizz.com
 url7100.pathfactory.com
 url7975.okendo.io
 url8257.fattail.com
+url8594.decagon.ai
 url8670.dynamicyield.com
 url8697.indicative.com
 urlanalyzer.jumpshot.com
@@ -66783,6 +66881,7 @@ us.prod.inference.ai.algolia.com
 us.publicisgroupe.net
 us.qualtrics.com
 us.smartlook.com
+us.socket.decagon.ai
 us.spacenk.com.ssopt.net
 us.spectrum.precisely.com
 us.tags.newscgp.com
@@ -67869,7 +67968,13 @@ vodafonecoua.push.world
 voeux2009.publicisgroupe.net
 voeux2010.fr.publicisgroupe.net
 voice-recommender.apps.randi.adswizz.com
+voice-staging.api.us-west1.decagon.ai
+voice-us-backup.api.decagon.ai
 voice.247-inc.net
+voice.api-staging.decagon.ai
+voice.api.decagon.ai
+voice.api.us-east1.decagon.ai
+voice.api.us-west1.decagon.ai
 voice.dynatrace.com
 voice.eskimi.com
 voice.jasper.ai
@@ -67990,6 +68095,7 @@ vpn.pricespider.com
 vpn.raygun.io
 vpn.revealmobile.com
 vpn.ro.adswizz.com
+vpn.spot.im
 vpn.staging.found.ee
 vpn.tencent.com
 vpn.viralnation.com
@@ -68775,12 +68881,15 @@ webercoe.co1.qualtrics.com
 webetoro.com
 webflow-en.zingtree.com
 webflow-eu.zingtree.com
+webflow-test.decagon.ai
+webflow.decagon.ai
 webflow.flodesk.com
 webflow.opensend.com
 webflow.safegraph.com
 webflow.sleeknote.com
 webflow.sprig.com
 webflow.zingtree.com
+webflow2.decagon.ai
 webforms.regie.ai
 webfx.cognitiveseo.com
 webfx.stimulsoft.com
@@ -69153,6 +69262,7 @@ widevine-proxy.testing.movies.yango.com
 widget-mediator.zopim.com
 widget-pixels.outbrain.com
 widget.beop.io
+widget.fotomoto.com
 widget.getgist.com
 widget.insent.ai
 widget.intercom.io
@@ -69446,6 +69556,7 @@ workflows.6sense.com
 workfront.everyonesocial.com
 working.tencent.com
 workiva.co1.qualtrics.com
+workos-pilot.decagon.ai
 workplace.regie.ai
 works.tencent.com
 workshop.adictiz.com
@@ -70071,6 +70182,7 @@ wwq0.app.link
 wws.palantirfoundry.com
 wwspkk7y3drnzrnw6eva4bfv1omc92p5.edns.ip-api.com
 wwt-sandbox.palantirfoundry.com
+www-1.17track.com
 www-4.pingdom.net
 www-assets.fusepump.com
 www-be0aab0c.moengage.com
@@ -70108,6 +70220,7 @@ www.10duke.com
 www.11x.ai
 www.1403415535.layer.getwarmly.com
 www.17d98a5d.akstat.io
+www.17track.com
 www.1pixel.red
 www.1plusx.com
 www.1plusx.io
@@ -71023,6 +71136,7 @@ www.dcf.nj.dream.epsilon.com
 www.dcsg.qualtrics.com
 www.de1wcorpnot01.corp.epsilon.com
 www.dealtool.sapient.com
+www.decagon.ai
 www.defect.dynatrace.com
 www.dejongintra.nl.ssopt.net
 www.dekelmi.eskimi.com
