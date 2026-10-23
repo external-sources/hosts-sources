@@ -11756,6 +11756,7 @@ api-internal.harmony.epsilon.com
 api-internal.harmony.eu.epsilon.com
 api-internal.hc.epsilon.com
 api-intg.keap.com
+api-latest.appmate.io
 api-latest.lightstep.com
 api-lion-prod.pointinside.com
 api-lowes.pointinside.com
@@ -11807,6 +11808,7 @@ api-secure.circulate.com
 api-smtp-beta.brevo.com
 api-sofiiamarusyk.aisdr.com
 api-ssl.demandbase.com
+api-stable.appmate.io
 api-staging-lb.decagon.ai
 api-staging.connect.bloomreach.com
 api-staging.decagon.ai
@@ -11885,6 +11887,7 @@ api.ap-southeast-2.production.agent.voice.11x.ai
 api.api.omnitagjs.com
 api.appboy.com
 api.appdynamics.com
+api.appmate.io
 api.appnexus.com
 api.apptentive.com
 api.armtest.brax.io
@@ -12552,6 +12555,7 @@ app-gusw1int001.marketo.com
 app-gusw1int002.marketo.com
 app-gusw1qe001.marketo.com
 app-js.granify.com
+app-latest.appmate.io
 app-marynasaikun.aisdr.com
 app-mongomigration-test.zoominfo.com
 app-named1.sprinklr.com
@@ -12595,6 +12599,7 @@ app-sj16.marketo.com
 app-smtp-beta.brevo.com
 app-smtp.brevo.com
 app-sofiiamarusyk.aisdr.com
+app-stable.appmate.io
 app-stage.optibase.io
 app-stage.sezzle.seel.com
 app-staging-alt.jasper.ai
@@ -12656,6 +12661,7 @@ app.anaplan.com
 app.aori.com
 app.api.dev.jivox.com
 app.api.jivox.com
+app.appmate.io
 app.appnexus.com
 app.aptrinsic.com
 app.artisan.co
@@ -13029,6 +13035,7 @@ applytics.nordvpn.com
 appmagic.clickfunnels.com
 appmanager.s1.exacttarget.com
 appmanager.s4.exacttarget.com
+appmate.io
 appneta.mktoweb.com
 appnew.doorboost.com
 appnexus-bkapp.bluekai.com
@@ -19869,6 +19876,7 @@ cdn.adverity.com
 cdn.aimerce.ai
 cdn.app.metorik.com
 cdn.appdynamics.com
+cdn.appmate.io
 cdn.arrivalist.com
 cdn.atdmt.com
 cdn.avocet.io
@@ -21977,6 +21985,7 @@ cloud.acquia.com
 cloud.adparlor.com
 cloud.adtuo.com
 cloud.aori.com
+cloud.appmate.io
 cloud.docs.metarouter.io
 cloud.doorboost.com
 cloud.e.outbrain.com
@@ -27547,6 +27556,7 @@ dashboard.adop.fuseplatform.net
 dashboard.adspert.net
 dashboard.alfa.smartlook.com
 dashboard.alfaz.smartlook.com
+dashboard.appmate.io
 dashboard.areal.ai
 dashboard.bauer-media.fuseplatform.net
 dashboard.beta.smartlook.com
@@ -64583,6 +64593,7 @@ tool-fitness.eulerian.net
 tool.pingdom.com
 toolbox-demand.internal.outbrain.com
 toolbox.internal.outbrain.com
+toolkit.appmate.io
 tools-dash.eskimi.com
 tools-dev.bloomreach.com
 tools-integrations.exponea.com
@@ -67256,6 +67267,7 @@ v1z1m3j3l7.mailerlite.com
 v2-dev.leadpipe.com
 v2.app-staging.klue.com
 v2.app.klue.com
+v2.appmate.io
 v2.areal.ai
 v2.callback.cloud.somin.ai
 v2.dc.yieldify.com
@@ -70591,6 +70603,7 @@ www.api-public.epsilon.com
 www.api-target.pointinside.com
 www.api.6sense.com
 www.api.appboy.com
+www.api.appmate.io
 www.api.apptentive.com
 www.api.audiencediscovery.innovation.abtasty.com
 www.api.avocet.io
@@ -70675,6 +70688,7 @@ www.appcitrixgateway.citi.epsilon.com
 www.appdynamics.com
 www.apperture.cience.com
 www.application.partnerstack.com
+www.appmate.io
 www.appnexus.com
 www.appnexus.net
 www.apps-algn.epsilon.com
