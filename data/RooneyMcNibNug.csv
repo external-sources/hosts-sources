@@ -2136,6 +2136,7 @@
 1ao34-5r5f5.ads.tremorhub.com
 1b490e4b4dcc31fda4bf81f932881100.nrb.footprintdns.com
 1b9047a53f5b208842ae07a37b376100.nrb.footprintdns.com
+1bd322f6925642d59b4c34a8c2a6bdfb-8a81eebba889.cdn.forter.com
 1bf786eba739ee326fe55d5a169fc160.clo.footprintdns.com
 1bhjushoua.eoapxl.com
 1c3bdd4d728983d6183e5d859.litix.io
@@ -6270,6 +6271,7 @@
 89bdeec2da44e4d7a84aaf0493275300.nrb.footprintdns.com
 89c16bb0cb743c42ca0091dfe.litix.io
 8a4315968c70d5874c96590771779200.nrb.footprintdns.com
+8a81eebba889.cdn4.forter.com
 8aa9hk8i0i.eoapxl.com
 8acba271ba064f07567a07dce8c9d0f3.ulink.adjust.com
 8aya.app.link
@@ -14141,6 +14143,7 @@ atlas.6sense.com
 atlas.infusionsoft.app
 atlas.khoros.com
 atlas.locatorx.com
+atlas.use.forter.com
 atlas.xmode.io
 atlasadcz.hit.gemius.pl
 atlasair.palantirfoundry.com
@@ -17302,6 +17305,7 @@ botc.bitrix24.com
 botd.fpapi.io
 botetimining.bitrix24.com
 botfox.clickfunnels.com
+bots-api.forter.com
 botstore-udaq.soundestlink.com
 bottle.onthe.io
 bottlehere.com
@@ -19969,6 +19973,7 @@ cdn.eproof.com
 cdn.eu.pendo.io
 cdn.eu1.cloud.precisely.com
 cdn.eu1.exponea.com
+cdn.euw.forter.com
 cdn.events.hightouch.com
 cdn.evergage.com
 cdn.evidon.com
@@ -20140,6 +20145,8 @@ cdn.wt-api.top
 cdn.zenapse.com
 cdn.zylolabs.com
 cdn.zylotech.com
+cdn0.euw.forter.com
+cdn0.forter.com
 cdn01.iperceptions.com
 cdn01.survicate.com
 cdn02.survicate.com
@@ -20160,9 +20167,13 @@ cdn1.socialannex.com
 cdn1.storehippo.com
 cdn10.abtasty.com
 cdn11.abtasty.com
+cdn11.euw.forter.com
+cdn11.forter.com
 cdn12.abtasty.com
+cdn123.forter.com
 cdn13.abtasty.com
 cdn14.abtasty.com
+cdn14.forter.com
 cdn1ap.socialannex.com
 cdn1eu.socialannex.com
 cdn2.abtasty.com
@@ -20180,7 +20191,9 @@ cdn2.vibetrace.com
 cdn3-origin.pricespider.com
 cdn3.abtasty.com
 cdn3.doubleverify.com
+cdn3.euw.forter.com
 cdn3.extremereach.io
+cdn3.forter.com
 cdn3.gigya.com
 cdn3.mopub.com
 cdn3.mouseflow.com
@@ -20189,14 +20202,20 @@ cdn3.prod.sf1.do.pushcrew.com
 cdn3.researchnow.com
 cdn3.storehippo.com
 cdn4.abtasty.com
+cdn4.forter.com
 cdn4.mopub.com
 cdn5.abtasty.com
 cdn5.mopub.com
 cdn6.abtasty.com
+cdn6.forter.com
 cdn6704.na1.hubspotlinks.com
 cdn7.abtasty.com
 cdn8.abtasty.com
+cdn8.euw.forter.com
+cdn8.forter.com
 cdn9.abtasty.com
+cdn9.euw.forter.com
+cdn9.forter.com
 cdna.ciradar.com
 cdnap.socialannex.com
 cdnapp.fuseplatform.net
@@ -40186,6 +40205,7 @@ intelius.evyy.net
 intellectual-inc.trackdrive.net
 intelligence-qa.preprod.guideline.ai
 intelligence.ayima.com
+intelligence.forter.com
 intelligence.guideline.ai
 intelligence.preprod.guideline.ai
 intelligence.techtarget.com
@@ -40505,6 +40525,7 @@ irc-relay.pingdom.com
 irc.olark.com
 ireland.demandbase.com
 irg.iocnt.net
+iris-webhooks.use.forter.com
 irishboxers.lockerdome.com
 irmediagroup.turtl.co
 irnerius.palantirfoundry.com
@@ -43789,7 +43810,6 @@ m.amex-fbo-uat2-firstbankcard.epsilon.com
 m.amex-fbo-uat2-fnbomaha.epsilon.com
 m.anaplan.com
 m.api.forter.com
-m.api.usw.forter.com
 m.banner.linksynergy.com
 m.bitrix24.com
 m.bk.tencent.com
@@ -45210,6 +45230,7 @@ mcp-test.okendo.io
 mcp.blend-ai.com
 mcp.crayon.co
 mcp.dev.blend-ai.com
+mcp.forter.com
 mcp.okendo.io
 mcp.sprig.com
 mcp.staging.flodesk.com
@@ -45608,6 +45629,7 @@ metric.ts-prod.ay.delivery
 metric.ts-stage.ay.delivery
 metrica-setup.udc.digital-cloud.medallia.com
 metrics-ingest.aws.theplatform.com
+metrics-proxy.use.forter.com
 metrics-staging.autonlp.huggingface.co
 metrics-staging.autotrain.huggingface.co
 metrics.adswizz.com
@@ -50632,6 +50654,7 @@ pages.viafoura.com
 pages.virt.boa.exacttarget.com
 pages.zignallabs.com
 pages.zmags.com
+pages09.net
 pagesdt.sisense.com
 pageseven.os.tc
 pagesjaunes-by.accengage.net
@@ -58238,6 +58261,7 @@ sbx.publicisgroupe.net
 sc-static.net
 sc.1010data.com
 sc.iasds01.comsdk.vindicosuite.com
+sc.pages09.net
 sc.sp.infinigrow.com
 sc01-mail-0001.sc01.birst.com
 sc01-mail-0002.sc01.birst.com
@@ -71357,6 +71381,7 @@ www.cdn.o333o.com
 www.cdn.onthe.io
 www.cdn.pingdom.com
 www.cdn.volumtrk.com
+www.cdn0.euw.forter.com
 www.cdn1.lockerdome.com
 www.cdn2.lockerdome.com
 www.cdns.brsrvr.com
@@ -72800,6 +72825,7 @@ www.pages-api.infusionsoft.com
 www.pages.coveo.com
 www.pages.infusionsoft.com
 www.pages.neoreach.com
+www.pages09.net
 www.panamplify.com
 www.paragonsolutions.io
 www.partner.alignable.com
@@ -73315,6 +73341,7 @@ www.sb2ssl.bwsbx.global.publicisgroupe.net
 www.sb2ssl.bwsbx.publicisgroupe.net
 www.sb5.global.publicisgroupe.net
 www.sc.intercom.io
+www.sc.pages09.net
 www.schwab.hde-uat.epsilon.com
 www.schwab.stagingui.hc.epsilon.com
 www.scienceteens.eskimi.com
