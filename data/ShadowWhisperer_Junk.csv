@@ -34,6 +34,7 @@ aluws.acer.com
 ama-api.isappcloud.com
 amdsurveys.com
 amemv.com
+amp-endpoint2.com
 ampsvc.com
 amt-games.com
 android.apis.google.com
@@ -53,7 +54,6 @@ apidp.dell.com
 app.goo.gl
 appexnw.com
 applications.mobisystems.com
-apps.facebook.com
 apps.toshiba.com
 appsgeyser.com
 appuws.acer.com
@@ -73,7 +73,6 @@ autosug.ebay.com
 autosug.ebaystatic.com
 avastbrowser.com
 avgbrowser.com
-b-api.facebook.com
 babeltimeus.com
 badges.instagram.com
 befrugal.com
@@ -123,12 +122,9 @@ cashback-api-production.operacdn.com
 cashback.opera.com
 cast.google.com
 castcrown.com.cy
-cc-api-data.adobe.io
 ccg.lenovo.com
 ccleanerbrowser.com
-cdn-v4.amp-endpoint2.com
 cdn-wallet.now.gg
-cdn.amp-endpoint2.com
 cdn.deadtarget.info
 cdntip.com
 cdntips.net
@@ -281,8 +277,10 @@ ew1.api.cfpd.bdp.samsung.com
 experience.amd.com
 eye-able.com
 ezjoygame.com
+facebook.com
 fb-graph.asus.com
 fbd.toshiba.com
+fbpigeon.com
 fcm-stream.googleapis.com
 fcmconnection.googleapis.com
 fdg-entertainment.com
@@ -370,6 +368,7 @@ hangouts.google.com
 hardlightdev.com
 hardlightgames.com
 harpquiz.com
+hatch.metaaivm.com
 helo-app.com
 helo.com
 helo.in
@@ -470,6 +469,7 @@ mcn.lenovo.com
 mcn.lenovo.com.cn
 media.line.naver.jp
 mediaconverteronline.com
+metaaivm.com
 metadata.erabu.sony.tv
 midasplayer.com
 miniclipcf.com
@@ -520,8 +520,6 @@ nearbysharing-pa.googleapis.com
 neobrowser.ai
 netfirms.com
 netmarble.com
-ngx-v4.amp-endpoint2.com
-ngx-v6.amp-endpoint2.com
 nicepage.io
 nicequest.com
 nickcircelli.com
