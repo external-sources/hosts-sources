@@ -7515,7 +7515,6 @@ acxiomapac.com
 acz188.infusionsoft.app
 ad-001.ad.appboy.com
 ad-002.ad.appboy.com
-ad-ams1-01.ad.medallia.com
 ad-ams1-02.ad.medallia.com
 ad-assets-dev.cardlytics.com
 ad-assets.futurecdn.net
@@ -7572,11 +7571,13 @@ ad-switcher.com
 ad-syd-01.ad.medallia.com
 ad-syd-02.ad.medallia.com
 ad-targeting-prod-elb.53.localytics.com
+ad-tlv-01.ad.medallia.com
 ad-uk-01.ad.medallia.com
 ad-uk-02.ad.medallia.com
 ad-us-east.ipredictive.com
 ad-us-west.ipredictive.com
 ad-vanx.fuseplatform.net
+ad-voci-01.ad.medallia.com
 ad-vx-1.ad.medallia.com
 ad-vx-2.ad.medallia.com
 ad-yul-01.ad.medallia.com
@@ -21824,6 +21825,7 @@ clicks.biltrewards.com
 clicks.brz.toasttab.com
 clicks.contentsquare.com
 clicks.email.peacocktv.com
+clicks.email.tcgplayer.com
 clicks.everyonesocial.com
 clicks.expressvpn.com
 clicks.fiksu.com
