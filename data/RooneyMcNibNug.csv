@@ -7519,6 +7519,7 @@ acz188.infusionsoft.app
 ad-001.ad.appboy.com
 ad-002.ad.appboy.com
 ad-ams1-02.ad.medallia.com
+ad-api.gl-inet.com
 ad-assets-dev.cardlytics.com
 ad-assets.futurecdn.net
 ad-beta.flipboard.com
@@ -11068,6 +11069,7 @@ analytics.hadron.ad.gt
 analytics.hadron.dev.ad.gt
 analytics.hadron.stage.ad.gt
 analytics.halo.ad.gt
+analytics.harvard.edu
 analytics.heinens.dunnhumby.com
 analytics.hellotalk.xyz
 analytics.hioscar.com
@@ -11109,6 +11111,7 @@ analytics.nielsen.com
 analytics.nike.com
 analytics.novantas.com
 analytics.nuance.com
+analytics.onlineearning.hms.harvard.edu
 analytics.ovasko-test.gdev.exponea.com
 analytics.percolata.com
 analytics.persado.com
@@ -11937,6 +11940,7 @@ api.avocet.io
 api.aws-dev.growthloop.com
 api.aws.gimbal.com
 api.aws.growthloop.com
+api.axept.io
 api.azure-eastus.hightouch.com
 api.bam-x.com
 api.battleground.ai
@@ -12290,6 +12294,7 @@ api.sandbox-temp.gimbal.com
 api.sandbox.clearout.io
 api.sandbox.gimbal.com
 api.sandbox.inrix.com
+api.score.axept.io
 api.scraper.innovation.abtasty.com
 api.searchspring.net
 api.seevibes.com
@@ -18947,6 +18952,7 @@ campaignperformance-usa-qa.localiq.com
 campaigns.absolutdata.com
 campaigns.acast.com
 campaigns.adgreetz.com
+campaigns.agentic-os.axept.io
 campaigns.alterian.com
 campaigns.balihoo.com
 campaigns.chownow.com
@@ -21749,6 +21755,7 @@ click.facebook-research.facebookmail.com
 click.feedback.maritz.com
 click.frl-research.facebookmail.com
 click.heml.io
+click.hyatt.com
 click.inc42.com
 click.info.brighthorizons.com
 click.intrinio.com
@@ -21862,6 +21869,8 @@ clicks.imimobile.com
 clicks.justwatch.com
 clicks.m1b.viator.com
 clicks.news.ipvanish.com
+clicks.newsletter.gl-inet.com
+clicks.notify.gl-inet.com
 clicks.panareabread.com
 clicks.panerabread.com
 clicks.team.ipvanish.com
